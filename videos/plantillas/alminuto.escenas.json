@@ -2,7 +2,6 @@
   "plantilla": "alminuto",
   "duracion": 30,
   "portadaSegundo": 1,
-  "audioDesde": 18,
   "marca": "@loquepasaenunminuto",
   "escenas": [
     {
@@ -13,14 +12,7 @@
         {
           "tipo": "clip",
           "src": "clip.mp4",
-          "credito": "Vídeo: La Moncloa",
           "fundidoFin": 27,
-          "bajarEn": [
-            [
-              18,
-              26
-            ]
-          ],
           "zoom": [
             1,
             1.04
@@ -30,7 +22,8 @@
         {
           "tipo": "titularAM",
           "texto": "TITULAR DE MÁXIMO OCHO PALABRAS",
-          "fecha": "29 OCT"
+          "fecha": "29 OCT",
+          "credito": "Vídeo: La Moncloa"
         },
         {
           "tipo": "citas",
@@ -57,5 +50,5 @@
       ]
     }
   ],
-  "subDy": -310
+  "sinVoz": true
 }

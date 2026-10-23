@@ -2,7 +2,6 @@
  "plantilla": "alminuto",
  "duracion": 28.1,
  "portadaSegundo": 2,
- "audioDesde": 17.8,
  "marca": "@loquepasaenunminuto",
  "escenas": [
   {
@@ -13,13 +12,6 @@
     {
      "tipo": "clip",
      "src": "clip.mp4",
-     "credito": "Vídeo: La Moncloa · 28-10-2026",
-     "bajarEn": [
-      [
-       17.8,
-       24.1
-      ]
-     ],
      "zoom": [
       1,
       1.03
@@ -30,35 +22,66 @@
     {
      "tipo": "titularAM",
      "texto": "TRES DÍAS DE LUTO POR URDA",
-     "fecha": "29 OCT"
+     "fecha": "29 OCT",
+     "credito": "Vídeo: La Moncloa · 28-10-2026"
     },
     {
      "tipo": "citas",
      "lineas": [
       {
        "inicio": 0,
+       "fin": 2.5,
+       "texto": "Procederemos a la declaración"
+      },
+      {
+       "inicio": 2.5,
        "fin": 4.3,
-       "texto": "Procederemos a la declaración de tres días de luto oficial,"
+       "texto": "de tres días de luto oficial,"
       },
       {
        "inicio": 4.3,
-       "fin": 8.5,
-       "texto": "como hicimos también con el accidente ferroviario de Adamuz."
+       "fin": 6.7,
+       "texto": "como hicimos también con el accidente"
       },
       {
-       "inicio": 8.5,
+       "inicio": 6.7,
+       "fin": 8.45,
+       "texto": "ferroviario de Adamuz."
+      },
+      {
+       "inicio": 8.45,
        "fin": 11.9,
        "texto": "Será el día 29, el día 30 y el día 31."
       },
       {
-       "inicio": 12,
-       "fin": 14.8,
-       "texto": "Como he dicho antes, al principio de esta breve intervención,"
+       "inicio": 11.94,
+       "fin": 12.9,
+       "texto": "Como he dicho antes,"
       },
       {
-       "inicio": 14.8,
+       "inicio": 12.9,
+       "fin": 15.15,
+       "texto": "al principio de esta breve intervención,"
+      },
+      {
+       "inicio": 15.15,
        "fin": 17.7,
-       "texto": "España está de luto, abraza a sus víctimas…"
+       "texto": "España está de luto, abraza a sus víctimas"
+      },
+      {
+       "inicio": 17.7,
+       "fin": 19.75,
+       "texto": "y, desde luego, el Gobierno de España"
+      },
+      {
+       "inicio": 19.75,
+       "fin": 22.6,
+       "texto": "y todo el Estado está con las víctimas y también"
+      },
+      {
+       "inicio": 22.6,
+       "fin": 24.1,
+       "texto": "con los familiares de las mismas."
       }
      ]
     }
@@ -79,5 +102,5 @@
    ]
   }
  ],
- "subDy": -310
+ "sinVoz": true
 }

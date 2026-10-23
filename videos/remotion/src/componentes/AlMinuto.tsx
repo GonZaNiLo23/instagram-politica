@@ -4,8 +4,12 @@ import {C, F, SEGURA, SUBS} from '../tema';
 import {useEntrada, useSalida} from './util';
 import {Notas} from './Notas';
 
-/** Desplazamiento de los subtítulos (citas y voz) en Al minuto: suben sobre el pecho para dejar abajo la caja de titular. Úsalo también como subDy en escenas.json. */
-export const SUBS_DY_AM = -310;
+/** Banda inferior de Al minuto (2/5 de abajo de la pantalla, decisión 2026-10-29), por encima de la interfaz de Instagram (y <= 1500):
+ * caja de titular compacta en y=BANDA_AM.titular y subtítulos debajo en y=BANDA_AM.subs, como mucho 2 líneas
+ * (pauta de subtitulado: Netflix Timed Text Style Guide y UNE 153010 → abajo y centrados, 2 líneas, ~15-17 caracteres/s). */
+export const BANDA_AM = {titular: 1160, subs: 1318};
+/** Desplazamiento de los subtítulos de la voz (si la hay) para caer en la banda: subDy en escenas.json. */
+export const SUBS_DY_AM = BANDA_AM.subs - SUBS.y;
 
 /**
  * Formato AL MINUTO (2026-10-28; reglas en estilo/guia-estilo.md → "Formato Al minuto").
@@ -19,7 +23,7 @@ export const SUBS_DY_AM = -310;
 export const Clip: React.FC<{
   src: string; desde?: number; volumen?: number; bajarEn?: [number, number][]; volumenBajo?: number; foco?: string;
   zoom?: [number, number]; dur?: number; en?: number; credito?: string; creditoY?: number; velo?: number; fundidoFin?: number;
-}> = ({src, desde = 0, volumen = 1, bajarEn = [], volumenBajo = 0.15, foco = '50% 50%', zoom = [1, 1], dur = 10, en = 0, credito, creditoY = 1455, velo = 0.55, fundidoFin}) => {
+}> = ({src, desde = 0, volumen = 1, bajarEn = [], volumenBajo = 0.15, foco = '50% 50%', zoom = [1, 1], dur = 10, en = 0, credito, creditoY = 1500, velo = 0.55, fundidoFin}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const k = interpolate(frame, [en * fps, (en + dur) * fps], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
@@ -40,7 +44,7 @@ export const Clip: React.FC<{
       <div style={{position: 'absolute', inset: 0, overflow: 'hidden', background: C.tinta}}>
         <OffthreadVideo src={staticFile(`clips/${src}`)} startFrom={Math.round(desde * fps)} volume={vol}
           style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: foco, transform: `scale(${esc})`, transformOrigin: foco}} />
-        <div style={{position: 'absolute', inset: 0, background: `linear-gradient(180deg, rgba(20,33,61,${velo * 0.5}) 0%, rgba(20,33,61,0) 20%, rgba(20,33,61,0) 40%, rgba(20,33,61,${velo + 0.15}) 100%)`}} />
+        <div style={{position: 'absolute', inset: 0, background: `linear-gradient(180deg, rgba(20,33,61,${velo * 0.4}) 0%, rgba(20,33,61,0) 18%, rgba(20,33,61,0) 50%, rgba(20,33,61,${velo + 0.2}) 68%, rgba(20,33,61,${velo + 0.3}) 100%)`}} />
       </div>
       {credito ? <Notas lineas={[credito]} sobre="oscuro" tamano={34} y={creditoY} /> : null}
     </>
@@ -48,20 +52,25 @@ export const Clip: React.FC<{
 };
 
 /** Caja de titular fija (todo el vídeo), ABAJO para no tapar la cara (decisión 2026-10-29): etiqueta mostaza "AL MINUTO · fecha" y titular (máx. 8 palabras) en crema sobre tinta. */
-export const TitularAM: React.FC<{texto: string; fecha?: string; etiqueta?: string; y?: number; tamano?: number; en?: number}> = ({texto, fecha, etiqueta = 'AL MINUTO', y = 1200, tamano = 70, en = 0}) => {
-  // Regla de la plantilla: caja 100 % opaca desde el fotograma 1, sin fundido ni movimiento de entrada
+export const TitularAM: React.FC<{texto: string; fecha?: string; etiqueta?: string; credito?: string; y?: number; tamano?: number; en?: number}> = ({texto, fecha, etiqueta = 'AL MINUTO', credito, y = BANDA_AM.titular, tamano}) => {
+  // Una sola línea: el tamaño se ajusta al largo del titular (≈0,67 em por carácter en mayúsculas), máx. 56 px
+  const t = tamano ?? Math.min(56, Math.floor(880 / (texto.length * 0.7)));
+  // Regla de la plantilla: caja 100 % opaca desde el fotograma 1, sin fundido ni movimiento de entrada; una sola línea de titular
   return (
     <div style={{position: 'absolute', left: SEGURA.izq, top: y, width: SEGURA.ancho}}>
-      <div style={{display: 'inline-block', fontFamily: F.texto, fontWeight: 700, fontSize: 36, letterSpacing: 2, color: C.tinta, background: C.mostaza, padding: '6px 18px', borderRadius: '14px 14px 0 0'}}>
-        {etiqueta}{fecha ? <span style={{fontWeight: 600, letterSpacing: 0.5}}> · {fecha}</span> : null}
+      <div style={{display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between'}}>
+        <div style={{fontFamily: F.texto, fontWeight: 700, fontSize: 32, letterSpacing: 2, color: C.tinta, background: C.mostaza, padding: '4px 16px', borderRadius: '12px 12px 0 0', whiteSpace: 'nowrap'}}>
+          {etiqueta}{fecha ? <span style={{fontWeight: 600, letterSpacing: 0.5}}> · {fecha}</span> : null}
+        </div>
+        {credito ? <div style={{fontFamily: F.texto, fontWeight: 600, fontSize: 32, color: C.crema, padding: '0 4px 6px', whiteSpace: 'nowrap', textShadow: '0 2px 6px rgba(0,0,0,0.8)'}}>{credito}</div> : null}
       </div>
-      <div style={{fontFamily: F.titular, fontSize: tamano, lineHeight: 1.08, color: C.crema, background: C.tinta, padding: '18px 26px 22px', borderRadius: '0 22px 22px 22px', borderLeft: `10px solid ${C.mostaza}`, boxShadow: '0 12px 0 rgba(20,33,61,0.35)', textTransform: 'uppercase'}}>{texto}</div>
+      <div style={{fontFamily: F.titular, fontSize: t, lineHeight: 1.05, color: C.crema, background: C.tinta, padding: '12px 22px 14px', borderRadius: '0 18px 18px 18px', borderLeft: `10px solid ${C.mostaza}`, textTransform: 'uppercase', whiteSpace: 'nowrap', overflow: 'hidden'}}>{texto}</div>
     </div>
   );
 };
 
 /** Subtítulos literales del clip (lo que se oye), SIN el nombre de quien habla (decisión 2026-10-29). Encima de la caja de titular. Pastilla tinta en la banda de subtítulos. */
-export const Citas: React.FC<{lineas: {inicio: number; fin: number; texto: string}[]; y?: number; tamano?: number}> = ({lineas, y = SUBS.y + SUBS_DY_AM, tamano = 64}) => {
+export const Citas: React.FC<{lineas: {inicio: number; fin: number; texto: string}[]; y?: number; tamano?: number}> = ({lineas, y = BANDA_AM.subs, tamano = 60}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const t = frame / fps;
@@ -69,7 +78,7 @@ export const Citas: React.FC<{lineas: {inicio: number; fin: number; texto: strin
   if (!l) return null;
   return (
     <div style={{position: 'absolute', left: SEGURA.izq, width: SEGURA.ancho, top: y, display: 'flex', justifyContent: 'center'}}>
-      <div style={{fontFamily: F.texto, fontWeight: 700, fontSize: tamano, lineHeight: 1.22, color: C.crema, background: 'rgba(20,33,61,0.88)', padding: '12px 26px', borderRadius: 18, textAlign: 'center', maxWidth: SEGURA.ancho}}>
+      <div style={{fontFamily: F.texto, fontWeight: 700, fontSize: tamano, lineHeight: 1.2, color: C.crema, background: 'rgba(20,33,61,0.88)', padding: '8px 22px', borderRadius: 18, textAlign: 'center', maxWidth: SEGURA.ancho, textWrap: 'balance'} as React.CSSProperties}>
         {l.texto}
       </div>
     </div>

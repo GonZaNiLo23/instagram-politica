@@ -96,3 +96,4 @@ Imágenes: ninguna foto externa; todo el fondo es el clip. Rótulos y cierre, ve
 - Fuera el rótulo "El dato que falta" (la frase de la voz se queda, con sus subtítulos normales).
 - Caja de titular abajo para no tapar la cara; subtítulos encima, a la altura del pecho.
 - Subtítulos del clip sin "Pedro Sánchez:", solo el texto.
+- Persona usuaria, tras ver la v3: sin voz en off (solo el clip) y caja + subtítulos en la banda inferior (2/5 de abajo); subtítulos con pauta Netflix/UNE 153010 (máx. 2 líneas).

@@ -30,9 +30,10 @@ const sh = (cmd, args, cwd, verTodo = false) => {
   if (avisos.length) console.log(avisos.slice(-10).join('\n'));
 };
 
-// 1. Voz
-if (flag('voz') || !fs.existsSync(path.join(dir, 'tiempos.json'))) sh(node, [path.join(RAIZ_VIDEOS, 'scripts', 'voz.mjs'), id], RAIZ_VIDEOS, true);
-const tiempos = JSON.parse(fs.readFileSync(path.join(dir, 'tiempos.json'), 'utf8'));
+// 1. Voz ("sinVoz": true en escenas.json = solo el sonido del clip, sin locución)
+const sinVoz = JSON.parse(fs.readFileSync(path.join(dir, 'escenas.json'), 'utf8')).sinVoz === true;
+if (!sinVoz && (flag('voz') || !fs.existsSync(path.join(dir, 'tiempos.json')))) sh(node, [path.join(RAIZ_VIDEOS, 'scripts', 'voz.mjs'), id], RAIZ_VIDEOS, true);
+const tiempos = sinVoz ? {provisional: false, palabras: [], duracion: 0} : JSON.parse(fs.readFileSync(path.join(dir, 'tiempos.json'), 'utf8'));
 
 // 2. Props
 const esc = JSON.parse(fs.readFileSync(path.join(dir, 'escenas.json'), 'utf8'));
@@ -40,7 +41,7 @@ const finEscenas = Math.max(...esc.escenas.map((e) => e.fin));
 const props = {
   ...esc,
   id,
-  audio: 'voz.mp3',
+  audio: sinVoz ? null : 'voz.mp3',
   provisional: tiempos.provisional,
   avisoProvisional: flag('aviso'),
   palabras: tiempos.palabras,

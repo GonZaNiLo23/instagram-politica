@@ -34,7 +34,7 @@ Agrupa en un solo Bash los comandos sin imágenes de los pasos 1–3 (cada turno
 
 **Test de formato Reel/TikTok:** aplica los 10 criterios de `estilo/test-formato-reel.md` sobre el vídeo real.
 
-**Si el formato es Al minuto:** la caja de titular (abajo, sin tapar caras) se lee en todo el vídeo, los subtítulos no llevan el nombre de quien habla, no hay rótulo "El dato que falta", el crédito del clip está visible, las caras de particulares están pixeladas, los subtítulos del clip coinciden con lo que se oye. Duración 15–40 s.
+**Si el formato es Al minuto:** la caja de titular (banda inferior, una línea, sin tapar caras) se lee en todo el vídeo, no hay voz en off, cada subtítulo tiene como mucho 2 líneas, los subtítulos no llevan el nombre de quien habla, no hay rótulo "El dato que falta", el crédito del clip está visible, las caras de particulares están pixeladas, los subtítulos del clip coinciden con lo que se oye. Duración 15–40 s.
 
 ## Veredicto
 - `APROBADO`: sin bloqueantes y test ≥ 9.
