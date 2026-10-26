@@ -1,8 +1,9 @@
 {
   "plantilla": "estandar",
-  "duracion": 69.94,
+  "duracion": 68.9,
   "portadaSegundo": 1.5,
   "marca": "@loquepasaenunminuto",
+  "subDy": 90,
   "musica": {
     "pista": "investigations.mp3",
     "volumen": -16
@@ -40,7 +41,7 @@
   "escenas": [
     {
       "inicio": 0,
-      "fin": 6.13,
+      "fin": 6,
       "componentes": [
         {
           "tipo": "gancho",
@@ -48,25 +49,25 @@
           "y": 335,
           "tamano": 92,
           "en": -1,
-          "hasta": 2.84
+          "hasta": 2.92
         },
         {
           "tipo": "gancho",
           "texto": "NO. PERO TAMPOCO ES INVISIBLE",
           "y": 335,
           "tamano": 92,
-          "en": 2.94
+          "en": 3.02
         },
         {
           "tipo": "bGancho",
           "modo": "gancho",
           "tInterr": 2.12,
-          "tRompe": 3.02
+          "tRompe": 3.1
         }
       ]
     },
     {
-      "inicio": 6.13,
+      "inicio": 6,
       "fin": 19.62,
       "componentes": [
         {
@@ -75,7 +76,7 @@
           "y": 335,
           "en": 0.05,
           "tamano": 72,
-          "hasta": 2.81
+          "hasta": 2.7
         },
         {
           "tipo": "recorte",
@@ -86,7 +87,7 @@
           "giro": -2,
           "desde": "abajo",
           "en": 0.05,
-          "hasta": 1.44,
+          "hasta": 1.41,
           "notas": [
             "LOREG art. 96.5",
             "Urna, autonómicas de Castilla y León 2022"
@@ -98,75 +99,75 @@
           "lineas": [
             "LOREG art. 96.5"
           ],
-          "en": 1.44,
-          "hasta": 2.81
+          "en": 1.41,
+          "hasta": 2.7
         },
         {
           "tipo": "bUrnas",
-          "y": 640,
-          "en": 1.44,
-          "miniEn": 12.04,
+          "y": 700,
+          "en": 1.41,
+          "miniEn": 12.44,
           "luz": [
             {
               "i": 0,
-              "en": 1.44,
-              "hasta": 5.01
+              "en": 1.41,
+              "hasta": 4.98
             },
             {
               "i": 1,
-              "en": 5.01,
-              "hasta": 10.57
+              "en": 4.98,
+              "hasta": 10.58
             },
             {
               "i": 2,
-              "en": 10.57
+              "en": 10.58
             }
           ],
           "llenan": [
             {
               "i": 0,
-              "en": 2.6399999999999997
+              "en": 2.61
             }
           ],
           "check": [
             {
               "i": 0,
-              "en": 3.65
+              "en": 3.62
             }
           ],
           "aspa": [
             {
               "i": 1,
-              "en": 9.11
+              "en": 9.16
             }
           ]
         },
         {
           "tipo": "bSobreCae",
           "x": 190,
-          "yTope": 410,
-          "yUrna": 640,
-          "abre": 1.54,
-          "cae": 2.34,
-          "en": 1.44,
-          "hasta": 2.83
+          "yTope": 640,
+          "yUrna": 780,
+          "abre": 1.51,
+          "cae": 2.31,
+          "en": 1.41,
+          "hasta": 2.72
         },
         {
           "tipo": "rotulo",
           "texto": "Es un VOTO VÁLIDO",
           "y": 335,
-          "en": 2.91,
+          "en": 2.8,
           "tamano": 72,
-          "hasta": 4.91
+          "hasta": 4.88
         },
         {
           "tipo": "sello",
           "valor": "DATO",
           "x": 780,
-          "y": 470,
+          "y": 440,
           "tamano": 120,
-          "en": 3.93,
-          "hasta": 4.91
+          "en": 3.9,
+          "hasta": 4.88
         },
         {
           "tipo": "notaEscribe",
@@ -174,88 +175,89 @@
             "«en blanco, pero válido»",
             "LOREG art. 96.5"
           ],
-          "en": 2.93,
+          "en": 2.82,
           "dur": 1.5,
-          "hasta": 4.91
+          "hasta": 4.88
         },
         {
           "tipo": "rotulo",
           "texto": "NULO, por ejemplo:",
           "y": 335,
-          "en": 4.99,
+          "en": 4.96,
           "tamano": 72,
-          "hasta": 8.91
+          "hasta": 8.96
         },
         {
           "tipo": "bNulos",
-          "en1": 5.68,
-          "en2": 6.95,
-          "y1": 930,
-          "y2": 1040,
-          "hasta": 8.91
+          "en1": 5.76,
+          "en2": 6.92,
+          "y1": 1000,
+          "y2": 1110,
+          "hasta": 8.96
         },
         {
           "tipo": "rotulo",
           "texto": "nombres tachados",
-          "y": 892,
-          "en": 5.73,
+          "y": 962,
+          "en": 5.81,
           "tamano": 64,
           "izq": 250,
           "ancho": 680,
-          "hasta": 8.91
+          "hasta": 8.96
         },
         {
           "tipo": "rotulo",
           "texto": "papel no oficial",
-          "y": 1002,
-          "en": 7,
+          "y": 1072,
+          "en": 6.97,
           "tamano": 64,
           "izq": 250,
           "ancho": 680,
-          "hasta": 8.91
+          "hasta": 8.96
         },
         {
           "tipo": "notas",
           "lineas": [
             "LOREG art. 96.1 y 96.2"
           ],
-          "en": 4.99,
-          "hasta": 8.91
+          "en": 4.96,
+          "hasta": 8.96
         },
         {
           "tipo": "rotulo",
           "texto": "NO es válido",
           "y": 335,
-          "en": 8.99,
+          "en": 9.04,
           "tamano": 72,
-          "hasta": 10.47
+          "hasta": 10.48
         },
         {
           "tipo": "rotulo",
           "texto": "ABSTENCIÓN = no ir a votar",
           "y": 335,
-          "en": 10.55,
-          "tamano": 72
+          "en": 10.56,
+          "tamano": 72,
+          "hasta": 12.41
         },
         {
           "tipo": "bSofa",
           "x": 520,
-          "y": 960,
+          "y": 1060,
           "tam": 0.95,
-          "en": 11.11
+          "en": 11.24
         },
         {
           "tipo": "notas",
           "lineas": [
             "Votar no es obligatorio en España"
           ],
-          "en": 10.55
+          "en": 10.56
         }
       ]
     },
     {
       "inicio": 19.62,
-      "fin": 23.26,
+      "fin": 23.06,
       "componentes": [
         {
           "tipo": "bUrnas",
@@ -282,7 +284,7 @@
           "cy": 1030,
           "intentos": [
             1.3,
-            2.18
+            2.1
           ],
           "en": 0.1
         },
@@ -290,7 +292,7 @@
           "tipo": "rotulo",
           "texto": "No suma escaños a nadie",
           "y": 1062,
-          "en": 1.97,
+          "en": 1.89,
           "tamano": 64
         },
         {
@@ -303,8 +305,8 @@
       ]
     },
     {
-      "inicio": 23.26,
-      "fin": 31.16,
+      "inicio": 23.06,
+      "fin": 30.6,
       "componentes": [
         {
           "tipo": "bUrnas",
@@ -317,24 +319,24 @@
           "y": 430,
           "en": 0.05,
           "tamano": 72,
-          "hasta": 3.87
+          "hasta": 3.94
         },
         {
           "tipo": "rotulo",
-          "texto": "BARRERA: 3 % de los votos válidos",
+          "texto": "CONGRESO: barrera del 3 % de válidos",
           "y": 430,
-          "en": 3.92,
+          "en": 3.9899999999999998,
           "tamano": 72
         },
         {
           "tipo": "bReparto",
           "divide": [
-            0.3,
-            1.5,
-            2.14
+            0.42,
+            1.62,
+            2.26
           ],
-          "montonEn": 1.66,
-          "listonEn": 5.63,
+          "montonEn": 1.78,
+          "listonEn": 4.99,
           "en": 0.05
         },
         {
@@ -344,20 +346,20 @@
             "¿Cómo funciona? Vídeo 002"
           ],
           "en": 0.05,
-          "hasta": 3.87
+          "hasta": 3.94
         },
         {
           "tipo": "notas",
           "lineas": [
-            "LOREG art. 163.1.a"
+            "LOREG art. 163.1.a (elecciones al Congreso)"
           ],
-          "en": 3.92
+          "en": 3.9899999999999998
         }
       ]
     },
     {
-      "inicio": 31.16,
-      "fin": 34.24,
+      "inicio": 30.6,
+      "fin": 33.72,
       "componentes": [
         {
           "tipo": "bUrnas",
@@ -379,12 +381,12 @@
           "enMapa": 0.1,
           "enAros": 0.4,
           "enPuntos": 999,
-          "hasta": 1.24
+          "hasta": 1.32
         },
         {
           "tipo": "bProv",
-          "choque": 1.94,
-          "en": 1.24
+          "choque": 2.1,
+          "en": 1.32
         },
         {
           "tipo": "notas",
@@ -397,8 +399,8 @@
       ]
     },
     {
-      "inicio": 34.24,
-      "fin": 37.02,
+      "inicio": 33.72,
+      "fin": 36.38,
       "componentes": [
         {
           "tipo": "bUrnas",
@@ -419,8 +421,8 @@
       ]
     },
     {
-      "inicio": 37.02,
-      "fin": 52.36,
+      "inicio": 36.38,
+      "fin": 51.84,
       "componentes": [
         {
           "tipo": "dhEtiqueta",
@@ -436,7 +438,7 @@
         },
         {
           "tipo": "rotulo",
-          "texto": "Cuadrado: 3.020 → ENTRA",
+          "texto": "Cuadrado: 3.020 → ENTRA AL REPARTO",
           "y": 335,
           "en": 3.8499999999999996,
           "tamano": 72,
@@ -456,28 +458,29 @@
           "y": 335,
           "en": 9.010000000000002,
           "tamano": 72,
-          "hasta": 12.86
+          "hasta": 13.02
         },
         {
           "tipo": "rotulo",
-          "texto": "CUADRADO, FUERA POR 10 VOTOS",
+          "texto": "CUADRADO: FUERA DEL REPARTO POR 10 VOTOS",
           "y": 335,
-          "en": 12.91,
+          "en": 13.07,
           "tamano": 72
         },
         {
           "tipo": "bEjemplo",
           "en": 0.05,
+          "dy": 50,
           "enBarra": 4.34,
           "durBarra": 1.6,
           "enEntra": 6.38,
           "sobres": {
-            "en": 7.3,
+            "en": 7.38,
             "dur": 1.24
           },
-          "enSube": 10.58,
+          "enSube": 10.66,
           "durSube": 1.2,
-          "enFuera": 13.88
+          "enFuera": 13.96
         },
         {
           "tipo": "notas",
@@ -495,7 +498,7 @@
             "Escala ampliada: desde 2.900"
           ],
           "en": 9.010000000000002,
-          "hasta": 12.86
+          "hasta": 13.02
         },
         {
           "tipo": "notas",
@@ -503,13 +506,13 @@
             "3.020 < 3.030",
             "Escala ampliada: desde 2.900"
           ],
-          "en": 12.91
+          "en": 13.07
         }
       ]
     },
     {
-      "inicio": 52.36,
-      "fin": 56.34,
+      "inicio": 51.84,
+      "fin": 55.66,
       "componentes": [
         {
           "tipo": "bUrnas",
@@ -532,12 +535,16 @@
           "en": -1,
           "barraFija": true,
           "fijo": true,
-          "dy": 24,
+          "dy": 177,
+          "esc": 0.8,
           "sinTitulo": true
         },
         {
           "tipo": "bCaen",
-          "en": 0.36,
+          "yIni": 720,
+          "yFin": 750,
+          "baja": 20,
+          "en": 0.4,
           "variante": "nulo"
         },
         {
@@ -550,33 +557,43 @@
         {
           "tipo": "bCaen",
           "variante": "sofa",
-          "en": 0.92
+          "xSofa": 780,
+          "ySofa": 695,
+          "en": 0.96
         }
       ]
     },
     {
-      "inicio": 56.34,
-      "fin": 61.19,
+      "inicio": 55.66,
+      "fin": 60.12,
       "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "Solo importa si alguien roza el 3 %",
+          "texto": "Solo pesa si alguien roza el 3 %",
           "y": 335,
           "en": 0.05,
           "tamano": 72
         },
         {
+          "tipo": "notas",
+          "lineas": [
+            "En la práctica, Madrid y Barcelona"
+          ],
+          "en": 0.05
+        },
+        {
           "tipo": "bPlano",
           "enListon": 0.9,
-          "parpadeo": 2.1,
-          "enEt": 3.3,
-          "en": 0.05
+          "parpadeo": 1.9,
+          "enEt": 2.94,
+          "en": 0.05,
+          "y0": 700
         }
       ]
     },
     {
-      "inicio": 61.19,
-      "fin": 65.2,
+      "inicio": 60.12,
+      "fin": 64.12,
       "componentes": [
         {
           "tipo": "rotulo",
@@ -589,14 +606,14 @@
           "tipo": "rotulo",
           "texto": "¿INVISIBLE? TAMPOCO",
           "y": 435,
-          "en": 2.05,
+          "en": 2.1599999999999997,
           "tamano": 72
         },
         {
           "tipo": "bGancho",
           "modo": "bucle",
           "tPasa": 0.5,
-          "hasta": 2.35
+          "hasta": 2.46
         },
         {
           "tipo": "recorte",
@@ -606,17 +623,17 @@
           "ancho": 800,
           "giro": 2,
           "desde": "abajo",
-          "en": 2.35,
+          "en": 2.46,
           "notas": [
-            "Urna, autonómicas andaluzas 2015, Montalbán de Córdoba"
+            "Urna andaluza, Montalbán, 2015"
           ],
           "credito": "Foto: Américo Toledano · CC BY-SA 4.0 · Wikimedia Commons"
         }
       ]
     },
     {
-      "inicio": 65.2,
-      "fin": 69.94,
+      "inicio": 64.12,
+      "fin": 68.9,
       "fondo": "mostaza",
       "sinSubtitulos": true,
       "componentes": [
@@ -627,6 +644,7 @@
           "tamano": 110,
           "yFrase": 460,
           "yGuardalo": 1180,
+          "cta": "guardalo",
           "pulso": true
         },
         {
@@ -646,286 +664,286 @@
     {
       "t": "¿Tu",
       "inicio": 0,
-      "fin": 0.08
+      "fin": 0.16
     },
     {
       "t": "voto",
-      "inicio": 0.12,
-      "fin": 0.32
-    },
-    {
-      "t": "en",
-      "inicio": 0.36,
+      "inicio": 0.24,
       "fin": 0.4
     },
     {
+      "t": "en",
+      "inicio": 0.44,
+      "fin": 0.48
+    },
+    {
       "t": "blanco",
-      "inicio": 0.48,
-      "fin": 0.8
+      "inicio": 0.52,
+      "fin": 0.88
     },
     {
       "t": "se",
-      "inicio": 0.88,
-      "fin": 0.96
-    },
-    {
-      "t": "lo",
-      "inicio": 1,
+      "inicio": 0.96,
       "fin": 1.04
     },
     {
+      "t": "lo",
+      "inicio": 1.08,
+      "fin": 1.12
+    },
+    {
       "t": "lleva",
-      "inicio": 1.12,
-      "fin": 1.333
+      "inicio": 1.2,
+      "fin": 1.413
     },
     {
       "t": "el",
-      "inicio": 1.387,
-      "fin": 1.44
+      "inicio": 1.467,
+      "fin": 1.52
     },
     {
       "t": "partido",
-      "inicio": 1.56,
+      "inicio": 1.64,
       "fin": 1.84
     },
     {
       "t": "más",
       "inicio": 1.92,
-      "fin": 2
+      "fin": 2.08
     },
     {
       "t": "votado?",
-      "inicio": 2.08,
-      "fin": 2.76
+      "inicio": 2.12,
+      "fin": 2.96
     },
     {
       "t": "No.",
-      "inicio": 3.04,
-      "fin": 3.48
+      "inicio": 3.12,
+      "fin": 3.56
     },
     {
       "t": "Pero",
-      "inicio": 3.68,
-      "fin": 3.92
+      "inicio": 3.76,
+      "fin": 4
     },
     {
       "t": "tampoco",
-      "inicio": 4.08,
+      "inicio": 4.16,
       "fin": 4.56
     },
     {
       "t": "es",
-      "inicio": 4.64,
-      "fin": 4.72
+      "inicio": 4.6,
+      "fin": 4.64
     },
     {
       "t": "invisible.",
-      "inicio": 5,
-      "fin": 5.68
+      "inicio": 4.72,
+      "fin": 5.4
     },
     {
       "t": "Votar",
-      "inicio": 6.233,
-      "fin": 6.42
+      "inicio": 6.1,
+      "fin": 6.34
     },
     {
       "t": "en",
-      "inicio": 6.46,
-      "fin": 6.5
+      "inicio": 6.38,
+      "fin": 6.42
     },
     {
       "t": "blanco",
-      "inicio": 6.58,
-      "fin": 6.9
+      "inicio": 6.5,
+      "fin": 6.82
     },
     {
       "t": "es",
-      "inicio": 7.06,
-      "fin": 7.14
+      "inicio": 6.9,
+      "fin": 6.98
     },
     {
       "t": "meter",
-      "inicio": 7.22,
-      "fin": 7.46
+      "inicio": 7.14,
+      "fin": 7.3
     },
     {
       "t": "el",
-      "inicio": 7.5,
-      "fin": 7.54
+      "inicio": 7.34,
+      "fin": 7.38
     },
     {
       "t": "sobre",
-      "inicio": 7.62,
-      "fin": 7.86
+      "inicio": 7.46,
+      "fin": 7.7
     },
     {
       "t": "sin",
-      "inicio": 7.94,
-      "fin": 8.1
+      "inicio": 7.78,
+      "fin": 7.94
     },
     {
       "t": "papeleta.",
-      "inicio": 8.18,
-      "fin": 8.98
+      "inicio": 8.02,
+      "fin": 8.66
     },
     {
       "t": "Para",
-      "inicio": 9.06,
-      "fin": 9.14
+      "inicio": 8.82,
+      "fin": 8.98
     },
     {
       "t": "la",
-      "inicio": 9.22,
-      "fin": 9.26
+      "inicio": 9.02,
+      "fin": 9.06
     },
     {
       "t": "ley,",
-      "inicio": 9.3,
-      "fin": 9.7
+      "inicio": 9.14,
+      "fin": 9.54
     },
     {
       "t": "es",
+      "inicio": 9.62,
+      "fin": 9.7
+    },
+    {
+      "t": "un",
       "inicio": 9.78,
       "fin": 9.86
     },
     {
-      "t": "un",
-      "inicio": 9.94,
-      "fin": 10.02
-    },
-    {
       "t": "voto",
-      "inicio": 10.06,
-      "fin": 10.26
+      "inicio": 9.9,
+      "fin": 10.1
     },
     {
       "t": "válido.",
-      "inicio": 10.34,
-      "fin": 11.06
+      "inicio": 10.18,
+      "fin": 10.58
     },
     {
       "t": "El",
-      "inicio": 11.14,
-      "fin": 11.22
+      "inicio": 10.98,
+      "fin": 11.06
     },
     {
       "t": "nulo:",
-      "inicio": 11.3,
-      "fin": 11.86
+      "inicio": 11.14,
+      "fin": 11.78
     },
     {
       "t": "tachar",
-      "inicio": 11.913,
-      "fin": 12.18
+      "inicio": 11.86,
+      "fin": 12.1
     },
     {
       "t": "nombres",
-      "inicio": 12.22,
-      "fin": 12.66
+      "inicio": 12.18,
+      "fin": 12.58
     },
     {
       "t": "o",
-      "inicio": 12.74,
-      "fin": 12.82
+      "inicio": 12.66,
+      "fin": 12.74
     },
     {
       "t": "meter",
-      "inicio": 12.9,
-      "fin": 13.14
+      "inicio": 12.86,
+      "fin": 12.98
     },
     {
       "t": "un",
-      "inicio": 13.18,
-      "fin": 13.22
+      "inicio": 13.02,
+      "fin": 13.06
     },
     {
       "t": "papel",
-      "inicio": 13.3,
-      "fin": 13.54
+      "inicio": 13.14,
+      "fin": 13.38
     },
     {
       "t": "no",
-      "inicio": 13.62,
-      "fin": 13.7
+      "inicio": 13.46,
+      "fin": 13.54
     },
     {
       "t": "oficial,",
-      "inicio": 13.78,
-      "fin": 14.26
+      "inicio": 13.62,
+      "fin": 14.18
     },
     {
       "t": "por",
-      "inicio": 14.3,
-      "fin": 14.34
+      "inicio": 14.22,
+      "fin": 14.26
     },
     {
       "t": "ejemplo.",
-      "inicio": 14.42,
-      "fin": 14.82
+      "inicio": 14.34,
+      "fin": 14.74
     },
     {
       "t": "No",
-      "inicio": 15.14,
+      "inicio": 15.06,
       "fin": 15.22
     },
     {
       "t": "cuenta",
-      "inicio": 15.38,
-      "fin": 15.7
+      "inicio": 15.3,
+      "fin": 15.62
     },
     {
       "t": "como",
-      "inicio": 15.78,
-      "fin": 15.94
+      "inicio": 15.7,
+      "fin": 15.86
     },
     {
       "t": "válido.",
-      "inicio": 15.98,
-      "fin": 16.66
+      "inicio": 15.9,
+      "fin": 16.42
     },
     {
       "t": "Y",
-      "inicio": 16.7,
-      "fin": 16.74
+      "inicio": 16.58,
+      "fin": 16.66
     },
     {
       "t": "abstenerte",
-      "inicio": 16.82,
+      "inicio": 16.74,
       "fin": 17.38
     },
     {
       "t": "es",
       "inicio": 17.54,
-      "fin": 17.78
+      "fin": 17.7
     },
     {
       "t": "no",
       "inicio": 18.02,
-      "fin": 18.18
+      "fin": 18.1
     },
     {
       "t": "ir",
-      "inicio": 18.26,
-      "fin": 18.34
+      "inicio": 18.18,
+      "fin": 18.26
     },
     {
       "t": "a",
-      "inicio": 18.367,
-      "fin": 18.393
+      "inicio": 18.34,
+      "fin": 18.367
     },
     {
       "t": "votar.",
-      "inicio": 18.42,
-      "fin": 18.82
+      "inicio": 18.393,
+      "fin": 18.98
     },
     {
       "t": "¿Y",
       "inicio": 19.72,
-      "fin": 19.8
+      "fin": 19.773
     },
     {
       "t": "los",
-      "inicio": 19.88,
+      "inicio": 19.8,
       "fin": 19.96
     },
     {
@@ -941,652 +959,652 @@
     {
       "t": "blanco",
       "inicio": 21.08,
-      "fin": 21.48
+      "fin": 21.4
     },
     {
       "t": "no",
-      "inicio": 21.64,
-      "fin": 21.72
+      "inicio": 21.56,
+      "fin": 21.64
     },
     {
       "t": "suma",
-      "inicio": 21.8,
-      "fin": 22.04
+      "inicio": 21.72,
+      "fin": 21.96
     },
     {
       "t": "a",
-      "inicio": 22.08,
-      "fin": 22.12
+      "inicio": 22,
+      "fin": 22.04
     },
     {
       "t": "ningún",
-      "inicio": 22.2,
-      "fin": 22.44
+      "inicio": 22.16,
+      "fin": 22.36
     },
     {
       "t": "partido.",
-      "inicio": 22.52,
-      "fin": 23.24
+      "inicio": 22.48,
+      "fin": 23
     },
     {
-      "t": "D'Hondt",
-      "inicio": 23.36,
-      "fin": 23.48
+      "t": "Don",
+      "inicio": 23.16,
+      "fin": 23.4
     },
     {
       "t": "reparte",
-      "inicio": 23.56,
-      "fin": 23.933
+      "inicio": 23.48,
+      "fin": 23.853
     },
     {
       "t": "escaños",
-      "inicio": 23.987,
+      "inicio": 23.907,
       "fin": 24.36
     },
     {
       "t": "solo",
-      "inicio": 24.44,
-      "fin": 24.68
+      "inicio": 24.4,
+      "fin": 24.6
     },
     {
       "t": "con",
-      "inicio": 24.76,
-      "fin": 24.84
+      "inicio": 24.68,
+      "fin": 24.76
     },
     {
       "t": "los",
-      "inicio": 24.92,
-      "fin": 25
+      "inicio": 24.84,
+      "fin": 24.92
     },
     {
       "t": "votos",
-      "inicio": 25.04,
-      "fin": 25.32
+      "inicio": 25,
+      "fin": 25.24
     },
     {
       "t": "de",
-      "inicio": 25.4,
-      "fin": 25.48
+      "inicio": 25.32,
+      "fin": 25.4
     },
     {
       "t": "cada",
-      "inicio": 25.52,
-      "fin": 25.72
+      "inicio": 25.44,
+      "fin": 25.64
     },
     {
       "t": "candidatura.",
-      "inicio": 25.76,
-      "fin": 26.68
+      "inicio": 25.68,
+      "fin": 26.44
     },
     {
-      "t": "Pero",
-      "inicio": 27.233,
-      "fin": 27.34
+      "t": "En",
+      "inicio": 27.1,
+      "fin": 27.18
     },
     {
-      "t": "antes",
-      "inicio": 27.54,
+      "t": "el",
+      "inicio": 27.22,
+      "fin": 27.26
+    },
+    {
+      "t": "Congreso",
+      "inicio": 27.34,
       "fin": 27.74
     },
     {
       "t": "hay",
-      "inicio": 27.9,
-      "fin": 28.06
+      "inicio": 27.82,
+      "fin": 27.9
     },
     {
       "t": "una",
-      "inicio": 28.14,
-      "fin": 28.22
+      "inicio": 27.98,
+      "fin": 28.06
     },
     {
       "t": "barrera:",
-      "inicio": 28.26,
+      "inicio": 28.1,
+      "fin": 28.7
+    },
+    {
+      "t": "el",
+      "inicio": 28.78,
       "fin": 28.86
     },
     {
-      "t": "el",
-      "inicio": 28.94,
-      "fin": 29.02
-    },
-    {
       "t": "tres",
-      "inicio": 29.1,
-      "fin": 29.26
+      "inicio": 28.94,
+      "fin": 29.1
     },
     {
       "t": "por",
-      "inicio": 29.42,
-      "fin": 29.58
+      "inicio": 29.18,
+      "fin": 29.34
     },
     {
       "t": "ciento",
-      "inicio": 29.62,
-      "fin": 29.9
+      "inicio": 29.42,
+      "fin": 29.66
     },
     {
       "t": "de",
-      "inicio": 29.98,
-      "fin": 30.02
+      "inicio": 29.74,
+      "fin": 29.78
     },
     {
       "t": "los",
-      "inicio": 30.06,
-      "fin": 30.14
-    },
-    {
-      "t": "votos",
-      "inicio": 30.22,
-      "fin": 30.46
+      "inicio": 29.82,
+      "fin": 29.9
     },
     {
       "t": "válidos.",
-      "inicio": 30.54,
-      "fin": 31.14
+      "inicio": 29.98,
+      "fin": 30.58
     },
     {
       "t": "Quien",
-      "inicio": 31.26,
-      "fin": 31.42
+      "inicio": 30.7,
+      "fin": 30.86
     },
     {
       "t": "no",
-      "inicio": 31.46,
-      "fin": 31.5
+      "inicio": 30.94,
+      "fin": 31.02
     },
     {
       "t": "llega",
-      "inicio": 31.58,
-      "fin": 31.767
+      "inicio": 31.1,
+      "fin": 31.26
     },
     {
       "t": "en",
-      "inicio": 31.793,
-      "fin": 31.82
+      "inicio": 31.3,
+      "fin": 31.34
     },
     {
       "t": "su",
-      "inicio": 31.9,
-      "fin": 31.98
+      "inicio": 31.42,
+      "fin": 31.5
     },
     {
       "t": "provincia,",
-      "inicio": 32.06,
-      "fin": 32.62
+      "inicio": 31.58,
+      "fin": 32.14
     },
     {
       "t": "se",
-      "inicio": 32.7,
-      "fin": 32.78
+      "inicio": 32.22,
+      "fin": 32.3
     },
     {
       "t": "queda",
-      "inicio": 32.86,
-      "fin": 33.02
+      "inicio": 32.38,
+      "fin": 32.54
     },
     {
       "t": "fuera",
-      "inicio": 33.1,
-      "fin": 33.34
+      "inicio": 32.7,
+      "fin": 32.86
     },
     {
       "t": "del",
-      "inicio": 33.42,
-      "fin": 33.5
+      "inicio": 32.94,
+      "fin": 33.02
     },
     {
       "t": "reparto.",
-      "inicio": 33.58,
-      "fin": 34.3
+      "inicio": 33.1,
+      "fin": 33.58
     },
     {
       "t": "Y",
-      "inicio": 34.34,
-      "fin": 34.38
+      "inicio": 33.82,
+      "fin": 33.9
     },
     {
       "t": "ahí",
-      "inicio": 34.46,
-      "fin": 34.62
+      "inicio": 33.98,
+      "fin": 34.14
     },
     {
       "t": "el",
-      "inicio": 34.86,
-      "fin": 35.02
+      "inicio": 34.3,
+      "fin": 34.46
     },
     {
       "t": "blanco",
-      "inicio": 35.1,
-      "fin": 35.5
+      "inicio": 34.5,
+      "fin": 34.86
     },
     {
       "t": "sí",
-      "inicio": 35.66,
-      "fin": 35.74
+      "inicio": 35.02,
+      "fin": 35.18
     },
     {
       "t": "cuenta.",
-      "inicio": 35.82,
-      "fin": 36.3
+      "inicio": 35.22,
+      "fin": 35.66
     },
     {
       "t": "Imagina",
-      "inicio": 37.12,
-      "fin": 37.6
+      "inicio": 36.48,
+      "fin": 36.88
     },
     {
       "t": "cien",
-      "inicio": 37.68,
-      "fin": 37.84
+      "inicio": 36.96,
+      "fin": 37.12
     },
     {
       "t": "mil",
-      "inicio": 38,
-      "fin": 38.08
+      "inicio": 37.28,
+      "fin": 37.36
     },
     {
       "t": "votos",
-      "inicio": 38.16,
-      "fin": 38.4
+      "inicio": 37.44,
+      "fin": 37.68
     },
     {
       "t": "válidos:",
-      "inicio": 38.48,
-      "fin": 39.12
+      "inicio": 37.76,
+      "fin": 38.48
     },
     {
       "t": "la",
-      "inicio": 39.2,
-      "fin": 39.24
+      "inicio": 38.56,
+      "fin": 38.64
     },
     {
       "t": "barrera",
-      "inicio": 39.28,
-      "fin": 39.68
+      "inicio": 38.773,
+      "fin": 39.04
     },
     {
       "t": "está",
-      "inicio": 39.76,
-      "fin": 40
+      "inicio": 39.16,
+      "fin": 39.32
     },
     {
       "t": "en",
-      "inicio": 40.04,
-      "fin": 40.08
+      "inicio": 39.36,
+      "fin": 39.44
     },
     {
       "t": "tres",
-      "inicio": 40.16,
-      "fin": 40.32
+      "inicio": 39.52,
+      "fin": 39.6
     },
     {
       "t": "mil.",
-      "inicio": 40.4,
-      "fin": 40.88
+      "inicio": 39.68,
+      "fin": 40.24
     },
     {
       "t": "El",
-      "inicio": 40.92,
-      "fin": 40.96
+      "inicio": 40.28,
+      "fin": 40.32
     },
     {
       "t": "partido",
-      "inicio": 41.04,
-      "fin": 41.28
+      "inicio": 40.4,
+      "fin": 40.64
     },
     {
       "t": "Cuadrado",
-      "inicio": 41.36,
-      "fin": 41.76
+      "inicio": 40.72,
+      "fin": 41.12
     },
     {
       "t": "saca",
-      "inicio": 41.84,
-      "fin": 42.08
+      "inicio": 41.2,
+      "fin": 41.44
     },
     {
       "t": "tres",
-      "inicio": 42.16,
-      "fin": 42.32
+      "inicio": 41.52,
+      "fin": 41.68
     },
     {
       "t": "mil",
-      "inicio": 42.4,
-      "fin": 42.48
+      "inicio": 41.76,
+      "fin": 41.84
     },
     {
       "t": "veinte:",
-      "inicio": 42.56,
-      "fin": 43.28
+      "inicio": 41.92,
+      "fin": 42.64
     },
     {
       "t": "entra.",
-      "inicio": 43.4,
-      "fin": 43.92
+      "inicio": 42.76,
+      "fin": 43.2
     },
     {
       "t": "Ahora",
-      "inicio": 44,
-      "fin": 44.24
+      "inicio": 43.36,
+      "fin": 43.68
     },
     {
       "t": "suma",
-      "inicio": 44.32,
-      "fin": 44.56
+      "inicio": 43.76,
+      "fin": 44
     },
     {
       "t": "mil",
-      "inicio": 44.72,
-      "fin": 44.88
+      "inicio": 44.16,
+      "fin": 44.32
     },
     {
       "t": "votos",
-      "inicio": 44.96,
-      "fin": 45.2
+      "inicio": 44.4,
+      "fin": 44.64
     },
     {
       "t": "en",
-      "inicio": 45.28,
-      "fin": 45.32
+      "inicio": 44.72,
+      "fin": 44.76
     },
     {
       "t": "blanco.",
-      "inicio": 45.36,
-      "fin": 46
+      "inicio": 44.8,
+      "fin": 45.2
     },
     {
       "t": "Con",
-      "inicio": 46.08,
-      "fin": 46.16
+      "inicio": 45.44,
+      "fin": 45.6
     },
     {
       "t": "ciento",
-      "inicio": 46.24,
-      "fin": 46.48
+      "inicio": 45.68,
+      "fin": 45.92
     },
     {
       "t": "un",
-      "inicio": 46.56,
-      "fin": 46.64
+      "inicio": 46,
+      "fin": 46.08
     },
     {
       "t": "mil",
-      "inicio": 46.72,
-      "fin": 46.8
+      "inicio": 46.16,
+      "fin": 46.24
     },
     {
       "t": "válidos,",
-      "inicio": 46.88,
-      "fin": 47.44
+      "inicio": 46.32,
+      "fin": 46.88
     },
     {
       "t": "la",
-      "inicio": 47.52,
-      "fin": 47.56
+      "inicio": 46.92,
+      "fin": 46.96
     },
     {
       "t": "barrera",
-      "inicio": 47.6,
-      "fin": 47.92
+      "inicio": 47.04,
+      "fin": 47.36
     },
     {
       "t": "sube",
-      "inicio": 48,
-      "fin": 48.2
+      "inicio": 47.44,
+      "fin": 47.64
     },
     {
       "t": "a",
-      "inicio": 48.24,
-      "fin": 48.32
+      "inicio": 47.68,
+      "fin": 47.76
     },
     {
       "t": "tres",
-      "inicio": 48.4,
-      "fin": 48.48
+      "inicio": 47.84,
+      "fin": 47.92
     },
     {
       "t": "mil",
-      "inicio": 48.64,
-      "fin": 48.72
+      "inicio": 48.08,
+      "fin": 48.16
     },
     {
       "t": "treinta.",
-      "inicio": 48.8,
-      "fin": 49.44
+      "inicio": 48.24,
+      "fin": 48.96
     },
     {
       "t": "Cuadrado",
-      "inicio": 49.98,
-      "fin": 50.42
+      "inicio": 49.5,
+      "fin": 49.86
     },
     {
       "t": "se",
-      "inicio": 50.5,
-      "fin": 50.58
+      "inicio": 49.94,
+      "fin": 50.02
     },
     {
       "t": "queda",
+      "inicio": 50.1,
+      "fin": 50.26
+    },
+    {
+      "t": "fuera",
+      "inicio": 50.34,
+      "fin": 50.5
+    },
+    {
+      "t": "por",
       "inicio": 50.66,
       "fin": 50.82
     },
     {
-      "t": "fuera",
-      "inicio": 50.9,
-      "fin": 51.14
-    },
-    {
-      "t": "por",
-      "inicio": 51.22,
-      "fin": 51.38
-    },
-    {
       "t": "diez",
-      "inicio": 51.46,
-      "fin": 51.66
+      "inicio": 50.9,
+      "fin": 51.1
     },
     {
       "t": "votos.",
-      "inicio": 51.7,
-      "fin": 52.42
+      "inicio": 51.14,
+      "fin": 51.78
     },
     {
       "t": "Con",
-      "inicio": 52.46,
-      "fin": 52.5
+      "inicio": 51.94,
+      "fin": 52.02
     },
     {
       "t": "mil",
-      "inicio": 52.58,
-      "fin": 52.74
+      "inicio": 52.1,
+      "fin": 52.26
     },
     {
       "t": "nulos",
-      "inicio": 52.82,
-      "fin": 53.14
+      "inicio": 52.34,
+      "fin": 52.74
     },
     {
       "t": "o",
-      "inicio": 53.3,
-      "fin": 53.34
-    },
-    {
-      "t": "mil",
-      "inicio": 53.38,
-      "fin": 53.54
+      "inicio": 52.78,
+      "fin": 52.82
     },
     {
       "t": "abstenciones,",
-      "inicio": 53.62,
-      "fin": 54.5
-    },
-    {
-      "t": "no:",
-      "inicio": 54.66,
-      "fin": 55.06
+      "inicio": 52.9,
+      "fin": 53.7
     },
     {
       "t": "la",
-      "inicio": 55.1,
-      "fin": 55.14
+      "inicio": 53.74,
+      "fin": 53.78
     },
     {
       "t": "barrera",
-      "inicio": 55.22,
-      "fin": 55.62
+      "inicio": 53.86,
+      "fin": 54.18
     },
     {
       "t": "no",
-      "inicio": 55.78,
-      "fin": 55.86
+      "inicio": 54.34,
+      "fin": 54.42
     },
     {
       "t": "se",
-      "inicio": 56.44,
-      "fin": 56.52
+      "inicio": 54.5,
+      "fin": 54.58
     },
     {
       "t": "mueve.",
-      "inicio": 56.6,
-      "fin": 57.16
+      "inicio": 54.66,
+      "fin": 55.22
     },
     {
       "t": "Eso",
-      "inicio": 57.2,
-      "fin": 57.32
+      "inicio": 55.76,
+      "fin": 55.96
     },
     {
       "t": "sí:",
-      "inicio": 57.4,
-      "fin": 57.8
+      "inicio": 56,
+      "fin": 56.44
     },
     {
       "t": "solo",
-      "inicio": 57.84,
-      "fin": 58.04
+      "inicio": 56.493,
+      "fin": 56.6
     },
     {
-      "t": "cambia",
-      "inicio": 58.12,
-      "fin": 58.36
-    },
-    {
-      "t": "algo",
-      "inicio": 58.44,
-      "fin": 58.68
+      "t": "pesa",
+      "inicio": 56.68,
+      "fin": 57
     },
     {
       "t": "si",
-      "inicio": 58.76,
-      "fin": 58.92
+      "inicio": 57.08,
+      "fin": 57.16
     },
     {
-      "t": "un",
-      "inicio": 58.96,
-      "fin": 59
-    },
-    {
-      "t": "partido",
-      "inicio": 59.16,
-      "fin": 59.56
+      "t": "alguien",
+      "inicio": 57.24,
+      "fin": 57.48
     },
     {
       "t": "roza",
-      "inicio": 59.64,
-      "fin": 59.88
+      "inicio": 57.56,
+      "fin": 57.8
     },
     {
       "t": "la",
-      "inicio": 59.96,
-      "fin": 60
+      "inicio": 57.88,
+      "fin": 57.92
     },
     {
-      "t": "barrera.",
-      "inicio": 60.04,
-      "fin": 60.76
-    },
-    {
-      "t": "¿Se",
-      "inicio": 61.287,
-      "fin": 61.34
-    },
-    {
-      "t": "lo",
-      "inicio": 61.42,
-      "fin": 61.5
-    },
-    {
-      "t": "lleva",
-      "inicio": 61.553,
-      "fin": 61.687
-    },
-    {
-      "t": "el",
-      "inicio": 61.713,
-      "fin": 61.74
-    },
-    {
-      "t": "más",
-      "inicio": 61.82,
-      "fin": 61.9
-    },
-    {
-      "t": "votado?",
-      "inicio": 61.94,
-      "fin": 62.7
-    },
-    {
-      "t": "No.",
-      "inicio": 62.86,
-      "fin": 63.18
-    },
-    {
-      "t": "Pero",
-      "inicio": 63.34,
-      "fin": 63.58
-    },
-    {
-      "t": "tampoco",
-      "inicio": 63.74,
-      "fin": 64.22
-    },
-    {
-      "t": "es",
-      "inicio": 64.3,
-      "fin": 64.38
-    },
-    {
-      "t": "invisible.",
-      "inicio": 64.66,
-      "fin": 65.26
-    },
-    {
-      "t": "¿Lo",
-      "inicio": 65.3,
-      "fin": 65.42
-    },
-    {
-      "t": "sabías?",
-      "inicio": 65.46,
-      "fin": 66.22
-    },
-    {
-      "t": "Te",
-      "inicio": 66.26,
-      "fin": 66.3
-    },
-    {
-      "t": "leemos",
-      "inicio": 66.38,
-      "fin": 66.7
+      "t": "barrera",
+      "inicio": 57.96,
+      "fin": 58.28
     },
     {
       "t": "en",
-      "inicio": 66.78,
-      "fin": 66.86
+      "inicio": 58.32,
+      "fin": 58.36
+    },
+    {
+      "t": "una",
+      "inicio": 58.44,
+      "fin": 58.52
+    },
+    {
+      "t": "provincia",
+      "inicio": 58.6,
+      "fin": 58.92
+    },
+    {
+      "t": "grande.",
+      "inicio": 59,
+      "fin": 59.4
+    },
+    {
+      "t": "¿Se",
+      "inicio": 60.22,
+      "fin": 60.3
+    },
+    {
+      "t": "lo",
+      "inicio": 60.38,
+      "fin": 60.46
+    },
+    {
+      "t": "lleva",
+      "inicio": 60.513,
+      "fin": 60.647
+    },
+    {
+      "t": "el",
+      "inicio": 60.673,
+      "fin": 60.7
+    },
+    {
+      "t": "más",
+      "inicio": 60.78,
+      "fin": 60.86
+    },
+    {
+      "t": "votado?",
+      "inicio": 60.9,
+      "fin": 61.34
+    },
+    {
+      "t": "No.",
+      "inicio": 61.82,
+      "fin": 62.22
+    },
+    {
+      "t": "Pero",
+      "inicio": 62.38,
+      "fin": 62.62
+    },
+    {
+      "t": "tampoco",
+      "inicio": 62.78,
+      "fin": 63.18
+    },
+    {
+      "t": "es",
+      "inicio": 63.22,
+      "fin": 63.26
+    },
+    {
+      "t": "invisible.",
+      "inicio": 63.34,
+      "fin": 64.02
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 64.22,
+      "fin": 64.3
+    },
+    {
+      "t": "sabías?",
+      "inicio": 64.38,
+      "fin": 65.02
+    },
+    {
+      "t": "Te",
+      "inicio": 65.18,
+      "fin": 65.26
+    },
+    {
+      "t": "leemos",
+      "inicio": 65.34,
+      "fin": 65.66
+    },
+    {
+      "t": "en",
+      "inicio": 65.7,
+      "fin": 65.74
     },
     {
       "t": "comentarios.",
-      "inicio": 66.9,
-      "fin": 67.82
+      "inicio": 65.82,
+      "fin": 66.78
     }
   ]
 }

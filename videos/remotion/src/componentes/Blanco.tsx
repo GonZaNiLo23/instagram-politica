@@ -233,9 +233,10 @@ export const BSofa: React.FC<{x?: number; y?: number; tam?: number; en?: number;
 };
 
 /** Papeletas tachadas que caen sobre el contador y rebotan sin sumarse, o sofá que aparece. */
-export const BCaen: React.FC<{tipo?: 'nulo' | 'sofa'; en?: number; n?: number; hasta?: number}> = ({tipo = 'nulo', en = 0, n = 5, hasta}) => {
+export const BCaen: React.FC<{tipo?: 'nulo' | 'sofa'; variante?: 'nulo' | 'sofa'; en?: number; n?: number; hasta?: number; dy?: number; yIni?: number; yFin?: number; baja?: number; xSofa?: number; ySofa?: number}> = ({tipo: tipoP = 'nulo', variante, en = 0, n = 5, hasta, dy = 0, yIni = 645, yFin = 750, baja = 120, xSofa = 760, ySofa = 880}) => {
   const t = useT();
-  if (tipo === 'sofa') return <BSofa x={760} y={880} tam={0.45} en={en} hasta={hasta} />;
+  const tipo = variante ?? tipoP;
+  if (tipo === 'sofa') return <BSofa x={xSofa} y={ySofa + dy} tam={0.45} en={en} hasta={hasta} />;
   return (
     <Capa hasta={hasta} bob={0}>
       {Array.from({length: n}).map((_, i) => {
@@ -243,7 +244,7 @@ export const BCaen: React.FC<{tipo?: 'nulo' | 'sofa'; en?: number; n?: number; h
         const u = ramp(t, e0, e0 + 0.5, (q) => q * q);
         const rb = ramp(t, e0 + 0.5, e0 + 0.9);
         const x = 200 + i * 170 + rb * (i % 2 ? 90 : -90);
-        const y = lerp(645, 750, u) - 60 * Math.sin(Math.PI * rb) + rb * 120;
+        const y = dy + lerp(yIni, yFin, u) - 60 * Math.sin(Math.PI * rb) + rb * baja;
         const op = t < e0 ? 0 : 1 - ramp(t, e0 + 0.7, e0 + 0.95);
         return (
           <g key={i} transform={`translate(${x} ${y}) rotate(${(i % 2 ? 1 : -1) * 14 * (1 - u) + rb * 30})`} opacity={op}>
@@ -394,9 +395,9 @@ const xv = (v: number) => 110 + (v - 2900) * 3.7;
 const fmt = (n: number) => n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, '.');
 export const BEjemplo: React.FC<{
   enBarra?: number; durBarra?: number; barraFija?: boolean; enEntra?: number;
-  sobres?: {en: number; dur: number}; enSube?: number; durSube?: number; enFuera?: number; fijo?: boolean; dy?: number; sinTitulo?: boolean;
+  sobres?: {en: number; dur: number}; enSube?: number; durSube?: number; enFuera?: number; fijo?: boolean; dy?: number; sinTitulo?: boolean; esc?: number;
   en?: number; hasta?: number;
-}> = ({enBarra, durBarra = 1.2, barraFija = false, enEntra, sobres, enSube, durSube = 1.6, enFuera, fijo = false, dy = 0, sinTitulo = false, en = 0, hasta}) => {
+}> = ({enBarra, durBarra = 1.2, barraFija = false, enEntra, sobres, enSube, durSube = 1.6, enFuera, fijo = false, dy = 0, sinTitulo = false, esc = 1, en = 0, hasta}) => {
   const t = useT();
   const barra = barraFija ? 1 : enBarra === undefined ? 0 : ramp(t, enBarra, enBarra + durBarra);
   const vBarra = lerp(2900, 3020, barra);
@@ -412,18 +413,18 @@ export const BEjemplo: React.FC<{
   const rebote = flip ? 1 + 0.08 * Math.sin(cl((t - (sobres!.en + sobres!.dur)) / 0.35) * Math.PI) : 1;
   return (
     <Capa en={en} hasta={hasta} bob={0}>
-      <g transform={`translate(0 ${dy})`}>
+      <g transform={`translate(0 ${dy}) translate(540 556) scale(${esc}) translate(-540 -556)`}>
       {/* contador de válidos */}
-      <text x={540} y={530} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={48} fill={sinTitulo ? 'none' : T}>VOTOS VÁLIDOS</text>
-      <text x={540} y={640} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={104} fill={T} transform={`translate(0 ${640 * (1 - rebote)}) scale(1 ${rebote})`} style={{transformOrigin: '540px 640px'}}>{fmt(cont)}</text>
+      <text x={540} y={560} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={48} fill={sinTitulo ? 'none' : T}>VOTOS VÁLIDOS</text>
+      <text x={540} y={660} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={104} fill={T} transform={`translate(0 ${660 * (1 - rebote)}) scale(1 ${rebote})`} style={{transformOrigin: '540px 660px'}}>{fmt(cont)}</text>
       {/* sobres que caen: cada uno = 100 */}
       {sobres ? Array.from({length: 10}).map((_, i) => {
         const e0 = sobres.en + (i * sobres.dur) / 10;
         const u = ramp(t, e0, e0 + 0.3, (q) => q * q);
         const op = t < e0 ? 0 : 1 - ramp(t, e0 + 0.28, e0 + 0.4);
-        return <Sobre key={i} x={200 + i * 75} y={lerp(430, 530, u)} w={64} op={op} rot={(i % 2 ? 1 : -1) * 8} />;
+        return <Sobre key={i} x={200 + i * 75} y={lerp(450, 550, u)} w={64} op={op} rot={(i % 2 ? 1 : -1) * 8} />;
       }) : null}
-      {sobres ? <><text x={850} y={600} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={36} fill={T} opacity={ramp(t, sobres.en, sobres.en + 0.3)}>cada sobre</text><text x={850} y={642} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={36} fill={T} opacity={ramp(t, sobres.en, sobres.en + 0.3)}>= 100</text></> : null}
+      {sobres ? <><text x={870} y={705} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={36} fill={T} opacity={ramp(t, sobres.en, sobres.en + 0.3) * (1 - ramp(t, sobres.en + sobres.dur + 0.4, sobres.en + sobres.dur + 0.7))}>cada sobre</text><text x={870} y={747} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={36} fill={T} opacity={ramp(t, sobres.en, sobres.en + 0.3) * (1 - ramp(t, sobres.en + sobres.dur + 0.4, sobres.en + sobres.dur + 0.7))}>= 100</text></> : null}
       {/* regla */}
       <path d={`M${xv(2900)} 1050 L${xv(3100)} 1050`} stroke={T} strokeWidth={6} strokeLinecap="round" />
       {[2900, 3000, 3100].map((v) => (
@@ -453,9 +454,8 @@ export const BEjemplo: React.FC<{
 // ---------------------------------------------------------------- Plano general: barras 0-12 % y una que roza el listón del 3 %
 const DATOS_PLANO = [8.5, 1.2, 11, 3.05, 0.5, 6];
 const xp = (p: number) => 110 + p * 64;
-export const BPlano: React.FC<{enListon?: number; parpadeo?: number; enEt?: number; en?: number; hasta?: number}> = ({enListon = 1.2, parpadeo = 1.8, enEt = 2.2, en = 0, hasta}) => {
+export const BPlano: React.FC<{enListon?: number; parpadeo?: number; enEt?: number; en?: number; hasta?: number; y0?: number}> = ({enListon = 1.2, parpadeo = 1.8, enEt = 2.2, en = 0, hasta, y0 = 640}) => {
   const t = useT();
-  const y0 = 640;
   return (
     <Capa en={en} hasta={hasta} bob={0}>
       <path d={`M110 ${y0 - 24} L110 ${y0 + 6 * 82 - 20}`} stroke={T} strokeWidth={6} strokeLinecap="round" />
@@ -468,6 +468,10 @@ export const BPlano: React.FC<{enListon?: number; parpadeo?: number; enEt?: numb
       <g opacity={ramp(t, enListon, enListon + 0.3)}>
         <rect x={xp(3) - 11} y={y0 - 40} width={22} height={6 * 82 + 14} rx={9} fill={C.mostaza} {...sw} />
         <text x={xp(3) + 4} y={y0 - 56} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={56} fill={T}>3 %</text>
+      </g>
+      <g opacity={ramp(t, enEt, enEt + 0.3)}>
+        <rect x={xp(3.05) + 28} y={y0 + 3 * 82 + 4} width={390} height={50} rx={25} fill={C.crema} {...sw} strokeWidth={4} />
+        <text x={xp(3.05) + 48} y={y0 + 3 * 82 + 41} fontFamily={F.cifra} fontWeight={700} fontSize={36} fill={T}>provincia grande</text>
       </g>
     </Capa>
   );

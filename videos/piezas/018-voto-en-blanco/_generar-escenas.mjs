@@ -31,32 +31,32 @@ const ETIQ = (o = {}) => ({tipo: 'dhEtiqueta', en: -1, ...o});
   const a = S(16), b = S(55);
   const R = (x) => r(x - a);
   const fotoFin = t(22) - 0.05;       // "sobre"
-  const urnY = 640;
+  const urnY = 700;
   esc(a, b, {}, [
     rot('BLANCO = sobre sin papeleta', 335, 0.05, {hasta: R(t(25) - 0.12)}),
     {tipo: 'recorte', src: 'urna-cyl.png', x: 540, y: 850, ancho: 430, giro: -2, desde: 'abajo', en: 0.05, hasta: R(fotoFin),
       notas: ['LOREG art. 96.5', 'Urna, autonómicas de Castilla y León 2022'], credito: 'Foto: MiguelAlanCS · CC BY-SA 4.0 (recorte)'},
     nota(['LOREG art. 96.5'], R(fotoFin), {hasta: R(t(25) - 0.12)}),
     // urnas
-    {tipo: 'bUrnas', y: urnY, en: R(fotoFin), miniEn: R(t(54) + 0.05) - 0.3,
+    {tipo: 'bUrnas', y: urnY, en: R(fotoFin), miniEn: R(t(54) + 0.05),
       luz: [{i: 0, en: R(fotoFin), hasta: R(t(32))}, {i: 1, en: R(t(32)), hasta: R(t(48))}, {i: 2, en: R(t(48))}],
       llenan: [{i: 0, en: R(fotoFin) + 1.2}],
       check: [{i: 0, en: R(t(28))}], aspa: [{i: 1, en: R(t(44) + 0.1)}]},
-    {tipo: 'bSobreCae', x: 190, yTope: 410, yUrna: urnY, abre: R(fotoFin) + 0.1, cae: R(fotoFin) + 0.9, en: R(fotoFin), hasta: R(t(25) - 0.1)},
+    {tipo: 'bSobreCae', x: 190, yTope: 640, yUrna: 780, abre: R(fotoFin) + 0.1, cae: R(fotoFin) + 0.9, en: R(fotoFin), hasta: R(t(25) - 0.1)},
     // válido
     rot('Es un VOTO VÁLIDO', 335, R(t(25) - 0.02), {hasta: R(S(32))}),
-    {tipo: 'sello', valor: 'DATO', x: 780, y: 470, tamano: 120, en: R(t(30)), hasta: R(S(32))},
+    {tipo: 'sello', valor: 'DATO', x: 780, y: 440, tamano: 120, en: R(t(30)), hasta: R(S(32))},
     {tipo: 'notaEscribe', lineas: ['«en blanco, pero válido»', 'LOREG art. 96.5'], en: R(t(25)), dur: 1.5, hasta: R(S(32))},
     // nulo
     rot('NULO, por ejemplo:', 335, R(t(32) - 0.02), {hasta: R(S(44))}),
-    {tipo: 'bNulos', en1: R(t(34) - 0.1), en2: R(t(38) - 0.1), y1: 930, y2: 1040, hasta: R(S(44))},
-    rot('nombres tachados', 892, R(t(34) - 0.05), {izq: 250, ancho: 680, tamano: 64, hasta: R(S(44))}),
-    rot('papel no oficial', 1002, R(t(38) - 0.05), {izq: 250, ancho: 680, tamano: 64, hasta: R(S(44))}),
+    {tipo: 'bNulos', en1: R(t(34) - 0.1), en2: R(t(38) - 0.1), y1: 1000, y2: 1110, hasta: R(S(44))},
+    rot('nombres tachados', 962, R(t(34) - 0.05), {izq: 250, ancho: 680, tamano: 64, hasta: R(S(44))}),
+    rot('papel no oficial', 1072, R(t(38) - 0.05), {izq: 250, ancho: 680, tamano: 64, hasta: R(S(44))}),
     nota(['LOREG art. 96.1 y 96.2'], R(t(32) - 0.02), {hasta: R(S(44))}),
     rot('NO es válido', 335, R(t(44) - 0.02), {hasta: R(S(48))}),
     // abstención
-    rot('ABSTENCIÓN = no ir a votar', 335, R(t(48) - 0.02)),
-    {tipo: 'bSofa', x: 520, y: 960, tam: 0.95, en: R(t(50) - 0.3)},
+    rot('ABSTENCIÓN = no ir a votar', 335, R(t(48) - 0.02), {hasta: R(t(54) + 0.02)}),
+    {tipo: 'bSofa', x: 520, y: 1060, tam: 0.95, en: R(t(50) - 0.3)},
     nota(['Votar no es obligatorio en España'], R(t(48) - 0.02)),
   ]);
 }
@@ -82,10 +82,10 @@ const ETIQ = (o = {}) => ({tipo: 'dhEtiqueta', en: -1, ...o});
   esc(a, b, {}, [
     MINI,
     rot("D'HONDT: solo votos a candidaturas", 430, 0.05, {hasta: R(S(75))}),
-    rot(`BARRERA: 3${NB}% de los votos válidos`, 430, R(S(75)) + 0.05),
+    rot(`CONGRESO: barrera del 3${NB}%${NB}de${NB}válidos`, 430, R(S(75)) + 0.05),
     {tipo: 'bReparto', divide: [R(t(66)), R(t(69)), R(t(72))], montonEn: R(t(70)), listonEn: R(t(80) - 0.05), en: 0.05},
     nota(['LOREG art. 163.1.b y c', '¿Cómo funciona? Vídeo 002'], 0.05, {hasta: R(S(75))}),
-    nota(['LOREG art. 163.1.a'], R(S(75)) + 0.05),
+    nota(['LOREG art. 163.1.a (elecciones al Congreso)'], R(S(75)) + 0.05),
   ]);
 }
 {
@@ -117,11 +117,11 @@ const ETIQ = (o = {}) => ({tipo: 'dhEtiqueta', en: -1, ...o});
   esc(a, b, {}, [
     ETIQ(),
     rot(`100.000 válidos${NB}→ barrera: 3.000`, 335, 0.05, {hasta: R(S(116))}),
-    rot(`Cuadrado: 3.020${NB}→ ENTRA`, 335, R(S(116)) + 0.05, {hasta: R(S(124))}),
+    rot(`Cuadrado: 3.020${NB}→ ENTRA AL REPARTO`, 335, R(S(116)) + 0.05, {hasta: R(S(124))}),
     rot('+1.000 votos en blanco', 335, R(S(124)) + 0.05, {hasta: R(S(130))}),
     rot(`101.000 válidos${NB}→ barrera: 3.030`, 335, R(S(130)) + 0.05, {hasta: R(S(142))}),
-    rot('CUADRADO, FUERA POR 10 VOTOS', 335, R(S(142)) + 0.05),
-    {tipo: 'bEjemplo', en: 0.05, enBarra: R(t(118)), durBarra: r(t(122) + 0.4 - t(118)), enEntra: R(t(123)),
+    rot('CUADRADO: FUERA DEL REPARTO POR 10 VOTOS', 335, R(S(142)) + 0.05),
+    {tipo: 'bEjemplo', en: 0.05, dy: 50, enBarra: R(t(118)), durBarra: r(t(122) + 0.4 - t(118)), enEntra: R(t(123)),
       sobres: {en: R(t(125)), dur: r(t(129) + 0.2 - t(125))}, enSube: R(t(136)), durSube: r(t(141) - t(136)), enFuera: R(t(145))},
     nota(['3 % de 100.000 = 3.000', 'Escala ampliada: desde 2.900'], 0.05, {hasta: R(S(130))}),
     nota(['3 % de 101.000 = 3.030', 'Escala ampliada: desde 2.900'], R(S(130)) + 0.05, {hasta: R(S(142))}),
@@ -136,8 +136,8 @@ const ETIQ = (o = {}) => ({tipo: 'dhEtiqueta', en: -1, ...o});
     MINI,
     ETIQ(),
     rot(`+1.000 nulos o abstenciones${NB}→ sigue en 3.000`, 420, 0.05, {tamano: 64}),
-    {tipo: 'bEjemplo', en: -1, barraFija: true, fijo: true, dy: 24, sinTitulo: true},
-    {tipo: 'bCaen', tipo2: 'nulo', en: R(t(151) - 0.1)},
+    {tipo: 'bEjemplo', en: -1, barraFija: true, fijo: true, dy: 177, esc: 0.8, sinTitulo: true},
+    {tipo: 'bCaen', tipo2: 'nulo', yIni: 720, yFin: 750, baja: 20, en: R(t(151) - 0.1)},
     nota(['Escala ampliada: desde 2.900'], 0.05),
   ]);
   // el generador usa `tipo` para el componente: el subtipo de bCaen va en `variante`
@@ -146,15 +146,16 @@ const ETIQ = (o = {}) => ({tipo: 'dhEtiqueta', en: -1, ...o});
   delete caen.tipo2;
   caen.tipo = 'bCaen';
   caen.variante = 'nulo';
-  e.componentes.push({tipo: 'bCaen', variante: 'sofa', en: R(t(153) - 0.1)});
+  e.componentes.push({tipo: 'bCaen', variante: 'sofa', xSofa: 780, ySofa: 695, en: R(t(153) - 0.1)});
 }
 {
   // plano general
   const a = S(159), b = S(172);
   const R = (x) => r(x - a);
   esc(a, b, {}, [
-    rot(`Solo importa si alguien roza el 3${NB}%`, 335, 0.05),
-    {tipo: 'bPlano', enListon: 0.9, parpadeo: R(t(165)), enEt: R(t(169)), en: 0.05},
+    rot(`Solo pesa si alguien roza el 3${NB}%`, 335, 0.05),
+    nota(['En la práctica, Madrid y Barcelona'], 0.05),
+    {tipo: 'bPlano', enListon: 0.9, parpadeo: R(t(165)), enEt: R(t(170)), en: 0.05, y0: 700},
   ]);
 }
 
@@ -168,11 +169,11 @@ const ETIQ = (o = {}) => ({tipo: 'dhEtiqueta', en: -1, ...o});
     rot('¿INVISIBLE? TAMPOCO', 435, R(t(179)) - 0.1),
     {tipo: 'bGancho', modo: 'bucle', tPasa: 0.5, hasta: R(fFoto)},
     {tipo: 'recorte', src: 'urna-and.png', x: 500, y: 900, ancho: 800, giro: 2, desde: 'abajo', en: R(fFoto),
-      notas: ['Urna, autonómicas andaluzas 2015, Montalbán de Córdoba'], credito: 'Foto: Américo Toledano · CC BY-SA 4.0 · Wikimedia Commons'},
+      notas: ['Urna andaluza, Montalbán, 2015'], credito: 'Foto: Américo Toledano · CC BY-SA 4.0 · Wikimedia Commons'},
   ]);
 }
 esc(S(183), DUR, {fondo: 'mostaza', sinSubtitulos: true}, [
-  {tipo: 'cierre', frase: '¿LO SABÍAS?', pregunta: 'Te leemos en comentarios', tamano: 110, yFrase: 460, yGuardalo: 1180, pulso: true},
+  {tipo: 'cierre', frase: '¿LO SABÍAS?', pregunta: 'Te leemos en comentarios', tamano: 110, yFrase: 460, yGuardalo: 1180, cta: 'guardalo', pulso: true},
   {tipo: 'bUrnas', mini: true, yMini: 900, en: 0.2},
 ]);
 
@@ -180,7 +181,7 @@ const portada = {escenas: [{inicio: 0, fin: 3, fondo: 'crema', componentes: [
   {tipo: 'gancho', texto: 'VOTO EN BLANCO: ¿PARA QUIÉN VA?', y: 330, tamano: 100, en: -1},
   {tipo: 'recorte', src: 'urna-cyl.png', x: 540, y: 1090, ancho: 480, giro: -2, desde: 'escala', flota: false, en: -1, credito: 'Foto: MiguelAlanCS · CC BY-SA 4.0 (recorte)'},
 ]}]};
-const out = {plantilla: 'estandar', duracion: DUR, portadaSegundo: 1.5, marca: '@loquepasaenunminuto',
+const out = {plantilla: 'estandar', duracion: DUR, portadaSegundo: 1.5, marca: '@loquepasaenunminuto', subDy: 90,
   musica: {pista: 'investigations.mp3', volumen: -16}, portada, escenas: ESC};
 fs.writeFileSync(path.join(dir, 'escenas.json'), JSON.stringify(out, null, 2));
 console.log('escenas:', ESC.length, 'duración', DUR, 'voz', T.duracion.toFixed(2));

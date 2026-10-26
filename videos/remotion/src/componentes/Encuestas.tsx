@@ -271,7 +271,7 @@ export const RepartoE: React.FC<{y?: number; en?: number; hasta?: number; repart
 
 /* ------------------------------------------------------------------ Ejemplo: mismos ingredientes, dos platos */
 /** EJEMPLO inventado: un cesto, dos cocineros en silueta y dos platos (fotos reales, aparte) con DISTINTO reparto de los mismos ingredientes (barra apilada de 3 colores neutros). */
-export const EjemploE: React.FC<{y?: number; yPlatos?: number; xs?: [number, number]; enT?: number; platosEn?: number; en?: number; hasta?: number}> = ({y = 640, yPlatos = 930, xs = [290, 770], enT = 0.3, platosEn = 2.2, en = 0, hasta}) => {
+export const EjemploE: React.FC<{y?: number; yPlatos?: number; xs?: [number, number]; enT?: number; platosEn?: number; platos?: boolean; en?: number; hasta?: number}> = ({y = 640, yPlatos = 930, xs = [290, 770], enT = 0.3, platosEn = 2.2, platos = false, en = 0, hasta}) => {
   const t = useT();
   const cols = [C.mostaza, C.turquesa, C.piedra];
   const reparto = [[0.55, 0.15, 0.3], [0.2, 0.55, 0.25]];
@@ -318,6 +318,7 @@ export const EjemploE: React.FC<{y?: number; yPlatos?: number; xs?: [number, num
         </g>
       ))}
       {xs.map((x, p) => <circle key={`o${p}`} cx={x} cy={yPlatos} r={170} fill="none" stroke={C.piedra} strokeWidth={8} strokeDasharray="6 20" strokeLinecap="round" opacity={(1 - cl((t - platosEn) / 0.2)) * e} />)}
+      {platos ? xs.map((x, p) => <g key={`pl${p}`} opacity={cl((t - platosEn) / 0.25)}><circle cx={x} cy={yPlatos} r={150} fill={C.crema} {...sw} /><circle cx={x} cy={yPlatos} r={108} fill="none" stroke={C.piedra} strokeWidth={5} /></g>) : null}
       {fichas}
       {[0, 1].map(bar)}
     </Capa>
@@ -367,7 +368,7 @@ export const LlaveE: React.FC<{x?: number; y?: number; tam?: number; en?: number
 
 /* ------------------------------------------------------------------ Carpeta de microdatos + cucharones */
 /** Carpeta que se abre y tres cucharones que salen hacia tres ollas (recortes aparte) en `xs`. Etiqueta de 64 px "microdatos CIS". */
-export const CarpetaE: React.FC<{x?: number; y?: number; etiqueta?: string; abreEn?: number; xs: number[]; yOllas: number; en?: number; hasta?: number}> = ({x = 540, y = 620, etiqueta = 'microdatos CIS', abreEn = 0.6, xs, yOllas, en = 0, hasta}) => {
+export const CarpetaE: React.FC<{x?: number; y?: number; etiqueta?: string; abreEn?: number; xs: number[]; yOllas: number; cuchOff?: number; etiquetaDy?: number; en?: number; hasta?: number}> = ({x = 540, y = 620, etiqueta = 'microdatos CIS', abreEn = 0.6, xs, yOllas, cuchOff = 190, etiquetaDy = 175, en = 0, hasta}) => {
   const t = useT();
   const a = easeIO(cl((t - abreEn) / 0.5));
   return (
@@ -380,12 +381,12 @@ export const CarpetaE: React.FC<{x?: number; y?: number; etiqueta?: string; abre
           <rect x={20} y={100} width={170} height={12} rx={6} fill={C.piedra} />
         </g>
       </g>
-      <text x={x} y={y + 175} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={64} fill={T} opacity={cl((t - 0.2) / 0.3)}>{etiqueta}</text>
+      <text x={x} y={y + etiquetaDy} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={64} fill={T} opacity={cl((t - 0.2) / 0.3)}>{etiqueta}</text>
       {xs.map((ex, i) => {
         const u = cl((t - abreEn - 0.7 - i * 0.35) / 0.8);
         if (u <= 0) return null;
         const m = easeIO(u);
-        const px = x + (ex - x) * m, py = y + 190 + (yOllas - 140 - (y + 190)) * m - Math.sin(u * Math.PI) * 60;
+        const px = x + (ex - x) * m, py = y + cuchOff + (yOllas - 140 - (y + cuchOff)) * m - Math.sin(u * Math.PI) * 60;
         return (
           <g key={i} transform={`translate(${px} ${py}) rotate(${(ex - x) / 14})`} opacity={u > 0.9 ? (1 - u) / 0.1 : 1}>
             <circle cx={0} cy={0} r={24} fill={C.piedra} {...sw} strokeWidth={5} />
@@ -453,8 +454,66 @@ export const LupaFichaE: React.FC<{x?: number; y?: number; en?: number; hasta?: 
   );
 };
 
+/* ------------------------------------------------------------------ Iconos planos: olla, cámara, cucharón (sustituyen a las fotos de terceros) */
+const entra = (t: number, en: number, desde: string) => {
+  const p = Easing.out(Easing.back(1.6))(cl((t - en) / 0.5));
+  const o = cl((t - en) / 0.25);
+  return {p, o, dy: desde === 'abajo' ? (1 - p) * 160 : 0, dx: desde === 'izquierda' ? (1 - p) * -90 : 0, s: desde === 'abajo' || desde === 'izquierda' ? 1 : 0.6 + 0.4 * p};
+};
+/** Olla plana (icono). `ancho` en px. `desde`: 'abajo' | 'izquierda' | 'escala' (la entrada nunca sale por la derecha). Centro en (x, y). */
+export const OllaE: React.FC<{x?: number; y?: number; ancho?: number; giro?: number; desde?: string; flota?: boolean; en?: number; hasta?: number}> = ({x = 540, y = 900, ancho = 300, giro = 0, desde = 'escala', flota = false, en = 0, hasta}) => {
+  const t = useT();
+  const s = useSalida(hasta);
+  const {p, o, dy, dx, s: sc} = entra(t, en, desde);
+  const k = (ancho / 220) * (en < 0 ? 1 : sc);
+  const fl = flota ? 8 * Math.sin(t * 2.2) : 0;
+  return (
+    <svg width={1080} height={1920} style={{position: 'absolute', left: 0, top: 0, overflow: 'visible', opacity: (en < 0 ? 1 : o) * s}}>
+      <g transform={`translate(${x + (en < 0 ? 0 : dx)} ${y + fl + (en < 0 ? 0 : dy)}) rotate(${giro}) scale(${k})`}>
+        <path d="M-76 -26 H76 V52 a42 42 0 0 1 -42 42 H-34 a42 42 0 0 1 -42 -42 Z" fill={C.mostaza} {...sw} />
+        <rect x={-112} y={-6} width={40} height={20} rx={10} fill={C.mostaza} {...sw} />
+        <rect x={72} y={-6} width={40} height={20} rx={10} fill={C.mostaza} {...sw} />
+        <path d="M-92 -30 Q0 -92 92 -30 Z" fill={C.crema} {...sw} />
+        <circle cx={0} cy={-80} r={11} fill={T} />
+        <path d="M-48 20 H48" stroke={T} strokeWidth={5} strokeLinecap="round" opacity={0.35} />
+      </g>
+      {void p}
+    </svg>
+  );
+};
+/** Cámara plana (icono). */
+export const CamaraE: React.FC<{x?: number; y?: number; ancho?: number; giro?: number; desde?: string; en?: number; hasta?: number}> = ({x = 300, y = 700, ancho = 270, giro = 0, desde = 'izquierda', en = 0, hasta}) => {
+  const t = useT();
+  const s = useSalida(hasta);
+  const {o, dy, dx, s: sc} = entra(t, en, desde);
+  const k = (ancho / 220) * (en < 0 ? 1 : sc);
+  return (
+    <svg width={1080} height={1920} style={{position: 'absolute', left: 0, top: 0, overflow: 'visible', opacity: (en < 0 ? 1 : o) * s}}>
+      <g transform={`translate(${x + (en < 0 ? 0 : dx)} ${y + (en < 0 ? 0 : dy)}) rotate(${giro}) scale(${k})`}>
+        <path d="M-40 -66 H30 L44 -44 H-54 Z" fill={C.piedra} {...sw} />
+        <rect x={-104} y={-46} width={208} height={128} rx={20} fill={C.piedra} {...sw} />
+        <circle cx={0} cy={18} r={44} fill={C.crema} {...sw} />
+        <circle cx={0} cy={18} r={20} fill={T} />
+        <rect x={64} y={-30} width={24} height={16} rx={6} fill={C.mostaza} stroke={T} strokeWidth={4} />
+      </g>
+    </svg>
+  );
+};
+/** Cucharón mostaza (icono para la portada). */
+export const CucharonE: React.FC<{x?: number; y?: number; ancho?: number; giro?: number; en?: number}> = ({x = 540, y = 1200, ancho = 300, giro = -35, en = 0}) => {
+  const k = ancho / 220;
+  return (
+    <svg width={1080} height={1920} style={{position: 'absolute', left: 0, top: 0, overflow: 'visible', opacity: en < 0 ? 1 : 0}}>
+      <g transform={`translate(${x} ${y}) rotate(${giro}) scale(${k})`}>
+        <path d="M0 -20 L0 -150" {...sw} strokeWidth={14} />
+        <circle cx={0} cy={30} r={56} fill={C.mostaza} {...sw} />
+      </g>
+    </svg>
+  );
+};
+
 export const REGISTRO_012: Record<string, React.FC<any>> = {
   balanzaE: BalanzaE, barrasE: BarrasE, tarjetaE: TarjetaE, pasosE: PasosE, personasE: PersonasE, lluviaOllaE: LluviaOllaE, repartoE: RepartoE,
-  ejemploE: EjemploE, calendarioE: CalendarioE, llaveE: LlaveE, carpetaE: CarpetaE, polaroidE: PolaroidE, lupaFichaE: LupaFichaE,
+  ejemploE: EjemploE, calendarioE: CalendarioE, llaveE: LlaveE, carpetaE: CarpetaE, polaroidE: PolaroidE, lupaFichaE: LupaFichaE, ollaE: OllaE, camaraE: CamaraE, cucharonE: CucharonE,
 };
 void interpolate;

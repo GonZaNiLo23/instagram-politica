@@ -59,7 +59,7 @@ esc(B.b3a, B.b3b, {}, [
 esc(B.b3b, B.b3c, {}, [
   rot('2 · SI NO LO ATIENDE: AL SENADO', 335, 0.05),
   SEN({x: 715, y: 790, ancho: 400, desde: 'derecha', en: 0.15, credito: CR}),
-  {tipo: 'carpetaS', lineas: ['SOLICITUD', 'DEL', 'GOBIERNO'], de: [285, 790], a: [715, 800], en: 0.1, dur: Math.max(0.8, rel(B.b3b, t(63)) - rel(B.b3b, t(58)) - 0.3), ancho: 450, alto: 310, entra: true},
+  {tipo: 'carpetaS', lineas: [], de: [285, 790], a: [715, 800], en: 0.1, dur: Math.max(0.8, rel(B.b3b, t(63)) - rel(B.b3b, t(58)) - 0.3), ancho: 450, alto: 310, entra: true},
   escalera(1),
 ]);
 esc(B.b3c, B.b3d, {}, [
@@ -70,9 +70,9 @@ esc(B.b3c, B.b3d, {}, [
 ]);
 esc(B.b3d, B.b4a, {}, [
   rot('→ MEDIDAS: OBLIGAR A CUMPLIR O PROTEGER', 335, 0.05),
-  {tipo: 'tarjetaS', lineas: GOB, y: 520, alto: 110, en: 0.1, hasta: rel(B.b3d, t(85)) - 0.1},
-  {tipo: 'tarjetaS', lineas: ['COMUNIDAD AUTÓNOMA'], y: 770, alto: 110, en: 0.1, hasta: rel(B.b3d, t(85)) - 0.1},
-  {tipo: 'carpetaS', lineas: ['MEDIDAS'], de: [540, 700], a: [540, 830], en: 0.2, dur: Math.max(0.8, rel(B.b3d, t(85)) - 1.4), ancho: 400, alto: 150, abreEn: rel(B.b3d, t(85)) - 0.5, hasta: rel(B.b3d, t(85)) - 0.1},
+  {tipo: 'tarjetaS', lineas: GOB, y: 490, alto: 110, en: 0.1, hasta: rel(B.b3d, t(85)) - 0.1},
+  {tipo: 'tarjetaS', lineas: ['COMUNIDAD AUTÓNOMA'], y: 800, alto: 110, en: 0.1, hasta: rel(B.b3d, t(85)) - 0.1},
+  {tipo: 'carpetaS', lineas: ['MEDIDAS'], de: [540, 690], a: [540, 705], en: 0.2, dur: Math.max(0.8, rel(B.b3d, t(85)) - 1.4), ancho: 400, alto: 130, abreEn: rel(B.b3d, t(85)) - 0.5, hasta: rel(B.b3d, t(85)) - 0.1},
   {tipo: 'casillasS', y: 560, items: [
     {texto: 'OBLIGAR A CUMPLIR', n: 1, en: rel(B.b3d, t(85)) + 0.05},
     {texto: 'PROTEGER EL INTERÉS GENERAL', n: 2, en: rel(B.b3d, t(88)) - 0.1},
@@ -82,20 +82,20 @@ esc(B.b3d, B.b4a, {}, [
 ]);
 // 4 · Cómo se aplicó
 const FUENTE4 = 'Fuente: Diario de Sesiones del Senado, 27-10-2017 · Moncloa 19-10-2017';
-const LT = (a, h) => ({tipo: 'lineaS', y: 1090, en: -1, hitos: [{x: 190, etiqueta: '11-OCT', en: h[0]}, {x: 540, etiqueta: '19-OCT', en: h[1]}, {x: 890, etiqueta: '27-OCT', en: h[2]}]});
+const LT = (a, h) => ({tipo: 'lineaS', y: 1090, en: -1, hitos: [{x: 170, etiqueta: '11-OCT', en: h[0]}, {x: 480, etiqueta: '19-OCT', en: h[1]}, {x: 790, etiqueta: '27-OCT', en: h[2]}]});
 esc(B.b4a, B.b4b, {}, [
   rot('11-OCT-2017: REQUERIMIENTO', 335, 0.05),
   {tipo: 'tarjetaS', lineas: GOB, y: 510, alto: 170, en: 0.1, luz: 0.3},
-  {tipo: 'tarjetaS', lineas: ['GENERALITAT', 'DE CATALUNYA'], y: 770, alto: 170, en: 0.1, luz: rel(B.b4a, B.b4b) - 0.2},
-  {tipo: 'sobreS', de: [540, 725], a: [540, 855], en: 0.5, dur: rel(B.b4a, B.b4b) - 0.8, ancho: 200, escalaFin: 0.5},
+  {tipo: 'tarjetaS', lineas: ['GENERALITAT', 'DE CATALUNYA'], y: 820, alto: 170, en: 0.1, luz: rel(B.b4a, B.b4b) - 0.2},
+  {tipo: 'sobreS', de: [540, 725], a: [540, 745], en: 0.5, dur: rel(B.b4a, B.b4b) - 0.8, ancho: 200, escalaFin: 0.5},
   LT(0, [0.3, 99, 99]),
   nota([FUENTE4], 0.1),
 ]);
 esc(B.b4b, B.b4c, {}, [
   rot('19-OCT: NO ATENDIDO, SEGÚN EL GOBIERNO', 335, 0.05),
   {tipo: 'tarjetaS', lineas: GOB, y: 510, alto: 170, en: -1},
-  {tipo: 'tarjetaS', lineas: ['GENERALITAT', 'DE CATALUNYA'], y: 770, alto: 170, en: -1},
-  {tipo: 'sobreS', de: [540, 855], a: [540, 725], en: 0.2, dur: 0.9, ancho: 200, escalaFin: 0.8},
+  {tipo: 'tarjetaS', lineas: ['GENERALITAT', 'DE CATALUNYA'], y: 820, alto: 170, en: -1},
+  {tipo: 'sobreS', de: [540, 745], a: [540, 725], en: 0.2, dur: 0.9, ancho: 200, escalaFin: 0.8},
   {tipo: 'selloTexto', lineas: ['NO ATENDIDO'], x: 640, y: 700, tamano: 64, angulo: -5, desde: 120, en: Math.max(1.1, rel(B.b4b, t(105)) - 0.1)},
   LT(0, [0, 0.1, 99]),
   nota([FUENTE4], 0.1),
@@ -110,6 +110,7 @@ esc(B.b4c, B.b5a, {}, [
 const FUENTE5 = 'Fuente: Diario de Sesiones del Senado, 27-10-2017 · STC 89/2019 y 90/2019 (BOE)';
 const cardG = (y, o) => ({tipo: 'tarjetaS', lineas: ['GOBIERNO', 'DE', 'ESPAÑA'], x: 275, y, ancho: 430, alto: 250, en: -1, ...o});
 const cardP = (y, o) => ({tipo: 'tarjetaS', lineas: ['PARLAMENT', 'DE', 'CATALUNYA'], x: 725, y, ancho: 430, alto: 250, en: -1, ...o});
+const cardD = (y, o) => ({tipo: 'tarjetaS', lineas: ['DIPUTADOS DE', 'UNIDOS PODEMOS'], x: 540, y, ancho: 840, alto: 160, en: -1, ...o});
 esc(B.b5a, B.b5b, {}, [
   rot('GOBIERNO: LA GENERALITAT INCUMPLÍA', 335, 0.05),
   cardG(505, {en: 0.1, luz: 0.3}),
@@ -122,15 +123,16 @@ esc(B.b5a, B.b5b, {}, [
 ]);
 esc(B.b5b, B.b5c, {}, [
   rot('RECURRIERON: DIPUTADOS DE UNIDOS PODEMOS Y PARLAMENT', 335, 0.05),
-  cardG(590, {luz: 0}),
-  cardP(590, {luz: rel(B.b5b, t(134)) - 0.1}),
-  {tipo: 'casillasS', y: 860, items: [{texto: 'RECURSO ANTE EL CONSTITUCIONAL', n: 2, en: rel(B.b5b, t(135)) - 0.1}]},
+  cardG(570, {luz: 0, alto: 232}),
+  cardP(570, {luz: rel(B.b5b, t(134)) - 0.1, alto: 232}),
+  cardD(812, {luz: rel(B.b5b, t(134)) - 0.1}),
+  {tipo: 'casillasS', y: 984, items: [{texto: 'RECURSO ANTE EL CONSTITUCIONAL', n: 2, en: rel(B.b5b, t(135)) - 0.1}]},
   nota([FUENTE5], 0.1),
 ]);
 esc(B.b5c, B.b6a, {}, [
   rot('NO PERMITE SUSTITUIR GOBIERNO NI DISOLVER PARLAMENTO', 335, 0.05),
   {tipo: 'casillasS', y: 620, items: [
-    {texto: 'OBLIGAR A CUMPLIR', n: 1, en: rel(B.b5c, t(140)) - 0.1, tipo: 'ok'},
+    {texto: 'OBLIGAR A CUMPLIR', n: 1, en: 0.3, tipo: 'ok'},
     {texto: 'SUSTITUIR AL GOBIERNO CATALÁN', n: 2, en: rel(B.b5c, t(144)) - 0.1, tipo: 'no'},
     {texto: 'DISOLVER EL PARLAMENTO', n: 2, en: rel(B.b5c, t(149)) - 0.1, tipo: 'no'},
   ]},
@@ -165,7 +167,7 @@ const portada = {escenas: [{inicio: 0, fin: 3, fondo: 'crema', componentes: [
   SEN({x: 540, y: 930, ancho: 860, desde: 'escala', en: -1, flota: false, credito: 'Imagen de archivo'}),
   {tipo: 'tarjetaS', lineas: ['ARTÍCULO 155'], x: 540, y: 1265, ancho: 860, alto: 170, tamano: 80, titular: true, en: -1},
 ]}]};
-const out = {plantilla: 'estandar', duracion: DUR, portadaSegundo: 1.5, marca: '@loquepasaenunminuto', subSinHuerfanas: true, musica: {pista: 'wallpaper.mp3', volumen: -16}, portada, escenas: ESC};
+const out = {plantilla: 'estandar', duracion: DUR, portadaSegundo: 1.5, marca: '@loquepasaenunminuto', subSinHuerfanas: true, subDy: 70, musica: {pista: 'wallpaper.mp3', volumen: -16}, portada, escenas: ESC};
 fs.writeFileSync(path.join(dir, 'escenas.json'), JSON.stringify(out, null, 2));
 console.log('escenas:', ESC.length, 'duración', DUR, 'voz', T.duracion.toFixed(2));
 ESC.forEach((e, i) => { const d = e.fin - e.inicio; console.log(i + 1, e.inicio, d.toFixed(2)); });

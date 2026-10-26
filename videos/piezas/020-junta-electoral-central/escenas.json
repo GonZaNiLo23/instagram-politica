@@ -1,0 +1,649 @@
+{
+  "plantilla": "estandar",
+  "duracion": 71,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 90,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "13 VOCALES VIGILAN LA CAMPAÑA",
+            "y": 350,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "mesaJ",
+            "yMesa": 1090,
+            "togaEn": -1,
+            "bandaEn": -1,
+            "birreteEn": -1,
+            "cifra": "13",
+            "yCifra": 950,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 6.1,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "13 VOCALES VIGILAN LA CAMPAÑA",
+          "y": 335,
+          "tamano": 96,
+          "en": -1,
+          "hasta": 3.87
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "8 SON MAGISTRADOS DEL SUPREMO",
+          "y": 335,
+          "en": 3.87,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG, art. 9.1"
+          ],
+          "en": 3.87
+        },
+        {
+          "tipo": "mesaJ",
+          "yMesa": 1090,
+          "ocupanEn": [
+            0.2,
+            0.42,
+            0.64,
+            0.86,
+            1.08,
+            1.3,
+            1.52,
+            1.74,
+            1.96,
+            2.18,
+            2.4,
+            2.62,
+            2.84
+          ],
+          "togaEn": 3.92,
+          "bandaEn": 4.56,
+          "cifra": "13",
+          "yCifra": 940,
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 6.1,
+      "fin": 9.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "JUNTA ELECTORAL CENTRAL (JEC)",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG, art. 9.1 · sede en Madrid, art. 8.3"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "mesaJ",
+          "yMesa": 1090,
+          "togaEn": -1,
+          "bandaEn": -1,
+          "en": -1
+        },
+        {
+          "tipo": "placaJ",
+          "x": 540,
+          "y": 730,
+          "ancho": 420,
+          "en": 0.62
+        }
+      ]
+    },
+    {
+      "inicio": 9.62,
+      "fin": 13.06,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ÓRGANO PERMANENTE",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG, art. 9.1 · sede en Madrid, art. 8.3"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "mesaJ",
+          "yMesa": 1090,
+          "togaEn": -1,
+          "bandaEn": -1,
+          "en": -1
+        },
+        {
+          "tipo": "placaJ",
+          "x": 540,
+          "y": 730,
+          "ancho": 420,
+          "en": -1
+        },
+        {
+          "tipo": "aniosJ",
+          "y": 925,
+          "anios": [
+            "2019",
+            "2023",
+            "2026"
+          ],
+          "pasan": [
+            0.15,
+            0.95,
+            1.75
+          ],
+          "dur": 1.7,
+          "en": 0
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "PERMANENTE"
+          ],
+          "x": 540,
+          "y": 540,
+          "tamano": 64,
+          "angulo": -5,
+          "desde": 40,
+          "en": 2.34
+        }
+      ]
+    },
+    {
+      "inicio": 13.06,
+      "fin": 14.38,
+      "componentes": [
+        {
+          "tipo": "mesaJ",
+          "modo": "dos",
+          "dosEn": 0.1,
+          "yA": 920,
+          "yB": 1070,
+          "togaEn": -1,
+          "bandaEn": -1,
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 14.38,
+      "fin": 18.46,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "8 MAGISTRADOS DEL SUPREMO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Elegidos por sorteo · CGPJ · art. 9.1.a"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "mesaJ",
+          "modo": "dos",
+          "togaEn": -1,
+          "bandaEn": -1,
+          "foco": "mag",
+          "en": -1
+        },
+        {
+          "tipo": "bomboM",
+          "x": 280,
+          "y": 700,
+          "tam": 200,
+          "en": 0.1
+        },
+        {
+          "tipo": "fichaM",
+          "texto": "TS",
+          "r": 48,
+          "tamTexto": 42,
+          "ruta": [
+            {
+              "t": 0.6,
+              "x": 280,
+              "y": 700,
+              "e": 0.4
+            },
+            {
+              "t": 1.6,
+              "x": 520,
+              "y": 700,
+              "e": 1
+            }
+          ]
+        },
+        {
+          "tipo": "etiquetaJ",
+          "texto": "CGPJ",
+          "x": 740,
+          "y": 700,
+          "tam": 56,
+          "en": 1.2
+        }
+      ]
+    },
+    {
+      "inicio": 18.46,
+      "fin": 22.94,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "5 CATEDRÁTICOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Derecho o Ciencias Políticas y Sociología"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "mesaJ",
+          "modo": "dos",
+          "togaEn": -1,
+          "bandaEn": -1,
+          "birreteEn": 0.2,
+          "foco": "cat",
+          "en": -1
+        },
+        {
+          "tipo": "libroJ",
+          "x": 540,
+          "y": 680,
+          "tam": 240,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 22.94,
+      "fin": 26.82,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PROPUESTOS POR LOS PARTIDOS DEL CONGRESO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "De forma conjunta · art. 9.1.b"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "propuestaJ",
+          "papelEn": 0.7,
+          "aparecen": [
+            1.54,
+            2.02,
+            2.18,
+            2.94,
+            3.02
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 26.82,
+      "fin": 29.61,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SECRETARIO: EL DEL CONGRESO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Secretario general · art. 9.6"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "mesaJ",
+          "modo": "dos",
+          "togaEn": -1,
+          "bandaEn": -1,
+          "birreteEn": -1,
+          "foco": "sec",
+          "secSilla": true,
+          "secEn": 0.3,
+          "en": -1
+        },
+        {
+          "tipo": "hemiJ",
+          "x": 640,
+          "y": 730,
+          "tam": 300,
+          "en": 0.19999999999999998
+        }
+      ]
+    },
+    {
+      "inicio": 29.61,
+      "fin": 31.09,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿QUÉ HACE LA JEC?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "cifraGrande",
+          "texto": "?",
+          "x": 540,
+          "y": 820,
+          "tamano": 420,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 31.09,
+      "fin": 32.86,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "RESUELVE QUEJAS Y RECURSOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG, art. 19.1.h"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "carpetasJ",
+          "y": 860,
+          "en": 0.1,
+          "checkEn": 2
+        }
+      ]
+    },
+    {
+      "inicio": 32.86,
+      "fin": 36.5,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "INSTRUCCIONES OBLIGATORIAS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Para las juntas provinciales · art. 19.1.c"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "instruccionJ",
+          "en": 0.1,
+          "baja": 0.66,
+          "dur": 2.7
+        }
+      ]
+    },
+    {
+      "inicio": 36.5,
+      "fin": 39.74,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VELA POR LAS ENCUESTAS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Art. 69.2"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "encuestaJ",
+          "y": 1000,
+          "lupaEn": 0.6,
+          "checkEn": 2.14,
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 39.74,
+      "fin": 44.51,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "26-OCT: REPARTO DE ESPACIOS GRATIS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Instrucción 2/2026 · JEC"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "calendarioJ",
+          "x": 540,
+          "y": 860,
+          "marcaEn": 0.22,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 44.51,
+      "fin": 47.54,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SEGÚN LOS VOTOS ANTERIORES",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG, art. 64.1"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "franjaJ",
+          "y": 850,
+          "tramosEn": 0.9299999999999999,
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 47.54,
+      "fin": 49.94,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "TAMBIÉN LAS TELES PRIVADAS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "platoJ",
+          "x": 540,
+          "y": 830,
+          "esc": 1,
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 49.94,
+      "fin": 58.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DEBATES Y ENTREVISTAS: 4 REGLAS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Pluralismo · igualdad · proporcionalidad · neutralidad · LOREG, art. 66.2 e instrucciones de la JEC"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "platoJ",
+          "x": 540,
+          "y": 640,
+          "esc": 0.5,
+          "en": -1
+        },
+        {
+          "tipo": "reglasJ",
+          "y0": 790,
+          "paso": 100,
+          "tiempos": [
+            2.36,
+            3.2399999999999998,
+            4.04,
+            5.08
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 58.42,
+      "fin": 62.43,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "13 VOCALES + 1 SECRETARIO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mesaJ",
+          "yMesa": 1090,
+          "togaEn": -1,
+          "birreteEn": -1,
+          "bandaEn": -1,
+          "cifra": "13",
+          "cifra2": "+1",
+          "yCifra": 940,
+          "secSilla": true,
+          "secEn": 0.98,
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 62.43,
+      "fin": 66.5,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿TELES PRIVADAS CON LAS MISMAS REGLAS?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "platoJ",
+          "x": 540,
+          "y": 800,
+          "esc": 0.8,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 66.5,
+      "fin": 71,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "13 VOCALES + 1 SECRETARIO",
+          "tamano": 104,
+          "pulso": true,
+          "cta": "guardalo",
+          "guardaloLinea2": "y síguenos"
+        }
+      ]
+    }
+  ]
+}

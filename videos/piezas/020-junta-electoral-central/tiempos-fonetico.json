@@ -1,0 +1,913 @@
+{
+  "palabras": [
+    {
+      "t": "Trece",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "t": "vocales",
+      "inicio": 0.32,
+      "fin": 0.8
+    },
+    {
+      "t": "vigilan",
+      "inicio": 0.88,
+      "fin": 1.28
+    },
+    {
+      "t": "que",
+      "inicio": 1.32,
+      "fin": 1.36
+    },
+    {
+      "t": "la",
+      "inicio": 1.44,
+      "fin": 1.48
+    },
+    {
+      "t": "campaña",
+      "inicio": 1.52,
+      "fin": 1.92
+    },
+    {
+      "t": "electoral",
+      "inicio": 2.08,
+      "fin": 2.48
+    },
+    {
+      "t": "cumpla",
+      "inicio": 2.64,
+      "fin": 3.04
+    },
+    {
+      "t": "la",
+      "inicio": 3.08,
+      "fin": 3.12
+    },
+    {
+      "t": "ley.",
+      "inicio": 3.2,
+      "fin": 3.84
+    },
+    {
+      "t": "Ocho",
+      "inicio": 3.92,
+      "fin": 4.16
+    },
+    {
+      "t": "son",
+      "inicio": 4.32,
+      "fin": 4.48
+    },
+    {
+      "t": "magistrados",
+      "inicio": 4.56,
+      "fin": 5.12
+    },
+    {
+      "t": "del",
+      "inicio": 5.16,
+      "fin": 5.2
+    },
+    {
+      "t": "Supremo.",
+      "inicio": 5.28,
+      "fin": 6.08
+    },
+    {
+      "t": "Forman",
+      "inicio": 6.2,
+      "fin": 6.48
+    },
+    {
+      "t": "la",
+      "inicio": 6.52,
+      "fin": 6.56
+    },
+    {
+      "t": "Junta",
+      "inicio": 6.72,
+      "fin": 6.96
+    },
+    {
+      "t": "Electoral",
+      "inicio": 7.08,
+      "fin": 7.44
+    },
+    {
+      "t": "Central,",
+      "inicio": 7.52,
+      "fin": 8.16
+    },
+    {
+      "t": "la",
+      "inicio": 8.24,
+      "fin": 8.32
+    },
+    {
+      "t": "jota",
+      "inicio": 8.4,
+      "fin": 8.72
+    },
+    {
+      "t": "e",
+      "inicio": 8.88,
+      "fin": 9.04
+    },
+    {
+      "t": "ce.",
+      "inicio": 9.12,
+      "fin": 9.68
+    },
+    {
+      "t": "No",
+      "inicio": 9.72,
+      "fin": 9.76
+    },
+    {
+      "t": "se",
+      "inicio": 9.84,
+      "fin": 9.92
+    },
+    {
+      "t": "crea",
+      "inicio": 10,
+      "fin": 10.24
+    },
+    {
+      "t": "para",
+      "inicio": 10.32,
+      "fin": 10.4
+    },
+    {
+      "t": "cada",
+      "inicio": 10.48,
+      "fin": 10.64
+    },
+    {
+      "t": "elección:",
+      "inicio": 10.72,
+      "fin": 11.44
+    },
+    {
+      "t": "es",
+      "inicio": 11.52,
+      "fin": 11.6
+    },
+    {
+      "t": "un",
+      "inicio": 11.64,
+      "fin": 11.68
+    },
+    {
+      "t": "órgano",
+      "inicio": 11.76,
+      "fin": 12
+    },
+    {
+      "t": "permanente.",
+      "inicio": 12.16,
+      "fin": 13.12
+    },
+    {
+      "t": "Vamos",
+      "inicio": 13.16,
+      "fin": 13.44
+    },
+    {
+      "t": "por",
+      "inicio": 13.48,
+      "fin": 13.52
+    },
+    {
+      "t": "partes.",
+      "inicio": 13.6,
+      "fin": 14.4
+    },
+    {
+      "t": "Los",
+      "inicio": 14.48,
+      "fin": 14.56
+    },
+    {
+      "t": "ocho",
+      "inicio": 14.64,
+      "fin": 14.72
+    },
+    {
+      "t": "magistrados",
+      "inicio": 14.8,
+      "fin": 15.52
+    },
+    {
+      "t": "los",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "t": "sortea",
+      "inicio": 15.76,
+      "fin": 16.08
+    },
+    {
+      "t": "el",
+      "inicio": 16.16,
+      "fin": 16.24
+    },
+    {
+      "t": "Consejo",
+      "inicio": 16.32,
+      "fin": 16.72
+    },
+    {
+      "t": "General",
+      "inicio": 16.8,
+      "fin": 17.12
+    },
+    {
+      "t": "del",
+      "inicio": 17.2,
+      "fin": 17.28
+    },
+    {
+      "t": "Poder",
+      "inicio": 17.36,
+      "fin": 17.6
+    },
+    {
+      "t": "Judicial.",
+      "inicio": 17.68,
+      "fin": 18.48
+    },
+    {
+      "t": "Otros",
+      "inicio": 18.56,
+      "fin": 18.8
+    },
+    {
+      "t": "cinco",
+      "inicio": 18.88,
+      "fin": 19.12
+    },
+    {
+      "t": "son",
+      "inicio": 19.28,
+      "fin": 19.44
+    },
+    {
+      "t": "catedráticos",
+      "inicio": 19.48,
+      "fin": 20.16
+    },
+    {
+      "t": "de",
+      "inicio": 20.2,
+      "fin": 20.24
+    },
+    {
+      "t": "Derecho",
+      "inicio": 20.32,
+      "fin": 20.72
+    },
+    {
+      "t": "o",
+      "inicio": 20.8,
+      "fin": 20.88
+    },
+    {
+      "t": "de",
+      "inicio": 20.92,
+      "fin": 20.96
+    },
+    {
+      "t": "Ciencias",
+      "inicio": 21.04,
+      "fin": 21.36
+    },
+    {
+      "t": "Políticas",
+      "inicio": 21.44,
+      "fin": 21.92
+    },
+    {
+      "t": "y",
+      "inicio": 21.96,
+      "fin": 22
+    },
+    {
+      "t": "Sociología.",
+      "inicio": 22.08,
+      "fin": 22.96
+    },
+    {
+      "t": "Los",
+      "inicio": 23.04,
+      "fin": 23.12
+    },
+    {
+      "t": "proponen",
+      "inicio": 23.2,
+      "fin": 23.52
+    },
+    {
+      "t": "conjuntamente",
+      "inicio": 23.64,
+      "fin": 24.24
+    },
+    {
+      "t": "los",
+      "inicio": 24.32,
+      "fin": 24.4
+    },
+    {
+      "t": "partidos",
+      "inicio": 24.48,
+      "fin": 24.88
+    },
+    {
+      "t": "con",
+      "inicio": 24.96,
+      "fin": 25.04
+    },
+    {
+      "t": "representación",
+      "inicio": 25.12,
+      "fin": 25.84
+    },
+    {
+      "t": "en",
+      "inicio": 25.88,
+      "fin": 25.92
+    },
+    {
+      "t": "el",
+      "inicio": 25.96,
+      "fin": 26
+    },
+    {
+      "t": "Congreso.",
+      "inicio": 26.08,
+      "fin": 26.88
+    },
+    {
+      "t": "Y",
+      "inicio": 26.92,
+      "fin": 26.96
+    },
+    {
+      "t": "el",
+      "inicio": 27,
+      "fin": 27.04
+    },
+    {
+      "t": "secretario",
+      "inicio": 27.12,
+      "fin": 27.68
+    },
+    {
+      "t": "es",
+      "inicio": 27.84,
+      "fin": 28
+    },
+    {
+      "t": "el",
+      "inicio": 28.04,
+      "fin": 28.08
+    },
+    {
+      "t": "secretario",
+      "inicio": 28.16,
+      "fin": 28.72
+    },
+    {
+      "t": "general",
+      "inicio": 28.8,
+      "fin": 29.12
+    },
+    {
+      "t": "del",
+      "inicio": 29.2,
+      "fin": 29.28
+    },
+    {
+      "t": "Congreso.",
+      "inicio": 29.4,
+      "fin": 30.08
+    },
+    {
+      "t": "¿Y",
+      "inicio": 30.107,
+      "fin": 30.16
+    },
+    {
+      "t": "qué",
+      "inicio": 30.24,
+      "fin": 30.32
+    },
+    {
+      "t": "hace?",
+      "inicio": 30.36,
+      "fin": 30.96
+    },
+    {
+      "t": "Resuelve",
+      "inicio": 31.04,
+      "fin": 31.44
+    },
+    {
+      "t": "quejas",
+      "inicio": 31.52,
+      "fin": 31.84
+    },
+    {
+      "t": "y",
+      "inicio": 31.92,
+      "fin": 32
+    },
+    {
+      "t": "recursos.",
+      "inicio": 32.08,
+      "fin": 32.88
+    },
+    {
+      "t": "Dicta",
+      "inicio": 32.96,
+      "fin": 33.12
+    },
+    {
+      "t": "instrucciones",
+      "inicio": 33.24,
+      "fin": 33.76
+    },
+    {
+      "t": "de",
+      "inicio": 33.8,
+      "fin": 33.84
+    },
+    {
+      "t": "obligado",
+      "inicio": 33.92,
+      "fin": 34.24
+    },
+    {
+      "t": "cumplimiento",
+      "inicio": 34.32,
+      "fin": 34.88
+    },
+    {
+      "t": "para",
+      "inicio": 34.96,
+      "fin": 35.04
+    },
+    {
+      "t": "las",
+      "inicio": 35.12,
+      "fin": 35.28
+    },
+    {
+      "t": "juntas",
+      "inicio": 35.387,
+      "fin": 35.6
+    },
+    {
+      "t": "provinciales.",
+      "inicio": 35.68,
+      "fin": 36.56
+    },
+    {
+      "t": "Y",
+      "inicio": 36.6,
+      "fin": 36.64
+    },
+    {
+      "t": "vela",
+      "inicio": 36.76,
+      "fin": 36.96
+    },
+    {
+      "t": "por",
+      "inicio": 37.04,
+      "fin": 37.12
+    },
+    {
+      "t": "que",
+      "inicio": 37.16,
+      "fin": 37.2
+    },
+    {
+      "t": "las",
+      "inicio": 37.28,
+      "fin": 37.36
+    },
+    {
+      "t": "encuestas",
+      "inicio": 37.44,
+      "fin": 37.84
+    },
+    {
+      "t": "publicadas",
+      "inicio": 37.92,
+      "fin": 38.48
+    },
+    {
+      "t": "cumplan",
+      "inicio": 38.64,
+      "fin": 39.04
+    },
+    {
+      "t": "la",
+      "inicio": 39.08,
+      "fin": 39.12
+    },
+    {
+      "t": "ley.",
+      "inicio": 39.2,
+      "fin": 39.76
+    },
+    {
+      "t": "El",
+      "inicio": 39.84,
+      "fin": 39.92
+    },
+    {
+      "t": "veintiséis",
+      "inicio": 39.96,
+      "fin": 40.36
+    },
+    {
+      "t": "de",
+      "inicio": 40.4,
+      "fin": 40.48
+    },
+    {
+      "t": "octubre",
+      "inicio": 40.56,
+      "fin": 41.04
+    },
+    {
+      "t": "reguló",
+      "inicio": 41.16,
+      "fin": 41.44
+    },
+    {
+      "t": "el",
+      "inicio": 41.48,
+      "fin": 41.52
+    },
+    {
+      "t": "reparto",
+      "inicio": 41.6,
+      "fin": 42
+    },
+    {
+      "t": "de",
+      "inicio": 42.04,
+      "fin": 42.08
+    },
+    {
+      "t": "propaganda",
+      "inicio": 42.16,
+      "fin": 42.56
+    },
+    {
+      "t": "gratuita",
+      "inicio": 42.64,
+      "fin": 43.12
+    },
+    {
+      "t": "en",
+      "inicio": 43.2,
+      "fin": 43.28
+    },
+    {
+      "t": "medios",
+      "inicio": 43.36,
+      "fin": 43.6
+    },
+    {
+      "t": "públicos.",
+      "inicio": 43.68,
+      "fin": 44.587
+    },
+    {
+      "t": "La",
+      "inicio": 44.613,
+      "fin": 44.64
+    },
+    {
+      "t": "ley",
+      "inicio": 44.72,
+      "fin": 44.96
+    },
+    {
+      "t": "lo",
+      "inicio": 45.04,
+      "fin": 45.12
+    },
+    {
+      "t": "liga",
+      "inicio": 45.24,
+      "fin": 45.36
+    },
+    {
+      "t": "a",
+      "inicio": 45.4,
+      "fin": 45.44
+    },
+    {
+      "t": "los",
+      "inicio": 45.52,
+      "fin": 45.6
+    },
+    {
+      "t": "votos",
+      "inicio": 45.64,
+      "fin": 45.92
+    },
+    {
+      "t": "de",
+      "inicio": 45.96,
+      "fin": 46
+    },
+    {
+      "t": "las",
+      "inicio": 46.08,
+      "fin": 46.16
+    },
+    {
+      "t": "elecciones",
+      "inicio": 46.24,
+      "fin": 46.64
+    },
+    {
+      "t": "anteriores.",
+      "inicio": 46.76,
+      "fin": 47.52
+    },
+    {
+      "t": "Las",
+      "inicio": 47.64,
+      "fin": 47.76
+    },
+    {
+      "t": "teles",
+      "inicio": 47.84,
+      "fin": 48.08
+    },
+    {
+      "t": "privadas",
+      "inicio": 48.16,
+      "fin": 48.64
+    },
+    {
+      "t": "también",
+      "inicio": 48.68,
+      "fin": 49.12
+    },
+    {
+      "t": "cuentan.",
+      "inicio": 49.2,
+      "fin": 50
+    },
+    {
+      "t": "En",
+      "inicio": 50.04,
+      "fin": 50.08
+    },
+    {
+      "t": "debates",
+      "inicio": 50.16,
+      "fin": 50.48
+    },
+    {
+      "t": "y",
+      "inicio": 50.56,
+      "fin": 50.613
+    },
+    {
+      "t": "entrevistas,",
+      "inicio": 50.667,
+      "fin": 51.36
+    },
+    {
+      "t": "la",
+      "inicio": 51.4,
+      "fin": 51.44
+    },
+    {
+      "t": "ley",
+      "inicio": 51.52,
+      "fin": 51.68
+    },
+    {
+      "t": "les",
+      "inicio": 51.8,
+      "fin": 51.92
+    },
+    {
+      "t": "exige",
+      "inicio": 52,
+      "fin": 52.32
+    },
+    {
+      "t": "pluralismo,",
+      "inicio": 52.4,
+      "fin": 53.2
+    },
+    {
+      "t": "igualdad,",
+      "inicio": 53.28,
+      "fin": 54
+    },
+    {
+      "t": "proporcionalidad",
+      "inicio": 54.08,
+      "fin": 54.96
+    },
+    {
+      "t": "y",
+      "inicio": 55,
+      "fin": 55.04
+    },
+    {
+      "t": "neutralidad.",
+      "inicio": 55.12,
+      "fin": 56.08
+    },
+    {
+      "t": "La",
+      "inicio": 56.16,
+      "fin": 56.24
+    },
+    {
+      "t": "Junta",
+      "inicio": 56.32,
+      "fin": 56.64
+    },
+    {
+      "t": "dicta",
+      "inicio": 56.8,
+      "fin": 57.12
+    },
+    {
+      "t": "cómo",
+      "inicio": 57.28,
+      "fin": 57.44
+    },
+    {
+      "t": "aplicarlo.",
+      "inicio": 57.52,
+      "fin": 58.48
+    },
+    {
+      "t": "Trece",
+      "inicio": 58.52,
+      "fin": 58.72
+    },
+    {
+      "t": "vocales",
+      "inicio": 58.8,
+      "fin": 59.28
+    },
+    {
+      "t": "y",
+      "inicio": 59.36,
+      "fin": 59.44
+    },
+    {
+      "t": "un",
+      "inicio": 59.48,
+      "fin": 59.52
+    },
+    {
+      "t": "secretario,",
+      "inicio": 59.6,
+      "fin": 60.4
+    },
+    {
+      "t": "para",
+      "inicio": 60.48,
+      "fin": 60.56
+    },
+    {
+      "t": "que",
+      "inicio": 60.6,
+      "fin": 60.64
+    },
+    {
+      "t": "la",
+      "inicio": 60.72,
+      "fin": 60.76
+    },
+    {
+      "t": "campaña",
+      "inicio": 60.8,
+      "fin": 61.28
+    },
+    {
+      "t": "cumpla",
+      "inicio": 61.44,
+      "fin": 61.76
+    },
+    {
+      "t": "la",
+      "inicio": 61.84,
+      "fin": 61.92
+    },
+    {
+      "t": "ley.",
+      "inicio": 62.04,
+      "fin": 62.48
+    },
+    {
+      "t": "¿Te",
+      "inicio": 62.533,
+      "fin": 62.64
+    },
+    {
+      "t": "parece",
+      "inicio": 62.72,
+      "fin": 62.88
+    },
+    {
+      "t": "bien",
+      "inicio": 62.96,
+      "fin": 63.12
+    },
+    {
+      "t": "que",
+      "inicio": 63.2,
+      "fin": 63.28
+    },
+    {
+      "t": "las",
+      "inicio": 63.36,
+      "fin": 63.44
+    },
+    {
+      "t": "teles",
+      "inicio": 63.52,
+      "fin": 63.68
+    },
+    {
+      "t": "privadas",
+      "inicio": 63.76,
+      "fin": 64.16
+    },
+    {
+      "t": "también",
+      "inicio": 64.32,
+      "fin": 64.72
+    },
+    {
+      "t": "tengan",
+      "inicio": 64.8,
+      "fin": 65.04
+    },
+    {
+      "t": "que",
+      "inicio": 65.12,
+      "fin": 65.16
+    },
+    {
+      "t": "cumplir",
+      "inicio": 65.2,
+      "fin": 65.52
+    },
+    {
+      "t": "esas",
+      "inicio": 65.56,
+      "fin": 65.76
+    },
+    {
+      "t": "reglas?",
+      "inicio": 65.84,
+      "fin": 66.56
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 66.6,
+      "fin": 67.04
+    },
+    {
+      "t": "para",
+      "inicio": 67.12,
+      "fin": 67.28
+    },
+    {
+      "t": "estar",
+      "inicio": 67.4,
+      "fin": 67.52
+    },
+    {
+      "t": "informado.",
+      "inicio": 67.68,
+      "fin": 68.32
+    }
+  ],
+  "duracion": 68.24,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE"
+}

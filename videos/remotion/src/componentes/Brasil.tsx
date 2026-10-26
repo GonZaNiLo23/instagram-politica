@@ -64,7 +64,7 @@ const PUNTOS: Array<[number, number]> = [
   [-57.6, -30.2], [-55.5, -28], [-53.8, -26.3], [-54.6, -25.5], [-57.5, -25.3], [-58.2, -22.5], [-57.7, -20], [-58.2, -17.5], [-60, -16],
   [-60, -13.5], [-65, -11], [-68, -11], [-72.5, -9.8], [-73.8, -7.5], [-70.5, -4.3], [-69.8, -1], [-67, 1.5], [-69.5, 2], [-64, 4],
 ];
-const RUTA = PUNTOS.map(([lo, la], i) => `${i ? 'L' : 'M'}${((lo + 74) * 5).toFixed(1)} ${((5.5 - la) * 5).toFixed(1)}`).join(' ') + ' Z';
+export const RUTA = PUNTOS.map(([lo, la], i) => `${i ? 'L' : 'M'}${((lo + 74) * 5).toFixed(1)} ${((5.5 - la) * 5).toFixed(1)}`).join(' ') + ' Z';
 export const MapaBrasil: React.FC<{x?: number; y?: number; tamano?: number; en?: number; hasta?: number; sale?: number}> = ({x = 540, y = 780, tamano = 560, en = 0, hasta, sale}) => {
   const t = useT();
   const e = Math.min(useEntrada(en), 1);

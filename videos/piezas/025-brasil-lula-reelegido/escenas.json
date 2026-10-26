@@ -1,0 +1,1126 @@
+{
+  "plantilla": "estandar",
+  "duracion": 105.34,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "SEGUNDO EN LA 1.ª VUELTA… GANÓ",
+            "y": 340,
+            "tamano": 100,
+            "en": -1
+          },
+          {
+            "tipo": "foto",
+            "src": "ret-lula.jpg",
+            "forma": "circulo",
+            "x": 270,
+            "y": 880,
+            "alto": 400,
+            "zoom": [
+              1.1,
+              1.1
+            ],
+            "dur": 3,
+            "en": -1
+          },
+          {
+            "tipo": "foto",
+            "src": "ret-flavio.jpg",
+            "forma": "circulo",
+            "x": 730,
+            "y": 880,
+            "alto": 400,
+            "zoom": [
+              1,
+              1
+            ],
+            "dur": 3,
+            "en": -1
+          },
+          {
+            "tipo": "textoL",
+            "x": 140,
+            "y": 1120,
+            "en": -1,
+            "lineas": [
+              {
+                "t": "Lula",
+                "tam": 72
+              }
+            ]
+          },
+          {
+            "tipo": "textoL",
+            "x": 560,
+            "y": 1120,
+            "en": -1,
+            "lineas": [
+              {
+                "t": "Flávio",
+                "tam": 72
+              }
+            ]
+          },
+          {
+            "tipo": "textoL",
+            "x": 180,
+            "y": 1210,
+            "en": -1,
+            "lineas": [
+              {
+                "t": "Imagen de archivo",
+                "tam": 36,
+                "peso": 600
+              }
+            ]
+          },
+          {
+            "tipo": "textoL",
+            "x": 590,
+            "y": 1210,
+            "en": -1,
+            "lineas": [
+              {
+                "t": "Imagen de archivo",
+                "tam": 36,
+                "peso": 600
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.82,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "SEGUNDO EN LA 1.ª VUELTA… GANÓ",
+          "y": 335,
+          "tamano": 84,
+          "en": -1
+        },
+        {
+          "tipo": "barrasL",
+          "fila": true,
+          "y0": 700,
+          "paso": 150,
+          "barAlto": 110,
+          "items": [
+            {
+              "nombre": "FLÁVIO",
+              "valor": 47,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0
+            },
+            {
+              "nombre": "LULA",
+              "valor": 45.2,
+              "color": "#2A9D8F",
+              "en": -1,
+              "dur": 0,
+              "gano": 2.7
+            }
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "1.ª vuelta · 4-10"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 4.82,
+      "fin": 9.58,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Su rival no lo reconoce",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "ret-lula.jpg",
+          "forma": "circulo",
+          "x": 195,
+          "y": 600,
+          "alto": 250,
+          "zoom": [
+            1.1,
+            1.1660000000000001
+          ],
+          "dur": 5,
+          "en": 0.1
+        },
+        {
+          "tipo": "textoL",
+          "x": 350,
+          "y": 490,
+          "en": 0.2,
+          "lineas": [
+            {
+              "t": "Lula · PT"
+            },
+            {
+              "t": "Imagen de archivo",
+              "tam": 36,
+              "peso": 600
+            },
+            {
+              "t": "Foto: Ricardo Stuckert/PR · CC BY 2.0 · Wikimedia Commons",
+              "tam": 36,
+              "peso": 600
+            }
+          ]
+        },
+        {
+          "tipo": "foto",
+          "src": "ret-flavio.jpg",
+          "forma": "circulo",
+          "x": 195,
+          "y": 910,
+          "alto": 250,
+          "zoom": [
+            1,
+            1.06
+          ],
+          "dur": 5,
+          "en": 0.25
+        },
+        {
+          "tipo": "textoL",
+          "x": 350,
+          "y": 780,
+          "en": 0.3,
+          "lineas": [
+            {
+              "t": "Flávio Bolsonaro · PL"
+            },
+            {
+              "t": "Imagen de archivo",
+              "tam": 36,
+              "peso": 600
+            },
+            {
+              "t": "Foto: Agência Senado · uso libre con atribución · Wikimedia Commons",
+              "tam": 36,
+              "peso": 600
+            }
+          ]
+        },
+        {
+          "tipo": "interrogaL",
+          "x": 300,
+          "y": 810,
+          "r": 44,
+          "en": 0.6
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Según Agência Brasil, 25-10"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 9.58,
+      "fin": 12.54,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DOM. 25-10 · 2.ª VUELTA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioL",
+          "dia": 25,
+          "x": 540,
+          "y": 760,
+          "lado": 420,
+          "marca": 0.5,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 12.54,
+      "fin": 16.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Lula 51,8 %",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasL",
+          "items": [
+            {
+              "nombre": "LULA",
+              "valor": 51.8,
+              "color": "#2A9D8F",
+              "en": 0.2,
+              "dur": 1.6
+            }
+          ],
+          "mapa": true,
+          "y0": 520,
+          "en": 0
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Votos válidos, 99,99 % escrutado · TSE, vía Bloomberg Línea e InfoMoney"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 16.62,
+      "fin": 20.82,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Flávio 48,2 %",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasL",
+          "items": [
+            {
+              "nombre": "LULA",
+              "valor": 51.8,
+              "color": "#2A9D8F",
+              "en": -1,
+              "dur": 0
+            },
+            {
+              "nombre": "FLÁVIO",
+              "valor": 48.2,
+              "color": "#F2B134",
+              "en": 0.2,
+              "dur": 1.5
+            }
+          ],
+          "mapa": true,
+          "y0": 520,
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Votos válidos, 99,99 % escrutado · TSE, vía Bloomberg Línea e InfoMoney"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 20.82,
+      "fin": 23.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "+4,4 millones de votos",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasL",
+          "items": [
+            {
+              "nombre": "LULA",
+              "valor": 51.8,
+              "color": "#2A9D8F",
+              "en": -1,
+              "dur": 0
+            },
+            {
+              "nombre": "FLÁVIO",
+              "valor": 48.2,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0
+            }
+          ],
+          "corchete": {
+            "en": 0.5,
+            "texto": "+4,4 M"
+          },
+          "mapa": true,
+          "y0": 520,
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Diferencia: 4,43 millones · Fuente: TSE, vía Bloomberg Línea"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 23.66,
+      "fin": 25.02,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿CÓMO LLEGÓ?",
+          "y": 520,
+          "en": 0.05,
+          "tamano": 110
+        },
+        {
+          "tipo": "flechaAtrasH",
+          "x": 540,
+          "y": 1000,
+          "r": 120,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 25.02,
+      "fin": 29.46,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1.ª vuelta, 4-10: Flávio 47,03 %",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioL",
+          "dia": 4,
+          "x": 540,
+          "y": 690,
+          "lado": 340,
+          "marca": 0.8,
+          "en": 0.1
+        },
+        {
+          "tipo": "barrasL",
+          "fila": true,
+          "y0": 900,
+          "paso": 140,
+          "barAlto": 100,
+          "items": [
+            {
+              "nombre": "FLÁVIO",
+              "valor": 47.03,
+              "dec": 2,
+              "color": "#F2B134",
+              "en": 0.3,
+              "dur": 1.5
+            }
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Votos válidos · Fuente: TSE, vía Diário do Grande ABC"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 29.46,
+      "fin": 31.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Lula 45,16 %",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioL",
+          "dia": 4,
+          "x": 540,
+          "y": 690,
+          "lado": 340,
+          "en": -1
+        },
+        {
+          "tipo": "barrasL",
+          "fila": true,
+          "y0": 900,
+          "paso": 140,
+          "barAlto": 100,
+          "items": [
+            {
+              "nombre": "FLÁVIO",
+              "valor": 47.03,
+              "dec": 2,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0
+            },
+            {
+              "nombre": "LULA",
+              "valor": 45.16,
+              "dec": 2,
+              "color": "#2A9D8F",
+              "en": 0.2,
+              "dur": 1.4
+            }
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Votos válidos · Fuente: TSE, vía Diário do Grande ABC"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 31.66,
+      "fin": 35.82,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "−2,2 M → +4,4 M",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "diferenciaL",
+          "y0": 520,
+          "eje": 330,
+          "b": 2.32,
+          "flecha": 2.1599999999999997,
+          "en": 0
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Votos distintos en cada vuelta · Fuente: TSE"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 35.82,
+      "fin": 40.78,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Remontada inédita",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineaEleccionesL",
+          "y": 800,
+          "selloEn": 1,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Según Agência Brasil e InfoMoney"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 40.78,
+      "fin": 42.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿QUÉ DICE FLÁVIO?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "ret-flavio.jpg",
+          "forma": "circulo",
+          "x": 540,
+          "y": 800,
+          "alto": 520,
+          "zoom": [
+            1,
+            1.08
+          ],
+          "dur": 3,
+          "en": 0.1,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Agência Senado · uso libre con atribución · Wikimedia Commons"
+        }
+      ]
+    },
+    {
+      "inicio": 42.3,
+      "fin": 47.18,
+      "componentes": [
+        {
+          "tipo": "bocadilloL",
+          "lineas": [
+            "Flávio: imposible",
+            "reconocer el resultado"
+          ],
+          "x": 505,
+          "y": 580,
+          "ancho": 880,
+          "colaX": 230,
+          "colaY": 830,
+          "en": 0.05
+        },
+        {
+          "tipo": "foto",
+          "src": "ret-flavio.jpg",
+          "forma": "circulo",
+          "x": 195,
+          "y": 960,
+          "alto": 250,
+          "zoom": [
+            1,
+            1.06
+          ],
+          "dur": 5,
+          "en": 0.2
+        },
+        {
+          "tipo": "textoL",
+          "x": 350,
+          "y": 880,
+          "en": 0.3,
+          "lineas": [
+            {
+              "t": "Imagen de archivo",
+              "tam": 36,
+              "peso": 600
+            },
+            {
+              "t": "Foto: Agência Senado · uso libre con atribución · Wikimedia Commons",
+              "tam": 36,
+              "peso": 600
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Anunció que pedirá la anulación · Agência Brasil, 25-10"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 47.18,
+      "fin": 51.98,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Su queja: la prórroga del horario",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "relojL",
+          "x": 400,
+          "y": 790,
+          "r": 190,
+          "h0": 17,
+          "h1": 19,
+          "marca": 2.08,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 51.98,
+      "fin": 56.94,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Zanin (STF): votación hasta las 19:00 (Brasilia)",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaL",
+          "lineas": [
+            "Cristiano Zanin",
+            "ministro del Supremo"
+          ],
+          "x": 505,
+          "y": 700,
+          "en": 0.15
+        },
+        {
+          "tipo": "relojL",
+          "x": 200,
+          "y": 1010,
+          "r": 100,
+          "h0": 17,
+          "h1": 19,
+          "salta": 2.4,
+          "digitalDx": 290,
+          "digitalDy": 24,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Supremo Tribunal Federal · Agência Brasil, 25-10"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 56.94,
+      "fin": 60.86,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Tras la queja de la campaña de Lula",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "autobusL",
+          "x": 300,
+          "y": 720,
+          "ancho": 400,
+          "aspaEn": 2.1599999999999997,
+          "en": 0.1
+        },
+        {
+          "tipo": "tarjetaL",
+          "lineas": [
+            "Campaña de Lula"
+          ],
+          "x": 505,
+          "y": 1000,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Por restricciones del transporte público · Agência Brasil"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 60.86,
+      "fin": 65.14,
+      "componentes": [
+        {
+          "tipo": "bocadilloL",
+          "lineas": [
+            "Flávio: reglas",
+            "cambiadas con",
+            "urnas cerradas"
+          ],
+          "x": 505,
+          "y": 600,
+          "ancho": 880,
+          "colaX": 400,
+          "colaY": 850,
+          "en": 0.05
+        },
+        {
+          "tipo": "recorte",
+          "src": "urna.png",
+          "x": 400,
+          "y": 1000,
+          "ancho": 440,
+          "giro": -3,
+          "desde": "escala",
+          "en": 0.3,
+          "notas": [
+            "Según InfoMoney, 25-10"
+          ],
+          "credito": "Foto: Antonio Augusto/TSE · dominio público"
+        },
+        {
+          "tipo": "candadoMostaza",
+          "x": 800,
+          "y": 1000,
+          "tamano": 200,
+          "en": 2.52
+        }
+      ]
+    },
+    {
+      "inicio": 65.14,
+      "fin": 68.94,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Zanin: solo urnas aún abiertas",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Dónde valía la prórroga",
+          "y": 505,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaL",
+          "gris": true,
+          "x": 270,
+          "y": 900,
+          "tamano": 420,
+          "leyenda": [
+            520,
+            860
+          ],
+          "en": 0.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Agência Brasil, Bloomberg Línea"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 68.94,
+      "fin": 73.86,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Flávio también pidió prórroga local",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaL",
+          "lineas": [
+            "Campaña de Flávio"
+          ],
+          "x": 505,
+          "y": 720,
+          "en": 0.15
+        },
+        {
+          "tipo": "relojL",
+          "x": 200,
+          "y": 1010,
+          "r": 100,
+          "h0": 17,
+          "texto": "+2 h",
+          "digitalDx": 220,
+          "digitalDy": 24,
+          "en": 0.4
+        },
+        {
+          "tipo": "nubeL",
+          "x": 730,
+          "y": 1020,
+          "ancho": 340,
+          "en": 0.6
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Al TSE, por lluvias · Poder360, InfoMoney, Reuters"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 73.86,
+      "fin": 78.81,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Fachin (STF): respetar",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "la voluntad de los electores",
+          "y": 420,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaL",
+          "lineas": [
+            "Edson Fachin",
+            "presidente del Supremo"
+          ],
+          "x": 505,
+          "y": 770,
+          "en": 0.15
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Agência Brasil, 25-10"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 78.81,
+      "fin": 79.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Y AHORA?",
+          "y": 335,
+          "en": 0.03,
+          "tamano": 96
+        },
+        {
+          "tipo": "calendarioL",
+          "dia": 26,
+          "pasa": true,
+          "x": 540,
+          "y": 800,
+          "lado": 420,
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 79.66,
+      "fin": 82.38,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Iría al Tribunal Superior Electoral",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "fachadaL",
+          "x": 540,
+          "y": 760,
+          "ancho": 600,
+          "en": 0.1
+        },
+        {
+          "tipo": "carpetaS",
+          "lineas": [],
+          "de": [
+            150,
+            1060
+          ],
+          "a": [
+            460,
+            960
+          ],
+          "en": 0.2,
+          "dur": 1.7200000000000002,
+          "ancho": 300,
+          "alto": 200
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "TSE · según InfoMoney"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 82.38,
+      "fin": 84.82,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "A 26-10: no consta la petición",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "fachadaL",
+          "x": 540,
+          "y": 760,
+          "ancho": 600,
+          "en": -1
+        },
+        {
+          "tipo": "carpetaS",
+          "lineas": [],
+          "de": [
+            460,
+            960
+          ],
+          "en": -1,
+          "ancho": 300,
+          "alto": 200
+        },
+        {
+          "tipo": "relojL",
+          "x": 790,
+          "y": 980,
+          "r": 100,
+          "h0": 17,
+          "gira": true,
+          "digital": false,
+          "en": 0.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Comprobado el 26-10"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 84.82,
+      "fin": 89.78,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Posesión: 5-1-2027 · 4 años",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "posesionL",
+          "y": 760,
+          "enciende": 0.3,
+          "barra": 3.46,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Constitución de Brasil, art. 82 (EC 111/2021)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 89.78,
+      "fin": 92.83,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1.ª vuelta: 2.º · 2.ª vuelta: 1.º",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasL",
+          "fila": true,
+          "y0": 560,
+          "paso": 150,
+          "barAlto": 110,
+          "en": 0.1,
+          "items": [
+            {
+              "nombre": "FLÁVIO",
+              "valor": 47,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0
+            },
+            {
+              "nombre": "LULA",
+              "valor": 45.2,
+              "color": "#2A9D8F",
+              "en": -1,
+              "dur": 0,
+              "gano": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 92.83,
+      "fin": 105.34,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿ANULAR O RESPETAR EL RESULTADO?",
+          "tamano": 96,
+          "pulso": true,
+          "guardaEn": 5.26
+        },
+        {
+          "tipo": "botonesL",
+          "a": "ANULAR",
+          "b": "RESPETAR",
+          "y": 900,
+          "en": 0.5
+        }
+      ]
+    }
+  ]
+}

@@ -4,6 +4,7 @@
   "portadaSegundo": 1.5,
   "marca": "@loquepasaenunminuto",
   "subSinHuerfanas": true,
+  "subDy": 70,
   "musica": {
     "pista": "wallpaper.mp3",
     "volumen": -16
@@ -278,11 +279,7 @@
         },
         {
           "tipo": "carpetaS",
-          "lineas": [
-            "SOLICITUD",
-            "DEL",
-            "GOBIERNO"
-          ],
+          "lineas": [],
           "de": [
             285,
             790
@@ -363,7 +360,7 @@
           "lineas": [
             "GOBIERNO DE ESPAÑA"
           ],
-          "y": 520,
+          "y": 490,
           "alto": 110,
           "en": 0.1,
           "hasta": 3.52
@@ -373,7 +370,7 @@
           "lineas": [
             "COMUNIDAD AUTÓNOMA"
           ],
-          "y": 770,
+          "y": 800,
           "alto": 110,
           "en": 0.1,
           "hasta": 3.52
@@ -385,16 +382,16 @@
           ],
           "de": [
             540,
-            700
+            690
           ],
           "a": [
             540,
-            830
+            705
           ],
           "en": 0.2,
           "dur": 2.22,
           "ancho": 400,
-          "alto": 150,
+          "alto": 130,
           "abreEn": 3.12,
           "hasta": 3.52
         },
@@ -462,7 +459,7 @@
             "GENERALITAT",
             "DE CATALUNYA"
           ],
-          "y": 770,
+          "y": 820,
           "alto": 170,
           "en": 0.1,
           "luz": 2.5999999999999996
@@ -475,7 +472,7 @@
           ],
           "a": [
             540,
-            855
+            745
           ],
           "en": 0.5,
           "dur": 1.9999999999999998,
@@ -488,17 +485,17 @@
           "en": -1,
           "hitos": [
             {
-              "x": 190,
+              "x": 170,
               "etiqueta": "11-OCT",
               "en": 0.3
             },
             {
-              "x": 540,
+              "x": 480,
               "etiqueta": "19-OCT",
               "en": 99
             },
             {
-              "x": 890,
+              "x": 790,
               "etiqueta": "27-OCT",
               "en": 99
             }
@@ -539,7 +536,7 @@
             "GENERALITAT",
             "DE CATALUNYA"
           ],
-          "y": 770,
+          "y": 820,
           "alto": 170,
           "en": -1
         },
@@ -547,7 +544,7 @@
           "tipo": "sobreS",
           "de": [
             540,
-            855
+            745
           ],
           "a": [
             540,
@@ -576,17 +573,17 @@
           "en": -1,
           "hitos": [
             {
-              "x": 190,
+              "x": 170,
               "etiqueta": "11-OCT",
               "en": 0
             },
             {
-              "x": 540,
+              "x": 480,
               "etiqueta": "19-OCT",
               "en": 0.1
             },
             {
-              "x": 890,
+              "x": 790,
               "etiqueta": "27-OCT",
               "en": 99
             }
@@ -623,17 +620,17 @@
           "en": -1,
           "hitos": [
             {
-              "x": 190,
+              "x": 170,
               "etiqueta": "11-OCT",
               "en": 0
             },
             {
-              "x": 540,
+              "x": 480,
               "etiqueta": "19-OCT",
               "en": 0
             },
             {
-              "x": 890,
+              "x": 790,
               "etiqueta": "27-OCT",
               "en": 0.1
             }
@@ -730,9 +727,9 @@
             "ESPAÑA"
           ],
           "x": 275,
-          "y": 590,
+          "y": 570,
           "ancho": 430,
-          "alto": 250,
+          "alto": 232,
           "en": -1,
           "luz": 0
         },
@@ -744,15 +741,28 @@
             "CATALUNYA"
           ],
           "x": 725,
-          "y": 590,
+          "y": 570,
           "ancho": 430,
-          "alto": 250,
+          "alto": 232,
+          "en": -1,
+          "luz": 1.5999999999999999
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "DIPUTADOS DE",
+            "UNIDOS PODEMOS"
+          ],
+          "x": 540,
+          "y": 812,
+          "ancho": 840,
+          "alto": 160,
           "en": -1,
           "luz": 1.5999999999999999
         },
         {
           "tipo": "casillasS",
-          "y": 860,
+          "y": 984,
           "items": [
             {
               "texto": "RECURSO ANTE EL CONSTITUCIONAL",
@@ -788,7 +798,7 @@
             {
               "texto": "OBLIGAR A CUMPLIR",
               "n": 1,
-              "en": 1.44,
+              "en": 0.3,
               "tipo": "ok"
             },
             {

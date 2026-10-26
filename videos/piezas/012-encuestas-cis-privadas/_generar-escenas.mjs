@@ -15,7 +15,6 @@ const esc = (a, b, extra, componentes) => ESC.push({inicio: a, fin: b, ...extra,
 const rot = (texto, y, en = 0.05, o = {}) => ({tipo: 'rotulo', texto, y, en, tamano: 64, ...o});
 const nota = (lineas, en = 0.1, o = {}) => ({tipo: 'notas', lineas, en, ...o});
 const CR_F1 = 'Foto: Luis García (Zaqarbal) · CC BY-SA 3.0 es · Wikimedia Commons (recorte)';
-const CR_OLLA = 'Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons (recorte)';
 const COL = {PSOE: '#D8493E', PP: '#3B8EDB'}; // PARTIDOS de tema.ts; mismo tratamiento, siempre con el nombre al lado
 const A = {n: S(0)};
 // Escala común (px por unidad) en todos los gráficos de barras: 11
@@ -80,7 +79,7 @@ esc(B.c5, B.d1, {}, [
   nota(['Ficha técnica del CIS, estudio 3582: teléfonos al azar y cuotas de sexo y edad'], 0.1),
 ]);
 // 3 · Explicación
-const rejilla = {tipo: 'personasE', n: 36, cols: 12, y: 720, tam: 60, paso: 70};
+const rejilla = {tipo: 'personasE', n: 36, cols: 12, y: 720, tam: 54, paso: 62};
 esc(B.d1, B.d2, {}, [
   rot('2 PASOS · 1: PREGUNTAR', 335, 0.05),
   {tipo: 'pasosE', y: 620, enc1: rel(B.d1, t(64)) - 0.1, en: 0.1},
@@ -107,33 +106,28 @@ esc(B.d4, B.d5, {}, [
 esc(B.d5, B.d6, {}, [
   rot('17 de cada 100: "no sabe todavía"', 335, 0.05),
   nota(['17,3 % · CIS, estudio 3582, pregunta 17'], 0.1),
-  {tipo: 'personasE', n: 100, cols: 20, y: 760, tam: 38, paso: 42, aparece: {en: 0.1, dur: 0.9}, grises: {n: 17, en: rel(B.d5, t(94)) - 0.1}},
+  {tipo: 'personasE', n: 100, cols: 20, y: 780, tam: 34, paso: 38, aparece: {en: 0.1, dur: 0.9}, grises: {n: 17, en: rel(B.d5, t(94)) - 0.1}},
 ]);
 esc(B.d6, B.d7, {}, [
   rot('2: ESTIMAR (la "cocina")', 335, 0.05),
   {tipo: 'pasosE', y: 600, enc1: -1, enc2: 0.1, en: -1},
-  {tipo: 'recorte', src: 'olla.png', x: 540, y: 960, ancho: 600, giro: -2, desde: 'abajo', en: 0.3},
-  nota([CR_OLLA], 0.3),
+  {tipo: 'ollaE', x: 540, y: 950, ancho: 520, giro: -2, desde: 'abajo', en: 0.3},
   {tipo: 'lluviaOllaE', xOlla: 540, yOlla: 790, items: [
     {tipo: 'barras', x: 330, en: 0.9}, {tipo: 'interro', x: 760, en: 1.25}, {tipo: 'interro', x: 450, en: 1.6}, {tipo: 'barras', x: 700, en: 1.95},
     {tipo: 'interro', x: 360, en: 2.3}, {tipo: 'interro', x: 640, en: 2.65}], en: -1},
 ]);
-const OLLA_MINI = (en) => ({tipo: 'recorte', src: 'olla.png', x: 830, y: 612, ancho: 170, giro: 0, desde: 'escala', flota: false, contorno: 6, en});
+const OLLA_MINI = (en) => ({tipo: 'ollaE', x: 830, y: 612, ancho: 150, giro: 0, desde: 'escala', en});
 esc(B.d7, B.d8, {}, [
   rot('¿Quién vota? ¿Qué harán los indecisos?', 335, 0.05),
-  nota(['CIS: modelo propio «de escenarios»', CR_OLLA], 0.1),
+  nota(['CIS: modelo propio «de escenarios»'], 0.1),
   {tipo: 'pasosE', y: 612, enc1: -1, enc2: -1, en: -1},
   OLLA_MINI(-1),
   {tipo: 'repartoE', y: 850, repartoEn: 0.9, en: 0.1},
 ]);
-const CR_PAELLAS = 'Fotos: Jebulon (CC0) y RecoveryMinded (dominio público) · Wikimedia Commons';
 const pE = rel(B.d8, t(127)) - 0.1;
 esc(B.d8, B.e1, {}, [
   rot('EJEMPLO · mismos ingredientes, dos platos', 335, -1),
-  {tipo: 'ejemploE', y: 690, yPlatos: 985, xs: [290, 770], enT: 0.2, platosEn: pE, en: -1},
-  {tipo: 'foto', src: 'paella0.jpg', forma: 'circulo', x: 290, y: 985, alto: 340, foco: '50% 50%', zoom: [1.0, 1.1], dur: 2, en: pE},
-  {tipo: 'foto', src: 'paella1.jpg', forma: 'circulo', x: 770, y: 985, alto: 340, foco: '50% 52%', zoom: [1.0, 1.1], dur: 2, en: pE + 0.15},
-  nota([CR_PAELLAS], pE),
+  {tipo: 'ejemploE', y: 690, yPlatos: 985, xs: [270, 750], enT: 0.2, platosEn: pE, platos: true, en: -1},
 ]);
 // 4 · Giro
 esc(B.e1, B.e2, {fondo: 'tinta'}, [
@@ -171,33 +165,32 @@ esc(B.e4, B.e5, {}, [
 ]);
 esc(B.e5, B.e6, {}, [
   rot('PSOE 31,7 %', 335, 0.05),
-  nota(['Bases distintas: entrevistados que votaron frente a votos válidos'], 0.1),
+  nota(['Bases distintas'], 0.1),
   {tipo: 'barrasE', filas: parA([0, 0], true), en: -1},
   {tipo: 'barrasE', filas: parB(-5, rel(B.e5, t(168)) - 0.1), en: -1},
-  {tipo: 'sello', valor: 'DATO', x: 700, y: 745, tamano: 80, angulo: 4, desde: -170, en: rel(B.e5, t(170))},
+  {tipo: 'sello', valor: 'DATO', x: 640, y: 761, tamano: 40, angulo: 0, desde: 0, reboteMax: 0, en: rel(B.e5, t(170))},
 ]);
 esc(B.e6, B.f1, {}, [
   rot('Cómo se corrige: lo decide cada casa', 335, 0.05),
   {tipo: 'barrasE', filas: parA([0, 0], true), en: -1},
   {tipo: 'barrasE', filas: parB(-5, -5), en: -1},
-  {tipo: 'recorte', src: 'olla.png', x: 290, y: 818, ancho: 190, giro: -2, desde: 'escala', flota: false, contorno: 7, en: 0.15},
-  nota([CR_OLLA], 0.1),
+  {tipo: 'ollaE', x: 290, y: 818, ancho: 190, giro: -2, desde: 'escala', en: 0.15},
   {tipo: 'llaveE', x: 600, y: 822, tam: 120, en: rel(B.e6, t(180)) - 0.1},
 ]);
 // 5 · Cierre
 esc(B.f1, B.f2, {}, [
   rot('CIS: datos en abierto para recalcular', 335, 0.05),
-  nota(['«…cualquiera puede aplicar sus propios modelos» · nota metodológica, estudio 3582', CR_OLLA], 0.1),
-  {tipo: 'carpetaE', x: 540, y: 640, abreEn: rel(B.f1, t(188)), xs: [180, 500, 820], yOllas: 1020, en: 0.1},
-  {tipo: 'recorte', src: 'olla.png', x: 180, y: 1020, ancho: 230, giro: -3, desde: 'abajo', flota: false, contorno: 7, en: 0.3},
-  {tipo: 'recorte', src: 'olla.png', x: 500, y: 1020, ancho: 230, giro: 2, desde: 'abajo', flota: false, contorno: 7, en: 0.45},
-  {tipo: 'recorte', src: 'olla.png', x: 820, y: 1020, ancho: 230, giro: -2, desde: 'abajo', flota: false, contorno: 7, en: 0.6},
+  nota(['«…cualquiera puede aplicar sus propios modelos» · nota metodológica, estudio 3582'], 0.1),
+  {tipo: 'carpetaE', x: 540, y: 600, abreEn: rel(B.f1, t(188)), xs: [180, 500, 820], yOllas: 1040, cuchOff: 450, etiquetaDy: 215, en: 0.1},
+  {tipo: 'ollaE', x: 180, y: 1050, ancho: 210, giro: -3, desde: 'abajo', en: 0.3},
+  {tipo: 'ollaE', x: 500, y: 1050, ancho: 210, giro: 2, desde: 'abajo', en: 0.45},
+  {tipo: 'ollaE', x: 820, y: 1050, ancho: 210, giro: -2, desde: 'abajo', en: 0.6},
 ]);
 esc(B.f2, B.f3, {}, [
   rot('FOTO + RECETA ≠ RESULTADO', 335, 0.05),
-  nota(['El CIS avisa: su estimación «no posee intención prospectiva» (no es predicción)', 'Fotos: Jacek Halicki (cámara) y Matti Blume (olla) · CC BY-SA 4.0 · Wikimedia Commons (recorte)'], 0.1),
-  {tipo: 'recorte', src: 'camara.png', x: 280, y: 700, ancho: 270, giro: -3, desde: 'izquierda', flota: false, contorno: 8, en: 0.1, },
-  {tipo: 'recorte', src: 'olla.png', x: 790, y: 700, ancho: 300, giro: 2, desde: 'derecha', flota: false, contorno: 8, en: 0.25},
+  nota(['El CIS avisa: su estimación «no posee intención prospectiva» (no es predicción)'], 0.1),
+  {tipo: 'camaraE', x: 280, y: 700, ancho: 270, giro: -3, desde: 'izquierda', en: 0.1},
+  {tipo: 'ollaE', x: 770, y: 700, ancho: 300, giro: 2, desde: 'escala', en: 0.25},
   {tipo: 'polaroidE', x: 560, y: 960, xFlash: 280, yFlash: 715, clicEn: rel(B.f2, t(199)) - 0.1, en: -1},
 ]);
 esc(B.f3, B.f4, {}, [
@@ -231,7 +224,7 @@ const portada = {escenas: [{inicio: 0, fin: 3, fondo: 'crema', componentes: [
     {etiqueta: '', valor: 55, texto: '', color: '#14213D', y: 900, en: -9}, {etiqueta: '', valor: 38, texto: '', color: '#8D99AE', y: 975, en: -9}, {etiqueta: '', valor: 22, texto: '', color: '#14213D', y: 1050, en: -9}], x0: 70, col: 0, escala: 7, eje: true, en: -1},
   {tipo: 'barrasE', filas: [
     {etiqueta: '', valor: 22, texto: '', color: '#14213D', y: 900, en: -9}, {etiqueta: '', valor: 38, texto: '', color: '#8D99AE', y: 975, en: -9}, {etiqueta: '', valor: 55, texto: '', color: '#14213D', y: 1050, en: -9}], x0: 560, col: 0, escala: 7, eje: true, en: -1},
-  {tipo: 'recorte', src: 'olla.png', x: 540, y: 1290, ancho: 440, giro: -3, desde: 'escala', flota: false, en: -1},
+  {tipo: 'cucharonE', x: 540, y: 1250, ancho: 360, giro: -35, en: -1},
 ]}]};
 const out = {plantilla: 'estandar', duracion: DUR, portadaSegundo: 1.5, marca: '@loquepasaenunminuto', subSinHuerfanas: true, musica: {pista: 'investigations.mp3', volumen: -16}, portada, escenas: ESC};
 fs.writeFileSync(path.join(dir, 'escenas.json'), JSON.stringify(out, null, 2));

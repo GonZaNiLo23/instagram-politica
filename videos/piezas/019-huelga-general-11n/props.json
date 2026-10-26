@@ -1,0 +1,2028 @@
+{
+  "plantilla": "estandar",
+  "duracion": 93.8,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "HUELGA GENERAL: 11 DE NOVIEMBRE",
+            "y": 340,
+            "tamano": 100,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "¿TE DESCUENTAN EL DÍA?",
+            "y": 800,
+            "en": -1,
+            "tamano": 72
+          },
+          {
+            "tipo": "calendarioH",
+            "x": 270,
+            "y": 1190,
+            "lado": 330,
+            "mes": "NOV",
+            "dia": "11",
+            "cae": -1,
+            "en": -1
+          },
+          {
+            "tipo": "nominaH",
+            "x": 720,
+            "y": 1190,
+            "esc": 0.85,
+            "interroga": true,
+            "interEn": -10.4,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.9,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "HUELGA GENERAL: 11 DE NOVIEMBRE",
+          "y": 335,
+          "tamano": 84,
+          "en": -1,
+          "hasta": 3.1
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 540,
+          "y": 930,
+          "lado": 340,
+          "mes": "NOV",
+          "dia": "11",
+          "cae": 0.05,
+          "mueve": 3.2,
+          "x2": 270,
+          "y2": 840,
+          "dur": 0.7,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿TE DESCUENTAN EL DÍA?",
+          "y": 335,
+          "en": 3.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "nominaH",
+          "x": 730,
+          "y": 840,
+          "esc": 0.9,
+          "interroga": true,
+          "interEn": 3.6,
+          "en": 3.35
+        }
+      ]
+    },
+    {
+      "inicio": 4.9,
+      "fin": 10.86,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "REGISTRADA EL 19 DE OCTUBRE",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Ministerio de Trabajo · EFE, 19-10-2026"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 240,
+          "y": 770,
+          "lado": 290,
+          "mes": "OCT",
+          "dia": "19",
+          "cae": -1,
+          "marca": 1.02,
+          "en": 0.1
+        },
+        {
+          "tipo": "sobreCarpetaH",
+          "x": 700,
+          "y": 770,
+          "sobreEn": 0.34,
+          "selloEn": 1.62,
+          "en": 0.15
+        },
+        {
+          "tipo": "pastillaH",
+          "texto": "CCOO",
+          "x": 60,
+          "y": 970,
+          "ancho": 250,
+          "caps": true,
+          "en": 2.12
+        },
+        {
+          "tipo": "pastillaH",
+          "texto": "UGT",
+          "x": 60,
+          "y": 1060,
+          "ancho": 250,
+          "caps": true,
+          "en": 3.56
+        },
+        {
+          "tipo": "pastillaH",
+          "texto": "otras organizaciones",
+          "x": 60,
+          "y": 1150,
+          "en": 4.44
+        }
+      ]
+    },
+    {
+      "inicio": 10.86,
+      "fin": 13.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PIDEN: VIVIENDA Y SUELDOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "llaveBilleteH",
+          "y": 780,
+          "llaveEn": 0.24,
+          "billeteEn": 1.28,
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 13.42,
+      "fin": 18.82,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1.ª CONJUNTA DE CCOO Y UGT DESDE 2012",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Al Jazeera y El País, 07-10 · la anterior, 14-11-2012"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "fechasH",
+          "y": 780,
+          "hitos": [
+            {
+              "x": 240,
+              "etiq": "2012",
+              "en": 3.96
+            },
+            {
+              "x": 720,
+              "etiq": "2026",
+              "en": 4.84
+            }
+          ],
+          "unir": 4.84,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 18.82,
+      "fin": 21.78,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿PUEDE PARARLA LA PATRONAL?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mazoH",
+          "x": 200,
+          "y": 830,
+          "interroga": 1.14,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 21.78,
+      "fin": 36.19,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SI LA SECUNDAS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EL CONTRATO NO SE ACABA",
+          "y": 430,
+          "en": 1.32,
+          "tamano": 64,
+          "hasta": 3.76
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL 17/1977, art. 6.1",
+            "Fuente: BOE, RDL 17/1977 · ET"
+          ],
+          "en": 1.37,
+          "hasta": 3.76
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SIN SANCIÓN",
+          "y": 430,
+          "en": 3.8099999999999996,
+          "tamano": 64,
+          "hasta": 8.16
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Salvo falta durante la huelga",
+            "Fuente: BOE, RDL 17/1977 · ET"
+          ],
+          "en": 3.8599999999999994,
+          "hasta": 8.16
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ESE DÍA, SIN SUELDO",
+          "y": 430,
+          "en": 8.21,
+          "tamano": 64,
+          "hasta": 12.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Contrato suspendido · ET 45.1.l · RDL art. 6.2",
+            "Fuente: BOE, RDL 17/1977 · ET"
+          ],
+          "en": 8.260000000000002,
+          "hasta": 12.2
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SIGUES DE ALTA EN LA SEGURIDAD SOCIAL",
+          "y": 430,
+          "en": 12.25,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Alta especial, sin cotizar ese día · RDL art. 6.3",
+            "Fuente: BOE, RDL 17/1977 · ET"
+          ],
+          "en": 12.3
+        },
+        {
+          "tipo": "contratoH",
+          "x": 540,
+          "y": 870,
+          "check": 2.3,
+          "escudo": 4.27,
+          "mueve": 3.86,
+          "x2": 250,
+          "en": 1.32,
+          "hasta": 8.16
+        },
+        {
+          "tipo": "sancionH",
+          "x": 690,
+          "y": 780,
+          "tacha": 4.5,
+          "chispa": 6.86,
+          "en": 3.88,
+          "hasta": 8.16
+        },
+        {
+          "tipo": "nominaH",
+          "x": 540,
+          "y": 820,
+          "esc": 1.1,
+          "cifra": "0 €",
+          "cifraEn": 9.4,
+          "dia": "ese día",
+          "en": 8.21,
+          "hasta": 12.2
+        },
+        {
+          "tipo": "casillaSSH",
+          "y": 880,
+          "check": 12.7,
+          "en": 12.25
+        }
+      ]
+    },
+    {
+      "inicio": 36.19,
+      "fin": 43.82,
+      "fondo": "mostaza",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Y SI PREFIERES TRABAJAR?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.55
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "LIBERTAD DE TRABAJO",
+          "y": 335,
+          "en": 1.6,
+          "tamano": 64,
+          "hasta": 3.83
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL art. 6.4"
+          ],
+          "en": 1.6500000000000001,
+          "hasta": 3.83
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SIN SUSTITUIR A HUELGUISTAS",
+          "y": 335,
+          "en": 3.88,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Personal ajeno a la empresa · art. 6.5"
+          ],
+          "en": 3.9299999999999997
+        },
+        {
+          "tipo": "puertaH",
+          "x": 540,
+          "y": 900,
+          "check": 2.05,
+          "en": 0.1,
+          "hasta": 3.83
+        },
+        {
+          "tipo": "sillasH",
+          "y": 900,
+          "flecha": 4.77,
+          "bloqueo": 5.91,
+          "en": 3.88
+        }
+      ]
+    },
+    {
+      "inicio": 43.82,
+      "fin": 51.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EL LÍMITE: SERVICIOS MÍNIMOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.68
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "LOS PUEDE FIJAR LA ADMINISTRACIÓN",
+          "y": 335,
+          "en": 1.73,
+          "tamano": 64,
+          "hasta": 5.64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL art. 10 · STC 11/1981, FJ 18"
+          ],
+          "en": 1.78,
+          "hasta": 5.64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SE PUEDEN RECURRIR",
+          "y": 335,
+          "en": 5.6899999999999995,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Ante los tribunales"
+          ],
+          "en": 5.739999999999999
+        },
+        {
+          "tipo": "balanzaH",
+          "y": 700,
+          "izqEn": 0.3,
+          "derEn": 1.26,
+          "en": 0.1,
+          "hasta": 5.64
+        },
+        {
+          "tipo": "resolucionH",
+          "y": 840,
+          "selloEn": 6.04,
+          "golpes": [
+            6.34,
+            7.18
+          ],
+          "en": 5.69
+        }
+      ]
+    },
+    {
+      "inicio": 51.9,
+      "fin": 56.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LOS SINDICATOS DICEN: NO HAY ACUERDO SALARIAL",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "EFE, 22-10-2026"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "pastillaH",
+          "texto": "CEOE",
+          "x": 60,
+          "y": 650,
+          "ancho": 250,
+          "caps": true,
+          "en": 1.36
+        },
+        {
+          "tipo": "pastillaH",
+          "texto": "Sindicatos",
+          "x": 500,
+          "y": 650,
+          "ancho": 410,
+          "en": 0.19
+        },
+        {
+          "tipo": "acuerdoH",
+          "x": 540,
+          "y": 890,
+          "en": 2
+        }
+      ]
+    },
+    {
+      "inicio": 56.42,
+      "fin": 61.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LA LEY: ILEGAL SI ES POLÍTICA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL 17/1977, art. 11.a: motivos políticos o ajenos al interés profesional"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "claveH",
+          "lineas": [
+            {
+              "t": "motivos políticos",
+              "y": 770,
+              "en": 2.2,
+              "w": 600
+            },
+            {
+              "t": "ajenos al interés",
+              "y": 890,
+              "en": 3.4,
+              "w": 600
+            },
+            {
+              "t": "profesional",
+              "y": 975,
+              "en": 3.96,
+              "w": 385
+            }
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 61.7,
+      "fin": 72.26,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CEOE 19‑10: ES ELECTORAL",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 5.45
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Paráfrasis, según EFE"
+          ],
+          "en": 0.1,
+          "hasta": 5.45
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "22‑10: NO LA RECURRIRÁ ANTES DEL 11‑N",
+          "y": 335,
+          "en": 5.5,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuentes de la CEOE a EFE y a elDiario.es"
+          ],
+          "en": 5.55
+        },
+        {
+          "tipo": "lineaCeoeH",
+          "y": 860,
+          "tarjeta": 1.32,
+          "hito2": 7.08,
+          "renuncia": 8.7,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 72.26,
+      "fin": 75.45,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SEGUIRÁ LA JORNADA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 380,
+          "y": 840,
+          "lado": 360,
+          "mes": "NOV",
+          "dia": "11",
+          "cae": -1,
+          "en": 0.1
+        },
+        {
+          "tipo": "lupaH",
+          "x": 690,
+          "y": 840,
+          "etiqueta": "seguimiento",
+          "etiquetaY": 1085,
+          "en": 0.44
+        }
+      ]
+    },
+    {
+      "inicio": 75.45,
+      "fin": 84.02,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿QUÉ VIENE AHORA?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.17
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "11‑N: HUELGA Y MANIFESTACIONES",
+          "y": 335,
+          "en": 1.22,
+          "tamano": 64,
+          "hasta": 5.25
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Según Sordo (CCOO) y Álvarez (UGT) · EFE, 22-10"
+          ],
+          "en": 1.27,
+          "hasta": 5.25
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "13‑N: ARRANCA LA CAMPAÑA",
+          "y": 335,
+          "en": 5.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RD 806/2026 · elecciones: 29-11"
+          ],
+          "en": 5.35
+        },
+        {
+          "tipo": "novH",
+          "y": 860,
+          "hito11": 1.46,
+          "campana": 6.05,
+          "urna": 7.91,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 84.02,
+      "fin": 87.95,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SI LA SECUNDAS: SIN SUELDO, CON CONTRATO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 190,
+          "y": 870,
+          "lado": 260,
+          "mes": "NOV",
+          "dia": "11",
+          "cae": 0.15,
+          "en": 0.1
+        },
+        {
+          "tipo": "nominaH",
+          "x": 470,
+          "y": 870,
+          "esc": 0.8,
+          "cifra": "0 €",
+          "cifraEn": 1,
+          "dia": "ese día",
+          "en": 0.15
+        },
+        {
+          "tipo": "contratoH",
+          "x": 790,
+          "y": 870,
+          "esc": 0.8,
+          "check": 2.46,
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 87.95,
+      "fin": 93.8,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿LA SECUNDARÍAS?",
+          "tamano": 88,
+          "pulso": true,
+          "guardaEn": 2.58
+        }
+      ]
+    }
+  ],
+  "id": "019-huelga-general-11n",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Está",
+      "inicio": 0,
+      "fin": 0.28
+    },
+    {
+      "t": "convocada",
+      "inicio": 0.32,
+      "fin": 0.8
+    },
+    {
+      "t": "una",
+      "inicio": 0.88,
+      "fin": 0.96
+    },
+    {
+      "t": "huelga",
+      "inicio": 1.04,
+      "fin": 1.28
+    },
+    {
+      "t": "general",
+      "inicio": 1.36,
+      "fin": 1.84
+    },
+    {
+      "t": "el",
+      "inicio": 1.92,
+      "fin": 2.08
+    },
+    {
+      "t": "once",
+      "inicio": 2.2,
+      "fin": 2.32
+    },
+    {
+      "t": "de",
+      "inicio": 2.4,
+      "fin": 2.44
+    },
+    {
+      "t": "noviembre.",
+      "inicio": 2.48,
+      "fin": 3.28
+    },
+    {
+      "t": "¿Te",
+      "inicio": 3.32,
+      "fin": 3.44
+    },
+    {
+      "t": "pueden",
+      "inicio": 3.52,
+      "fin": 3.68
+    },
+    {
+      "t": "descontar",
+      "inicio": 3.76,
+      "fin": 4.16
+    },
+    {
+      "t": "el",
+      "inicio": 4.2,
+      "fin": 4.24
+    },
+    {
+      "t": "día?",
+      "inicio": 4.32,
+      "fin": 4.96
+    },
+    {
+      "t": "La",
+      "inicio": 5,
+      "fin": 5.04
+    },
+    {
+      "t": "registraron",
+      "inicio": 5.24,
+      "fin": 5.68
+    },
+    {
+      "t": "el",
+      "inicio": 5.76,
+      "fin": 5.84
+    },
+    {
+      "t": "diecinueve",
+      "inicio": 5.92,
+      "fin": 6.28
+    },
+    {
+      "t": "de",
+      "inicio": 6.32,
+      "fin": 6.4
+    },
+    {
+      "t": "octubre",
+      "inicio": 6.52,
+      "fin": 6.88
+    },
+    {
+      "t": "CCOO,",
+      "inicio": 7.12,
+      "fin": 8.48
+    },
+    {
+      "t": "UGT",
+      "inicio": 8.56,
+      "fin": 9.04
+    },
+    {
+      "t": "y",
+      "inicio": 9.28,
+      "fin": 9.36
+    },
+    {
+      "t": "otras",
+      "inicio": 9.44,
+      "fin": 9.68
+    },
+    {
+      "t": "organizaciones.",
+      "inicio": 9.76,
+      "fin": 10.88
+    },
+    {
+      "t": "Piden",
+      "inicio": 10.96,
+      "fin": 11.12
+    },
+    {
+      "t": "vivienda",
+      "inicio": 11.2,
+      "fin": 11.6
+    },
+    {
+      "t": "digna",
+      "inicio": 11.64,
+      "fin": 12.08
+    },
+    {
+      "t": "y",
+      "inicio": 12.12,
+      "fin": 12.16
+    },
+    {
+      "t": "subidas",
+      "inicio": 12.24,
+      "fin": 12.64
+    },
+    {
+      "t": "de",
+      "inicio": 12.68,
+      "fin": 12.72
+    },
+    {
+      "t": "sueldo.",
+      "inicio": 12.8,
+      "fin": 13.44
+    },
+    {
+      "t": "Es",
+      "inicio": 13.52,
+      "fin": 13.6
+    },
+    {
+      "t": "la",
+      "inicio": 13.64,
+      "fin": 13.68
+    },
+    {
+      "t": "primera",
+      "inicio": 13.76,
+      "fin": 14
+    },
+    {
+      "t": "huelga",
+      "inicio": 14.08,
+      "fin": 14.32
+    },
+    {
+      "t": "general",
+      "inicio": 14.4,
+      "fin": 14.72
+    },
+    {
+      "t": "conjunta",
+      "inicio": 14.8,
+      "fin": 15.36
+    },
+    {
+      "t": "de",
+      "inicio": 15.44,
+      "fin": 15.52
+    },
+    {
+      "t": "CCOO",
+      "inicio": 15.6,
+      "fin": 16.56
+    },
+    {
+      "t": "y",
+      "inicio": 16.64,
+      "fin": 16.72
+    },
+    {
+      "t": "UGT",
+      "inicio": 16.76,
+      "fin": 17.36
+    },
+    {
+      "t": "desde",
+      "inicio": 17.48,
+      "fin": 17.68
+    },
+    {
+      "t": "dos",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "t": "mil",
+      "inicio": 17.92,
+      "fin": 18
+    },
+    {
+      "t": "doce.",
+      "inicio": 18.16,
+      "fin": 18.8
+    },
+    {
+      "t": "Y",
+      "inicio": 18.92,
+      "fin": 19.04
+    },
+    {
+      "t": "una",
+      "inicio": 19.12,
+      "fin": 19.28
+    },
+    {
+      "t": "duda:",
+      "inicio": 19.36,
+      "fin": 20
+    },
+    {
+      "t": "¿puede",
+      "inicio": 20.06,
+      "fin": 20.24
+    },
+    {
+      "t": "pararla",
+      "inicio": 20.32,
+      "fin": 20.64
+    },
+    {
+      "t": "la",
+      "inicio": 20.72,
+      "fin": 20.8
+    },
+    {
+      "t": "patronal?",
+      "inicio": 20.88,
+      "fin": 21.84
+    },
+    {
+      "t": "Vamos",
+      "inicio": 21.88,
+      "fin": 22.16
+    },
+    {
+      "t": "por",
+      "inicio": 22.24,
+      "fin": 22.32
+    },
+    {
+      "t": "partes.",
+      "inicio": 22.44,
+      "fin": 23.12
+    },
+    {
+      "t": "Si",
+      "inicio": 23.2,
+      "fin": 23.28
+    },
+    {
+      "t": "la",
+      "inicio": 23.32,
+      "fin": 23.36
+    },
+    {
+      "t": "haces,",
+      "inicio": 23.44,
+      "fin": 23.92
+    },
+    {
+      "t": "tu",
+      "inicio": 23.96,
+      "fin": 24
+    },
+    {
+      "t": "contrato",
+      "inicio": 24.08,
+      "fin": 24.64
+    },
+    {
+      "t": "no",
+      "inicio": 24.72,
+      "fin": 24.8
+    },
+    {
+      "t": "se",
+      "inicio": 24.88,
+      "fin": 24.96
+    },
+    {
+      "t": "acaba.",
+      "inicio": 25.04,
+      "fin": 25.6
+    },
+    {
+      "t": "Y",
+      "inicio": 25.64,
+      "fin": 25.68
+    },
+    {
+      "t": "no",
+      "inicio": 25.76,
+      "fin": 25.84
+    },
+    {
+      "t": "te",
+      "inicio": 25.92,
+      "fin": 26
+    },
+    {
+      "t": "pueden",
+      "inicio": 26.053,
+      "fin": 26.24
+    },
+    {
+      "t": "sancionar",
+      "inicio": 26.28,
+      "fin": 26.72
+    },
+    {
+      "t": "por",
+      "inicio": 26.8,
+      "fin": 26.88
+    },
+    {
+      "t": "ello.",
+      "inicio": 27,
+      "fin": 27.44
+    },
+    {
+      "t": "Salvo",
+      "inicio": 27.52,
+      "fin": 27.76
+    },
+    {
+      "t": "que",
+      "inicio": 27.84,
+      "fin": 27.92
+    },
+    {
+      "t": "cometas",
+      "inicio": 28,
+      "fin": 28.4
+    },
+    {
+      "t": "una",
+      "inicio": 28.48,
+      "fin": 28.56
+    },
+    {
+      "t": "falta",
+      "inicio": 28.64,
+      "fin": 28.88
+    },
+    {
+      "t": "durante",
+      "inicio": 28.96,
+      "fin": 29.2
+    },
+    {
+      "t": "la",
+      "inicio": 29.28,
+      "fin": 29.36
+    },
+    {
+      "t": "huelga.",
+      "inicio": 29.413,
+      "fin": 30
+    },
+    {
+      "t": "Eso",
+      "inicio": 30.04,
+      "fin": 30.24
+    },
+    {
+      "t": "sí:",
+      "inicio": 30.28,
+      "fin": 30.64
+    },
+    {
+      "t": "ese",
+      "inicio": 30.76,
+      "fin": 30.88
+    },
+    {
+      "t": "día",
+      "inicio": 31,
+      "fin": 31.12
+    },
+    {
+      "t": "no",
+      "inicio": 31.28,
+      "fin": 31.36
+    },
+    {
+      "t": "cobras,",
+      "inicio": 31.44,
+      "fin": 32
+    },
+    {
+      "t": "porque",
+      "inicio": 32.08,
+      "fin": 32.2
+    },
+    {
+      "t": "el",
+      "inicio": 32.24,
+      "fin": 32.32
+    },
+    {
+      "t": "contrato",
+      "inicio": 32.44,
+      "fin": 32.8
+    },
+    {
+      "t": "queda",
+      "inicio": 32.88,
+      "fin": 33.12
+    },
+    {
+      "t": "suspendido.",
+      "inicio": 33.28,
+      "fin": 34
+    },
+    {
+      "t": "Sigues",
+      "inicio": 34.08,
+      "fin": 34.32
+    },
+    {
+      "t": "de",
+      "inicio": 34.4,
+      "fin": 34.44
+    },
+    {
+      "t": "alta",
+      "inicio": 34.48,
+      "fin": 34.72
+    },
+    {
+      "t": "en",
+      "inicio": 34.76,
+      "fin": 34.8
+    },
+    {
+      "t": "la",
+      "inicio": 34.84,
+      "fin": 34.88
+    },
+    {
+      "t": "Seguridad",
+      "inicio": 34.96,
+      "fin": 35.36
+    },
+    {
+      "t": "Social.",
+      "inicio": 35.44,
+      "fin": 36.24
+    },
+    {
+      "t": "¿Y",
+      "inicio": 36.293,
+      "fin": 36.4
+    },
+    {
+      "t": "si",
+      "inicio": 36.48,
+      "fin": 36.56
+    },
+    {
+      "t": "prefieres",
+      "inicio": 36.64,
+      "fin": 36.96
+    },
+    {
+      "t": "trabajar?",
+      "inicio": 37.04,
+      "fin": 37.76
+    },
+    {
+      "t": "La",
+      "inicio": 37.84,
+      "fin": 37.92
+    },
+    {
+      "t": "ley",
+      "inicio": 38,
+      "fin": 38.16
+    },
+    {
+      "t": "respeta",
+      "inicio": 38.24,
+      "fin": 38.64
+    },
+    {
+      "t": "tu",
+      "inicio": 38.72,
+      "fin": 38.8
+    },
+    {
+      "t": "libertad",
+      "inicio": 38.88,
+      "fin": 39.2
+    },
+    {
+      "t": "de",
+      "inicio": 39.28,
+      "fin": 39.36
+    },
+    {
+      "t": "trabajo.",
+      "inicio": 39.4,
+      "fin": 40.08
+    },
+    {
+      "t": "Y",
+      "inicio": 40.12,
+      "fin": 40.16
+    },
+    {
+      "t": "la",
+      "inicio": 40.2,
+      "fin": 40.24
+    },
+    {
+      "t": "empresa",
+      "inicio": 40.48,
+      "fin": 40.72
+    },
+    {
+      "t": "no",
+      "inicio": 40.8,
+      "fin": 40.88
+    },
+    {
+      "t": "puede",
+      "inicio": 40.96,
+      "fin": 41.2
+    },
+    {
+      "t": "sustituir",
+      "inicio": 41.24,
+      "fin": 41.76
+    },
+    {
+      "t": "a",
+      "inicio": 41.787,
+      "fin": 41.813
+    },
+    {
+      "t": "los",
+      "inicio": 41.84,
+      "fin": 41.92
+    },
+    {
+      "t": "huelguistas",
+      "inicio": 42,
+      "fin": 42.56
+    },
+    {
+      "t": "con",
+      "inicio": 42.64,
+      "fin": 42.72
+    },
+    {
+      "t": "personal",
+      "inicio": 42.8,
+      "fin": 43.12
+    },
+    {
+      "t": "ajeno.",
+      "inicio": 43.2,
+      "fin": 43.84
+    },
+    {
+      "t": "Hay",
+      "inicio": 43.92,
+      "fin": 44
+    },
+    {
+      "t": "un",
+      "inicio": 44.04,
+      "fin": 44.08
+    },
+    {
+      "t": "límite:",
+      "inicio": 44.16,
+      "fin": 44.8
+    },
+    {
+      "t": "los",
+      "inicio": 44.88,
+      "fin": 44.96
+    },
+    {
+      "t": "servicios",
+      "inicio": 45.08,
+      "fin": 45.52
+    },
+    {
+      "t": "mínimos.",
+      "inicio": 45.6,
+      "fin": 46.32
+    },
+    {
+      "t": "En",
+      "inicio": 46.36,
+      "fin": 46.4
+    },
+    {
+      "t": "servicios",
+      "inicio": 46.48,
+      "fin": 46.88
+    },
+    {
+      "t": "esenciales,",
+      "inicio": 46.96,
+      "fin": 47.68
+    },
+    {
+      "t": "puede",
+      "inicio": 47.733,
+      "fin": 47.84
+    },
+    {
+      "t": "fijarlos",
+      "inicio": 47.92,
+      "fin": 48.4
+    },
+    {
+      "t": "la",
+      "inicio": 48.44,
+      "fin": 48.48
+    },
+    {
+      "t": "Administración.",
+      "inicio": 48.68,
+      "fin": 49.52
+    },
+    {
+      "t": "Y",
+      "inicio": 49.56,
+      "fin": 49.6
+    },
+    {
+      "t": "se",
+      "inicio": 49.64,
+      "fin": 49.68
+    },
+    {
+      "t": "pueden",
+      "inicio": 49.84,
+      "fin": 50.08
+    },
+    {
+      "t": "recurrir",
+      "inicio": 50.16,
+      "fin": 50.48
+    },
+    {
+      "t": "ante",
+      "inicio": 50.56,
+      "fin": 50.72
+    },
+    {
+      "t": "los",
+      "inicio": 50.8,
+      "fin": 50.88
+    },
+    {
+      "t": "tribunales.",
+      "inicio": 50.96,
+      "fin": 51.92
+    },
+    {
+      "t": "Los",
+      "inicio": 52,
+      "fin": 52.08
+    },
+    {
+      "t": "sindicatos",
+      "inicio": 52.187,
+      "fin": 52.64
+    },
+    {
+      "t": "acusan",
+      "inicio": 52.72,
+      "fin": 53.04
+    },
+    {
+      "t": "a",
+      "inicio": 53.12,
+      "fin": 53.16
+    },
+    {
+      "t": "la",
+      "inicio": 53.2,
+      "fin": 53.28
+    },
+    {
+      "t": "CEOE",
+      "inicio": 53.36,
+      "fin": 53.76
+    },
+    {
+      "t": "de",
+      "inicio": 53.84,
+      "fin": 53.92
+    },
+    {
+      "t": "bloquear",
+      "inicio": 54,
+      "fin": 54.4
+    },
+    {
+      "t": "el",
+      "inicio": 54.48,
+      "fin": 54.56
+    },
+    {
+      "t": "acuerdo",
+      "inicio": 54.64,
+      "fin": 54.96
+    },
+    {
+      "t": "para",
+      "inicio": 55.04,
+      "fin": 55.12
+    },
+    {
+      "t": "subir",
+      "inicio": 55.2,
+      "fin": 55.44
+    },
+    {
+      "t": "salarios.",
+      "inicio": 55.52,
+      "fin": 56.48
+    },
+    {
+      "t": "La",
+      "inicio": 56.52,
+      "fin": 56.56
+    },
+    {
+      "t": "ley",
+      "inicio": 56.64,
+      "fin": 56.8
+    },
+    {
+      "t": "considera",
+      "inicio": 56.88,
+      "fin": 57.36
+    },
+    {
+      "t": "ilegal",
+      "inicio": 57.48,
+      "fin": 57.76
+    },
+    {
+      "t": "una",
+      "inicio": 57.92,
+      "fin": 58.08
+    },
+    {
+      "t": "huelga",
+      "inicio": 58.16,
+      "fin": 58.4
+    },
+    {
+      "t": "con",
+      "inicio": 58.48,
+      "fin": 58.64
+    },
+    {
+      "t": "motivos",
+      "inicio": 58.72,
+      "fin": 59.04
+    },
+    {
+      "t": "políticos",
+      "inicio": 59.12,
+      "fin": 59.76
+    },
+    {
+      "t": "o",
+      "inicio": 59.8,
+      "fin": 59.84
+    },
+    {
+      "t": "ajenos",
+      "inicio": 59.92,
+      "fin": 60.32
+    },
+    {
+      "t": "al",
+      "inicio": 60.36,
+      "fin": 60.4
+    },
+    {
+      "t": "interés",
+      "inicio": 60.48,
+      "fin": 60.8
+    },
+    {
+      "t": "profesional.",
+      "inicio": 60.92,
+      "fin": 61.76
+    },
+    {
+      "t": "El",
+      "inicio": 61.8,
+      "fin": 61.84
+    },
+    {
+      "t": "diecinueve",
+      "inicio": 61.92,
+      "fin": 62.28
+    },
+    {
+      "t": "de",
+      "inicio": 62.32,
+      "fin": 62.4
+    },
+    {
+      "t": "octubre,",
+      "inicio": 62.52,
+      "fin": 62.96
+    },
+    {
+      "t": "la",
+      "inicio": 63,
+      "fin": 63.04
+    },
+    {
+      "t": "CEOE",
+      "inicio": 63.12,
+      "fin": 63.6
+    },
+    {
+      "t": "dijo",
+      "inicio": 63.76,
+      "fin": 64
+    },
+    {
+      "t": "que",
+      "inicio": 64.04,
+      "fin": 64.08
+    },
+    {
+      "t": "la",
+      "inicio": 64.12,
+      "fin": 64.16
+    },
+    {
+      "t": "impugnaría",
+      "inicio": 64.24,
+      "fin": 64.8
+    },
+    {
+      "t": "por",
+      "inicio": 64.88,
+      "fin": 64.96
+    },
+    {
+      "t": "ser",
+      "inicio": 65.04,
+      "fin": 65.28
+    },
+    {
+      "t": "electoral,",
+      "inicio": 65.36,
+      "fin": 66.16
+    },
+    {
+      "t": "no",
+      "inicio": 66.24,
+      "fin": 66.32
+    },
+    {
+      "t": "laboral.",
+      "inicio": 66.4,
+      "fin": 67.2
+    },
+    {
+      "t": "Tres",
+      "inicio": 67.253,
+      "fin": 67.36
+    },
+    {
+      "t": "días",
+      "inicio": 67.44,
+      "fin": 67.6
+    },
+    {
+      "t": "después,",
+      "inicio": 67.68,
+      "fin": 68.24
+    },
+    {
+      "t": "fuentes",
+      "inicio": 68.28,
+      "fin": 68.56
+    },
+    {
+      "t": "de",
+      "inicio": 68.64,
+      "fin": 68.72
+    },
+    {
+      "t": "la",
+      "inicio": 68.76,
+      "fin": 68.8
+    },
+    {
+      "t": "CEOE",
+      "inicio": 68.88,
+      "fin": 69.2
+    },
+    {
+      "t": "dijeron",
+      "inicio": 69.44,
+      "fin": 69.84
+    },
+    {
+      "t": "que",
+      "inicio": 69.92,
+      "fin": 70.08
+    },
+    {
+      "t": "no",
+      "inicio": 70.12,
+      "fin": 70.16
+    },
+    {
+      "t": "la",
+      "inicio": 70.24,
+      "fin": 70.32
+    },
+    {
+      "t": "recurrirán",
+      "inicio": 70.4,
+      "fin": 71.04
+    },
+    {
+      "t": "antes",
+      "inicio": 71.2,
+      "fin": 71.36
+    },
+    {
+      "t": "de",
+      "inicio": 71.4,
+      "fin": 71.44
+    },
+    {
+      "t": "celebrarse.",
+      "inicio": 71.52,
+      "fin": 72.32
+    },
+    {
+      "t": "Pero",
+      "inicio": 72.36,
+      "fin": 72.56
+    },
+    {
+      "t": "hará",
+      "inicio": 72.6,
+      "fin": 72.72
+    },
+    {
+      "t": "seguimiento",
+      "inicio": 72.8,
+      "fin": 73.44
+    },
+    {
+      "t": "y",
+      "inicio": 73.52,
+      "fin": 73.56
+    },
+    {
+      "t": "actuará",
+      "inicio": 73.6,
+      "fin": 74.08
+    },
+    {
+      "t": "según",
+      "inicio": 74.16,
+      "fin": 74.4
+    },
+    {
+      "t": "lo",
+      "inicio": 74.44,
+      "fin": 74.48
+    },
+    {
+      "t": "que",
+      "inicio": 74.56,
+      "fin": 74.6
+    },
+    {
+      "t": "ocurra.",
+      "inicio": 74.64,
+      "fin": 75.52
+    },
+    {
+      "t": "¿Qué",
+      "inicio": 75.547,
+      "fin": 75.6
+    },
+    {
+      "t": "viene",
+      "inicio": 75.68,
+      "fin": 75.84
+    },
+    {
+      "t": "ahora?",
+      "inicio": 75.92,
+      "fin": 76.64
+    },
+    {
+      "t": "Los",
+      "inicio": 76.72,
+      "fin": 76.8
+    },
+    {
+      "t": "sindicatos",
+      "inicio": 76.907,
+      "fin": 77.36
+    },
+    {
+      "t": "dicen",
+      "inicio": 77.44,
+      "fin": 77.68
+    },
+    {
+      "t": "que",
+      "inicio": 77.76,
+      "fin": 77.84
+    },
+    {
+      "t": "su",
+      "inicio": 77.88,
+      "fin": 77.92
+    },
+    {
+      "t": "éxito",
+      "inicio": 78,
+      "fin": 78.4
+    },
+    {
+      "t": "depende",
+      "inicio": 78.56,
+      "fin": 78.8
+    },
+    {
+      "t": "de",
+      "inicio": 78.88,
+      "fin": 78.96
+    },
+    {
+      "t": "las",
+      "inicio": 79.04,
+      "fin": 79.12
+    },
+    {
+      "t": "manifestaciones",
+      "inicio": 79.32,
+      "fin": 79.84
+    },
+    {
+      "t": "de",
+      "inicio": 79.88,
+      "fin": 79.92
+    },
+    {
+      "t": "la",
+      "inicio": 80,
+      "fin": 80.08
+    },
+    {
+      "t": "tarde.",
+      "inicio": 80.16,
+      "fin": 80.72
+    },
+    {
+      "t": "Dos",
+      "inicio": 80.8,
+      "fin": 80.96
+    },
+    {
+      "t": "días",
+      "inicio": 81,
+      "fin": 81.2
+    },
+    {
+      "t": "después",
+      "inicio": 81.28,
+      "fin": 81.52
+    },
+    {
+      "t": "de",
+      "inicio": 81.56,
+      "fin": 81.6
+    },
+    {
+      "t": "la",
+      "inicio": 81.68,
+      "fin": 81.72
+    },
+    {
+      "t": "huelga",
+      "inicio": 81.76,
+      "fin": 82.16
+    },
+    {
+      "t": "empieza",
+      "inicio": 82.24,
+      "fin": 82.72
+    },
+    {
+      "t": "la",
+      "inicio": 82.76,
+      "fin": 82.8
+    },
+    {
+      "t": "campaña",
+      "inicio": 82.88,
+      "fin": 83.2
+    },
+    {
+      "t": "electoral.",
+      "inicio": 83.36,
+      "fin": 84.08
+    },
+    {
+      "t": "Si",
+      "inicio": 84.12,
+      "fin": 84.16
+    },
+    {
+      "t": "la",
+      "inicio": 84.24,
+      "fin": 84.32
+    },
+    {
+      "t": "secundas,",
+      "inicio": 84.4,
+      "fin": 85.04
+    },
+    {
+      "t": "no",
+      "inicio": 85.12,
+      "fin": 85.2
+    },
+    {
+      "t": "cobras",
+      "inicio": 85.28,
+      "fin": 85.6
+    },
+    {
+      "t": "ese",
+      "inicio": 85.68,
+      "fin": 85.76
+    },
+    {
+      "t": "día,",
+      "inicio": 85.84,
+      "fin": 86.24
+    },
+    {
+      "t": "pero",
+      "inicio": 86.32,
+      "fin": 86.44
+    },
+    {
+      "t": "conservas",
+      "inicio": 86.48,
+      "fin": 86.96
+    },
+    {
+      "t": "tu",
+      "inicio": 87,
+      "fin": 87.04
+    },
+    {
+      "t": "contrato.",
+      "inicio": 87.12,
+      "fin": 88
+    },
+    {
+      "t": "¿Secundarías",
+      "inicio": 88.053,
+      "fin": 88.64
+    },
+    {
+      "t": "una",
+      "inicio": 88.72,
+      "fin": 88.8
+    },
+    {
+      "t": "huelga",
+      "inicio": 88.84,
+      "fin": 89.12
+    },
+    {
+      "t": "general",
+      "inicio": 89.32,
+      "fin": 89.52
+    },
+    {
+      "t": "por",
+      "inicio": 89.6,
+      "fin": 89.68
+    },
+    {
+      "t": "la",
+      "inicio": 89.72,
+      "fin": 89.76
+    },
+    {
+      "t": "vivienda?",
+      "inicio": 89.84,
+      "fin": 90.64
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 90.68,
+      "fin": 91.2
+    },
+    {
+      "t": "para",
+      "inicio": 91.28,
+      "fin": 91.36
+    },
+    {
+      "t": "estar",
+      "inicio": 91.48,
+      "fin": 91.6
+    },
+    {
+      "t": "informado.",
+      "inicio": 91.68,
+      "fin": 92.32
+    }
+  ]
+}

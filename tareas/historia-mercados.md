@@ -1,6 +1,6 @@
 # Rutina: historia diaria de mercados (lunes a viernes, 22:15 Europe/Madrid)
 
-Instrucciones para el agente programado en la nube. Formato aprobado una vez por la persona usuaria (pendiente de su "aprobado el formato" sobre la plantilla del 2026-10-26); si no consta en CLAUDE.md, **no publiques**: deja la historia renderizada y el informe.
+Instrucciones para el agente programado en la nube. Formato aprobado por la persona usuaria el 2026-10-26 ("aprobado el formato", plantilla de ese día; consta en CLAUDE.md). Si la plantilla cambia o la aprobación deja de constar en CLAUDE.md, **no publiques**: deja la historia renderizada y el informe.
 
 1. `node videos/scripts/mercados.mjs <hoy>`. Si algún activo dice "no hay sesión" para hoy en el IBEX y en Wall Street, es festivo: no hay historia; escribe una línea en `estado/mercados/registro.md` y termina.
 2. Contrasta las cifras de cierre del IBEX 35, S&P 500, Dow Jones y Nasdaq con una segunda fuente de referencia (Reuters, AP, WSJ, Expansión o BME). Si alguna difiere en más de 0,01 puntos porcentuales en la variación, no publiques: anótalo en el registro.

@@ -5,6 +5,7 @@
 | Estado | **listo**: guion APROBADO (revisiones/guiones/011-calendario-generales-54-dias-v1.md, literales aplicados) y carrusel APROBADO 9/10 (revisiones/videos/011-calendario-generales-54-dias-v2.md). Aprobación permanente del 2026-10-26 |
 | Archivos | carruseles/011-calendario-generales-54-dias-v2/01.png … 10.png (1080×1350, en orden) |
 | Programado | 2026-10-28 13:30 (Europe/Madrid) · Instagram (carrusel) + TikTok (modo foto, si TikTok Studio lo permite en la web) |
+| Programado (hecho) | 2026-10-26 · 2026-10-28 13:30 · Instagram carrusel de 10 fotos (Meta Business Suite, Contenido > Programado: mié 28 oct 13:30, tipo Photo) + TikTok modo foto (TikTok Studio > Fotos, 10 imágenes; título = 1.ª línea del post, descripción = resto; Publicaciones: 28 oct, 13:30). Verificado en ambos |
 | Caducidad | La diapositiva 6 habla en presente del plazo del 31-10: publicar antes de esa fecha |
 
 ## Texto del post (1194 caracteres)

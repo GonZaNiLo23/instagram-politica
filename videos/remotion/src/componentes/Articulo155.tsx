@@ -52,7 +52,7 @@ export const VotosS: React.FC<{y?: number; en?: number; hasta?: number; pitch?: 
         return (
           <div key={i} style={{position: 'absolute', left: 60, top: y + i * pitch, height: 68, display: 'flex', alignItems: 'center', opacity: p > 0 ? 1 : 0}}>
             <div style={{width: w, height: 68, background: d.c, borderRadius: 8}} />
-            <div style={{marginLeft: 18, fontFamily: F.cifra, fontWeight: 700, fontSize: 64, color: T, whiteSpace: 'nowrap', lineHeight: '68px'}}>{n} {d.t}</div>
+            <div style={{marginLeft: 18, fontFamily: F.cifra, fontWeight: 700, fontSize: 64, color: T, whiteSpace: 'nowrap', lineHeight: '68px'}}>{p >= 1 ? `${d.v} ${d.t}` : ''}</div>
           </div>
         );
       })}

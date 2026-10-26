@@ -91,14 +91,11 @@
             "en": -1
           },
           {
-            "tipo": "recorte",
-            "src": "olla.png",
+            "tipo": "cucharonE",
             "x": 540,
-            "y": 1290,
-            "ancho": 440,
-            "giro": -3,
-            "desde": "escala",
-            "flota": false,
+            "y": 1250,
+            "ancho": 360,
+            "giro": -35,
             "en": -1
           }
         ]
@@ -480,8 +477,8 @@
           "n": 36,
           "cols": 12,
           "y": 720,
-          "tam": 60,
-          "paso": 70,
+          "tam": 54,
+          "paso": 62,
           "aparece": {
             "en": 2.64,
             "dur": 1.2
@@ -511,8 +508,8 @@
           "n": 36,
           "cols": 12,
           "y": 720,
-          "tam": 60,
-          "paso": 70,
+          "tam": 54,
+          "paso": 62,
           "aparece": {
             "en": -9,
             "dur": 1
@@ -560,8 +557,8 @@
           "n": 36,
           "cols": 12,
           "y": 720,
-          "tam": 60,
-          "paso": 70,
+          "tam": 54,
+          "paso": 62,
           "aparece": {
             "en": -9,
             "dur": 1
@@ -646,9 +643,9 @@
           "tipo": "personasE",
           "n": 100,
           "cols": 20,
-          "y": 760,
-          "tam": 38,
-          "paso": 42,
+          "y": 780,
+          "tam": 34,
+          "paso": 38,
           "aparece": {
             "en": 0.1,
             "dur": 0.9
@@ -679,20 +676,12 @@
           "en": -1
         },
         {
-          "tipo": "recorte",
-          "src": "olla.png",
+          "tipo": "ollaE",
           "x": 540,
-          "y": 960,
-          "ancho": 600,
+          "y": 950,
+          "ancho": 520,
           "giro": -2,
           "desde": "abajo",
-          "en": 0.3
-        },
-        {
-          "tipo": "notas",
-          "lineas": [
-            "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons (recorte)"
-          ],
           "en": 0.3
         },
         {
@@ -749,8 +738,7 @@
         {
           "tipo": "notas",
           "lineas": [
-            "CIS: modelo propio «de escenarios»",
-            "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons (recorte)"
+            "CIS: modelo propio «de escenarios»"
           ],
           "en": 0.1
         },
@@ -762,15 +750,12 @@
           "en": -1
         },
         {
-          "tipo": "recorte",
-          "src": "olla.png",
+          "tipo": "ollaE",
           "x": 830,
           "y": 612,
-          "ancho": 170,
+          "ancho": 150,
           "giro": 0,
           "desde": "escala",
-          "flota": false,
-          "contorno": 6,
           "en": -1
         },
         {
@@ -797,49 +782,13 @@
           "y": 690,
           "yPlatos": 985,
           "xs": [
-            290,
-            770
+            270,
+            750
           ],
           "enT": 0.2,
           "platosEn": 2.4,
+          "platos": true,
           "en": -1
-        },
-        {
-          "tipo": "foto",
-          "src": "paella0.jpg",
-          "forma": "circulo",
-          "x": 290,
-          "y": 985,
-          "alto": 340,
-          "foco": "50% 50%",
-          "zoom": [
-            1,
-            1.1
-          ],
-          "dur": 2,
-          "en": 2.4
-        },
-        {
-          "tipo": "foto",
-          "src": "paella1.jpg",
-          "forma": "circulo",
-          "x": 770,
-          "y": 985,
-          "alto": 340,
-          "foco": "50% 52%",
-          "zoom": [
-            1,
-            1.1
-          ],
-          "dur": 2,
-          "en": 2.55
-        },
-        {
-          "tipo": "notas",
-          "lineas": [
-            "Fotos: Jebulon (CC0) y RecoveryMinded (dominio público) · Wikimedia Commons"
-          ],
-          "en": 2.4
         }
       ]
     },
@@ -1034,7 +983,7 @@
         {
           "tipo": "notas",
           "lineas": [
-            "Bases distintas: entrevistados que votaron frente a votos válidos"
+            "Bases distintas"
           ],
           "en": 0.1
         },
@@ -1095,11 +1044,12 @@
         {
           "tipo": "sello",
           "valor": "DATO",
-          "x": 700,
-          "y": 745,
-          "tamano": 80,
-          "angulo": 4,
-          "desde": -170,
+          "x": 640,
+          "y": 761,
+          "tamano": 40,
+          "angulo": 0,
+          "desde": 0,
+          "reboteMax": 0,
           "en": 1.27
         }
       ]
@@ -1170,23 +1120,13 @@
           "en": -1
         },
         {
-          "tipo": "recorte",
-          "src": "olla.png",
+          "tipo": "ollaE",
           "x": 290,
           "y": 818,
           "ancho": 190,
           "giro": -2,
           "desde": "escala",
-          "flota": false,
-          "contorno": 7,
           "en": 0.15
-        },
-        {
-          "tipo": "notas",
-          "lineas": [
-            "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons (recorte)"
-          ],
-          "en": 0.1
         },
         {
           "tipo": "llaveE",
@@ -1211,58 +1151,50 @@
         {
           "tipo": "notas",
           "lineas": [
-            "«…cualquiera puede aplicar sus propios modelos» · nota metodológica, estudio 3582",
-            "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons (recorte)"
+            "«…cualquiera puede aplicar sus propios modelos» · nota metodológica, estudio 3582"
           ],
           "en": 0.1
         },
         {
           "tipo": "carpetaE",
           "x": 540,
-          "y": 640,
+          "y": 600,
           "abreEn": 1.03,
           "xs": [
             180,
             500,
             820
           ],
-          "yOllas": 1020,
+          "yOllas": 1040,
+          "cuchOff": 450,
+          "etiquetaDy": 215,
           "en": 0.1
         },
         {
-          "tipo": "recorte",
-          "src": "olla.png",
+          "tipo": "ollaE",
           "x": 180,
-          "y": 1020,
-          "ancho": 230,
+          "y": 1050,
+          "ancho": 210,
           "giro": -3,
           "desde": "abajo",
-          "flota": false,
-          "contorno": 7,
           "en": 0.3
         },
         {
-          "tipo": "recorte",
-          "src": "olla.png",
+          "tipo": "ollaE",
           "x": 500,
-          "y": 1020,
-          "ancho": 230,
+          "y": 1050,
+          "ancho": 210,
           "giro": 2,
           "desde": "abajo",
-          "flota": false,
-          "contorno": 7,
           "en": 0.45
         },
         {
-          "tipo": "recorte",
-          "src": "olla.png",
+          "tipo": "ollaE",
           "x": 820,
-          "y": 1020,
-          "ancho": 230,
+          "y": 1050,
+          "ancho": 210,
           "giro": -2,
           "desde": "abajo",
-          "flota": false,
-          "contorno": 7,
           "en": 0.6
         }
       ]
@@ -1281,33 +1213,26 @@
         {
           "tipo": "notas",
           "lineas": [
-            "El CIS avisa: su estimación «no posee intención prospectiva» (no es predicción)",
-            "Fotos: Jacek Halicki (cámara) y Matti Blume (olla) · CC BY-SA 4.0 · Wikimedia Commons (recorte)"
+            "El CIS avisa: su estimación «no posee intención prospectiva» (no es predicción)"
           ],
           "en": 0.1
         },
         {
-          "tipo": "recorte",
-          "src": "camara.png",
+          "tipo": "camaraE",
           "x": 280,
           "y": 700,
           "ancho": 270,
           "giro": -3,
           "desde": "izquierda",
-          "flota": false,
-          "contorno": 8,
           "en": 0.1
         },
         {
-          "tipo": "recorte",
-          "src": "olla.png",
-          "x": 790,
+          "tipo": "ollaE",
+          "x": 770,
           "y": 700,
           "ancho": 300,
           "giro": 2,
-          "desde": "derecha",
-          "flota": false,
-          "contorno": 8,
+          "desde": "escala",
           "en": 0.25
         },
         {

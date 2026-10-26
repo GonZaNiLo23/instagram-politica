@@ -1,8 +1,9 @@
 {
   "plantilla": "estandar",
-  "duracion": 69.94,
+  "duracion": 68.9,
   "portadaSegundo": 1.5,
   "marca": "@loquepasaenunminuto",
+  "subDy": 90,
   "musica": {
     "pista": "investigations.mp3",
     "volumen": -16
@@ -40,7 +41,7 @@
   "escenas": [
     {
       "inicio": 0,
-      "fin": 6.13,
+      "fin": 6,
       "componentes": [
         {
           "tipo": "gancho",
@@ -48,25 +49,25 @@
           "y": 335,
           "tamano": 92,
           "en": -1,
-          "hasta": 2.84
+          "hasta": 2.92
         },
         {
           "tipo": "gancho",
           "texto": "NO. PERO TAMPOCO ES INVISIBLE",
           "y": 335,
           "tamano": 92,
-          "en": 2.94
+          "en": 3.02
         },
         {
           "tipo": "bGancho",
           "modo": "gancho",
           "tInterr": 2.12,
-          "tRompe": 3.02
+          "tRompe": 3.1
         }
       ]
     },
     {
-      "inicio": 6.13,
+      "inicio": 6,
       "fin": 19.62,
       "componentes": [
         {
@@ -75,7 +76,7 @@
           "y": 335,
           "en": 0.05,
           "tamano": 72,
-          "hasta": 2.81
+          "hasta": 2.7
         },
         {
           "tipo": "recorte",
@@ -86,7 +87,7 @@
           "giro": -2,
           "desde": "abajo",
           "en": 0.05,
-          "hasta": 1.44,
+          "hasta": 1.41,
           "notas": [
             "LOREG art. 96.5",
             "Urna, autonómicas de Castilla y León 2022"
@@ -98,75 +99,75 @@
           "lineas": [
             "LOREG art. 96.5"
           ],
-          "en": 1.44,
-          "hasta": 2.81
+          "en": 1.41,
+          "hasta": 2.7
         },
         {
           "tipo": "bUrnas",
-          "y": 640,
-          "en": 1.44,
-          "miniEn": 12.04,
+          "y": 700,
+          "en": 1.41,
+          "miniEn": 12.44,
           "luz": [
             {
               "i": 0,
-              "en": 1.44,
-              "hasta": 5.01
+              "en": 1.41,
+              "hasta": 4.98
             },
             {
               "i": 1,
-              "en": 5.01,
-              "hasta": 10.57
+              "en": 4.98,
+              "hasta": 10.58
             },
             {
               "i": 2,
-              "en": 10.57
+              "en": 10.58
             }
           ],
           "llenan": [
             {
               "i": 0,
-              "en": 2.6399999999999997
+              "en": 2.61
             }
           ],
           "check": [
             {
               "i": 0,
-              "en": 3.65
+              "en": 3.62
             }
           ],
           "aspa": [
             {
               "i": 1,
-              "en": 9.11
+              "en": 9.16
             }
           ]
         },
         {
           "tipo": "bSobreCae",
           "x": 190,
-          "yTope": 410,
-          "yUrna": 640,
-          "abre": 1.54,
-          "cae": 2.34,
-          "en": 1.44,
-          "hasta": 2.83
+          "yTope": 640,
+          "yUrna": 780,
+          "abre": 1.51,
+          "cae": 2.31,
+          "en": 1.41,
+          "hasta": 2.72
         },
         {
           "tipo": "rotulo",
           "texto": "Es un VOTO VÁLIDO",
           "y": 335,
-          "en": 2.91,
+          "en": 2.8,
           "tamano": 72,
-          "hasta": 4.91
+          "hasta": 4.88
         },
         {
           "tipo": "sello",
           "valor": "DATO",
           "x": 780,
-          "y": 470,
+          "y": 440,
           "tamano": 120,
-          "en": 3.93,
-          "hasta": 4.91
+          "en": 3.9,
+          "hasta": 4.88
         },
         {
           "tipo": "notaEscribe",
@@ -174,88 +175,89 @@
             "«en blanco, pero válido»",
             "LOREG art. 96.5"
           ],
-          "en": 2.93,
+          "en": 2.82,
           "dur": 1.5,
-          "hasta": 4.91
+          "hasta": 4.88
         },
         {
           "tipo": "rotulo",
           "texto": "NULO, por ejemplo:",
           "y": 335,
-          "en": 4.99,
+          "en": 4.96,
           "tamano": 72,
-          "hasta": 8.91
+          "hasta": 8.96
         },
         {
           "tipo": "bNulos",
-          "en1": 5.68,
-          "en2": 6.95,
-          "y1": 930,
-          "y2": 1040,
-          "hasta": 8.91
+          "en1": 5.76,
+          "en2": 6.92,
+          "y1": 1000,
+          "y2": 1110,
+          "hasta": 8.96
         },
         {
           "tipo": "rotulo",
           "texto": "nombres tachados",
-          "y": 892,
-          "en": 5.73,
+          "y": 962,
+          "en": 5.81,
           "tamano": 64,
           "izq": 250,
           "ancho": 680,
-          "hasta": 8.91
+          "hasta": 8.96
         },
         {
           "tipo": "rotulo",
           "texto": "papel no oficial",
-          "y": 1002,
-          "en": 7,
+          "y": 1072,
+          "en": 6.97,
           "tamano": 64,
           "izq": 250,
           "ancho": 680,
-          "hasta": 8.91
+          "hasta": 8.96
         },
         {
           "tipo": "notas",
           "lineas": [
             "LOREG art. 96.1 y 96.2"
           ],
-          "en": 4.99,
-          "hasta": 8.91
+          "en": 4.96,
+          "hasta": 8.96
         },
         {
           "tipo": "rotulo",
           "texto": "NO es válido",
           "y": 335,
-          "en": 8.99,
+          "en": 9.04,
           "tamano": 72,
-          "hasta": 10.47
+          "hasta": 10.48
         },
         {
           "tipo": "rotulo",
           "texto": "ABSTENCIÓN = no ir a votar",
           "y": 335,
-          "en": 10.55,
-          "tamano": 72
+          "en": 10.56,
+          "tamano": 72,
+          "hasta": 12.41
         },
         {
           "tipo": "bSofa",
           "x": 520,
-          "y": 960,
+          "y": 1060,
           "tam": 0.95,
-          "en": 11.11
+          "en": 11.24
         },
         {
           "tipo": "notas",
           "lineas": [
             "Votar no es obligatorio en España"
           ],
-          "en": 10.55
+          "en": 10.56
         }
       ]
     },
     {
       "inicio": 19.62,
-      "fin": 23.26,
+      "fin": 23.06,
       "componentes": [
         {
           "tipo": "bUrnas",
@@ -282,7 +284,7 @@
           "cy": 1030,
           "intentos": [
             1.3,
-            2.18
+            2.1
           ],
           "en": 0.1
         },
@@ -290,7 +292,7 @@
           "tipo": "rotulo",
           "texto": "No suma escaños a nadie",
           "y": 1062,
-          "en": 1.97,
+          "en": 1.89,
           "tamano": 64
         },
         {
@@ -303,8 +305,8 @@
       ]
     },
     {
-      "inicio": 23.26,
-      "fin": 31.16,
+      "inicio": 23.06,
+      "fin": 30.6,
       "componentes": [
         {
           "tipo": "bUrnas",
@@ -317,24 +319,24 @@
           "y": 430,
           "en": 0.05,
           "tamano": 72,
-          "hasta": 3.87
+          "hasta": 3.94
         },
         {
           "tipo": "rotulo",
-          "texto": "BARRERA: 3 % de los votos válidos",
+          "texto": "CONGRESO: barrera del 3 % de válidos",
           "y": 430,
-          "en": 3.92,
+          "en": 3.9899999999999998,
           "tamano": 72
         },
         {
           "tipo": "bReparto",
           "divide": [
-            0.3,
-            1.5,
-            2.14
+            0.42,
+            1.62,
+            2.26
           ],
-          "montonEn": 1.66,
-          "listonEn": 5.63,
+          "montonEn": 1.78,
+          "listonEn": 4.99,
           "en": 0.05
         },
         {
@@ -344,20 +346,20 @@
             "¿Cómo funciona? Vídeo 002"
           ],
           "en": 0.05,
-          "hasta": 3.87
+          "hasta": 3.94
         },
         {
           "tipo": "notas",
           "lineas": [
-            "LOREG art. 163.1.a"
+            "LOREG art. 163.1.a (elecciones al Congreso)"
           ],
-          "en": 3.92
+          "en": 3.9899999999999998
         }
       ]
     },
     {
-      "inicio": 31.16,
-      "fin": 34.24,
+      "inicio": 30.6,
+      "fin": 33.72,
       "componentes": [
         {
           "tipo": "bUrnas",
@@ -379,12 +381,12 @@
           "enMapa": 0.1,
           "enAros": 0.4,
           "enPuntos": 999,
-          "hasta": 1.24
+          "hasta": 1.32
         },
         {
           "tipo": "bProv",
-          "choque": 1.94,
-          "en": 1.24
+          "choque": 2.1,
+          "en": 1.32
         },
         {
           "tipo": "notas",
@@ -397,8 +399,8 @@
       ]
     },
     {
-      "inicio": 34.24,
-      "fin": 37.02,
+      "inicio": 33.72,
+      "fin": 36.38,
       "componentes": [
         {
           "tipo": "bUrnas",
@@ -419,8 +421,8 @@
       ]
     },
     {
-      "inicio": 37.02,
-      "fin": 52.36,
+      "inicio": 36.38,
+      "fin": 51.84,
       "componentes": [
         {
           "tipo": "dhEtiqueta",
@@ -436,7 +438,7 @@
         },
         {
           "tipo": "rotulo",
-          "texto": "Cuadrado: 3.020 → ENTRA",
+          "texto": "Cuadrado: 3.020 → ENTRA AL REPARTO",
           "y": 335,
           "en": 3.8499999999999996,
           "tamano": 72,
@@ -456,28 +458,29 @@
           "y": 335,
           "en": 9.010000000000002,
           "tamano": 72,
-          "hasta": 12.86
+          "hasta": 13.02
         },
         {
           "tipo": "rotulo",
-          "texto": "CUADRADO, FUERA POR 10 VOTOS",
+          "texto": "CUADRADO: FUERA DEL REPARTO POR 10 VOTOS",
           "y": 335,
-          "en": 12.91,
+          "en": 13.07,
           "tamano": 72
         },
         {
           "tipo": "bEjemplo",
           "en": 0.05,
+          "dy": 50,
           "enBarra": 4.34,
           "durBarra": 1.6,
           "enEntra": 6.38,
           "sobres": {
-            "en": 7.3,
+            "en": 7.38,
             "dur": 1.24
           },
-          "enSube": 10.58,
+          "enSube": 10.66,
           "durSube": 1.2,
-          "enFuera": 13.88
+          "enFuera": 13.96
         },
         {
           "tipo": "notas",
@@ -495,7 +498,7 @@
             "Escala ampliada: desde 2.900"
           ],
           "en": 9.010000000000002,
-          "hasta": 12.86
+          "hasta": 13.02
         },
         {
           "tipo": "notas",
@@ -503,13 +506,13 @@
             "3.020 < 3.030",
             "Escala ampliada: desde 2.900"
           ],
-          "en": 12.91
+          "en": 13.07
         }
       ]
     },
     {
-      "inicio": 52.36,
-      "fin": 56.34,
+      "inicio": 51.84,
+      "fin": 55.66,
       "componentes": [
         {
           "tipo": "bUrnas",
@@ -532,12 +535,16 @@
           "en": -1,
           "barraFija": true,
           "fijo": true,
-          "dy": 24,
+          "dy": 177,
+          "esc": 0.8,
           "sinTitulo": true
         },
         {
           "tipo": "bCaen",
-          "en": 0.36,
+          "yIni": 720,
+          "yFin": 750,
+          "baja": 20,
+          "en": 0.4,
           "variante": "nulo"
         },
         {
@@ -550,33 +557,43 @@
         {
           "tipo": "bCaen",
           "variante": "sofa",
-          "en": 0.92
+          "xSofa": 780,
+          "ySofa": 695,
+          "en": 0.96
         }
       ]
     },
     {
-      "inicio": 56.34,
-      "fin": 61.19,
+      "inicio": 55.66,
+      "fin": 60.12,
       "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "Solo importa si alguien roza el 3 %",
+          "texto": "Solo pesa si alguien roza el 3 %",
           "y": 335,
           "en": 0.05,
           "tamano": 72
         },
         {
+          "tipo": "notas",
+          "lineas": [
+            "En la práctica, Madrid y Barcelona"
+          ],
+          "en": 0.05
+        },
+        {
           "tipo": "bPlano",
           "enListon": 0.9,
-          "parpadeo": 2.1,
-          "enEt": 3.3,
-          "en": 0.05
+          "parpadeo": 1.9,
+          "enEt": 2.94,
+          "en": 0.05,
+          "y0": 700
         }
       ]
     },
     {
-      "inicio": 61.19,
-      "fin": 65.2,
+      "inicio": 60.12,
+      "fin": 64.12,
       "componentes": [
         {
           "tipo": "rotulo",
@@ -589,14 +606,14 @@
           "tipo": "rotulo",
           "texto": "¿INVISIBLE? TAMPOCO",
           "y": 435,
-          "en": 2.05,
+          "en": 2.1599999999999997,
           "tamano": 72
         },
         {
           "tipo": "bGancho",
           "modo": "bucle",
           "tPasa": 0.5,
-          "hasta": 2.35
+          "hasta": 2.46
         },
         {
           "tipo": "recorte",
@@ -606,17 +623,17 @@
           "ancho": 800,
           "giro": 2,
           "desde": "abajo",
-          "en": 2.35,
+          "en": 2.46,
           "notas": [
-            "Urna, autonómicas andaluzas 2015, Montalbán de Córdoba"
+            "Urna andaluza, Montalbán, 2015"
           ],
           "credito": "Foto: Américo Toledano · CC BY-SA 4.0 · Wikimedia Commons"
         }
       ]
     },
     {
-      "inicio": 65.2,
-      "fin": 69.94,
+      "inicio": 64.12,
+      "fin": 68.9,
       "fondo": "mostaza",
       "sinSubtitulos": true,
       "componentes": [
@@ -627,6 +644,7 @@
           "tamano": 110,
           "yFrase": 460,
           "yGuardalo": 1180,
+          "cta": "guardalo",
           "pulso": true
         },
         {

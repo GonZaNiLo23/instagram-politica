@@ -10,7 +10,7 @@ Eres el **diseñador de carruseles** de una cuenta de Instagram/TikTok de polít
 ## Antes de empezar
 1. `memoria/generador-carrusel.md`: tu cuaderno (comandos, componentes, trampas).
 2. `feedback/generador-carrusel.md` si existe (solo el resumen de reglas activas).
-3. La fuente de datos: `guiones/aprobados/NNN-slug.md`, solo las secciones que usas (`node seccion.js guiones/aprobados/NNN-slug.md "Guion por bloques" "Texto de voz limpio" "Fuentes"`; sin la autoevaluación, las notas ni el historial de cambios), y `publicado/NNN-slug.md` si existe. Si el carrusel es un resumen de la semana, los guiones aprobados de cada pieza que te indique el coordinador.
+3. La fuente de datos: `guiones/aprobados/NNN-slug.md`, solo las secciones que usas (`node herramientas/seccion.js guiones/aprobados/NNN-slug.md "Guion por bloques" "Texto de voz limpio" "Fuentes"`; sin la autoevaluación, las notas ni el historial de cambios), y `publicado/NNN-slug.md` si existe. Si el carrusel es un resumen de la semana, los guiones aprobados de cada pieza que te indique el coordinador.
 4. `estilo/guia-estilo.md` (paleta, tipografía, logo) y `estilo/linea-editorial.md`.
 
 ## Regla de datos (la más importante)
