@@ -1,0 +1,41 @@
+# Memoria · revisor-video
+
+## Entorno
+- [entorno] No hay Python: scripts auxiliares en Node. En Git Bash: `export PATH="/c/Program Files/nodejs:$PATH"`. (2026-10-20)
+
+## Método barato y fiable
+- [fotogramas] Las imágenes son lo más caro. Orden: 1) hojas de contactos (`fps=1,scale=180:-1,tile=6x5`, unas 4 por cada 100 s); 2) fotogramas enteros solo del gancho (0–3 s), de cada escena con texto nuevo y de los momentos dudosos; 3) para un detalle (inicial, cifra, borde x = 960), recorte ampliado con `crop=`. No abras un fotograma por segundo. (2026-10-20)
+- [ritmo] El ritmo se mide sin mirar: `select='gt(scene,0.004)',showinfo` y calcular los huecos con node. (2026-10-20)
+- [rótulos] Para comprobar que los rótulos son literales, compara `escenas.json` de la pieza (Grep de `"texto"` y `"lineas"`) con el guion. Es más rápido y exacto que leerlos en los fotogramas. Luego confirma en imagen solo los que cambiaron. (004, 2026-10-20)
+- [subtítulos] La sincronía se comprueba con `tiempos.json` frente a `voz.txt` (con node), no con fotogramas. (004, 2026-10-20)
+
+## Revisiones de corrección (vuelta ≥ 2)
+- [vueltas] Comprueba la lista cerrada del informe anterior y haz un control de regresión con las hojas de contactos. No repitas el análisis completo de los tramos que no cambiaron: reutiliza las notas del informe anterior y dilo en el informe. (2026-10-20)
+
+## Trampas conocidas
+- [entorno] El clasificador de Bash falla de forma intermitente: reintenta con comandos más simples; no hay acceso web fiable (no pude contrastar cifras en congreso.es). (001, 2026-10-20)
+- [datos] Si dudas de una cifra y no tienes web, márcala en el informe como "verificar" para el coordinador; no la anotes aquí. (001, 2026-10-20)
+- [gráficos] Mira siempre si una etiqueta de valor se cruza con una línea de referencia y si un gráfico de ejemplo sigue marcado como ejemplo en todo su tramo. (001, 2026-10-20)
+- [004] El recuento de palabras del guion puede no cuadrar con la voz por las guías fonéticas: cuenta sobre `voz.txt`. (004, 2026-10-20)
+- [sincronía] `silencedetect=n=-30dB:d=0.25` y comparar con node los `silence_end` (inicio de frase) frente al `inicio` de la palabra más cercana de `tiempos.json`: desvío ≤ 0,05 s = OK; los `silence_start` van ~0,3 s antes del `fin` (relleno del tiempo de palabra), no es error. (006, 2026-10-20)
+- [reanclaje] Tras reanclar a una voz nueva, recalcula palabras ÷ 3 ≥ duración de cada rótulo (node sobre `escenas.json`): se acortan solos. El hueco final del cierre (`select` con crop 250–1350) también. (006, 2026-10-20)
+- [007] Los solapes de elementos animados con rótulos solo se ven en fotogramas sueltos de la transición: en la hoja de contactos busca rótulos con letras cortadas y amplía ese segundo con `crop`. (007, 2026-10-20)
+- [v3 rápida] Para una vuelta de ajustes de tiempos basta: ffprobe + loudnorm + silencedetect, escenas.json (inicio/fin de escena y fuentes), huecos con `select` y 3 hojas de contactos + una tira de 8 fotogramas a 270 px (`hstack`/`vstack`) de la zona cambiada. (006, 2026-10-20)
+- [008] Con `drawbox` en x=960 e y=1500 y una tira `hstack` de 7 fotogramas a 360 px se ven de un vistazo contadores fuera de zona y notas largas que cruzan la franja inferior (las notas de varias líneas son la trampa típica). (008, 2026-10-22)
+- [lectura] Cuenta palabras de `rotulo`+`tarjetaTexto`+titular de `tarjetaPostura` por escena (node) frente a duración: ≥ palabras÷3. Las escenas 17 y 12 de la 008 fallaban. (008, 2026-10-22)
+- [005] Para saber si una pieza usa un componente compartido, lista los `tipo` de las demás `escenas.json` con node y compárlos con el registro (`REGISTRO_xxx`) del archivo cambiado. (005, 2026-10-22)
+- [sincronía] Para pastillas/hitos en lista: resta `inicio de escena + en` y compara con `inicio` de la palabra en `tiempos.json`; así se ve el orden y el desfase sin mirar fotogramas. (005, 2026-10-22)
+- [008 v2] Cuando una vuelta mueve contadores/notas, los rótulos pueden pasar a 3 líneas y chocar con la foto: mira en tira a 360 px (crop 150–1450) tres instantes de cada escena con foto. (008, 2026-10-22)
+- [dibujos] `dib` (Voto.tsx) lo usa también la 010 (nombre "dni"): si se toca Voto.tsx, revisa solo esa escena. (008, 2026-10-22)
+- [010] Hueco: repite `select` con 0,001 antes de dar un hueco por válido o no: movimiento mínimo (Ken Burns, cierre) solo aparece con ese umbral; con 0,004 sale falso hueco. (010, 2026-10-22)
+- [iconos] Un componente reutilizado (`dib`, `icono`) puede traer texto propio (p. ej. "DNI"): amplía un recorte del icono y compáralo con el guion. (010, 2026-10-22)
+- [cola cierre] Si `select` 0,004 da hueco en el cierre, repite con 0,001: el pulso del cierre lo anula. Aun así, recomienda voz + 1,5 s como en las demás piezas. (005 v2, 2026-10-22)
+- [009] Pieza larga (32 escenas): 4 hojas 5x5 a 216 px con `drawbox` en x=960 + 4–5 tiras `hstack` (crop 200–1450) bastan; `escenas.json` da literales y `tiempos.json` las palabras clave (tiempo de voz = tiempo de vídeo). (009, 2026-10-22)
+- [sellos] Un `desde`/prop nuevo en un componente compartido: lista con node los `tipo` de todas las `escenas.json` y mira si los otros usos pasan la prop; con valor por defecto igual al anterior no hay regresión. (009, 2026-10-22)
+- [hojas] Un fotograma casi vacío en la hoja suele ser la entrada con fundido de la escena nueva: confírmalo con una tira a 0,2 s antes de darlo por hueco. (009, 2026-10-22)
+- [023] `espera` de `contador` puede no tener efecto: mira el fotograma 0 y el 3 (`select=lt(n,3)`) para saber si el contador del gancho arranca en 0 o a mitad. Para una pieza con componente nuevo, basta grep de sus claves en `src` + el import en `componentes/index.tsx`. (023, 2026-10-23)
+- [lectura] Suma rótulo + subrótulo de la misma escena (no solo cada uno): el 023 tenía 11 palabras en 2,0 s aunque cada rótulo por separado casi cumplía. (023, 2026-10-23)
+- [022] Notas de 36 px con dato también cuentan para el tiempo de lectura (node: palabras de `notas` ÷ 3 frente a fin de escena − `en`). Hueco de cierre: 0,001 + pulso. Componentes nuevos con sufijo L en su registro: basta grep de claves en otras `escenas.json`. (022, 2026-10-23)
+- [024 privacidad] Para planos con imagen real: tiles `fps=4,crop=...,tile=2x2` de 1 s a resolución completa para el clip; para fotos fijas con zoom lento basta inicio y final. Comprueba que el pixelado cubre toda la duración y que la zona sin pixelar no tiene personas. (024, 2026-10-25)
+- [créditos] Con `drawbox` en y=1490 y crop inferior (`crop=1080:330:0:1250`) se ve si el crédito de 36 px roza la franja; un guion normal en "24-10" puede partir la fecha en dos líneas (usar "‑"). (024, 2026-10-25)
+- [voz] Sin poder escuchar, la pronunciación se valida solo en `voz.txt` (guía fonética aplicada) y se dice en el informe. (024, 2026-10-25)

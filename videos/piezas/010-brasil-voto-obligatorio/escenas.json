@@ -1,0 +1,676 @@
+{
+  "plantilla": "flash",
+  "duracion": 33.88,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "EN BRASIL, NO VOTAR = SIN PASAPORTE",
+            "y": 320,
+            "tamano": 92,
+            "en": -1
+          },
+          {
+            "tipo": "foto",
+            "src": "U1.jpg",
+            "x": 400,
+            "y": 1010,
+            "ancho": 660,
+            "alto": 440,
+            "foco": "50% 60%",
+            "zoom": [
+              1,
+              1
+            ],
+            "dur": 3,
+            "en": -1
+          },
+          {
+            "tipo": "candadoMostaza",
+            "x": 830,
+            "y": 1010,
+            "tamano": 240,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 1.82,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿NO VOTAS? SIN PASAPORTE NUEVO",
+          "y": 330,
+          "tamano": 100,
+          "en": 0
+        },
+        {
+          "tipo": "pasaporte",
+          "x": 540,
+          "y": 900,
+          "tamano": 440,
+          "en": -1,
+          "sello": 0.2,
+          "selloDur": 0.6
+        }
+      ]
+    },
+    {
+      "inicio": 1.82,
+      "fin": 4.1,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EN BRASIL, ES LA LEY",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "U1.jpg",
+          "x": 500,
+          "y": 760,
+          "ancho": 880,
+          "alto": 480,
+          "foco": "58% 62%",
+          "zoom": [
+            1.02,
+            1.32
+          ],
+          "dur": 2.28,
+          "en": 0.1,
+          "revela": 0.45,
+          "credito": "Foto: Antonio Augusto/Secom/TSE · Dominio público · Wikimedia Commons"
+        },
+        {
+          "tipo": "pasaporte",
+          "x": 150,
+          "y": 1065,
+          "tamano": 130,
+          "en": 0.5,
+          "sello": -1
+        }
+      ]
+    },
+    {
+      "inicio": 4.1,
+      "fin": 6.38,
+      "componentes": [
+        {
+          "tipo": "mapaBrasil",
+          "x": 540,
+          "y": 800,
+          "tamano": 560,
+          "en": 0.05
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DOMINGO 25 OCT · SEGUNDA VUELTA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 340,
+          "y": 780,
+          "tamano": 300,
+          "mes": "OCT",
+          "dia": "25",
+          "en": 0.3
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 740,
+          "y": 800,
+          "tamano": 250,
+          "en": 0.5
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "BRASIL",
+          "y": 1045,
+          "en": 0.6,
+          "tamano": 64,
+          "align": "center"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: calendario electoral del TSE"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 6.38,
+      "fin": 10.02,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "OBLIGATORIO: DE 18 A 70",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "VOLUNTARIO: 16-17, +70, ANALFABETOS",
+          "y": 415,
+          "en": 1.54,
+          "tamano": 52
+        },
+        {
+          "tipo": "barraEdades",
+          "x0": 90,
+          "y": 650,
+          "dib": 0.5,
+          "dur": 2.4,
+          "en": 0.2
+        },
+        {
+          "tipo": "icono",
+          "nombre": "libro",
+          "x": 150,
+          "y": 960,
+          "tamano": 150,
+          "en": 2.4
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "analfabetos: voluntario",
+          "y": 930,
+          "en": 2.4,
+          "tamano": 52,
+          "izq": 250,
+          "ancho": 700
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Constitución de Brasil, art. 14"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 10.02,
+      "fin": 14.27,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MULTA: HASTA 3,5 REALES",
+          "y": 330,
+          "en": 0.1,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "U2.jpg",
+          "x": 500,
+          "y": 740,
+          "ancho": 880,
+          "alto": 360,
+          "foco": "60% 50%",
+          "zoom": [
+            1.12,
+            1.24
+          ],
+          "pan": [
+            -50,
+            0
+          ],
+          "dur": 4.25,
+          "en": 0.1,
+          "notas": [
+            "Fuente: Agência Senado (31-08-2026)"
+          ],
+          "credito": "Foto: Alexandresena · CC BY-SA 4.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "cuentaReales",
+          "hasta": 3.51,
+          "x": 500,
+          "y": 990,
+          "ancho": 880,
+          "en": 1.42,
+          "empieza": 0.3,
+          "dur": 1.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Hasta R$ 3,51 por vuelta"
+          ],
+          "en": 2.52,
+          "y": 1062
+        }
+      ]
+    },
+    {
+      "inicio": 14.27,
+      "fin": 16.99,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NI PASAPORTE NUEVO NI OPOSICIONES",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pasaporte",
+          "x": 130,
+          "y": 640,
+          "tamano": 150,
+          "en": 0.15,
+          "sello": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PASAPORTE",
+          "y": 604,
+          "en": 0.2,
+          "tamano": 64,
+          "izq": 230,
+          "ancho": 640
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 905,
+          "y": 640,
+          "tamano": 96,
+          "en": 0.5,
+          "dur": 0.35
+        },
+        {
+          "tipo": "dib",
+          "nombre": "dni",
+          "x": 130,
+          "y": 830,
+          "tamano": 170,
+          "en": 0.9299999999999999,
+          "sinTexto": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "CARNÉ DE IDENTIDAD",
+          "y": 756,
+          "en": 0.98,
+          "tamano": 64,
+          "izq": 230,
+          "ancho": 640
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 905,
+          "y": 830,
+          "tamano": 96,
+          "en": 1.2799999999999998,
+          "dur": 0.35
+        },
+        {
+          "tipo": "icono",
+          "nombre": "carpeta",
+          "x": 130,
+          "y": 1000,
+          "tamano": 170,
+          "en": 1.67
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "OPOSICIONES",
+          "y": 964,
+          "en": 1.72,
+          "tamano": 64,
+          "izq": 230,
+          "ancho": 640
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 905,
+          "y": 1000,
+          "tamano": 96,
+          "en": 2.02,
+          "dur": 0.35
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Código Electoral de Brasil, art. 7"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 16.99,
+      "fin": 19.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "3 ELECCIONES SEGUIDAS = BAJA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Se cancela la inscripción electoral",
+          "y": 490,
+          "en": 0.9,
+          "tamano": 52
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 200,
+          "y": 720,
+          "tamano": 190,
+          "en": 0.1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 500,
+          "y": 720,
+          "tamano": 190,
+          "en": 0.2
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 800,
+          "y": 720,
+          "tamano": 190,
+          "en": 0.30000000000000004
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 275,
+          "y": 650,
+          "tamano": 80,
+          "en": 0.2,
+          "dur": 0.35
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 575,
+          "y": 650,
+          "tamano": 80,
+          "en": 0.87,
+          "dur": 0.35
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 875,
+          "y": 650,
+          "tamano": 80,
+          "en": 1.27,
+          "dur": 0.35
+        },
+        {
+          "tipo": "tituloElector",
+          "x": 380,
+          "y": 980,
+          "ancho": 600,
+          "en": 1.27,
+          "parte": 2.07
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 800,
+          "y": 1085,
+          "tamano": 62,
+          "angulo": 4,
+          "seco": true,
+          "en": 2.62
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Código Electoral de Brasil, art. 7 § 3"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 19.7,
+      "fin": 22.81,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CADA VUELTA = UNA ELECCIÓN",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO",
+          "y": 545,
+          "en": 0,
+          "tamano": 64,
+          "pastilla": "tinta",
+          "ancho": 320
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 200,
+          "y": 790,
+          "tamano": 190,
+          "en": 0.1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 500,
+          "y": 790,
+          "tamano": 190,
+          "en": 0.2
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 800,
+          "y": 790,
+          "tamano": 190,
+          "en": 0.30000000000000004
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 275,
+          "y": 720,
+          "tamano": 80,
+          "en": 0.68,
+          "dur": 0.35
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 575,
+          "y": 720,
+          "tamano": 80,
+          "en": 1.1800000000000002,
+          "dur": 0.35
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "1.ª VUELTA",
+          "y": 890,
+          "en": 0.5800000000000001,
+          "tamano": 48,
+          "izq": 60,
+          "ancho": 280,
+          "align": "center"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2.ª VUELTA",
+          "y": 890,
+          "en": 1.08,
+          "tamano": 48,
+          "izq": 360,
+          "ancho": 280,
+          "align": "center"
+        },
+        {
+          "tipo": "cifraGrande",
+          "texto": "2 DE 3",
+          "x": 540,
+          "y": 1045,
+          "tamano": 120,
+          "en": 1.9400000000000002
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Agência Senado (31-08-2026)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 22.81,
+      "fin": 25.7,
+      "componentes": [
+        {
+          "tipo": "mapaBrasil",
+          "x": 540,
+          "y": 800,
+          "tamano": 560,
+          "en": -1,
+          "sale": 0.05
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿Y EN ESPAÑA?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.0899999999999999
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "VOTAR: UN DERECHO, NO OBLIGACIÓN",
+          "y": 330,
+          "en": 1.14,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "U3c.jpg",
+          "x": 500,
+          "y": 810,
+          "ancho": 880,
+          "alto": 560,
+          "foco": "50% 50%",
+          "zoom": [
+            1.02,
+            1.16
+          ],
+          "dur": 2.89,
+          "en": 0.45,
+          "revela": 0.5,
+          "notas": [
+            "Fuente: LOREG, art. 5 (BOE)"
+          ],
+          "credito": "Foto: LauraHale (Madrid, 2019) · CC BY-SA 3.0 · Wikimedia Commons"
+        }
+      ]
+    },
+    {
+      "inicio": 25.7,
+      "fin": 28.73,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LA MESA, SI TE TOCA: OBLIGATORIA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "U4c.jpg",
+          "x": 350,
+          "y": 825,
+          "ancho": 560,
+          "alto": 620,
+          "foco": "45% 30%",
+          "zoom": [
+            1,
+            1.22
+          ],
+          "dur": 3.03,
+          "en": 0.2,
+          "notas": [
+            "Fuente: LOREG, art. 27.1 (BOE)"
+          ],
+          "credito": "Foto: LauraHale (Madrid, 2019) · CC BY-SA 3.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "candadoMostaza",
+          "x": 790,
+          "y": 810,
+          "tamano": 260,
+          "en": 1.7
+        }
+      ]
+    },
+    {
+      "inicio": 28.73,
+      "fin": 33.88,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿Y SI FUERA CON TU PASAPORTE?",
+          "tamano": 88,
+          "yGuardalo": 1200,
+          "yFuentes": 1310,
+          "pulso": true
+        },
+        {
+          "tipo": "pasaporte",
+          "x": 540,
+          "y": 940,
+          "tamano": 300,
+          "en": 0.3,
+          "interroga": 0.8,
+          "sello": 2.3,
+          "selloDur": 0.5,
+          "latido": true
+        }
+      ]
+    }
+  ]
+}

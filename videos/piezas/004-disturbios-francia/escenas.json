@@ -1,0 +1,1531 @@
+{
+  "plantilla": "estandar",
+  "duracion": 98.56,
+  "portadaSegundo": 1.2,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "tinta",
+        "componentes": [
+          {
+            "tipo": "foto",
+            "src": "F3.jpg",
+            "forma": "completa",
+            "foco": "50% 50%",
+            "zoom": [
+              1,
+              1
+            ],
+            "dur": 3,
+            "velo": 0.4,
+            "credito": "Foto: Alacoolwiki · CC BY 4.0 · Wikimedia Commons",
+            "sobre": "oscuro"
+          },
+          {
+            "tipo": "marca",
+            "sobre": "oscuro"
+          },
+          {
+            "tipo": "caja",
+            "y": 505,
+            "alto": 575,
+            "opacidad": 0.78
+          },
+          {
+            "tipo": "gancho",
+            "texto": "FRANCIA: QUÉ PASÓ Y POR QUÉ",
+            "y": 540,
+            "tamano": 118,
+            "en": 0,
+            "color": "#F4EFE6"
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 6.38,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿Estudiantes franceses saqueando una Nike?",
+          "y": 340,
+          "tamano": 100,
+          "en": 0.05,
+          "hasta": 4.4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "movil",
+          "x": 540,
+          "y": 950,
+          "tamano": 340,
+          "en": 0.1,
+          "hasta": 4.4,
+          "vibra": [
+            0.9,
+            3.6
+          ]
+        },
+        {
+          "tipo": "sello",
+          "valor": "MITO",
+          "en": 3.6,
+          "y": 830,
+          "tamano": 130,
+          "hasta": 4.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Saqueo de una tienda Nike: Los Ángeles, 2023",
+            "Fuente: Maldita"
+          ],
+          "en": 3.7
+        },
+        {
+          "tipo": "icono",
+          "nombre": "eeuu",
+          "x": 540,
+          "y": 840,
+          "tamano": 560,
+          "en": 4.470000000000001
+        },
+        {
+          "tipo": "icono",
+          "nombre": "pin",
+          "x": 540,
+          "y": 1000,
+          "tamano": 110,
+          "en": 4.42,
+          "mover": {
+            "x": 346,
+            "y": 800,
+            "en": 4.57,
+            "dur": 0.7,
+            "arco": 150
+          }
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Los Ángeles",
+          "y": 1010,
+          "en": 4.680000000000001,
+          "tamano": 72,
+          "align": "center",
+          "izq": 60,
+          "ancho": 900
+        }
+      ]
+    },
+    {
+      "inicio": 6.38,
+      "fin": 8.52,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LO DE FRANCIA ES REAL",
+          "y": 340,
+          "en": 0.1,
+          "tamano": 72
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "en": 0.05,
+          "y": 470,
+          "tamano": 130,
+          "angulo": 5
+        },
+        {
+          "tipo": "mapa",
+          "puntos": [],
+          "x": 540,
+          "y": 920,
+          "ancho": 440
+        },
+        {
+          "tipo": "icono",
+          "nombre": "pin",
+          "x": 300,
+          "y": 1100,
+          "tamano": 100,
+          "en": 0.1,
+          "mover": {
+            "x": 564,
+            "y": 738,
+            "en": 0.25,
+            "dur": 0.6,
+            "arco": 120
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 8.52,
+      "fin": 12.14,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SÁBADO 17 DE OCTUBRE",
+          "y": 340,
+          "en": 0.1,
+          "tamano": 72
+        },
+        {
+          "tipo": "foto",
+          "src": "F4b.jpg",
+          "forma": "rect",
+          "x": 540,
+          "y": 780,
+          "ancho": 900,
+          "alto": 600,
+          "foco": "50% 45%",
+          "zoom": [
+            1.04,
+            1.16
+          ],
+          "pan": [
+            -30,
+            0
+          ],
+          "dur": 3.62,
+          "en": 0.1,
+          "credito": "Foto: Gabriel from92 · CC0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 800,
+          "y": 1010,
+          "tamano": 250,
+          "en": 0.4,
+          "mes": "SÁB OCT",
+          "dia": "17"
+        }
+      ]
+    },
+    {
+      "inicio": 12.14,
+      "fin": 14.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Cuántos? Depende de quién cuente",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "barras",
+          "datos": [
+            {
+              "etiqueta": "Interior",
+              "valor": 550000,
+              "color": "#14213D"
+            }
+          ],
+          "max": 800000,
+          "en": 0.15,
+          "y": 580
+        },
+        {
+          "tipo": "barras",
+          "datos": [
+            {
+              "etiqueta": "CGT (organizadores)",
+              "valor": 800000,
+              "color": "#8D99AE"
+            }
+          ],
+          "max": 800000,
+          "en": 1,
+          "y": 810
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuentes: Min. Interior, CGT, vía France 24 y AP"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 14.66,
+      "fin": 16.38,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "La mayoría, en paz",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 80
+        },
+        {
+          "tipo": "icono",
+          "nombre": "cartel",
+          "x": -60,
+          "y": 740,
+          "tamano": 250,
+          "en": 0.1,
+          "mover": {
+            "x": 200,
+            "y": 740,
+            "en": 0.1,
+            "dur": 0.7
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "cartel",
+          "x": 280,
+          "y": 740,
+          "tamano": 250,
+          "en": 0.30000000000000004,
+          "mover": {
+            "x": 540,
+            "y": 740,
+            "en": 0.25,
+            "dur": 0.7
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "cartel",
+          "x": 620,
+          "y": 740,
+          "tamano": 250,
+          "en": 0.5,
+          "mover": {
+            "x": 880,
+            "y": 740,
+            "en": 0.4,
+            "dur": 0.7
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "check",
+          "x": 540,
+          "y": 1000,
+          "tamano": 200,
+          "en": 0.4,
+          "animEn": 0.4,
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 16.38,
+      "fin": 19.82,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Limoges: ayuntamiento incendiado",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapa",
+          "puntos": [
+            {
+              "nombre": "París",
+              "en": 0.5
+            },
+            {
+              "nombre": "Lyon",
+              "en": 0.7
+            },
+            {
+              "nombre": "Marsella",
+              "en": 0.9
+            },
+            {
+              "nombre": "Burdeos",
+              "en": 1.1
+            },
+            {
+              "nombre": "Lille",
+              "en": 1.3
+            },
+            {
+              "nombre": "Limoges",
+              "en": 1.3599999999999999
+            }
+          ],
+          "x": 540,
+          "y": 840,
+          "ancho": 580,
+          "zoom": {
+            "punto": "Limoges",
+            "en": 1.6099999999999999,
+            "escala": 2.2
+          },
+          "hasta": 1.96
+        },
+        {
+          "tipo": "comparador",
+          "srcA": "F1.jpg",
+          "srcB": "F2.jpg",
+          "x": 540,
+          "y": 800,
+          "ancho": 900,
+          "alto": 620,
+          "focoA": "50% 35%",
+          "focoB": "55% 40%",
+          "barridoEn": 2.4,
+          "barridoDur": 0.5,
+          "en": 2.0100000000000002,
+          "dur": 3.44,
+          "creditoA": "Foto: Oooer · CC0 · Wikimedia Commons",
+          "creditoB": "Foto: Lucas Destrem · CC BY-SA 4.0 · Wikimedia Commons"
+        }
+      ]
+    },
+    {
+      "inicio": 19.82,
+      "fin": 24.82,
+      "componentes": [
+        {
+          "tipo": "contador",
+          "desde": 1200,
+          "hasta": 2397,
+          "salto": true,
+          "en": 0.1,
+          "espera": 0.35,
+          "etiquetaDesde": "detenidos (sáb. noche, según el primer ministro Lecornu)",
+          "etiqueta": "detenidos (dom., según el ministro Nuñez)",
+          "y": 360,
+          "tamano": 170
+        },
+        {
+          "tipo": "icono",
+          "nombre": "casco",
+          "x": 190,
+          "y": 900,
+          "tamano": 240,
+          "en": 2.94
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 997,
+          "salto": true,
+          "en": 2.94,
+          "espera": 0.5999999999999999,
+          "etiqueta": "policías y gendarmes heridos",
+          "y": 780,
+          "tamano": 170,
+          "izq": 340
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Último balance: ministro del Interior,",
+            "L. Nuñez (18-10)"
+          ],
+          "en": 0.35
+        }
+      ]
+    },
+    {
+      "inicio": 24.82,
+      "fin": 28.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Empezó en los institutos",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "icono",
+          "nombre": "instituto",
+          "x": 540,
+          "y": 690,
+          "tamano": 250,
+          "en": 0.15
+        },
+        {
+          "tipo": "lineaTiempo",
+          "y": 860,
+          "hitos": [
+            {
+              "etiqueta": "Mediados sept.",
+              "en": 0.9000000000000001
+            },
+            {
+              "etiqueta": "Fin sept.",
+              "en": 2.78
+            },
+            {
+              "etiqueta": "17-10",
+              "en": 3.6599999999999997
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Mediados de sept. · Créteil (afueras de París)",
+            "Fin de sept.: unos 400 institutos afectados"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 28.66,
+      "fin": 32.26,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Aulas de hasta 35 alumnos",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72,
+          "hasta": 2.16
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aula",
+          "x": 540,
+          "y": 800,
+          "tamano": 520,
+          "en": 0.1,
+          "dur": 1.44,
+          "hasta": 2.16
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Faltan profesores",
+          "y": 340,
+          "en": 2.04,
+          "tamano": 72
+        },
+        {
+          "tipo": "foto",
+          "src": "F6b.jpg",
+          "forma": "rect",
+          "x": 540,
+          "y": 780,
+          "ancho": 900,
+          "alto": 560,
+          "foco": "50% 55%",
+          "zoom": [
+            1.02,
+            1.14
+          ],
+          "dur": 30.22,
+          "en": 2.04,
+          "notas": [
+            "Según el sindicato de estudiantes USL"
+          ],
+          "credito": "Foto: Coolpix2026 · CC0 · Wikimedia Commons"
+        }
+      ]
+    },
+    {
+      "inicio": 32.26,
+      "fin": 36.34,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Del aula a la cesta de la compra",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "icono",
+          "nombre": "megafono",
+          "x": 260,
+          "y": 760,
+          "tamano": 270,
+          "en": 0.12,
+          "hasta": 2.04,
+          "etiqueta": "Sindicatos (CGT)",
+          "anchoEtiqueta": 420
+        },
+        {
+          "tipo": "icono",
+          "nombre": "chaleco",
+          "x": 740,
+          "y": 760,
+          "tamano": 270,
+          "en": 0.84,
+          "hasta": 2.04,
+          "etiqueta": "Chalecos amarillos",
+          "anchoEtiqueta": 440
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Chalecos amarillos: movimiento nacido en 2018",
+            "CGT: 2.º sindicato, tras la CFDT"
+          ],
+          "en": 0.3,
+          "hasta": 1.92
+        },
+        {
+          "tipo": "icono",
+          "nombre": "carrito",
+          "x": 320,
+          "y": 780,
+          "tamano": 380,
+          "en": 1.92
+        },
+        {
+          "tipo": "foto",
+          "src": "F7.jpg",
+          "forma": "rect",
+          "x": 760,
+          "y": 780,
+          "ancho": 380,
+          "alto": 520,
+          "foco": "55% 62%",
+          "zoom": [
+            1,
+            1.1
+          ],
+          "dur": 34.42,
+          "en": 2.07,
+          "credito": "Foto: Florian Cuny · CC BY-SA 4.0 · Wikimedia Commons"
+        }
+      ]
+    },
+    {
+      "inicio": 36.34,
+      "fin": 39.29,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Inflación: 3,1 %",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 80
+        },
+        {
+          "tipo": "barrasV",
+          "datos": [
+            {
+              "etiqueta": "Agosto",
+              "valor": 2.4,
+              "texto": "2,4 %",
+              "color": "#8D99AE"
+            },
+            {
+              "etiqueta": "Septiembre",
+              "valor": 3.1,
+              "texto": "3,1 %",
+              "color": "#14213D"
+            }
+          ],
+          "max": 3.5,
+          "x": 400,
+          "base": 1030,
+          "altoMax": 400,
+          "ancho": 620,
+          "en": 0.5
+        },
+        {
+          "tipo": "icono",
+          "nombre": "carrito",
+          "x": 850,
+          "y": 760,
+          "tamano": 230,
+          "en": 0.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Septiembre 2026, interanual · agosto: 2,4 %",
+            "Fuente: INSEE"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 39.29,
+      "fin": 42.48,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Energía: +21 % en un año",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "icono",
+          "nombre": "surtidor",
+          "x": 300,
+          "y": 650,
+          "tamano": 250,
+          "en": 0.1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "bombilla",
+          "x": 700,
+          "y": 650,
+          "tamano": 250,
+          "en": 0.3
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 21,
+          "salto": true,
+          "prefijo": "+",
+          "sufijo": " %",
+          "en": 0.2,
+          "espera": 0.95,
+          "y": 820,
+          "tamano": 190,
+          "izq": 340
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: INSEE, sept. 2026 (+21,3 %)"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 42.48,
+      "fin": 46.65,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿Y quién manda?",
+          "y": 420,
+          "tamano": 130,
+          "en": 0.05,
+          "hasta": 0.8600000000000001
+        },
+        {
+          "tipo": "icono",
+          "nombre": "tarjetas",
+          "x": 540,
+          "y": 940,
+          "tamano": 440,
+          "en": 0.1,
+          "hasta": 0.8600000000000001,
+          "dur": 0.8
+        },
+        {
+          "tipo": "foto",
+          "src": "ret-P1.jpg",
+          "forma": "circulo",
+          "x": 540,
+          "y": 590,
+          "alto": 440,
+          "zoom": [
+            1,
+            1.2
+          ],
+          "dur": 45.71,
+          "en": 0.9400000000000001
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Emmanuel Macron · presidente",
+          "y": 850,
+          "en": 1.04,
+          "tamano": 64,
+          "align": "center",
+          "hasta": 2.17
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Presidenciales: abril de 2027",
+          "y": 850,
+          "en": 2.17,
+          "tamano": 64,
+          "align": "center"
+        },
+        {
+          "tipo": "icono",
+          "nombre": "relojArena",
+          "x": 860,
+          "y": 560,
+          "tamano": 190,
+          "en": 2.17
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "No puede repetir: máx. 2 mandatos seguidos (Const., art. 6) · 1.ª vuelta: 18-04-2027",
+            "Foto: © European Union · CC BY 4.0 · Wikimedia Commons"
+          ],
+          "en": 2.17
+        }
+      ]
+    },
+    {
+      "inicio": 46.65,
+      "fin": 50.34,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "ret-P2.jpg",
+          "forma": "circulo",
+          "x": 540,
+          "y": 590,
+          "alto": 440,
+          "zoom": [
+            1,
+            1.2
+          ],
+          "dur": 1.8499999999999999,
+          "en": 0.05,
+          "hasta": 1.9699999999999998,
+          "notas": [
+            "Su presupuesto de 2026 salió por el art. 49.3, sin votarse"
+          ],
+          "credito": "Foto: GautierGadriot · CC BY-SA 4.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Sébastien Lecornu · primer ministro",
+          "y": 850,
+          "en": 0.15,
+          "tamano": 64,
+          "align": "center",
+          "hasta": 1.9699999999999998
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Sin mayoría en la Asamblea",
+          "y": 340,
+          "en": 1.8499999999999999,
+          "tamano": 64
+        },
+        {
+          "tipo": "balanza",
+          "x": 540,
+          "y": 660,
+          "en": 1.95,
+          "ticEn": 2.4499999999999997,
+          "cruzEn": 2.75,
+          "oscila": [
+            2.4499999999999997,
+            2.75
+          ],
+          "etiquetaIzq": "149 sí",
+          "etiquetaDer": "236 no"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "13-10: el PS (socialistas) pidió rechazarlo sin debate · 149 sí / 236 no · el RN votó no: tenía la llave",
+            "Fuente: Asamblea Nacional (vía LCP, datan)"
+          ],
+          "en": 1.8499999999999999
+        }
+      ]
+    },
+    {
+      "inicio": 50.34,
+      "fin": 53.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "54.000 millones de ahorro",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "icono",
+          "nombre": "hucha",
+          "x": 540,
+          "y": 700,
+          "tamano": 340,
+          "en": 0.15,
+          "dur": 3
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 54000,
+          "salto": true,
+          "sufijo": " M€",
+          "en": 0.2,
+          "espera": 1.06,
+          "y": 900,
+          "tamano": 128,
+          "izq": 140
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Presupuesto 2027 · objetivo: déficit del 5 %",
+            "Fuente: Gobierno, vía AFP y LCP"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 53.9,
+      "fin": 56.78,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Propuesta: congelar el sueldo de funcionarios",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "nomina",
+          "x": 290,
+          "y": 790,
+          "tamano": 330,
+          "en": 0.3,
+          "dur": 0.8
+        },
+        {
+          "tipo": "icono",
+          "nombre": "pensiones",
+          "x": 750,
+          "y": 790,
+          "tamano": 330,
+          "en": 1.3,
+          "dur": 1.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Sueldo base (punto de índice), 2027 · y menos subida para algunas pensiones (las de más de 1.256 €)"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 56.78,
+      "fin": 59.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CGT: que paguen los más ricos",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "icono",
+          "nombre": "megafono",
+          "x": 270,
+          "y": 790,
+          "tamano": 320,
+          "en": 0.15
+        },
+        {
+          "tipo": "icono",
+          "nombre": "balanzaSaco",
+          "x": 740,
+          "y": 790,
+          "tamano": 360,
+          "en": 0.5,
+          "dur": 1.6
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Y que no se recorten servicios públicos · S. Binet (16-10)"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 59.7,
+      "fin": 62.01,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Gobierno: culpa a la ultraizquierda",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "icono",
+          "nombre": "matignon",
+          "x": 540,
+          "y": 800,
+          "tamano": 400,
+          "en": 0.15
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Interior: protestar es un derecho fundamental · Macron: quien saqueó pagará los daños"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 62.01,
+      "fin": 67.22,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿Lo curioso?",
+          "y": 620,
+          "tamano": 130,
+          "en": 0.05,
+          "hasta": 0.83
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Le Pen y Mélenchon: no a los saqueos",
+          "y": 340,
+          "en": 0.88,
+          "tamano": 64
+        },
+        {
+          "tipo": "linea",
+          "y": 806,
+          "ancho": 700,
+          "grosor": 6,
+          "en": 0.88
+        },
+        {
+          "tipo": "foto",
+          "src": "ret-P3.jpg",
+          "forma": "circulo",
+          "x": 160,
+          "y": 655,
+          "alto": 200,
+          "zoom": [
+            1,
+            1.25
+          ],
+          "dur": 66.34,
+          "en": 0.93
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Marine Le Pen",
+          "y": 510,
+          "en": 1.03,
+          "tamano": 64,
+          "izq": 290,
+          "ancho": 670
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RN (Reagrupamiento Nacional)"
+          ],
+          "y": 578,
+          "en": 1.03,
+          "izq": 290,
+          "ancho": 670
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Reivindicaciones legítimas, secuestradas por la ultraizquierda"
+          ],
+          "y": 626,
+          "en": 2.78,
+          "tamano": 44,
+          "izq": 290,
+          "ancho": 670
+        },
+        {
+          "tipo": "foto",
+          "src": "ret-P4.jpg",
+          "forma": "circulo",
+          "x": 160,
+          "y": 950,
+          "alto": 200,
+          "zoom": [
+            1,
+            1.25
+          ],
+          "dur": 66.34,
+          "en": 1.33
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Jean-Luc Mélenchon",
+          "y": 822,
+          "en": 1.4300000000000002,
+          "tamano": 64,
+          "izq": 290,
+          "ancho": 670
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LFI (Francia Insumisa)"
+          ],
+          "y": 890,
+          "en": 1.4300000000000002,
+          "izq": 290,
+          "ancho": 670
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "El saqueo no cabe en nuestra lucha · culpa a Lecornu"
+          ],
+          "y": 938,
+          "en": 3.48,
+          "tamano": 44,
+          "izq": 290,
+          "ancho": 670
+        },
+        {
+          "tipo": "icono",
+          "nombre": "escaparate",
+          "x": 160,
+          "y": 806,
+          "tamano": 84,
+          "en": 2.08,
+          "vibra": [
+            2.08,
+            5.38
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Foto-AG Gymnasium Melle · CC BY-SA 3.0 / Foto: Lula Oficial · CC BY-SA 2.0 · Wikimedia Commons"
+          ],
+          "en": 0.88
+        }
+      ]
+    },
+    {
+      "inicio": 67.22,
+      "fin": 71.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Críticas a la policía",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "icono",
+          "nombre": "lupaPlaca",
+          "x": 250,
+          "y": 720,
+          "tamano": 300,
+          "en": 0.15
+        },
+        {
+          "tipo": "mapa",
+          "puntos": [
+            {
+              "nombre": "Saint-Étienne",
+              "en": 1.76
+            }
+          ],
+          "x": 730,
+          "y": 720,
+          "ancho": 380
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Saint-Étienne",
+          "y": 990,
+          "en": 1.86,
+          "tamano": 72,
+          "align": "center",
+          "izq": 60,
+          "ancho": 900
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Saint-Étienne: chico de 17 años · Interior no descarta una granada de la gendarmería"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 71.3,
+      "fin": 73.85,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Investigación abierta",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "icono",
+          "nombre": "lupaPlaca",
+          "x": 540,
+          "y": 680,
+          "tamano": 340,
+          "en": 0,
+          "animEn": 0
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "EN INVESTIGACIÓN"
+          ],
+          "en": 0.7,
+          "y": 930,
+          "tamano": 64,
+          "fondo": "#8D99AE"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "IGPN: inspección de la policía"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 73.85,
+      "fin": 77.29,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿Y ahora?",
+          "y": 420,
+          "tamano": 130,
+          "en": 0.05,
+          "hasta": 0.78
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 540,
+          "y": 900,
+          "tamano": 380,
+          "en": 0.1,
+          "hasta": 0.78,
+          "mes": "OCT",
+          "dia": "19"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Próximas convocatorias",
+          "y": 340,
+          "en": 0.83,
+          "tamano": 72
+        },
+        {
+          "tipo": "lineaVertical",
+          "en": 0.83,
+          "y": 560,
+          "paso": 112,
+          "filas": [
+            {
+              "fecha": "22-10",
+              "texto": "institutos",
+              "en": 1.13
+            },
+            {
+              "fecha": "24-10",
+              "texto": "chalecos amarillos",
+              "en": 1.53
+            },
+            {
+              "fecha": "31-10",
+              "texto": "chalecos amarillos",
+              "en": 2.0300000000000002
+            },
+            {
+              "fecha": "5-11",
+              "texto": "huelga sindical",
+              "nota": "CFDT, CGT, FO, Unsa, FSU",
+              "en": 2.29
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Lecornu pide toques de queda parciales (19-10)",
+            "Fuente: France 24, 19-10 · a fecha de hoy"
+          ],
+          "en": 0.83
+        }
+      ]
+    },
+    {
+      "inicio": 77.29,
+      "fin": 80.43,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Presupuesto: plazo hasta el 17-11",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "icono",
+          "nombre": "asamblea",
+          "x": 320,
+          "y": 790,
+          "tamano": 360,
+          "en": 0.15
+        },
+        {
+          "tipo": "icono",
+          "nombre": "reloj",
+          "x": 760,
+          "y": 790,
+          "tamano": 320,
+          "en": 0.4,
+          "dur": 2.54
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "40 días en 1.ª lectura; si no, pasa al Senado (Const., art. 47)"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 80.43,
+      "fin": 81.98,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿Qué está en juego?",
+          "y": 420,
+          "tamano": 124,
+          "en": 0.05
+        },
+        {
+          "tipo": "icono",
+          "nombre": "tarjetas",
+          "x": 540,
+          "y": 940,
+          "tamano": 520,
+          "en": 0.1,
+          "simbolo": "3",
+          "dur": 0.9
+        }
+      ]
+    },
+    {
+      "inicio": 81.98,
+      "fin": 86.34,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Déficit 2025: 5,1 % del PIB",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72,
+          "hasta": 2.48
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Objetivo del Gobierno: 5 % en 2027",
+          "y": 340,
+          "en": 2.48,
+          "tamano": 72
+        },
+        {
+          "tipo": "barras",
+          "datos": [
+            {
+              "etiqueta": "Déficit 2025",
+              "valor": 5.1,
+              "texto": "5,1 %",
+              "color": "#14213D"
+            }
+          ],
+          "max": 6,
+          "en": 0.4,
+          "y": 640
+        },
+        {
+          "tipo": "barras",
+          "datos": [
+            {
+              "etiqueta": "Objetivo 2027",
+              "valor": 5,
+              "texto": "5 %",
+              "color": "#8D99AE"
+            }
+          ],
+          "max": 6,
+          "en": 2.56,
+          "y": 880
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: INSEE (27-03-2026)"
+          ],
+          "en": 0.2,
+          "hasta": 2.48
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Con 54.000 M€ de ahorro · vía AFP y LCP"
+          ],
+          "en": 2.48
+        }
+      ]
+    },
+    {
+      "inicio": 86.34,
+      "fin": 89.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "13-10: decidió el voto del RN",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "balanza",
+          "x": 540,
+          "y": 640,
+          "en": 0.15,
+          "inclina": {
+            "en": 2.07,
+            "grados": 6
+          },
+          "etiquetaIzq": "149 sí",
+          "etiquetaDer": "236 no",
+          "ticEn": 0.8
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "RN"
+          ],
+          "en": 1.72,
+          "y": 680,
+          "x": 804,
+          "tamano": 72,
+          "angulo": -3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Moción de rechazo del PS: 149 sí / 236 no · con el sí del RN, 211 a 174",
+            "Fuente: Asamblea Nacional (vía LCP, datan)"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 89.62,
+      "fin": 92.29,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Presidenciales: 1.ª vuelta, 18-04-2027",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 540,
+          "y": 640,
+          "tamano": 250,
+          "en": 0.15,
+          "mes": "ABR 2027",
+          "dia": "18"
+        },
+        {
+          "tipo": "lineaVertical",
+          "y": 790,
+          "paso": 100,
+          "en": 0.3,
+          "filas": [
+            {
+              "fecha": "17-11",
+              "texto": "plazo de la Asamblea",
+              "salto": true,
+              "en": 0.5
+            },
+            {
+              "fecha": "18-04",
+              "texto": "1.ª vuelta",
+              "en": 1.42
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: service-public.gouv.fr"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 92.29,
+      "fin": 98.56,
+      "fondo": "mostaza",
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Lo real: vida cara y Gobierno sin mayoría",
+          "tamano": 76,
+          "yGuardalo": 1345,
+          "yFuentes": 1432
+        },
+        {
+          "tipo": "icono",
+          "nombre": "movil",
+          "x": 360,
+          "y": 950,
+          "tamano": 300,
+          "en": 0.3,
+          "vibra": [
+            0.5,
+            2.9
+          ]
+        },
+        {
+          "tipo": "sello",
+          "valor": "MITO",
+          "en": 3.52,
+          "y": 880,
+          "tamano": 80,
+          "x": 700
+        }
+      ]
+    }
+  ]
+}

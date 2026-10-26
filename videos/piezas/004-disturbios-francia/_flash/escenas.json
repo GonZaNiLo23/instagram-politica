@@ -1,0 +1,388 @@
+{
+  "plantilla": "flash",
+  "duracion": 33.8,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "FRANCIA: LO REAL Y LO FALSO",
+            "y": 430,
+            "tamano": 124,
+            "en": 0
+          },
+          {
+            "tipo": "sello",
+            "valor": "DATO",
+            "en": 0.2,
+            "y": 930,
+            "angulo": 5,
+            "tamano": 150
+          },
+          {
+            "tipo": "sello",
+            "valor": "MITO",
+            "en": 0.4,
+            "y": 1200,
+            "angulo": -7,
+            "tamano": 150
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.2,
+      "fondo": "crema",
+      "fuente": "Fuente: Maldita · Grabado en Los Ángeles, 2023",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "ESTE SAQUEO NO ES DE FRANCIA",
+          "y": 320,
+          "tamano": 112
+        },
+        {
+          "tipo": "icono",
+          "nombre": "movil",
+          "x": 540,
+          "y": 950,
+          "tamano": 400,
+          "en": 0.1
+        },
+        {
+          "tipo": "sello",
+          "valor": "MITO",
+          "en": 1.9,
+          "y": 830,
+          "tamano": 130
+        }
+      ]
+    },
+    {
+      "inicio": 3.2,
+      "fin": 5.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SÁBADO 17 DE OCTUBRE: REAL",
+          "y": 330
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "en": 0.2,
+          "y": 530,
+          "tamano": 150
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 540,
+          "y": 1010,
+          "tamano": 340,
+          "en": 0.3,
+          "mes": "SÁB OCT",
+          "dia": "17"
+        }
+      ]
+    },
+    {
+      "inicio": 5.1,
+      "fin": 11.15,
+      "fondo": "crema",
+      "fuente": "Fuente: Min. Interior / France 24",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Cuántos? Depende de quién cuente",
+          "y": 330
+        },
+        {
+          "tipo": "icono",
+          "nombre": "carrito",
+          "x": 540,
+          "y": 700,
+          "tamano": 320,
+          "en": 0.1,
+          "hasta": 2.1,
+          "dur": 1.5
+        },
+        {
+          "tipo": "barras",
+          "datos": [
+            {
+              "etiqueta": "Ministerio del Interior",
+              "valor": 550000,
+              "color": "#14213D"
+            }
+          ],
+          "max": 800000,
+          "en": 2.2,
+          "y": 560
+        },
+        {
+          "tipo": "barras",
+          "datos": [
+            {
+              "etiqueta": "Organizadores",
+              "valor": 800000,
+              "color": "#8D99AE"
+            }
+          ],
+          "max": 800000,
+          "en": 4.55,
+          "y": 780
+        }
+      ]
+    },
+    {
+      "inicio": 11.15,
+      "fin": 14.7,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Saqueos e incendios en varias ciudades",
+          "y": 330,
+          "hasta": 1.7
+        },
+        {
+          "tipo": "mapa",
+          "ancho": 560,
+          "y": 850,
+          "recorte": {
+            "x": 120,
+            "y": 560,
+            "ancho": 840,
+            "alto": 580
+          },
+          "puntos": [
+            {
+              "nombre": "París",
+              "en": 0.1
+            },
+            {
+              "nombre": "Lyon",
+              "en": 0.3
+            },
+            {
+              "nombre": "Marsella",
+              "en": 0.5
+            },
+            {
+              "nombre": "Burdeos",
+              "en": 0.7
+            },
+            {
+              "nombre": "Lille",
+              "en": 0.9
+            },
+            {
+              "nombre": "Limoges",
+              "en": 1.2
+            }
+          ],
+          "zoom": {
+            "punto": "Limoges",
+            "en": 1.5,
+            "escala": 1.8,
+            "aY": 760
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "edificioLlamas",
+          "x": 540,
+          "y": 850,
+          "tamano": 340,
+          "en": 1.9
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Limoges: ayuntamiento incendiado",
+          "y": 330,
+          "en": 1.85,
+          "pastilla": "tinta"
+        }
+      ]
+    },
+    {
+      "inicio": 14.7,
+      "fin": 20,
+      "fondo": "crema",
+      "fuente": "Según el ministro del Interior, L. Nuñez (18-10)",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Según Interior",
+          "y": 330
+        },
+        {
+          "tipo": "contador",
+          "desde": 1200,
+          "hasta": 2397,
+          "salto": true,
+          "espera": 1.1,
+          "en": 0.2,
+          "tamano": 140,
+          "y": 440,
+          "etiquetaDesde": "detenidos (sáb. noche)",
+          "etiqueta": "detenidos (dom., último balance)"
+        },
+        {
+          "tipo": "icono",
+          "nombre": "casco",
+          "x": 170,
+          "y": 930,
+          "tamano": 190,
+          "en": 3.5
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 997,
+          "dur": 0.35,
+          "en": 3.6,
+          "izq": 290,
+          "tamano": 130,
+          "y": 800,
+          "etiqueta": "policías y gendarmes heridos"
+        }
+      ]
+    },
+    {
+      "inicio": 20,
+      "fin": 26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "icono",
+          "nombre": "palacio",
+          "x": 540,
+          "y": 400,
+          "tamano": 150,
+          "en": 0
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Gobierno: culpa a la ultraizquierda",
+          "y": 470,
+          "tamano": 68,
+          "align": "center",
+          "en": 0
+        },
+        {
+          "tipo": "linea",
+          "y": 740,
+          "ancho": 700,
+          "grosor": 4,
+          "en": 1.8
+        },
+        {
+          "tipo": "icono",
+          "nombre": "lupaPlaca",
+          "x": 540,
+          "y": 845,
+          "tamano": 150,
+          "en": 0.3
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Críticas a la policía: la IGPN investiga un caso",
+          "y": 925,
+          "tamano": 64,
+          "align": "center",
+          "en": 2.75
+        }
+      ]
+    },
+    {
+      "inicio": 26,
+      "fin": 30.75,
+      "fondo": "tinta",
+      "lectura": true,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "Protestar, sí. Quemar ayuntamientos, no.",
+          "tamano": 92,
+          "y": 440
+        },
+        {
+          "tipo": "icono",
+          "nombre": "pancarta",
+          "x": 190,
+          "y": 960,
+          "tamano": 190,
+          "en": 1.3
+        },
+        {
+          "tipo": "icono",
+          "nombre": "check",
+          "x": 320,
+          "y": 1010,
+          "tamano": 110,
+          "en": 2.4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "edificioLlamas",
+          "x": 600,
+          "y": 960,
+          "tamano": 190,
+          "en": 3.2
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 735,
+          "y": 1010,
+          "tamano": 110,
+          "en": 4.3
+        }
+      ]
+    },
+    {
+      "inicio": 30.75,
+      "fin": 33.8,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Antes de compartir, mira la fecha",
+          "pregunta": "¿Te había llegado alguno?",
+          "tamano": 80
+        },
+        {
+          "tipo": "icono",
+          "nombre": "movil",
+          "x": 790,
+          "y": 1340,
+          "tamano": 250,
+          "en": 0.6
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 880,
+          "y": 1230,
+          "tamano": 110,
+          "en": 1.1,
+          "mes": "OCT",
+          "dia": "17"
+        }
+      ]
+    }
+  ]
+}

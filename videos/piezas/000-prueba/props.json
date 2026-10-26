@@ -1,0 +1,191 @@
+{
+  "plantilla": "flash",
+  "duracion": 6,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 2,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "Título de relleno",
+          "resalta": "PRUEBA",
+          "y": 520
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "en": 0.8,
+          "y": 850
+        }
+      ]
+    },
+    {
+      "inicio": 2,
+      "fin": 4,
+      "fondo": "crema",
+      "fuente": "INE (relleno)",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Dato de relleno",
+          "y": 330
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 350,
+          "dur": 1.2,
+          "etiqueta": "escaños",
+          "y": 440,
+          "tamano": 120
+        },
+        {
+          "tipo": "hemiciclo",
+          "grupos": [
+            {
+              "nombre": "Tinta",
+              "escanos": 300,
+              "color": "#14213D"
+            },
+            {
+              "nombre": "Mostaza",
+              "escanos": 50,
+              "color": "#F2B134",
+              "en": 0.6
+            }
+          ],
+          "y": 660,
+          "ancho": 700,
+          "dur": 1
+        }
+      ]
+    },
+    {
+      "inicio": 4,
+      "fin": 5,
+      "fondo": "tinta",
+      "lectura": true,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "Opinión de relleno",
+          "tamano": 110,
+          "y": 600
+        }
+      ]
+    },
+    {
+      "inicio": 5,
+      "fin": 6,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Resumen de relleno",
+          "pregunta": "¿Qué tema explicamos?"
+        }
+      ]
+    }
+  ],
+  "id": "000-prueba",
+  "audio": "voz.mp3",
+  "provisional": true,
+  "avisoProvisional": true,
+  "palabras": [
+    {
+      "t": "Esto",
+      "inicio": 0.15,
+      "fin": 0.453
+    },
+    {
+      "t": "es",
+      "inicio": 0.453,
+      "fin": 0.655
+    },
+    {
+      "t": "una",
+      "inicio": 0.655,
+      "fin": 0.908
+    },
+    {
+      "t": "prueba",
+      "inicio": 0.908,
+      "fin": 1.312
+    },
+    {
+      "t": "de",
+      "inicio": 1.312,
+      "fin": 1.514
+    },
+    {
+      "t": "la",
+      "inicio": 1.514,
+      "fin": 1.717
+    },
+    {
+      "t": "plantilla.",
+      "inicio": 1.717,
+      "fin": 2.576
+    },
+    {
+      "t": "Aquí",
+      "inicio": 2.576,
+      "fin": 2.879
+    },
+    {
+      "t": "va",
+      "inicio": 2.879,
+      "fin": 3.081
+    },
+    {
+      "t": "un",
+      "inicio": 3.081,
+      "fin": 3.283
+    },
+    {
+      "t": "dato",
+      "inicio": 3.283,
+      "fin": 3.586
+    },
+    {
+      "t": "de",
+      "inicio": 3.586,
+      "fin": 3.788
+    },
+    {
+      "t": "relleno.",
+      "inicio": 3.788,
+      "fin": 4.546
+    },
+    {
+      "t": "Nuestra",
+      "inicio": 4.546,
+      "fin": 5.001
+    },
+    {
+      "t": "lectura",
+      "inicio": 5.001,
+      "fin": 5.456
+    },
+    {
+      "t": "de",
+      "inicio": 5.456,
+      "fin": 5.658
+    },
+    {
+      "t": "relleno.",
+      "inicio": 5.658,
+      "fin": 6.416
+    },
+    {
+      "t": "Guárdalo.",
+      "inicio": 6.416,
+      "fin": 7.225
+    }
+  ]
+}

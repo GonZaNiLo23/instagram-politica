@@ -1,0 +1,423 @@
+{
+  "palabras": [
+    {
+      "t": "Ese",
+      "inicio": 0.065,
+      "fin": 0.251
+    },
+    {
+      "t": "saqueo",
+      "inicio": 0.252,
+      "fin": 0.663
+    },
+    {
+      "t": "«francés»",
+      "inicio": 0.663,
+      "fin": 1.223
+    },
+    {
+      "t": "que",
+      "inicio": 1.224,
+      "fin": 1.373
+    },
+    {
+      "t": "te",
+      "inicio": 1.373,
+      "fin": 1.485
+    },
+    {
+      "t": "ha",
+      "inicio": 1.485,
+      "fin": 1.559
+    },
+    {
+      "t": "llegado",
+      "inicio": 1.598,
+      "fin": 1.934
+    },
+    {
+      "t": "es",
+      "inicio": 1.934,
+      "fin": 2.008
+    },
+    {
+      "t": "de",
+      "inicio": 2.009,
+      "fin": 2.083
+    },
+    {
+      "t": "Los",
+      "inicio": 2.084,
+      "fin": 2.269
+    },
+    {
+      "t": "Ángeles.",
+      "inicio": 2.27,
+      "fin": 2.793
+    },
+    {
+      "t": "Lo",
+      "inicio": 3.242,
+      "fin": 3.392
+    },
+    {
+      "t": "del",
+      "inicio": 3.392,
+      "fin": 3.504
+    },
+    {
+      "t": "sábado",
+      "inicio": 3.504,
+      "fin": 3.877
+    },
+    {
+      "t": "sí",
+      "inicio": 3.878,
+      "fin": 4.027
+    },
+    {
+      "t": "fue",
+      "inicio": 4.028,
+      "fin": 4.214
+    },
+    {
+      "t": "real.",
+      "inicio": 4.214,
+      "fin": 4.587
+    },
+    {
+      "t": "Medio",
+      "inicio": 5.149,
+      "fin": 5.41
+    },
+    {
+      "t": "millón",
+      "inicio": 5.411,
+      "fin": 5.71
+    },
+    {
+      "t": "largo",
+      "inicio": 5.71,
+      "fin": 6.046
+    },
+    {
+      "t": "protestó",
+      "inicio": 6.046,
+      "fin": 6.494
+    },
+    {
+      "t": "contra",
+      "inicio": 6.495,
+      "fin": 6.756
+    },
+    {
+      "t": "la",
+      "inicio": 6.757,
+      "fin": 6.869
+    },
+    {
+      "t": "vida",
+      "inicio": 6.869,
+      "fin": 7.093
+    },
+    {
+      "t": "cara,",
+      "inicio": 7.093,
+      "fin": 7.392
+    },
+    {
+      "t": "según",
+      "inicio": 7.392,
+      "fin": 7.69
+    },
+    {
+      "t": "Interior.",
+      "inicio": 7.69,
+      "fin": 8.214
+    },
+    {
+      "t": "Los",
+      "inicio": 8.813,
+      "fin": 8.998
+    },
+    {
+      "t": "organizadores",
+      "inicio": 8.999,
+      "fin": 9.672
+    },
+    {
+      "t": "dicen",
+      "inicio": 9.672,
+      "fin": 9.971
+    },
+    {
+      "t": "ochocientas",
+      "inicio": 9.971,
+      "fin": 10.531
+    },
+    {
+      "t": "mil.",
+      "inicio": 10.532,
+      "fin": 10.756
+    },
+    {
+      "t": "Hubo",
+      "inicio": 11.242,
+      "fin": 11.502
+    },
+    {
+      "t": "saqueos",
+      "inicio": 11.503,
+      "fin": 11.989
+    },
+    {
+      "t": "e",
+      "inicio": 11.99,
+      "fin": 12.027
+    },
+    {
+      "t": "incendios;",
+      "inicio": 12.028,
+      "fin": 12.7
+    },
+    {
+      "t": "en",
+      "inicio": 12.925,
+      "fin": 13.037
+    },
+    {
+      "t": "Limoges",
+      "inicio": 13.037,
+      "fin": 13.522
+    },
+    {
+      "t": "ardió",
+      "inicio": 13.522,
+      "fin": 13.822
+    },
+    {
+      "t": "el",
+      "inicio": 13.822,
+      "fin": 13.896
+    },
+    {
+      "t": "ayuntamiento.",
+      "inicio": 13.897,
+      "fin": 14.644
+    },
+    {
+      "t": "Según",
+      "inicio": 14.767,
+      "fin": 15.103
+    },
+    {
+      "t": "Interior:",
+      "inicio": 15.104,
+      "fin": 15.589
+    },
+    {
+      "t": "casi",
+      "inicio": 16.001,
+      "fin": 16.225
+    },
+    {
+      "t": "dos",
+      "inicio": 16.225,
+      "fin": 16.374
+    },
+    {
+      "t": "mil",
+      "inicio": 16.375,
+      "fin": 16.561
+    },
+    {
+      "t": "cuatrocientos",
+      "inicio": 16.562,
+      "fin": 17.196
+    },
+    {
+      "t": "detenidos",
+      "inicio": 17.196,
+      "fin": 17.681
+    },
+    {
+      "t": "y",
+      "inicio": 17.908,
+      "fin": 18.057
+    },
+    {
+      "t": "casi",
+      "inicio": 18.057,
+      "fin": 18.28
+    },
+    {
+      "t": "mil",
+      "inicio": 18.394,
+      "fin": 18.543
+    },
+    {
+      "t": "agentes",
+      "inicio": 18.581,
+      "fin": 18.992
+    },
+    {
+      "t": "heridos.",
+      "inicio": 18.992,
+      "fin": 19.403
+    },
+    {
+      "t": "El",
+      "inicio": 20.076,
+      "fin": 20.262
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 20.263,
+      "fin": 20.823
+    },
+    {
+      "t": "culpa",
+      "inicio": 20.824,
+      "fin": 21.235
+    },
+    {
+      "t": "a",
+      "inicio": 21.235,
+      "fin": 21.309
+    },
+    {
+      "t": "la",
+      "inicio": 21.31,
+      "fin": 21.422
+    },
+    {
+      "t": "ultraizquierda.",
+      "inicio": 21.422,
+      "fin": 22.206
+    },
+    {
+      "t": "Hay",
+      "inicio": 22.767,
+      "fin": 22.879
+    },
+    {
+      "t": "críticas",
+      "inicio": 22.954,
+      "fin": 23.365
+    },
+    {
+      "t": "a",
+      "inicio": 23.366,
+      "fin": 23.402
+    },
+    {
+      "t": "la",
+      "inicio": 23.402,
+      "fin": 23.515
+    },
+    {
+      "t": "policía",
+      "inicio": 23.515,
+      "fin": 24.037
+    },
+    {
+      "t": "y",
+      "inicio": 24.187,
+      "fin": 24.3
+    },
+    {
+      "t": "una",
+      "inicio": 24.3,
+      "fin": 24.411
+    },
+    {
+      "t": "investigación",
+      "inicio": 24.411,
+      "fin": 24.971
+    },
+    {
+      "t": "abierta.",
+      "inicio": 24.972,
+      "fin": 25.42
+    },
+    {
+      "t": "Nuestra",
+      "inicio": 26.095,
+      "fin": 26.43
+    },
+    {
+      "t": "lectura:",
+      "inicio": 26.43,
+      "fin": 26.915
+    },
+    {
+      "t": "protestar",
+      "inicio": 27.328,
+      "fin": 27.963
+    },
+    {
+      "t": "es",
+      "inicio": 28.224,
+      "fin": 28.374
+    },
+    {
+      "t": "un",
+      "inicio": 28.375,
+      "fin": 28.449
+    },
+    {
+      "t": "derecho;",
+      "inicio": 28.45,
+      "fin": 28.898
+    },
+    {
+      "t": "quemar",
+      "inicio": 29.197,
+      "fin": 29.458
+    },
+    {
+      "t": "ayuntamientos,",
+      "inicio": 29.459,
+      "fin": 30.244
+    },
+    {
+      "t": "no.",
+      "inicio": 30.319,
+      "fin": 30.58
+    },
+    {
+      "t": "Antes",
+      "inicio": 30.821,
+      "fin": 31.194
+    },
+    {
+      "t": "de",
+      "inicio": 31.195,
+      "fin": 31.269
+    },
+    {
+      "t": "compartir,",
+      "inicio": 31.269,
+      "fin": 31.867
+    },
+    {
+      "t": "mira",
+      "inicio": 32.092,
+      "fin": 32.353
+    },
+    {
+      "t": "la",
+      "inicio": 32.353,
+      "fin": 32.427
+    },
+    {
+      "t": "fecha.",
+      "inicio": 32.428,
+      "fin": 32.801
+    }
+  ],
+  "duracion": 32.801,
+  "provisional": false,
+  "motor": "azure",
+  "voz": "es-ES-Tristan:DragonHDLatestNeural"
+}

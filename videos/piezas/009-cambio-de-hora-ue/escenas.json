@@ -1,0 +1,1227 @@
+{
+  "plantilla": "estandar",
+  "duracion": 99.66,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "foto",
+            "src": "F4.jpg",
+            "forma": "completa",
+            "velo": 0.4,
+            "foco": "50% 55%",
+            "zoom": [
+              1,
+              1
+            ],
+            "dur": 3,
+            "en": -1,
+            "sobre": "oscuro",
+            "credito": "Foto: Tamorlan · CC BY-SA 3.0 · Wikimedia Commons"
+          },
+          {
+            "tipo": "gancho",
+            "texto": "¿POR QUÉ SEGUIMOS CAMBIANDO LA HORA?",
+            "y": 470,
+            "tamano": 104,
+            "color": "#F4EFE6",
+            "en": -1
+          },
+          {
+            "tipo": "flechaAtrasH",
+            "x": 800,
+            "y": 1230,
+            "r": 85,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.78,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2019: VOTARON QUITARLO · DOMINGO: OTRA VEZ",
+          "y": 335,
+          "en": 0,
+          "tamano": 64
+        },
+        {
+          "tipo": "relojH",
+          "x": 300,
+          "y": 780,
+          "r": 190,
+          "hora": 3,
+          "flecha": false,
+          "en": 0
+        },
+        {
+          "tipo": "hemiH",
+          "x": 740,
+          "y": 880,
+          "w": 400,
+          "checkEn": 0.5,
+          "en": 0.1
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "2019"
+          ],
+          "x": 690,
+          "y": 925,
+          "tamano": 100,
+          "angulo": -6,
+          "desde": 300,
+          "en": 2.61
+        }
+      ]
+    },
+    {
+      "inicio": 3.78,
+      "fin": 6.78,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "…Y ESTE DOMINGO, OTRA VEZ",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "relojH",
+          "x": 300,
+          "y": 780,
+          "r": 190,
+          "hora": 3,
+          "salto": 1.74,
+          "en": -1
+        },
+        {
+          "tipo": "hemiH",
+          "x": 740,
+          "y": 880,
+          "w": 400,
+          "checkEn": -1,
+          "grisEn": 0,
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 6.78,
+      "fin": 7.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿QUÉ HA PASADO?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "relojH",
+          "x": 540,
+          "y": 640,
+          "r": 150,
+          "hora": 2,
+          "flecha": false,
+          "en": -1
+        },
+        {
+          "tipo": "tlH",
+          "y": 860,
+          "hitos": [
+            {
+              "e": "2018"
+            },
+            {
+              "e": "2019"
+            },
+            {
+              "e": "2025"
+            },
+            {
+              "e": "HOY"
+            }
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 7.9,
+      "fin": 11.82,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2018: CONSULTA DE LA COMISIÓN EUROPEA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F3.jpg",
+          "x": 510,
+          "y": 690,
+          "ancho": 900,
+          "alto": 290,
+          "foco": "60% 92%",
+          "zoom": [
+            1,
+            1.1
+          ],
+          "dur": 3.92,
+          "en": 0.25,
+          "credito": "Foto: Diego Delso · CC BY-SA 4.0 · Wikimedia Commons",
+          "notas": [
+            "Del 4 de julio al 16 de agosto de 2018"
+          ]
+        },
+        {
+          "tipo": "tlH",
+          "y": 860,
+          "hitos": [
+            {
+              "e": "2018",
+              "en": 0.2
+            },
+            {
+              "e": "2019"
+            },
+            {
+              "e": "2025"
+            },
+            {
+              "e": "HOY"
+            }
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 11.82,
+      "fin": 15.02,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "4,6 MILLONES DE RESPUESTAS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "sobresH",
+          "x": 280,
+          "y": 900,
+          "cifra": "4,6 M",
+          "xCifra": 720,
+          "yCifra": 780,
+          "cifraEn": 0.56,
+          "en": 0
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Comisión Europea, resultados preliminares (31-8-2018)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 15.02,
+      "fin": 18.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "84 %: DEJAR DE CAMBIAR LA HORA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barra84H",
+          "y": 600,
+          "crece": 0.16,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "De quienes respondieron · Fuente: Comisión Europea"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 18.42,
+      "fin": 22.26,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ALEMANIA: 3,79 % DE SU POBLACIÓN",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "paisesH",
+          "y": 600,
+          "alemaniaEn": 0.36,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Participación por país, en % de habitantes · Fuente: Comisión Europea"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 22.26,
+      "fin": 24.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ESPAÑA: 0,19 %",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "paisesH",
+          "y": 600,
+          "alemaniaEn": -1,
+          "espanaEn": 0.01999999999999999,
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Participación en % de habitantes · misma fuente"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 24.62,
+      "fin": 28.5,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "12-9-2018: PROPUESTA DE LEY",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "proponeH",
+          "x": 230,
+          "y": 680,
+          "sale": 1.2599999999999998,
+          "haciaX": 780,
+          "en": 0.1
+        },
+        {
+          "tipo": "tlH",
+          "y": 880,
+          "hitos": [
+            {
+              "e": "2018",
+              "ya": true
+            },
+            {
+              "e": "2019"
+            },
+            {
+              "e": "2025"
+            },
+            {
+              "e": "HOY"
+            }
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Directiva para acabar con el cambio estacional · COM(2018) 639"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 28.5,
+      "fin": 32.03,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "26-3-2019: 410 A FAVOR",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "x": 510,
+          "y": 640,
+          "ancho": 900,
+          "alto": 280,
+          "foco": "50% 100%",
+          "zoom": [
+            1.25,
+            1.4
+          ],
+          "dur": 3.53,
+          "en": 0.2,
+          "credito": "Foto: David Iliff · CC BY-SA 3.0 · Wikimedia Commons · Hemiciclo de Estrasburgo (foto de 2014)",
+          "notas": [
+            "410 a favor · 192 en contra · 51 abstenciones · Fuente: Parlamento Europeo"
+          ]
+        },
+        {
+          "tipo": "votosH",
+          "x": 540,
+          "y": 1100,
+          "R": 300,
+          "llenaEn": 1.2,
+          "dur": 2,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 32.03,
+      "fin": 35.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CADA PAÍS ELIGE: VERANO O INVIERNO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "partidoH",
+          "x": 540,
+          "y": 740,
+          "r": 190,
+          "partidoEn": 0.48999999999999994,
+          "yEt": 1010,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Último cambio previsto: 2021"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 35.7,
+      "fin": 39.74,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "FALTA OTRO SÍ: EL DEL CONSEJO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillasH",
+          "y": 560,
+          "checkEn": 0.3,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 39.74,
+      "fin": 42.26,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CONSEJO = LOS 27 GOBIERNOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F2.jpg",
+          "x": 510,
+          "y": 650,
+          "ancho": 900,
+          "alto": 280,
+          "foco": "50% 15%",
+          "zoom": [
+            1,
+            1.1
+          ],
+          "dur": 2.52,
+          "en": 0.2,
+          "credito": "Foto: Guy Delsaut · CC BY-SA 4.0 · Wikimedia Commons · Edificio Europa, sede del Consejo (2017)"
+        },
+        {
+          "tipo": "mesaH",
+          "x": 540,
+          "y": 990,
+          "r": 75,
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 42.26,
+      "fin": 43.74,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ATASCADO DESDE 2019",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillasH",
+          "y": 560,
+          "parada": true,
+          "checkEn": -1,
+          "en": -1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "relojArena",
+          "x": 820,
+          "y": 1010,
+          "tamano": 170,
+          "en": 0.5,
+          "animEn": 0.6
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Consejo de la UE, nota 10045/26"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 43.74,
+      "fin": 46.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MOTIVO 1: PEDÍAN MÁS ESTUDIOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "carpetaH",
+          "x": 540,
+          "y": 690,
+          "tam": 270,
+          "en": 0.2
+        },
+        {
+          "tipo": "mesaH",
+          "x": 540,
+          "y": 990,
+          "r": 70,
+          "ilumina": 1.42,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "La mayoría apoyaba quitarlo; algunos, como Portugal y Grecia, preferían mantener el cambio (Graz, 2018) · Fuentes: Consejo de la UE, informe 14224/18; Presidencia austriaca"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 46.9,
+      "fin": 50.14,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MOTIVO 2: EVITAR UN MOSAICO DE HORARIOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mosaicoH",
+          "x": 540,
+          "y": 810,
+          "w": 800,
+          "mosaicoEn": 1.7,
+          "aspaEn": 2.66,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "'Time zone patchworks' en el mercado interior · Consejo de la UE, 14224/18"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 50.14,
+      "fin": 53.74,
+      "componentes": [
+        {
+          "tipo": "ejemploH",
+          "y": 345,
+          "en": 0
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO: FRANCIA VERANO, ESPAÑA INVIERNO",
+          "y": 440,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaH",
+          "paises": [
+            "fr",
+            "es"
+          ],
+          "x": 540,
+          "y": 880,
+          "k": 31,
+          "relojes": true,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 53.74,
+      "fin": 56.62,
+      "componentes": [
+        {
+          "tipo": "ejemploH",
+          "y": 345,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "UNA HORA DE DIFERENCIA EN LA FRONTERA",
+          "y": 440,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "fronteraH",
+          "dy": 90,
+          "dur": 1.48,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 56.62,
+      "fin": 61.06,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2025: PROPUESTA DE PRUEBA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 540,
+          "y": 700,
+          "w": 300,
+          "hojas": [
+            "2025"
+          ],
+          "en": 0.15
+        },
+        {
+          "tipo": "tlH",
+          "y": 880,
+          "hitos": [
+            {
+              "e": "2018",
+              "ya": true
+            },
+            {
+              "e": "2019",
+              "ya": true
+            },
+            {
+              "e": "2025",
+              "en": 0.3
+            },
+            {
+              "e": "HOY"
+            }
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Presidencia polaca del Consejo de la UE"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 61.06,
+      "fin": 64.38,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2 AÑOS CON HORARIO DE VERANO FIJO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 330,
+          "y": 810,
+          "w": 250,
+          "hojas": [
+            "AÑO 1",
+            "AÑO 2"
+          ],
+          "sol": true,
+          "en": 0.15
+        },
+        {
+          "tipo": "relojH",
+          "x": 810,
+          "y": 810,
+          "r": 115,
+          "hora": 3,
+          "flecha": false,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Prueba en toda la UE · Fuente: Consejo de la UE, nota 10045/26"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 64.38,
+      "fin": 66.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LOS GOBIERNOS: MÁS ANÁLISIS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mesaH",
+          "x": 540,
+          "y": 810,
+          "r": 125,
+          "en": 0.1
+        },
+        {
+          "tipo": "carpetaH",
+          "x": 540,
+          "y": 810,
+          "tam": 190,
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 66.62,
+      "fin": 70.14,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "GOBIERNO DE ESPAÑA: ACABAR CON EL CAMBIO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaH",
+          "paises": [
+            "es"
+          ],
+          "x": 290,
+          "y": 740,
+          "k": 36,
+          "etiquetaEs": "Gobierno de España",
+          "en": 0.1
+        },
+        {
+          "tipo": "flechaH",
+          "x1": 480,
+          "y1": 720,
+          "x2": 625,
+          "y2": 720,
+          "en": 1.74
+        },
+        {
+          "tipo": "mesaH",
+          "x": 800,
+          "y": 720,
+          "r": 85,
+          "en": 0.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "20-10-2025 · Lo planteó en el Consejo de Energía de la UE"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 70.14,
+      "fin": 73.85,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SÁNCHEZ: EL AHORRO YA NO LO JUSTIFICA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaBustoH",
+          "y": 530,
+          "l1": "Pedro Sánchez ·",
+          "l2": "presidente del",
+          "l3": "Gobierno",
+          "en": 0.1
+        },
+        {
+          "tipo": "energiaH",
+          "x": 540,
+          "y": 990,
+          "en": 0.9799999999999999
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Pedro Sánchez, presidente del Gobierno (20-10-2025) · No eligió entre verano e invierno · Fuente: La Moncloa"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 73.85,
+      "fin": 74.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Y HOY?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tlH",
+          "y": 640,
+          "hitos": [
+            {
+              "e": "2018",
+              "ya": true
+            },
+            {
+              "e": "2019",
+              "ya": true
+            },
+            {
+              "e": "2025",
+              "ya": true
+            },
+            {
+              "e": "HOY",
+              "en": 0.3
+            }
+          ],
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 74.62,
+      "fin": 76.97,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CONSEJO: SIN POSTURA COMÚN",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillasH",
+          "y": 560,
+          "parada": false,
+          "checkEn": -1,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "A fecha de 2026-10-22 · Fuente: Parlamento Europeo, Observatorio Legislativo"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 76.97,
+      "fin": 77.94,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿LO CURIOSO?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "tarjetas",
+          "x": 540,
+          "y": 780,
+          "tamano": 380,
+          "en": 0.1,
+          "animEn": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 77.94,
+      "fin": 81.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CALENDARIO DE CAMBIOS: HASTA 2031",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 300,
+          "y": 760,
+          "w": 300,
+          "hojas": [
+            "2027"
+          ],
+          "anios": [
+            {
+              "t": 0.3,
+              "txt": "2027"
+            },
+            {
+              "t": 0.95,
+              "txt": "2028"
+            },
+            {
+              "t": 1.6,
+              "txt": "2029"
+            },
+            {
+              "t": 2.25,
+              "txt": "2030"
+            },
+            {
+              "t": 2.71,
+              "txt": "2031"
+            }
+          ],
+          "chips": true,
+          "en": 0.1
+        },
+        {
+          "tipo": "foto",
+          "src": "F3.jpg",
+          "x": 770,
+          "y": 760,
+          "ancho": 340,
+          "alto": 420,
+          "foco": "75% 93%",
+          "zoom": [
+            1,
+            1.12
+          ],
+          "dur": 3.72,
+          "en": 0.3,
+          "credito": "Foto: Diego Delso · CC BY-SA 4.0 · Wikimedia Commons",
+          "notas": [
+            "Diario Oficial de la UE, C/2026/1660 (18-3-2026)"
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 81.66,
+      "fin": 85.05,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "TRÁMITE OBLIGATORIO CADA 5 AÑOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 300,
+          "y": 760,
+          "w": 300,
+          "hojas": [
+            "2031"
+          ],
+          "anios": [
+            {
+              "t": -1,
+              "txt": "2031"
+            }
+          ],
+          "chips": true,
+          "cierraEn": 0.52,
+          "en": -1
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "TRÁMITE"
+          ],
+          "x": 540,
+          "y": 880,
+          "tamano": 96,
+          "angulo": -4,
+          "fondo": "#8D99AE",
+          "en": 1.02
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Directiva 2000/84/CE, art. 4"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 85.05,
+      "fin": 88.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ESTUDIO DE LA COMISIÓN: FINALES DE 2026",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mesaH",
+          "x": 790,
+          "y": 700,
+          "r": 80,
+          "en": 0.1
+        },
+        {
+          "tipo": "carpetaH",
+          "x": 250,
+          "y": 700,
+          "tam": 220,
+          "a": {
+            "x": 790,
+            "y": 700,
+            "en": 1.35,
+            "dur": 2
+          },
+          "en": 0.2
+        },
+        {
+          "tipo": "tlH",
+          "y": 860,
+          "hitos": [
+            {
+              "e": "2018",
+              "ya": true
+            },
+            {
+              "e": "2019",
+              "ya": true
+            },
+            {
+              "e": "2025",
+              "ya": true
+            },
+            {
+              "e": "HOY",
+              "ya": true
+            }
+          ],
+          "previsto": 1.95,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Lanzado en febrero de 2026 · Verano o invierno fijos · Fuente: Consejo de la UE, nota 10045/26"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 88.62,
+      "fin": 91.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DOMINGO 25: LAS 3 SERÁN LAS 2",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "relojH",
+          "x": 260,
+          "y": 700,
+          "r": 150,
+          "hora": 3,
+          "salto": 2.0999999999999996,
+          "en": 0.1
+        },
+        {
+          "tipo": "foto",
+          "src": "F4.jpg",
+          "x": 740,
+          "y": 690,
+          "ancho": 420,
+          "alto": 340,
+          "foco": "50% 62%",
+          "zoom": [
+            1,
+            1.12
+          ],
+          "dur": 3.28,
+          "en": 0.25,
+          "credito": "Foto: Tamorlan · CC BY-SA 3.0 · Wikimedia Commons",
+          "notas": [
+            "Fuente: BOE, Orden PCM/186/2022"
+          ]
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 540,
+          "y": 1010,
+          "tamano": 200,
+          "mes": "OCT",
+          "dia": "25",
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 91.9,
+      "fin": 94.5,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CANARIAS: A LAS 2, SERÁ LA 1",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "canariasH",
+          "x": 290,
+          "y": 760,
+          "en": 0.1
+        },
+        {
+          "tipo": "relojH",
+          "x": 770,
+          "y": 760,
+          "r": 125,
+          "hora": 2,
+          "salto": 1.52,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: BOE, Orden PCM/186/2022"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 94.5,
+      "fin": 99.66,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿VERANO O INVIERNO?",
+          "tamano": 88,
+          "yGuardalo": 1200,
+          "yFuentes": 1310,
+          "pulso": true
+        },
+        {
+          "tipo": "partidoH",
+          "x": 540,
+          "y": 920,
+          "r": 150,
+          "partidoEn": 0.5,
+          "yEt": 1130,
+          "en": 0.2
+        }
+      ]
+    }
+  ]
+}

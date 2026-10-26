@@ -1,0 +1,1448 @@
+{
+  "palabras": [
+    {
+      "t": "El",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "Parlamento",
+      "inicio": 0.24,
+      "fin": 0.56
+    },
+    {
+      "t": "Europeo",
+      "inicio": 0.64,
+      "fin": 1.04
+    },
+    {
+      "t": "votó",
+      "inicio": 1.12,
+      "fin": 1.44
+    },
+    {
+      "t": "quitar",
+      "inicio": 1.48,
+      "fin": 1.76
+    },
+    {
+      "t": "el",
+      "inicio": 1.8,
+      "fin": 1.84
+    },
+    {
+      "t": "cambio",
+      "inicio": 1.92,
+      "fin": 2.16
+    },
+    {
+      "t": "de",
+      "inicio": 2.24,
+      "fin": 2.32
+    },
+    {
+      "t": "hora",
+      "inicio": 2.4,
+      "fin": 2.48
+    },
+    {
+      "t": "en",
+      "inicio": 2.52,
+      "fin": 2.56
+    },
+    {
+      "t": "dos",
+      "inicio": 2.64,
+      "fin": 2.72
+    },
+    {
+      "t": "mil",
+      "inicio": 2.8,
+      "fin": 2.88
+    },
+    {
+      "t": "diecinueve.",
+      "inicio": 2.96,
+      "fin": 3.84
+    },
+    {
+      "t": "Y",
+      "inicio": 3.88,
+      "fin": 3.92
+    },
+    {
+      "t": "este",
+      "inicio": 4.04,
+      "fin": 4.16
+    },
+    {
+      "t": "domingo",
+      "inicio": 4.24,
+      "fin": 4.64
+    },
+    {
+      "t": "volvemos",
+      "inicio": 4.8,
+      "fin": 5.28
+    },
+    {
+      "t": "a",
+      "inicio": 5.36,
+      "fin": 5.44
+    },
+    {
+      "t": "retrasar",
+      "inicio": 5.52,
+      "fin": 5.92
+    },
+    {
+      "t": "el",
+      "inicio": 5.96,
+      "fin": 6
+    },
+    {
+      "t": "reloj.",
+      "inicio": 6.08,
+      "fin": 6.48
+    },
+    {
+      "t": "¿Qué",
+      "inicio": 6.88,
+      "fin": 6.96
+    },
+    {
+      "t": "ha",
+      "inicio": 7,
+      "fin": 7.04
+    },
+    {
+      "t": "pasado?",
+      "inicio": 7.12,
+      "fin": 7.52
+    },
+    {
+      "t": "En",
+      "inicio": 8,
+      "fin": 8.08
+    },
+    {
+      "t": "dos",
+      "inicio": 8.12,
+      "fin": 8.16
+    },
+    {
+      "t": "mil",
+      "inicio": 8.24,
+      "fin": 8.32
+    },
+    {
+      "t": "dieciocho,",
+      "inicio": 8.4,
+      "fin": 9.04
+    },
+    {
+      "t": "la",
+      "inicio": 9.08,
+      "fin": 9.12
+    },
+    {
+      "t": "Comisión",
+      "inicio": 9.2,
+      "fin": 9.6
+    },
+    {
+      "t": "Europea",
+      "inicio": 9.68,
+      "fin": 10.08
+    },
+    {
+      "t": "hizo",
+      "inicio": 10.24,
+      "fin": 10.48
+    },
+    {
+      "t": "una",
+      "inicio": 10.56,
+      "fin": 10.64
+    },
+    {
+      "t": "consulta",
+      "inicio": 10.72,
+      "fin": 11.12
+    },
+    {
+      "t": "pública.",
+      "inicio": 11.2,
+      "fin": 11.76
+    },
+    {
+      "t": "Llegaron",
+      "inicio": 11.92,
+      "fin": 12.4
+    },
+    {
+      "t": "cuatro",
+      "inicio": 12.48,
+      "fin": 12.72
+    },
+    {
+      "t": "millones",
+      "inicio": 12.8,
+      "fin": 13.12
+    },
+    {
+      "t": "seiscientas",
+      "inicio": 13.28,
+      "fin": 13.84
+    },
+    {
+      "t": "mil",
+      "inicio": 13.92,
+      "fin": 14.08
+    },
+    {
+      "t": "respuestas.",
+      "inicio": 14.2,
+      "fin": 14.8
+    },
+    {
+      "t": "El",
+      "inicio": 15.12,
+      "fin": 15.2
+    },
+    {
+      "t": "ochenta",
+      "inicio": 15.28,
+      "fin": 15.52
+    },
+    {
+      "t": "y",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "t": "cuatro",
+      "inicio": 15.72,
+      "fin": 15.84
+    },
+    {
+      "t": "por",
+      "inicio": 15.92,
+      "fin": 16.08
+    },
+    {
+      "t": "ciento",
+      "inicio": 16.16,
+      "fin": 16.4
+    },
+    {
+      "t": "quería",
+      "inicio": 16.64,
+      "fin": 16.96
+    },
+    {
+      "t": "dejar",
+      "inicio": 17.04,
+      "fin": 17.28
+    },
+    {
+      "t": "de",
+      "inicio": 17.32,
+      "fin": 17.36
+    },
+    {
+      "t": "cambiar",
+      "inicio": 17.44,
+      "fin": 17.68
+    },
+    {
+      "t": "la",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "t": "hora.",
+      "inicio": 17.92,
+      "fin": 18.48
+    },
+    {
+      "t": "Pero",
+      "inicio": 18.52,
+      "fin": 18.72
+    },
+    {
+      "t": "en",
+      "inicio": 18.76,
+      "fin": 18.8
+    },
+    {
+      "t": "Alemania",
+      "inicio": 18.88,
+      "fin": 19.36
+    },
+    {
+      "t": "respondió",
+      "inicio": 19.44,
+      "fin": 19.92
+    },
+    {
+      "t": "casi",
+      "inicio": 20,
+      "fin": 20.24
+    },
+    {
+      "t": "un",
+      "inicio": 20.32,
+      "fin": 20.48
+    },
+    {
+      "t": "cuatro",
+      "inicio": 20.52,
+      "fin": 20.72
+    },
+    {
+      "t": "por",
+      "inicio": 20.8,
+      "fin": 20.96
+    },
+    {
+      "t": "ciento",
+      "inicio": 21.04,
+      "fin": 21.2
+    },
+    {
+      "t": "de",
+      "inicio": 21.28,
+      "fin": 21.36
+    },
+    {
+      "t": "la",
+      "inicio": 21.4,
+      "fin": 21.44
+    },
+    {
+      "t": "población.",
+      "inicio": 21.52,
+      "fin": 22.32
+    },
+    {
+      "t": "En",
+      "inicio": 22.36,
+      "fin": 22.4
+    },
+    {
+      "t": "España,",
+      "inicio": 22.48,
+      "fin": 23.12
+    },
+    {
+      "t": "el",
+      "inicio": 23.2,
+      "fin": 23.28
+    },
+    {
+      "t": "cero",
+      "inicio": 23.44,
+      "fin": 23.52
+    },
+    {
+      "t": "coma",
+      "inicio": 23.68,
+      "fin": 23.84
+    },
+    {
+      "t": "dos.",
+      "inicio": 23.92,
+      "fin": 24.64
+    },
+    {
+      "t": "Ese",
+      "inicio": 24.72,
+      "fin": 24.88
+    },
+    {
+      "t": "mismo",
+      "inicio": 24.92,
+      "fin": 25.12
+    },
+    {
+      "t": "año,",
+      "inicio": 25.2,
+      "fin": 25.6
+    },
+    {
+      "t": "la",
+      "inicio": 25.64,
+      "fin": 25.68
+    },
+    {
+      "t": "Comisión",
+      "inicio": 25.76,
+      "fin": 26.16
+    },
+    {
+      "t": "propuso",
+      "inicio": 26.28,
+      "fin": 26.56
+    },
+    {
+      "t": "una",
+      "inicio": 26.64,
+      "fin": 26.8
+    },
+    {
+      "t": "ley",
+      "inicio": 26.88,
+      "fin": 26.96
+    },
+    {
+      "t": "para",
+      "inicio": 27.04,
+      "fin": 27.2
+    },
+    {
+      "t": "acabar",
+      "inicio": 27.28,
+      "fin": 27.52
+    },
+    {
+      "t": "con",
+      "inicio": 27.6,
+      "fin": 27.68
+    },
+    {
+      "t": "el",
+      "inicio": 27.76,
+      "fin": 27.84
+    },
+    {
+      "t": "cambio.",
+      "inicio": 27.92,
+      "fin": 28.56
+    },
+    {
+      "t": "El",
+      "inicio": 28.6,
+      "fin": 28.64
+    },
+    {
+      "t": "Parlamento",
+      "inicio": 28.72,
+      "fin": 29.2
+    },
+    {
+      "t": "la",
+      "inicio": 29.28,
+      "fin": 29.36
+    },
+    {
+      "t": "apoyó",
+      "inicio": 29.44,
+      "fin": 29.76
+    },
+    {
+      "t": "con",
+      "inicio": 29.84,
+      "fin": 29.92
+    },
+    {
+      "t": "cuatrocientos",
+      "inicio": 30,
+      "fin": 30.64
+    },
+    {
+      "t": "diez",
+      "inicio": 30.72,
+      "fin": 30.92
+    },
+    {
+      "t": "votos",
+      "inicio": 30.96,
+      "fin": 31.28
+    },
+    {
+      "t": "a",
+      "inicio": 31.32,
+      "fin": 31.36
+    },
+    {
+      "t": "favor.",
+      "inicio": 31.52,
+      "fin": 32.08
+    },
+    {
+      "t": "Cada",
+      "inicio": 32.133,
+      "fin": 32.24
+    },
+    {
+      "t": "país",
+      "inicio": 32.32,
+      "fin": 32.64
+    },
+    {
+      "t": "elegiría",
+      "inicio": 32.72,
+      "fin": 33.2
+    },
+    {
+      "t": "quedarse",
+      "inicio": 33.28,
+      "fin": 33.68
+    },
+    {
+      "t": "en",
+      "inicio": 33.72,
+      "fin": 33.76
+    },
+    {
+      "t": "horario",
+      "inicio": 33.84,
+      "fin": 34.16
+    },
+    {
+      "t": "de",
+      "inicio": 34.2,
+      "fin": 34.24
+    },
+    {
+      "t": "verano",
+      "inicio": 34.32,
+      "fin": 34.64
+    },
+    {
+      "t": "o",
+      "inicio": 34.8,
+      "fin": 34.88
+    },
+    {
+      "t": "de",
+      "inicio": 34.92,
+      "fin": 34.96
+    },
+    {
+      "t": "invierno.",
+      "inicio": 35.04,
+      "fin": 35.76
+    },
+    {
+      "t": "Pero",
+      "inicio": 35.8,
+      "fin": 36
+    },
+    {
+      "t": "una",
+      "inicio": 36.16,
+      "fin": 36.32
+    },
+    {
+      "t": "ley",
+      "inicio": 36.4,
+      "fin": 36.56
+    },
+    {
+      "t": "europea",
+      "inicio": 36.64,
+      "fin": 37.12
+    },
+    {
+      "t": "necesita",
+      "inicio": 37.2,
+      "fin": 37.68
+    },
+    {
+      "t": "otro",
+      "inicio": 37.84,
+      "fin": 38.08
+    },
+    {
+      "t": "sí:",
+      "inicio": 38.16,
+      "fin": 38.64
+    },
+    {
+      "t": "el",
+      "inicio": 38.72,
+      "fin": 38.8
+    },
+    {
+      "t": "del",
+      "inicio": 38.88,
+      "fin": 38.96
+    },
+    {
+      "t": "Consejo.",
+      "inicio": 39.08,
+      "fin": 39.76
+    },
+    {
+      "t": "Es",
+      "inicio": 39.84,
+      "fin": 39.92
+    },
+    {
+      "t": "decir,",
+      "inicio": 40,
+      "fin": 40.4
+    },
+    {
+      "t": "los",
+      "inicio": 40.48,
+      "fin": 40.56
+    },
+    {
+      "t": "gobiernos",
+      "inicio": 40.64,
+      "fin": 41.12
+    },
+    {
+      "t": "de",
+      "inicio": 41.16,
+      "fin": 41.2
+    },
+    {
+      "t": "los",
+      "inicio": 41.24,
+      "fin": 41.28
+    },
+    {
+      "t": "veintisiete.",
+      "inicio": 41.36,
+      "fin": 42.32
+    },
+    {
+      "t": "Y",
+      "inicio": 42.36,
+      "fin": 42.4
+    },
+    {
+      "t": "ahí",
+      "inicio": 42.48,
+      "fin": 42.64
+    },
+    {
+      "t": "se",
+      "inicio": 42.88,
+      "fin": 42.96
+    },
+    {
+      "t": "atascó.",
+      "inicio": 43.04,
+      "fin": 43.76
+    },
+    {
+      "t": "Varios",
+      "inicio": 43.84,
+      "fin": 44.08
+    },
+    {
+      "t": "gobiernos",
+      "inicio": 44.16,
+      "fin": 44.64
+    },
+    {
+      "t": "pedían",
+      "inicio": 44.72,
+      "fin": 45.12
+    },
+    {
+      "t": "más",
+      "inicio": 45.16,
+      "fin": 45.28
+    },
+    {
+      "t": "estudios",
+      "inicio": 45.36,
+      "fin": 45.84
+    },
+    {
+      "t": "antes",
+      "inicio": 45.96,
+      "fin": 46.08
+    },
+    {
+      "t": "de",
+      "inicio": 46.16,
+      "fin": 46.2
+    },
+    {
+      "t": "decidir.",
+      "inicio": 46.24,
+      "fin": 46.96
+    },
+    {
+      "t": "Y",
+      "inicio": 47,
+      "fin": 47.04
+    },
+    {
+      "t": "todos",
+      "inicio": 47.2,
+      "fin": 47.52
+    },
+    {
+      "t": "insistían",
+      "inicio": 47.6,
+      "fin": 48.08
+    },
+    {
+      "t": "en",
+      "inicio": 48.16,
+      "fin": 48.24
+    },
+    {
+      "t": "evitar",
+      "inicio": 48.28,
+      "fin": 48.56
+    },
+    {
+      "t": "un",
+      "inicio": 48.64,
+      "fin": 48.72
+    },
+    {
+      "t": "mosaico",
+      "inicio": 48.8,
+      "fin": 49.2
+    },
+    {
+      "t": "de",
+      "inicio": 49.28,
+      "fin": 49.32
+    },
+    {
+      "t": "horarios.",
+      "inicio": 49.36,
+      "fin": 50.16
+    },
+    {
+      "t": "Imagina",
+      "inicio": 50.24,
+      "fin": 50.56
+    },
+    {
+      "t": "Francia",
+      "inicio": 50.72,
+      "fin": 51.12
+    },
+    {
+      "t": "en",
+      "inicio": 51.16,
+      "fin": 51.2
+    },
+    {
+      "t": "horario",
+      "inicio": 51.28,
+      "fin": 51.52
+    },
+    {
+      "t": "de",
+      "inicio": 51.56,
+      "fin": 51.6
+    },
+    {
+      "t": "verano",
+      "inicio": 51.68,
+      "fin": 52
+    },
+    {
+      "t": "y",
+      "inicio": 52.16,
+      "fin": 52.24
+    },
+    {
+      "t": "España",
+      "inicio": 52.36,
+      "fin": 52.72
+    },
+    {
+      "t": "en",
+      "inicio": 52.76,
+      "fin": 52.8
+    },
+    {
+      "t": "el",
+      "inicio": 52.84,
+      "fin": 52.88
+    },
+    {
+      "t": "de",
+      "inicio": 52.92,
+      "fin": 52.96
+    },
+    {
+      "t": "invierno.",
+      "inicio": 53.04,
+      "fin": 53.76
+    },
+    {
+      "t": "Una",
+      "inicio": 53.84,
+      "fin": 53.92
+    },
+    {
+      "t": "hora",
+      "inicio": 54,
+      "fin": 54.16
+    },
+    {
+      "t": "de",
+      "inicio": 54.2,
+      "fin": 54.24
+    },
+    {
+      "t": "diferencia",
+      "inicio": 54.32,
+      "fin": 54.88
+    },
+    {
+      "t": "al",
+      "inicio": 54.96,
+      "fin": 55.12
+    },
+    {
+      "t": "cruzar",
+      "inicio": 55.16,
+      "fin": 55.44
+    },
+    {
+      "t": "los",
+      "inicio": 55.52,
+      "fin": 55.6
+    },
+    {
+      "t": "Pirineos.",
+      "inicio": 55.68,
+      "fin": 56.64
+    },
+    {
+      "t": "En",
+      "inicio": 56.72,
+      "fin": 56.8
+    },
+    {
+      "t": "dos",
+      "inicio": 56.84,
+      "fin": 56.88
+    },
+    {
+      "t": "mil",
+      "inicio": 56.96,
+      "fin": 57.04
+    },
+    {
+      "t": "veinticinco,",
+      "inicio": 57.12,
+      "fin": 57.84
+    },
+    {
+      "t": "la",
+      "inicio": 57.88,
+      "fin": 57.92
+    },
+    {
+      "t": "presidencia",
+      "inicio": 58,
+      "fin": 58.48
+    },
+    {
+      "t": "polaca",
+      "inicio": 58.56,
+      "fin": 58.88
+    },
+    {
+      "t": "del",
+      "inicio": 58.92,
+      "fin": 58.96
+    },
+    {
+      "t": "Consejo",
+      "inicio": 59.04,
+      "fin": 59.52
+    },
+    {
+      "t": "propuso",
+      "inicio": 59.6,
+      "fin": 60
+    },
+    {
+      "t": "una",
+      "inicio": 60.08,
+      "fin": 60.24
+    },
+    {
+      "t": "prueba.",
+      "inicio": 60.32,
+      "fin": 61.04
+    },
+    {
+      "t": "Dos",
+      "inicio": 61.16,
+      "fin": 61.28
+    },
+    {
+      "t": "años",
+      "inicio": 61.36,
+      "fin": 61.6
+    },
+    {
+      "t": "con",
+      "inicio": 61.68,
+      "fin": 61.84
+    },
+    {
+      "t": "horario",
+      "inicio": 61.88,
+      "fin": 62.16
+    },
+    {
+      "t": "de",
+      "inicio": 62.2,
+      "fin": 62.24
+    },
+    {
+      "t": "verano",
+      "inicio": 62.32,
+      "fin": 62.56
+    },
+    {
+      "t": "fijo",
+      "inicio": 62.72,
+      "fin": 63.04
+    },
+    {
+      "t": "en",
+      "inicio": 63.12,
+      "fin": 63.36
+    },
+    {
+      "t": "toda",
+      "inicio": 63.44,
+      "fin": 63.6
+    },
+    {
+      "t": "la",
+      "inicio": 63.68,
+      "fin": 63.72
+    },
+    {
+      "t": "Unión.",
+      "inicio": 63.76,
+      "fin": 64.4
+    },
+    {
+      "t": "Los",
+      "inicio": 64.48,
+      "fin": 64.56
+    },
+    {
+      "t": "gobiernos",
+      "inicio": 64.6,
+      "fin": 65.12
+    },
+    {
+      "t": "pidieron",
+      "inicio": 65.2,
+      "fin": 65.52
+    },
+    {
+      "t": "más",
+      "inicio": 65.56,
+      "fin": 65.68
+    },
+    {
+      "t": "análisis.",
+      "inicio": 65.76,
+      "fin": 66.64
+    },
+    {
+      "t": "En",
+      "inicio": 66.72,
+      "fin": 66.8
+    },
+    {
+      "t": "octubre",
+      "inicio": 66.88,
+      "fin": 67.2
+    },
+    {
+      "t": "de",
+      "inicio": 67.24,
+      "fin": 67.28
+    },
+    {
+      "t": "ese",
+      "inicio": 67.4,
+      "fin": 67.52
+    },
+    {
+      "t": "año,",
+      "inicio": 67.6,
+      "fin": 68
+    },
+    {
+      "t": "España",
+      "inicio": 68.12,
+      "fin": 68.48
+    },
+    {
+      "t": "pidió",
+      "inicio": 68.56,
+      "fin": 68.8
+    },
+    {
+      "t": "acabar",
+      "inicio": 68.88,
+      "fin": 69.2
+    },
+    {
+      "t": "con",
+      "inicio": 69.28,
+      "fin": 69.36
+    },
+    {
+      "t": "el",
+      "inicio": 69.4,
+      "fin": 69.44
+    },
+    {
+      "t": "cambio.",
+      "inicio": 69.52,
+      "fin": 70.16
+    },
+    {
+      "t": "Según",
+      "inicio": 70.24,
+      "fin": 70.4
+    },
+    {
+      "t": "Pedro",
+      "inicio": 70.48,
+      "fin": 70.72
+    },
+    {
+      "t": "Sánchez,",
+      "inicio": 70.76,
+      "fin": 71.28
+    },
+    {
+      "t": "el",
+      "inicio": 71.36,
+      "fin": 71.44
+    },
+    {
+      "t": "ahorro",
+      "inicio": 71.52,
+      "fin": 71.76
+    },
+    {
+      "t": "de",
+      "inicio": 71.8,
+      "fin": 71.84
+    },
+    {
+      "t": "energía",
+      "inicio": 71.92,
+      "fin": 72.4
+    },
+    {
+      "t": "ya",
+      "inicio": 72.56,
+      "fin": 72.64
+    },
+    {
+      "t": "no",
+      "inicio": 72.72,
+      "fin": 72.8
+    },
+    {
+      "t": "lo",
+      "inicio": 72.84,
+      "fin": 72.88
+    },
+    {
+      "t": "justifica.",
+      "inicio": 72.96,
+      "fin": 73.92
+    },
+    {
+      "t": "¿Y",
+      "inicio": 73.947,
+      "fin": 74
+    },
+    {
+      "t": "hoy?",
+      "inicio": 74.08,
+      "fin": 74.64
+    },
+    {
+      "t": "Los",
+      "inicio": 74.72,
+      "fin": 74.8
+    },
+    {
+      "t": "gobiernos",
+      "inicio": 74.853,
+      "fin": 75.36
+    },
+    {
+      "t": "siguen",
+      "inicio": 75.44,
+      "fin": 75.68
+    },
+    {
+      "t": "sin",
+      "inicio": 75.76,
+      "fin": 75.84
+    },
+    {
+      "t": "postura",
+      "inicio": 75.92,
+      "fin": 76.24
+    },
+    {
+      "t": "común.",
+      "inicio": 76.32,
+      "fin": 77.04
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 77.067,
+      "fin": 77.12
+    },
+    {
+      "t": "curioso?",
+      "inicio": 77.2,
+      "fin": 78
+    },
+    {
+      "t": "La",
+      "inicio": 78.04,
+      "fin": 78.08
+    },
+    {
+      "t": "Comisión",
+      "inicio": 78.16,
+      "fin": 78.56
+    },
+    {
+      "t": "ya",
+      "inicio": 78.72,
+      "fin": 78.8
+    },
+    {
+      "t": "publicó",
+      "inicio": 78.88,
+      "fin": 79.28
+    },
+    {
+      "t": "las",
+      "inicio": 79.36,
+      "fin": 79.44
+    },
+    {
+      "t": "fechas",
+      "inicio": 79.52,
+      "fin": 79.76
+    },
+    {
+      "t": "de",
+      "inicio": 79.8,
+      "fin": 79.84
+    },
+    {
+      "t": "cambio",
+      "inicio": 79.92,
+      "fin": 80.16
+    },
+    {
+      "t": "hasta",
+      "inicio": 80.2,
+      "fin": 80.4
+    },
+    {
+      "t": "dos",
+      "inicio": 80.48,
+      "fin": 80.56
+    },
+    {
+      "t": "mil",
+      "inicio": 80.64,
+      "fin": 80.72
+    },
+    {
+      "t": "treinta",
+      "inicio": 80.8,
+      "fin": 81.04
+    },
+    {
+      "t": "y",
+      "inicio": 81.12,
+      "fin": 81.2
+    },
+    {
+      "t": "uno.",
+      "inicio": 81.28,
+      "fin": 81.68
+    },
+    {
+      "t": "Es",
+      "inicio": 81.76,
+      "fin": 81.84
+    },
+    {
+      "t": "un",
+      "inicio": 81.88,
+      "fin": 81.92
+    },
+    {
+      "t": "trámite",
+      "inicio": 82,
+      "fin": 82.4
+    },
+    {
+      "t": "que",
+      "inicio": 82.48,
+      "fin": 82.56
+    },
+    {
+      "t": "la",
+      "inicio": 82.6,
+      "fin": 82.64
+    },
+    {
+      "t": "ley",
+      "inicio": 82.72,
+      "fin": 82.8
+    },
+    {
+      "t": "actual",
+      "inicio": 82.88,
+      "fin": 83.28
+    },
+    {
+      "t": "exige",
+      "inicio": 83.4,
+      "fin": 83.76
+    },
+    {
+      "t": "cada",
+      "inicio": 83.8,
+      "fin": 84
+    },
+    {
+      "t": "cinco",
+      "inicio": 84.08,
+      "fin": 84.32
+    },
+    {
+      "t": "años.",
+      "inicio": 84.4,
+      "fin": 85.12
+    },
+    {
+      "t": "Y",
+      "inicio": 85.147,
+      "fin": 85.173
+    },
+    {
+      "t": "el",
+      "inicio": 85.2,
+      "fin": 85.24
+    },
+    {
+      "t": "estudio",
+      "inicio": 85.28,
+      "fin": 85.6
+    },
+    {
+      "t": "de",
+      "inicio": 85.68,
+      "fin": 85.72
+    },
+    {
+      "t": "la",
+      "inicio": 85.76,
+      "fin": 85.8
+    },
+    {
+      "t": "Comisión",
+      "inicio": 85.84,
+      "fin": 86.32
+    },
+    {
+      "t": "se",
+      "inicio": 86.4,
+      "fin": 86.48
+    },
+    {
+      "t": "espera",
+      "inicio": 86.64,
+      "fin": 86.88
+    },
+    {
+      "t": "para",
+      "inicio": 87,
+      "fin": 87.12
+    },
+    {
+      "t": "finales",
+      "inicio": 87.2,
+      "fin": 87.6
+    },
+    {
+      "t": "de",
+      "inicio": 87.68,
+      "fin": 87.72
+    },
+    {
+      "t": "este",
+      "inicio": 87.76,
+      "fin": 88
+    },
+    {
+      "t": "año.",
+      "inicio": 88.08,
+      "fin": 88.64
+    },
+    {
+      "t": "Así",
+      "inicio": 88.72,
+      "fin": 88.88
+    },
+    {
+      "t": "que",
+      "inicio": 89,
+      "fin": 89.12
+    },
+    {
+      "t": "este",
+      "inicio": 89.24,
+      "fin": 89.36
+    },
+    {
+      "t": "domingo,",
+      "inicio": 89.44,
+      "fin": 90
+    },
+    {
+      "t": "a",
+      "inicio": 90.04,
+      "fin": 90.08
+    },
+    {
+      "t": "las",
+      "inicio": 90.16,
+      "fin": 90.24
+    },
+    {
+      "t": "tres,",
+      "inicio": 90.32,
+      "fin": 90.8
+    },
+    {
+      "t": "serán",
+      "inicio": 90.92,
+      "fin": 91.12
+    },
+    {
+      "t": "las",
+      "inicio": 91.2,
+      "fin": 91.28
+    },
+    {
+      "t": "dos.",
+      "inicio": 91.36,
+      "fin": 91.92
+    },
+    {
+      "t": "En",
+      "inicio": 92,
+      "fin": 92.08
+    },
+    {
+      "t": "Canarias,",
+      "inicio": 92.16,
+      "fin": 92.8
+    },
+    {
+      "t": "a",
+      "inicio": 92.84,
+      "fin": 92.88
+    },
+    {
+      "t": "las",
+      "inicio": 92.96,
+      "fin": 93.04
+    },
+    {
+      "t": "dos",
+      "inicio": 93.12,
+      "fin": 93.36
+    },
+    {
+      "t": "será",
+      "inicio": 93.52,
+      "fin": 93.76
+    },
+    {
+      "t": "la",
+      "inicio": 93.84,
+      "fin": 93.88
+    },
+    {
+      "t": "una.",
+      "inicio": 93.92,
+      "fin": 94.56
+    },
+    {
+      "t": "¿Tú",
+      "inicio": 94.6,
+      "fin": 94.72
+    },
+    {
+      "t": "con",
+      "inicio": 94.88,
+      "fin": 94.96
+    },
+    {
+      "t": "qué",
+      "inicio": 95.04,
+      "fin": 95.12
+    },
+    {
+      "t": "horario",
+      "inicio": 95.2,
+      "fin": 95.44
+    },
+    {
+      "t": "te",
+      "inicio": 95.52,
+      "fin": 95.6
+    },
+    {
+      "t": "quedarías:",
+      "inicio": 95.68,
+      "fin": 96.48
+    },
+    {
+      "t": "verano",
+      "inicio": 96.56,
+      "fin": 96.88
+    },
+    {
+      "t": "o",
+      "inicio": 97.04,
+      "fin": 97.12
+    },
+    {
+      "t": "invierno?",
+      "inicio": 97.2,
+      "fin": 97.84
+    }
+  ],
+  "duracion": 97.76,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE"
+}

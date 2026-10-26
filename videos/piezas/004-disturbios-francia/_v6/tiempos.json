@@ -1,0 +1,1413 @@
+{
+  "palabras": [
+    {
+      "t": "¿Te",
+      "inicio": 0,
+      "fin": 0.08
+    },
+    {
+      "t": "ha",
+      "inicio": 0.12,
+      "fin": 0.16
+    },
+    {
+      "t": "llegado",
+      "inicio": 0.24,
+      "fin": 0.48
+    },
+    {
+      "t": "un",
+      "inicio": 0.56,
+      "fin": 0.64
+    },
+    {
+      "t": "vídeo",
+      "inicio": 0.72,
+      "fin": 0.88
+    },
+    {
+      "t": "de",
+      "inicio": 0.96,
+      "fin": 1
+    },
+    {
+      "t": "estudiantes",
+      "inicio": 1.04,
+      "fin": 1.6
+    },
+    {
+      "t": "franceses",
+      "inicio": 1.64,
+      "fin": 2.24
+    },
+    {
+      "t": "saqueando",
+      "inicio": 2.32,
+      "fin": 2.8
+    },
+    {
+      "t": "una",
+      "inicio": 2.88,
+      "fin": 2.96
+    },
+    {
+      "t": "tienda",
+      "inicio": 3.04,
+      "fin": 3.28
+    },
+    {
+      "t": "Nike?",
+      "inicio": 3.36,
+      "fin": 4.16
+    },
+    {
+      "t": "Es",
+      "inicio": 4.24,
+      "fin": 4.32
+    },
+    {
+      "t": "de",
+      "inicio": 4.36,
+      "fin": 4.4
+    },
+    {
+      "t": "Los",
+      "inicio": 4.48,
+      "fin": 4.56
+    },
+    {
+      "t": "Ángeles,",
+      "inicio": 4.64,
+      "fin": 5.2
+    },
+    {
+      "t": "de",
+      "inicio": 5.24,
+      "fin": 5.28
+    },
+    {
+      "t": "dos",
+      "inicio": 5.36,
+      "fin": 5.44
+    },
+    {
+      "t": "mil",
+      "inicio": 5.52,
+      "fin": 5.6
+    },
+    {
+      "t": "veintitrés.",
+      "inicio": 5.64,
+      "fin": 6.56
+    },
+    {
+      "t": "Pero",
+      "inicio": 6.64,
+      "fin": 6.8
+    },
+    {
+      "t": "lo",
+      "inicio": 6.88,
+      "fin": 6.96
+    },
+    {
+      "t": "de",
+      "inicio": 7,
+      "fin": 7.04
+    },
+    {
+      "t": "Francia",
+      "inicio": 7.12,
+      "fin": 7.52
+    },
+    {
+      "t": "sí",
+      "inicio": 7.68,
+      "fin": 7.84
+    },
+    {
+      "t": "es",
+      "inicio": 7.92,
+      "fin": 8
+    },
+    {
+      "t": "real.",
+      "inicio": 8.16,
+      "fin": 8.64
+    },
+    {
+      "t": "El",
+      "inicio": 8.72,
+      "fin": 8.8
+    },
+    {
+      "t": "sábado,",
+      "inicio": 8.84,
+      "fin": 9.36
+    },
+    {
+      "t": "medio",
+      "inicio": 9.44,
+      "fin": 9.68
+    },
+    {
+      "t": "millón",
+      "inicio": 9.76,
+      "fin": 10
+    },
+    {
+      "t": "largo",
+      "inicio": 10.08,
+      "fin": 10.32
+    },
+    {
+      "t": "protestó,",
+      "inicio": 10.4,
+      "fin": 11.12
+    },
+    {
+      "t": "según",
+      "inicio": 11.2,
+      "fin": 11.36
+    },
+    {
+      "t": "Interior.",
+      "inicio": 11.44,
+      "fin": 12.16
+    },
+    {
+      "t": "Los",
+      "inicio": 12.24,
+      "fin": 12.32
+    },
+    {
+      "t": "organizadores",
+      "inicio": 12.44,
+      "fin": 13.04
+    },
+    {
+      "t": "dicen",
+      "inicio": 13.12,
+      "fin": 13.28
+    },
+    {
+      "t": "ochocientas",
+      "inicio": 13.44,
+      "fin": 14
+    },
+    {
+      "t": "mil.",
+      "inicio": 14.08,
+      "fin": 14.64
+    },
+    {
+      "t": "La",
+      "inicio": 14.68,
+      "fin": 14.72
+    },
+    {
+      "t": "mayoría",
+      "inicio": 14.8,
+      "fin": 15.2
+    },
+    {
+      "t": "marchó",
+      "inicio": 15.24,
+      "fin": 15.52
+    },
+    {
+      "t": "en",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "t": "paz.",
+      "inicio": 15.72,
+      "fin": 16.24
+    },
+    {
+      "t": "Pero",
+      "inicio": 16.32,
+      "fin": 16.48
+    },
+    {
+      "t": "hubo",
+      "inicio": 16.56,
+      "fin": 16.72
+    },
+    {
+      "t": "saqueos,",
+      "inicio": 16.8,
+      "fin": 17.44
+    },
+    {
+      "t": "y",
+      "inicio": 17.48,
+      "fin": 17.52
+    },
+    {
+      "t": "en",
+      "inicio": 17.6,
+      "fin": 17.68
+    },
+    {
+      "t": "Limoges",
+      "inicio": 17.8,
+      "fin": 18.16
+    },
+    {
+      "t": "ardió",
+      "inicio": 18.24,
+      "fin": 18.56
+    },
+    {
+      "t": "el",
+      "inicio": 18.64,
+      "fin": 18.72
+    },
+    {
+      "t": "ayuntamiento.",
+      "inicio": 18.76,
+      "fin": 19.76
+    },
+    {
+      "t": "Según",
+      "inicio": 19.84,
+      "fin": 20
+    },
+    {
+      "t": "Interior,",
+      "inicio": 20.24,
+      "fin": 20.64
+    },
+    {
+      "t": "casi",
+      "inicio": 20.72,
+      "fin": 20.88
+    },
+    {
+      "t": "dos",
+      "inicio": 20.96,
+      "fin": 21.12
+    },
+    {
+      "t": "mil",
+      "inicio": 21.2,
+      "fin": 21.28
+    },
+    {
+      "t": "cuatrocientos",
+      "inicio": 21.44,
+      "fin": 22
+    },
+    {
+      "t": "detenidos",
+      "inicio": 22.08,
+      "fin": 22.56
+    },
+    {
+      "t": "y",
+      "inicio": 22.72,
+      "fin": 22.8
+    },
+    {
+      "t": "casi",
+      "inicio": 22.88,
+      "fin": 23.12
+    },
+    {
+      "t": "mil",
+      "inicio": 23.28,
+      "fin": 23.44
+    },
+    {
+      "t": "agentes",
+      "inicio": 23.6,
+      "fin": 23.92
+    },
+    {
+      "t": "heridos.",
+      "inicio": 23.96,
+      "fin": 24.72
+    },
+    {
+      "t": "La",
+      "inicio": 24.76,
+      "fin": 24.8
+    },
+    {
+      "t": "chispa",
+      "inicio": 24.88,
+      "fin": 25.2
+    },
+    {
+      "t": "saltó",
+      "inicio": 25.28,
+      "fin": 25.547
+    },
+    {
+      "t": "en",
+      "inicio": 25.573,
+      "fin": 25.6
+    },
+    {
+      "t": "septiembre,",
+      "inicio": 25.68,
+      "fin": 26.32
+    },
+    {
+      "t": "en",
+      "inicio": 26.4,
+      "fin": 26.48
+    },
+    {
+      "t": "institutos",
+      "inicio": 26.56,
+      "fin": 27.04
+    },
+    {
+      "t": "de",
+      "inicio": 27.12,
+      "fin": 27.16
+    },
+    {
+      "t": "las",
+      "inicio": 27.2,
+      "fin": 27.28
+    },
+    {
+      "t": "afueras",
+      "inicio": 27.36,
+      "fin": 27.68
+    },
+    {
+      "t": "de",
+      "inicio": 27.72,
+      "fin": 27.76
+    },
+    {
+      "t": "París.",
+      "inicio": 27.84,
+      "fin": 28.48
+    },
+    {
+      "t": "Aulas",
+      "inicio": 28.52,
+      "fin": 28.88
+    },
+    {
+      "t": "de",
+      "inicio": 28.92,
+      "fin": 28.96
+    },
+    {
+      "t": "hasta",
+      "inicio": 29.04,
+      "fin": 29.2
+    },
+    {
+      "t": "treinta",
+      "inicio": 29.28,
+      "fin": 29.6
+    },
+    {
+      "t": "y",
+      "inicio": 29.68,
+      "fin": 29.76
+    },
+    {
+      "t": "cinco",
+      "inicio": 29.8,
+      "fin": 30
+    },
+    {
+      "t": "alumnos",
+      "inicio": 30.08,
+      "fin": 30.48
+    },
+    {
+      "t": "y",
+      "inicio": 30.56,
+      "fin": 30.64
+    },
+    {
+      "t": "falta",
+      "inicio": 30.8,
+      "fin": 31.04
+    },
+    {
+      "t": "de",
+      "inicio": 31.12,
+      "fin": 31.16
+    },
+    {
+      "t": "profesores.",
+      "inicio": 31.2,
+      "fin": 32.08
+    },
+    {
+      "t": "Con",
+      "inicio": 32.16,
+      "fin": 32.24
+    },
+    {
+      "t": "sindicatos",
+      "inicio": 32.28,
+      "fin": 32.88
+    },
+    {
+      "t": "y",
+      "inicio": 32.92,
+      "fin": 32.96
+    },
+    {
+      "t": "chalecos",
+      "inicio": 33.04,
+      "fin": 33.36
+    },
+    {
+      "t": "amarillos,",
+      "inicio": 33.48,
+      "fin": 34.08
+    },
+    {
+      "t": "la",
+      "inicio": 34.12,
+      "fin": 34.16
+    },
+    {
+      "t": "queja",
+      "inicio": 34.32,
+      "fin": 34.56
+    },
+    {
+      "t": "pasó",
+      "inicio": 34.64,
+      "fin": 34.88
+    },
+    {
+      "t": "a",
+      "inicio": 34.92,
+      "fin": 34.96
+    },
+    {
+      "t": "la",
+      "inicio": 35,
+      "fin": 35.04
+    },
+    {
+      "t": "cesta",
+      "inicio": 35.12,
+      "fin": 35.4
+    },
+    {
+      "t": "de",
+      "inicio": 35.44,
+      "fin": 35.48
+    },
+    {
+      "t": "la",
+      "inicio": 35.52,
+      "fin": 35.56
+    },
+    {
+      "t": "compra.",
+      "inicio": 35.6,
+      "fin": 36.24
+    },
+    {
+      "t": "La",
+      "inicio": 36.28,
+      "fin": 36.32
+    },
+    {
+      "t": "inflación",
+      "inicio": 36.36,
+      "fin": 36.88
+    },
+    {
+      "t": "ya",
+      "inicio": 36.96,
+      "fin": 37.04
+    },
+    {
+      "t": "va",
+      "inicio": 37.08,
+      "fin": 37.12
+    },
+    {
+      "t": "por",
+      "inicio": 37.2,
+      "fin": 37.28
+    },
+    {
+      "t": "el",
+      "inicio": 37.36,
+      "fin": 37.44
+    },
+    {
+      "t": "tres",
+      "inicio": 37.52,
+      "fin": 37.76
+    },
+    {
+      "t": "coma",
+      "inicio": 37.84,
+      "fin": 38
+    },
+    {
+      "t": "uno",
+      "inicio": 38.16,
+      "fin": 38.24
+    },
+    {
+      "t": "por",
+      "inicio": 38.32,
+      "fin": 38.48
+    },
+    {
+      "t": "ciento.",
+      "inicio": 38.587,
+      "fin": 39.12
+    },
+    {
+      "t": "¿La",
+      "inicio": 39.147,
+      "fin": 39.2
+    },
+    {
+      "t": "energía?",
+      "inicio": 39.32,
+      "fin": 39.92
+    },
+    {
+      "t": "Un",
+      "inicio": 40,
+      "fin": 40.08
+    },
+    {
+      "t": "veintiuno",
+      "inicio": 40.16,
+      "fin": 40.72
+    },
+    {
+      "t": "por",
+      "inicio": 40.8,
+      "fin": 40.96
+    },
+    {
+      "t": "ciento",
+      "inicio": 41.04,
+      "fin": 41.2
+    },
+    {
+      "t": "más",
+      "inicio": 41.36,
+      "fin": 41.52
+    },
+    {
+      "t": "cara.",
+      "inicio": 41.6,
+      "fin": 42.16
+    },
+    {
+      "t": "¿Y",
+      "inicio": 42.187,
+      "fin": 42.24
+    },
+    {
+      "t": "quién",
+      "inicio": 42.32,
+      "fin": 42.48
+    },
+    {
+      "t": "manda?",
+      "inicio": 42.64,
+      "fin": 43.12
+    },
+    {
+      "t": "Macron",
+      "inicio": 43.24,
+      "fin": 43.52
+    },
+    {
+      "t": "preside,",
+      "inicio": 43.6,
+      "fin": 44.16
+    },
+    {
+      "t": "pero",
+      "inicio": 44.2,
+      "fin": 44.32
+    },
+    {
+      "t": "en",
+      "inicio": 44.36,
+      "fin": 44.4
+    },
+    {
+      "t": "primavera",
+      "inicio": 44.52,
+      "fin": 44.88
+    },
+    {
+      "t": "se",
+      "inicio": 44.96,
+      "fin": 45.04
+    },
+    {
+      "t": "elige",
+      "inicio": 45.12,
+      "fin": 45.36
+    },
+    {
+      "t": "a",
+      "inicio": 45.4,
+      "fin": 45.44
+    },
+    {
+      "t": "su",
+      "inicio": 45.48,
+      "fin": 45.52
+    },
+    {
+      "t": "sucesor.",
+      "inicio": 45.6,
+      "fin": 46.32
+    },
+    {
+      "t": "Y",
+      "inicio": 46.347,
+      "fin": 46.373
+    },
+    {
+      "t": "su",
+      "inicio": 46.4,
+      "fin": 46.48
+    },
+    {
+      "t": "primer",
+      "inicio": 46.56,
+      "fin": 46.8
+    },
+    {
+      "t": "ministro,",
+      "inicio": 46.88,
+      "fin": 47.36
+    },
+    {
+      "t": "Lecornu,",
+      "inicio": 47.4,
+      "fin": 48.08
+    },
+    {
+      "t": "no",
+      "inicio": 48.16,
+      "fin": 48.32
+    },
+    {
+      "t": "tiene",
+      "inicio": 48.4,
+      "fin": 48.64
+    },
+    {
+      "t": "mayoría",
+      "inicio": 48.72,
+      "fin": 49.04
+    },
+    {
+      "t": "en",
+      "inicio": 49.08,
+      "fin": 49.12
+    },
+    {
+      "t": "la",
+      "inicio": 49.16,
+      "fin": 49.2
+    },
+    {
+      "t": "Asamblea.",
+      "inicio": 49.24,
+      "fin": 50
+    },
+    {
+      "t": "Su",
+      "inicio": 50.04,
+      "fin": 50.08
+    },
+    {
+      "t": "presupuesto",
+      "inicio": 50.16,
+      "fin": 50.72
+    },
+    {
+      "t": "busca",
+      "inicio": 50.8,
+      "fin": 51.04
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 51.2,
+      "fin": 51.68
+    },
+    {
+      "t": "y",
+      "inicio": 51.72,
+      "fin": 51.76
+    },
+    {
+      "t": "cuatro",
+      "inicio": 51.84,
+      "fin": 52
+    },
+    {
+      "t": "mil",
+      "inicio": 52.16,
+      "fin": 52.32
+    },
+    {
+      "t": "millones",
+      "inicio": 52.4,
+      "fin": 52.8
+    },
+    {
+      "t": "de",
+      "inicio": 52.84,
+      "fin": 52.88
+    },
+    {
+      "t": "ahorro.",
+      "inicio": 52.96,
+      "fin": 53.52
+    },
+    {
+      "t": "Propone",
+      "inicio": 53.6,
+      "fin": 53.92
+    },
+    {
+      "t": "congelar",
+      "inicio": 54,
+      "fin": 54.4
+    },
+    {
+      "t": "el",
+      "inicio": 54.44,
+      "fin": 54.48
+    },
+    {
+      "t": "sueldo",
+      "inicio": 54.56,
+      "fin": 54.8
+    },
+    {
+      "t": "base",
+      "inicio": 54.88,
+      "fin": 55.12
+    },
+    {
+      "t": "de",
+      "inicio": 55.16,
+      "fin": 55.2
+    },
+    {
+      "t": "los",
+      "inicio": 55.24,
+      "fin": 55.28
+    },
+    {
+      "t": "funcionarios.",
+      "inicio": 55.36,
+      "fin": 56.24
+    },
+    {
+      "t": "La",
+      "inicio": 56.32,
+      "fin": 56.4
+    },
+    {
+      "t": "CGT",
+      "inicio": 56.56,
+      "fin": 57.28
+    },
+    {
+      "t": "pide",
+      "inicio": 57.52,
+      "fin": 57.76
+    },
+    {
+      "t": "que",
+      "inicio": 57.84,
+      "fin": 57.92
+    },
+    {
+      "t": "paguen",
+      "inicio": 58.08,
+      "fin": 58.32
+    },
+    {
+      "t": "los",
+      "inicio": 58.4,
+      "fin": 58.48
+    },
+    {
+      "t": "más",
+      "inicio": 58.56,
+      "fin": 58.64
+    },
+    {
+      "t": "ricos.",
+      "inicio": 58.72,
+      "fin": 59.36
+    },
+    {
+      "t": "El",
+      "inicio": 59.4,
+      "fin": 59.44
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 59.52,
+      "fin": 59.92
+    },
+    {
+      "t": "culpa",
+      "inicio": 60.08,
+      "fin": 60.4
+    },
+    {
+      "t": "a",
+      "inicio": 60.427,
+      "fin": 60.453
+    },
+    {
+      "t": "la",
+      "inicio": 60.48,
+      "fin": 60.52
+    },
+    {
+      "t": "ultraizquierda.",
+      "inicio": 60.56,
+      "fin": 61.6
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 61.627,
+      "fin": 61.68
+    },
+    {
+      "t": "curioso?",
+      "inicio": 61.76,
+      "fin": 62.32
+    },
+    {
+      "t": "Le",
+      "inicio": 62.48,
+      "fin": 62.56
+    },
+    {
+      "t": "Pen",
+      "inicio": 62.64,
+      "fin": 62.88
+    },
+    {
+      "t": "y",
+      "inicio": 62.96,
+      "fin": 63
+    },
+    {
+      "t": "Mélenchon,",
+      "inicio": 63.04,
+      "fin": 63.76
+    },
+    {
+      "t": "desde",
+      "inicio": 63.84,
+      "fin": 64
+    },
+    {
+      "t": "extremos",
+      "inicio": 64.12,
+      "fin": 64.48
+    },
+    {
+      "t": "opuestos,",
+      "inicio": 64.56,
+      "fin": 65.12
+    },
+    {
+      "t": "se",
+      "inicio": 65.2,
+      "fin": 65.28
+    },
+    {
+      "t": "desmarcan",
+      "inicio": 65.4,
+      "fin": 65.84
+    },
+    {
+      "t": "de",
+      "inicio": 65.88,
+      "fin": 65.92
+    },
+    {
+      "t": "los",
+      "inicio": 66,
+      "fin": 66.08
+    },
+    {
+      "t": "saqueos.",
+      "inicio": 66.16,
+      "fin": 66.88
+    },
+    {
+      "t": "Y",
+      "inicio": 66.92,
+      "fin": 66.96
+    },
+    {
+      "t": "hay",
+      "inicio": 67.04,
+      "fin": 67.12
+    },
+    {
+      "t": "críticas",
+      "inicio": 67.2,
+      "fin": 67.52
+    },
+    {
+      "t": "a",
+      "inicio": 67.6,
+      "fin": 67.64
+    },
+    {
+      "t": "la",
+      "inicio": 67.68,
+      "fin": 67.72
+    },
+    {
+      "t": "policía:",
+      "inicio": 67.76,
+      "fin": 68.48
+    },
+    {
+      "t": "en",
+      "inicio": 68.52,
+      "fin": 68.56
+    },
+    {
+      "t": "Saint-Étienne,",
+      "inicio": 68.64,
+      "fin": 69.36
+    },
+    {
+      "t": "un",
+      "inicio": 69.44,
+      "fin": 69.52
+    },
+    {
+      "t": "chico",
+      "inicio": 69.6,
+      "fin": 69.84
+    },
+    {
+      "t": "perdió",
+      "inicio": 69.92,
+      "fin": 70.2
+    },
+    {
+      "t": "una",
+      "inicio": 70.24,
+      "fin": 70.4
+    },
+    {
+      "t": "mano.",
+      "inicio": 70.48,
+      "fin": 70.96
+    },
+    {
+      "t": "La",
+      "inicio": 70.987,
+      "fin": 71.013
+    },
+    {
+      "t": "inspección",
+      "inicio": 71.04,
+      "fin": 71.44
+    },
+    {
+      "t": "policial",
+      "inicio": 71.52,
+      "fin": 71.92
+    },
+    {
+      "t": "investiga",
+      "inicio": 72.08,
+      "fin": 72.4
+    },
+    {
+      "t": "qué",
+      "inicio": 72.56,
+      "fin": 72.72
+    },
+    {
+      "t": "pasó.",
+      "inicio": 72.8,
+      "fin": 73.36
+    },
+    {
+      "t": "¿Y",
+      "inicio": 73.387,
+      "fin": 73.44
+    },
+    {
+      "t": "ahora?",
+      "inicio": 73.52,
+      "fin": 74.08
+    },
+    {
+      "t": "Hay",
+      "inicio": 74.12,
+      "fin": 74.16
+    },
+    {
+      "t": "protestas",
+      "inicio": 74.24,
+      "fin": 74.72
+    },
+    {
+      "t": "convocadas",
+      "inicio": 74.8,
+      "fin": 75.28
+    },
+    {
+      "t": "hasta",
+      "inicio": 75.36,
+      "fin": 75.52
+    },
+    {
+      "t": "el",
+      "inicio": 75.6,
+      "fin": 75.68
+    },
+    {
+      "t": "cinco",
+      "inicio": 75.76,
+      "fin": 75.92
+    },
+    {
+      "t": "de",
+      "inicio": 76,
+      "fin": 76.08
+    },
+    {
+      "t": "noviembre.",
+      "inicio": 76.16,
+      "fin": 76.8
+    },
+    {
+      "t": "Y",
+      "inicio": 76.827,
+      "fin": 76.853
+    },
+    {
+      "t": "el",
+      "inicio": 76.88,
+      "fin": 76.92
+    },
+    {
+      "t": "presupuesto",
+      "inicio": 76.96,
+      "fin": 77.52
+    },
+    {
+      "t": "tiene",
+      "inicio": 77.6,
+      "fin": 77.84
+    },
+    {
+      "t": "hasta",
+      "inicio": 77.88,
+      "fin": 78.08
+    },
+    {
+      "t": "el",
+      "inicio": 78.12,
+      "fin": 78.16
+    },
+    {
+      "t": "diecisiete",
+      "inicio": 78.28,
+      "fin": 78.8
+    },
+    {
+      "t": "de",
+      "inicio": 78.88,
+      "fin": 78.92
+    },
+    {
+      "t": "noviembre",
+      "inicio": 78.96,
+      "fin": 79.28
+    },
+    {
+      "t": "en",
+      "inicio": 79.36,
+      "fin": 79.44
+    },
+    {
+      "t": "la",
+      "inicio": 79.467,
+      "fin": 79.493
+    },
+    {
+      "t": "Asamblea.",
+      "inicio": 79.52,
+      "fin": 80.32
+    },
+    {
+      "t": "Nuestra",
+      "inicio": 80.4,
+      "fin": 80.56
+    },
+    {
+      "t": "lectura:",
+      "inicio": 80.64,
+      "fin": 81.28
+    },
+    {
+      "t": "protestar",
+      "inicio": 81.36,
+      "fin": 81.76
+    },
+    {
+      "t": "por",
+      "inicio": 81.84,
+      "fin": 81.92
+    },
+    {
+      "t": "la",
+      "inicio": 82,
+      "fin": 82.04
+    },
+    {
+      "t": "vida",
+      "inicio": 82.08,
+      "fin": 82.24
+    },
+    {
+      "t": "cara",
+      "inicio": 82.32,
+      "fin": 82.56
+    },
+    {
+      "t": "es",
+      "inicio": 82.72,
+      "fin": 82.88
+    },
+    {
+      "t": "legítimo.",
+      "inicio": 82.96,
+      "fin": 83.6
+    },
+    {
+      "t": "Quemar",
+      "inicio": 83.64,
+      "fin": 83.84
+    },
+    {
+      "t": "un",
+      "inicio": 83.92,
+      "fin": 84
+    },
+    {
+      "t": "ayuntamiento,",
+      "inicio": 84.04,
+      "fin": 84.96
+    },
+    {
+      "t": "no:",
+      "inicio": 85.04,
+      "fin": 85.44
+    },
+    {
+      "t": "eso",
+      "inicio": 85.56,
+      "fin": 85.68
+    },
+    {
+      "t": "se",
+      "inicio": 85.76,
+      "fin": 85.84
+    },
+    {
+      "t": "persigue,",
+      "inicio": 85.92,
+      "fin": 86.48
+    },
+    {
+      "t": "con",
+      "inicio": 86.52,
+      "fin": 86.56
+    },
+    {
+      "t": "garantías.",
+      "inicio": 86.64,
+      "fin": 87.52
+    },
+    {
+      "t": "Con",
+      "inicio": 87.56,
+      "fin": 87.6
+    },
+    {
+      "t": "un",
+      "inicio": 87.68,
+      "fin": 87.72
+    },
+    {
+      "t": "déficit",
+      "inicio": 87.76,
+      "fin": 88.16
+    },
+    {
+      "t": "del",
+      "inicio": 88.24,
+      "fin": 88.32
+    },
+    {
+      "t": "cinco",
+      "inicio": 88.4,
+      "fin": 88.64
+    },
+    {
+      "t": "coma",
+      "inicio": 88.72,
+      "fin": 88.88
+    },
+    {
+      "t": "uno",
+      "inicio": 88.96,
+      "fin": 89.04
+    },
+    {
+      "t": "por",
+      "inicio": 89.12,
+      "fin": 89.28
+    },
+    {
+      "t": "ciento,",
+      "inicio": 89.32,
+      "fin": 89.76
+    },
+    {
+      "t": "hay",
+      "inicio": 89.84,
+      "fin": 89.92
+    },
+    {
+      "t": "que",
+      "inicio": 90,
+      "fin": 90.053
+    },
+    {
+      "t": "ajustar.",
+      "inicio": 90.107,
+      "fin": 90.72
+    },
+    {
+      "t": "Pero",
+      "inicio": 90.76,
+      "fin": 90.88
+    },
+    {
+      "t": "pactándolo,",
+      "inicio": 90.96,
+      "fin": 91.84
+    },
+    {
+      "t": "no",
+      "inicio": 91.92,
+      "fin": 92
+    },
+    {
+      "t": "imponiéndolo.",
+      "inicio": 92.08,
+      "fin": 92.96
+    },
+    {
+      "t": "Lo",
+      "inicio": 93,
+      "fin": 93.04
+    },
+    {
+      "t": "de",
+      "inicio": 93.12,
+      "fin": 93.2
+    },
+    {
+      "t": "Francia",
+      "inicio": 93.24,
+      "fin": 93.6
+    },
+    {
+      "t": "es",
+      "inicio": 93.76,
+      "fin": 93.92
+    },
+    {
+      "t": "real;",
+      "inicio": 94.08,
+      "fin": 94.56
+    },
+    {
+      "t": "el",
+      "inicio": 94.64,
+      "fin": 94.72
+    },
+    {
+      "t": "vídeo",
+      "inicio": 94.8,
+      "fin": 94.96
+    },
+    {
+      "t": "de",
+      "inicio": 95,
+      "fin": 95.04
+    },
+    {
+      "t": "Nike,",
+      "inicio": 95.12,
+      "fin": 95.76
+    },
+    {
+      "t": "no.",
+      "inicio": 95.84,
+      "fin": 96.24
+    },
+    {
+      "t": "¿A",
+      "inicio": 96.267,
+      "fin": 96.32
+    },
+    {
+      "t": "ti",
+      "inicio": 96.4,
+      "fin": 96.48
+    },
+    {
+      "t": "te",
+      "inicio": 96.52,
+      "fin": 96.56
+    },
+    {
+      "t": "llegó?",
+      "inicio": 96.6,
+      "fin": 97.12
+    }
+  ],
+  "duracion": 97.04,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE"
+}

@@ -1,0 +1,213 @@
+{
+  "palabras": [
+    {
+      "t": "El",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "sábado,",
+      "inicio": 0.2,
+      "fin": 0.8
+    },
+    {
+      "t": "más",
+      "inicio": 0.84,
+      "fin": 1.04
+    },
+    {
+      "t": "de",
+      "inicio": 1.12,
+      "fin": 1.2
+    },
+    {
+      "t": "medio",
+      "inicio": 1.28,
+      "fin": 1.52
+    },
+    {
+      "t": "millón",
+      "inicio": 1.6,
+      "fin": 1.76
+    },
+    {
+      "t": "de",
+      "inicio": 1.84,
+      "fin": 1.92
+    },
+    {
+      "t": "personas",
+      "inicio": 2.08,
+      "fin": 2.4
+    },
+    {
+      "t": "salieron",
+      "inicio": 2.48,
+      "fin": 2.8
+    },
+    {
+      "t": "a",
+      "inicio": 2.88,
+      "fin": 2.92
+    },
+    {
+      "t": "la",
+      "inicio": 2.96,
+      "fin": 3.04
+    },
+    {
+      "t": "calle",
+      "inicio": 3.12,
+      "fin": 3.28
+    },
+    {
+      "t": "en",
+      "inicio": 3.36,
+      "fin": 3.44
+    },
+    {
+      "t": "Francia.",
+      "inicio": 3.48,
+      "fin": 4.32
+    },
+    {
+      "t": "Protestaban",
+      "inicio": 4.4,
+      "fin": 4.96
+    },
+    {
+      "t": "contra",
+      "inicio": 5.04,
+      "fin": 5.28
+    },
+    {
+      "t": "la",
+      "inicio": 5.36,
+      "fin": 5.4
+    },
+    {
+      "t": "vida",
+      "inicio": 5.44,
+      "fin": 5.6
+    },
+    {
+      "t": "cara.",
+      "inicio": 5.76,
+      "fin": 6.48
+    },
+    {
+      "t": "Pero",
+      "inicio": 6.52,
+      "fin": 6.72
+    },
+    {
+      "t": "la",
+      "inicio": 6.76,
+      "fin": 6.8
+    },
+    {
+      "t": "jornada",
+      "inicio": 6.88,
+      "fin": 7.28
+    },
+    {
+      "t": "acabó",
+      "inicio": 7.36,
+      "fin": 7.68
+    },
+    {
+      "t": "con",
+      "inicio": 7.76,
+      "fin": 7.84
+    },
+    {
+      "t": "saqueos,",
+      "inicio": 7.92,
+      "fin": 8.56
+    },
+    {
+      "t": "incendios",
+      "inicio": 8.72,
+      "fin": 9.28
+    },
+    {
+      "t": "y",
+      "inicio": 9.52,
+      "fin": 9.6
+    },
+    {
+      "t": "casi",
+      "inicio": 9.68,
+      "fin": 9.92
+    },
+    {
+      "t": "dos",
+      "inicio": 10,
+      "fin": 10.16
+    },
+    {
+      "t": "mil",
+      "inicio": 10.32,
+      "fin": 10.4
+    },
+    {
+      "t": "cuatrocientos",
+      "inicio": 10.48,
+      "fin": 11.12
+    },
+    {
+      "t": "detenidos.",
+      "inicio": 11.2,
+      "fin": 12.24
+    },
+    {
+      "t": "¿Cómo",
+      "inicio": 12.32,
+      "fin": 12.48
+    },
+    {
+      "t": "se",
+      "inicio": 12.52,
+      "fin": 12.56
+    },
+    {
+      "t": "ha",
+      "inicio": 12.64,
+      "fin": 12.68
+    },
+    {
+      "t": "llegado",
+      "inicio": 12.72,
+      "fin": 12.96
+    },
+    {
+      "t": "hasta",
+      "inicio": 13,
+      "fin": 13.2
+    },
+    {
+      "t": "aquí?",
+      "inicio": 13.24,
+      "fin": 14
+    },
+    {
+      "t": "Vamos",
+      "inicio": 14.08,
+      "fin": 14.32
+    },
+    {
+      "t": "por",
+      "inicio": 14.36,
+      "fin": 14.4
+    },
+    {
+      "t": "partes.",
+      "inicio": 14.48,
+      "fin": 15.2
+    }
+  ],
+  "duracion": 15.12,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE"
+}

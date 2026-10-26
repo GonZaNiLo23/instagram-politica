@@ -1,0 +1,26 @@
+# Claves y secretos (nunca al repositorio)
+.env
+**/.env
+*.key
+
+# Dependencias
+node_modules/
+
+# Pesados o regenerables
+videos/renders/
+videos/muestras/
+videos/revisiones_tmp/
+videos/piezas/**/control/
+videos/piezas/**/_crudo.mp4
+videos/piezas/**/_mezcla.mp4
+videos/piezas/**/_prov/
+videos/piezas/**/redes/
+revisiones/videos/tmp/
+estado/logs/
+*.mp4
+*.mov
+
+# Locales de Claude Code y del sistema
+.claude/settings.local.json
+Thumbs.db
+desktop.ini

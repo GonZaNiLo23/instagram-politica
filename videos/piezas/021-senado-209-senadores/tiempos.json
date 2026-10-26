@@ -1,0 +1,438 @@
+{
+  "palabras": [
+    {
+      "t": "En",
+      "inicio": 0,
+      "fin": 0.08
+    },
+    {
+      "t": "el",
+      "inicio": 0.16,
+      "fin": 0.2
+    },
+    {
+      "t": "Senado",
+      "inicio": 0.24,
+      "fin": 0.64
+    },
+    {
+      "t": "puedes",
+      "inicio": 0.72,
+      "fin": 0.96
+    },
+    {
+      "t": "marcar",
+      "inicio": 1.04,
+      "fin": 1.28
+    },
+    {
+      "t": "hasta",
+      "inicio": 1.32,
+      "fin": 1.6
+    },
+    {
+      "t": "tres",
+      "inicio": 1.68,
+      "fin": 1.92
+    },
+    {
+      "t": "nombres.",
+      "inicio": 2,
+      "fin": 2.68
+    },
+    {
+      "t": "¿Y",
+      "inicio": 2.88,
+      "fin": 2.96
+    },
+    {
+      "t": "si",
+      "inicio": 3.04,
+      "fin": 3.12
+    },
+    {
+      "t": "marcas",
+      "inicio": 3.2,
+      "fin": 3.44
+    },
+    {
+      "t": "cuatro?",
+      "inicio": 3.52,
+      "fin": 3.84
+    },
+    {
+      "t": "Voto",
+      "inicio": 4.32,
+      "fin": 4.64
+    },
+    {
+      "t": "nulo:",
+      "inicio": 4.68,
+      "fin": 5.28
+    },
+    {
+      "t": "no",
+      "inicio": 5.44,
+      "fin": 5.52
+    },
+    {
+      "t": "cuenta",
+      "inicio": 5.6,
+      "fin": 5.92
+    },
+    {
+      "t": "para",
+      "inicio": 6,
+      "fin": 6.16
+    },
+    {
+      "t": "nadie.",
+      "inicio": 6.28,
+      "fin": 6.76
+    },
+    {
+      "t": "La",
+      "inicio": 6.96,
+      "fin": 7
+    },
+    {
+      "t": "papeleta",
+      "inicio": 7.04,
+      "fin": 7.52
+    },
+    {
+      "t": "es",
+      "inicio": 7.6,
+      "fin": 7.68
+    },
+    {
+      "t": "sepia,",
+      "inicio": 7.84,
+      "fin": 8.32
+    },
+    {
+      "t": "no",
+      "inicio": 8.4,
+      "fin": 8.48
+    },
+    {
+      "t": "blanca",
+      "inicio": 8.56,
+      "fin": 8.88
+    },
+    {
+      "t": "como",
+      "inicio": 8.96,
+      "fin": 9.12
+    },
+    {
+      "t": "la",
+      "inicio": 9.16,
+      "fin": 9.2
+    },
+    {
+      "t": "del",
+      "inicio": 9.28,
+      "fin": 9.36
+    },
+    {
+      "t": "Congreso.",
+      "inicio": 9.44,
+      "fin": 9.92
+    },
+    {
+      "t": "Se",
+      "inicio": 10.32,
+      "fin": 10.4
+    },
+    {
+      "t": "vota",
+      "inicio": 10.48,
+      "fin": 10.72
+    },
+    {
+      "t": "a",
+      "inicio": 10.8,
+      "fin": 10.88
+    },
+    {
+      "t": "personas,",
+      "inicio": 10.96,
+      "fin": 11.68
+    },
+    {
+      "t": "y",
+      "inicio": 11.76,
+      "fin": 11.8
+    },
+    {
+      "t": "pueden",
+      "inicio": 11.84,
+      "fin": 12.08
+    },
+    {
+      "t": "ser",
+      "inicio": 12.16,
+      "fin": 12.24
+    },
+    {
+      "t": "de",
+      "inicio": 12.32,
+      "fin": 12.4
+    },
+    {
+      "t": "partidos",
+      "inicio": 12.52,
+      "fin": 12.88
+    },
+    {
+      "t": "distintos.",
+      "inicio": 13,
+      "fin": 13.68
+    },
+    {
+      "t": "En",
+      "inicio": 13.84,
+      "fin": 14
+    },
+    {
+      "t": "Ceuta,",
+      "inicio": 14.08,
+      "fin": 14.56
+    },
+    {
+      "t": "Melilla",
+      "inicio": 14.68,
+      "fin": 15.04
+    },
+    {
+      "t": "y",
+      "inicio": 15.08,
+      "fin": 15.12
+    },
+    {
+      "t": "las",
+      "inicio": 15.2,
+      "fin": 15.28
+    },
+    {
+      "t": "islas,",
+      "inicio": 15.36,
+      "fin": 15.84
+    },
+    {
+      "t": "el",
+      "inicio": 15.88,
+      "fin": 15.92
+    },
+    {
+      "t": "tope",
+      "inicio": 16,
+      "fin": 16.24
+    },
+    {
+      "t": "baja",
+      "inicio": 16.28,
+      "fin": 16.56
+    },
+    {
+      "t": "a",
+      "inicio": 16.64,
+      "fin": 16.72
+    },
+    {
+      "t": "dos",
+      "inicio": 16.8,
+      "fin": 17.04
+    },
+    {
+      "t": "o",
+      "inicio": 17.28,
+      "fin": 17.36
+    },
+    {
+      "t": "uno.",
+      "inicio": 17.44,
+      "fin": 17.92
+    },
+    {
+      "t": "Novedad:",
+      "inicio": 18.16,
+      "fin": 18.88
+    },
+    {
+      "t": "en",
+      "inicio": 18.92,
+      "fin": 18.96
+    },
+    {
+      "t": "las",
+      "inicio": 19.04,
+      "fin": 19.12
+    },
+    {
+      "t": "urnas",
+      "inicio": 19.2,
+      "fin": 19.44
+    },
+    {
+      "t": "se",
+      "inicio": 19.48,
+      "fin": 19.52
+    },
+    {
+      "t": "eligen",
+      "inicio": 19.6,
+      "fin": 19.92
+    },
+    {
+      "t": "doscientos",
+      "inicio": 20,
+      "fin": 20.56
+    },
+    {
+      "t": "nueve,",
+      "inicio": 20.64,
+      "fin": 21.2
+    },
+    {
+      "t": "uno",
+      "inicio": 21.28,
+      "fin": 21.36
+    },
+    {
+      "t": "más",
+      "inicio": 21.44,
+      "fin": 21.6
+    },
+    {
+      "t": "que",
+      "inicio": 21.68,
+      "fin": 21.76
+    },
+    {
+      "t": "en",
+      "inicio": 21.8,
+      "fin": 21.84
+    },
+    {
+      "t": "dos",
+      "inicio": 21.92,
+      "fin": 22
+    },
+    {
+      "t": "mil",
+      "inicio": 22.08,
+      "fin": 22.12
+    },
+    {
+      "t": "veintitrés.",
+      "inicio": 22.16,
+      "fin": 23.12
+    },
+    {
+      "t": "Formentera,",
+      "inicio": 23.2,
+      "fin": 23.84
+    },
+    {
+      "t": "que",
+      "inicio": 23.88,
+      "fin": 23.92
+    },
+    {
+      "t": "votaba",
+      "inicio": 24,
+      "fin": 24.32
+    },
+    {
+      "t": "junto",
+      "inicio": 24.36,
+      "fin": 24.56
+    },
+    {
+      "t": "a",
+      "inicio": 24.6,
+      "fin": 24.64
+    },
+    {
+      "t": "Ibiza,",
+      "inicio": 24.68,
+      "fin": 25.2
+    },
+    {
+      "t": "estrena",
+      "inicio": 25.32,
+      "fin": 25.68
+    },
+    {
+      "t": "senador",
+      "inicio": 25.76,
+      "fin": 26.16
+    },
+    {
+      "t": "propio.",
+      "inicio": 26.24,
+      "fin": 26.64
+    },
+    {
+      "t": "Un",
+      "inicio": 27.04,
+      "fin": 27.12
+    },
+    {
+      "t": "nombre",
+      "inicio": 27.2,
+      "fin": 27.44
+    },
+    {
+      "t": "de",
+      "inicio": 27.48,
+      "fin": 27.52
+    },
+    {
+      "t": "más,",
+      "inicio": 27.6,
+      "fin": 28.08
+    },
+    {
+      "t": "y",
+      "inicio": 28.12,
+      "fin": 28.16
+    },
+    {
+      "t": "no",
+      "inicio": 28.24,
+      "fin": 28.32
+    },
+    {
+      "t": "cuenta.",
+      "inicio": 28.4,
+      "fin": 28.8
+    },
+    {
+      "t": "Guárdalo",
+      "inicio": 29.12,
+      "fin": 29.52
+    },
+    {
+      "t": "para",
+      "inicio": 29.6,
+      "fin": 29.68
+    },
+    {
+      "t": "el",
+      "inicio": 29.72,
+      "fin": 29.76
+    },
+    {
+      "t": "veintinueve.",
+      "inicio": 29.8,
+      "fin": 30.56
+    }
+  ],
+  "duracion": 30.48,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE"
+}

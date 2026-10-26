@@ -1,0 +1,46 @@
+# Proyecto: cuenta de Instagram de política animada
+
+Este repositorio produce Reels animados, informativos y educativos sobre actualidad política, curiosidades e instituciones.
+
+## Instalación (una sola vez)
+Ejecuta `instalar-agentes.bat` (doble clic): copia `agentes/` a `.claude/agents/` y `comandos/` a `.claude/commands/`. Si editas un agente, edítalo en `agentes/` y vuelve a ejecutar el instalador.
+
+## Rol de la sesión principal
+**La sesión principal actúa como COORDINADOR.** Antes de hacer nada, lee:
+1. `agentes/coordinador.md` (tu rol y reglas: síguelas como si fueran tus instrucciones)
+2. `PLANIFICADOR.md` (estrategia, pilares, calendario, principios editoriales)
+3. `estado/pipeline.md` (en qué punto está cada pieza)
+
+Los subagentes no pueden lanzar otros subagentes, por eso la coordinación la hace la sesión principal y delega con la herramienta Agent en:
+`buscador-temas`, `guionista`, `revisor-guion`, `generador-video`, `revisor-video`, `generador-carrusel`, `publicador` (Meta Business Suite + TikTok Studio) y `monitoreador` (métricas; se ejecuta solo cada día con `monitoreo-diario.ps1`).
+
+## Estructura de carpetas
+```
+PLANIFICADOR.md            estrategia y calendario
+agentes/                   definición de los 9 agentes (fuente; se copian a .claude/agents)
+comandos/producir.md       comando /producir (se copia a .claude/commands)
+estilo/guia-estilo.md      estilo gráfico, voz y ritmo (lo leen guionista y vídeo)
+estilo/linea-editorial.md  línea editorial de derecha liberal-conservadora (la leen todos)
+estilo/test-formato-reel.md  test de 10 criterios Reel/TikTok (lo aplican los revisores)
+feedback/                  lecciones de los revisores para cada agente (las leen antes de trabajar; resumen de una línea por regla arriba)
+memoria/                   cuaderno de experiencia de cada agente (atajos y trampas; lo leen primero y lo amplían al terminar)
+estado/pipeline.md         tablero de estado de cada pieza (lo mantiene el coordinador)
+estado/informe-rendimiento.md  análisis diario del monitoreador (qué temas funcionan)
+temas/backlog.md           ideas atemporales y preguntas de seguidores
+temas/propuestas/          propuestas semanales del buscador de temas
+guiones/_plantilla-guion.md
+guiones/borradores/        guiones en curso  (NNN-slug.md)
+guiones/aprobados/         guiones aprobados por el revisor
+revisiones/guiones/        informes del revisor de guion
+revisiones/videos/         informes del revisor de vídeo
+videos/                    proyecto Remotion, audio, renders
+carruseles/                carruseles en PNG + texto del post (NNN-slug-vX)
+publicado/                 registro de lo publicado, textos del post y métricas
+```
+
+## Convenciones
+- Cada pieza tiene un número de 3 cifras y un slug: `004-presupuestos-prorrogados`. Se usa igual en guion, revisiones y render.
+- Idioma: español de España. Fechas en formato `AAAA-MM-DD`.
+- Publicación (desde el 2026-10-20): el coordinador (a través del agente `publicador`) programa en **Meta Business Suite** (Instagram) y **TikTok Studio** (TikTok) desde el 2026-10-25, vía Claude in Chrome (Metricool, de reserva; las métricas se siguen leyendo en Metricool) **solo después del "aprobado" explícito de la persona usuaria para esa pieza concreta**, en el chat. Sin ese OK no se programa ni se publica nada. La aprobación de una pieza no vale para otras. **Excepción, aprobación permanente (decisión de la persona usuaria del 2026-10-26: "has aprendido lo suficiente con el formato"):** un vídeo o carrusel con veredicto APROBADO de `revisor-guion` y de `revisor-video` (test de formato ≥ 9) queda aprobado y se programa sin preguntar, con al menos 2 h de margen para que la persona usuaria pueda vetarlo; se le deja la lista de lo programado en `estado/programado-hoy.md`. Si dice "no" o "para" sobre una pieza, se desprograma y se vuelve a pedir OK pieza a pieza hasta que lo reactive. Receta en `memoria/coordinador.md`.
+- Línea editorial de derecha liberal-conservadora (`estilo/linea-editorial.md`) con verificación estricta de hechos según §7 del planificador: la línea decide la opinión, nunca los datos. Es la regla más importante del proyecto.
+- Veredictos de los revisores: APROBADO, CAMBIOS o REHACER (no apto como Reel/TikTok).

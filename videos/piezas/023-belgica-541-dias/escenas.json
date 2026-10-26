@@ -1,0 +1,603 @@
+{
+  "plantilla": "flash",
+  "duracion": 36.48,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "foto",
+            "src": "F1.jpg",
+            "forma": "completa",
+            "velo": 0.45,
+            "foco": "50% 50%",
+            "zoom": [
+              1,
+              1
+            ],
+            "dur": 3,
+            "en": -1,
+            "sobre": "oscuro",
+            "credito": "Foto: Trougnouf (Benoit Brummer) · CC BY 4.0 · Wikimedia Commons"
+          },
+          {
+            "tipo": "gancho",
+            "texto": "541 DÍAS SIN FORMAR GOBIERNO",
+            "y": 470,
+            "tamano": 104,
+            "color": "#F4EFE6",
+            "en": -1
+          },
+          {
+            "tipo": "contador",
+            "desde": 541,
+            "hasta": 541,
+            "en": -1,
+            "dur": 0.1,
+            "y": 960,
+            "tamano": 220,
+            "color": "#F2B134"
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.82,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "541 DÍAS SIN FORMAR GOBIERNO",
+          "y": 335,
+          "en": -1,
+          "tamano": 64,
+          "hasta": 3.72
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "RÉCORD GUINNESS EN TIEMPO DE PAZ",
+          "y": 335,
+          "en": 3.85,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "x": 500,
+          "y": 690,
+          "ancho": 880,
+          "alto": 300,
+          "foco": "50% 50%",
+          "zoom": [
+            1,
+            1.12
+          ],
+          "dur": 5.82,
+          "en": -1,
+          "credito": "Foto: Trougnouf (Benoit Brummer) · CC BY 4.0 · Wikimedia Commons",
+          "notas": [
+            "Fuente: Guinness World Records"
+          ]
+        },
+        {
+          "tipo": "contador",
+          "desde": 300,
+          "hasta": 541,
+          "en": -1,
+          "espera": 1,
+          "dur": 2.1,
+          "y": 880,
+          "tamano": 190
+        },
+        {
+          "tipo": "trofeoBe",
+          "x": 490,
+          "y": 975,
+          "tam": 150,
+          "en": 3.85
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "RÉCORD"
+          ],
+          "x": 690,
+          "y": 915,
+          "tamano": 56,
+          "angulo": -4,
+          "desde": 100,
+          "en": 3.9
+        }
+      ]
+    },
+    {
+      "inicio": 5.82,
+      "fin": 8.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "13-6-2010 · ELECCIONES",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineaBe",
+          "y": 900,
+          "a": 0.3,
+          "en": 0.1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 250,
+          "y": 660,
+          "tamano": 260,
+          "en": 0.2,
+          "animEn": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Guinness World Records · Cámara de Representantes (7-12-2011)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 8.42,
+      "fin": 11.030000000000001,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "6-12-2011 · JURA EL GOBIERNO DI RUPO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineaBe",
+          "y": 900,
+          "a": -1,
+          "b": 0.2,
+          "barra": {
+            "en": 0.1,
+            "dur": 1.1
+          },
+          "llave": 1.4,
+          "en": -1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 250,
+          "y": 660,
+          "tamano": 260,
+          "en": -1,
+          "animEn": -1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documento",
+          "x": 720,
+          "y": 660,
+          "tamano": 260,
+          "en": 0.2,
+          "animEn": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Guinness World Records · Cámara de Representantes (7-12-2011)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 11.030000000000001,
+      "fin": 12.05,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Y QUIÉN MANDABA?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F2.jpg",
+          "x": 500,
+          "y": 800,
+          "ancho": 880,
+          "alto": 640,
+          "foco": "50% 50%",
+          "zoom": [
+            1,
+            1.1
+          ],
+          "dur": 1.02,
+          "en": 0.15,
+          "credito": "Foto: Davidh820 · CC BY-SA 4.0 · Wikimedia Commons",
+          "notas": [
+            "Fuente: Guinness World Records"
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "?"
+          ],
+          "x": 770,
+          "y": 560,
+          "tamano": 160,
+          "angulo": 6,
+          "desde": 100,
+          "en": 0.4
+        }
+      ]
+    },
+    {
+      "inicio": 12.05,
+      "fin": 15.6,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "GOBIERNO LETERME, EN FUNCIONES",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "= provisional, gestiona el día a día",
+          "y": 500,
+          "en": 0.45,
+          "tamano": 64
+        },
+        {
+          "tipo": "carpetaH",
+          "x": 250,
+          "y": 830,
+          "tam": 200,
+          "en": 0.3
+        },
+        {
+          "tipo": "carpetaH",
+          "x": 540,
+          "y": 830,
+          "tam": 200,
+          "en": 0.6
+        },
+        {
+          "tipo": "carpetaH",
+          "x": 830,
+          "y": 830,
+          "tam": 200,
+          "en": 0.9
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "EN FUNCIONES"
+          ],
+          "x": 480,
+          "y": 990,
+          "tamano": 64,
+          "angulo": -3,
+          "fondo": "#8D99AE",
+          "desde": 100,
+          "en": 1.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Guinness World Records"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 15.6,
+      "fin": 20.4,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "BRUSELAS: GOBIERNO REGIONAL",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.4
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MÁS DE 600 DÍAS (2024⁠–⁠2026)",
+          "y": 335,
+          "en": 1.6,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaBe",
+          "x": 540,
+          "y": 1000,
+          "w": 340,
+          "divideEn": 0.3,
+          "bruselasEn": 0.74,
+          "en": 0.1
+        },
+        {
+          "tipo": "contador",
+          "desde": 541,
+          "hasta": 541,
+          "en": 1.6,
+          "dur": 0.1,
+          "y": 540,
+          "tamano": 130,
+          "izq": 60,
+          "etiqueta": "FEDERAL"
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 600,
+          "sufijo": "+",
+          "en": 1.9,
+          "espera": 0.08,
+          "dur": 1.1,
+          "y": 540,
+          "tamano": 130,
+          "izq": 540,
+          "color": "#2A9D8F"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "REGIONAL",
+          "y": 684,
+          "en": 1.9,
+          "tamano": 64,
+          "izq": 540,
+          "ancho": 420
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Región de Bruselas-Capital, no el Gobierno federal"
+          ],
+          "en": 1.6,
+          "y": 775
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Elecciones 9-6-2024 → jura 14-2-2026",
+            "Fuente: VRT y BX1 (14-2-2026)"
+          ],
+          "en": 1.6
+        }
+      ]
+    },
+    {
+      "inicio": 20.4,
+      "fin": 23.799999999999997,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Y EN ESPAÑA, TRAS EL 29‑N?",
+          "y": 335,
+          "en": 0.7,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaH",
+          "paises": [
+            "es"
+          ],
+          "x": 300,
+          "y": 800,
+          "k": 36,
+          "en": 0.65
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 770,
+          "y": 800,
+          "tamano": 300,
+          "mes": "NOV",
+          "dia": "29",
+          "en": 0.9
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Constitución, art. 99 · LOREG, art. 162 · RD 806/2026"
+          ],
+          "en": 0.7
+        },
+        {
+          "tipo": "barridoBe",
+          "en": 0,
+          "dur": 0.6
+        }
+      ]
+    },
+    {
+      "inicio": 23.799999999999997,
+      "fin": 26.8,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "INVESTIDURA: VOTA EL CONGRESO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "candidato propuesto por el Rey",
+          "y": 500,
+          "en": 0.8,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "congreso",
+          "x": 270,
+          "y": 900,
+          "tamano": 330,
+          "en": 0.2,
+          "animEn": 0.3
+        },
+        {
+          "tipo": "plumaCorona",
+          "x": 760,
+          "y": 900,
+          "tamano": 330,
+          "en": 1.68
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Constitución, art. 99 · LOREG, art. 162 · RD 806/2026"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 26.8,
+      "fin": 31.6,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2 MESES SIN INVESTIDURA = ELECCIONES",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "relojArena",
+          "x": 290,
+          "y": 650,
+          "tamano": 250,
+          "en": 0.2,
+          "animEn": 0.3,
+          "dur": 3
+        },
+        {
+          "tipo": "hemiciclo",
+          "grupos": [
+            {
+              "nombre": "Congreso",
+              "escanos": 350,
+              "color": "#8D99AE"
+            }
+          ],
+          "ancho": 600,
+          "y": 800,
+          "dur": 1.4,
+          "en": 0.1,
+          "leyenda": false
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 790,
+          "y": 650,
+          "tamano": 250,
+          "en": 3.34,
+          "animEn": 3.54
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "plazo desde la 1.ª votación",
+            "Fuente: Constitución, art. 99 · LOREG, art. 162 · RD 806/2026"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 31.6,
+      "fin": 32.6,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿LO SABÍAS?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "x": 500,
+          "y": 690,
+          "ancho": 880,
+          "alto": 300,
+          "foco": "50% 50%",
+          "zoom": [
+            1,
+            1.12
+          ],
+          "dur": 2,
+          "en": -1,
+          "credito": "Foto: Trougnouf (Benoit Brummer) · CC BY 4.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "contador",
+          "desde": 541,
+          "hasta": 541,
+          "en": -1,
+          "dur": 0.1,
+          "y": 880,
+          "tamano": 190
+        }
+      ]
+    },
+    {
+      "inicio": 32.6,
+      "fin": 36.48,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "541 DÍAS",
+          "tamano": 120,
+          "yGuardalo": 1200,
+          "yFuentes": 1310,
+          "pulso": true
+        },
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "x": 500,
+          "y": 840,
+          "ancho": 880,
+          "alto": 300,
+          "foco": "50% 50%",
+          "zoom": [
+            1,
+            1.1
+          ],
+          "dur": 3,
+          "en": 0.2,
+          "credito": "Foto: Trougnouf (Benoit Brummer) · CC BY 4.0 · Wikimedia Commons"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Memoria · monitoreador
+
+- [cuenta] Metricool, marca "loquepasaenunminuto" (blogId 7542188, userId 5874684). Análisis de TikTok: `https://app.metricool.com/evolution/tiktok?blogId=7542188&userId=5874684`; el de Instagram, en la misma ruta con `instagram`. (2026-10-20)
+- [Metricool] El periodo por defecto queda fijado en un rango antiguo (22 sep-4 oct): abrir el selector (1132,102) y pulsar "Mes actual" (1128,190). Luego get_page_text lista los posts/reels con todas las columnas. Sin selección previa, get_page_text devuelve vacío. (2026-10-22)
+- [Metricool] Planificación: /planner/calendar funciona; /planner/list da 404. Los datos llegan con 1-2 días de retraso. TikTok no da alcance, guardados ni % visto; IG sí da tiempo medio y "% visualización (+3 seg.)". Plan gratuito: 20 publicaciones/mes. (2026-10-22)
+- [Metricool] Planificación > "Listado" (/planner/history): get_page_text da fecha/hora, texto y estado (Publicado/Pendiente) de todo el mes más el cupo "N de 20"; más rápido que el calendario. (2026-10-25)
+- [Metricool] Analítica IG/TikTok ya abre con el mes completo; 5 filas por página, botón "Página siguiente" localizable con find. Columnas IG: alcance, visual., interacciones, likes, guardado, compartidos, comentarios, engagement, t. medio, t. total, duración, %retención, %+3 s. TikTok: visual., likes, comentarios, compartidos, duración. El periodo acaba el día anterior. (2026-10-25)
+- [Inbox] /inbox solo IG; get_page_text no devuelve la lista: usar zoom sobre la columna izquierda. TikTok sin inbox en Metricool. (2026-10-25)
+- [Shell] Heredocs largos con comillas en Bash fallan a veces: usar Write para informes. (2026-10-25)

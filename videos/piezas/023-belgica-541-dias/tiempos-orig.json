@@ -1,0 +1,448 @@
+{
+  "palabras": [
+    {
+      "t": "Bélgica",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "t": "pasó",
+      "inicio": 0.6,
+      "fin": 0.88
+    },
+    {
+      "t": "quinientos",
+      "inicio": 1,
+      "fin": 1.44
+    },
+    {
+      "t": "cuarenta",
+      "inicio": 1.52,
+      "fin": 1.88
+    },
+    {
+      "t": "y",
+      "inicio": 1.92,
+      "fin": 1.96
+    },
+    {
+      "t": "un",
+      "inicio": 2,
+      "fin": 2.08
+    },
+    {
+      "t": "días",
+      "inicio": 2.16,
+      "fin": 2.4
+    },
+    {
+      "t": "sin",
+      "inicio": 2.48,
+      "fin": 2.56
+    },
+    {
+      "t": "formar",
+      "inicio": 2.64,
+      "fin": 2.88
+    },
+    {
+      "t": "gobierno.",
+      "inicio": 2.96,
+      "fin": 3.76
+    },
+    {
+      "t": "Récord",
+      "inicio": 3.92,
+      "fin": 4.24
+    },
+    {
+      "t": "Guinness",
+      "inicio": 4.32,
+      "fin": 4.64
+    },
+    {
+      "t": "en",
+      "inicio": 4.72,
+      "fin": 4.8
+    },
+    {
+      "t": "tiempo",
+      "inicio": 4.84,
+      "fin": 5.12
+    },
+    {
+      "t": "de",
+      "inicio": 5.16,
+      "fin": 5.2
+    },
+    {
+      "t": "paz.",
+      "inicio": 5.28,
+      "fin": 5.72
+    },
+    {
+      "t": "Elecciones:",
+      "inicio": 5.92,
+      "fin": 6.88
+    },
+    {
+      "t": "junio",
+      "inicio": 7,
+      "fin": 7.2
+    },
+    {
+      "t": "de",
+      "inicio": 7.28,
+      "fin": 7.36
+    },
+    {
+      "t": "dos",
+      "inicio": 7.44,
+      "fin": 7.52
+    },
+    {
+      "t": "mil",
+      "inicio": 7.6,
+      "fin": 7.68
+    },
+    {
+      "t": "diez.",
+      "inicio": 7.76,
+      "fin": 8.4
+    },
+    {
+      "t": "Nuevo",
+      "inicio": 8.52,
+      "fin": 8.64
+    },
+    {
+      "t": "gobierno:",
+      "inicio": 8.72,
+      "fin": 9.44
+    },
+    {
+      "t": "diciembre",
+      "inicio": 9.48,
+      "fin": 10
+    },
+    {
+      "t": "de",
+      "inicio": 10.08,
+      "fin": 10.16
+    },
+    {
+      "t": "dos",
+      "inicio": 10.24,
+      "fin": 10.32
+    },
+    {
+      "t": "mil",
+      "inicio": 10.4,
+      "fin": 10.48
+    },
+    {
+      "t": "once.",
+      "inicio": 10.56,
+      "fin": 11.2
+    },
+    {
+      "t": "¿Y",
+      "inicio": 11.227,
+      "fin": 11.28
+    },
+    {
+      "t": "quién",
+      "inicio": 11.44,
+      "fin": 11.6
+    },
+    {
+      "t": "mandaba?",
+      "inicio": 11.72,
+      "fin": 12.08
+    },
+    {
+      "t": "El",
+      "inicio": 12.4,
+      "fin": 12.48
+    },
+    {
+      "t": "anterior,",
+      "inicio": 12.56,
+      "fin": 13.2
+    },
+    {
+      "t": "en",
+      "inicio": 13.28,
+      "fin": 13.36
+    },
+    {
+      "t": "funciones.",
+      "inicio": 13.48,
+      "fin": 14
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 14.4,
+      "fin": 14.72
+    },
+    {
+      "t": "Bruselas",
+      "inicio": 15.04,
+      "fin": 15.52
+    },
+    {
+      "t": "tardó",
+      "inicio": 15.6,
+      "fin": 15.92
+    },
+    {
+      "t": "más",
+      "inicio": 15.96,
+      "fin": 16.08
+    },
+    {
+      "t": "de",
+      "inicio": 16.16,
+      "fin": 16.24
+    },
+    {
+      "t": "seiscientos",
+      "inicio": 16.28,
+      "fin": 16.88
+    },
+    {
+      "t": "días",
+      "inicio": 16.96,
+      "fin": 17.2
+    },
+    {
+      "t": "en",
+      "inicio": 17.28,
+      "fin": 17.36
+    },
+    {
+      "t": "formar",
+      "inicio": 17.48,
+      "fin": 17.68
+    },
+    {
+      "t": "su",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "t": "gobierno",
+      "inicio": 17.88,
+      "fin": 18.24
+    },
+    {
+      "t": "regional.",
+      "inicio": 18.32,
+      "fin": 18.96
+    },
+    {
+      "t": "¿Y",
+      "inicio": 19.2,
+      "fin": 19.28
+    },
+    {
+      "t": "en",
+      "inicio": 19.32,
+      "fin": 19.36
+    },
+    {
+      "t": "España,",
+      "inicio": 19.44,
+      "fin": 20
+    },
+    {
+      "t": "si",
+      "inicio": 20.04,
+      "fin": 20.08
+    },
+    {
+      "t": "el",
+      "inicio": 20.16,
+      "fin": 20.2
+    },
+    {
+      "t": "veintinueve",
+      "inicio": 20.24,
+      "fin": 20.64
+    },
+    {
+      "t": "de",
+      "inicio": 20.72,
+      "fin": 20.76
+    },
+    {
+      "t": "noviembre",
+      "inicio": 20.8,
+      "fin": 21.28
+    },
+    {
+      "t": "nadie",
+      "inicio": 21.44,
+      "fin": 21.68
+    },
+    {
+      "t": "tiene",
+      "inicio": 21.76,
+      "fin": 21.92
+    },
+    {
+      "t": "mayoría?",
+      "inicio": 22,
+      "fin": 22.48
+    },
+    {
+      "t": "El",
+      "inicio": 22.88,
+      "fin": 22.96
+    },
+    {
+      "t": "Congreso",
+      "inicio": 23.04,
+      "fin": 23.44
+    },
+    {
+      "t": "vota",
+      "inicio": 23.48,
+      "fin": 23.68
+    },
+    {
+      "t": "al",
+      "inicio": 23.76,
+      "fin": 23.84
+    },
+    {
+      "t": "candidato",
+      "inicio": 23.947,
+      "fin": 24.32
+    },
+    {
+      "t": "que",
+      "inicio": 24.36,
+      "fin": 24.4
+    },
+    {
+      "t": "propone",
+      "inicio": 24.48,
+      "fin": 24.8
+    },
+    {
+      "t": "el",
+      "inicio": 24.84,
+      "fin": 24.88
+    },
+    {
+      "t": "Rey.",
+      "inicio": 24.96,
+      "fin": 25.52
+    },
+    {
+      "t": "Si",
+      "inicio": 25.6,
+      "fin": 25.68
+    },
+    {
+      "t": "en",
+      "inicio": 25.72,
+      "fin": 25.76
+    },
+    {
+      "t": "dos",
+      "inicio": 25.84,
+      "fin": 26
+    },
+    {
+      "t": "meses",
+      "inicio": 26.08,
+      "fin": 26.32
+    },
+    {
+      "t": "desde",
+      "inicio": 26.4,
+      "fin": 26.6
+    },
+    {
+      "t": "la",
+      "inicio": 26.64,
+      "fin": 26.72
+    },
+    {
+      "t": "primera",
+      "inicio": 26.84,
+      "fin": 27.04
+    },
+    {
+      "t": "votación",
+      "inicio": 27.08,
+      "fin": 27.52
+    },
+    {
+      "t": "no",
+      "inicio": 27.68,
+      "fin": 27.84
+    },
+    {
+      "t": "hay",
+      "inicio": 27.92,
+      "fin": 28
+    },
+    {
+      "t": "investidura,",
+      "inicio": 28.16,
+      "fin": 28.96
+    },
+    {
+      "t": "nuevas",
+      "inicio": 29.04,
+      "fin": 29.36
+    },
+    {
+      "t": "elecciones.",
+      "inicio": 29.44,
+      "fin": 30.2
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 30.4,
+      "fin": 30.48
+    },
+    {
+      "t": "sabías?",
+      "inicio": 30.56,
+      "fin": 31.36
+    },
+    {
+      "t": "Guárdalo",
+      "inicio": 31.4,
+      "fin": 31.76
+    },
+    {
+      "t": "para",
+      "inicio": 31.84,
+      "fin": 32
+    },
+    {
+      "t": "la",
+      "inicio": 32.04,
+      "fin": 32.08
+    },
+    {
+      "t": "próxima",
+      "inicio": 32.16,
+      "fin": 32.48
+    },
+    {
+      "t": "sobremesa.",
+      "inicio": 32.52,
+      "fin": 33.36
+    }
+  ],
+  "duracion": 33.28,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE"
+}

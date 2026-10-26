@@ -1,0 +1,35 @@
+{
+  "plantilla": "flash",
+  "duracion": 6,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0, "fin": 2, "fondo": "crema",
+      "componentes": [
+        {"tipo": "gancho", "texto": "Título de relleno", "resalta": "PRUEBA", "y": 520},
+        {"tipo": "sello", "valor": "DATO", "en": 0.8, "y": 850}
+      ]
+    },
+    {
+      "inicio": 2, "fin": 4, "fondo": "crema", "fuente": "INE (relleno)",
+      "componentes": [
+        {"tipo": "rotulo", "texto": "Dato de relleno", "y": 330},
+        {"tipo": "contador", "desde": 0, "hasta": 350, "dur": 1.2, "etiqueta": "escaños", "y": 440, "tamano": 120},
+        {"tipo": "hemiciclo", "grupos": [{"nombre": "Tinta", "escanos": 300, "color": "#14213D"}, {"nombre": "Mostaza", "escanos": 50, "color": "#F2B134", "en": 0.6}], "y": 660, "ancho": 700, "dur": 1.0}
+      ]
+    },
+    {
+      "inicio": 4, "fin": 5, "fondo": "tinta", "lectura": true,
+      "componentes": [
+        {"tipo": "gancho", "texto": "Opinión de relleno", "tamano": 110, "y": 600}
+      ]
+    },
+    {
+      "inicio": 5, "fin": 6, "fondo": "mostaza", "sinSubtitulos": true,
+      "componentes": [
+        {"tipo": "cierre", "frase": "Resumen de relleno", "pregunta": "¿Qué tema explicamos?"}
+      ]
+    }
+  ]
+}

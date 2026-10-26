@@ -1,0 +1,2025 @@
+{
+  "plantilla": "estandar",
+  "duracion": 64.72,
+  "portadaSegundo": 1.2,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "¿Echar al presidente sin elecciones?",
+            "y": 360,
+            "tamano": 108,
+            "en": -1
+          },
+          {
+            "tipo": "icono",
+            "nombre": "silla",
+            "x": 540,
+            "y": 1140,
+            "tamano": 460,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.42,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿Echar al presidente sin elecciones?",
+          "y": 330,
+          "tamano": 100,
+          "en": -1,
+          "hasta": 2.38
+        },
+        {
+          "tipo": "icono",
+          "nombre": "silla",
+          "x": 540,
+          "y": 960,
+          "tamano": 340,
+          "en": -1,
+          "vibra": [
+            0.5,
+            2.38
+          ],
+          "mover": {
+            "x": 290,
+            "y": 930,
+            "en": 3.34,
+            "dur": 0.5
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "bustoSilla",
+          "x": 540,
+          "y": 960,
+          "tamano": 340,
+          "en": 0.4,
+          "color": "#8D99AE",
+          "vibra": [
+            0.5,
+            2.38
+          ],
+          "mover": {
+            "x": 1500,
+            "y": 560,
+            "en": 2.42,
+            "dur": 0.2,
+            "arco": 220
+          },
+          "hasta": 2.83
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SE PUEDE",
+          "y": 340,
+          "en": 2.4,
+          "tamano": 96,
+          "hasta": 3.34
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SOLO UNA VEZ",
+          "y": 340,
+          "en": 3.34,
+          "tamano": 96
+        },
+        {
+          "tipo": "contador",
+          "desde": 1,
+          "hasta": 1,
+          "salto": true,
+          "en": 3.3899999999999997,
+          "espera": 0,
+          "y": 540,
+          "tamano": 420,
+          "izq": 590
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "en": 4.09,
+          "y": 960,
+          "tamano": 100,
+          "x": 700
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Congreso de los Diputados"
+          ],
+          "en": 3.44
+        }
+      ]
+    },
+    {
+      "inicio": 5.42,
+      "fin": 10.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MOCIÓN DE CENSURA",
+          "y": 340,
+          "en": 0.05,
+          "hasta": 2.68
+        },
+        {
+          "tipo": "icono",
+          "nombre": "silla",
+          "x": 290,
+          "y": 930,
+          "tamano": 340,
+          "en": -1,
+          "mover": {
+            "x": -260,
+            "y": 930,
+            "en": 0,
+            "dur": 0.45
+          },
+          "hasta": 0.6
+        },
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "forma": "rect",
+          "x": 540,
+          "y": 770,
+          "ancho": 900,
+          "alto": 520,
+          "foco": "50% 40%",
+          "zoom": [
+            1.04,
+            1.16
+          ],
+          "dur": 2.58,
+          "en": 0.15,
+          "hasta": 2.68,
+          "credito": "Foto: Vickybol · CC BY-SA 3.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Artículo 113",
+          "y": 340,
+          "en": 2.68
+        },
+        {
+          "tipo": "icono",
+          "nombre": "libro",
+          "x": 540,
+          "y": 770,
+          "tamano": 540,
+          "en": 2.68,
+          "animEn": 2.93,
+          "dur": 0.8
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Constitución, art. 113"
+          ],
+          "en": 2.73
+        }
+      ]
+    },
+    {
+      "inicio": 10.62,
+      "fin": 15.98,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1 de cada 10 diputados",
+          "y": 340,
+          "en": 0.05,
+          "hasta": 2.3200000000000003
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Mínimo: 35 firmas",
+          "y": 340,
+          "en": 2.3200000000000003
+        },
+        {
+          "tipo": "foto",
+          "src": "F2.jpg",
+          "forma": "rect",
+          "x": 540,
+          "y": 770,
+          "ancho": 900,
+          "alto": 560,
+          "foco": "50% 45%",
+          "zoom": [
+            1.04,
+            1.16
+          ],
+          "dur": 1.8,
+          "en": 0.1,
+          "hasta": 1.8,
+          "notas": [
+            "Foto: Pool Moncloa/Fernando Calvo · 2018-12-06 ·",
+            "Ministerio de la Presidencia. Gobierno de España ·"
+          ],
+          "credito": "Wikimedia Commons"
+        },
+        {
+          "tipo": "hemiciclo",
+          "grupos": [
+            {
+              "nombre": "Diputados",
+              "escanos": 350,
+              "color": "#8D99AE"
+            }
+          ],
+          "total": 350,
+          "y": 500,
+          "ancho": 880,
+          "leyenda": false,
+          "en": 1.6,
+          "dur": 1,
+          "zoom": {
+            "a": 1.05,
+            "en": 1.6,
+            "dur": 3.2,
+            "oy": 0
+          },
+          "resalta": {
+            "desde": 157,
+            "cuenta": 35,
+            "color": "#F2B134",
+            "en": 3.48,
+            "dur": 0.7
+          }
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 35,
+          "en": 3.43,
+          "espera": 0.1,
+          "dur": 0.9,
+          "y": 985,
+          "tamano": 130,
+          "izq": 220
+        },
+        {
+          "tipo": "icono",
+          "nombre": "boligrafo",
+          "x": 700,
+          "y": 1035,
+          "tamano": 170,
+          "en": 3.58,
+          "dur": 0.9
+        }
+      ]
+    },
+    {
+      "inicio": 15.98,
+      "fin": 19.26,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MOCIÓN \"CONSTRUCTIVA\"",
+          "y": 340,
+          "en": 0.3
+        },
+        {
+          "tipo": "icono",
+          "nombre": "muro",
+          "x": 540,
+          "y": 810,
+          "tamano": 560,
+          "en": 0.3,
+          "animEn": 0.45,
+          "dur": 2.4
+        },
+        {
+          "tipo": "barrido",
+          "dur": 0.4
+        }
+      ]
+    },
+    {
+      "inicio": 19.26,
+      "fin": 21.18,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "No vale con decir \"fuera\"",
+          "y": 340,
+          "en": 0.05
+        },
+        {
+          "tipo": "icono",
+          "nombre": "bocadillo",
+          "x": 540,
+          "y": 790,
+          "tamano": 560,
+          "en": 0.1,
+          "animEn": 0.9899999999999999,
+          "dur": 0.4
+        }
+      ]
+    },
+    {
+      "inicio": 21.18,
+      "fin": 24.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Candidato alternativo",
+          "y": 340,
+          "en": 0.05,
+          "hasta": 2.1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "busto",
+          "x": 540,
+          "y": 740,
+          "tamano": 400,
+          "en": 0.1,
+          "color": "#2A9D8F",
+          "etiqueta": "CANDIDATO",
+          "hasta": 2.1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Dentro de la moción",
+          "y": 340,
+          "en": 2.1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documentoMocion",
+          "x": 540,
+          "y": 760,
+          "tamano": 540,
+          "en": 2.1,
+          "animEn": 2.35,
+          "dur": 0.6
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Constitución, art. 113.2"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 24.62,
+      "fin": 29.58,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Mayoría absoluta",
+          "y": 340,
+          "en": 0.05,
+          "hasta": 2.52
+        },
+        {
+          "tipo": "hemiciclo",
+          "grupos": [
+            {
+              "nombre": "Diputados",
+              "escanos": 350,
+              "color": "#8D99AE"
+            }
+          ],
+          "total": 350,
+          "y": 560,
+          "ancho": 880,
+          "leyenda": false,
+          "en": 0.1,
+          "dur": 1,
+          "hasta": 2.52
+        },
+        {
+          "tipo": "lineaMeta",
+          "x": 510,
+          "y1": 540,
+          "y2": 1030,
+          "en": 1.1,
+          "etiqueta": "176",
+          "hasta": 2.52
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "176 SÍES",
+          "y": 340,
+          "en": 2.52
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 176,
+          "en": 2.52,
+          "espera": 0.12,
+          "dur": 1,
+          "y": 440,
+          "tamano": 200,
+          "izq": 80
+        },
+        {
+          "tipo": "votacion",
+          "y": 700,
+          "en": 2.52,
+          "si": {
+            "pasos": [
+              [
+                2.62,
+                0
+              ],
+              [
+                3.7199999999999998,
+                176
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 29.58,
+      "fin": 35.26,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "No basta: más síes que noes",
+          "y": 340,
+          "en": 0.05,
+          "hasta": 2.4
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Investido automáticamente",
+          "y": 340,
+          "en": 2.4
+        },
+        {
+          "tipo": "votacion",
+          "y": 570,
+          "alto": 70,
+          "en": 0.05,
+          "si": {
+            "pasos": [
+              [
+                0.1,
+                0
+              ],
+              [
+                1,
+                150
+              ],
+              [
+                2.9,
+                150
+              ],
+              [
+                3.5999999999999996,
+                196
+              ]
+            ]
+          },
+          "no": {
+            "pasos": [
+              [
+                0.35,
+                0
+              ],
+              [
+                1.2,
+                100
+              ]
+            ]
+          },
+          "parpadeo": [
+            1.3199999999999998,
+            2.4
+          ]
+        },
+        {
+          "tipo": "icono",
+          "nombre": "silla",
+          "x": 300,
+          "y": 985,
+          "tamano": 240,
+          "en": -1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "check",
+          "x": 830,
+          "y": 985,
+          "tamano": 150,
+          "en": 3.2,
+          "animEn": 3.25,
+          "dur": 0.5
+        },
+        {
+          "tipo": "icono",
+          "nombre": "busto",
+          "x": 640,
+          "y": 985,
+          "tamano": 170,
+          "en": 3.4699999999999998,
+          "color": "#2A9D8F",
+          "mover": {
+            "x": 300,
+            "y": 990,
+            "en": 3.5199999999999996,
+            "dur": 0.6
+          },
+          "hasta": 4.12
+        },
+        {
+          "tipo": "icono",
+          "nombre": "bustoSilla",
+          "x": 300,
+          "y": 985,
+          "tamano": 240,
+          "en": 4.069999999999999,
+          "color": "#2A9D8F"
+        },
+        {
+          "tipo": "dhEtiqueta",
+          "texto": "EJEMPLO",
+          "tinta": true,
+          "x": 460,
+          "y": 960,
+          "en": -0.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Constitución, art. 114.2"
+          ],
+          "en": 2.5
+        }
+      ]
+    },
+    {
+      "inicio": 35.26,
+      "fin": 37.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Sin otra votación · sin urnas",
+          "y": 340,
+          "en": 0.05
+        },
+        {
+          "tipo": "icono",
+          "nombre": "papeleta",
+          "x": 300,
+          "y": 830,
+          "tamano": 340,
+          "en": 0.1,
+          "animEn": 0.45000000000000007,
+          "dur": 0.4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urna",
+          "x": 780,
+          "y": 830,
+          "tamano": 340,
+          "en": 0.8,
+          "animEn": 1.2799999999999998,
+          "dur": 0.4
+        }
+      ]
+    },
+    {
+      "inicio": 37.66,
+      "fin": 42.14,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Por eso cuesta tanto",
+          "y": 340,
+          "en": 0.05,
+          "hasta": 1.48
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "176 votos, UN nombre",
+          "y": 340,
+          "en": 1.48
+        },
+        {
+          "tipo": "hemiciclo",
+          "grupos": [
+            {
+              "nombre": "Diputados",
+              "escanos": 350,
+              "color": "#8D99AE"
+            }
+          ],
+          "total": 350,
+          "y": 560,
+          "ancho": 880,
+          "leyenda": false,
+          "en": 0.1,
+          "dur": 0.9,
+          "resalta": {
+            "desde": 0,
+            "cuenta": 176,
+            "color": "#F2B134",
+            "en": 1.6400000000000001,
+            "dur": 1.1
+          }
+        },
+        {
+          "tipo": "lineaMeta",
+          "x": 510,
+          "y1": 540,
+          "y2": 1030,
+          "en": 0.4,
+          "etiqueta": "176"
+        },
+        {
+          "tipo": "icono",
+          "nombre": "tarjetaNombre",
+          "x": 510,
+          "y": 905,
+          "tamano": 200,
+          "en": 3.25
+        }
+      ]
+    },
+    {
+      "inicio": 42.14,
+      "fin": 44.68,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "6 MOCIONES",
+          "y": 340,
+          "en": 0.05
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 6,
+          "en": 0.1,
+          "espera": 0.2,
+          "dur": 1.8,
+          "y": 450,
+          "tamano": 200,
+          "izq": 80
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documentoMocion",
+          "x": 760,
+          "y": 560,
+          "tamano": 220,
+          "en": 0.2,
+          "animEn": 0.5,
+          "dur": 0.6
+        },
+        {
+          "tipo": "mociones",
+          "t0": 42.14,
+          "columnas": [
+            {
+              "etiqueta": "1980",
+              "valor": 152,
+              "hito": 42.4,
+              "barra": 44.75,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "1987",
+              "valor": 66,
+              "hito": 42.8,
+              "barra": 44.9,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2017",
+              "valor": 82,
+              "hito": 43.2,
+              "barra": 45.05,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2018",
+              "valor": 180,
+              "hito": 43.6,
+              "barra": 49.45,
+              "durBarra": 0.9,
+              "mostaza": 48.22
+            },
+            {
+              "etiqueta": "2020",
+              "valor": 52,
+              "hito": 44,
+              "barra": 45.2,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2023",
+              "valor": 53,
+              "hito": 44.4,
+              "barra": 45.35,
+              "gris": 46.05
+            }
+          ],
+          "lineaEn": 42.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Congreso de los Diputados"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 44.68,
+      "fin": 46.46,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "5 fracasaron",
+          "y": 340,
+          "en": 0.05
+        },
+        {
+          "tipo": "contador",
+          "desde": 6,
+          "hasta": 5,
+          "salto": true,
+          "en": -1,
+          "espera": 1.1,
+          "y": 450,
+          "tamano": 200,
+          "izq": 80
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 760,
+          "y": 560,
+          "tamano": 200,
+          "en": 0.2,
+          "animEn": 0.35,
+          "dur": 0.4
+        },
+        {
+          "tipo": "mociones",
+          "t0": 44.68,
+          "columnas": [
+            {
+              "etiqueta": "1980",
+              "valor": 152,
+              "hito": 42.4,
+              "barra": 44.75,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "1987",
+              "valor": 66,
+              "hito": 42.8,
+              "barra": 44.9,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2017",
+              "valor": 82,
+              "hito": 43.2,
+              "barra": 45.05,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2018",
+              "valor": 180,
+              "hito": 43.6,
+              "barra": 49.45,
+              "durBarra": 0.9,
+              "mostaza": 48.22
+            },
+            {
+              "etiqueta": "2020",
+              "valor": 52,
+              "hito": 44,
+              "barra": 45.2,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2023",
+              "valor": 53,
+              "hito": 44.4,
+              "barra": 45.35,
+              "gris": 46.05
+            }
+          ],
+          "lineaEn": 42.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Congreso de los Diputados"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 46.46,
+      "fin": 48.2,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1 APROBADA",
+          "y": 340,
+          "en": 0.05
+        },
+        {
+          "tipo": "foto",
+          "src": "F3.jpg",
+          "forma": "rect",
+          "x": 540,
+          "y": 605,
+          "ancho": 660,
+          "alto": 350,
+          "foco": "83% 69%",
+          "zoom": [
+            1.55,
+            1.8
+          ],
+          "dur": 1.74,
+          "en": 0.1,
+          "notas": [
+            "Foto: Pool Moncloa/Diego Crespo · 2018-05-31 ·",
+            "Ministerio de la Presidencia. Gobierno de España ·"
+          ],
+          "credito": "Wikimedia Commons"
+        },
+        {
+          "tipo": "mociones",
+          "t0": 46.46,
+          "columnas": [
+            {
+              "etiqueta": "1980",
+              "valor": 152,
+              "hito": 42.4,
+              "barra": 44.75,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "1987",
+              "valor": 66,
+              "hito": 42.8,
+              "barra": 44.9,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2017",
+              "valor": 82,
+              "hito": 43.2,
+              "barra": 45.05,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2018",
+              "valor": 180,
+              "hito": 43.6,
+              "barra": 49.45,
+              "durBarra": 0.9,
+              "mostaza": 48.22
+            },
+            {
+              "etiqueta": "2020",
+              "valor": 52,
+              "hito": 44,
+              "barra": 45.2,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2023",
+              "valor": 53,
+              "hito": 44.4,
+              "barra": 45.35,
+              "gris": 46.05
+            }
+          ],
+          "lineaEn": 42.3
+        }
+      ]
+    },
+    {
+      "inicio": 48.2,
+      "fin": 51.1,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2018 · 180 síes",
+          "y": 340,
+          "en": 0.05
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 180,
+          "en": 0.1,
+          "espera": 1.15,
+          "dur": 0.9,
+          "y": 450,
+          "tamano": 200,
+          "izq": 80
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "en": 2.25,
+          "y": 470,
+          "tamano": 90,
+          "x": 750
+        },
+        {
+          "tipo": "mociones",
+          "t0": 48.2,
+          "columnas": [
+            {
+              "etiqueta": "1980",
+              "valor": 152,
+              "hito": 42.4,
+              "barra": 44.75,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "1987",
+              "valor": 66,
+              "hito": 42.8,
+              "barra": 44.9,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2017",
+              "valor": 82,
+              "hito": 43.2,
+              "barra": 45.05,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2018",
+              "valor": 180,
+              "hito": 43.6,
+              "barra": 49.45,
+              "durBarra": 0.9,
+              "mostaza": 48.22
+            },
+            {
+              "etiqueta": "2020",
+              "valor": 52,
+              "hito": 44,
+              "barra": 45.2,
+              "gris": 46.05
+            },
+            {
+              "etiqueta": "2023",
+              "valor": 53,
+              "hito": 44.4,
+              "barra": 45.35,
+              "gris": 46.05
+            }
+          ],
+          "lineaEn": 42.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Congreso de los Diputados"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 51.1,
+      "fin": 54.22,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Rajoy → Sánchez",
+          "y": 340,
+          "en": 0.05
+        },
+        {
+          "tipo": "foto",
+          "src": "ret-rajoy.jpg",
+          "forma": "circulo",
+          "x": 195,
+          "y": 600,
+          "alto": 260,
+          "zoom": [
+            1,
+            1.15
+          ],
+          "dur": 3.12,
+          "en": 0.1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Mariano Rajoy · presidente hasta 2018",
+          "y": 492,
+          "en": 0.2,
+          "izq": 370,
+          "ancho": 590,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "flechaAbajo",
+          "x": 195,
+          "y": 772,
+          "tamano": 72,
+          "en": 1
+        },
+        {
+          "tipo": "foto",
+          "src": "ret-sanchez.jpg",
+          "forma": "circulo",
+          "x": 195,
+          "y": 940,
+          "alto": 260,
+          "zoom": [
+            1,
+            1.15
+          ],
+          "dur": 3.12,
+          "en": 0.5
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Pedro Sánchez · presidente desde 2018",
+          "y": 832,
+          "en": 0.6,
+          "izq": 370,
+          "ancho": 590,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Pool Moncloa/Diego Crespo · 2018-06-01 ·",
+            "Ministerio de la Presidencia. Gobierno de España ·",
+            "Wikimedia Commons"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 54.22,
+      "fin": 60.86,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MOCIÓN DE CENSURA",
+          "y": 340,
+          "en": 0.05,
+          "hasta": 1.46
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "No basta con echar…",
+          "y": 340,
+          "en": 1.46,
+          "hasta": 3.88
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "No basta con echar: hay que reemplazar",
+          "y": 340,
+          "en": 3.88
+        },
+        {
+          "tipo": "icono",
+          "nombre": "silla",
+          "x": 540,
+          "y": 830,
+          "tamano": 380,
+          "en": 0.1,
+          "vibra": [
+            0.6,
+            4.3
+          ]
+        },
+        {
+          "tipo": "icono",
+          "nombre": "bustoSilla",
+          "x": 540,
+          "y": 830,
+          "tamano": 380,
+          "en": 0.3,
+          "color": "#8D99AE",
+          "vibra": [
+            0.6,
+            4.3
+          ],
+          "mover": {
+            "x": 1500,
+            "y": 450,
+            "en": 4.319999999999999,
+            "dur": 0.2,
+            "arco": 220
+          },
+          "hasta": 4.7
+        },
+        {
+          "tipo": "icono",
+          "nombre": "bustoSilla",
+          "x": 540,
+          "y": 830,
+          "tamano": 380,
+          "en": 5.42,
+          "color": "#2A9D8F",
+          "etiqueta": "CANDIDATO"
+        }
+      ]
+    },
+    {
+      "inicio": 60.86,
+      "fin": 64.72,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "No basta con echar: hay que reemplazar",
+          "pregunta": "¿Qué mecanismo explicamos ahora?",
+          "tamano": 76,
+          "pulso": true
+        },
+        {
+          "tipo": "icono",
+          "nombre": "silla",
+          "x": 540,
+          "y": 865,
+          "tamano": 150,
+          "en": 0.2,
+          "vibra": [
+            0.8,
+            4.6
+          ]
+        },
+        {
+          "tipo": "icono",
+          "nombre": "bustoSilla",
+          "x": 540,
+          "y": 865,
+          "tamano": 150,
+          "en": 0.5,
+          "color": "#2A9D8F",
+          "vibra": [
+            0.8,
+            4.6
+          ]
+        }
+      ]
+    }
+  ],
+  "id": "001-mocion-de-censura",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "¿Echar",
+      "inicio": 0,
+      "fin": 0.32
+    },
+    {
+      "t": "a",
+      "inicio": 0.36,
+      "fin": 0.4
+    },
+    {
+      "t": "un",
+      "inicio": 0.44,
+      "fin": 0.48
+    },
+    {
+      "t": "presidente",
+      "inicio": 0.56,
+      "fin": 1.12
+    },
+    {
+      "t": "sin",
+      "inicio": 1.2,
+      "fin": 1.36
+    },
+    {
+      "t": "elecciones?",
+      "inicio": 1.44,
+      "fin": 2.24
+    },
+    {
+      "t": "Se",
+      "inicio": 2.48,
+      "fin": 2.56
+    },
+    {
+      "t": "puede.",
+      "inicio": 2.64,
+      "fin": 3.04
+    },
+    {
+      "t": "Pero",
+      "inicio": 3.44,
+      "fin": 3.6
+    },
+    {
+      "t": "solo",
+      "inicio": 3.68,
+      "fin": 3.92
+    },
+    {
+      "t": "ha",
+      "inicio": 3.96,
+      "fin": 4
+    },
+    {
+      "t": "pasado",
+      "inicio": 4.08,
+      "fin": 4.4
+    },
+    {
+      "t": "una",
+      "inicio": 4.56,
+      "fin": 4.72
+    },
+    {
+      "t": "vez.",
+      "inicio": 4.8,
+      "fin": 5.12
+    },
+    {
+      "t": "Se",
+      "inicio": 5.52,
+      "fin": 5.6
+    },
+    {
+      "t": "llama",
+      "inicio": 5.68,
+      "fin": 5.92
+    },
+    {
+      "t": "moción",
+      "inicio": 6.08,
+      "fin": 6.56
+    },
+    {
+      "t": "de",
+      "inicio": 6.6,
+      "fin": 6.64
+    },
+    {
+      "t": "censura",
+      "inicio": 6.72,
+      "fin": 7.12
+    },
+    {
+      "t": "y",
+      "inicio": 7.52,
+      "fin": 7.56
+    },
+    {
+      "t": "está",
+      "inicio": 7.6,
+      "fin": 7.84
+    },
+    {
+      "t": "en",
+      "inicio": 7.88,
+      "fin": 7.92
+    },
+    {
+      "t": "el",
+      "inicio": 8,
+      "fin": 8.08
+    },
+    {
+      "t": "artículo",
+      "inicio": 8.16,
+      "fin": 8.48
+    },
+    {
+      "t": "ciento",
+      "inicio": 8.64,
+      "fin": 8.88
+    },
+    {
+      "t": "trece",
+      "inicio": 8.96,
+      "fin": 9.2
+    },
+    {
+      "t": "de",
+      "inicio": 9.28,
+      "fin": 9.36
+    },
+    {
+      "t": "la",
+      "inicio": 9.4,
+      "fin": 9.44
+    },
+    {
+      "t": "Constitución.",
+      "inicio": 9.52,
+      "fin": 10.44
+    },
+    {
+      "t": "La",
+      "inicio": 10.72,
+      "fin": 10.8
+    },
+    {
+      "t": "puede",
+      "inicio": 10.88,
+      "fin": 11.04
+    },
+    {
+      "t": "presentar",
+      "inicio": 11.2,
+      "fin": 11.6
+    },
+    {
+      "t": "una",
+      "inicio": 11.68,
+      "fin": 11.84
+    },
+    {
+      "t": "décima",
+      "inicio": 11.92,
+      "fin": 12.24
+    },
+    {
+      "t": "parte",
+      "inicio": 12.32,
+      "fin": 12.56
+    },
+    {
+      "t": "del",
+      "inicio": 12.64,
+      "fin": 12.72
+    },
+    {
+      "t": "Congreso:",
+      "inicio": 12.84,
+      "fin": 13.52
+    },
+    {
+      "t": "al",
+      "inicio": 13.6,
+      "fin": 13.68
+    },
+    {
+      "t": "menos",
+      "inicio": 13.76,
+      "fin": 14
+    },
+    {
+      "t": "treinta",
+      "inicio": 14.16,
+      "fin": 14.48
+    },
+    {
+      "t": "y",
+      "inicio": 14.533,
+      "fin": 14.587
+    },
+    {
+      "t": "cinco",
+      "inicio": 14.64,
+      "fin": 14.8
+    },
+    {
+      "t": "diputados.",
+      "inicio": 14.88,
+      "fin": 15.8
+    },
+    {
+      "t": "Aquí",
+      "inicio": 16.08,
+      "fin": 16.32
+    },
+    {
+      "t": "viene",
+      "inicio": 16.36,
+      "fin": 16.48
+    },
+    {
+      "t": "el",
+      "inicio": 16.52,
+      "fin": 16.56
+    },
+    {
+      "t": "truco:",
+      "inicio": 16.64,
+      "fin": 17.28
+    },
+    {
+      "t": "es",
+      "inicio": 17.36,
+      "fin": 17.44
+    },
+    {
+      "t": "una",
+      "inicio": 17.52,
+      "fin": 17.6
+    },
+    {
+      "t": "moción",
+      "inicio": 17.68,
+      "fin": 18
+    },
+    {
+      "t": "constructiva.",
+      "inicio": 18.16,
+      "fin": 18.96
+    },
+    {
+      "t": "No",
+      "inicio": 19.36,
+      "fin": 19.44
+    },
+    {
+      "t": "vale",
+      "inicio": 19.52,
+      "fin": 19.68
+    },
+    {
+      "t": "con",
+      "inicio": 19.76,
+      "fin": 19.84
+    },
+    {
+      "t": "decir",
+      "inicio": 19.92,
+      "fin": 20.16
+    },
+    {
+      "t": "«fuera».",
+      "inicio": 20.4,
+      "fin": 20.8
+    },
+    {
+      "t": "Hay",
+      "inicio": 21.28,
+      "fin": 21.36
+    },
+    {
+      "t": "que",
+      "inicio": 21.44,
+      "fin": 21.48
+    },
+    {
+      "t": "proponer,",
+      "inicio": 21.52,
+      "fin": 22.08
+    },
+    {
+      "t": "a",
+      "inicio": 22.12,
+      "fin": 22.16
+    },
+    {
+      "t": "la",
+      "inicio": 22.24,
+      "fin": 22.28
+    },
+    {
+      "t": "vez,",
+      "inicio": 22.32,
+      "fin": 22.72
+    },
+    {
+      "t": "un",
+      "inicio": 22.88,
+      "fin": 22.96
+    },
+    {
+      "t": "candidato",
+      "inicio": 23.12,
+      "fin": 23.52
+    },
+    {
+      "t": "alternativo.",
+      "inicio": 23.6,
+      "fin": 24.24
+    },
+    {
+      "t": "Y",
+      "inicio": 24.72,
+      "fin": 24.8
+    },
+    {
+      "t": "para",
+      "inicio": 24.88,
+      "fin": 24.96
+    },
+    {
+      "t": "ganar",
+      "inicio": 25.04,
+      "fin": 25.28
+    },
+    {
+      "t": "hace",
+      "inicio": 25.44,
+      "fin": 25.6
+    },
+    {
+      "t": "falta",
+      "inicio": 25.68,
+      "fin": 25.92
+    },
+    {
+      "t": "mayoría",
+      "inicio": 26,
+      "fin": 26.32
+    },
+    {
+      "t": "absoluta:",
+      "inicio": 26.4,
+      "fin": 27.2
+    },
+    {
+      "t": "ciento",
+      "inicio": 27.24,
+      "fin": 27.52
+    },
+    {
+      "t": "setenta",
+      "inicio": 27.68,
+      "fin": 28
+    },
+    {
+      "t": "y",
+      "inicio": 28.08,
+      "fin": 28.16
+    },
+    {
+      "t": "seis",
+      "inicio": 28.2,
+      "fin": 28.32
+    },
+    {
+      "t": "votos",
+      "inicio": 28.4,
+      "fin": 28.72
+    },
+    {
+      "t": "a",
+      "inicio": 28.76,
+      "fin": 28.8
+    },
+    {
+      "t": "favor.",
+      "inicio": 28.88,
+      "fin": 29.2
+    },
+    {
+      "t": "No",
+      "inicio": 29.68,
+      "fin": 29.76
+    },
+    {
+      "t": "basta",
+      "inicio": 29.84,
+      "fin": 30.16
+    },
+    {
+      "t": "con",
+      "inicio": 30.24,
+      "fin": 30.32
+    },
+    {
+      "t": "más",
+      "inicio": 30.4,
+      "fin": 30.56
+    },
+    {
+      "t": "síes",
+      "inicio": 30.64,
+      "fin": 30.96
+    },
+    {
+      "t": "que",
+      "inicio": 31,
+      "fin": 31.04
+    },
+    {
+      "t": "noes.",
+      "inicio": 31.12,
+      "fin": 31.76
+    },
+    {
+      "t": "Si",
+      "inicio": 32.08,
+      "fin": 32.16
+    },
+    {
+      "t": "sale,",
+      "inicio": 32.24,
+      "fin": 32.64
+    },
+    {
+      "t": "el",
+      "inicio": 32.68,
+      "fin": 32.72
+    },
+    {
+      "t": "candidato",
+      "inicio": 32.8,
+      "fin": 33.2
+    },
+    {
+      "t": "queda",
+      "inicio": 33.28,
+      "fin": 33.44
+    },
+    {
+      "t": "investido",
+      "inicio": 33.6,
+      "fin": 33.92
+    },
+    {
+      "t": "automáticamente.",
+      "inicio": 34.08,
+      "fin": 35.2
+    },
+    {
+      "t": "Sin",
+      "inicio": 35.36,
+      "fin": 35.52
+    },
+    {
+      "t": "otra",
+      "inicio": 35.6,
+      "fin": 35.76
+    },
+    {
+      "t": "votación",
+      "inicio": 35.813,
+      "fin": 36.24
+    },
+    {
+      "t": "y",
+      "inicio": 36.48,
+      "fin": 36.56
+    },
+    {
+      "t": "sin",
+      "inicio": 36.64,
+      "fin": 36.8
+    },
+    {
+      "t": "urnas.",
+      "inicio": 36.92,
+      "fin": 37.28
+    },
+    {
+      "t": "Por",
+      "inicio": 37.76,
+      "fin": 37.84
+    },
+    {
+      "t": "eso",
+      "inicio": 37.92,
+      "fin": 38.08
+    },
+    {
+      "t": "cuesta",
+      "inicio": 38.16,
+      "fin": 38.4
+    },
+    {
+      "t": "tanto:",
+      "inicio": 38.48,
+      "fin": 39.12
+    },
+    {
+      "t": "ciento",
+      "inicio": 39.2,
+      "fin": 39.52
+    },
+    {
+      "t": "setenta",
+      "inicio": 39.6,
+      "fin": 39.92
+    },
+    {
+      "t": "y",
+      "inicio": 40,
+      "fin": 40.04
+    },
+    {
+      "t": "seis",
+      "inicio": 40.08,
+      "fin": 40.24
+    },
+    {
+      "t": "votos",
+      "inicio": 40.32,
+      "fin": 40.64
+    },
+    {
+      "t": "para",
+      "inicio": 40.72,
+      "fin": 40.88
+    },
+    {
+      "t": "un",
+      "inicio": 40.96,
+      "fin": 41.04
+    },
+    {
+      "t": "mismo",
+      "inicio": 41.12,
+      "fin": 41.36
+    },
+    {
+      "t": "nombre.",
+      "inicio": 41.52,
+      "fin": 41.76
+    },
+    {
+      "t": "En",
+      "inicio": 42.24,
+      "fin": 42.32
+    },
+    {
+      "t": "democracia",
+      "inicio": 42.4,
+      "fin": 42.88
+    },
+    {
+      "t": "se",
+      "inicio": 42.96,
+      "fin": 43.04
+    },
+    {
+      "t": "han",
+      "inicio": 43.08,
+      "fin": 43.12
+    },
+    {
+      "t": "presentado",
+      "inicio": 43.2,
+      "fin": 43.68
+    },
+    {
+      "t": "seis.",
+      "inicio": 43.92,
+      "fin": 44.4
+    },
+    {
+      "t": "Cinco",
+      "inicio": 44.8,
+      "fin": 45.12
+    },
+    {
+      "t": "se",
+      "inicio": 45.28,
+      "fin": 45.36
+    },
+    {
+      "t": "quedaron",
+      "inicio": 45.4,
+      "fin": 45.68
+    },
+    {
+      "t": "cortas.",
+      "inicio": 45.76,
+      "fin": 46.36
+    },
+    {
+      "t": "Solo",
+      "inicio": 46.56,
+      "fin": 46.8
+    },
+    {
+      "t": "una",
+      "inicio": 46.92,
+      "fin": 47.04
+    },
+    {
+      "t": "salió",
+      "inicio": 47.12,
+      "fin": 47.36
+    },
+    {
+      "t": "adelante:",
+      "inicio": 47.48,
+      "fin": 48.08
+    },
+    {
+      "t": "en",
+      "inicio": 48.16,
+      "fin": 48.24
+    },
+    {
+      "t": "dos",
+      "inicio": 48.32,
+      "fin": 48.4
+    },
+    {
+      "t": "mil",
+      "inicio": 48.48,
+      "fin": 48.56
+    },
+    {
+      "t": "dieciocho,",
+      "inicio": 48.64,
+      "fin": 49.36
+    },
+    {
+      "t": "con",
+      "inicio": 49.48,
+      "fin": 49.6
+    },
+    {
+      "t": "ciento",
+      "inicio": 49.64,
+      "fin": 49.92
+    },
+    {
+      "t": "ochenta",
+      "inicio": 50,
+      "fin": 50.32
+    },
+    {
+      "t": "votos.",
+      "inicio": 50.4,
+      "fin": 50.88
+    },
+    {
+      "t": "Pedro",
+      "inicio": 51.2,
+      "fin": 51.44
+    },
+    {
+      "t": "Sánchez",
+      "inicio": 51.52,
+      "fin": 51.92
+    },
+    {
+      "t": "sustituyó",
+      "inicio": 52,
+      "fin": 52.56
+    },
+    {
+      "t": "a",
+      "inicio": 52.72,
+      "fin": 52.8
+    },
+    {
+      "t": "Mariano",
+      "inicio": 52.88,
+      "fin": 53.2
+    },
+    {
+      "t": "Rajoy.",
+      "inicio": 53.24,
+      "fin": 53.96
+    },
+    {
+      "t": "La",
+      "inicio": 54.32,
+      "fin": 54.4
+    },
+    {
+      "t": "próxima",
+      "inicio": 54.44,
+      "fin": 54.72
+    },
+    {
+      "t": "vez",
+      "inicio": 54.8,
+      "fin": 54.88
+    },
+    {
+      "t": "que",
+      "inicio": 54.96,
+      "fin": 55.04
+    },
+    {
+      "t": "oigas",
+      "inicio": 55.08,
+      "fin": 55.44
+    },
+    {
+      "t": "«moción",
+      "inicio": 55.6,
+      "fin": 56
+    },
+    {
+      "t": "de",
+      "inicio": 56.08,
+      "fin": 56.12
+    },
+    {
+      "t": "censura»,",
+      "inicio": 56.16,
+      "fin": 56.8
+    },
+    {
+      "t": "recuerda:",
+      "inicio": 56.88,
+      "fin": 57.36
+    },
+    {
+      "t": "no",
+      "inicio": 57.84,
+      "fin": 57.92
+    },
+    {
+      "t": "basta",
+      "inicio": 58,
+      "fin": 58.32
+    },
+    {
+      "t": "con",
+      "inicio": 58.4,
+      "fin": 58.48
+    },
+    {
+      "t": "echar",
+      "inicio": 58.52,
+      "fin": 58.72
+    },
+    {
+      "t": "a",
+      "inicio": 58.8,
+      "fin": 58.853
+    },
+    {
+      "t": "alguien.",
+      "inicio": 58.907,
+      "fin": 59.52
+    },
+    {
+      "t": "Hay",
+      "inicio": 59.56,
+      "fin": 59.6
+    },
+    {
+      "t": "que",
+      "inicio": 59.68,
+      "fin": 59.76
+    },
+    {
+      "t": "poner",
+      "inicio": 59.84,
+      "fin": 60
+    },
+    {
+      "t": "a",
+      "inicio": 60.08,
+      "fin": 60.12
+    },
+    {
+      "t": "otro.",
+      "inicio": 60.16,
+      "fin": 60.68
+    },
+    {
+      "t": "¿Qué",
+      "inicio": 60.96,
+      "fin": 61.04
+    },
+    {
+      "t": "mecanismo",
+      "inicio": 61.08,
+      "fin": 61.52
+    },
+    {
+      "t": "explicamos",
+      "inicio": 61.64,
+      "fin": 62.08
+    },
+    {
+      "t": "ahora?",
+      "inicio": 62.16,
+      "fin": 62.72
+    }
+  ]
+}

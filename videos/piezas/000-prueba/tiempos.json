@@ -1,0 +1,98 @@
+{
+  "palabras": [
+    {
+      "t": "Esto",
+      "inicio": 0.15,
+      "fin": 0.453
+    },
+    {
+      "t": "es",
+      "inicio": 0.453,
+      "fin": 0.655
+    },
+    {
+      "t": "una",
+      "inicio": 0.655,
+      "fin": 0.908
+    },
+    {
+      "t": "prueba",
+      "inicio": 0.908,
+      "fin": 1.312
+    },
+    {
+      "t": "de",
+      "inicio": 1.312,
+      "fin": 1.514
+    },
+    {
+      "t": "la",
+      "inicio": 1.514,
+      "fin": 1.717
+    },
+    {
+      "t": "plantilla.",
+      "inicio": 1.717,
+      "fin": 2.576
+    },
+    {
+      "t": "Aquí",
+      "inicio": 2.576,
+      "fin": 2.879
+    },
+    {
+      "t": "va",
+      "inicio": 2.879,
+      "fin": 3.081
+    },
+    {
+      "t": "un",
+      "inicio": 3.081,
+      "fin": 3.283
+    },
+    {
+      "t": "dato",
+      "inicio": 3.283,
+      "fin": 3.586
+    },
+    {
+      "t": "de",
+      "inicio": 3.586,
+      "fin": 3.788
+    },
+    {
+      "t": "relleno.",
+      "inicio": 3.788,
+      "fin": 4.546
+    },
+    {
+      "t": "Nuestra",
+      "inicio": 4.546,
+      "fin": 5.001
+    },
+    {
+      "t": "lectura",
+      "inicio": 5.001,
+      "fin": 5.456
+    },
+    {
+      "t": "de",
+      "inicio": 5.456,
+      "fin": 5.658
+    },
+    {
+      "t": "relleno.",
+      "inicio": 5.658,
+      "fin": 6.416
+    },
+    {
+      "t": "Guárdalo.",
+      "inicio": 6.416,
+      "fin": 7.225
+    }
+  ],
+  "modo": "PROVISIONAL-sistema (Microsoft Helena Desktop)",
+  "provisional": true,
+  "duracion": 7.374739,
+  "texto": "Esto es una prueba de la plantilla. Aquí va un dato de relleno. Nuestra lectura de relleno. Guárdalo."
+}

@@ -1,0 +1,506 @@
+{
+  "plantilla": "flash",
+  "duracion": 33.01,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "foto",
+            "src": "A.jpg",
+            "forma": "completa",
+            "velo": 0.4,
+            "foco": "46% 38%",
+            "zoom": [
+              1.35,
+              1.35
+            ],
+            "pan": [
+              0,
+              250
+            ],
+            "dur": 0.01,
+            "en": -1,
+            "sobre": "oscuro",
+            "credito": "Foto: Javier Pérez Montes · CC BY-SA 4.0 · Wikimedia Commons"
+          },
+          {
+            "tipo": "gancho",
+            "texto": "LOS LEONES DEL CONGRESO SON CAÑONES",
+            "y": 400,
+            "tamano": 104,
+            "color": "#F4EFE6",
+            "en": -1
+          },
+          {
+            "tipo": "canonL",
+            "color": "#F2B134",
+            "x": 250,
+            "y": 1290,
+            "s": 0.95,
+            "llegaEn": -5,
+            "dur": 0.1,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.74,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "A.jpg",
+          "forma": "completa",
+          "velo": 0.15,
+          "foco": "46% 38%",
+          "zoom": [
+            1,
+            1.15
+          ],
+          "dur": 3.74,
+          "en": -1,
+          "sobre": "oscuro",
+          "credito": "Foto: Javier Pérez Montes · CC BY-SA 4.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "degradadoL",
+          "desde": 1180
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿DE QUÉ ESTÁN HECHOS?",
+          "y": 335,
+          "en": -1,
+          "tamano": 72,
+          "pastilla": "tinta",
+          "hasta": 2.41
+        },
+        {
+          "tipo": "ganchoL",
+          "texto": "DE CAÑONES",
+          "y": 335,
+          "tamano": 106,
+          "en": 2.46
+        },
+        {
+          "tipo": "canonL",
+          "x": 330,
+          "y": 620,
+          "s": 1.15,
+          "llegaEn": 2.46,
+          "dur": 0.55,
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 3.74,
+      "fin": 6.38,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ESCULTOR: PONCIANO PONZANO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "escultorL",
+          "x": 420,
+          "y": 920,
+          "en": 0.15
+        }
+      ]
+    },
+    {
+      "inicio": 6.38,
+      "fin": 9.18,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CAÑONES TOMADOS AL ENEMIGO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "coladaL",
+          "x": 520,
+          "y": 700,
+          "cae1": 0.5,
+          "cae2": 1,
+          "vierteEn": 1.5,
+          "llenaDur": 1,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 9.18,
+      "fin": 13.18,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "BATALLA DE WAD-RAS (SEGÚN LA RAE)",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "B.jpg",
+          "x": 500,
+          "y": 710,
+          "ancho": 880,
+          "alto": 380,
+          "foco": "70% 100%",
+          "zoom": [
+            1,
+            1.35
+          ],
+          "dur": 1.5,
+          "en": 0.15
+        },
+        {
+          "tipo": "subrayadoL",
+          "x1": 430,
+          "y1": 776,
+          "x2": 925,
+          "y2": 699,
+          "grosor": 10,
+          "en": 1.75,
+          "dur": 0.7
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "FUNDIDO CON CAÑONES TOMADOS AL ENEMIGO EN LA GUERRA DE ÁFRICA EN 1860"
+          ],
+          "en": 0.7,
+          "y": 925
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: David Adam Kess · CC BY-SA 4.0 · Wikimedia Commons"
+          ],
+          "en": 0.15,
+          "y": 1030
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: RAE (Diccionario panhispánico del español jurídico) · Congreso de los Diputados"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 13.18,
+      "fin": 15.9,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "C.jpg",
+          "x": 500,
+          "y": 520,
+          "ancho": 880,
+          "alto": 340,
+          "foco": "50% 45%",
+          "zoom": [
+            1,
+            1.1
+          ],
+          "dur": 2.72,
+          "en": 0.1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DAOÍZ Y VELARDE",
+          "y": 722,
+          "en": 0.2,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "D.jpg",
+          "x": 500,
+          "y": 960,
+          "ancho": 880,
+          "alto": 320,
+          "foco": "50% 40%",
+          "zoom": [
+            1,
+            1.1
+          ],
+          "dur": 2.72,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fotos: Alta Falisa · CC BY-SA 4.0 · Wikimedia Commons",
+            "Fuente: Congreso de los Diputados"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 15.9,
+      "fin": 19.5,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Capitanes Luis Daoíz y Pedro Velarde",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "C.jpg",
+          "forma": "circulo",
+          "x": 150,
+          "y": 640,
+          "alto": 170,
+          "foco": "50% 45%",
+          "zoom": [
+            1,
+            1.1
+          ],
+          "dur": 3.5,
+          "en": 0.1
+        },
+        {
+          "tipo": "foto",
+          "src": "D.jpg",
+          "forma": "circulo",
+          "x": 830,
+          "y": 640,
+          "alto": 170,
+          "foco": "50% 40%",
+          "zoom": [
+            1,
+            1.1
+          ],
+          "dur": 3.5,
+          "en": 0.1
+        },
+        {
+          "tipo": "hitoL",
+          "x1": 290,
+          "x2": 690,
+          "y": 600,
+          "etiqueta": "2 MAYO 1808",
+          "hitoEn": 1.3900000000000001,
+          "en": 0.1
+        },
+        {
+          "tipo": "bustoL",
+          "x": 450,
+          "y": 880,
+          "tam": 170,
+          "en": 0.5
+        },
+        {
+          "tipo": "bustoL",
+          "x": 630,
+          "y": 880,
+          "tam": 170,
+          "en": 0.5
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2 DE MAYO DE 1808",
+          "y": 1010,
+          "en": 1.3900000000000001,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fotos: Alta Falisa · CC BY-SA 4.0 · Wikimedia Commons",
+            "Fuente: Congreso de los Diputados"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 19.5,
+      "fin": 24.38,
+      "componentes": [
+        {
+          "tipo": "rotuloL",
+          "partes": [
+            {
+              "t": "DAOÍZ Y VELARDE",
+              "en": 0
+            }
+          ],
+          "y": 440,
+          "yHasta": 335,
+          "yEn": 1.52,
+          "grisEn": 1.52,
+          "en": 0.05
+        },
+        {
+          "tipo": "rotuloL",
+          "partes": [
+            {
+              "t": "AL PRINCIPIO:",
+              "en": 1.52
+            }
+          ],
+          "y": 440,
+          "tamano": 68,
+          "en": 1.52
+        },
+        {
+          "tipo": "rotuloL",
+          "partes": [
+            {
+              "t": "HIPÓMENES",
+              "en": 3.0700000000000003
+            },
+            {
+              "t": " Y ",
+              "en": 3.84
+            },
+            {
+              "t": "ATALANTA",
+              "en": 3.9499999999999997
+            }
+          ],
+          "y": 530,
+          "tamano": 68,
+          "en": 1.52
+        },
+        {
+          "tipo": "grecaL",
+          "y": 700,
+          "en": 0.2,
+          "dur": 1.4
+        },
+        {
+          "tipo": "vasijaL",
+          "x": 540,
+          "y": 910,
+          "alto": 240,
+          "en": 0.6
+        },
+        {
+          "tipo": "grecaL",
+          "y": 1040,
+          "x1": 70,
+          "x2": 930,
+          "en": 1,
+          "dur": 1.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: RAE (Diccionario panhispánico del español jurídico)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 24.38,
+      "fin": 27.34,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MITO GRIEGO: CONVERTIDOS EN LEONES",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "ceramicaL",
+          "y": 1010,
+          "transEn": 1.44,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Mito: Ovidio, Metamorfosis, libro X"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 27.34,
+      "fin": 29.58,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "A.jpg",
+          "forma": "completa",
+          "velo": 0.15,
+          "foco": "46% 38%",
+          "zoom": [
+            1,
+            1.08
+          ],
+          "dur": 2.24,
+          "en": -1,
+          "sobre": "oscuro",
+          "credito": "Foto: Javier Pérez Montes · CC BY-SA 4.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "degradadoL",
+          "desde": 1180
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "RECUERDA: SON CAÑONES",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 72,
+          "pastilla": "tinta"
+        },
+        {
+          "tipo": "canonL",
+          "x": 330,
+          "y": 620,
+          "s": 1.15,
+          "llegaEn": 0.3,
+          "dur": 0.55,
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 29.58,
+      "fin": 33.01,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Leones de bronce, bronce de cañones",
+          "pregunta": "¿LOS CONOCÍAS POR SUS NOMBRES?",
+          "tamano": 88,
+          "yGuardalo": 1200,
+          "yFuentes": 1310,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

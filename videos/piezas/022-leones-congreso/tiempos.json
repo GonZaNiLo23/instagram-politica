@@ -1,0 +1,438 @@
+{
+  "palabras": [
+    {
+      "t": "¿De",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "qué",
+      "inicio": 0.2,
+      "fin": 0.24
+    },
+    {
+      "t": "están",
+      "inicio": 0.32,
+      "fin": 0.56
+    },
+    {
+      "t": "hechos",
+      "inicio": 0.6,
+      "fin": 0.88
+    },
+    {
+      "t": "los",
+      "inicio": 0.96,
+      "fin": 1.04
+    },
+    {
+      "t": "leones",
+      "inicio": 1.12,
+      "fin": 1.44
+    },
+    {
+      "t": "del",
+      "inicio": 1.52,
+      "fin": 1.6
+    },
+    {
+      "t": "Congreso?",
+      "inicio": 1.72,
+      "fin": 2.48
+    },
+    {
+      "t": "De",
+      "inicio": 2.56,
+      "fin": 2.72
+    },
+    {
+      "t": "cañones.",
+      "inicio": 2.8,
+      "fin": 3.64
+    },
+    {
+      "t": "Los",
+      "inicio": 3.84,
+      "fin": 4
+    },
+    {
+      "t": "ideó",
+      "inicio": 4.12,
+      "fin": 4.32
+    },
+    {
+      "t": "el",
+      "inicio": 4.36,
+      "fin": 4.4
+    },
+    {
+      "t": "escultor",
+      "inicio": 4.48,
+      "fin": 4.88
+    },
+    {
+      "t": "Ponciano",
+      "inicio": 5.04,
+      "fin": 5.52
+    },
+    {
+      "t": "Ponzano.",
+      "inicio": 5.6,
+      "fin": 6.16
+    },
+    {
+      "t": "Se",
+      "inicio": 6.48,
+      "fin": 6.56
+    },
+    {
+      "t": "fundieron",
+      "inicio": 6.64,
+      "fin": 7.04
+    },
+    {
+      "t": "con",
+      "inicio": 7.12,
+      "fin": 7.2
+    },
+    {
+      "t": "cañones",
+      "inicio": 7.28,
+      "fin": 7.68
+    },
+    {
+      "t": "tomados",
+      "inicio": 7.76,
+      "fin": 8.08
+    },
+    {
+      "t": "al",
+      "inicio": 8.12,
+      "fin": 8.16
+    },
+    {
+      "t": "enemigo",
+      "inicio": 8.24,
+      "fin": 8.64
+    },
+    {
+      "t": "en",
+      "inicio": 8.68,
+      "fin": 8.72
+    },
+    {
+      "t": "la",
+      "inicio": 8.8,
+      "fin": 8.84
+    },
+    {
+      "t": "guerra",
+      "inicio": 8.88,
+      "fin": 9.12
+    },
+    {
+      "t": "de",
+      "inicio": 9.2,
+      "fin": 9.24
+    },
+    {
+      "t": "África.",
+      "inicio": 9.28,
+      "fin": 9.76
+    },
+    {
+      "t": "De",
+      "inicio": 10.08,
+      "fin": 10.16
+    },
+    {
+      "t": "la",
+      "inicio": 10.24,
+      "fin": 10.28
+    },
+    {
+      "t": "batalla",
+      "inicio": 10.32,
+      "fin": 10.72
+    },
+    {
+      "t": "de",
+      "inicio": 10.76,
+      "fin": 10.8
+    },
+    {
+      "t": "Wad-Ras,",
+      "inicio": 10.88,
+      "fin": 11.68
+    },
+    {
+      "t": "según",
+      "inicio": 11.76,
+      "fin": 12
+    },
+    {
+      "t": "la",
+      "inicio": 12.04,
+      "fin": 12.08
+    },
+    {
+      "t": "Real",
+      "inicio": 12.16,
+      "fin": 12.4
+    },
+    {
+      "t": "Academia.",
+      "inicio": 12.44,
+      "fin": 12.96
+    },
+    {
+      "t": "Se",
+      "inicio": 13.28,
+      "fin": 13.36
+    },
+    {
+      "t": "les",
+      "inicio": 13.44,
+      "fin": 13.52
+    },
+    {
+      "t": "conoce",
+      "inicio": 13.6,
+      "fin": 13.92
+    },
+    {
+      "t": "como",
+      "inicio": 14,
+      "fin": 14.24
+    },
+    {
+      "t": "Daoíz",
+      "inicio": 14.4,
+      "fin": 15.04
+    },
+    {
+      "t": "y",
+      "inicio": 15.08,
+      "fin": 15.12
+    },
+    {
+      "t": "Velarde.",
+      "inicio": 15.2,
+      "fin": 15.68
+    },
+    {
+      "t": "Por",
+      "inicio": 16,
+      "fin": 16.08
+    },
+    {
+      "t": "dos",
+      "inicio": 16.16,
+      "fin": 16.24
+    },
+    {
+      "t": "capitanes",
+      "inicio": 16.32,
+      "fin": 16.72
+    },
+    {
+      "t": "muertos",
+      "inicio": 16.8,
+      "fin": 17.2
+    },
+    {
+      "t": "el",
+      "inicio": 17.28,
+      "fin": 17.36
+    },
+    {
+      "t": "dos",
+      "inicio": 17.44,
+      "fin": 17.52
+    },
+    {
+      "t": "de",
+      "inicio": 17.6,
+      "fin": 17.68
+    },
+    {
+      "t": "mayo",
+      "inicio": 17.76,
+      "fin": 17.96
+    },
+    {
+      "t": "de",
+      "inicio": 18,
+      "fin": 18.08
+    },
+    {
+      "t": "mil",
+      "inicio": 18.16,
+      "fin": 18.24
+    },
+    {
+      "t": "ochocientos",
+      "inicio": 18.32,
+      "fin": 18.88
+    },
+    {
+      "t": "ocho.",
+      "inicio": 18.96,
+      "fin": 19.52
+    },
+    {
+      "t": "Pero,",
+      "inicio": 19.6,
+      "fin": 19.92
+    },
+    {
+      "t": "según",
+      "inicio": 20,
+      "fin": 20.24
+    },
+    {
+      "t": "la",
+      "inicio": 20.28,
+      "fin": 20.32
+    },
+    {
+      "t": "Academia,",
+      "inicio": 20.4,
+      "fin": 21.04
+    },
+    {
+      "t": "al",
+      "inicio": 21.12,
+      "fin": 21.2
+    },
+    {
+      "t": "principio",
+      "inicio": 21.24,
+      "fin": 21.68
+    },
+    {
+      "t": "se",
+      "inicio": 21.76,
+      "fin": 21.84
+    },
+    {
+      "t": "pensaron",
+      "inicio": 21.92,
+      "fin": 22.32
+    },
+    {
+      "t": "como",
+      "inicio": 22.44,
+      "fin": 22.56
+    },
+    {
+      "t": "Hipómenes",
+      "inicio": 22.72,
+      "fin": 23.36
+    },
+    {
+      "t": "y",
+      "inicio": 23.44,
+      "fin": 23.52
+    },
+    {
+      "t": "Atalanta.",
+      "inicio": 23.6,
+      "fin": 24.16
+    },
+    {
+      "t": "Una",
+      "inicio": 24.48,
+      "fin": 24.56
+    },
+    {
+      "t": "pareja",
+      "inicio": 24.64,
+      "fin": 25.04
+    },
+    {
+      "t": "de",
+      "inicio": 25.08,
+      "fin": 25.12
+    },
+    {
+      "t": "un",
+      "inicio": 25.16,
+      "fin": 25.2
+    },
+    {
+      "t": "mito",
+      "inicio": 25.28,
+      "fin": 25.52
+    },
+    {
+      "t": "griego",
+      "inicio": 25.56,
+      "fin": 25.84
+    },
+    {
+      "t": "convertida",
+      "inicio": 25.92,
+      "fin": 26.48
+    },
+    {
+      "t": "en",
+      "inicio": 26.52,
+      "fin": 26.56
+    },
+    {
+      "t": "leones.",
+      "inicio": 26.64,
+      "fin": 27.24
+    },
+    {
+      "t": "Recuerda:",
+      "inicio": 27.44,
+      "fin": 28.16
+    },
+    {
+      "t": "son",
+      "inicio": 28.24,
+      "fin": 28.48
+    },
+    {
+      "t": "cañones.",
+      "inicio": 28.64,
+      "fin": 29.36
+    },
+    {
+      "t": "¿Tú",
+      "inicio": 29.68,
+      "fin": 29.76
+    },
+    {
+      "t": "los",
+      "inicio": 29.84,
+      "fin": 29.92
+    },
+    {
+      "t": "conocías",
+      "inicio": 30,
+      "fin": 30.4
+    },
+    {
+      "t": "por",
+      "inicio": 30.48,
+      "fin": 30.56
+    },
+    {
+      "t": "sus",
+      "inicio": 30.64,
+      "fin": 30.72
+    },
+    {
+      "t": "nombres?",
+      "inicio": 30.8,
+      "fin": 31.44
+    }
+  ],
+  "duracion": 31.36,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE"
+}

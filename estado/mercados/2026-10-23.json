@@ -1,0 +1,106 @@
+{
+  "fecha": "2026-10-23",
+  "generado": "2026-10-26 01:16",
+  "fuente": "Yahoo Finance (API de gráficos)",
+  "activos": [
+    {
+      "id": "ibex",
+      "nombre": "IBEX 35",
+      "simbolo": "^IBEX",
+      "zona": "España",
+      "dia": "2026-10-23",
+      "cierre": 18989.8,
+      "anterior": 18913.5,
+      "variacion": 0.4,
+      "cerrado": "sí",
+      "horaMercado": "2026-10-23 17:35"
+    },
+    {
+      "id": "stoxx",
+      "nombre": "Euro Stoxx 50",
+      "simbolo": "^STOXX50E",
+      "zona": "Europa",
+      "dia": "2026-10-23",
+      "cierre": 6068.22,
+      "anterior": 6087.01,
+      "variacion": -0.31,
+      "cerrado": "sí",
+      "horaMercado": "2026-10-23 18:00"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "simbolo": "^GSPC",
+      "zona": "EE. UU.",
+      "dia": "2026-10-23",
+      "cierre": 7623.68,
+      "anterior": 7663.43,
+      "variacion": -0.52,
+      "cerrado": "sí",
+      "horaMercado": "2026-10-23 22:38"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "simbolo": "^DJI",
+      "zona": "EE. UU.",
+      "dia": "2026-10-23",
+      "cierre": 52215.16,
+      "anterior": 52867.98,
+      "variacion": -1.23,
+      "cerrado": "sí",
+      "horaMercado": "2026-10-23 22:42"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq",
+      "simbolo": "^IXIC",
+      "zona": "EE. UU.",
+      "dia": "2026-10-23",
+      "cierre": 25955.34,
+      "anterior": 26008.86,
+      "variacion": -0.21,
+      "cerrado": "sí",
+      "horaMercado": "2026-10-23 23:15"
+    },
+    {
+      "id": "eurusd",
+      "nombre": "Euro/dólar",
+      "simbolo": "EURUSD=X",
+      "zona": "Divisas",
+      "decimales": 4,
+      "dia": "2026-10-23",
+      "cierre": 1.1221,
+      "anterior": 1.1235,
+      "variacion": -0.12,
+      "cerrado": "sí",
+      "horaMercado": "2026-10-26 01:16"
+    },
+    {
+      "id": "brent",
+      "nombre": "Brent",
+      "simbolo": "BZ=F",
+      "zona": "Materias primas",
+      "unidad": "$",
+      "dia": "2026-10-23",
+      "cierre": 116.72,
+      "anterior": 113.17,
+      "variacion": 3.14,
+      "cerrado": "sí",
+      "horaMercado": "2026-10-26 01:06"
+    },
+    {
+      "id": "bitcoin",
+      "nombre": "Bitcoin",
+      "simbolo": "BTC-USD",
+      "zona": "Cripto",
+      "unidad": "$",
+      "dia": "2026-10-23",
+      "cierre": 81074.19,
+      "anterior": 81311.89,
+      "variacion": -0.29,
+      "cerrado": "sí",
+      "horaMercado": "2026-10-26 01:16"
+    }
+  ]
+}

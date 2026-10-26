@@ -1,0 +1,1265 @@
+{
+  "plantilla": "estandar",
+  "duracion": 90,
+  "portadaSegundo": 1.2,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "marca"
+          },
+          {
+            "tipo": "gancho",
+            "texto": "DECRETOS DE VIVIENDA: ¿QUÉ TE CAMBIA?",
+            "y": 420,
+            "tamano": 112,
+            "en": -1
+          },
+          {
+            "tipo": "llaveV",
+            "letra": "A",
+            "x": 560,
+            "y": 1090,
+            "escala": 1.3,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "YA",
+            "y": 1040,
+            "en": -1,
+            "tamano": 120,
+            "izq": 620,
+            "ancho": 340
+          },
+          {
+            "tipo": "llaveV",
+            "letra": "B",
+            "x": 560,
+            "y": 1300,
+            "escala": 1.3,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "¿?",
+            "y": 1250,
+            "en": -1,
+            "tamano": 120,
+            "izq": 620,
+            "ancho": 340
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.38,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "UNO YA CUENTA. EL OTRO, ¿NUNCA?",
+          "y": 330,
+          "tamano": 72,
+          "en": 0
+        },
+        {
+          "tipo": "llaveV",
+          "letra": "A",
+          "x": 585,
+          "y": 700,
+          "escala": 1.2,
+          "en": 0,
+          "luz": 0,
+          "luzHasta": 2.3,
+          "gira": {
+            "en": 0.5,
+            "dur": 0.5,
+            "grados": 35
+          }
+        },
+        {
+          "tipo": "cerraduraV",
+          "x": 650,
+          "y": 700,
+          "en": 0,
+          "marcas": [
+            {
+              "tipo": "check",
+              "en": 0.55
+            }
+          ]
+        },
+        {
+          "tipo": "llaveV",
+          "letra": "B",
+          "x": 545,
+          "y": 930,
+          "escala": 1.2,
+          "en": 0.15,
+          "luz": 2.76,
+          "luzHasta": 4.38,
+          "flota": 3
+        },
+        {
+          "tipo": "cerraduraV",
+          "x": 650,
+          "y": 930,
+          "en": 0.15,
+          "marcas": [
+            {
+              "tipo": "interroga",
+              "en": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 4.38,
+      "fin": 9.95,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2 OCT: EL CONGRESO LOS TUMBA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 2.57
+        },
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "forma": "rect",
+          "x": 495,
+          "y": 620,
+          "ancho": 900,
+          "alto": 230,
+          "foco": "50% 60%",
+          "zoom": [
+            1.02,
+            1.12
+          ],
+          "dur": 2.57,
+          "en": 0.1,
+          "hasta": 2.57,
+          "notas": [
+            "Pleno del Congreso, 2-10-2026"
+          ],
+          "credito": "Foto: Antonio.velez · CC BY-SA 3.0 es · Wikimedia Commons"
+        },
+        {
+          "tipo": "votosDecretos",
+          "y": 750,
+          "en": 0,
+          "hasta": 2.57,
+          "max": 200,
+          "compacto": true,
+          "filas": [
+            {
+              "etiqueta": "A · función social",
+              "si": 172,
+              "no": 178,
+              "en": 0
+            },
+            {
+              "etiqueta": "B · prórrogas",
+              "si": 166,
+              "no": 184,
+              "en": 0.5
+            }
+          ]
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "6 OCT: APROBADOS DE NUEVO",
+          "y": 330,
+          "en": 2.57,
+          "tamano": 64,
+          "hasta": 5.57
+        },
+        {
+          "tipo": "fechasV",
+          "y": 520,
+          "ranuras": 4,
+          "x0": 170,
+          "x1": 790,
+          "en": 2.57,
+          "hasta": 5.57,
+          "hitos": [
+            {
+              "dia": "2",
+              "mes": "OCT",
+              "en": 2.77
+            },
+            {
+              "dia": "6",
+              "mes": "OCT",
+              "en": 3.12
+            },
+            {
+              "dia": "12",
+              "mes": "NOV",
+              "gris": true,
+              "nota": [
+                "prevista",
+                "(prensa)"
+              ]
+            },
+            {
+              "dia": "15",
+              "mes": "NOV",
+              "en": 4.62
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "BOE 7-10"
+          ],
+          "en": 3.22,
+          "hasta": 5.57,
+          "y": 770,
+          "x": 285,
+          "tamano": 64,
+          "angulo": -4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documento",
+          "x": 740,
+          "y": 850,
+          "tamano": 110,
+          "en": 3.32,
+          "hasta": 5.57
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documento",
+          "x": 850,
+          "y": 850,
+          "tamano": 110,
+          "en": 3.47,
+          "hasta": 5.57
+        },
+        {
+          "tipo": "tarjetaCita",
+          "cita": "\"mantienen la esencia\"",
+          "autor": "Pedro Sánchez · presidente del Gobierno",
+          "x": 495,
+          "y": 930,
+          "deIzq": true,
+          "en": 4.12,
+          "hasta": 5.57
+        }
+      ]
+    },
+    {
+      "inicio": 9.95,
+      "fin": 13.34,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "AHORA DECIDE LA DIPUTACIÓN PERMANENTE",
+          "y": 330,
+          "en": 0,
+          "tamano": 64
+        },
+        {
+          "tipo": "hemiciclo",
+          "y": 590,
+          "ancho": 700,
+          "leyenda": false,
+          "estatico": true,
+          "en": 0,
+          "grupos": [
+            {
+              "nombre": "Escaños",
+              "escanos": 350,
+              "color": "#14213D"
+            }
+          ],
+          "apagar": {
+            "en": 0.5,
+            "dur": 1.5,
+            "de": "#14213D",
+            "a": "#8D99AE"
+          },
+          "resalta": {
+            "desde": 168,
+            "cuenta": 14,
+            "color": "#F2B134",
+            "en": 0.5,
+            "dur": 0.8
+          }
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Representa a los grupos según su peso",
+          "y": 950,
+          "en": 1,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 13.34,
+      "fin": 27.18,
+      "componentes": [
+        {
+          "tipo": "llaveV",
+          "letra": "A",
+          "x": 300,
+          "y": 360,
+          "escala": 0.7,
+          "en": 0.1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "LLAVE A · EN VIGOR DESDE 8-10",
+          "y": 420,
+          "en": 0.1,
+          "tamano": 64,
+          "hasta": 3.68
+        },
+        {
+          "tipo": "foto",
+          "src": "F3.jpg",
+          "forma": "rect",
+          "x": 495,
+          "y": 860,
+          "ancho": 900,
+          "alto": 480,
+          "foco": "50% 33%",
+          "zoom": [
+            1.03,
+            1.14
+          ],
+          "dur": 3.68,
+          "en": 0.15,
+          "hasta": 3.68,
+          "notas": [
+            "RDL 29/2026"
+          ],
+          "credito": "Foto: Luis García (Zaqarbal) · CC BY-SA 3.0 es · Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SUBIDA MÁXIMA: 2 %",
+          "y": 420,
+          "en": 3.68,
+          "tamano": 64,
+          "hasta": 6.68
+        },
+        {
+          "tipo": "reciboTecho",
+          "x": 540,
+          "y": 830,
+          "tamano": 420,
+          "en": 3.68,
+          "hasta": 6.68,
+          "subeEn": 3.98,
+          "selloEn": 5.66,
+          "techoEn": 6.06
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Sin pacto · hasta 31-12-2027",
+            "Fuente: BOE, RDL 29/2026"
+          ],
+          "en": 3.68,
+          "hasta": 6.68
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "+2 AÑOS DE CONTRATO",
+          "y": 420,
+          "en": 6.68,
+          "tamano": 64,
+          "hasta": 9.64
+        },
+        {
+          "tipo": "calendarioMas",
+          "x": 380,
+          "y": 830,
+          "tamano": 400,
+          "en": 6.68,
+          "hasta": 9.64,
+          "masEn": 8.11
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "8 meses al día",
+          "y": 760,
+          "en": 7.16,
+          "tamano": 64,
+          "izq": 600,
+          "ancho": 340,
+          "hasta": 9.64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Si vence antes de 2029 · 8 meses al día · con excepciones",
+            "Fuente: BOE, RDL 29/2026"
+          ],
+          "en": 6.68,
+          "hasta": 9.64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "FRENO A DESAHUCIOS VULNERABLES",
+          "y": 420,
+          "en": 9.64,
+          "tamano": 64
+        },
+        {
+          "tipo": "casaEscudo",
+          "x": 540,
+          "y": 830,
+          "tamano": 420,
+          "en": 9.64,
+          "casaEn": 9.74,
+          "escudoEn": 11.36
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Algunos casos · hasta 2030",
+            "Fuente: BOE, RDL 29/2026"
+          ],
+          "en": 9.64
+        }
+      ]
+    },
+    {
+      "inicio": 27.18,
+      "fin": 38.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LLAVE B · AÚN NO EN VIGOR",
+          "y": 420,
+          "en": 0.1,
+          "tamano": 64,
+          "hasta": 2.42
+        },
+        {
+          "tipo": "llaveV",
+          "letra": "B",
+          "x": 480,
+          "y": 820,
+          "escala": 1.2,
+          "en": 0.2,
+          "hasta": 2.42,
+          "flota": 0.8
+        },
+        {
+          "tipo": "cerraduraV",
+          "x": 580,
+          "y": 820,
+          "en": 0.2,
+          "hasta": 2.42,
+          "marcas": [
+            {
+              "tipo": "interroga",
+              "en": 0.6
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL 28/2026"
+          ],
+          "en": 0.1,
+          "hasta": 2.42
+        },
+        {
+          "tipo": "llaveV",
+          "letra": "B",
+          "x": 940,
+          "y": 360,
+          "escala": 0.7,
+          "en": 2.42
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PRÓRROGAS DE 5 AÑOS, EN CADENA",
+          "y": 420,
+          "en": 2.42,
+          "tamano": 64,
+          "hasta": 6.88
+        },
+        {
+          "tipo": "contratoBucle",
+          "x": 540,
+          "y": 780,
+          "tamano": 340,
+          "en": 2.42,
+          "hasta": 6.88
+        },
+        {
+          "tipo": "cadenaAnios",
+          "y": 975,
+          "pasos": [
+            4.22,
+            5.12,
+            6.02
+          ],
+          "hasta": 6.88
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "7 si el casero es una empresa",
+            "Fuente: BOE, RDL 28/2026"
+          ],
+          "en": 2.42,
+          "hasta": 6.88
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "NO RENOVAR: 6 MESES DE AVISO",
+          "y": 420,
+          "en": 6.88,
+          "tamano": 64,
+          "hasta": 9.37
+        },
+        {
+          "tipo": "icono",
+          "nombre": "relojArena",
+          "x": 540,
+          "y": 820,
+          "tamano": 340,
+          "en": 6.88,
+          "hasta": 9.37,
+          "animEn": 7.02,
+          "dur": 2.2,
+          "etiqueta": "6 meses"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: BOE, RDL 28/2026"
+          ],
+          "en": 6.88,
+          "hasta": 9.37
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "INDEMNIZACIÓN: MÍN. 12 MENSUALIDADES",
+          "y": 420,
+          "en": 9.37,
+          "tamano": 64
+        },
+        {
+          "tipo": "sobreBilletes",
+          "x": 540,
+          "y": 820,
+          "tamano": 420,
+          "en": 9.469999999999999
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Valor de referencia · con excepciones",
+            "Fuente: BOE, RDL 28/2026"
+          ],
+          "en": 9.37
+        }
+      ]
+    },
+    {
+      "inicio": 38.66,
+      "fin": 45.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EL GOBIERNO DEFIENDE:",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F4.jpg",
+          "forma": "rect",
+          "x": 495,
+          "y": 840,
+          "ancho": 900,
+          "alto": 460,
+          "foco": "50% 55%",
+          "zoom": [
+            1.03,
+            1.14
+          ],
+          "dur": 1.74,
+          "en": 0.15,
+          "hasta": 1.74,
+          "notas": [
+            "Exposición de motivos, RDL 28 y 29/2026"
+          ],
+          "credito": "Foto: Yeray Díaz Zbida · CC BY 2.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Gobierno",
+          "y": 650,
+          "en": 0.3,
+          "tamano": 64,
+          "izq": 90,
+          "ancho": 400,
+          "pastilla": "tinta",
+          "hasta": 1.74
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EL ALQUILER SUBE AL RENOVAR",
+          "y": 430,
+          "en": 1.74,
+          "tamano": 64,
+          "hasta": 3.44
+        },
+        {
+          "tipo": "contratoFin",
+          "x": 540,
+          "y": 860,
+          "tamano": 400,
+          "en": 1.74,
+          "hasta": 3.44,
+          "finEn": 2.49,
+          "saltaEn": 2.79
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "NINGÚN DESAHUCIO SIN ALTERNATIVA",
+          "y": 430,
+          "en": 3.44,
+          "tamano": 64
+        },
+        {
+          "tipo": "casasAlternativa",
+          "x": 540,
+          "y": 860,
+          "tamano": 460,
+          "en": 3.44,
+          "puertaEn": 3.94,
+          "flechaEn": 4.84
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Exposición de motivos, RDL 28 y 29/2026"
+          ],
+          "en": 1.74
+        }
+      ]
+    },
+    {
+      "inicio": 45.66,
+      "fin": 54.38,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "OJO: LA LLAVE B AÚN NO ABRE",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.24
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EN VIGOR: 15 NOV · VOTACIÓN: ANTES",
+          "y": 330,
+          "en": 3.24,
+          "tamano": 64,
+          "hasta": 5.84
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SI CAE, CERO DÍAS APLICADO",
+          "y": 330,
+          "en": 5.84,
+          "tamano": 64
+        },
+        {
+          "tipo": "fechasV",
+          "y": 640,
+          "ranuras": 3,
+          "x0": 200,
+          "x1": 760,
+          "en": 0.1,
+          "hitos": [
+            {
+              "dia": "6",
+              "mes": "OCT",
+              "ya": true
+            },
+            {
+              "dia": "12",
+              "mes": "NOV",
+              "gris": true,
+              "nota": [
+                "prevista",
+                "(prensa)"
+              ]
+            },
+            {
+              "dia": "15",
+              "mes": "NOV",
+              "en": 2.34
+            }
+          ]
+        },
+        {
+          "tipo": "cerraduraV",
+          "x": 790,
+          "y": 555,
+          "escala": 0.5,
+          "en": 0.2
+        },
+        {
+          "tipo": "llaveV",
+          "letra": "B",
+          "x": 300,
+          "y": 555,
+          "escala": 0.7,
+          "en": 0.3,
+          "pasos": [
+            {
+              "x": 700,
+              "en": 0.4,
+              "dur": 8
+            }
+          ],
+          "hasta": 6.14
+        },
+        {
+          "tipo": "corchete",
+          "x0": 230,
+          "x1": 540,
+          "y": 985,
+          "en": 3.74,
+          "dur": 1.4,
+          "etiqueta": "plazo para votar",
+          "hasta": 5.84
+        },
+        {
+          "tipo": "cuentaCero",
+          "y": 985,
+          "en": 6.04,
+          "texto": "0 días",
+          "tamano": 150
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: BOE, RDL 28/2026, disp. final 2.ª · CE, art. 86.2"
+          ],
+          "en": 0.1,
+          "hasta": 3.24
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Plazo: 30 días hábiles (CE, art. 86.2) · prevista el 12-11, según la prensa"
+          ],
+          "en": 3.24,
+          "hasta": 5.84
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: BOE, RDL 28/2026, disp. final 2.ª · CE, art. 86.2"
+          ],
+          "en": 5.84
+        }
+      ]
+    },
+    {
+      "inicio": 54.38,
+      "fin": 72.17,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "QUÉ DICEN UNOS Y OTROS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PP, VOX, JUNTS, UPN: NO A AMBOS",
+          "y": 420,
+          "en": 0.2,
+          "tamano": 64,
+          "hasta": 4.12
+        },
+        {
+          "tipo": "foto",
+          "src": "F5.jpg",
+          "forma": "rect",
+          "x": 495,
+          "y": 880,
+          "ancho": 900,
+          "alto": 440,
+          "foco": "50% 40%",
+          "zoom": [
+            1.03,
+            1.14
+          ],
+          "dur": 4.12,
+          "en": 0.15,
+          "hasta": 4.12,
+          "notas": [
+            "Votación del 2-10-2026 · Civio"
+          ],
+          "credito": "Foto: Yann Droneaud · CC BY-SA 2.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "pildoras",
+          "y": 720,
+          "ancho": 212,
+          "hueco": 14,
+          "x0": 62,
+          "hasta": 4.12,
+          "items": [
+            {
+              "texto": "PP",
+              "en": 0.1
+            },
+            {
+              "texto": "Vox",
+              "en": 0.82
+            },
+            {
+              "texto": "Junts",
+              "en": 1.46
+            },
+            {
+              "texto": "UPN",
+              "en": 2.1
+            }
+          ]
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "VOX Y JUNTS: MENOS PISOS EN ALQUILER",
+          "y": 420,
+          "en": 4.12,
+          "tamano": 64,
+          "hasta": 7.07
+        },
+        {
+          "tipo": "bocadillo",
+          "lineas": [
+            "Vox · Junts"
+          ],
+          "y": 760,
+          "en": 4.32,
+          "hasta": 7.07,
+          "ancho": 600,
+          "alto": 220
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Debate del 2-10-2026 · Europa Press"
+          ],
+          "en": 4.12,
+          "hasta": 7.07
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PP: LLEGAN TARDE",
+          "y": 420,
+          "en": 7.07,
+          "tamano": 64,
+          "hasta": 8.92
+        },
+        {
+          "tipo": "bocadillo",
+          "lineas": [
+            "PP"
+          ],
+          "y": 760,
+          "en": 7.12,
+          "hasta": 8.92,
+          "ancho": 600,
+          "alto": 220
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Juan Bravo (PP), debate del 2-10-2026"
+          ],
+          "en": 7.07,
+          "hasta": 8.92
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PNV Y CC: NO AL DE PRÓRROGAS",
+          "y": 420,
+          "en": 8.92,
+          "tamano": 64,
+          "hasta": 14.02
+        },
+        {
+          "tipo": "pildoras",
+          "y": 650,
+          "ancho": 212,
+          "hueco": 14,
+          "x0": 321,
+          "en": 0,
+          "hasta": 14.02,
+          "items": [
+            {
+              "texto": "PNV",
+              "en": 9.12
+            },
+            {
+              "texto": "CC",
+              "en": 9.52
+            }
+          ]
+        },
+        {
+          "tipo": "bocadillo",
+          "lineas": [
+            "PNV"
+          ],
+          "y": 820,
+          "en": 11.86,
+          "hasta": 14.02,
+          "ancho": 600,
+          "alto": 220
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "PNV: penaliza al pequeño propietario · 1-10-2026"
+          ],
+          "en": 8.92,
+          "hasta": 14.02
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "INQUILINAS: \"UNA MEDIDA DE MÍNIMOS\"",
+          "y": 420,
+          "en": 14.02,
+          "tamano": 64
+        },
+        {
+          "tipo": "bocadillo",
+          "lineas": [
+            "Sindicato de",
+            "Inquilinas"
+          ],
+          "y": 620,
+          "en": 14.17,
+          "ancho": 600,
+          "alto": 220
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "mes": "NOV",
+          "dia": "11",
+          "x": 300,
+          "y": 1000,
+          "tamano": 240,
+          "en": 16.32
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "11 NOV · huelga general",
+          "y": 920,
+          "en": 16.32,
+          "tamano": 64,
+          "izq": 450,
+          "ancho": 510
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Alicia del Río, 2-10-2026 · huelga general 11-11: convocan CCOO, UGT y otros"
+          ],
+          "en": 14.02
+        }
+      ]
+    },
+    {
+      "inicio": 72.17,
+      "fin": 81.86,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Y AHORA?",
+          "y": 320,
+          "en": 0.02,
+          "tamano": 64,
+          "hasta": 0.83
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SE VOTAN LOS DOS DECRETOS",
+          "y": 320,
+          "en": 0.83,
+          "tamano": 64,
+          "hasta": 4.13
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SI CAE LA A, FUERA DE VIGOR",
+          "y": 320,
+          "en": 4.13,
+          "tamano": 64,
+          "hasta": 6.73
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "29 NOV: ELECCIONES GENERALES",
+          "y": 320,
+          "en": 6.73,
+          "tamano": 64
+        },
+        {
+          "tipo": "fechasV",
+          "y": 520,
+          "ranuras": 5,
+          "x0": 150,
+          "x1": 810,
+          "en": 0.05,
+          "cursor": [
+            [
+              0,
+              1
+            ],
+            [
+              0.35,
+              1
+            ],
+            [
+              0.85,
+              2
+            ]
+          ],
+          "cursorHasta": 0.9299999999999999,
+          "hitos": [
+            {
+              "dia": "2",
+              "mes": "OCT",
+              "ya": true
+            },
+            {
+              "dia": "6",
+              "mes": "OCT",
+              "ya": true
+            },
+            {
+              "dia": "12",
+              "mes": "NOV",
+              "gris": true,
+              "nota": [
+                "prevista",
+                "(prensa)"
+              ]
+            },
+            {
+              "dia": "15",
+              "mes": "NOV",
+              "ya": true
+            },
+            {
+              "dia": "29",
+              "mes": "NOV",
+              "en": 6.93,
+              "aparece": 6.73
+            }
+          ]
+        },
+        {
+          "tipo": "llaveV",
+          "letra": "A",
+          "x": 320,
+          "y": 868,
+          "escala": 1.1,
+          "en": 0.73,
+          "pasos": [
+            {
+              "x": 500,
+              "en": 0.9299999999999999,
+              "dur": 0.9
+            },
+            {
+              "x": 410,
+              "en": 4.33,
+              "dur": 0.6
+            }
+          ],
+          "disc": 4.33,
+          "hasta": 6.73
+        },
+        {
+          "tipo": "llaveV",
+          "letra": "B",
+          "x": 320,
+          "y": 955,
+          "escala": 1.1,
+          "en": 0.83,
+          "pasos": [
+            {
+              "x": 500,
+              "en": 1.03,
+              "dur": 0.9
+            },
+            {
+              "x": 430,
+              "en": 6.73,
+              "dur": 0.6
+            }
+          ],
+          "flota": 7.43
+        },
+        {
+          "tipo": "urna2",
+          "x": 620,
+          "y": 910,
+          "tamano": 250,
+          "en": 1.23,
+          "hasta": 6.73
+        },
+        {
+          "tipo": "pildora",
+          "texto": "solo si la derogan",
+          "y": 1025,
+          "en": 5.23,
+          "hasta": 6.73
+        },
+        {
+          "tipo": "cerraduraV",
+          "x": 600,
+          "y": 868,
+          "escala": 0.7,
+          "en": 6.73,
+          "marcas": [
+            {
+              "tipo": "check",
+              "en": 6.930000000000001
+            }
+          ]
+        },
+        {
+          "tipo": "llaveV",
+          "letra": "A",
+          "x": 520,
+          "y": 868,
+          "escala": 1.1,
+          "en": 6.73
+        },
+        {
+          "tipo": "urna2",
+          "x": 840,
+          "y": 910,
+          "tamano": 250,
+          "en": 7.13,
+          "ranuras": 1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Prevista el 12-11, según la prensa · sin convocar a 2026-10-20"
+          ],
+          "en": 0.83,
+          "hasta": 4.13
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "CE, art. 86.2: convalidación o derogación"
+          ],
+          "en": 4.13,
+          "hasta": 6.73
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RD 806/2026 · campaña del 13 al 27-11"
+          ],
+          "en": 6.73
+        }
+      ]
+    },
+    {
+      "inicio": 81.86,
+      "fin": 90,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "UNO YA CUENTA. EL OTRO, EN EL AIRE.",
+          "pregunta": "¿TE AFECTA ALGUNO?",
+          "tamano": 84,
+          "pulso": true
+        },
+        {
+          "tipo": "llaveV",
+          "letra": "A",
+          "x": 170,
+          "y": 880,
+          "escala": 0.55,
+          "en": 0.2
+        },
+        {
+          "tipo": "cerraduraV",
+          "x": 200,
+          "y": 880,
+          "escala": 0.55,
+          "en": 0.2,
+          "dx": 70,
+          "marcas": [
+            {
+              "tipo": "check",
+              "en": 0.4
+            }
+          ]
+        },
+        {
+          "tipo": "llaveV",
+          "letra": "B",
+          "x": 570,
+          "y": 880,
+          "escala": 0.55,
+          "en": 0.3,
+          "flota": 0.8
+        },
+        {
+          "tipo": "cerraduraV",
+          "x": 600,
+          "y": 880,
+          "escala": 0.55,
+          "en": 0.3,
+          "dx": 70,
+          "marcas": [
+            {
+              "tipo": "interroga",
+              "en": 0.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

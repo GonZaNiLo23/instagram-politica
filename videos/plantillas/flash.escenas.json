@@ -1,0 +1,26 @@
+{
+  "plantilla": "flash",
+  "duracion": 32,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {"inicio": 0, "fin": 4, "fondo": "crema", "componentes": [
+      {"tipo": "gancho", "texto": "GANCHO (máx. 7 palabras)", "y": 520}
+    ]},
+    {"inicio": 4, "fin": 12, "fondo": "crema", "fuente": "Fuente: ...", "componentes": [
+      {"tipo": "rotulo", "texto": "Contexto en una idea", "y": 330}
+    ]},
+    {"inicio": 12, "fin": 20, "fondo": "crema", "fuente": "Fuente: ...", "componentes": [
+      {"tipo": "contador", "desde": 0, "hasta": 100, "etiqueta": "dato", "y": 450}
+    ]},
+    {"inicio": 20, "fin": 26.5, "fondo": "crema", "componentes": [
+      {"tipo": "rotulo", "texto": "Giro o posturas", "y": 330}
+    ]},
+    {"inicio": 26.5, "fin": 29.5, "fondo": "tinta", "lectura": true, "componentes": [
+      {"tipo": "gancho", "texto": "Opinión en una frase", "tamano": 110, "y": 600}
+    ]},
+    {"inicio": 29.5, "fin": 32, "fondo": "mostaza", "sinSubtitulos": true, "componentes": [
+      {"tipo": "cierre", "frase": "Resumen en una frase", "pregunta": "¿Pregunta para comentar?"}
+    ]}
+  ]
+}

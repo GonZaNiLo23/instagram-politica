@@ -1,0 +1,2052 @@
+{
+  "plantilla": "estandar",
+  "duracion": 78,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "¿QUIÉN MANDA SIN CONGRESO?",
+            "y": 340,
+            "tamano": 124,
+            "en": -2
+          },
+          {
+            "tipo": "hemiciclo",
+            "y": 830,
+            "ancho": 880,
+            "leyenda": false,
+            "estatico": true,
+            "grupos": [
+              {
+                "nombre": "Escaños",
+                "escanos": 350,
+                "color": "#8D99AE"
+              }
+            ],
+            "resalta": {
+              "desde": 140,
+              "cuenta": 69,
+              "color": "#F2B134",
+              "en": -3,
+              "dur": 1.6
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.21,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿QUIÉN MANDA SIN CONGRESO?",
+          "y": 330,
+          "tamano": 124,
+          "en": -1
+        },
+        {
+          "tipo": "hemiciclo",
+          "y": 745,
+          "ancho": 700,
+          "leyenda": false,
+          "estatico": true,
+          "grupos": [
+            {
+              "nombre": "Escaños",
+              "escanos": 350,
+              "color": "#14213D"
+            }
+          ],
+          "apagar": {
+            "en": 1.07,
+            "dur": 1.6,
+            "de": "#14213D",
+            "a": "#8D99AE"
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "interruptor",
+          "x": 510,
+          "y": 1010,
+          "tamano": 140,
+          "en": 0.66,
+          "animEn": 1.07,
+          "dur": 0.7
+        }
+      ]
+    },
+    {
+      "inicio": 3.21,
+      "fin": 9.57,
+      "fondo": "crema",
+      "fuente": "Fuente: RD 806/2026 (BOE, 6-10-2026)",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "6-OCT: CORTES DISUELTAS",
+          "y": 330,
+          "tamano": 72,
+          "en": 0,
+          "hasta": 4.6
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ELECCIONES: 29-N",
+          "y": 330,
+          "tamano": 72,
+          "en": 4.6
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documento",
+          "x": 540,
+          "y": 700,
+          "tamano": 200,
+          "en": 0
+        },
+        {
+          "tipo": "icono",
+          "nombre": "selloBoe",
+          "x": 540,
+          "y": 685,
+          "tamano": 170,
+          "en": 2.38,
+          "animEn": 2.61,
+          "dur": 0.3
+        },
+        {
+          "tipo": "lineaTiempo",
+          "y": 835,
+          "tramos": true,
+          "hitos": [
+            {
+              "etiqueta": "6 oct",
+              "detalle": "disolución",
+              "en": 0.36
+            },
+            {
+              "etiqueta": "29 nov",
+              "detalle": "elecciones",
+              "en": 4.6
+            },
+            {
+              "etiqueta": "23 dic",
+              "detalle": "nuevas Cortes",
+              "en": 99,
+              "apagado": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 9.57,
+      "fin": 15.67,
+      "fondo": "crema",
+      "fuente": "Fuente: Reglamento del Congreso, art. 207",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SIN PLENOS NI SESIONES DE CONTROL",
+          "y": 330,
+          "tamano": 68,
+          "en": 0,
+          "hasta": 2.75
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "LEYES EN TRÁMITE: CADUCAN",
+          "y": 330,
+          "tamano": 72,
+          "en": 2.75
+        },
+        {
+          "tipo": "icono",
+          "nombre": "atril",
+          "x": 540,
+          "y": 850,
+          "tamano": 300,
+          "en": 0,
+          "hasta": 2.75,
+          "animEn": 0.92,
+          "dur": 0.9
+        },
+        {
+          "tipo": "icono",
+          "nombre": "carpetas",
+          "x": 540,
+          "y": 820,
+          "tamano": 320,
+          "en": 2.75,
+          "hasta": 4.05,
+          "animEn": 3.01,
+          "dur": 1
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "SPOILER:",
+            "EL GOBIERNO NO",
+            "ESTÁ EN FUNCIONES"
+          ],
+          "y": 700,
+          "tamano": 64,
+          "angulo": -4,
+          "en": 3.6
+        }
+      ]
+    },
+    {
+      "inicio": 15.67,
+      "fin": 18.7,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "hemiciclo",
+          "y": 600,
+          "ancho": 880,
+          "leyenda": false,
+          "estatico": true,
+          "grupos": [
+            {
+              "nombre": "Escaños",
+              "escanos": 350,
+              "color": "#8D99AE"
+            }
+          ],
+          "resalta": {
+            "desde": 140,
+            "cuenta": 69,
+            "color": "#F2B134",
+            "en": 0.2,
+            "dur": 1.8
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 18.7,
+      "fin": 21.85,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DIPUTACIÓN PERMANENTE",
+          "y": 330,
+          "tamano": 72,
+          "en": 0
+        },
+        {
+          "tipo": "hemiciclo",
+          "y": 600,
+          "ancho": 880,
+          "leyenda": false,
+          "estatico": true,
+          "grupos": [
+            {
+              "nombre": "Escaños",
+              "escanos": 350,
+              "color": "#8D99AE"
+            }
+          ],
+          "resalta": {
+            "desde": 140,
+            "cuenta": 69,
+            "color": "#F2B134",
+            "en": -3,
+            "dur": 1.6
+          },
+          "zoom": {
+            "a": 2,
+            "en": 0.41,
+            "dur": 2.2,
+            "oy": 21
+          },
+          "clip": [
+            560,
+            1130
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 21.85,
+      "fin": 25.75,
+      "fondo": "crema",
+      "fuente": "Fuente: CE art. 78 · RC arts. 56–57 · Mesa del Congreso, 3-11-2023: 68 + presidenta",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "69 DIPUTADOS · PROPORCIONAL A CADA GRUPO",
+          "y": 330,
+          "tamano": 64,
+          "en": 0
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 69,
+          "en": 2.26,
+          "dur": 1.5,
+          "y": 590,
+          "tamano": 150
+        },
+        {
+          "tipo": "bloques",
+          "y": 800,
+          "punto": 28,
+          "hueco": 6,
+          "separacion": 40,
+          "en": 0.09
+        },
+        {
+          "tipo": "fuente",
+          "texto": "La preside la presidenta del Congreso",
+          "nota": true,
+          "y": 1054,
+          "en": 0.9
+        },
+        {
+          "tipo": "fuente",
+          "texto": "El Senado tiene la suya",
+          "nota": true,
+          "y": 1096,
+          "en": 2.48
+        }
+      ]
+    },
+    {
+      "inicio": 25.75,
+      "fin": 32.31,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DOS TAREAS CLAVE",
+          "y": 330,
+          "tamano": 72,
+          "en": 0,
+          "hasta": 1.48
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "1 · ESTADOS DE ALARMA Y EXCEPCIÓN",
+          "y": 330,
+          "tamano": 64,
+          "en": 1.48,
+          "hasta": 5.04
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2 · DECRETOS-LEY",
+          "y": 330,
+          "tamano": 72,
+          "en": 5.04
+        },
+        {
+          "tipo": "casilla",
+          "numero": "1",
+          "x": 290,
+          "y": 580,
+          "en": 0,
+          "llenaEn": 1.6
+        },
+        {
+          "tipo": "casilla",
+          "numero": "2",
+          "x": 730,
+          "y": 580,
+          "en": 0.16,
+          "llenaEn": 5.2
+        },
+        {
+          "tipo": "icono",
+          "nombre": "sirena",
+          "x": 290,
+          "y": 800,
+          "tamano": 210,
+          "en": 1.48,
+          "animEn": 1.75,
+          "dur": 2.5,
+          "etiqueta": "alarma / excepción",
+          "anchoEtiqueta": 340
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documentoRayo",
+          "x": 730,
+          "y": 800,
+          "tamano": 210,
+          "en": 5.04,
+          "etiqueta": "urgente",
+          "anchoEtiqueta": 340
+        }
+      ]
+    },
+    {
+      "inicio": 32.31,
+      "fin": 34.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NORMA URGENTE DEL GOBIERNO",
+          "y": 330,
+          "tamano": 72,
+          "en": 0
+        },
+        {
+          "tipo": "icono",
+          "nombre": "palacio",
+          "x": 250,
+          "y": 800,
+          "tamano": 280,
+          "en": 0,
+          "etiqueta": "Gobierno",
+          "anchoEtiqueta": 360
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documentoRayo",
+          "x": 250,
+          "y": 800,
+          "tamano": 210,
+          "en": 0.23,
+          "mover": {
+            "x": 770,
+            "y": 800,
+            "en": 0.33,
+            "dur": 1.3,
+            "arco": 70
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 34.86,
+      "fin": 36.9,
+      "fondo": "crema",
+      "fuente": "Fuente: CE art. 86.1",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NO PUEDE AFECTAR A DERECHOS, AUTONOMÍAS…",
+          "y": 330,
+          "tamano": 64,
+          "en": 0
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documentoRayo",
+          "x": 540,
+          "y": 710,
+          "tamano": 200,
+          "en": 0
+        },
+        {
+          "tipo": "icono",
+          "nombre": "candado",
+          "simbolo": "libro",
+          "x": 230,
+          "y": 950,
+          "tamano": 210,
+          "en": 0.18,
+          "animEn": 0.27,
+          "dur": 0.4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "candado",
+          "simbolo": "mapa",
+          "x": 540,
+          "y": 950,
+          "tamano": 210,
+          "en": 0.48,
+          "animEn": 0.55,
+          "dur": 0.4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "candado",
+          "simbolo": "urna",
+          "x": 850,
+          "y": 950,
+          "tamano": 210,
+          "en": 0.74,
+          "animEn": 0.81,
+          "dur": 0.4
+        }
+      ]
+    },
+    {
+      "inicio": 36.9,
+      "fin": 41.02,
+      "fondo": "crema",
+      "fuente": "Fuente: CE art. 86.2 · RC art. 151",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VOTO OBLIGATORIO EN 30 DÍAS",
+          "y": 330,
+          "tamano": 72,
+          "en": 0
+        },
+        {
+          "tipo": "cronometro",
+          "x": 500,
+          "y": 800,
+          "tamano": 300,
+          "en": 0.18,
+          "inicio": 0.4,
+          "dur": 2,
+          "desde": 30,
+          "hasta": 0
+        },
+        {
+          "tipo": "icono",
+          "nombre": "congreso",
+          "x": 800,
+          "y": 800,
+          "tamano": 240,
+          "en": 1.81,
+          "etiqueta": "Congreso",
+          "anchoEtiqueta": 330
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documentoRayo",
+          "x": 190,
+          "y": 800,
+          "tamano": 200,
+          "en": 0,
+          "mover": {
+            "x": 800,
+            "y": 790,
+            "en": 2.24,
+            "dur": 0.6,
+            "arco": 150
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 41.02,
+      "fin": 43.53,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CONVALIDA = SIGUE · RECHAZA = DEROGADO",
+          "y": 330,
+          "tamano": 64,
+          "en": 0
+        },
+        {
+          "tipo": "balanza",
+          "x": 540,
+          "y": 760,
+          "en": 0,
+          "ticEn": 0.5,
+          "cruzEn": 1.7,
+          "oscila": [
+            0.2,
+            1.8
+          ]
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documento",
+          "x": 130,
+          "y": 650,
+          "tamano": 140,
+          "en": 0,
+          "hasta": 1.21,
+          "mover": {
+            "x": 540,
+            "y": 650,
+            "en": 0.05,
+            "dur": 1.2
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 43.53,
+      "fin": 47.08,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "AHORA VOTA LA DIPUTACIÓN",
+          "y": 330,
+          "tamano": 72,
+          "en": 0
+        },
+        {
+          "tipo": "hemiciclo",
+          "y": 640,
+          "ancho": 880,
+          "leyenda": false,
+          "estatico": true,
+          "grupos": [
+            {
+              "nombre": "Escaños",
+              "escanos": 350,
+              "color": "#8D99AE"
+            }
+          ],
+          "resalta": {
+            "desde": 140,
+            "cuenta": 69,
+            "color": "#F2B134",
+            "en": -3,
+            "dur": 1.6,
+            "pulso": 2.2
+          }
+        },
+        {
+          "tipo": "balanza",
+          "x": 540,
+          "y": 760,
+          "en": -1,
+          "ticEn": -1,
+          "cruzEn": -1,
+          "oscila": [
+            2
+          ],
+          "etiquetasHasta": 0.5,
+          "mover": {
+            "x": 510,
+            "y": 700,
+            "escala": 0.55,
+            "en": 0.14,
+            "dur": 1.4
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 47.08,
+      "fin": 51.28,
+      "fondo": "crema",
+      "fuente": "Fuente: RDL 24/2026 y 25/2026 (BOE, 30-9-2026) · Dip. Permanente, 16-10-2026",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "16-OCT: 2 DECRETOS CONVALIDADOS",
+          "y": 330,
+          "tamano": 72,
+          "en": 0
+        },
+        {
+          "tipo": "icono",
+          "nombre": "surtidor",
+          "x": 280,
+          "y": 810,
+          "tamano": 270,
+          "en": 0.08,
+          "etiqueta": "carburantes",
+          "anchoEtiqueta": 420
+        },
+        {
+          "tipo": "icono",
+          "nombre": "gota",
+          "x": 740,
+          "y": 810,
+          "tamano": 270,
+          "en": 0.23,
+          "animEn": 0.23,
+          "dur": 3.5,
+          "etiqueta": "dana",
+          "anchoEtiqueta": 300
+        },
+        {
+          "tipo": "icono",
+          "nombre": "check",
+          "x": 390,
+          "y": 690,
+          "tamano": 120,
+          "en": 0.78,
+          "dur": 0.5
+        },
+        {
+          "tipo": "icono",
+          "nombre": "check",
+          "x": 850,
+          "y": 690,
+          "tamano": 120,
+          "en": 2.85,
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 51.28,
+      "fin": 53.95,
+      "fondo": "mostaza",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LO QUE CASI NADIE SABE",
+          "y": 330,
+          "tamano": 72,
+          "en": 0
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "en": 0.33,
+          "y": 760,
+          "angulo": -6,
+          "tamano": 190
+        }
+      ]
+    },
+    {
+      "inicio": 53.95,
+      "fin": 62.33,
+      "fondo": "crema",
+      "fuente": "Fuente: CE art. 101",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "GOBIERNO: AÚN NO ESTÁ EN FUNCIONES",
+          "y": 330,
+          "tamano": 64,
+          "en": 0,
+          "hasta": 2.52
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "COMPETENCIAS PLENAS HASTA EL 29-N",
+          "y": 330,
+          "tamano": 64,
+          "en": 2.52,
+          "hasta": 5.06
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EN FUNCIONES: TRAS LAS ELECCIONES",
+          "y": 330,
+          "tamano": 64,
+          "en": 5.06
+        },
+        {
+          "tipo": "semaforo",
+          "x": 70,
+          "y": 540,
+          "luz": 125,
+          "cambioEn": 6.9
+        },
+        {
+          "tipo": "lineaTiempo",
+          "y": 960,
+          "tramos": true,
+          "hitos": [
+            {
+              "etiqueta": "hoy",
+              "en": 0.29,
+              "ya": true
+            },
+            {
+              "etiqueta": "29 nov",
+              "en": 5.06
+            },
+            {
+              "etiqueta": "23 dic",
+              "en": 99,
+              "apagado": true
+            }
+          ],
+          "cursor": {
+            "pasos": [
+              [
+                0.2,
+                0
+              ],
+              [
+                5.6,
+                0.5
+              ],
+              [
+                9.2,
+                0.73
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 62.33,
+      "fin": 68.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NO PRESENTA PRESUPUESTOS NI PROYECTOS DE LEY",
+          "y": 330,
+          "tamano": 64,
+          "en": 0
+        },
+        {
+          "tipo": "barrera",
+          "x": 590,
+          "y": 610,
+          "alto": 420,
+          "en": 0.14,
+          "golpes": [
+            1.45,
+            4.05
+          ]
+        },
+        {
+          "tipo": "icono",
+          "nombre": "congreso",
+          "x": 800,
+          "y": 830,
+          "tamano": 250,
+          "en": 0,
+          "etiqueta": "Congreso",
+          "anchoEtiqueta": 330
+        },
+        {
+          "tipo": "icono",
+          "nombre": "libroCuentas",
+          "x": 170,
+          "y": 700,
+          "tamano": 190,
+          "en": 0.29,
+          "mover": {
+            "x": 440,
+            "y": 700,
+            "en": 0.5,
+            "dur": 1
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "cruzPiedra",
+          "x": 510,
+          "y": 625,
+          "tamano": 110,
+          "en": 1.73,
+          "dur": 0.4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "carpeta",
+          "x": 170,
+          "y": 930,
+          "tamano": 190,
+          "en": 3.33,
+          "mover": {
+            "x": 440,
+            "y": 930,
+            "en": 3.64,
+            "dur": 1
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "cruzPiedra",
+          "x": 510,
+          "y": 855,
+          "tamano": 110,
+          "en": 4.85,
+          "dur": 0.4
+        },
+        {
+          "tipo": "fuente",
+          "texto": "Solo despacho ordinario, salvo urgencia · Ley 50/1997, art. 21",
+          "nota": true,
+          "en": 4.85
+        }
+      ]
+    },
+    {
+      "inicio": 68.26,
+      "fin": 71.12,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿QUIÉN MANDA? EL GOBIERNO, CON PLENAS COMPETENCIAS",
+          "y": 330,
+          "tamano": 64,
+          "en": 0
+        },
+        {
+          "tipo": "hemiciclo",
+          "y": 650,
+          "ancho": 640,
+          "leyenda": false,
+          "estatico": true,
+          "grupos": [
+            {
+              "nombre": "Escaños",
+              "escanos": 350,
+              "color": "#8D99AE"
+            }
+          ],
+          "resalta": {
+            "desde": 140,
+            "cuenta": 69,
+            "color": "#F2B134",
+            "en": -3,
+            "dur": 1.6
+          }
+        },
+        {
+          "tipo": "semaforo",
+          "x": 850,
+          "y": 700,
+          "escala": 0.5,
+          "etiquetas": false,
+          "luz": 125
+        }
+      ]
+    },
+    {
+      "inicio": 71.12,
+      "fin": 75.61,
+      "fondo": "crema",
+      "fuente": "RD 806/2026, art. 5 · CE art. 78.3",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "69 DE GUARDIA HASTA EL 23-DIC",
+          "y": 330,
+          "tamano": 72,
+          "en": 0
+        },
+        {
+          "tipo": "hemiciclo",
+          "y": 520,
+          "ancho": 520,
+          "leyenda": false,
+          "estatico": true,
+          "grupos": [
+            {
+              "nombre": "Escaños",
+              "escanos": 350,
+              "color": "#8D99AE"
+            }
+          ],
+          "resalta": {
+            "desde": 140,
+            "cuenta": 69,
+            "color": "#F2B134",
+            "en": -3,
+            "dur": 1.6
+          },
+          "final": {
+            "en": 2.82,
+            "dur": 1.2,
+            "color": "#14213D"
+          }
+        },
+        {
+          "tipo": "lineaTiempo",
+          "y": 805,
+          "tramos": true,
+          "hitos": [
+            {
+              "etiqueta": "6 oct",
+              "en": 0,
+              "ya": true
+            },
+            {
+              "etiqueta": "29 nov",
+              "en": 1.9,
+              "ya": true
+            },
+            {
+              "etiqueta": "23 dic",
+              "detalle": "nuevas Cortes",
+              "en": 2.82
+            }
+          ]
+        }
+      ],
+      "fuenteSinPrefijo": true
+    },
+    {
+      "inicio": 75.61,
+      "fin": 78,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿LO SABÍAS?",
+          "pregunta": "Cuéntamelo en comentarios"
+        }
+      ]
+    }
+  ],
+  "subSinHuerfanas": true,
+  "id": "006-cortes-disueltas-quien-manda",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "El",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "Congreso",
+      "inicio": 0.28,
+      "fin": 0.64
+    },
+    {
+      "t": "está",
+      "inicio": 0.72,
+      "fin": 0.88
+    },
+    {
+      "t": "disuelto.",
+      "inicio": 1,
+      "fin": 1.76
+    },
+    {
+      "t": "¿Quién",
+      "inicio": 1.84,
+      "fin": 2
+    },
+    {
+      "t": "manda",
+      "inicio": 2.08,
+      "fin": 2.32
+    },
+    {
+      "t": "ahora",
+      "inicio": 2.36,
+      "fin": 2.56
+    },
+    {
+      "t": "en",
+      "inicio": 2.6,
+      "fin": 2.64
+    },
+    {
+      "t": "España?",
+      "inicio": 2.76,
+      "fin": 3.44
+    },
+    {
+      "t": "El",
+      "inicio": 3.76,
+      "fin": 3.84
+    },
+    {
+      "t": "seis",
+      "inicio": 3.92,
+      "fin": 4.08
+    },
+    {
+      "t": "de",
+      "inicio": 4.16,
+      "fin": 4.2
+    },
+    {
+      "t": "octubre,",
+      "inicio": 4.24,
+      "fin": 4.8
+    },
+    {
+      "t": "el",
+      "inicio": 4.88,
+      "fin": 4.96
+    },
+    {
+      "t": "BOE",
+      "inicio": 5.04,
+      "fin": 5.28
+    },
+    {
+      "t": "publicó",
+      "inicio": 5.36,
+      "fin": 5.76
+    },
+    {
+      "t": "la",
+      "inicio": 5.8,
+      "fin": 5.84
+    },
+    {
+      "t": "disolución",
+      "inicio": 5.92,
+      "fin": 6.4
+    },
+    {
+      "t": "de",
+      "inicio": 6.44,
+      "fin": 6.48
+    },
+    {
+      "t": "las",
+      "inicio": 6.56,
+      "fin": 6.64
+    },
+    {
+      "t": "Cortes.",
+      "inicio": 6.72,
+      "fin": 7.44
+    },
+    {
+      "t": "Elecciones,",
+      "inicio": 7.52,
+      "fin": 8.24
+    },
+    {
+      "t": "el",
+      "inicio": 8.32,
+      "fin": 8.4
+    },
+    {
+      "t": "veintinueve",
+      "inicio": 8.44,
+      "fin": 8.96
+    },
+    {
+      "t": "de",
+      "inicio": 9.04,
+      "fin": 9.08
+    },
+    {
+      "t": "noviembre.",
+      "inicio": 9.12,
+      "fin": 10
+    },
+    {
+      "t": "Ya",
+      "inicio": 10.08,
+      "fin": 10.16
+    },
+    {
+      "t": "no",
+      "inicio": 10.2,
+      "fin": 10.24
+    },
+    {
+      "t": "hay",
+      "inicio": 10.32,
+      "fin": 10.4
+    },
+    {
+      "t": "plenos",
+      "inicio": 10.44,
+      "fin": 10.8
+    },
+    {
+      "t": "ni",
+      "inicio": 10.88,
+      "fin": 10.96
+    },
+    {
+      "t": "sesiones",
+      "inicio": 11.08,
+      "fin": 11.44
+    },
+    {
+      "t": "de",
+      "inicio": 11.48,
+      "fin": 11.52
+    },
+    {
+      "t": "control.",
+      "inicio": 11.6,
+      "fin": 12.32
+    },
+    {
+      "t": "Y",
+      "inicio": 12.36,
+      "fin": 12.4
+    },
+    {
+      "t": "las",
+      "inicio": 12.48,
+      "fin": 12.56
+    },
+    {
+      "t": "leyes",
+      "inicio": 12.68,
+      "fin": 12.88
+    },
+    {
+      "t": "a",
+      "inicio": 12.92,
+      "fin": 12.96
+    },
+    {
+      "t": "medio",
+      "inicio": 13.04,
+      "fin": 13.2
+    },
+    {
+      "t": "tramitar",
+      "inicio": 13.28,
+      "fin": 13.68
+    },
+    {
+      "t": "caducan:",
+      "inicio": 13.84,
+      "fin": 14.64
+    },
+    {
+      "t": "se",
+      "inicio": 14.72,
+      "fin": 14.88
+    },
+    {
+      "t": "pierden.",
+      "inicio": 14.933,
+      "fin": 15.68
+    },
+    {
+      "t": "Pero",
+      "inicio": 15.733,
+      "fin": 15.84
+    },
+    {
+      "t": "el",
+      "inicio": 15.88,
+      "fin": 15.92
+    },
+    {
+      "t": "Congreso",
+      "inicio": 16,
+      "fin": 16.4
+    },
+    {
+      "t": "no",
+      "inicio": 16.56,
+      "fin": 16.64
+    },
+    {
+      "t": "se",
+      "inicio": 16.72,
+      "fin": 16.8
+    },
+    {
+      "t": "apaga",
+      "inicio": 16.88,
+      "fin": 17.12
+    },
+    {
+      "t": "del",
+      "inicio": 17.2,
+      "fin": 17.28
+    },
+    {
+      "t": "todo.",
+      "inicio": 17.36,
+      "fin": 17.92
+    },
+    {
+      "t": "Queda",
+      "inicio": 17.96,
+      "fin": 18.16
+    },
+    {
+      "t": "la",
+      "inicio": 18.32,
+      "fin": 18.4
+    },
+    {
+      "t": "Diputación",
+      "inicio": 18.44,
+      "fin": 18.96
+    },
+    {
+      "t": "Permanente:",
+      "inicio": 19.12,
+      "fin": 20
+    },
+    {
+      "t": "un",
+      "inicio": 20.04,
+      "fin": 20.08
+    },
+    {
+      "t": "Congreso",
+      "inicio": 20.16,
+      "fin": 20.64
+    },
+    {
+      "t": "en",
+      "inicio": 20.68,
+      "fin": 20.72
+    },
+    {
+      "t": "miniatura.",
+      "inicio": 20.8,
+      "fin": 21.68
+    },
+    {
+      "t": "Sesenta",
+      "inicio": 21.72,
+      "fin": 22
+    },
+    {
+      "t": "y",
+      "inicio": 22.08,
+      "fin": 22.12
+    },
+    {
+      "t": "nueve",
+      "inicio": 22.16,
+      "fin": 22.28
+    },
+    {
+      "t": "diputados,",
+      "inicio": 22.32,
+      "fin": 23.04
+    },
+    {
+      "t": "repartidos",
+      "inicio": 23.12,
+      "fin": 23.68
+    },
+    {
+      "t": "según",
+      "inicio": 23.76,
+      "fin": 23.92
+    },
+    {
+      "t": "el",
+      "inicio": 24,
+      "fin": 24.08
+    },
+    {
+      "t": "peso",
+      "inicio": 24.16,
+      "fin": 24.4
+    },
+    {
+      "t": "de",
+      "inicio": 24.44,
+      "fin": 24.48
+    },
+    {
+      "t": "cada",
+      "inicio": 24.56,
+      "fin": 24.72
+    },
+    {
+      "t": "grupo.",
+      "inicio": 24.88,
+      "fin": 25.44
+    },
+    {
+      "t": "Tiene",
+      "inicio": 25.52,
+      "fin": 25.68
+    },
+    {
+      "t": "dos",
+      "inicio": 25.84,
+      "fin": 26
+    },
+    {
+      "t": "tareas",
+      "inicio": 26.08,
+      "fin": 26.4
+    },
+    {
+      "t": "clave.",
+      "inicio": 26.48,
+      "fin": 27.12
+    },
+    {
+      "t": "Una:",
+      "inicio": 27.24,
+      "fin": 27.68
+    },
+    {
+      "t": "decidir",
+      "inicio": 27.76,
+      "fin": 28.16
+    },
+    {
+      "t": "sobre",
+      "inicio": 28.24,
+      "fin": 28.4
+    },
+    {
+      "t": "estados",
+      "inicio": 28.52,
+      "fin": 28.8
+    },
+    {
+      "t": "de",
+      "inicio": 28.88,
+      "fin": 28.96
+    },
+    {
+      "t": "alarma",
+      "inicio": 29.04,
+      "fin": 29.28
+    },
+    {
+      "t": "o",
+      "inicio": 29.44,
+      "fin": 29.48
+    },
+    {
+      "t": "de",
+      "inicio": 29.52,
+      "fin": 29.56
+    },
+    {
+      "t": "excepción.",
+      "inicio": 29.6,
+      "fin": 30.56
+    },
+    {
+      "t": "Dos:",
+      "inicio": 30.64,
+      "fin": 31.2
+    },
+    {
+      "t": "los",
+      "inicio": 31.28,
+      "fin": 31.36
+    },
+    {
+      "t": "decretos",
+      "inicio": 31.44,
+      "fin": 31.84
+    },
+    {
+      "t": "ley.",
+      "inicio": 31.92,
+      "fin": 32.56
+    },
+    {
+      "t": "Un",
+      "inicio": 32.6,
+      "fin": 32.64
+    },
+    {
+      "t": "decreto",
+      "inicio": 32.72,
+      "fin": 33.04
+    },
+    {
+      "t": "ley",
+      "inicio": 33.12,
+      "fin": 33.36
+    },
+    {
+      "t": "es",
+      "inicio": 33.44,
+      "fin": 33.6
+    },
+    {
+      "t": "una",
+      "inicio": 33.68,
+      "fin": 33.76
+    },
+    {
+      "t": "norma",
+      "inicio": 33.88,
+      "fin": 34.08
+    },
+    {
+      "t": "urgente",
+      "inicio": 34.2,
+      "fin": 34.56
+    },
+    {
+      "t": "que",
+      "inicio": 34.64,
+      "fin": 34.72
+    },
+    {
+      "t": "aprueba",
+      "inicio": 34.8,
+      "fin": 35.04
+    },
+    {
+      "t": "el",
+      "inicio": 35.08,
+      "fin": 35.12
+    },
+    {
+      "t": "Gobierno.",
+      "inicio": 35.2,
+      "fin": 35.92
+    },
+    {
+      "t": "Entra",
+      "inicio": 36,
+      "fin": 36.16
+    },
+    {
+      "t": "en",
+      "inicio": 36.2,
+      "fin": 36.24
+    },
+    {
+      "t": "vigor",
+      "inicio": 36.28,
+      "fin": 36.56
+    },
+    {
+      "t": "ya,",
+      "inicio": 36.72,
+      "fin": 37.12
+    },
+    {
+      "t": "pero",
+      "inicio": 37.2,
+      "fin": 37.307
+    },
+    {
+      "t": "el",
+      "inicio": 37.333,
+      "fin": 37.36
+    },
+    {
+      "t": "Congreso",
+      "inicio": 37.44,
+      "fin": 37.84
+    },
+    {
+      "t": "debe",
+      "inicio": 37.92,
+      "fin": 38.08
+    },
+    {
+      "t": "votarlo",
+      "inicio": 38.16,
+      "fin": 38.56
+    },
+    {
+      "t": "en",
+      "inicio": 38.6,
+      "fin": 38.64
+    },
+    {
+      "t": "treinta",
+      "inicio": 38.72,
+      "fin": 38.96
+    },
+    {
+      "t": "días.",
+      "inicio": 39.04,
+      "fin": 39.76
+    },
+    {
+      "t": "Si",
+      "inicio": 39.8,
+      "fin": 39.84
+    },
+    {
+      "t": "lo",
+      "inicio": 39.92,
+      "fin": 40
+    },
+    {
+      "t": "convalida,",
+      "inicio": 40.08,
+      "fin": 40.72
+    },
+    {
+      "t": "sigue.",
+      "inicio": 40.84,
+      "fin": 41.36
+    },
+    {
+      "t": "Si",
+      "inicio": 41.4,
+      "fin": 41.44
+    },
+    {
+      "t": "lo",
+      "inicio": 41.52,
+      "fin": 41.6
+    },
+    {
+      "t": "rechaza,",
+      "inicio": 41.68,
+      "fin": 42.32
+    },
+    {
+      "t": "queda",
+      "inicio": 42.44,
+      "fin": 42.56
+    },
+    {
+      "t": "derogado.",
+      "inicio": 42.64,
+      "fin": 43.36
+    },
+    {
+      "t": "Con",
+      "inicio": 43.44,
+      "fin": 43.52
+    },
+    {
+      "t": "las",
+      "inicio": 43.6,
+      "fin": 43.68
+    },
+    {
+      "t": "Cortes",
+      "inicio": 43.72,
+      "fin": 44
+    },
+    {
+      "t": "disueltas,",
+      "inicio": 44.08,
+      "fin": 44.72
+    },
+    {
+      "t": "ese",
+      "inicio": 44.84,
+      "fin": 44.96
+    },
+    {
+      "t": "voto",
+      "inicio": 45,
+      "fin": 45.28
+    },
+    {
+      "t": "lo",
+      "inicio": 45.32,
+      "fin": 45.36
+    },
+    {
+      "t": "hace",
+      "inicio": 45.44,
+      "fin": 45.6
+    },
+    {
+      "t": "la",
+      "inicio": 45.68,
+      "fin": 45.76
+    },
+    {
+      "t": "Diputación.",
+      "inicio": 45.813,
+      "fin": 46.72
+    },
+    {
+      "t": "El",
+      "inicio": 46.76,
+      "fin": 46.8
+    },
+    {
+      "t": "dieciséis",
+      "inicio": 46.88,
+      "fin": 47.24
+    },
+    {
+      "t": "de",
+      "inicio": 47.28,
+      "fin": 47.32
+    },
+    {
+      "t": "octubre",
+      "inicio": 47.36,
+      "fin": 47.76
+    },
+    {
+      "t": "ya",
+      "inicio": 47.84,
+      "fin": 48
+    },
+    {
+      "t": "convalidó",
+      "inicio": 48.08,
+      "fin": 48.52
+    },
+    {
+      "t": "dos:",
+      "inicio": 48.56,
+      "fin": 49.12
+    },
+    {
+      "t": "carburantes",
+      "inicio": 49.2,
+      "fin": 49.84
+    },
+    {
+      "t": "y",
+      "inicio": 50,
+      "fin": 50.08
+    },
+    {
+      "t": "dana.",
+      "inicio": 50.24,
+      "fin": 50.8
+    },
+    {
+      "t": "Y",
+      "inicio": 50.84,
+      "fin": 50.88
+    },
+    {
+      "t": "ahora,",
+      "inicio": 50.96,
+      "fin": 51.44
+    },
+    {
+      "t": "lo",
+      "inicio": 51.48,
+      "fin": 51.52
+    },
+    {
+      "t": "que",
+      "inicio": 51.6,
+      "fin": 51.68
+    },
+    {
+      "t": "casi",
+      "inicio": 51.76,
+      "fin": 52
+    },
+    {
+      "t": "nadie",
+      "inicio": 52.08,
+      "fin": 52.32
+    },
+    {
+      "t": "sabe.",
+      "inicio": 52.4,
+      "fin": 53.04
+    },
+    {
+      "t": "El",
+      "inicio": 53.08,
+      "fin": 53.12
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 53.2,
+      "fin": 53.68
+    },
+    {
+      "t": "todavía",
+      "inicio": 53.76,
+      "fin": 54.16
+    },
+    {
+      "t": "no",
+      "inicio": 54.24,
+      "fin": 54.32
+    },
+    {
+      "t": "está",
+      "inicio": 54.4,
+      "fin": 54.52
+    },
+    {
+      "t": "en",
+      "inicio": 54.56,
+      "fin": 54.64
+    },
+    {
+      "t": "funciones.",
+      "inicio": 54.76,
+      "fin": 55.52
+    },
+    {
+      "t": "Mantiene",
+      "inicio": 55.56,
+      "fin": 55.92
+    },
+    {
+      "t": "sus",
+      "inicio": 56,
+      "fin": 56.16
+    },
+    {
+      "t": "competencias",
+      "inicio": 56.28,
+      "fin": 56.72
+    },
+    {
+      "t": "plenas",
+      "inicio": 56.8,
+      "fin": 57.2
+    },
+    {
+      "t": "hasta",
+      "inicio": 57.28,
+      "fin": 57.52
+    },
+    {
+      "t": "las",
+      "inicio": 57.6,
+      "fin": 57.68
+    },
+    {
+      "t": "elecciones.",
+      "inicio": 57.76,
+      "fin": 58.64
+    },
+    {
+      "t": "Entrará",
+      "inicio": 58.76,
+      "fin": 59.04
+    },
+    {
+      "t": "en",
+      "inicio": 59.08,
+      "fin": 59.12
+    },
+    {
+      "t": "funciones",
+      "inicio": 59.24,
+      "fin": 59.68
+    },
+    {
+      "t": "en",
+      "inicio": 59.76,
+      "fin": 59.84
+    },
+    {
+      "t": "cuanto",
+      "inicio": 59.88,
+      "fin": 60.08
+    },
+    {
+      "t": "se",
+      "inicio": 60.16,
+      "fin": 60.24
+    },
+    {
+      "t": "celebren",
+      "inicio": 60.36,
+      "fin": 60.64
+    },
+    {
+      "t": "las",
+      "inicio": 60.72,
+      "fin": 60.8
+    },
+    {
+      "t": "elecciones.",
+      "inicio": 60.88,
+      "fin": 61.68
+    },
+    {
+      "t": "Entonces",
+      "inicio": 61.8,
+      "fin": 62.24
+    },
+    {
+      "t": "sí",
+      "inicio": 62.4,
+      "fin": 62.56
+    },
+    {
+      "t": "tendrá",
+      "inicio": 62.64,
+      "fin": 62.88
+    },
+    {
+      "t": "frenos:",
+      "inicio": 62.96,
+      "fin": 63.6
+    },
+    {
+      "t": "no",
+      "inicio": 63.68,
+      "fin": 63.76
+    },
+    {
+      "t": "podrá",
+      "inicio": 63.84,
+      "fin": 64.08
+    },
+    {
+      "t": "llevar",
+      "inicio": 64.12,
+      "fin": 64.32
+    },
+    {
+      "t": "al",
+      "inicio": 64.36,
+      "fin": 64.4
+    },
+    {
+      "t": "Congreso",
+      "inicio": 64.48,
+      "fin": 64.96
+    },
+    {
+      "t": "ni",
+      "inicio": 65.04,
+      "fin": 65.12
+    },
+    {
+      "t": "Presupuestos",
+      "inicio": 65.2,
+      "fin": 66
+    },
+    {
+      "t": "ni",
+      "inicio": 66.08,
+      "fin": 66.16
+    },
+    {
+      "t": "proyectos",
+      "inicio": 66.24,
+      "fin": 66.72
+    },
+    {
+      "t": "de",
+      "inicio": 66.76,
+      "fin": 66.8
+    },
+    {
+      "t": "ley.",
+      "inicio": 66.92,
+      "fin": 67.44
+    },
+    {
+      "t": "¿Quién",
+      "inicio": 67.467,
+      "fin": 67.6
+    },
+    {
+      "t": "manda",
+      "inicio": 67.68,
+      "fin": 67.84
+    },
+    {
+      "t": "ahora?",
+      "inicio": 67.92,
+      "fin": 68.48
+    },
+    {
+      "t": "Un",
+      "inicio": 68.56,
+      "fin": 68.64
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 68.72,
+      "fin": 69.12
+    },
+    {
+      "t": "con",
+      "inicio": 69.2,
+      "fin": 69.36
+    },
+    {
+      "t": "plenas",
+      "inicio": 69.44,
+      "fin": 69.76
+    },
+    {
+      "t": "competencias.",
+      "inicio": 69.84,
+      "fin": 70.88
+    },
+    {
+      "t": "Y",
+      "inicio": 70.92,
+      "fin": 70.96
+    },
+    {
+      "t": "sesenta",
+      "inicio": 71.04,
+      "fin": 71.36
+    },
+    {
+      "t": "y",
+      "inicio": 71.4,
+      "fin": 71.44
+    },
+    {
+      "t": "nueve",
+      "inicio": 71.48,
+      "fin": 71.6
+    },
+    {
+      "t": "diputados",
+      "inicio": 71.68,
+      "fin": 72.16
+    },
+    {
+      "t": "de",
+      "inicio": 72.2,
+      "fin": 72.24
+    },
+    {
+      "t": "guardia",
+      "inicio": 72.32,
+      "fin": 72.64
+    },
+    {
+      "t": "hasta",
+      "inicio": 72.8,
+      "fin": 73.04
+    },
+    {
+      "t": "el",
+      "inicio": 73.12,
+      "fin": 73.16
+    },
+    {
+      "t": "veintitrés",
+      "inicio": 73.2,
+      "fin": 73.72
+    },
+    {
+      "t": "de",
+      "inicio": 73.76,
+      "fin": 73.84
+    },
+    {
+      "t": "diciembre.",
+      "inicio": 73.92,
+      "fin": 74.8
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 74.827,
+      "fin": 74.88
+    },
+    {
+      "t": "sabías?",
+      "inicio": 74.96,
+      "fin": 75.76
+    },
+    {
+      "t": "Cuéntamelo",
+      "inicio": 75.8,
+      "fin": 76.16
+    },
+    {
+      "t": "en",
+      "inicio": 76.2,
+      "fin": 76.24
+    },
+    {
+      "t": "comentarios.",
+      "inicio": 76.32,
+      "fin": 77.2
+    }
+  ]
+}

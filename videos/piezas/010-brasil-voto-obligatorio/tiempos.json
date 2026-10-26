@@ -1,0 +1,428 @@
+{
+  "palabras": [
+    {
+      "t": "¿No",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "t": "votas?",
+      "inicio": 0.28,
+      "fin": 0.96
+    },
+    {
+      "t": "En",
+      "inicio": 1.2,
+      "fin": 1.28
+    },
+    {
+      "t": "Brasil,",
+      "inicio": 1.32,
+      "fin": 1.84
+    },
+    {
+      "t": "no",
+      "inicio": 1.92,
+      "fin": 2
+    },
+    {
+      "t": "hay",
+      "inicio": 2.08,
+      "fin": 2.16
+    },
+    {
+      "t": "pasaporte",
+      "inicio": 2.24,
+      "fin": 2.72
+    },
+    {
+      "t": "hasta",
+      "inicio": 2.8,
+      "fin": 2.96
+    },
+    {
+      "t": "ponerte",
+      "inicio": 3.04,
+      "fin": 3.36
+    },
+    {
+      "t": "al",
+      "inicio": 3.4,
+      "fin": 3.44
+    },
+    {
+      "t": "día.",
+      "inicio": 3.56,
+      "fin": 4.08
+    },
+    {
+      "t": "Este",
+      "inicio": 4.2,
+      "fin": 4.32
+    },
+    {
+      "t": "domingo",
+      "inicio": 4.4,
+      "fin": 4.72
+    },
+    {
+      "t": "votan",
+      "inicio": 4.8,
+      "fin": 5.12
+    },
+    {
+      "t": "en",
+      "inicio": 5.2,
+      "fin": 5.28
+    },
+    {
+      "t": "segunda",
+      "inicio": 5.36,
+      "fin": 5.6
+    },
+    {
+      "t": "vuelta.",
+      "inicio": 5.68,
+      "fin": 6.4
+    },
+    {
+      "t": "Allí",
+      "inicio": 6.48,
+      "fin": 6.64
+    },
+    {
+      "t": "votar",
+      "inicio": 6.8,
+      "fin": 7.12
+    },
+    {
+      "t": "es",
+      "inicio": 7.16,
+      "fin": 7.2
+    },
+    {
+      "t": "obligatorio",
+      "inicio": 7.28,
+      "fin": 7.84
+    },
+    {
+      "t": "de",
+      "inicio": 7.92,
+      "fin": 8
+    },
+    {
+      "t": "dieciocho",
+      "inicio": 8.12,
+      "fin": 8.56
+    },
+    {
+      "t": "a",
+      "inicio": 8.72,
+      "fin": 8.8
+    },
+    {
+      "t": "setenta",
+      "inicio": 8.88,
+      "fin": 9.28
+    },
+    {
+      "t": "años.",
+      "inicio": 9.36,
+      "fin": 10.08
+    },
+    {
+      "t": "Si",
+      "inicio": 10.12,
+      "fin": 10.16
+    },
+    {
+      "t": "faltas",
+      "inicio": 10.24,
+      "fin": 10.56
+    },
+    {
+      "t": "sin",
+      "inicio": 10.64,
+      "fin": 10.72
+    },
+    {
+      "t": "justificarte,",
+      "inicio": 10.84,
+      "fin": 11.76
+    },
+    {
+      "t": "multa:",
+      "inicio": 11.84,
+      "fin": 12.48
+    },
+    {
+      "t": "hasta",
+      "inicio": 12.52,
+      "fin": 12.8
+    },
+    {
+      "t": "tres",
+      "inicio": 12.96,
+      "fin": 13.12
+    },
+    {
+      "t": "reales",
+      "inicio": 13.2,
+      "fin": 13.52
+    },
+    {
+      "t": "y",
+      "inicio": 13.6,
+      "fin": 13.64
+    },
+    {
+      "t": "medio.",
+      "inicio": 13.68,
+      "fin": 14.32
+    },
+    {
+      "t": "Hasta",
+      "inicio": 14.373,
+      "fin": 14.48
+    },
+    {
+      "t": "ponerte",
+      "inicio": 14.56,
+      "fin": 14.88
+    },
+    {
+      "t": "al",
+      "inicio": 14.92,
+      "fin": 14.96
+    },
+    {
+      "t": "día,",
+      "inicio": 15.08,
+      "fin": 15.36
+    },
+    {
+      "t": "tampoco",
+      "inicio": 15.4,
+      "fin": 15.84
+    },
+    {
+      "t": "puedes",
+      "inicio": 15.92,
+      "fin": 16.16
+    },
+    {
+      "t": "opositar.",
+      "inicio": 16.24,
+      "fin": 17.04
+    },
+    {
+      "t": "Tres",
+      "inicio": 17.093,
+      "fin": 17.2
+    },
+    {
+      "t": "elecciones",
+      "inicio": 17.28,
+      "fin": 17.68
+    },
+    {
+      "t": "seguidas",
+      "inicio": 17.76,
+      "fin": 18.08
+    },
+    {
+      "t": "así,",
+      "inicio": 18.16,
+      "fin": 18.52
+    },
+    {
+      "t": "y",
+      "inicio": 18.64,
+      "fin": 18.72
+    },
+    {
+      "t": "te",
+      "inicio": 18.76,
+      "fin": 18.8
+    },
+    {
+      "t": "dan",
+      "inicio": 18.88,
+      "fin": 19.04
+    },
+    {
+      "t": "de",
+      "inicio": 19.08,
+      "fin": 19.12
+    },
+    {
+      "t": "baja.",
+      "inicio": 19.16,
+      "fin": 19.76
+    },
+    {
+      "t": "Y",
+      "inicio": 19.8,
+      "fin": 19.84
+    },
+    {
+      "t": "ojo:",
+      "inicio": 19.92,
+      "fin": 20.4
+    },
+    {
+      "t": "cada",
+      "inicio": 20.48,
+      "fin": 20.64
+    },
+    {
+      "t": "vuelta",
+      "inicio": 20.68,
+      "fin": 20.96
+    },
+    {
+      "t": "cuenta",
+      "inicio": 21.12,
+      "fin": 21.44
+    },
+    {
+      "t": "como",
+      "inicio": 21.52,
+      "fin": 21.76
+    },
+    {
+      "t": "una",
+      "inicio": 21.84,
+      "fin": 21.92
+    },
+    {
+      "t": "elección.",
+      "inicio": 22,
+      "fin": 22.88
+    },
+    {
+      "t": "¿Y",
+      "inicio": 22.907,
+      "fin": 22.96
+    },
+    {
+      "t": "en",
+      "inicio": 23,
+      "fin": 23.04
+    },
+    {
+      "t": "España?",
+      "inicio": 23.12,
+      "fin": 23.76
+    },
+    {
+      "t": "Nadie",
+      "inicio": 24,
+      "fin": 24.32
+    },
+    {
+      "t": "puede",
+      "inicio": 24.4,
+      "fin": 24.56
+    },
+    {
+      "t": "obligarte",
+      "inicio": 24.64,
+      "fin": 25.04
+    },
+    {
+      "t": "a",
+      "inicio": 25.067,
+      "fin": 25.093
+    },
+    {
+      "t": "votar.",
+      "inicio": 25.12,
+      "fin": 25.76
+    },
+    {
+      "t": "La",
+      "inicio": 25.8,
+      "fin": 25.84
+    },
+    {
+      "t": "mesa",
+      "inicio": 25.92,
+      "fin": 26.08
+    },
+    {
+      "t": "electoral,",
+      "inicio": 26.2,
+      "fin": 26.72
+    },
+    {
+      "t": "si",
+      "inicio": 26.76,
+      "fin": 26.8
+    },
+    {
+      "t": "te",
+      "inicio": 26.88,
+      "fin": 26.96
+    },
+    {
+      "t": "toca,",
+      "inicio": 27.04,
+      "fin": 27.52
+    },
+    {
+      "t": "sí",
+      "inicio": 27.6,
+      "fin": 27.68
+    },
+    {
+      "t": "es",
+      "inicio": 27.76,
+      "fin": 27.84
+    },
+    {
+      "t": "obligatoria.",
+      "inicio": 27.92,
+      "fin": 28.8
+    },
+    {
+      "t": "¿Te",
+      "inicio": 28.827,
+      "fin": 28.88
+    },
+    {
+      "t": "imaginas",
+      "inicio": 28.96,
+      "fin": 29.44
+    },
+    {
+      "t": "lo",
+      "inicio": 29.48,
+      "fin": 29.52
+    },
+    {
+      "t": "mismo",
+      "inicio": 29.6,
+      "fin": 29.84
+    },
+    {
+      "t": "con",
+      "inicio": 29.92,
+      "fin": 30
+    },
+    {
+      "t": "tu",
+      "inicio": 30.04,
+      "fin": 30.08
+    },
+    {
+      "t": "pasaporte?",
+      "inicio": 30.16,
+      "fin": 30.88
+    }
+  ],
+  "duracion": 30.88,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE"
+}

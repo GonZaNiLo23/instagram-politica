@@ -1,0 +1,2330 @@
+{
+  "plantilla": "estandar",
+  "duracion": 79.98,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "VOTO POR CORREO: ¿PUCHERAZO?",
+            "y": 400,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "dib",
+            "nombre": "sobreCandado",
+            "x": 540,
+            "y": 1140,
+            "tamano": 420,
+            "en": -1,
+            "animEn": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.34,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "VOTO POR CORREO: ¿PUCHERAZO?",
+          "y": 335,
+          "tamano": 100,
+          "en": 0
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "pucherazo = amañar votos",
+          "y": 690,
+          "en": 0.5,
+          "tamano": 64
+        },
+        {
+          "tipo": "puerta",
+          "x": 540,
+          "y": 960,
+          "alto": 340,
+          "ang": [
+            0.25,
+            0.55
+          ],
+          "angEn": 1.9699999999999998,
+          "angDur": 0.5,
+          "sobreEn": 0.25,
+          "interroga": 2.32
+        }
+      ]
+    },
+    {
+      "inicio": 3.34,
+      "fin": 6.78,
+      "componentes": [
+        {
+          "tipo": "tarjetaPostura",
+          "src": "ret-F6.jpg",
+          "titular": "Ayuso: no votar por correo",
+          "cargo": "Isabel Díaz Ayuso · presidenta de la Comunidad de Madrid (PP)",
+          "nota": "5-10-2026 · según Europa Press",
+          "retrato": 240,
+          "tit": 76,
+          "y": 470,
+          "en": 0.05
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Barcex · CC BY-SA 4.0 · Wikimedia Commons (recorte)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 6.78,
+      "fin": 11.05,
+      "componentes": [
+        {
+          "tipo": "tarjetaPostura",
+          "src": "ret-F7.jpg",
+          "titular": "Feijóo: carteros, sí · directivos de Correos, no",
+          "cargo": "Alberto Núñez Feijóo · presidente del PP",
+          "nota": "Pide más garantías a la JEC · 7-10-2026",
+          "y": 345,
+          "en": 0.05
+        },
+        {
+          "tipo": "tarjetaPostura",
+          "src": "ret-F8.jpg",
+          "titular": "Abascal (Vox): votar en la urna",
+          "cargo": "Santiago Abascal · presidente de Vox",
+          "nota": "5-10-2026 · según Europa Press",
+          "y": 807,
+          "en": 2.48
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Pool Moncloa / Fernando Calvo · La Moncloa (recorte)",
+            "Foto: Gage Skidmore · CC BY-SA 2.0 · Wikimedia Commons (recorte)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 11.05,
+      "fin": 14.98,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Temen manipulación",
+          "y": 345,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Y ha habido fraudes",
+          "y": 425,
+          "en": 1.8099999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "sobre",
+          "x": 540,
+          "y": 780,
+          "tamano": 300,
+          "en": 0.1,
+          "hasta": 1.8099999999999998
+        },
+        {
+          "tipo": "dib",
+          "nombre": "manoCorta",
+          "x": 200,
+          "y": 780,
+          "tamano": 260,
+          "en": 0.15,
+          "hasta": 1.8099999999999998,
+          "mover": {
+            "x": 330,
+            "y": 780,
+            "en": 0.5,
+            "dur": 1.2
+          }
+        },
+        {
+          "tipo": "dib",
+          "nombre": "lupaSobre",
+          "x": 540,
+          "y": 800,
+          "tamano": 340,
+          "en": 1.91
+        },
+        {
+          "tipo": "recorrido",
+          "y": 1040,
+          "enc": [
+            null,
+            null,
+            null,
+            null
+          ],
+          "dibuja": 2.55,
+          "contador": false
+        }
+      ]
+    },
+    {
+      "inicio": 14.98,
+      "fin": 18.78,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1 · LO PIDES:",
+          "y": 440,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DNI o certificado digital",
+          "y": 520,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "oficina",
+          "x": 190,
+          "y": 770,
+          "tamano": 250,
+          "en": 0.3
+        },
+        {
+          "tipo": "dib",
+          "nombre": "dni",
+          "x": 500,
+          "y": 770,
+          "tamano": 250,
+          "en": 0.8400000000000001
+        },
+        {
+          "tipo": "dib",
+          "nombre": "portatil",
+          "x": 800,
+          "y": 770,
+          "tamano": 250,
+          "en": 2.12
+        },
+        {
+          "tipo": "recorrido",
+          "y": 1040,
+          "enc": [
+            0.1,
+            null,
+            null,
+            null
+          ],
+          "dibuja": -2,
+          "yContador": 336,
+          "alin": "izq"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG art. 72"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 18.78,
+      "fin": 22.41,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2 · TE LLEGA:",
+          "y": 440,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "firmas e identificas",
+          "y": 520,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "cartero",
+          "x": 290,
+          "y": 780,
+          "tamano": 320,
+          "en": 0.25
+        },
+        {
+          "tipo": "dib",
+          "nombre": "firma",
+          "x": 720,
+          "y": 780,
+          "tamano": 300,
+          "en": 1.48,
+          "dur": 1
+        },
+        {
+          "tipo": "recorrido",
+          "y": 1040,
+          "enc": [
+            -1,
+            0.1,
+            null,
+            null
+          ],
+          "dibuja": -2,
+          "yContador": 336,
+          "alin": "izq"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG art. 73.2"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 22.41,
+      "fin": 25.34,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "3 · LO ENTREGAS:",
+          "y": 440,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DNI otra vez",
+          "y": 520,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Custodiado hasta el día de votar",
+          "y": 600,
+          "en": 0.4,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "x": 510,
+          "y": 975,
+          "ancho": 900,
+          "alto": 350,
+          "dur": 2.9299999999999997,
+          "zoom": [
+            1.02,
+            1.14
+          ],
+          "en": 0.3,
+          "credito": "Foto: Benjamín Núñez González · CC BY-SA 4.0 · Wikimedia Commons",
+          "notas": [
+            "JEC, Instr. 5/2023 · LOREG art. 73.4"
+          ]
+        },
+        {
+          "tipo": "controles",
+          "n": 3,
+          "en": 0.05,
+          "yContador": 336,
+          "alin": "izq",
+          "y": 336
+        }
+      ]
+    },
+    {
+      "inicio": 25.34,
+      "fin": 26.58,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "3 · LO ENTREGAS:",
+          "y": 440,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DNI otra vez",
+          "y": 520,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Custodiado hasta el día de votar",
+          "y": 600,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "cajaFuerte",
+          "x": 330,
+          "y": 900,
+          "tamano": 270,
+          "en": 0.1
+        },
+        {
+          "tipo": "dib",
+          "nombre": "sobre",
+          "x": 330,
+          "y": 770,
+          "tamano": 120,
+          "en": 0.1,
+          "mover": {
+            "x": 330,
+            "y": 870,
+            "en": 0.5,
+            "dur": 0.8
+          },
+          "hasta": 1.4
+        },
+        {
+          "tipo": "recorrido",
+          "y": 1040,
+          "enc": [
+            -1,
+            -1,
+            -1,
+            null
+          ],
+          "dibuja": -2,
+          "yContador": 336,
+          "alin": "izq"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "JEC, Instr. 5/2023 · LOREG art. 73.4"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 770,
+          "y": 910,
+          "tamano": 220,
+          "mes": "NOV",
+          "dia": "29",
+          "en": 0.9
+        }
+      ]
+    },
+    {
+      "inicio": 26.58,
+      "fin": 30.34,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "4 · EN LA MESA:",
+          "y": 440,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "certificado y censo",
+          "y": 520,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F4c.jpg",
+          "x": 510,
+          "y": 905,
+          "ancho": 900,
+          "alto": 480,
+          "dur": 30.939999999999998,
+          "zoom": [
+            1.04,
+            1.16
+          ],
+          "en": 0.3,
+          "notas": [
+            "LOREG art. 88.2",
+            "Mesa electoral, 23-J 2023, Valladolid · Foto: MiguelAlanCS · CC BY-SA 4.0 (recorte)"
+          ]
+        },
+        {
+          "tipo": "dib",
+          "nombre": "lista",
+          "x": 780,
+          "y": 1020,
+          "tamano": 200,
+          "en": 0.8799999999999999,
+          "dur": 1.2
+        },
+        {
+          "tipo": "controles",
+          "n": 4,
+          "en": 0.05,
+          "yContador": 336,
+          "alin": "izq",
+          "y": 336
+        }
+      ]
+    },
+    {
+      "inicio": 30.34,
+      "fin": 33.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Recuento público,",
+          "y": 440,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "con interventores",
+          "y": 520,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "papeletaSin",
+          "x": 220,
+          "y": 770,
+          "tamano": 180,
+          "en": 0.3
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 540,
+          "y": 770,
+          "tamano": 280,
+          "en": 0.2
+        },
+        {
+          "tipo": "icono",
+          "nombre": "papeletaSin",
+          "x": 860,
+          "y": 770,
+          "tamano": 180,
+          "en": 0.4
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "forma": "circulo",
+          "x": 160,
+          "y": 925,
+          "tamano": 130,
+          "en": 1.5
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "forma": "triangulo",
+          "x": 390,
+          "y": 925,
+          "tamano": 130,
+          "en": 1.62
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "forma": "cuadrado",
+          "x": 620,
+          "y": 925,
+          "tamano": 130,
+          "en": 1.74
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "forma": "rombo",
+          "x": 850,
+          "y": 925,
+          "tamano": 130,
+          "en": 1.8599999999999999
+        },
+        {
+          "tipo": "recorrido",
+          "y": 1040,
+          "enc": [
+            -1,
+            -1,
+            -1,
+            0.1
+          ],
+          "dibuja": -2,
+          "yContador": 336,
+          "alin": "izq"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG arts. 78.1 y 95.2–4"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 33.9,
+      "fin": 36.82,
+      "componentes": [
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 540,
+          "y": 335,
+          "tamano": 90,
+          "angulo": 4,
+          "seco": true,
+          "en": 1.2200000000000002
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿Nunca ha habido trampa? SÍ",
+          "y": 520,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaMelilla",
+          "x": 510,
+          "y": 930,
+          "ancho": 800,
+          "zoomEn": 2.08,
+          "zoomDur": 1,
+          "pinEn": 2.9800000000000004,
+          "en": 0.05
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Más casos, en la descripción"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 36.82,
+      "fin": 39.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2008: votos a cambio de empleo",
+          "y": 345,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "manoCorta",
+          "x": 200,
+          "y": 710,
+          "tamano": 260,
+          "en": 0.2
+        },
+        {
+          "tipo": "dib",
+          "nombre": "manoCorta",
+          "espejo": true,
+          "x": 560,
+          "y": 710,
+          "tamano": 260,
+          "en": 0.3
+        },
+        {
+          "tipo": "dib",
+          "nombre": "sobre",
+          "x": 300,
+          "y": 700,
+          "tamano": 140,
+          "en": 0.4,
+          "mover": {
+            "x": 460,
+            "y": 700,
+            "en": 0.8,
+            "dur": 1.2,
+            "arco": 40
+          }
+        },
+        {
+          "tipo": "dib",
+          "nombre": "maletin",
+          "x": 840,
+          "y": 720,
+          "tamano": 220,
+          "en": 1.54
+        },
+        {
+          "tipo": "lineaTiempo",
+          "y": 930,
+          "hitos": [
+            {
+              "etiqueta": "2008",
+              "en": 0.3
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Generales 2008 (Senado) · Poder Judicial"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 39.7,
+      "fin": 45.28,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Condenados: líderes de CpM y PSOE melillense",
+          "y": 345,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F3.jpg",
+          "x": 510,
+          "y": 640,
+          "ancho": 900,
+          "alto": 220,
+          "foco": "50% 38%",
+          "dur": 5.58,
+          "zoom": [
+            1.02,
+            1.12
+          ],
+          "en": 0.3
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "forma": "circulo",
+          "x": 280,
+          "y": 815,
+          "tamano": 100,
+          "en": 0.9
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Presidente de CpM",
+          "y": 870,
+          "en": 1,
+          "tamano": 36,
+          "izq": 60,
+          "ancho": 440,
+          "align": "center"
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "forma": "cuadrado",
+          "x": 740,
+          "y": 815,
+          "tamano": 100,
+          "en": 2
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Entonces líder del PSOE de Melilla",
+          "y": 870,
+          "en": 2.1,
+          "tamano": 36,
+          "izq": 520,
+          "ancho": 440,
+          "align": "center"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2018 Audiencia ·",
+          "y": 985,
+          "en": 2.2,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2021 Supremo",
+          "y": 1060,
+          "en": 3,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "presidente de CpM y ex secretario general del PSOE de Melilla · Tribunal Supremo, 17-02-2021 · poderjudicial.es · Foto: Javier Pérez Montes (Nerve net) · CC BY-SA 4.0 · Wikimedia Commons"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 45.28,
+      "fin": 49.34,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MELILLA 2023: 1 DE CADA 5",
+          "y": 345,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "personas5",
+          "y": 660,
+          "tamano": 130,
+          "enciendeEn": 0.8400000000000001,
+          "en": 0.2
+        },
+        {
+          "tipo": "barrasEje",
+          "max": 25,
+          "paso": 5,
+          "yEje": 990,
+          "x0": 330,
+          "anchoMax": 440,
+          "filas": [
+            {
+              "etiqueta": "Melilla",
+              "valor": 21,
+              "texto": "≈ 21 %",
+              "color": "#F2B134",
+              "y": 800,
+              "en": 1.3,
+              "dur": 1.2
+            }
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Solicitudes de voto por correo, 28-M · Correos, vía Maldita y Que.es"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 49.34,
+      "fin": 51.74,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ESPAÑA: 3 DE CADA 100",
+          "y": 345,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "personas5",
+          "y": 660,
+          "tamano": 130,
+          "enciendeEn": -1,
+          "en": -1
+        },
+        {
+          "tipo": "barrasEje",
+          "max": 25,
+          "paso": 5,
+          "yEje": 990,
+          "x0": 330,
+          "anchoMax": 440,
+          "filas": [
+            {
+              "etiqueta": "Melilla",
+              "valor": 21,
+              "texto": "≈ 21 %",
+              "color": "#F2B134",
+              "y": 800,
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "etiqueta": "España",
+              "valor": 3,
+              "texto": "≈ 3 %",
+              "color": "#8D99AE",
+              "y": 890,
+              "en": 0.98,
+              "dur": 0.9
+            }
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 51.74,
+      "fin": 55.06,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Alarma: detenidos por presunta compra de votos",
+          "y": 345,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "alarma",
+          "x": 290,
+          "y": 680,
+          "tamano": 190,
+          "en": 0.2,
+          "latido": [
+            0.3,
+            2.6
+          ],
+          "dur": 2.5
+        },
+        {
+          "tipo": "dib",
+          "nombre": "lupaSobre",
+          "x": 730,
+          "y": 680,
+          "tamano": 220,
+          "en": 1.4200000000000002
+        },
+        {
+          "tipo": "barrasEje",
+          "max": 25,
+          "paso": 5,
+          "yEje": 990,
+          "x0": 330,
+          "anchoMax": 440,
+          "filas": [
+            {
+              "etiqueta": "Melilla",
+              "valor": 21,
+              "texto": "≈ 21 %",
+              "color": "#F2B134",
+              "y": 800,
+              "en": -1,
+              "dur": 0.01,
+              "parpadeo": [
+                0.3,
+                1.6
+              ]
+            },
+            {
+              "etiqueta": "España",
+              "valor": 3,
+              "texto": "≈ 3 %",
+              "color": "#8D99AE",
+              "y": 890,
+              "en": -1,
+              "dur": 0.01
+            }
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Mayo de 2023 · investigación judicial abierta · Fuente: Maldita"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 55.06,
+      "fin": 58.02,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Desde 2023: DNI al entregar el voto",
+          "y": 345,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "dni",
+          "x": 540,
+          "y": 740,
+          "tamano": 330,
+          "en": 0.3
+        },
+        {
+          "tipo": "anillo",
+          "x": 540,
+          "y": 740,
+          "r": 205,
+          "en": 0.9
+        },
+        {
+          "tipo": "recorrido",
+          "y": 1040,
+          "enc": [
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "dibuja": -2,
+          "yContador": 336,
+          "alin": "izq",
+          "contador": false,
+          "halo": 0.5
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "JEC, Instrucción 5/2023 (BOE 9-6-2023)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 58.02,
+      "fin": 61.46,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PP: más custodia · Vox: voto exterior",
+          "y": 345,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaTexto",
+          "texto": "PP · más medidas de custodia del voto por correo",
+          "y": 540,
+          "en": 0.05
+        },
+        {
+          "tipo": "tarjetaTexto",
+          "texto": "Vox · reclamaciones sobre el voto de residentes en el extranjero (CERA)",
+          "y": 810,
+          "en": 0.05
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Reclamaciones ante la Junta Electoral Central · Europa Press, 16-10-2026"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 61.46,
+      "fin": 65.18,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "JEC: se aplica la ley vigente",
+          "y": 345,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaTexto",
+          "texto": "PP · más medidas de custodia del voto por correo",
+          "y": 540,
+          "en": -1,
+          "atenua": 2.06
+        },
+        {
+          "tipo": "tarjetaTexto",
+          "texto": "Vox · reclamaciones sobre el voto de residentes en el extranjero (CERA)",
+          "y": 810,
+          "en": -1,
+          "atenua": 2.06
+        },
+        {
+          "tipo": "dib",
+          "nombre": "docJEC",
+          "x": 540,
+          "y": 790,
+          "tamano": 420,
+          "en": 1.56,
+          "animEn": 1.86,
+          "dur": 0.5
+        },
+        {
+          "tipo": "notaEscribe",
+          "lineas": [
+            "«…en tanto no sean modificados por el legislador» · JEC, vía Europa Press, 16-10-2026"
+          ],
+          "en": 1.58,
+          "dur": 2.6
+        }
+      ]
+    },
+    {
+      "inicio": 65.18,
+      "fin": 69.77,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Cambiarla: reformar la LOREG, mayoría absoluta",
+          "y": 345,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F2.jpg",
+          "x": 510,
+          "y": 790,
+          "ancho": 900,
+          "alto": 340,
+          "foco": "50% 55%",
+          "dur": 4.59,
+          "zoom": [
+            1.02,
+            1.14
+          ],
+          "en": 0.3
+        },
+        {
+          "tipo": "escanos",
+          "y": 990,
+          "en": 2.2199999999999998,
+          "llena": 2.52
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "CE art. 81 · Cortes disueltas desde el 6-10 · decreto-ley excluido (CE art. 86.1)",
+            "Foto: Vickybol (Vicky Bolaños) · CC BY-SA 3.0 · Wikimedia Commons"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 69.77,
+      "fin": 73.06,
+      "componentes": [
+        {
+          "tipo": "sello",
+          "valor": "MITO",
+          "x": 540,
+          "y": 335,
+          "tamano": 100,
+          "angulo": -6,
+          "seco": true,
+          "en": 1.07
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿Puerta abierta? No: cerrojos y alarma",
+          "y": 580,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "puerta",
+          "x": 540,
+          "y": 930,
+          "alto": 330,
+          "ang": [
+            0,
+            0
+          ],
+          "sobreEn": null,
+          "cerrojos": [
+            1.7699999999999998,
+            2.0199999999999996,
+            2.2699999999999996,
+            2.5199999999999996
+          ],
+          "alarma": 2.59,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 73.06,
+      "fin": 75.69,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Plazo para pedirlo:",
+          "y": 345,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "19 de noviembre",
+          "y": 425,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 300,
+          "y": 770,
+          "tamano": 330,
+          "mes": "NOV",
+          "dia": "19",
+          "en": 0.2
+        },
+        {
+          "tipo": "anillo",
+          "x": 300,
+          "y": 790,
+          "r": 205,
+          "en": 1.1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 770,
+          "y": 770,
+          "tamano": 330,
+          "mes": "NOV",
+          "dia": "29",
+          "en": 0.5
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 770,
+          "y": 1010,
+          "tamano": 150,
+          "en": 0.9
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG art. 72 · elecciones 29-N"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 75.69,
+      "fin": 79.98,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿En tu casa se discute?",
+          "tamano": 88,
+          "yGuardalo": 1200,
+          "yFuentes": 1310,
+          "pulso": true
+        },
+        {
+          "tipo": "mesaComedor",
+          "y": 930,
+          "en": 0.3
+        }
+      ]
+    }
+  ],
+  "id": "008-voto-por-correo-pucherazo",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "¿Votar",
+      "inicio": 0,
+      "fin": 0.32
+    },
+    {
+      "t": "por",
+      "inicio": 0.4,
+      "fin": 0.48
+    },
+    {
+      "t": "correo",
+      "inicio": 0.56,
+      "fin": 0.96
+    },
+    {
+      "t": "es",
+      "inicio": 1.04,
+      "fin": 1.2
+    },
+    {
+      "t": "una",
+      "inicio": 1.28,
+      "fin": 1.36
+    },
+    {
+      "t": "puerta",
+      "inicio": 1.44,
+      "fin": 1.76
+    },
+    {
+      "t": "abierta",
+      "inicio": 1.84,
+      "fin": 2.16
+    },
+    {
+      "t": "al",
+      "inicio": 2.2,
+      "fin": 2.24
+    },
+    {
+      "t": "pucherazo?",
+      "inicio": 2.32,
+      "fin": 2.96
+    },
+    {
+      "t": "El",
+      "inicio": 3.44,
+      "fin": 3.52
+    },
+    {
+      "t": "cinco",
+      "inicio": 3.6,
+      "fin": 3.76
+    },
+    {
+      "t": "de",
+      "inicio": 3.84,
+      "fin": 3.88
+    },
+    {
+      "t": "octubre,",
+      "inicio": 3.92,
+      "fin": 4.48
+    },
+    {
+      "t": "Ayuso",
+      "inicio": 4.56,
+      "fin": 4.88
+    },
+    {
+      "t": "pidió",
+      "inicio": 4.96,
+      "fin": 5.2
+    },
+    {
+      "t": "no",
+      "inicio": 5.44,
+      "fin": 5.52
+    },
+    {
+      "t": "votar",
+      "inicio": 5.6,
+      "fin": 5.92
+    },
+    {
+      "t": "por",
+      "inicio": 6,
+      "fin": 6.08
+    },
+    {
+      "t": "correo.",
+      "inicio": 6.16,
+      "fin": 6.56
+    },
+    {
+      "t": "Feijóo",
+      "inicio": 6.88,
+      "fin": 7.28
+    },
+    {
+      "t": "dice",
+      "inicio": 7.36,
+      "fin": 7.6
+    },
+    {
+      "t": "confiar",
+      "inicio": 7.68,
+      "fin": 8.08
+    },
+    {
+      "t": "en",
+      "inicio": 8.16,
+      "fin": 8.2
+    },
+    {
+      "t": "los",
+      "inicio": 8.24,
+      "fin": 8.32
+    },
+    {
+      "t": "carteros,",
+      "inicio": 8.4,
+      "fin": 9.12
+    },
+    {
+      "t": "no",
+      "inicio": 9.2,
+      "fin": 9.28
+    },
+    {
+      "t": "en",
+      "inicio": 9.36,
+      "fin": 9.44
+    },
+    {
+      "t": "los",
+      "inicio": 9.48,
+      "fin": 9.52
+    },
+    {
+      "t": "directivos",
+      "inicio": 9.6,
+      "fin": 10.08
+    },
+    {
+      "t": "de",
+      "inicio": 10.12,
+      "fin": 10.16
+    },
+    {
+      "t": "Correos.",
+      "inicio": 10.24,
+      "fin": 11.04
+    },
+    {
+      "t": "Temen",
+      "inicio": 11.147,
+      "fin": 11.36
+    },
+    {
+      "t": "que",
+      "inicio": 11.44,
+      "fin": 11.52
+    },
+    {
+      "t": "se",
+      "inicio": 11.56,
+      "fin": 11.6
+    },
+    {
+      "t": "manipulen",
+      "inicio": 11.68,
+      "fin": 12.16
+    },
+    {
+      "t": "votos.",
+      "inicio": 12.293,
+      "fin": 12.76
+    },
+    {
+      "t": "Y",
+      "inicio": 12.96,
+      "fin": 13.04
+    },
+    {
+      "t": "ha",
+      "inicio": 13.08,
+      "fin": 13.12
+    },
+    {
+      "t": "habido",
+      "inicio": 13.2,
+      "fin": 13.44
+    },
+    {
+      "t": "fraudes",
+      "inicio": 13.6,
+      "fin": 14
+    },
+    {
+      "t": "reales.",
+      "inicio": 14.08,
+      "fin": 14.96
+    },
+    {
+      "t": "Uno:",
+      "inicio": 15.08,
+      "fin": 15.52
+    },
+    {
+      "t": "lo",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "t": "pides",
+      "inicio": 15.72,
+      "fin": 16
+    },
+    {
+      "t": "con",
+      "inicio": 16.08,
+      "fin": 16.24
+    },
+    {
+      "t": "DNI",
+      "inicio": 16.32,
+      "fin": 17.04
+    },
+    {
+      "t": "o",
+      "inicio": 17.2,
+      "fin": 17.28
+    },
+    {
+      "t": "certificado",
+      "inicio": 17.4,
+      "fin": 17.92
+    },
+    {
+      "t": "digital.",
+      "inicio": 18.16,
+      "fin": 18.8
+    },
+    {
+      "t": "Dos:",
+      "inicio": 18.88,
+      "fin": 19.44
+    },
+    {
+      "t": "te",
+      "inicio": 19.48,
+      "fin": 19.52
+    },
+    {
+      "t": "lo",
+      "inicio": 19.56,
+      "fin": 19.6
+    },
+    {
+      "t": "entrega",
+      "inicio": 19.68,
+      "fin": 19.92
+    },
+    {
+      "t": "el",
+      "inicio": 19.96,
+      "fin": 20
+    },
+    {
+      "t": "cartero",
+      "inicio": 20.08,
+      "fin": 20.48
+    },
+    {
+      "t": "y",
+      "inicio": 20.56,
+      "fin": 20.72
+    },
+    {
+      "t": "firmas",
+      "inicio": 20.84,
+      "fin": 21.12
+    },
+    {
+      "t": "identificándote.",
+      "inicio": 21.2,
+      "fin": 22.4
+    },
+    {
+      "t": "Tres:",
+      "inicio": 22.507,
+      "fin": 23.04
+    },
+    {
+      "t": "lo",
+      "inicio": 23.08,
+      "fin": 23.12
+    },
+    {
+      "t": "llevas",
+      "inicio": 23.2,
+      "fin": 23.44
+    },
+    {
+      "t": "a",
+      "inicio": 23.48,
+      "fin": 23.52
+    },
+    {
+      "t": "Correos",
+      "inicio": 23.6,
+      "fin": 24
+    },
+    {
+      "t": "con",
+      "inicio": 24.08,
+      "fin": 24.24
+    },
+    {
+      "t": "DNI",
+      "inicio": 24.32,
+      "fin": 24.8
+    },
+    {
+      "t": "y",
+      "inicio": 25.04,
+      "fin": 25.08
+    },
+    {
+      "t": "allí",
+      "inicio": 25.12,
+      "fin": 25.36
+    },
+    {
+      "t": "queda",
+      "inicio": 25.44,
+      "fin": 25.68
+    },
+    {
+      "t": "custodiado.",
+      "inicio": 25.76,
+      "fin": 26.64
+    },
+    {
+      "t": "Cuatro:",
+      "inicio": 26.68,
+      "fin": 27.28
+    },
+    {
+      "t": "la",
+      "inicio": 27.32,
+      "fin": 27.36
+    },
+    {
+      "t": "mesa",
+      "inicio": 27.44,
+      "fin": 27.68
+    },
+    {
+      "t": "comprueba",
+      "inicio": 27.76,
+      "fin": 28.16
+    },
+    {
+      "t": "tu",
+      "inicio": 28.24,
+      "fin": 28.32
+    },
+    {
+      "t": "certificado",
+      "inicio": 28.4,
+      "fin": 29.04
+    },
+    {
+      "t": "y",
+      "inicio": 29.12,
+      "fin": 29.2
+    },
+    {
+      "t": "que",
+      "inicio": 29.28,
+      "fin": 29.36
+    },
+    {
+      "t": "estás",
+      "inicio": 29.44,
+      "fin": 29.68
+    },
+    {
+      "t": "censado.",
+      "inicio": 29.72,
+      "fin": 30.4
+    },
+    {
+      "t": "Y",
+      "inicio": 30.44,
+      "fin": 30.48
+    },
+    {
+      "t": "el",
+      "inicio": 30.52,
+      "fin": 30.56
+    },
+    {
+      "t": "recuento",
+      "inicio": 30.64,
+      "fin": 31.04
+    },
+    {
+      "t": "es",
+      "inicio": 31.12,
+      "fin": 31.2
+    },
+    {
+      "t": "público,",
+      "inicio": 31.28,
+      "fin": 31.92
+    },
+    {
+      "t": "ante",
+      "inicio": 32.04,
+      "fin": 32.16
+    },
+    {
+      "t": "interventores",
+      "inicio": 32.24,
+      "fin": 32.8
+    },
+    {
+      "t": "de",
+      "inicio": 32.84,
+      "fin": 32.88
+    },
+    {
+      "t": "los",
+      "inicio": 32.92,
+      "fin": 32.96
+    },
+    {
+      "t": "partidos.",
+      "inicio": 33.04,
+      "fin": 33.6
+    },
+    {
+      "t": "¿Nunca",
+      "inicio": 34,
+      "fin": 34.24
+    },
+    {
+      "t": "ha",
+      "inicio": 34.32,
+      "fin": 34.4
+    },
+    {
+      "t": "habido",
+      "inicio": 34.44,
+      "fin": 34.64
+    },
+    {
+      "t": "trampa?",
+      "inicio": 34.68,
+      "fin": 35.12
+    },
+    {
+      "t": "Sí,",
+      "inicio": 35.52,
+      "fin": 36
+    },
+    {
+      "t": "en",
+      "inicio": 36.08,
+      "fin": 36.16
+    },
+    {
+      "t": "Melilla.",
+      "inicio": 36.24,
+      "fin": 36.88
+    },
+    {
+      "t": "En",
+      "inicio": 36.92,
+      "fin": 36.96
+    },
+    {
+      "t": "dos",
+      "inicio": 37.04,
+      "fin": 37.12
+    },
+    {
+      "t": "mil",
+      "inicio": 37.2,
+      "fin": 37.28
+    },
+    {
+      "t": "ocho",
+      "inicio": 37.36,
+      "fin": 37.52
+    },
+    {
+      "t": "compraban",
+      "inicio": 37.68,
+      "fin": 38.08
+    },
+    {
+      "t": "votos",
+      "inicio": 38.16,
+      "fin": 38.48
+    },
+    {
+      "t": "prometiendo",
+      "inicio": 38.56,
+      "fin": 39.04
+    },
+    {
+      "t": "empleo.",
+      "inicio": 39.2,
+      "fin": 39.76
+    },
+    {
+      "t": "El",
+      "inicio": 39.8,
+      "fin": 39.84
+    },
+    {
+      "t": "Supremo",
+      "inicio": 39.92,
+      "fin": 40.32
+    },
+    {
+      "t": "confirmó",
+      "inicio": 40.4,
+      "fin": 40.84
+    },
+    {
+      "t": "condenas",
+      "inicio": 40.88,
+      "fin": 41.36
+    },
+    {
+      "t": "a",
+      "inicio": 41.4,
+      "fin": 41.44
+    },
+    {
+      "t": "dirigentes",
+      "inicio": 41.48,
+      "fin": 41.92
+    },
+    {
+      "t": "de",
+      "inicio": 42,
+      "fin": 42.04
+    },
+    {
+      "t": "Coalición",
+      "inicio": 42.08,
+      "fin": 42.56
+    },
+    {
+      "t": "por",
+      "inicio": 42.64,
+      "fin": 42.72
+    },
+    {
+      "t": "Melilla",
+      "inicio": 42.8,
+      "fin": 43.12
+    },
+    {
+      "t": "y",
+      "inicio": 43.28,
+      "fin": 43.36
+    },
+    {
+      "t": "del",
+      "inicio": 43.44,
+      "fin": 43.52
+    },
+    {
+      "t": "PSOE",
+      "inicio": 43.6,
+      "fin": 43.92
+    },
+    {
+      "t": "local.",
+      "inicio": 44,
+      "fin": 44.64
+    },
+    {
+      "t": "En",
+      "inicio": 44.68,
+      "fin": 44.72
+    },
+    {
+      "t": "dos",
+      "inicio": 44.8,
+      "fin": 44.88
+    },
+    {
+      "t": "mil",
+      "inicio": 44.96,
+      "fin": 45.04
+    },
+    {
+      "t": "veintitrés,",
+      "inicio": 45.08,
+      "fin": 45.84
+    },
+    {
+      "t": "uno",
+      "inicio": 45.92,
+      "fin": 46
+    },
+    {
+      "t": "de",
+      "inicio": 46.08,
+      "fin": 46.16
+    },
+    {
+      "t": "cada",
+      "inicio": 46.213,
+      "fin": 46.32
+    },
+    {
+      "t": "cinco",
+      "inicio": 46.48,
+      "fin": 46.64
+    },
+    {
+      "t": "electores",
+      "inicio": 46.72,
+      "fin": 47.2
+    },
+    {
+      "t": "melillenses",
+      "inicio": 47.28,
+      "fin": 47.84
+    },
+    {
+      "t": "pidió",
+      "inicio": 47.92,
+      "fin": 48.24
+    },
+    {
+      "t": "votar",
+      "inicio": 48.28,
+      "fin": 48.56
+    },
+    {
+      "t": "por",
+      "inicio": 48.64,
+      "fin": 48.72
+    },
+    {
+      "t": "correo.",
+      "inicio": 48.8,
+      "fin": 49.36
+    },
+    {
+      "t": "En",
+      "inicio": 49.44,
+      "fin": 49.52
+    },
+    {
+      "t": "toda",
+      "inicio": 49.6,
+      "fin": 49.76
+    },
+    {
+      "t": "España,",
+      "inicio": 49.84,
+      "fin": 50.4
+    },
+    {
+      "t": "tres",
+      "inicio": 50.52,
+      "fin": 50.64
+    },
+    {
+      "t": "de",
+      "inicio": 50.72,
+      "fin": 50.8
+    },
+    {
+      "t": "cada",
+      "inicio": 50.84,
+      "fin": 51.04
+    },
+    {
+      "t": "cien.",
+      "inicio": 51.12,
+      "fin": 51.68
+    },
+    {
+      "t": "Saltaron",
+      "inicio": 51.84,
+      "fin": 52.16
+    },
+    {
+      "t": "las",
+      "inicio": 52.24,
+      "fin": 52.32
+    },
+    {
+      "t": "alarmas:",
+      "inicio": 52.4,
+      "fin": 53.04
+    },
+    {
+      "t": "hubo",
+      "inicio": 53.12,
+      "fin": 53.28
+    },
+    {
+      "t": "detenidos",
+      "inicio": 53.36,
+      "fin": 53.84
+    },
+    {
+      "t": "e",
+      "inicio": 54,
+      "fin": 54.04
+    },
+    {
+      "t": "investigación.",
+      "inicio": 54.08,
+      "fin": 55.12
+    },
+    {
+      "t": "Por",
+      "inicio": 55.16,
+      "fin": 55.2
+    },
+    {
+      "t": "eso",
+      "inicio": 55.28,
+      "fin": 55.52
+    },
+    {
+      "t": "hoy",
+      "inicio": 55.68,
+      "fin": 55.84
+    },
+    {
+      "t": "te",
+      "inicio": 55.92,
+      "fin": 56
+    },
+    {
+      "t": "piden",
+      "inicio": 56.08,
+      "fin": 56.32
+    },
+    {
+      "t": "el",
+      "inicio": 56.36,
+      "fin": 56.4
+    },
+    {
+      "t": "DNI",
+      "inicio": 56.48,
+      "fin": 57.04
+    },
+    {
+      "t": "al",
+      "inicio": 57.08,
+      "fin": 57.12
+    },
+    {
+      "t": "entregarlo.",
+      "inicio": 57.2,
+      "fin": 58.08
+    },
+    {
+      "t": "PP",
+      "inicio": 58.12,
+      "fin": 58.48
+    },
+    {
+      "t": "y",
+      "inicio": 58.56,
+      "fin": 58.6
+    },
+    {
+      "t": "Vox",
+      "inicio": 58.64,
+      "fin": 58.96
+    },
+    {
+      "t": "han",
+      "inicio": 59.04,
+      "fin": 59.2
+    },
+    {
+      "t": "llevado",
+      "inicio": 59.24,
+      "fin": 59.52
+    },
+    {
+      "t": "reclamaciones",
+      "inicio": 59.6,
+      "fin": 60.24
+    },
+    {
+      "t": "a",
+      "inicio": 60.267,
+      "fin": 60.293
+    },
+    {
+      "t": "la",
+      "inicio": 60.32,
+      "fin": 60.4
+    },
+    {
+      "t": "Junta",
+      "inicio": 60.48,
+      "fin": 60.64
+    },
+    {
+      "t": "Electoral.",
+      "inicio": 60.72,
+      "fin": 61.52
+    },
+    {
+      "t": "La",
+      "inicio": 61.56,
+      "fin": 61.6
+    },
+    {
+      "t": "Junta",
+      "inicio": 61.68,
+      "fin": 62
+    },
+    {
+      "t": "las",
+      "inicio": 62.16,
+      "fin": 62.24
+    },
+    {
+      "t": "rechazó:",
+      "inicio": 62.32,
+      "fin": 62.96
+    },
+    {
+      "t": "dice",
+      "inicio": 63.04,
+      "fin": 63.28
+    },
+    {
+      "t": "que",
+      "inicio": 63.36,
+      "fin": 63.44
+    },
+    {
+      "t": "aplica",
+      "inicio": 63.52,
+      "fin": 63.76
+    },
+    {
+      "t": "la",
+      "inicio": 63.8,
+      "fin": 63.84
+    },
+    {
+      "t": "ley",
+      "inicio": 63.92,
+      "fin": 64.08
+    },
+    {
+      "t": "tal",
+      "inicio": 64.24,
+      "fin": 64.4
+    },
+    {
+      "t": "como",
+      "inicio": 64.48,
+      "fin": 64.64
+    },
+    {
+      "t": "está.",
+      "inicio": 64.72,
+      "fin": 65.2
+    },
+    {
+      "t": "Para",
+      "inicio": 65.28,
+      "fin": 65.36
+    },
+    {
+      "t": "cambiarla",
+      "inicio": 65.413,
+      "fin": 66
+    },
+    {
+      "t": "hay",
+      "inicio": 66.08,
+      "fin": 66.16
+    },
+    {
+      "t": "que",
+      "inicio": 66.2,
+      "fin": 66.24
+    },
+    {
+      "t": "reformar",
+      "inicio": 66.32,
+      "fin": 66.72
+    },
+    {
+      "t": "la",
+      "inicio": 66.8,
+      "fin": 66.88
+    },
+    {
+      "t": "ley",
+      "inicio": 66.96,
+      "fin": 67.04
+    },
+    {
+      "t": "electoral,",
+      "inicio": 67.12,
+      "fin": 67.76
+    },
+    {
+      "t": "con",
+      "inicio": 67.84,
+      "fin": 67.92
+    },
+    {
+      "t": "mayoría",
+      "inicio": 68,
+      "fin": 68.32
+    },
+    {
+      "t": "absoluta",
+      "inicio": 68.44,
+      "fin": 68.84
+    },
+    {
+      "t": "del",
+      "inicio": 68.88,
+      "fin": 68.96
+    },
+    {
+      "t": "Congreso.",
+      "inicio": 69.04,
+      "fin": 69.84
+    },
+    {
+      "t": "¿Puerta",
+      "inicio": 69.867,
+      "fin": 70.08
+    },
+    {
+      "t": "abierta?",
+      "inicio": 70.16,
+      "fin": 70.96
+    },
+    {
+      "t": "Más",
+      "inicio": 71.04,
+      "fin": 71.2
+    },
+    {
+      "t": "bien,",
+      "inicio": 71.28,
+      "fin": 71.6
+    },
+    {
+      "t": "con",
+      "inicio": 71.68,
+      "fin": 71.76
+    },
+    {
+      "t": "cerrojos",
+      "inicio": 71.84,
+      "fin": 72.32
+    },
+    {
+      "t": "y",
+      "inicio": 72.4,
+      "fin": 72.48
+    },
+    {
+      "t": "alarma.",
+      "inicio": 72.56,
+      "fin": 73.12
+    },
+    {
+      "t": "Plazo",
+      "inicio": 73.16,
+      "fin": 73.36
+    },
+    {
+      "t": "para",
+      "inicio": 73.44,
+      "fin": 73.52
+    },
+    {
+      "t": "pedirlo:",
+      "inicio": 73.6,
+      "fin": 74.24
+    },
+    {
+      "t": "diecinueve",
+      "inicio": 74.36,
+      "fin": 74.8
+    },
+    {
+      "t": "de",
+      "inicio": 74.88,
+      "fin": 74.92
+    },
+    {
+      "t": "noviembre.",
+      "inicio": 74.96,
+      "fin": 75.76
+    },
+    {
+      "t": "¿En",
+      "inicio": 75.787,
+      "fin": 75.84
+    },
+    {
+      "t": "tu",
+      "inicio": 75.92,
+      "fin": 76
+    },
+    {
+      "t": "casa",
+      "inicio": 76.08,
+      "fin": 76.24
+    },
+    {
+      "t": "se",
+      "inicio": 76.32,
+      "fin": 76.4
+    },
+    {
+      "t": "discute?",
+      "inicio": 76.48,
+      "fin": 77.2
+    },
+    {
+      "t": "Guárdalo",
+      "inicio": 77.28,
+      "fin": 77.68
+    },
+    {
+      "t": "para",
+      "inicio": 77.76,
+      "fin": 77.84
+    },
+    {
+      "t": "la",
+      "inicio": 77.88,
+      "fin": 77.92
+    },
+    {
+      "t": "cena.",
+      "inicio": 78,
+      "fin": 78.56
+    }
+  ]
+}

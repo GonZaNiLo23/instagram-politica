@@ -1,0 +1,393 @@
+{
+  "palabras": [
+    {
+      "t": "La",
+      "inicio": 0,
+      "fin": 0.08
+    },
+    {
+      "t": "Constitución",
+      "inicio": 0.16,
+      "fin": 0.88
+    },
+    {
+      "t": "tiene",
+      "inicio": 0.92,
+      "fin": 1.12
+    },
+    {
+      "t": "cuatro",
+      "inicio": 1.28,
+      "fin": 1.6
+    },
+    {
+      "t": "cumpleaños.",
+      "inicio": 1.68,
+      "fin": 2.48
+    },
+    {
+      "t": "Y",
+      "inicio": 2.8,
+      "fin": 2.88
+    },
+    {
+      "t": "el",
+      "inicio": 2.92,
+      "fin": 2.96
+    },
+    {
+      "t": "primero",
+      "inicio": 3.04,
+      "fin": 3.44
+    },
+    {
+      "t": "no",
+      "inicio": 3.6,
+      "fin": 3.76
+    },
+    {
+      "t": "es",
+      "inicio": 3.84,
+      "fin": 3.92
+    },
+    {
+      "t": "en",
+      "inicio": 4,
+      "fin": 4.08
+    },
+    {
+      "t": "diciembre.",
+      "inicio": 4.16,
+      "fin": 4.64
+    },
+    {
+      "t": "El",
+      "inicio": 5.04,
+      "fin": 5.12
+    },
+    {
+      "t": "treinta",
+      "inicio": 5.2,
+      "fin": 5.44
+    },
+    {
+      "t": "y",
+      "inicio": 5.48,
+      "fin": 5.52
+    },
+    {
+      "t": "uno",
+      "inicio": 5.56,
+      "fin": 5.6
+    },
+    {
+      "t": "de",
+      "inicio": 5.68,
+      "fin": 5.76
+    },
+    {
+      "t": "octubre,",
+      "inicio": 5.88,
+      "fin": 6.4
+    },
+    {
+      "t": "Congreso",
+      "inicio": 6.52,
+      "fin": 6.88
+    },
+    {
+      "t": "y",
+      "inicio": 6.96,
+      "fin": 7
+    },
+    {
+      "t": "Senado",
+      "inicio": 7.04,
+      "fin": 7.44
+    },
+    {
+      "t": "la",
+      "inicio": 7.52,
+      "fin": 7.6
+    },
+    {
+      "t": "votan",
+      "inicio": 7.68,
+      "fin": 7.92
+    },
+    {
+      "t": "por",
+      "inicio": 8,
+      "fin": 8.08
+    },
+    {
+      "t": "separado.",
+      "inicio": 8.16,
+      "fin": 8.84
+    },
+    {
+      "t": "En",
+      "inicio": 9.04,
+      "fin": 9.12
+    },
+    {
+      "t": "el",
+      "inicio": 9.16,
+      "fin": 9.2
+    },
+    {
+      "t": "Senado,",
+      "inicio": 9.28,
+      "fin": 9.84
+    },
+    {
+      "t": "doscientos",
+      "inicio": 9.96,
+      "fin": 10.4
+    },
+    {
+      "t": "veintiséis",
+      "inicio": 10.48,
+      "fin": 10.96
+    },
+    {
+      "t": "a",
+      "inicio": 11.04,
+      "fin": 11.12
+    },
+    {
+      "t": "favor.",
+      "inicio": 11.28,
+      "fin": 11.76
+    },
+    {
+      "t": "Solo",
+      "inicio": 11.92,
+      "fin": 12.08
+    },
+    {
+      "t": "cinco",
+      "inicio": 12.24,
+      "fin": 12.48
+    },
+    {
+      "t": "en",
+      "inicio": 12.56,
+      "fin": 12.64
+    },
+    {
+      "t": "contra.",
+      "inicio": 12.72,
+      "fin": 13.36
+    },
+    {
+      "t": "Pero",
+      "inicio": 13.44,
+      "fin": 13.6
+    },
+    {
+      "t": "todavía",
+      "inicio": 13.68,
+      "fin": 14.08
+    },
+    {
+      "t": "no",
+      "inicio": 14.12,
+      "fin": 14.16
+    },
+    {
+      "t": "valía:",
+      "inicio": 14.24,
+      "fin": 14.88
+    },
+    {
+      "t": "faltaba",
+      "inicio": 14.92,
+      "fin": 15.28
+    },
+    {
+      "t": "el",
+      "inicio": 15.32,
+      "fin": 15.36
+    },
+    {
+      "t": "voto",
+      "inicio": 15.44,
+      "fin": 15.68
+    },
+    {
+      "t": "de",
+      "inicio": 15.72,
+      "fin": 15.76
+    },
+    {
+      "t": "los",
+      "inicio": 15.84,
+      "fin": 15.92
+    },
+    {
+      "t": "españoles.",
+      "inicio": 16,
+      "fin": 16.84
+    },
+    {
+      "t": "Seis",
+      "inicio": 17.12,
+      "fin": 17.28
+    },
+    {
+      "t": "de",
+      "inicio": 17.36,
+      "fin": 17.44
+    },
+    {
+      "t": "diciembre:",
+      "inicio": 17.52,
+      "fin": 18.32
+    },
+    {
+      "t": "referéndum.",
+      "inicio": 18.4,
+      "fin": 19.24
+    },
+    {
+      "t": "El",
+      "inicio": 19.44,
+      "fin": 19.52
+    },
+    {
+      "t": "veintisiete,",
+      "inicio": 19.56,
+      "fin": 20.32
+    },
+    {
+      "t": "la",
+      "inicio": 20.4,
+      "fin": 20.48
+    },
+    {
+      "t": "sanciona",
+      "inicio": 20.56,
+      "fin": 20.96
+    },
+    {
+      "t": "el",
+      "inicio": 21.04,
+      "fin": 21.12
+    },
+    {
+      "t": "Rey.",
+      "inicio": 21.2,
+      "fin": 21.68
+    },
+    {
+      "t": "Y",
+      "inicio": 21.707,
+      "fin": 21.733
+    },
+    {
+      "t": "el",
+      "inicio": 21.76,
+      "fin": 21.8
+    },
+    {
+      "t": "veintinueve",
+      "inicio": 21.84,
+      "fin": 22.32
+    },
+    {
+      "t": "sale",
+      "inicio": 22.56,
+      "fin": 22.8
+    },
+    {
+      "t": "en",
+      "inicio": 22.88,
+      "fin": 22.96
+    },
+    {
+      "t": "el",
+      "inicio": 23,
+      "fin": 23.04
+    },
+    {
+      "t": "BOE",
+      "inicio": 23.12,
+      "fin": 23.36
+    },
+    {
+      "t": "y",
+      "inicio": 23.52,
+      "fin": 23.6
+    },
+    {
+      "t": "entra",
+      "inicio": 23.68,
+      "fin": 23.92
+    },
+    {
+      "t": "en",
+      "inicio": 24,
+      "fin": 24.04
+    },
+    {
+      "t": "vigor.",
+      "inicio": 24.08,
+      "fin": 24.6
+    },
+    {
+      "t": "Votada,",
+      "inicio": 24.8,
+      "fin": 25.44
+    },
+    {
+      "t": "ratificada,",
+      "inicio": 25.52,
+      "fin": 26.4
+    },
+    {
+      "t": "sancionada",
+      "inicio": 26.44,
+      "fin": 27.12
+    },
+    {
+      "t": "y",
+      "inicio": 27.28,
+      "fin": 27.36
+    },
+    {
+      "t": "publicada.",
+      "inicio": 27.44,
+      "fin": 28.2
+    },
+    {
+      "t": "¿Cuál",
+      "inicio": 28.4,
+      "fin": 28.56
+    },
+    {
+      "t": "es",
+      "inicio": 28.64,
+      "fin": 28.72
+    },
+    {
+      "t": "su",
+      "inicio": 28.8,
+      "fin": 28.88
+    },
+    {
+      "t": "verdadero",
+      "inicio": 28.96,
+      "fin": 29.36
+    },
+    {
+      "t": "cumpleaños?",
+      "inicio": 29.44,
+      "fin": 30.4
+    }
+  ],
+  "duracion": 30.32,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE"
+}

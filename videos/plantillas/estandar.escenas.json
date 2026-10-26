@@ -1,0 +1,14 @@
+{
+  "plantilla": "estandar",
+  "duracion": 85,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {"inicio": 0, "fin": 3, "fondo": "crema", "componentes": [{"tipo": "gancho", "texto": "GANCHO", "y": 520}]},
+    {"inicio": 3, "fin": 20, "fondo": "crema", "fuente": "Fuente: ...", "componentes": [{"tipo": "rotulo", "texto": "Contexto", "y": 330}]},
+    {"inicio": 20, "fin": 42, "fondo": "crema", "fuente": "Fuente: ...", "componentes": [{"tipo": "hemiciclo", "y": 560}]},
+    {"inicio": 42, "fin": 65, "fondo": "crema", "fuente": "Fuente: ...", "componentes": [{"tipo": "barras", "datos": [{"etiqueta": "A", "valor": 10}, {"etiqueta": "B", "valor": 20}], "y": 400}]},
+    {"inicio": 65, "fin": 80, "fondo": "tinta", "lectura": true, "componentes": [{"tipo": "gancho", "texto": "Nuestra lectura", "tamano": 110, "y": 600}]},
+    {"inicio": 80, "fin": 85, "fondo": "mostaza", "sinSubtitulos": true, "componentes": [{"tipo": "cierre", "frase": "Resumen", "pregunta": "¿Qué tema explicamos mañana?"}]}
+  ]
+}

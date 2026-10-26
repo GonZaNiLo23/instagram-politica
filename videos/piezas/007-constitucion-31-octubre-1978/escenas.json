@@ -1,0 +1,593 @@
+{
+  "plantilla": "flash",
+  "duracion": 31.82,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "LA CONSTITUCIÓN TIENE 4 CUMPLEAÑOS",
+            "y": 330,
+            "tamano": 96,
+            "en": -1
+          },
+          {
+            "tipo": "tarta",
+            "x": 540,
+            "y": 960,
+            "ancho": 600,
+            "en": -1,
+            "velas": [
+              -1,
+              -1,
+              -1,
+              -1
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.94,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "4 CUMPLEAÑOS",
+          "y": 330,
+          "tamano": 100,
+          "en": 0,
+          "hasta": 2.5
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿SOLO EL 6 DE DICIEMBRE?",
+          "y": 330,
+          "en": 2.5,
+          "tamano": 72
+        },
+        {
+          "tipo": "tarta",
+          "x": 330,
+          "y": 640,
+          "ancho": 520,
+          "en": -1
+        },
+        {
+          "tipo": "calendarioHojas",
+          "x": 800,
+          "y": 640,
+          "tamano": 280,
+          "en": 2.55,
+          "hojas": [
+            {
+              "mes": "DIC",
+              "dia": "6",
+              "en": 0
+            },
+            {
+              "mes": "",
+              "dia": "",
+              "en": 3.25
+            },
+            {
+              "mes": "",
+              "dia": "",
+              "en": 3.7
+            },
+            {
+              "mes": "OCT 1978",
+              "dia": "31",
+              "en": 4.1
+            }
+          ]
+        },
+        {
+          "tipo": "flechaAtras",
+          "x": 800,
+          "y": 880,
+          "tamano": 110,
+          "en": 3
+        }
+      ]
+    },
+    {
+      "inicio": 4.94,
+      "fin": 8.94,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "31 OCT 1978 ·",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "CONGRESO Y SENADO",
+          "y": 405,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "congreso",
+          "x": 150,
+          "y": 600,
+          "tamano": 150,
+          "en": 0.3
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "CONGRESO",
+          "y": 550,
+          "en": 0.35,
+          "tamano": 64,
+          "izq": 270,
+          "ancho": 600
+        },
+        {
+          "tipo": "divisoria",
+          "y": 722,
+          "en": 0.5
+        },
+        {
+          "tipo": "icono",
+          "nombre": "palacio",
+          "x": 150,
+          "y": 795,
+          "tamano": 150,
+          "en": 0.7
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SENADO",
+          "y": 740,
+          "en": 0.75,
+          "tamano": 64,
+          "izq": 270,
+          "ancho": 600
+        },
+        {
+          "tipo": "icono",
+          "nombre": "check",
+          "x": 840,
+          "y": 600,
+          "tamano": 110,
+          "en": 2.88,
+          "animEn": 2.9299999999999997,
+          "dur": 0.4
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "APROBADA",
+          "y": 615,
+          "en": 3.03,
+          "tamano": 64,
+          "izq": 270,
+          "ancho": 600
+        },
+        {
+          "tipo": "icono",
+          "nombre": "check",
+          "x": 840,
+          "y": 795,
+          "tamano": 110,
+          "en": 3.23,
+          "animEn": 3.28,
+          "dur": 0.4
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "APROBADA",
+          "y": 805,
+          "en": 3.38,
+          "tamano": 64,
+          "izq": 270,
+          "ancho": 600
+        },
+        {
+          "tipo": "velasLinea",
+          "y": 950,
+          "fechas": [
+            "31-10",
+            "6-12",
+            "27-12",
+            "29-12"
+          ],
+          "velas": [
+            0.9,
+            null,
+            null,
+            null
+          ],
+          "en": 0.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: RD 2560/1978 (BOE)"
+          ],
+          "y": 1450,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 8.94,
+      "fin": 13.34,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SENADO: 226 SÍ · 5 NO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "8 abstenciones",
+          "y": 415,
+          "en": 4.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasContadas",
+          "max": 226,
+          "x0": 60,
+          "ancho": 560,
+          "filas": [
+            {
+              "etiqueta": "A favor",
+              "valor": 226,
+              "y": 600,
+              "color": "#2A9D8F",
+              "en": 0.87,
+              "dur": 1.7199999999999998
+            },
+            {
+              "etiqueta": "En contra",
+              "valor": 5,
+              "y": 770,
+              "color": "#8D99AE",
+              "en": 3.03,
+              "dur": 0.5
+            },
+            {
+              "etiqueta": "Abstenciones",
+              "valor": 8,
+              "y": 940,
+              "color": "#C5CBD6",
+              "en": 3.4,
+              "dur": 0.6
+            }
+          ]
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "en": 2.53,
+          "y": 700,
+          "x": 740,
+          "tamano": 100,
+          "angulo": 4,
+          "seco": true
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Diario de Sesiones del Senado, n.º 68 (31-10-1978)"
+          ],
+          "y": 1450,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 13.34,
+      "fin": 17.02,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "AÚN NO VALÍA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "libroCandado",
+          "x": 290,
+          "y": 600,
+          "tamano": 300,
+          "en": 0.15,
+          "cierra": 0.9
+        },
+        {
+          "tipo": "urnaPapeleta",
+          "x": 760,
+          "y": 610,
+          "tamano": 270,
+          "en": 0.5,
+          "cae": 999
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "La ley de 1977 exigía referéndum antes de la sanción"
+          ],
+          "y": 775,
+          "en": 0.9
+        },
+        {
+          "tipo": "velasLinea",
+          "y": 950,
+          "fechas": [
+            "31-10",
+            "6-12",
+            "27-12",
+            "29-12"
+          ],
+          "velas": [
+            -1,
+            null,
+            null,
+            null
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Ley 1/1977, art. 3 · RD 2560/1978 · BOE 29-12-1978"
+          ],
+          "y": 1450,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 17.02,
+      "fin": 19.34,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "6 DIC · REFERÉNDUM",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "urnaPapeleta",
+          "x": 540,
+          "y": 620,
+          "tamano": 330,
+          "en": 0.1,
+          "cae": 0.5,
+          "desde": -10
+        },
+        {
+          "tipo": "velasLinea",
+          "y": 950,
+          "fechas": [
+            "31-10",
+            "6-12",
+            "27-12",
+            "29-12"
+          ],
+          "velas": [
+            -1,
+            1.3299999999999998,
+            null,
+            null
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Ley 1/1977, art. 3 · RD 2560/1978 · BOE 29-12-1978"
+          ],
+          "y": 1450,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 19.34,
+      "fin": 21.61,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "27 DIC · SANCIÓN =",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "FIRMA DEL REY",
+          "y": 405,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "plumaCorona",
+          "x": 290,
+          "y": 710,
+          "tamano": 340,
+          "en": 0.2
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Rey Juan Carlos I",
+          "y": 660,
+          "en": 0.5,
+          "tamano": 64,
+          "izq": 490,
+          "ancho": 470
+        },
+        {
+          "tipo": "velasLinea",
+          "y": 950,
+          "fechas": [
+            "31-10",
+            "6-12",
+            "27-12",
+            "29-12"
+          ],
+          "velas": [
+            -1,
+            -1,
+            1.17,
+            null
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Ley 1/1977, art. 3 · RD 2560/1978 · BOE 29-12-1978"
+          ],
+          "y": 1450,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 21.61,
+      "fin": 24.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "29 DIC · BOE:",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ENTRA EN VIGOR",
+          "y": 405,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "boePortada",
+          "x": 310,
+          "y": 700,
+          "ancho": 480,
+          "en": 0.75
+        },
+        {
+          "tipo": "libroCandado",
+          "x": 790,
+          "y": 700,
+          "tamano": 290,
+          "en": -1,
+          "abre": 2.07
+        },
+        {
+          "tipo": "velasLinea",
+          "y": 950,
+          "fechas": [
+            "31-10",
+            "6-12",
+            "27-12",
+            "29-12"
+          ],
+          "velas": [
+            -1,
+            -1,
+            -1,
+            1.46
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Ley 1/1977, art. 3 · RD 2560/1978 · BOE 29-12-1978"
+          ],
+          "y": 1450,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 24.7,
+      "fin": 28.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VOTADA ·",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "RATIFICADA ·",
+          "y": 407,
+          "en": 0.7699999999999999,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SANCIONADA ·",
+          "y": 484,
+          "en": 1.69,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PUBLICADA",
+          "y": 561,
+          "en": 2.6900000000000004,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarta",
+          "x": 510,
+          "y": 830,
+          "ancho": 860,
+          "libro": false,
+          "en": -1,
+          "velas": [
+            0.05,
+            0.7699999999999999,
+            1.69,
+            2.6900000000000004
+          ],
+          "fechas": [
+            "31-10",
+            "6-12",
+            "27-12",
+            "29-12"
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 28.3,
+      "fin": 31.82,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿Cuál es su verdadero cumpleaños?",
+          "tamano": 88,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

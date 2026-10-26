@@ -1,0 +1,863 @@
+{
+  "plantilla": "flash",
+  "duracion": 32.08,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "¿POR QUÉ 350 DIPUTADOS?",
+            "y": 330,
+            "tamano": 118,
+            "en": 0
+          },
+          {
+            "tipo": "hemicicloBorde",
+            "base": 1330,
+            "ancho": 880,
+            "estatico": true,
+            "centroDisco": true,
+            "centro": "350",
+            "centroColor": "#F2B134"
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.5,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿400 DIPUTADOS?",
+          "y": 345,
+          "tamano": 100,
+          "en": 0
+        },
+        {
+          "tipo": "hemicicloBorde",
+          "base": 1010,
+          "estatico": true,
+          "anillo": {
+            "en": 1,
+            "dur": 0.9
+          },
+          "contador": {
+            "desde": 350,
+            "hasta": 400,
+            "en": 1,
+            "dur": 1.4
+          },
+          "pulso": {
+            "en": 3
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "candado",
+          "simbolo": "libro",
+          "x": 125,
+          "y": 1088,
+          "tamano": 100,
+          "en": 2.6,
+          "animEn": 2.9,
+          "dur": 0.6
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Constitución",
+          "y": 1052,
+          "en": 2.7,
+          "tamano": 64,
+          "izq": 195,
+          "ancho": 700
+        }
+      ]
+    },
+    {
+      "inicio": 4.5,
+      "fin": 9.18,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Constitución: mínimo 300, máximo 400",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "forma": "rect",
+          "x": 540,
+          "y": 700,
+          "ancho": 780,
+          "alto": 380,
+          "foco": "50% 55%",
+          "zoom": [
+            1.04,
+            1.32
+          ],
+          "dur": 4.68,
+          "en": 0.15
+        },
+        {
+          "tipo": "reglaRango",
+          "y": 930,
+          "en": 0.5,
+          "pasos": [
+            [
+              1.4,
+              0.5
+            ],
+            [
+              1.98,
+              0
+            ],
+            [
+              3.04,
+              1
+            ],
+            [
+              4.38,
+              0.5
+            ]
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Pool Moncloa/Fernando Calvo · Ministerio de la Presidencia. Gobierno de España · 2018-12-06 · Wikimedia Commons"
+          ],
+          "y": 1318,
+          "en": 0.15
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: CE art. 68"
+          ],
+          "y": 1450,
+          "en": 0.15
+        }
+      ]
+    },
+    {
+      "inicio": 9.18,
+      "fin": 14.86,
+      "componentes": [
+        {
+          "tipo": "lineaTiempo",
+          "y": 760,
+          "hitos": [
+            {
+              "etiqueta": "1977: 350",
+              "en": 0.19999999999999998
+            },
+            {
+              "etiqueta": "1978: 300–400",
+              "en": 3.44
+            },
+            {
+              "etiqueta": "1985: 350",
+              "en": 4.720000000000001
+            }
+          ]
+        },
+        {
+          "tipo": "foto",
+          "src": "F2.png",
+          "forma": "rect",
+          "x": 270,
+          "y": 520,
+          "ancho": 420,
+          "alto": 300,
+          "foco": "50% 50%",
+          "zoom": [
+            1,
+            1.25
+          ],
+          "dur": 3.1,
+          "en": 1.55,
+          "hasta": 4.8
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Sobre electoral de 1977 · dominio público"
+          ],
+          "y": 1406,
+          "en": 1.55,
+          "hasta": 4.8
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "1977 ·",
+            "Ley para la",
+            "Reforma",
+            "Política"
+          ],
+          "y": 392,
+          "en": 0.19999999999999998,
+          "izq": 510,
+          "ancho": 450,
+          "tamano": 64,
+          "hasta": 3.44
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "1978 ·",
+            "Constitución"
+          ],
+          "y": 392,
+          "en": 3.44,
+          "izq": 510,
+          "ancho": 450,
+          "tamano": 64,
+          "hasta": 4.720000000000001
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "1985 ·",
+            "LOREG:",
+            "se mantiene"
+          ],
+          "y": 392,
+          "en": 4.720000000000001,
+          "izq": 510,
+          "ancho": 450,
+          "tamano": 64
+        },
+        {
+          "tipo": "flechaCircular",
+          "x": 860,
+          "y": 480,
+          "tamano": 110,
+          "en": 4.7700000000000005
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: CE art. 68 · Ley 1/1977 · LOREG art. 162"
+          ],
+          "y": 1450,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 14.86,
+      "fin": 18.22,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2 por provincia + 248 por población",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "reparto",
+          "y": 520,
+          "dosEn": 0.2,
+          "dosDur": 1.3,
+          "ceutaEn": 1.3,
+          "lluviaEn": 1.68,
+          "lluviaDur": 1.5
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Ceuta y Melilla: 1 cada una",
+          "y": 805,
+          "en": 1.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: CE art. 68 · Ley 1/1977 · LOREG art. 162"
+          ],
+          "y": 1450,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 18.22,
+      "fin": 24.98,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HABITANTES POR DIPUTADO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHab",
+          "max": 187817,
+          "x0": 330,
+          "ancho": 600,
+          "filas": [
+            {
+              "etiqueta": "SORIA ≈ 45.000",
+              "valor": 45117,
+              "y": 630,
+              "yEt": 530,
+              "en": 0.2,
+              "enBarra": 0.6,
+              "durBarra": 2.36,
+              "color": "#2A9D8F"
+            },
+            {
+              "etiqueta": "MADRID ≈ 188.000",
+              "valor": 187817,
+              "y": 970,
+              "yEt": 870,
+              "en": 3.86,
+              "enBarra": 5.12,
+              "color": "#8D99AE"
+            }
+          ]
+        },
+        {
+          "tipo": "foto",
+          "src": "F3.jpg",
+          "forma": "circulo",
+          "x": 180,
+          "y": 640,
+          "alto": 240,
+          "foco": "50% 40%",
+          "zoom": [
+            1.05,
+            1.4
+          ],
+          "dur": 3.71,
+          "en": 0.1,
+          "hasta": 3.71
+        },
+        {
+          "tipo": "foto",
+          "src": "F4.jpg",
+          "forma": "circulo",
+          "x": 180,
+          "y": 980,
+          "alto": 240,
+          "foco": "50% 40%",
+          "zoom": [
+            1.05,
+            1.4
+          ],
+          "dur": 3.05,
+          "en": 3.76
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Misburg3014 · CC BY 3.0 · Wikimedia Commons"
+          ],
+          "y": 1362,
+          "en": 0.1,
+          "hasta": 3.71
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Diego Delso · CC BY-SA 4.0 · Wikimedia Commons"
+          ],
+          "y": 1362,
+          "en": 3.76
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: INE, padrón 2025 · escaños 29-N (BOE)"
+          ],
+          "y": 1450,
+          "en": 0.1
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "en": 5.47,
+          "y": 650,
+          "x": 700,
+          "tamano": 100,
+          "angulo": 4,
+          "seco": true
+        }
+      ]
+    },
+    {
+      "inicio": 24.98,
+      "fin": 29.29,
+      "componentes": [
+        {
+          "tipo": "hemicicloBorde",
+          "base": 1010,
+          "estatico": true,
+          "anillo": {
+            "en": 0,
+            "dur": 0.01,
+            "estatico": true
+          },
+          "centro": "400",
+          "pulso": {
+            "en": 0.2,
+            "hasta": 2.95
+          },
+          "mayoria": {
+            "en": 2.95,
+            "cuenta": 176,
+            "dur": 0.8
+          }
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Basta una ley orgánica",
+          "y": 330,
+          "en": 1.4700000000000002,
+          "tamano": 64,
+          "hasta": 2.95
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Mayoría absoluta del Congreso",
+          "y": 330,
+          "en": 3.0500000000000003,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "papeleta",
+          "x": 235,
+          "y": 1088,
+          "tamano": 100,
+          "en": 3.2,
+          "animEn": 3.25,
+          "dur": 0.6
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "176 de 350",
+          "y": 1052,
+          "en": 3.2,
+          "tamano": 64,
+          "izq": 60,
+          "ancho": 900,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "inicio": 29.29,
+      "fin": 32.08,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿Subirías, bajarías o lo dejarías?",
+          "tamano": 88
+        }
+      ]
+    }
+  ],
+  "id": "003-por-que-350-diputados",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "El",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "Congreso",
+      "inicio": 0.28,
+      "fin": 0.64
+    },
+    {
+      "t": "podría",
+      "inicio": 0.72,
+      "fin": 0.96
+    },
+    {
+      "t": "tener",
+      "inicio": 1.04,
+      "fin": 1.36
+    },
+    {
+      "t": "cuatrocientos",
+      "inicio": 1.4,
+      "fin": 2.08
+    },
+    {
+      "t": "diputados",
+      "inicio": 2.12,
+      "fin": 2.72
+    },
+    {
+      "t": "sin",
+      "inicio": 2.8,
+      "fin": 2.96
+    },
+    {
+      "t": "tocar",
+      "inicio": 3.04,
+      "fin": 3.28
+    },
+    {
+      "t": "la",
+      "inicio": 3.36,
+      "fin": 3.44
+    },
+    {
+      "t": "Constitución.",
+      "inicio": 3.52,
+      "fin": 4.56
+    },
+    {
+      "t": "La",
+      "inicio": 4.6,
+      "fin": 4.64
+    },
+    {
+      "t": "Constitución",
+      "inicio": 4.72,
+      "fin": 5.36
+    },
+    {
+      "t": "solo",
+      "inicio": 5.4,
+      "fin": 5.6
+    },
+    {
+      "t": "dice:",
+      "inicio": 5.76,
+      "fin": 6.24
+    },
+    {
+      "t": "mínimo",
+      "inicio": 6.28,
+      "fin": 6.56
+    },
+    {
+      "t": "trescientos,",
+      "inicio": 6.64,
+      "fin": 7.52
+    },
+    {
+      "t": "máximo",
+      "inicio": 7.6,
+      "fin": 8
+    },
+    {
+      "t": "cuatrocientos.",
+      "inicio": 8.04,
+      "fin": 9.2
+    },
+    {
+      "t": "El",
+      "inicio": 9.28,
+      "fin": 9.36
+    },
+    {
+      "t": "trescientos",
+      "inicio": 9.48,
+      "fin": 9.84
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 9.88,
+      "fin": 10.24
+    },
+    {
+      "t": "viene",
+      "inicio": 10.48,
+      "fin": 10.72
+    },
+    {
+      "t": "de",
+      "inicio": 10.76,
+      "fin": 10.8
+    },
+    {
+      "t": "mil",
+      "inicio": 10.88,
+      "fin": 10.96
+    },
+    {
+      "t": "novecientos",
+      "inicio": 11.04,
+      "fin": 11.52
+    },
+    {
+      "t": "setenta",
+      "inicio": 11.6,
+      "fin": 11.84
+    },
+    {
+      "t": "y",
+      "inicio": 11.92,
+      "fin": 12
+    },
+    {
+      "t": "siete.",
+      "inicio": 12.08,
+      "fin": 12.64
+    },
+    {
+      "t": "La",
+      "inicio": 12.72,
+      "fin": 12.8
+    },
+    {
+      "t": "ley",
+      "inicio": 12.88,
+      "fin": 12.96
+    },
+    {
+      "t": "electoral",
+      "inicio": 13.04,
+      "fin": 13.44
+    },
+    {
+      "t": "actual",
+      "inicio": 13.64,
+      "fin": 13.84
+    },
+    {
+      "t": "lo",
+      "inicio": 14,
+      "fin": 14.08
+    },
+    {
+      "t": "mantuvo.",
+      "inicio": 14.2,
+      "fin": 14.88
+    },
+    {
+      "t": "Dos",
+      "inicio": 14.96,
+      "fin": 15.12
+    },
+    {
+      "t": "escaños",
+      "inicio": 15.2,
+      "fin": 15.52
+    },
+    {
+      "t": "por",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "t": "provincia,",
+      "inicio": 15.76,
+      "fin": 16.4
+    },
+    {
+      "t": "y",
+      "inicio": 16.44,
+      "fin": 16.48
+    },
+    {
+      "t": "el",
+      "inicio": 16.52,
+      "fin": 16.56
+    },
+    {
+      "t": "resto",
+      "inicio": 16.64,
+      "fin": 16.96
+    },
+    {
+      "t": "según",
+      "inicio": 17.04,
+      "fin": 17.28
+    },
+    {
+      "t": "la",
+      "inicio": 17.32,
+      "fin": 17.36
+    },
+    {
+      "t": "población.",
+      "inicio": 17.44,
+      "fin": 18.24
+    },
+    {
+      "t": "Soria",
+      "inicio": 18.32,
+      "fin": 18.64
+    },
+    {
+      "t": "elige",
+      "inicio": 18.72,
+      "fin": 19.04
+    },
+    {
+      "t": "un",
+      "inicio": 19.12,
+      "fin": 19.2
+    },
+    {
+      "t": "diputado",
+      "inicio": 19.253,
+      "fin": 19.6
+    },
+    {
+      "t": "por",
+      "inicio": 19.68,
+      "fin": 19.84
+    },
+    {
+      "t": "cada",
+      "inicio": 19.92,
+      "fin": 20.08
+    },
+    {
+      "t": "cuarenta",
+      "inicio": 20.16,
+      "fin": 20.507
+    },
+    {
+      "t": "y",
+      "inicio": 20.533,
+      "fin": 20.56
+    },
+    {
+      "t": "cinco",
+      "inicio": 20.64,
+      "fin": 20.8
+    },
+    {
+      "t": "mil",
+      "inicio": 20.88,
+      "fin": 20.96
+    },
+    {
+      "t": "habitantes.",
+      "inicio": 21.04,
+      "fin": 22
+    },
+    {
+      "t": "Madrid,",
+      "inicio": 22.08,
+      "fin": 22.64
+    },
+    {
+      "t": "uno",
+      "inicio": 22.72,
+      "fin": 22.8
+    },
+    {
+      "t": "por",
+      "inicio": 22.96,
+      "fin": 23.04
+    },
+    {
+      "t": "cada",
+      "inicio": 23.12,
+      "fin": 23.28
+    },
+    {
+      "t": "ciento",
+      "inicio": 23.44,
+      "fin": 23.68
+    },
+    {
+      "t": "ochenta",
+      "inicio": 23.76,
+      "fin": 24.08
+    },
+    {
+      "t": "y",
+      "inicio": 24.12,
+      "fin": 24.16
+    },
+    {
+      "t": "ocho",
+      "inicio": 24.24,
+      "fin": 24.32
+    },
+    {
+      "t": "mil.",
+      "inicio": 24.4,
+      "fin": 25.04
+    },
+    {
+      "t": "¿Subir",
+      "inicio": 25.08,
+      "fin": 25.36
+    },
+    {
+      "t": "a",
+      "inicio": 25.4,
+      "fin": 25.44
+    },
+    {
+      "t": "cuatrocientos?",
+      "inicio": 25.48,
+      "fin": 26.56
+    },
+    {
+      "t": "Bastaría",
+      "inicio": 26.6,
+      "fin": 26.96
+    },
+    {
+      "t": "cambiar",
+      "inicio": 27.04,
+      "fin": 27.36
+    },
+    {
+      "t": "esa",
+      "inicio": 27.44,
+      "fin": 27.52
+    },
+    {
+      "t": "ley,",
+      "inicio": 27.6,
+      "fin": 28
+    },
+    {
+      "t": "con",
+      "inicio": 28.08,
+      "fin": 28.16
+    },
+    {
+      "t": "mayoría",
+      "inicio": 28.24,
+      "fin": 28.48
+    },
+    {
+      "t": "absoluta.",
+      "inicio": 28.56,
+      "fin": 29.36
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 29.387,
+      "fin": 29.44
+    },
+    {
+      "t": "harías?",
+      "inicio": 29.52,
+      "fin": 30.16
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "palabras": [
+    {
+      "t": "El",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "Congreso",
+      "inicio": 0.28,
+      "fin": 0.64
+    },
+    {
+      "t": "podría",
+      "inicio": 0.72,
+      "fin": 0.96
+    },
+    {
+      "t": "tener",
+      "inicio": 1.04,
+      "fin": 1.36
+    },
+    {
+      "t": "cuatrocientos",
+      "inicio": 1.4,
+      "fin": 2.08
+    },
+    {
+      "t": "diputados",
+      "inicio": 2.12,
+      "fin": 2.72
+    },
+    {
+      "t": "sin",
+      "inicio": 2.8,
+      "fin": 2.96
+    },
+    {
+      "t": "tocar",
+      "inicio": 3.04,
+      "fin": 3.28
+    },
+    {
+      "t": "la",
+      "inicio": 3.36,
+      "fin": 3.44
+    },
+    {
+      "t": "Constitución.",
+      "inicio": 3.52,
+      "fin": 4.56
+    },
+    {
+      "t": "La",
+      "inicio": 4.6,
+      "fin": 4.64
+    },
+    {
+      "t": "Constitución",
+      "inicio": 4.72,
+      "fin": 5.36
+    },
+    {
+      "t": "solo",
+      "inicio": 5.4,
+      "fin": 5.6
+    },
+    {
+      "t": "dice:",
+      "inicio": 5.76,
+      "fin": 6.24
+    },
+    {
+      "t": "mínimo",
+      "inicio": 6.28,
+      "fin": 6.56
+    },
+    {
+      "t": "trescientos,",
+      "inicio": 6.64,
+      "fin": 7.52
+    },
+    {
+      "t": "máximo",
+      "inicio": 7.6,
+      "fin": 8
+    },
+    {
+      "t": "cuatrocientos.",
+      "inicio": 8.04,
+      "fin": 9.2
+    },
+    {
+      "t": "El",
+      "inicio": 9.28,
+      "fin": 9.36
+    },
+    {
+      "t": "trescientos",
+      "inicio": 9.48,
+      "fin": 9.84
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 9.88,
+      "fin": 10.24
+    },
+    {
+      "t": "viene",
+      "inicio": 10.48,
+      "fin": 10.72
+    },
+    {
+      "t": "de",
+      "inicio": 10.76,
+      "fin": 10.8
+    },
+    {
+      "t": "mil",
+      "inicio": 10.88,
+      "fin": 10.96
+    },
+    {
+      "t": "novecientos",
+      "inicio": 11.04,
+      "fin": 11.52
+    },
+    {
+      "t": "setenta",
+      "inicio": 11.6,
+      "fin": 11.84
+    },
+    {
+      "t": "y",
+      "inicio": 11.92,
+      "fin": 12
+    },
+    {
+      "t": "siete.",
+      "inicio": 12.08,
+      "fin": 12.64
+    },
+    {
+      "t": "La",
+      "inicio": 12.72,
+      "fin": 12.8
+    },
+    {
+      "t": "ley",
+      "inicio": 12.88,
+      "fin": 12.96
+    },
+    {
+      "t": "electoral",
+      "inicio": 13.04,
+      "fin": 13.44
+    },
+    {
+      "t": "actual",
+      "inicio": 13.64,
+      "fin": 13.84
+    },
+    {
+      "t": "lo",
+      "inicio": 14,
+      "fin": 14.08
+    },
+    {
+      "t": "mantuvo.",
+      "inicio": 14.2,
+      "fin": 14.88
+    },
+    {
+      "t": "Dos",
+      "inicio": 14.96,
+      "fin": 15.12
+    },
+    {
+      "t": "escaños",
+      "inicio": 15.2,
+      "fin": 15.52
+    },
+    {
+      "t": "por",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "t": "provincia,",
+      "inicio": 15.76,
+      "fin": 16.4
+    },
+    {
+      "t": "y",
+      "inicio": 16.44,
+      "fin": 16.48
+    },
+    {
+      "t": "el",
+      "inicio": 16.52,
+      "fin": 16.56
+    },
+    {
+      "t": "resto",
+      "inicio": 16.64,
+      "fin": 16.96
+    },
+    {
+      "t": "según",
+      "inicio": 17.04,
+      "fin": 17.28
+    },
+    {
+      "t": "la",
+      "inicio": 17.32,
+      "fin": 17.36
+    },
+    {
+      "t": "población.",
+      "inicio": 17.44,
+      "fin": 18.24
+    },
+    {
+      "t": "Soria",
+      "inicio": 18.32,
+      "fin": 18.64
+    },
+    {
+      "t": "elige",
+      "inicio": 18.72,
+      "fin": 19.04
+    },
+    {
+      "t": "un",
+      "inicio": 19.12,
+      "fin": 19.2
+    },
+    {
+      "t": "diputado",
+      "inicio": 19.253,
+      "fin": 19.6
+    },
+    {
+      "t": "por",
+      "inicio": 19.68,
+      "fin": 19.84
+    },
+    {
+      "t": "cada",
+      "inicio": 19.92,
+      "fin": 20.08
+    },
+    {
+      "t": "cuarenta",
+      "inicio": 20.16,
+      "fin": 20.507
+    },
+    {
+      "t": "y",
+      "inicio": 20.533,
+      "fin": 20.56
+    },
+    {
+      "t": "cinco",
+      "inicio": 20.64,
+      "fin": 20.8
+    },
+    {
+      "t": "mil",
+      "inicio": 20.88,
+      "fin": 20.96
+    },
+    {
+      "t": "habitantes.",
+      "inicio": 21.04,
+      "fin": 22
+    },
+    {
+      "t": "Madrid,",
+      "inicio": 22.08,
+      "fin": 22.64
+    },
+    {
+      "t": "uno",
+      "inicio": 22.72,
+      "fin": 22.8
+    },
+    {
+      "t": "por",
+      "inicio": 22.96,
+      "fin": 23.04
+    },
+    {
+      "t": "cada",
+      "inicio": 23.12,
+      "fin": 23.28
+    },
+    {
+      "t": "ciento",
+      "inicio": 23.44,
+      "fin": 23.68
+    },
+    {
+      "t": "ochenta",
+      "inicio": 23.76,
+      "fin": 24.08
+    },
+    {
+      "t": "y",
+      "inicio": 24.12,
+      "fin": 24.16
+    },
+    {
+      "t": "ocho",
+      "inicio": 24.24,
+      "fin": 24.32
+    },
+    {
+      "t": "mil.",
+      "inicio": 24.4,
+      "fin": 25.04
+    },
+    {
+      "t": "¿Subir",
+      "inicio": 25.08,
+      "fin": 25.36
+    },
+    {
+      "t": "a",
+      "inicio": 25.4,
+      "fin": 25.44
+    },
+    {
+      "t": "cuatrocientos?",
+      "inicio": 25.48,
+      "fin": 26.56
+    },
+    {
+      "t": "Bastaría",
+      "inicio": 26.6,
+      "fin": 26.96
+    },
+    {
+      "t": "cambiar",
+      "inicio": 27.04,
+      "fin": 27.36
+    },
+    {
+      "t": "esa",
+      "inicio": 27.44,
+      "fin": 27.52
+    },
+    {
+      "t": "ley,",
+      "inicio": 27.6,
+      "fin": 28
+    },
+    {
+      "t": "con",
+      "inicio": 28.08,
+      "fin": 28.16
+    },
+    {
+      "t": "mayoría",
+      "inicio": 28.24,
+      "fin": 28.48
+    },
+    {
+      "t": "absoluta.",
+      "inicio": 28.56,
+      "fin": 29.36
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 29.387,
+      "fin": 29.44
+    },
+    {
+      "t": "harías?",
+      "inicio": 29.52,
+      "fin": 30.16
+    }
+  ],
+  "duracion": 30.08,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE"
+}

@@ -1,0 +1,510 @@
+{
+  "plantilla": "estandar",
+  "duracion": 78.5,
+  "portadaSegundo": 1.6,
+  "marca": "@loquepasaenunminuto",
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "componentes": [
+          {
+            "tipo": "dhEtiqueta",
+            "en": -0.4
+          },
+          {
+            "tipo": "gancho",
+            "texto": "14 % de votos. 0 escaños.",
+            "y": 340,
+            "tamano": 110,
+            "en": -0.5
+          },
+          {
+            "tipo": "dhGancho",
+            "modo": "portada"
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "Así funciona D'Hondt",
+            "y": 1150,
+            "en": -0.5,
+            "tamano": 72
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 7.34,
+      "componentes": [
+        {
+          "tipo": "dhEtiqueta",
+          "en": -0.4
+        },
+        {
+          "tipo": "gancho",
+          "texto": "14 % de votos = 0 escaños",
+          "y": 340,
+          "tamano": 110,
+          "en": -0.5
+        },
+        {
+          "tipo": "dhGancho",
+          "modo": "gancho",
+          "tSube": 0.45,
+          "tSubeFin": 2.3,
+          "tAsientos": 3.58,
+          "tCero": 3.95,
+          "tDiv": 6.16
+        }
+      ]
+    },
+    {
+      "inicio": 7.34,
+      "fin": 16.82,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "forma": "rect",
+          "x": 540,
+          "y": 775,
+          "ancho": 900,
+          "alto": 640,
+          "foco": "50% 40%",
+          "zoom": [
+            1.04,
+            1.16
+          ],
+          "pan": [
+            -30,
+            0
+          ],
+          "dur": 1.41,
+          "en": 0.02,
+          "hasta": 1.41,
+          "credito": "Foto: Vickybol · CC BY-SA 3.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "foto",
+          "src": "F2c.jpg",
+          "forma": "rect",
+          "x": 540,
+          "y": 775,
+          "ancho": 760,
+          "alto": 676,
+          "foco": "50% 50%",
+          "zoom": [
+            1.02,
+            1.12
+          ],
+          "dur": 1.2700000000000002,
+          "en": 1.41,
+          "hasta": 2.68,
+          "credito": "Foto: MiguelAlanCS · CC BY-SA 4.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "foto",
+          "src": "F3c.jpg",
+          "forma": "rect",
+          "x": 540,
+          "y": 775,
+          "ancho": 900,
+          "alto": 640,
+          "foco": "50% 40%",
+          "zoom": [
+            1.02,
+            1.12
+          ],
+          "dur": 1.5799999999999996,
+          "en": 2.68,
+          "hasta": 4.26,
+          "credito": "Foto: JJ Merelo · CC BY-SA 2.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Sistema D'Hondt",
+          "y": 330,
+          "en": 2.7800000000000002,
+          "tamano": 72,
+          "hasta": 4.26
+        },
+        {
+          "tipo": "hemiciclo",
+          "grupos": [
+            {
+              "nombre": "Escaños",
+              "escanos": 350,
+              "color": "#14213D"
+            }
+          ],
+          "total": 350,
+          "en": 3.6399999999999997,
+          "dur": 0.4,
+          "y": 640,
+          "ancho": 860,
+          "leyenda": false,
+          "hasta": 4.26
+        },
+        {
+          "tipo": "dhOvalo",
+          "src": "F4.jpg",
+          "x": 400,
+          "y": 830,
+          "ancho": 340,
+          "alto": 450,
+          "en": 4.3,
+          "hasta": 7.4,
+          "dur": 3.1400000000000006
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Victor D'Hondt · jurista belga, s. XIX",
+          "y": 330,
+          "en": 4.34,
+          "tamano": 64,
+          "hasta": 7.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Grabado anónimo (Revue mensuelle, n.º 20, 1901)",
+            "Dominio público · Wikimedia Commons"
+          ],
+          "en": 4.3,
+          "hasta": 7.4
+        },
+        {
+          "tipo": "dhPizarra",
+          "en": 7.44
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Ejemplo inventado",
+          "y": 330,
+          "en": 7.44,
+          "tamano": 72
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: LOREG art. 163"
+          ],
+          "en": 7.44
+        }
+      ]
+    },
+    {
+      "inicio": 16.82,
+      "fin": 46.06,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Provincia: 5 escaños",
+          "y": 330,
+          "en": 0.1,
+          "tamano": 72,
+          "hasta": 2.42
+        },
+        {
+          "tipo": "dhProvincia",
+          "numero": "5",
+          "x": 540,
+          "y": 760,
+          "tam": 520,
+          "en": 0.15,
+          "hasta": 2.42
+        },
+        {
+          "tipo": "dhFichas",
+          "y": 450,
+          "paso": 150,
+          "hasta": 9.96,
+          "fichas": [
+            {
+              "forma": "circulo",
+              "valor": 100000,
+              "enFicha": 2.64,
+              "enValor": 5.09
+            },
+            {
+              "forma": "triangulo",
+              "valor": 80000,
+              "enFicha": 3.04,
+              "enValor": 7.13
+            },
+            {
+              "forma": "cuadrado",
+              "valor": 30000,
+              "enFicha": 3.1,
+              "enValor": 8.97
+            }
+          ]
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "÷1 ÷2 ÷3 ÷4",
+          "y": 330,
+          "en": 10.16,
+          "tamano": 72,
+          "hasta": 15.4
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Los 5 más altos",
+          "y": 330,
+          "en": 15.5,
+          "tamano": 72
+        },
+        {
+          "tipo": "dhTabla",
+          "enCab": 10.21,
+          "enFilas": [
+            12.33,
+            13.03,
+            13.86,
+            14.61
+          ],
+          "luces": [
+            {
+              "col": 0,
+              "row": 0,
+              "en": 18.09,
+              "orden": 0
+            },
+            {
+              "col": 1,
+              "row": 0,
+              "en": 19.77,
+              "orden": 1
+            },
+            {
+              "col": 0,
+              "row": 1,
+              "en": 21.69,
+              "orden": 2
+            },
+            {
+              "col": 1,
+              "row": 1,
+              "en": 23.93,
+              "orden": 3
+            },
+            {
+              "col": 0,
+              "row": 2,
+              "en": 26.68,
+              "orden": 4
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio · partidos inventados"
+          ],
+          "en": 2.42
+        }
+      ]
+    },
+    {
+      "inicio": 46.06,
+      "fin": 56.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "48 % de votos → 60 % de escaños",
+          "y": 330,
+          "en": 0.86,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Triángulo: 38 % → 40 %",
+          "y": 500,
+          "en": 5.02,
+          "tamano": 64
+        },
+        {
+          "tipo": "dhBarras",
+          "y": 620,
+          "enIconos": 0.3,
+          "filas": [
+            {
+              "forma": "circulo",
+              "votos": 48,
+              "escanos": 60,
+              "enV": 1.89,
+              "enE": 4.85
+            },
+            {
+              "forma": "triangulo",
+              "votos": 38,
+              "escanos": 40,
+              "enV": 4.92,
+              "enE": 6.16
+            },
+            {
+              "forma": "cuadrado",
+              "votos": 14,
+              "escanos": 0,
+              "enV": 8.09,
+              "enE": 9.49
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio · partidos inventados"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 56.7,
+      "fin": 59.74,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Le faltan 3.334 votos",
+          "y": 330,
+          "en": 0.1,
+          "tamano": 72
+        },
+        {
+          "tipo": "dhTabla",
+          "estatico": true,
+          "duelo": {
+            "en": 0.1,
+            "dur": 0.7,
+            "flechaEn": 1.53,
+            "resultadoEn": 1.8
+          },
+          "luces": [
+            {
+              "col": 0,
+              "row": 0,
+              "en": 0,
+              "orden": 0
+            },
+            {
+              "col": 1,
+              "row": 0,
+              "en": 0,
+              "orden": 1
+            },
+            {
+              "col": 0,
+              "row": 1,
+              "en": 0,
+              "orden": 2
+            },
+            {
+              "col": 1,
+              "row": 1,
+              "en": 0,
+              "orden": 3
+            },
+            {
+              "col": 0,
+              "row": 2,
+              "en": 0,
+              "orden": 4
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio · partidos inventados"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 59.74,
+      "fin": 63.98,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Menos escaños, más efecto",
+          "y": 330,
+          "en": 0.1,
+          "tamano": 64
+        },
+        {
+          "tipo": "dhDosProvincias",
+          "enPeq": 0.15,
+          "enPeqEt": 1.32,
+          "enGra": 2.74,
+          "enGraEt": 3.2
+        }
+      ]
+    },
+    {
+      "inicio": 63.98,
+      "fin": 70.38,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Mínimo: 2 escaños por provincia",
+          "y": 330,
+          "en": 2.04,
+          "tamano": 64
+        },
+        {
+          "tipo": "dhMapaMinimo",
+          "x": 500,
+          "y": 505,
+          "ancho": 700,
+          "enMapa": 0.1,
+          "enAros": 0.5,
+          "enPuntos": 4.97
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG art. 162.2 · CE art. 68.2"
+          ],
+          "en": 2.04
+        }
+      ]
+    },
+    {
+      "inicio": 70.38,
+      "fin": 73.82,
+      "componentes": [
+        {
+          "tipo": "dhEtiqueta",
+          "en": 0.1
+        },
+        {
+          "tipo": "dhGancho",
+          "modo": "bucle"
+        }
+      ]
+    },
+    {
+      "inicio": 73.82,
+      "fin": 78.5,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "14 % y 0 escaños: ya sabes por qué",
+          "pregunta": "¿Lo hacemos con los resultados reales de tu provincia?",
+          "tamano": 84,
+          "yGuardalo": 1345,
+          "yFuentes": 1432
+        }
+      ]
+    }
+  ]
+}
