@@ -1,0 +1,953 @@
+{
+  "plantilla": "estandar",
+  "duracion": 81.8,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "CASI 39 AÑOS SIN APLICARSE",
+            "y": 340,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "recorte",
+            "src": "senado.png",
+            "giro": -2,
+            "x": 540,
+            "y": 930,
+            "ancho": 860,
+            "desde": "escala",
+            "en": -1,
+            "flota": false,
+            "credito": "Imagen de archivo"
+          },
+          {
+            "tipo": "tarjetaS",
+            "lineas": [
+              "ARTÍCULO 155"
+            ],
+            "x": 540,
+            "y": 1265,
+            "ancho": 860,
+            "alto": 170,
+            "tamano": 80,
+            "titular": true,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 7.26,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "ARTÍCULO 155: CASI 39 AÑOS SIN APLICARSE",
+          "y": 335,
+          "tamano": 64,
+          "en": -1,
+          "hasta": 2.5300000000000002
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "214 SÍ · 47 NO · 1 ABSTENCIÓN",
+          "y": 335,
+          "en": 2.58,
+          "tamano": 64
+        },
+        {
+          "tipo": "recorte",
+          "src": "senado.png",
+          "giro": -2,
+          "x": 290,
+          "y": 690,
+          "ancho": 440,
+          "desde": "escala",
+          "en": 0.1,
+          "credito": "Imagen de archivo · Foto: Esetena · CC BY-SA 3.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "155"
+          ],
+          "x": 760,
+          "y": 535,
+          "ancho": 360,
+          "alto": 310,
+          "tamano": 190,
+          "titular": true,
+          "en": 0.4
+        },
+        {
+          "tipo": "anioS",
+          "desde": 1978,
+          "hasta": 2017,
+          "x": 60,
+          "y": 880,
+          "tamano": 170,
+          "en": 0.3,
+          "dur": 1.9,
+          "salida": 2.58
+        },
+        {
+          "tipo": "votosS",
+          "y": 870,
+          "en": 2.63
+        }
+      ]
+    },
+    {
+      "inicio": 7.26,
+      "fin": 12.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "155: EL GOBIERNO PUEDE OBLIGAR A CUMPLIR",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "GOBIERNO DE ESPAÑA"
+          ],
+          "y": 540,
+          "alto": 130,
+          "en": 0.2,
+          "luz": 2.42
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "COMUNIDAD AUTÓNOMA"
+          ],
+          "y": 830,
+          "alto": 130,
+          "en": 0.3,
+          "luz": 3.7
+        },
+        {
+          "tipo": "flechaS",
+          "x1": 540,
+          "y1": 690,
+          "x2": 540,
+          "y2": 810,
+          "en": 2.8,
+          "dur": 0.8,
+          "candado": {
+            "x": 760,
+            "y": 770,
+            "en": 4.06
+          }
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Constitución, art. 155.1 (BOE)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 12.3,
+      "fin": 17.58,
+      "componentes": [
+        {
+          "tipo": "casillasS",
+          "y": 380,
+          "sep": "O",
+          "items": [
+            {
+              "texto": "INCUMPLE LA CONSTITUCIÓN O LAS LEYES",
+              "n": 3,
+              "en": 0.19999999999999998
+            },
+            {
+              "texto": "ATENTA GRAVEMENTE AL INTERÉS GENERAL",
+              "n": 2,
+              "en": 2.56
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Constitución, art. 155.1 (BOE)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 17.58,
+      "fin": 21.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1 · REQUERIMIENTO AL PRESIDENTE",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "sobreS",
+          "de": [
+            540,
+            620
+          ],
+          "a": [
+            540,
+            720
+          ],
+          "en": 0.1,
+          "dur": 0.9,
+          "ancho": 330
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "REQUERIMIENTO"
+          ],
+          "x": 520,
+          "y": 840,
+          "tamano": 64,
+          "angulo": -4,
+          "desde": 160,
+          "en": 3.12
+        },
+        {
+          "tipo": "escaleraS",
+          "x": 640,
+          "y": 1125,
+          "paso": [
+            0,
+            99,
+            99
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Constitución, art. 155.1 (BOE) · Reglamento del Senado, art. 189.5"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 21.9,
+      "fin": 25.87,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2 · SI NO LO ATIENDE: AL SENADO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "recorte",
+          "src": "senado.png",
+          "giro": -2,
+          "x": 715,
+          "y": 790,
+          "ancho": 400,
+          "desde": "derecha",
+          "en": 0.15,
+          "credito": "Imagen de archivo · Foto: Esetena · CC BY-SA 3.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "carpetaS",
+          "lineas": [
+            "SOLICITUD",
+            "DEL",
+            "GOBIERNO"
+          ],
+          "de": [
+            285,
+            790
+          ],
+          "a": [
+            715,
+            800
+          ],
+          "en": 0.1,
+          "dur": 1.6600000000000001,
+          "ancho": 450,
+          "alto": 310,
+          "entra": true
+        },
+        {
+          "tipo": "escaleraS",
+          "x": 640,
+          "y": 1125,
+          "paso": [
+            0,
+            0,
+            99
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 25.87,
+      "fin": 30.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "3 · MAYORÍA ABSOLUTA: MÁS DE LA MITAD",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraMitadS",
+          "y": 700,
+          "en": 0.1,
+          "partEn": 2.59
+        },
+        {
+          "tipo": "escaleraS",
+          "x": 640,
+          "y": 1125,
+          "paso": [
+            0,
+            0,
+            0
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Constitución, art. 155.1 (BOE) · Reglamento del Senado, art. 189.5"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 30.3,
+      "fin": 36.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "→ MEDIDAS: OBLIGAR A CUMPLIR O PROTEGER",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "GOBIERNO DE ESPAÑA"
+          ],
+          "y": 520,
+          "alto": 110,
+          "en": 0.1,
+          "hasta": 3.52
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "COMUNIDAD AUTÓNOMA"
+          ],
+          "y": 770,
+          "alto": 110,
+          "en": 0.1,
+          "hasta": 3.52
+        },
+        {
+          "tipo": "carpetaS",
+          "lineas": [
+            "MEDIDAS"
+          ],
+          "de": [
+            540,
+            700
+          ],
+          "a": [
+            540,
+            830
+          ],
+          "en": 0.2,
+          "dur": 2.22,
+          "ancho": 400,
+          "alto": 150,
+          "abreEn": 3.12,
+          "hasta": 3.52
+        },
+        {
+          "tipo": "casillasS",
+          "y": 560,
+          "items": [
+            {
+              "texto": "OBLIGAR A CUMPLIR",
+              "n": 1,
+              "en": 3.67
+            },
+            {
+              "texto": "PROTEGER EL INTERÉS GENERAL",
+              "n": 2,
+              "en": 4.5600000000000005
+            }
+          ]
+        },
+        {
+          "tipo": "escaleraS",
+          "x": 640,
+          "y": 1125,
+          "paso": [
+            0,
+            0,
+            0
+          ],
+          "en": -1,
+          "flecha": 0.05
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Constitución, art. 155.1 (BOE) · Reglamento del Senado, art. 189.5"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 36.62,
+      "fin": 39.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "11-OCT-2017: REQUERIMIENTO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "GOBIERNO DE ESPAÑA"
+          ],
+          "y": 510,
+          "alto": 170,
+          "en": 0.1,
+          "luz": 0.3
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "GENERALITAT",
+            "DE CATALUNYA"
+          ],
+          "y": 770,
+          "alto": 170,
+          "en": 0.1,
+          "luz": 2.5999999999999996
+        },
+        {
+          "tipo": "sobreS",
+          "de": [
+            540,
+            725
+          ],
+          "a": [
+            540,
+            855
+          ],
+          "en": 0.5,
+          "dur": 1.9999999999999998,
+          "ancho": 200,
+          "escalaFin": 0.5
+        },
+        {
+          "tipo": "lineaS",
+          "y": 1090,
+          "en": -1,
+          "hitos": [
+            {
+              "x": 190,
+              "etiqueta": "11-OCT",
+              "en": 0.3
+            },
+            {
+              "x": 540,
+              "etiqueta": "19-OCT",
+              "en": 99
+            },
+            {
+              "x": 890,
+              "etiqueta": "27-OCT",
+              "en": 99
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Diario de Sesiones del Senado, 27-10-2017 · Moncloa 19-10-2017"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 39.42,
+      "fin": 41.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "19-OCT: NO ATENDIDO, SEGÚN EL GOBIERNO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "GOBIERNO DE ESPAÑA"
+          ],
+          "y": 510,
+          "alto": 170,
+          "en": -1
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "GENERALITAT",
+            "DE CATALUNYA"
+          ],
+          "y": 770,
+          "alto": 170,
+          "en": -1
+        },
+        {
+          "tipo": "sobreS",
+          "de": [
+            540,
+            855
+          ],
+          "a": [
+            540,
+            725
+          ],
+          "en": 0.2,
+          "dur": 0.9,
+          "ancho": 200,
+          "escalaFin": 0.8
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO ATENDIDO"
+          ],
+          "x": 640,
+          "y": 700,
+          "tamano": 64,
+          "angulo": -5,
+          "desde": 120,
+          "en": 1.24
+        },
+        {
+          "tipo": "lineaS",
+          "y": 1090,
+          "en": -1,
+          "hitos": [
+            {
+              "x": 190,
+              "etiqueta": "11-OCT",
+              "en": 0
+            },
+            {
+              "x": 540,
+              "etiqueta": "19-OCT",
+              "en": 0.1
+            },
+            {
+              "x": 890,
+              "etiqueta": "27-OCT",
+              "en": 99
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Diario de Sesiones del Senado, 27-10-2017 · Moncloa 19-10-2017"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 41.42,
+      "fin": 44.06,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VOTOS EN EL SENADO, 27-10-2017",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "votosS",
+          "y": 560,
+          "en": 0.2
+        },
+        {
+          "tipo": "lineaS",
+          "y": 1090,
+          "en": -1,
+          "hitos": [
+            {
+              "x": 190,
+              "etiqueta": "11-OCT",
+              "en": 0
+            },
+            {
+              "x": 540,
+              "etiqueta": "19-OCT",
+              "en": 0
+            },
+            {
+              "x": 890,
+              "etiqueta": "27-OCT",
+              "en": 0.1
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Diario de Sesiones del Senado, 27-10-2017 · Moncloa 19-10-2017"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 44.06,
+      "fin": 49.5,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "GOBIERNO: LA GENERALITAT INCUMPLÍA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "GOBIERNO",
+            "DE",
+            "ESPAÑA"
+          ],
+          "x": 275,
+          "y": 505,
+          "ancho": 430,
+          "alto": 250,
+          "en": 0.1,
+          "luz": 0.3
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "PARLAMENT",
+            "DE",
+            "CATALUNYA"
+          ],
+          "x": 725,
+          "y": 505,
+          "ancho": 430,
+          "alto": 250,
+          "en": 0.1
+        },
+        {
+          "tipo": "casillasS",
+          "y": 770,
+          "items": [
+            {
+              "texto": "INCUMPLE LA CONSTITUCIÓN",
+              "n": 2,
+              "en": 1.92
+            },
+            {
+              "texto": "REQUERIMIENTO NO ATENDIDO",
+              "n": 2,
+              "en": 3.76
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Diario de Sesiones del Senado, 27-10-2017 · STC 89/2019 y 90/2019 (BOE)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 49.5,
+      "fin": 53.18,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "RECURRIERON: DIPUTADOS DE UNIDOS PODEMOS Y PARLAMENT",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "GOBIERNO",
+            "DE",
+            "ESPAÑA"
+          ],
+          "x": 275,
+          "y": 590,
+          "ancho": 430,
+          "alto": 250,
+          "en": -1,
+          "luz": 0
+        },
+        {
+          "tipo": "tarjetaS",
+          "lineas": [
+            "PARLAMENT",
+            "DE",
+            "CATALUNYA"
+          ],
+          "x": 725,
+          "y": 590,
+          "ancho": 430,
+          "alto": 250,
+          "en": -1,
+          "luz": 1.5999999999999999
+        },
+        {
+          "tipo": "casillasS",
+          "y": 860,
+          "items": [
+            {
+              "texto": "RECURSO ANTE EL CONSTITUCIONAL",
+              "n": 2,
+              "en": 2.08
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Diario de Sesiones del Senado, 27-10-2017 · STC 89/2019 y 90/2019 (BOE)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 53.18,
+      "fin": 59.38,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NO PERMITE SUSTITUIR GOBIERNO NI DISOLVER PARLAMENTO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillasS",
+          "y": 620,
+          "items": [
+            {
+              "texto": "OBLIGAR A CUMPLIR",
+              "n": 1,
+              "en": 1.44,
+              "tipo": "ok"
+            },
+            {
+              "texto": "SUSTITUIR AL GOBIERNO CATALÁN",
+              "n": 2,
+              "en": 2.88,
+              "tipo": "no"
+            },
+            {
+              "texto": "DISOLVER EL PARLAMENTO",
+              "n": 2,
+              "en": 4.720000000000001,
+              "tipo": "no"
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Diario de Sesiones del Senado, 27-10-2017 · STC 89/2019 y 90/2019 (BOE)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 59.38,
+      "fin": 65.42,
+      "fondo": "mostaza",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2019: TRIBUNAL CONSTITUCIONAL AVALA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ANULA SOLO UNA REGLA",
+          "y": 520,
+          "en": 4.680000000000001,
+          "tamano": 64
+        },
+        {
+          "tipo": "docS",
+          "x": 60,
+          "y": 730,
+          "ancho": 400,
+          "en": 0.2,
+          "tachaEn": 5.16
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "UNANIMIDAD"
+          ],
+          "x": 640,
+          "y": 790,
+          "tamano": 64,
+          "angulo": -6,
+          "desde": 160,
+          "en": 3.6999999999999997
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Tribunal Constitucional, nota informativa 89/2019"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 65.42,
+      "fin": 70.86,
+      "fondo": "mostaza",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LÍMITE: NI SUPRIMIR NI SUSPENDER SIN FIN",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "autonomiaS",
+          "y": 620,
+          "en": 0.2,
+          "tachaA": 2.22,
+          "tachaB": 3.34,
+          "mantieneEn": 4.16
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Tribunal Constitucional, nota informativa 89/2019"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 70.86,
+      "fin": 74.06,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿POR QUÉ ELLOS? MAYORÍA ABSOLUTA DEL SENADO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "recorte",
+          "src": "senado.png",
+          "giro": -2,
+          "x": 290,
+          "y": 690,
+          "ancho": 440,
+          "desde": "escala",
+          "en": 0.1,
+          "credito": "Imagen de archivo · Foto: Esetena · CC BY-SA 3.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "votosS",
+          "y": 870,
+          "en": 0.3
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "MAYORÍA",
+            "ABSOLUTA"
+          ],
+          "x": 730,
+          "y": 585,
+          "tamano": 64,
+          "angulo": -5,
+          "desde": 200,
+          "en": 1.74
+        }
+      ]
+    },
+    {
+      "inicio": 74.06,
+      "fin": 81.8,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿LO MANTENDRÍAS O LO REFORMARÍAS?",
+          "pregunta": "Requerimiento · Senado · medidas",
+          "tamano": 96,
+          "pulso": true,
+          "guardaEn": 3.35
+        }
+      ]
+    }
+  ]
+}

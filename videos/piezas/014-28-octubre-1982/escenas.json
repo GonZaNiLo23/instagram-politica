@@ -1,0 +1,404 @@
+{
+  "plantilla": "flash",
+  "duracion": 31.4,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "rotulo",
+            "texto": "¿DEL GOBIERNO",
+            "y": 420,
+            "en": -1,
+            "tamano": 104,
+            "pastilla": true
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "A 11 ESCAÑOS?",
+            "y": 560,
+            "en": -1,
+            "tamano": 104,
+            "pastilla": true
+          },
+          {
+            "tipo": "hemiU",
+            "y": 780,
+            "ancho": 860,
+            "estatico": true,
+            "en": -1,
+            "fases": [
+              {
+                "en": 0,
+                "grupos": [
+                  {
+                    "n": 11,
+                    "color": "#E08A2E"
+                  }
+                ]
+              }
+            ],
+            "cuenta": {
+              "desde": 11,
+              "hasta": 11,
+              "en": 0,
+              "dur": 1,
+              "etiqueta": "UCD",
+              "tam": 120
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.34,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿DEL GOBIERNO A 11 ESCAÑOS?",
+          "y": 335,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "hemiU",
+          "y": 520,
+          "ancho": 860,
+          "estatico": true,
+          "en": -1,
+          "fases": [
+            {
+              "en": 0,
+              "grupos": [
+                {
+                  "n": 168,
+                  "color": "#E08A2E"
+                }
+              ]
+            }
+          ],
+          "cuenta": {
+            "desde": 168,
+            "hasta": 11,
+            "en": 0.5,
+            "dur": 1.55,
+            "etiqueta": "UCD",
+            "apaga": true,
+            "tam": 120
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 3.34,
+      "fin": 5.94,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "28 DE OCTUBRE DE 1982",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "hojaU",
+          "y": 600,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 5.94,
+      "fin": 8.14,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "UCD = UNIÓN DE CENTRO DEMOCRÁTICO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "siglasU",
+          "texto": "UCD",
+          "y": 640,
+          "en": 0.1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Partido del Gobierno en 1982",
+          "y": 960,
+          "en": 0.47,
+          "tamano": 56
+        }
+      ]
+    },
+    {
+      "inicio": 8.14,
+      "fin": 18.02,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1979: 168 DIPUTADOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 2.6799999999999997
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PSOE: 202 DE 350",
+          "y": 335,
+          "en": 2.78,
+          "tamano": 64,
+          "hasta": 7
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Partido Socialista Obrero Español",
+          "y": 420,
+          "en": 3.5700000000000003,
+          "tamano": 48,
+          "hasta": 7
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MAYORÍA ABSOLUTA: 176 (MITAD + 1)",
+          "y": 335,
+          "en": 7.1,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineaU",
+          "y": 560,
+          "en": 0.1,
+          "hitos": [
+            {
+              "x": 190,
+              "texto": "MARZO 1979",
+              "enciende": 0.3,
+              "apaga": 2.6799999999999997
+            },
+            {
+              "x": 500,
+              "texto": "OCT 1982",
+              "enciende": 2.78
+            }
+          ]
+        },
+        {
+          "tipo": "hemiU",
+          "y": 650,
+          "ancho": 720,
+          "en": 0.1,
+          "fases": [
+            {
+              "en": 0,
+              "grupos": [
+                {
+                  "n": 121,
+                  "color": "#D8493E",
+                  "nombre": "PSOE"
+                },
+                {
+                  "n": 168,
+                  "color": "#E08A2E",
+                  "nombre": "UCD"
+                },
+                {
+                  "n": 61,
+                  "color": "#8D99AE",
+                  "nombre": "Otros"
+                }
+              ]
+            },
+            {
+              "en": 2.6799999999999997,
+              "grupos": [
+                {
+                  "n": 202,
+                  "color": "#D8493E",
+                  "nombre": "PSOE"
+                },
+                {
+                  "n": 11,
+                  "color": "#E08A2E",
+                  "nombre": "UCD"
+                },
+                {
+                  "n": 107,
+                  "color": "#3B8EDB",
+                  "nombre": "AP-PDP"
+                },
+                {
+                  "n": 30,
+                  "color": "#8D99AE",
+                  "nombre": "Otros"
+                }
+              ]
+            }
+          ],
+          "cuenta": {
+            "desde": 121,
+            "hasta": 202,
+            "en": 4.45,
+            "dur": 0.85,
+            "etiqueta": "PSOE",
+            "tam": 100,
+            "visibleEn": 4.45
+          },
+          "mayoria": {
+            "en": 8.24,
+            "etiqueta": "+26",
+            "etiquetaEn": 8.92
+          },
+          "yLeyenda": 1010
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Ministerio del Interior"
+          ],
+          "en": 0.1,
+          "hasta": 2.6799999999999997
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "AP-PDP = Alianza Popular–Partido Demócrata Popular",
+            "Fuente: Ministerio del Interior"
+          ],
+          "en": 2.78
+        }
+      ]
+    },
+    {
+      "inicio": 18.02,
+      "fin": 24.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "48 % DE LOS VOTOS VÁLIDOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.11
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "CASI 58 % DE LOS ESCAÑOS",
+          "y": 335,
+          "en": 3.21,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasU",
+          "y": 540,
+          "en": 0.1,
+          "v1": {
+            "etiqueta": "Votos válidos",
+            "valor": 48.1,
+            "texto": "48,1 %",
+            "en": 0.2,
+            "dur": 1.7,
+            "color": "#2A9D8F"
+          },
+          "v2": {
+            "etiqueta": "Escaños",
+            "valor": 57.7,
+            "texto": "57,7 %",
+            "en": 3.32,
+            "dur": 1.8,
+            "color": "#F2B134"
+          }
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "en": 5.319999999999999,
+          "y": 985,
+          "x": 540,
+          "tamano": 110,
+          "reboteMax": 20,
+          "desde": -120
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Ministerio del Interior (escaños: 202 de 350)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 24.62,
+      "fin": 27.07,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "168 → 11",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 130
+        },
+        {
+          "tipo": "hemiU",
+          "y": 520,
+          "ancho": 860,
+          "estatico": true,
+          "en": 0,
+          "fases": [
+            {
+              "en": 0,
+              "grupos": [
+                {
+                  "n": 168,
+                  "color": "#E08A2E"
+                }
+              ]
+            }
+          ],
+          "cuenta": {
+            "desde": 168,
+            "hasta": 11,
+            "en": 1.4700000000000002,
+            "dur": 0.55,
+            "etiqueta": "UCD",
+            "apaga": true,
+            "tam": 120
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 27.07,
+      "fin": 31.4,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "cta": "guardalo",
+          "frase": "¿PODRÍA REPETIRSE HOY?",
+          "tamano": 104,
+          "yFrase": 460,
+          "yGuardalo": 1180,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

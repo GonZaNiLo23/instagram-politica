@@ -5,7 +5,7 @@ const [,, inp, out] = process.argv;
 const g = JSON.parse(fs.readFileSync(inp, 'utf8'));
 const K = 200, COS = Math.cos(40 * Math.PI / 180);
 const pr = (lon, lat, lon0, lat1) => [(lon - lon0) * COS * K, (lat1 - lat) * K];
-const dp = (pts, tol) => {
+const dp0 = (pts, tol) => {
   if (pts.length < 3) return pts;
   const keep = new Array(pts.length).fill(false); keep[0] = keep[pts.length - 1] = true;
   const st = [[0, pts.length - 1]];
@@ -16,6 +16,14 @@ const dp = (pts, tol) => {
     if (mx > tol && mi > 0) { keep[mi] = true; st.push([a, mi], [mi, b]); }
   }
   return pts.filter((_, i) => keep[i]);
+};
+const dp = (pts, tol) => {
+  const a = pts[0], b = pts[pts.length - 1];
+  if (pts.length > 4 && Math.hypot(a[0] - b[0], a[1] - b[1]) < 1e-6) {
+    let mi = 1, mx = 0; pts.forEach((p, i) => { const d = Math.hypot(p[0] - a[0], p[1] - a[1]); if (d > mx) { mx = d; mi = i; } });
+    return [...dp0(pts.slice(0, mi + 1), tol), ...dp0(pts.slice(mi), tol).slice(1)];
+  }
+  return dp0(pts, tol);
 };
 const cen = (ring) => [ring.reduce((s, p) => s + p[0], 0) / ring.length, ring.reduce((s, p) => s + p[1], 0) / ring.length];
 const area = (ring) => Math.abs(ring.reduce((s, p, i) => { const q = ring[(i + 1) % ring.length]; return s + p[0] * q[1] - q[0] * p[1]; }, 0) / 2);
@@ -46,6 +54,8 @@ const ruta = (rs, lon0, lat1, tol) => rs.map((r) => 'M' + dp(r.map(([lo, la]) =>
 const bb = (rs, lon0, lat1) => { let a = 1e9, b = 1e9, c = -1e9, d = -1e9; for (const r of rs) for (const [lo, la] of r) { const [x, y] = pr(lo, la, lon0, lat1); a = Math.min(a, x); b = Math.min(b, y); c = Math.max(c, x); d = Math.max(d, y); } return [a, b, c, d].map((v) => +v.toFixed(1)); };
 // marco principal: lon0=-9.5, lat1=44.0 (península + Baleares + Ceuta + Melilla)
 const L0 = -9.5, A1 = 44.0;
+// islotes diminutos (ranuras de 5 puntos) producian aristas y trazos sueltos: se descartan en las islas Baleares
+for (const k of ['mallorca', 'menorca', 'ibiza', 'formentera']) { const keep = grupos[k].filter((r) => area(r.map(([lo, la]) => pr(lo, la, L0, A1))) > 40); grupos[k] = keep.length ? keep : grupos[k]; }
 const res = {prov: {}, islas: {}, ceuta: null, melilla: null, canarias: {}};
 for (const [k, rs] of Object.entries(grupos)) {
   if (k.startsWith('prov:')) res.prov[k.slice(5)] = {d: ruta(rs, L0, A1, 3), c: cen(rs.reduce((a, r) => (area(r) > area(a) ? r : a), rs[0])).map((v) => +v.toFixed(3))};

@@ -7,3 +7,6 @@
 - [Metricool] Analítica IG/TikTok ya abre con el mes completo; 5 filas por página, botón "Página siguiente" localizable con find. Columnas IG: alcance, visual., interacciones, likes, guardado, compartidos, comentarios, engagement, t. medio, t. total, duración, %retención, %+3 s. TikTok: visual., likes, comentarios, compartidos, duración. El periodo acaba el día anterior. (2026-10-25)
 - [Inbox] /inbox solo IG; get_page_text no devuelve la lista: usar zoom sobre la columna izquierda. TikTok sin inbox en Metricool. (2026-10-25)
 - [Shell] Heredocs largos con comillas en Bash fallan a veces: usar Write para informes. (2026-10-25)
+- [Metricool] IG puede mostrar "Estamos sincronizando tus datos": get_page_text devuelve vacío 1-2 s tras navegar; esperar 5-8 s con wait y reintentar. Con sincronización pendiente las cifras IG salen idénticas a ayer. (2026-10-26)
+- [Metricool] El lunes el periodo "1-25 oct" ya cargaba solo; 2 páginas (5+4 filas) con find "Página siguiente" + click por ref. Posts del día anterior (008, 024) tardan >24 h en aparecer. (2026-10-26)
+- [Seguidores] Metricool TikTok dio 32 mientras el plan decía 40: confirmar en TikTok Studio. Seguidores ganados por vídeo no están en Metricool. (2026-10-26)

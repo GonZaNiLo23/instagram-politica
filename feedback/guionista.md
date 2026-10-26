@@ -3,7 +3,7 @@
 Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 
 ## Resumen de reglas activas (léelo siempre; la entrada completa, con ejemplo, está debajo: búscala con Grep por su palabra clave)
-1. **Superlativos**: "el mayor", "récord", "el único"… solo con fuente oficial y cifra; si no, describe sin ranking.
+1. **Superlativos**: "el mayor", "récord", "el único"… solo con fuente oficial y cifra; si no, describe sin ranking. Antes de "nunca", "sin usarse" o "primera vez", busca precedentes parciales (procedimientos iniciados y no terminados) y elige el verbo exacto ("sin aplicarse").
 2. **Sin adjetivos valorativos** (débil, histórico, caótico) en voz, rótulos, cierre, portada, post ni hashtags: solo descripciones comprobables.
 3. **Fotos**: lee la ficha y mira la imagen. Sin banderas ni siglas de partido en fotos genéricas (tampoco papeletas con logos en los bordes: indica el recorte, por encima de logos y nombres y con el píxel; el desenfoque no basta si quedan junto al encuadre), sin caras de particulares, sin marcas, nunca de cuentas de partidos; "Imagen de archivo" también en la portada. En un bloque de posturas, todas con retrato o todas con icono.
 4. **Comprobaciones pendientes**: la versión principal es siempre la ya verificada; la que depende de comprobar algo va como opcional, con la condición escrita.
@@ -14,21 +14,47 @@ Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 9. **Posturas**: antes de rebatir, da el motivo principal y la propuesta de cada parte, tal como la formulan; todas las partes con su motivo y con la fecha de la cita.
 10. **Votaciones**: fuente = Diario de Sesiones (resultado definitivo); nada de enciclopedias; comprueba con la imagen los números del OCR.
 11. **Medios de línea marcada** (de cualquier signo) no cuentan como segunda fuente; si no viste la primaria, atribuye ("según Interior") y respeta singular y plural.
-12. **Artículos y fuentes**: lee el texto literal; "podrá" = puede, "deberá" = hay que, "hasta X" = tope (no "unos X" ni "lo habitual"); los matices de tiempo ("inicialmente") se mantienen; no atribuyas a la fuente lo que no dice (lo que añade una guía o un medio va con su nombre, no con el artículo; antes de escribir "coincide con X", busca la frase en X); "suele" o "en la práctica" solo con una fuente que lo diga, y con su formulación concreta; si no lo leíste, `[VERIFICAR]`.
-13. **Momentos distintos** (Cámara actual frente a convocatoria, años de padrón): el verbo y el rótulo dicen a cuál te refieres, con el año de cada fuente.
+12. **Artículos y fuentes**: lee el texto literal; si el artículo tiene dos supuestos y dos finalidades, resume las dos; "podrá" = puede, "deberá" = hay que, "hasta X" = tope (no "unos X" ni "lo habitual"); los matices de tiempo ("inicialmente") se mantienen; no atribuyas a la fuente lo que no dice (lo que añade una guía o un medio va con su nombre, no con el artículo; antes de escribir "coincide con X", busca la frase en X); "suele" o "en la práctica" solo con una fuente que lo diga, y con su formulación concreta; si no lo leíste, `[VERIFICAR]`.
+13. **Momentos distintos** (Cámara actual frente a convocatoria, años de padrón): el verbo y el rótulo dicen a cuál te refieres, con el año de cada fuente. En calendarios, conjuga cada hito según la fecha de publicación prevista (lo ya pasado, en pasado) y "hasta el X" no es "antes del X".
 14. **Un dato derivado = una cifra y un nombre** en voz, rótulo, visual y post; el rótulo dice lo que mide y lleva su unidad, y la unidad es la de la fuente ("respuestas" no es "personas"). Cada mapa o gráfico lleva un título con lo que mide (topes de cruces frente a senadores).
 15. **"Por qué" algo es así**: busca la primera norma que lo fijó y distingue quién lo creó de quién lo mantuvo.
 16. **Comillas** solo para texto literal de la fuente, sin recortes (si quitas palabras, […] o la frase entera). Las de un político, solo con primaria o con dos medios de redacción propia que coincidan; si no, paráfrasis + "según X", igual para todas las partes (también los lemas electorales).
-17. **Cierre** con pregunta o bucle con el gancho.
+17. **Cierre** con pregunta o bucle con el gancho; la pregunta, concreta y sobre el tema ("¿Podría repetirse hoy?"), nunca "¿Lo sabías?" ni "¿Qué opinas?".
 18. **Ejemplos hipotéticos**: "Imagina…" + etiqueta EJEMPLO desde el primer fotograma; nunca el sello DATO.
 19. **Partidos ficticios**: forma o letra (Círculo/A), tonos neutros; nunca colores de partidos reales.
 20. **Simplifica el lenguaje, no el contenido**: cada efecto legal, con el artículo exacto y la elección a la que se aplica (la barrera del 3 % es la del Congreso; en municipales, el 5 %); el lema del cierre no contradice al gancho.
 21. **Rótulos ≤ 7 palabras**; las siglas se explican (si explicas una, explícalas todas).
 22. **Flash = 20–35 s (unas 88 palabras como máximo)**, aunque el encargo dé un margen mayor: el bloque explicativo o de "¿y en España?" no pasa del 40 % de la voz; los pasos de detalle (mayorías, plazos intermedios) van al post.
 23. **Clips de redes**: sin reloj ni hito horario si no consta la hora de grabación; crédito "publicado DD-MM, HH:MM"; nada de grabaciones de otra pantalla sin descartar que sean de un medio; en la tabla, quién autorizó el uso.
+24. **Guía del 2026-10-26**: los objetos y lugares reales (urna, edificio, coche…) no se dibujan: foto recortada con su tabla de imágenes, o se quitan; el post lleva el crédito de la música del pilar (`videos/musica/LICENCIAS.md`).
+25. **Encuestas en periodo electoral** (LOREG 69.1: toda publicación lleva la ficha): ninguna cifra de una encuesta sin su ficha completa en el post (quién la realiza y quién la encarga, muestra, error, fechas, preguntas y no respuesta); nada de rangos de agregadores ni Wikipedia; usa la N y los datos **definitivos** del CIS, no los del avance.
 (Ya incorporadas a la guía de estilo y la plantilla, ver Histórico: recuento real de palabras y tiempos por bloque, frases de ≤ 15 palabras, dato vivo con "a fecha de" y fuentes concretas con fecha, campo Portada.)
 
 ## Reglas activas
+
+### 2026-10-26 · 013-articulo-155-27-octubre (v1) · revisor-guion
+- Ocurrencias: +1 regla 12 (cita del art. 155 sin su segunda finalidad, "o para la protección del mencionado interés general") · +1 regla 1 ("39 años sin usarse", cuando el requerimiento del 155 ya se envió a Canarias en 1989) · +1 regla 24 (edificios de Gobierno, Generalitat y Parlament dibujados)
+- Problema: La voz enumeraba los dos supuestos del 155 (incumplir y atentar contra el interés general), pero solo daba la finalidad del primero ("obligar a cumplir"). El gancho decía "sin usarse" cuando el primer paso del procedimiento (el requerimiento) se usó en 1989 sin llegar al Senado.
+- Regla para el futuro: Si un artículo tiene dos supuestos con dos finalidades, resume las dos o ninguna. Antes de escribir "nunca", "sin usarse" o "primera vez", busca precedentes parciales (un procedimiento iniciado y no terminado) y elige el verbo que sigue siendo verdad ("aplicarse", "llegar al Senado").
+- Ejemplo: "medidas necesarias para obligar a cumplir" → "medidas necesarias: obligar a cumplir o proteger ese interés" · "39 AÑOS SIN USAR" → "CASI 39 AÑOS SIN APLICARSE"
+
+### 2026-10-26 · 012-encuestas-cis-privadas (v1) · revisor-guion
+- Ocurrencias: 1 (regla 25, encuestas) · +1 regla 24 (urnas dibujadas y sin crédito de la música) · +1 regla 14 ("llamadas" por "entrevistas") · +1 regla 12 ("entrevistados al azar" cuando la ficha dice teléfonos al azar y cuotas)
+- Problema: Ya en campaña (convocatoria del 6-10), el guion publicaba el rango de 11 encuestas privadas sacado de un recopilatorio basado en Wikipedia, sin las fichas que exige el art. 69.1 de la LOREG ("que asimismo debe incluir toda publicación de las mismas"). Además, usaba la N del avance del CIS (5.025) cuando los datos definitivos del 20-10 dan 5.024.
+- Regla para el futuro: Si muestras cifras de una encuesta, copia su ficha completa en el post o no las des: atribuye solo el orden ("ponen primero al PP, según X"). Antes de entregar, abre los marginales definitivos del CIS (es{NNNN}mar-pdf, sin "_a") y cotéjalos con el avance.
+- Ejemplo: "11 privadas: PP entre 28,7 y 34 %" (Demócrata/Wikipedia) → "Privadas de octubre (40dB, GAD3…): PP primero · según Euronews" · "a 5.025 personas" → "a 5.024 personas (definitivos; el avance daba 5.025)"
+
+### 2026-10-26 · 014-28-octubre-1982 (v1) · revisor-guion
+- Ocurrencias: 1 (regla 24) · regla 17: 2 (003, 014)
+- Problema: El guion se declaraba "todo vectorial", pero dibujaba una urna y la fachada de La Moncloa, y el post no llevaba el crédito CC BY de "Wallpaper" (son reglas de la guía del 2026-10-26). Además, cerraba con "¿Lo sabías?", la pregunta genérica que el test excluye.
+- Regla para el futuro: Antes de entregar, repasa en la guía las secciones "Objetos reales recortados" y "Música de fondo": quita o fotografía los objetos reales y copia en el post la atribución de LICENCIAS.md. Cierra con una pregunta concreta sobre el tema.
+- Ejemplo: "icono de urna al lado" → (se quita) · post + `Música: "Wallpaper", Kevin MacLeod (incompetech.com) · CC BY 4.0` · "¿Lo sabías?" → "¿Podría repetirse hoy?"
+
+### 2026-10-26 · 011-calendario-generales-54-dias (v1) · revisor-guion
+- Ocurrencias: +1 (regla 13, momentos distintos)
+- Problema: El carrusel se escribió para publicarse del 21 al 25-10 y se publica del 27 al 30-10. La diapositiva 4 ("se presentan las candidaturas", 21–26 oct) seguía en presente justo después de una diapositiva titulada "Lo que ya ha pasado". Además, la pastilla "PÍDELO ANTES DEL 19-NOV" dejaba fuera el último día del plazo, que la JEC incluye.
+- Regla para el futuro: Cuando una pieza enumere plazos, conjuga cada hito según la fecha de publicación prevista y pon en la ficha qué verbos cambian si la publicación se retrasa. Copia la preposición de la fuente: "hasta el X" (incluido) no es "antes del X".
+- Ejemplo: "21–26 de octubre: se presentan las candidaturas" → "se presentaron"; "PÍDELO ANTES DEL 19-NOV" → "PÍDELO HASTA EL 19-NOV".
 
 ### 2026-10-25 · 024-disturbios-barcelona (v1) · revisor-guion
 - Ocurrencias: 1 (regla 23, hora de los clips de redes)

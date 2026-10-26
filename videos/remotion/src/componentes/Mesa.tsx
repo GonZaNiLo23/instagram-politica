@@ -496,19 +496,18 @@ export const JornadaM: React.FC<{x?: number; y?: number; yBarra?: number; n?: nu
 };
 
 /** Balanza plana en equilibrio con dos platillos (etiquetas de 64 px en una o dos líneas) unidos por una "O" grande en mostaza. Cae desde poco arriba con rebote. */
-export const BalanzaM: React.FC<{y?: number; izq: string[]; der: string[]; en?: number; hasta?: number; oEn?: number}> = ({y = 640, izq, der, en = 0, hasta, oEn = 0.9}) => {
+export const BalanzaM: React.FC<{y?: number; izq: string[]; der: string[]; en?: number; hasta?: number; oEn?: number; cx?: number; sep?: number; panW?: number}> = ({y = 640, izq, der, en = 0, hasta, oEn = 0.9, cx = 520, sep = 330, panW = 350}) => {
   const f = useCurrentFrame();
   const {fps} = useVideoConfig();
   const t = f / fps;
   const p = useEntrada(en, 8);
   const sway = Math.sin(t * 2.4) * 1.6;
   const o = easeIO(cl((t - oEn) / 0.35));
-  const cx = 520;
   const yy = y + (1 - Math.min(p, 1.2)) * -70;
   const pan = (px: number, lineas: string[]) => (
     <g>
       <path d={`M${px - 150} ${yy + 10} L${px} ${yy + 250} L${px + 150} ${yy + 10}`} fill="none" {...sw} strokeWidth={6} />
-      <rect x={px - 175} y={yy + 250} width={350} height={lineas.length * 70 + 40} rx={20} fill={C.crema} {...sw} strokeWidth={8} />
+      <rect x={px - panW / 2} y={yy + 250} width={panW} height={lineas.length * 70 + 40} rx={20} fill={C.crema} {...sw} strokeWidth={8} />
       {lineas.map((l, i) => <text key={i} x={px} y={yy + 250 + 76 + i * 70} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={64} fill={T}>{l}</text>)}
     </g>
   );
@@ -517,9 +516,9 @@ export const BalanzaM: React.FC<{y?: number; izq: string[]; der: string[]; en?: 
       <path d={`M${cx} ${yy} V${yy + 480}`} {...sw} strokeWidth={14} />
       <path d={`M${cx - 130} ${yy + 480} H${cx + 130}`} {...sw} strokeWidth={14} />
       <g transform={`rotate(${sway} ${cx} ${yy})`}>
-        <path d={`M${cx - 330} ${yy} H${cx + 330}`} {...sw} strokeWidth={14} />
-        {pan(cx - 330 + 0, izq)}
-        {pan(cx + 330 - 0, der)}
+        <path d={`M${cx - sep} ${yy} H${cx + sep}`} {...sw} strokeWidth={14} />
+        {pan(cx - sep + 0, izq)}
+        {pan(cx + sep - 0, der)}
       </g>
       <g opacity={o} transform={`translate(${cx} ${yy}) scale(${Math.max(0.01, o)})`}>
         <circle r={62} fill={C.mostaza} {...sw} strokeWidth={9} />

@@ -5,7 +5,7 @@ import type {PiezaProps} from '../tipos';
 import {REGISTRO, Marca, EtiquetaLectura, Fuente, Subtitulos} from '../componentes';
 
 /** Montaje común: recorre las escenas del JSON y las dibuja. Flash y Estándar lo envuelven con ajustes distintos. */
-export const Montaje: React.FC<PiezaProps & {barraProgreso?: boolean}> = ({audio, provisional, avisoProvisional, palabras, escenas, marca, duracion, barraProgreso, subSinHuerfanas}) => {
+export const Montaje: React.FC<PiezaProps & {barraProgreso?: boolean}> = ({audio, provisional, avisoProvisional, palabras, escenas, marca, duracion, barraProgreso, subSinHuerfanas, subDy}) => {
   const {fps} = useVideoConfig();
   const frame = useCurrentFrame();
   const ocultar = escenas.filter((e) => e.sinSubtitulos).map((e) => [e.inicio, e.fin] as [number, number]);
@@ -35,7 +35,7 @@ export const Montaje: React.FC<PiezaProps & {barraProgreso?: boolean}> = ({audio
           </Sequence>
         );
       })}
-      <Subtitulos palabras={palabras} ocultarEn={ocultar} sinHuerfanas={subSinHuerfanas} />
+      <Subtitulos palabras={palabras} ocultarEn={ocultar} sinHuerfanas={subSinHuerfanas} dy={subDy} />
       {barraProgreso ? (
         <div style={{position: 'absolute', left: 0, top: 236, height: 8, width: (frame / (duracion * fps)) * 1080, background: C.mostaza}} />
       ) : null}

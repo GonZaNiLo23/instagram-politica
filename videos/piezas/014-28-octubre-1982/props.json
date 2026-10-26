@@ -1,0 +1,840 @@
+{
+  "plantilla": "flash",
+  "duracion": 31.4,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "rotulo",
+            "texto": "¿DEL GOBIERNO",
+            "y": 420,
+            "en": -1,
+            "tamano": 104,
+            "pastilla": true
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "A 11 ESCAÑOS?",
+            "y": 560,
+            "en": -1,
+            "tamano": 104,
+            "pastilla": true
+          },
+          {
+            "tipo": "hemiU",
+            "y": 780,
+            "ancho": 860,
+            "estatico": true,
+            "en": -1,
+            "fases": [
+              {
+                "en": 0,
+                "grupos": [
+                  {
+                    "n": 11,
+                    "color": "#E08A2E"
+                  }
+                ]
+              }
+            ],
+            "cuenta": {
+              "desde": 11,
+              "hasta": 11,
+              "en": 0,
+              "dur": 1,
+              "etiqueta": "UCD",
+              "tam": 120
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.34,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿DEL GOBIERNO A 11 ESCAÑOS?",
+          "y": 335,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "hemiU",
+          "y": 520,
+          "ancho": 860,
+          "estatico": true,
+          "en": -1,
+          "fases": [
+            {
+              "en": 0,
+              "grupos": [
+                {
+                  "n": 168,
+                  "color": "#E08A2E"
+                }
+              ]
+            }
+          ],
+          "cuenta": {
+            "desde": 168,
+            "hasta": 11,
+            "en": 0.5,
+            "dur": 1.55,
+            "etiqueta": "UCD",
+            "apaga": true,
+            "tam": 120
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 3.34,
+      "fin": 5.94,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "28 DE OCTUBRE DE 1982",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "hojaU",
+          "y": 600,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 5.94,
+      "fin": 8.14,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "UCD = UNIÓN DE CENTRO DEMOCRÁTICO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "siglasU",
+          "texto": "UCD",
+          "y": 640,
+          "en": 0.1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Partido del Gobierno en 1982",
+          "y": 960,
+          "en": 0.47,
+          "tamano": 56
+        }
+      ]
+    },
+    {
+      "inicio": 8.14,
+      "fin": 18.02,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1979: 168 DIPUTADOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 2.6799999999999997
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PSOE: 202 DE 350",
+          "y": 335,
+          "en": 2.78,
+          "tamano": 64,
+          "hasta": 7
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Partido Socialista Obrero Español",
+          "y": 420,
+          "en": 3.5700000000000003,
+          "tamano": 48,
+          "hasta": 7
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MAYORÍA ABSOLUTA: 176 (MITAD + 1)",
+          "y": 335,
+          "en": 7.1,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineaU",
+          "y": 560,
+          "en": 0.1,
+          "hitos": [
+            {
+              "x": 190,
+              "texto": "MARZO 1979",
+              "enciende": 0.3,
+              "apaga": 2.6799999999999997
+            },
+            {
+              "x": 500,
+              "texto": "OCT 1982",
+              "enciende": 2.78
+            }
+          ]
+        },
+        {
+          "tipo": "hemiU",
+          "y": 650,
+          "ancho": 720,
+          "en": 0.1,
+          "fases": [
+            {
+              "en": 0,
+              "grupos": [
+                {
+                  "n": 121,
+                  "color": "#D8493E",
+                  "nombre": "PSOE"
+                },
+                {
+                  "n": 168,
+                  "color": "#E08A2E",
+                  "nombre": "UCD"
+                },
+                {
+                  "n": 61,
+                  "color": "#8D99AE",
+                  "nombre": "Otros"
+                }
+              ]
+            },
+            {
+              "en": 2.6799999999999997,
+              "grupos": [
+                {
+                  "n": 202,
+                  "color": "#D8493E",
+                  "nombre": "PSOE"
+                },
+                {
+                  "n": 11,
+                  "color": "#E08A2E",
+                  "nombre": "UCD"
+                },
+                {
+                  "n": 107,
+                  "color": "#3B8EDB",
+                  "nombre": "AP-PDP"
+                },
+                {
+                  "n": 30,
+                  "color": "#8D99AE",
+                  "nombre": "Otros"
+                }
+              ]
+            }
+          ],
+          "cuenta": {
+            "desde": 121,
+            "hasta": 202,
+            "en": 4.45,
+            "dur": 0.85,
+            "etiqueta": "PSOE",
+            "tam": 100,
+            "visibleEn": 4.45
+          },
+          "mayoria": {
+            "en": 8.24,
+            "etiqueta": "+26",
+            "etiquetaEn": 8.92
+          },
+          "yLeyenda": 1010
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Ministerio del Interior"
+          ],
+          "en": 0.1,
+          "hasta": 2.6799999999999997
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "AP-PDP = Alianza Popular–Partido Demócrata Popular",
+            "Fuente: Ministerio del Interior"
+          ],
+          "en": 2.78
+        }
+      ]
+    },
+    {
+      "inicio": 18.02,
+      "fin": 24.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "48 % DE LOS VOTOS VÁLIDOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.11
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "CASI 58 % DE LOS ESCAÑOS",
+          "y": 335,
+          "en": 3.21,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasU",
+          "y": 540,
+          "en": 0.1,
+          "v1": {
+            "etiqueta": "Votos válidos",
+            "valor": 48.1,
+            "texto": "48,1 %",
+            "en": 0.2,
+            "dur": 1.7,
+            "color": "#2A9D8F"
+          },
+          "v2": {
+            "etiqueta": "Escaños",
+            "valor": 57.7,
+            "texto": "57,7 %",
+            "en": 3.32,
+            "dur": 1.8,
+            "color": "#F2B134"
+          }
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "en": 5.319999999999999,
+          "y": 985,
+          "x": 540,
+          "tamano": 110,
+          "reboteMax": 20,
+          "desde": -120
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Ministerio del Interior (escaños: 202 de 350)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 24.62,
+      "fin": 27.07,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "168 → 11",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 130
+        },
+        {
+          "tipo": "hemiU",
+          "y": 520,
+          "ancho": 860,
+          "estatico": true,
+          "en": 0,
+          "fases": [
+            {
+              "en": 0,
+              "grupos": [
+                {
+                  "n": 168,
+                  "color": "#E08A2E"
+                }
+              ]
+            }
+          ],
+          "cuenta": {
+            "desde": 168,
+            "hasta": 11,
+            "en": 1.4700000000000002,
+            "dur": 0.55,
+            "etiqueta": "UCD",
+            "apaga": true,
+            "tam": 120
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 27.07,
+      "fin": 31.4,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "cta": "guardalo",
+          "frase": "¿PODRÍA REPETIRSE HOY?",
+          "tamano": 104,
+          "yFrase": 460,
+          "yGuardalo": 1180,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "014-28-octubre-1982",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "¿Puede",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "t": "el",
+      "inicio": 0.28,
+      "fin": 0.32
+    },
+    {
+      "t": "partido",
+      "inicio": 0.4,
+      "fin": 0.72
+    },
+    {
+      "t": "del",
+      "inicio": 0.8,
+      "fin": 0.88
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 0.96,
+      "fin": 1.36
+    },
+    {
+      "t": "quedarse",
+      "inicio": 1.44,
+      "fin": 1.92
+    },
+    {
+      "t": "en",
+      "inicio": 2,
+      "fin": 2.08
+    },
+    {
+      "t": "once",
+      "inicio": 2.2,
+      "fin": 2.32
+    },
+    {
+      "t": "escaños?",
+      "inicio": 2.4,
+      "fin": 3.2
+    },
+    {
+      "t": "Pasó",
+      "inicio": 3.44,
+      "fin": 3.68
+    },
+    {
+      "t": "el",
+      "inicio": 3.72,
+      "fin": 3.76
+    },
+    {
+      "t": "veintiocho",
+      "inicio": 3.84,
+      "fin": 4.24
+    },
+    {
+      "t": "de",
+      "inicio": 4.32,
+      "fin": 4.36
+    },
+    {
+      "t": "octubre",
+      "inicio": 4.4,
+      "fin": 4.72
+    },
+    {
+      "t": "del",
+      "inicio": 4.8,
+      "fin": 4.88
+    },
+    {
+      "t": "ochenta",
+      "inicio": 4.96,
+      "fin": 5.2
+    },
+    {
+      "t": "y",
+      "inicio": 5.28,
+      "fin": 5.32
+    },
+    {
+      "t": "dos.",
+      "inicio": 5.36,
+      "fin": 6
+    },
+    {
+      "t": "Era",
+      "inicio": 6.04,
+      "fin": 6.24
+    },
+    {
+      "t": "la",
+      "inicio": 6.4,
+      "fin": 6.48
+    },
+    {
+      "t": "UCD.",
+      "inicio": 6.56,
+      "fin": 7.36
+    },
+    {
+      "t": "En",
+      "inicio": 7.6,
+      "fin": 7.68
+    },
+    {
+      "t": "el",
+      "inicio": 7.72,
+      "fin": 7.76
+    },
+    {
+      "t": "setenta",
+      "inicio": 7.84,
+      "fin": 8.08
+    },
+    {
+      "t": "y",
+      "inicio": 8.16,
+      "fin": 8.2
+    },
+    {
+      "t": "nueve",
+      "inicio": 8.24,
+      "fin": 8.4
+    },
+    {
+      "t": "había",
+      "inicio": 8.64,
+      "fin": 8.8
+    },
+    {
+      "t": "ganado",
+      "inicio": 8.88,
+      "fin": 9.2
+    },
+    {
+      "t": "con",
+      "inicio": 9.28,
+      "fin": 9.36
+    },
+    {
+      "t": "ciento",
+      "inicio": 9.44,
+      "fin": 9.68
+    },
+    {
+      "t": "sesenta",
+      "inicio": 9.76,
+      "fin": 10.08
+    },
+    {
+      "t": "y",
+      "inicio": 10.16,
+      "fin": 10.2
+    },
+    {
+      "t": "ocho.",
+      "inicio": 10.24,
+      "fin": 10.88
+    },
+    {
+      "t": "Esa",
+      "inicio": 10.92,
+      "fin": 11.04
+    },
+    {
+      "t": "noche,",
+      "inicio": 11.12,
+      "fin": 11.6
+    },
+    {
+      "t": "el",
+      "inicio": 11.64,
+      "fin": 11.68
+    },
+    {
+      "t": "PSOE",
+      "inicio": 11.76,
+      "fin": 12.16
+    },
+    {
+      "t": "sacó",
+      "inicio": 12.2,
+      "fin": 12.48
+    },
+    {
+      "t": "doscientos",
+      "inicio": 12.64,
+      "fin": 13.2
+    },
+    {
+      "t": "dos",
+      "inicio": 13.28,
+      "fin": 13.44
+    },
+    {
+      "t": "de",
+      "inicio": 13.6,
+      "fin": 13.76
+    },
+    {
+      "t": "trescientos",
+      "inicio": 13.88,
+      "fin": 14.32
+    },
+    {
+      "t": "cincuenta.",
+      "inicio": 14.373,
+      "fin": 15.2
+    },
+    {
+      "t": "La",
+      "inicio": 15.24,
+      "fin": 15.28
+    },
+    {
+      "t": "mayoría",
+      "inicio": 15.36,
+      "fin": 15.6
+    },
+    {
+      "t": "absoluta",
+      "inicio": 15.68,
+      "fin": 16.08
+    },
+    {
+      "t": "es",
+      "inicio": 16.16,
+      "fin": 16.32
+    },
+    {
+      "t": "ciento",
+      "inicio": 16.48,
+      "fin": 16.72
+    },
+    {
+      "t": "setenta",
+      "inicio": 16.88,
+      "fin": 17.2
+    },
+    {
+      "t": "y",
+      "inicio": 17.28,
+      "fin": 17.32
+    },
+    {
+      "t": "seis.",
+      "inicio": 17.36,
+      "fin": 18.08
+    },
+    {
+      "t": "El",
+      "inicio": 18.12,
+      "fin": 18.16
+    },
+    {
+      "t": "PSOE",
+      "inicio": 18.24,
+      "fin": 18.64
+    },
+    {
+      "t": "tuvo",
+      "inicio": 18.72,
+      "fin": 18.88
+    },
+    {
+      "t": "el",
+      "inicio": 18.96,
+      "fin": 19.04
+    },
+    {
+      "t": "cuarenta",
+      "inicio": 19.08,
+      "fin": 19.48
+    },
+    {
+      "t": "y",
+      "inicio": 19.52,
+      "fin": 19.56
+    },
+    {
+      "t": "ocho",
+      "inicio": 19.6,
+      "fin": 19.76
+    },
+    {
+      "t": "por",
+      "inicio": 19.84,
+      "fin": 19.92
+    },
+    {
+      "t": "ciento",
+      "inicio": 20,
+      "fin": 20.24
+    },
+    {
+      "t": "de",
+      "inicio": 20.28,
+      "fin": 20.32
+    },
+    {
+      "t": "los",
+      "inicio": 20.4,
+      "fin": 20.48
+    },
+    {
+      "t": "votos.",
+      "inicio": 20.56,
+      "fin": 21.2
+    },
+    {
+      "t": "Y",
+      "inicio": 21.227,
+      "fin": 21.253
+    },
+    {
+      "t": "se",
+      "inicio": 21.28,
+      "fin": 21.36
+    },
+    {
+      "t": "llevó",
+      "inicio": 21.44,
+      "fin": 21.68
+    },
+    {
+      "t": "casi",
+      "inicio": 21.76,
+      "fin": 22
+    },
+    {
+      "t": "el",
+      "inicio": 22.08,
+      "fin": 22.16
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 22.24,
+      "fin": 22.64
+    },
+    {
+      "t": "y",
+      "inicio": 22.72,
+      "fin": 22.76
+    },
+    {
+      "t": "ocho",
+      "inicio": 22.8,
+      "fin": 22.96
+    },
+    {
+      "t": "por",
+      "inicio": 23.04,
+      "fin": 23.2
+    },
+    {
+      "t": "ciento",
+      "inicio": 23.24,
+      "fin": 23.44
+    },
+    {
+      "t": "de",
+      "inicio": 23.52,
+      "fin": 23.56
+    },
+    {
+      "t": "los",
+      "inicio": 23.6,
+      "fin": 23.68
+    },
+    {
+      "t": "escaños.",
+      "inicio": 23.76,
+      "fin": 24.64
+    },
+    {
+      "t": "De",
+      "inicio": 24.72,
+      "fin": 24.8
+    },
+    {
+      "t": "ciento",
+      "inicio": 24.88,
+      "fin": 25.12
+    },
+    {
+      "t": "sesenta",
+      "inicio": 25.2,
+      "fin": 25.52
+    },
+    {
+      "t": "y",
+      "inicio": 25.6,
+      "fin": 25.68
+    },
+    {
+      "t": "ocho",
+      "inicio": 25.72,
+      "fin": 25.84
+    },
+    {
+      "t": "a",
+      "inicio": 26.24,
+      "fin": 26.32
+    },
+    {
+      "t": "once.",
+      "inicio": 26.4,
+      "fin": 27.12
+    },
+    {
+      "t": "¿Podría",
+      "inicio": 27.173,
+      "fin": 27.44
+    },
+    {
+      "t": "repetirse",
+      "inicio": 27.52,
+      "fin": 28
+    },
+    {
+      "t": "hoy?",
+      "inicio": 28.08,
+      "fin": 28.48
+    }
+  ]
+}

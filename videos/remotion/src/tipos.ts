@@ -33,6 +33,8 @@ export type PiezaProps = {
   marca?: string;
   /** opcional: evita subtítulos con una sola palabra suelta al final de la frase */
   subSinHuerfanas?: boolean;
+  /** opcional: desplaza los subtítulos (px hacia abajo) */
+  subDy?: number;
 };
 
 export const porDefecto: PiezaProps = {

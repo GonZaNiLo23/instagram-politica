@@ -37,6 +37,11 @@ import {REGISTRO_022} from './Leones';
 import {REGISTRO_023} from './Belgica';
 import {REGISTRO_021} from './Senado';
 import {REGISTRO_024} from './Barcelona';
+import {REGISTRO_018} from './Blanco';
+import {REGISTRO_016} from './Mesa';
+import {REGISTRO_014} from './Ucd';
+import {REGISTRO_012} from './Encuestas';
+import {REGISTRO_013} from './Articulo155';
 
 export * from './Gancho';
 export * from './Rotulo';
@@ -108,4 +113,9 @@ export const REGISTRO: Record<string, React.FC<any>> = {
   ...REGISTRO_023,
   ...REGISTRO_021,
   ...REGISTRO_024,
+  ...REGISTRO_018,
+  ...REGISTRO_016,
+  ...REGISTRO_014,
+  ...REGISTRO_012,
+  ...REGISTRO_013,
 };

@@ -1,0 +1,953 @@
+{
+  "palabras": [
+    {
+      "t": "¿Tu",
+      "inicio": 0,
+      "fin": 0.08
+    },
+    {
+      "t": "voto",
+      "inicio": 0.12,
+      "fin": 0.32
+    },
+    {
+      "t": "en",
+      "inicio": 0.36,
+      "fin": 0.4
+    },
+    {
+      "t": "blanco",
+      "inicio": 0.48,
+      "fin": 0.8
+    },
+    {
+      "t": "se",
+      "inicio": 0.88,
+      "fin": 0.96
+    },
+    {
+      "t": "lo",
+      "inicio": 1,
+      "fin": 1.04
+    },
+    {
+      "t": "lleva",
+      "inicio": 1.12,
+      "fin": 1.333
+    },
+    {
+      "t": "el",
+      "inicio": 1.387,
+      "fin": 1.44
+    },
+    {
+      "t": "partido",
+      "inicio": 1.56,
+      "fin": 1.84
+    },
+    {
+      "t": "más",
+      "inicio": 1.92,
+      "fin": 2
+    },
+    {
+      "t": "votado?",
+      "inicio": 2.08,
+      "fin": 2.76
+    },
+    {
+      "t": "No.",
+      "inicio": 3.04,
+      "fin": 3.48
+    },
+    {
+      "t": "Pero",
+      "inicio": 3.68,
+      "fin": 3.92
+    },
+    {
+      "t": "tampoco",
+      "inicio": 4.08,
+      "fin": 4.56
+    },
+    {
+      "t": "es",
+      "inicio": 4.64,
+      "fin": 4.72
+    },
+    {
+      "t": "invisible.",
+      "inicio": 5,
+      "fin": 5.68
+    },
+    {
+      "t": "Votar",
+      "inicio": 5.733,
+      "fin": 5.92
+    },
+    {
+      "t": "en",
+      "inicio": 5.96,
+      "fin": 6
+    },
+    {
+      "t": "blanco",
+      "inicio": 6.08,
+      "fin": 6.4
+    },
+    {
+      "t": "es",
+      "inicio": 6.56,
+      "fin": 6.64
+    },
+    {
+      "t": "meter",
+      "inicio": 6.72,
+      "fin": 6.96
+    },
+    {
+      "t": "el",
+      "inicio": 7,
+      "fin": 7.04
+    },
+    {
+      "t": "sobre",
+      "inicio": 7.12,
+      "fin": 7.36
+    },
+    {
+      "t": "sin",
+      "inicio": 7.44,
+      "fin": 7.6
+    },
+    {
+      "t": "papeleta.",
+      "inicio": 7.68,
+      "fin": 8.48
+    },
+    {
+      "t": "Para",
+      "inicio": 8.56,
+      "fin": 8.64
+    },
+    {
+      "t": "la",
+      "inicio": 8.72,
+      "fin": 8.76
+    },
+    {
+      "t": "ley,",
+      "inicio": 8.8,
+      "fin": 9.2
+    },
+    {
+      "t": "es",
+      "inicio": 9.28,
+      "fin": 9.36
+    },
+    {
+      "t": "un",
+      "inicio": 9.44,
+      "fin": 9.52
+    },
+    {
+      "t": "voto",
+      "inicio": 9.56,
+      "fin": 9.76
+    },
+    {
+      "t": "válido.",
+      "inicio": 9.84,
+      "fin": 10.56
+    },
+    {
+      "t": "El",
+      "inicio": 10.64,
+      "fin": 10.72
+    },
+    {
+      "t": "nulo:",
+      "inicio": 10.8,
+      "fin": 11.36
+    },
+    {
+      "t": "tachar",
+      "inicio": 11.413,
+      "fin": 11.68
+    },
+    {
+      "t": "nombres",
+      "inicio": 11.72,
+      "fin": 12.16
+    },
+    {
+      "t": "o",
+      "inicio": 12.24,
+      "fin": 12.32
+    },
+    {
+      "t": "meter",
+      "inicio": 12.4,
+      "fin": 12.64
+    },
+    {
+      "t": "un",
+      "inicio": 12.68,
+      "fin": 12.72
+    },
+    {
+      "t": "papel",
+      "inicio": 12.8,
+      "fin": 13.04
+    },
+    {
+      "t": "no",
+      "inicio": 13.12,
+      "fin": 13.2
+    },
+    {
+      "t": "oficial,",
+      "inicio": 13.28,
+      "fin": 13.76
+    },
+    {
+      "t": "por",
+      "inicio": 13.8,
+      "fin": 13.84
+    },
+    {
+      "t": "ejemplo.",
+      "inicio": 13.92,
+      "fin": 14.32
+    },
+    {
+      "t": "No",
+      "inicio": 14.64,
+      "fin": 14.72
+    },
+    {
+      "t": "cuenta",
+      "inicio": 14.88,
+      "fin": 15.2
+    },
+    {
+      "t": "como",
+      "inicio": 15.28,
+      "fin": 15.44
+    },
+    {
+      "t": "válido.",
+      "inicio": 15.48,
+      "fin": 16.16
+    },
+    {
+      "t": "Y",
+      "inicio": 16.2,
+      "fin": 16.24
+    },
+    {
+      "t": "abstenerte",
+      "inicio": 16.32,
+      "fin": 16.88
+    },
+    {
+      "t": "es",
+      "inicio": 17.04,
+      "fin": 17.28
+    },
+    {
+      "t": "no",
+      "inicio": 17.52,
+      "fin": 17.68
+    },
+    {
+      "t": "ir",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "t": "a",
+      "inicio": 17.867,
+      "fin": 17.893
+    },
+    {
+      "t": "votar.",
+      "inicio": 17.92,
+      "fin": 18.32
+    },
+    {
+      "t": "¿Y",
+      "inicio": 18.72,
+      "fin": 18.8
+    },
+    {
+      "t": "los",
+      "inicio": 18.88,
+      "fin": 18.96
+    },
+    {
+      "t": "escaños?",
+      "inicio": 19.04,
+      "fin": 19.72
+    },
+    {
+      "t": "El",
+      "inicio": 19.92,
+      "fin": 20
+    },
+    {
+      "t": "blanco",
+      "inicio": 20.08,
+      "fin": 20.48
+    },
+    {
+      "t": "no",
+      "inicio": 20.64,
+      "fin": 20.72
+    },
+    {
+      "t": "suma",
+      "inicio": 20.8,
+      "fin": 21.04
+    },
+    {
+      "t": "a",
+      "inicio": 21.08,
+      "fin": 21.12
+    },
+    {
+      "t": "ningún",
+      "inicio": 21.2,
+      "fin": 21.44
+    },
+    {
+      "t": "partido.",
+      "inicio": 21.52,
+      "fin": 22.24
+    },
+    {
+      "t": "D'Hondt",
+      "inicio": 22.36,
+      "fin": 22.48
+    },
+    {
+      "t": "reparte",
+      "inicio": 22.56,
+      "fin": 22.933
+    },
+    {
+      "t": "escaños",
+      "inicio": 22.987,
+      "fin": 23.36
+    },
+    {
+      "t": "solo",
+      "inicio": 23.44,
+      "fin": 23.68
+    },
+    {
+      "t": "con",
+      "inicio": 23.76,
+      "fin": 23.84
+    },
+    {
+      "t": "los",
+      "inicio": 23.92,
+      "fin": 24
+    },
+    {
+      "t": "votos",
+      "inicio": 24.04,
+      "fin": 24.32
+    },
+    {
+      "t": "de",
+      "inicio": 24.4,
+      "fin": 24.48
+    },
+    {
+      "t": "cada",
+      "inicio": 24.52,
+      "fin": 24.72
+    },
+    {
+      "t": "candidatura.",
+      "inicio": 24.76,
+      "fin": 25.68
+    },
+    {
+      "t": "Pero",
+      "inicio": 25.733,
+      "fin": 25.84
+    },
+    {
+      "t": "antes",
+      "inicio": 26.04,
+      "fin": 26.24
+    },
+    {
+      "t": "hay",
+      "inicio": 26.4,
+      "fin": 26.56
+    },
+    {
+      "t": "una",
+      "inicio": 26.64,
+      "fin": 26.72
+    },
+    {
+      "t": "barrera:",
+      "inicio": 26.76,
+      "fin": 27.36
+    },
+    {
+      "t": "el",
+      "inicio": 27.44,
+      "fin": 27.52
+    },
+    {
+      "t": "tres",
+      "inicio": 27.6,
+      "fin": 27.76
+    },
+    {
+      "t": "por",
+      "inicio": 27.92,
+      "fin": 28.08
+    },
+    {
+      "t": "ciento",
+      "inicio": 28.12,
+      "fin": 28.4
+    },
+    {
+      "t": "de",
+      "inicio": 28.48,
+      "fin": 28.52
+    },
+    {
+      "t": "los",
+      "inicio": 28.56,
+      "fin": 28.64
+    },
+    {
+      "t": "votos",
+      "inicio": 28.72,
+      "fin": 28.96
+    },
+    {
+      "t": "válidos.",
+      "inicio": 29.04,
+      "fin": 29.64
+    },
+    {
+      "t": "Quien",
+      "inicio": 29.76,
+      "fin": 29.92
+    },
+    {
+      "t": "no",
+      "inicio": 29.96,
+      "fin": 30
+    },
+    {
+      "t": "llega",
+      "inicio": 30.08,
+      "fin": 30.267
+    },
+    {
+      "t": "en",
+      "inicio": 30.293,
+      "fin": 30.32
+    },
+    {
+      "t": "su",
+      "inicio": 30.4,
+      "fin": 30.48
+    },
+    {
+      "t": "provincia,",
+      "inicio": 30.56,
+      "fin": 31.12
+    },
+    {
+      "t": "se",
+      "inicio": 31.2,
+      "fin": 31.28
+    },
+    {
+      "t": "queda",
+      "inicio": 31.36,
+      "fin": 31.52
+    },
+    {
+      "t": "fuera",
+      "inicio": 31.6,
+      "fin": 31.84
+    },
+    {
+      "t": "del",
+      "inicio": 31.92,
+      "fin": 32
+    },
+    {
+      "t": "reparto.",
+      "inicio": 32.08,
+      "fin": 32.8
+    },
+    {
+      "t": "Y",
+      "inicio": 32.84,
+      "fin": 32.88
+    },
+    {
+      "t": "ahí",
+      "inicio": 32.96,
+      "fin": 33.12
+    },
+    {
+      "t": "el",
+      "inicio": 33.36,
+      "fin": 33.52
+    },
+    {
+      "t": "blanco",
+      "inicio": 33.6,
+      "fin": 34
+    },
+    {
+      "t": "sí",
+      "inicio": 34.16,
+      "fin": 34.24
+    },
+    {
+      "t": "cuenta.",
+      "inicio": 34.32,
+      "fin": 34.8
+    },
+    {
+      "t": "Imagina",
+      "inicio": 35.12,
+      "fin": 35.6
+    },
+    {
+      "t": "cien",
+      "inicio": 35.68,
+      "fin": 35.84
+    },
+    {
+      "t": "mil",
+      "inicio": 36,
+      "fin": 36.08
+    },
+    {
+      "t": "votos",
+      "inicio": 36.16,
+      "fin": 36.4
+    },
+    {
+      "t": "válidos:",
+      "inicio": 36.48,
+      "fin": 37.12
+    },
+    {
+      "t": "la",
+      "inicio": 37.2,
+      "fin": 37.24
+    },
+    {
+      "t": "barrera",
+      "inicio": 37.28,
+      "fin": 37.68
+    },
+    {
+      "t": "está",
+      "inicio": 37.76,
+      "fin": 38
+    },
+    {
+      "t": "en",
+      "inicio": 38.04,
+      "fin": 38.08
+    },
+    {
+      "t": "tres",
+      "inicio": 38.16,
+      "fin": 38.32
+    },
+    {
+      "t": "mil.",
+      "inicio": 38.4,
+      "fin": 38.88
+    },
+    {
+      "t": "El",
+      "inicio": 38.92,
+      "fin": 38.96
+    },
+    {
+      "t": "partido",
+      "inicio": 39.04,
+      "fin": 39.28
+    },
+    {
+      "t": "Cuadrado",
+      "inicio": 39.36,
+      "fin": 39.76
+    },
+    {
+      "t": "saca",
+      "inicio": 39.84,
+      "fin": 40.08
+    },
+    {
+      "t": "tres",
+      "inicio": 40.16,
+      "fin": 40.32
+    },
+    {
+      "t": "mil",
+      "inicio": 40.4,
+      "fin": 40.48
+    },
+    {
+      "t": "veinte:",
+      "inicio": 40.56,
+      "fin": 41.28
+    },
+    {
+      "t": "entra.",
+      "inicio": 41.4,
+      "fin": 41.92
+    },
+    {
+      "t": "Ahora",
+      "inicio": 42,
+      "fin": 42.24
+    },
+    {
+      "t": "suma",
+      "inicio": 42.32,
+      "fin": 42.56
+    },
+    {
+      "t": "mil",
+      "inicio": 42.72,
+      "fin": 42.88
+    },
+    {
+      "t": "votos",
+      "inicio": 42.96,
+      "fin": 43.2
+    },
+    {
+      "t": "en",
+      "inicio": 43.28,
+      "fin": 43.32
+    },
+    {
+      "t": "blanco.",
+      "inicio": 43.36,
+      "fin": 44
+    },
+    {
+      "t": "Con",
+      "inicio": 44.08,
+      "fin": 44.16
+    },
+    {
+      "t": "ciento",
+      "inicio": 44.24,
+      "fin": 44.48
+    },
+    {
+      "t": "un",
+      "inicio": 44.56,
+      "fin": 44.64
+    },
+    {
+      "t": "mil",
+      "inicio": 44.72,
+      "fin": 44.8
+    },
+    {
+      "t": "válidos,",
+      "inicio": 44.88,
+      "fin": 45.44
+    },
+    {
+      "t": "la",
+      "inicio": 45.52,
+      "fin": 45.56
+    },
+    {
+      "t": "barrera",
+      "inicio": 45.6,
+      "fin": 45.92
+    },
+    {
+      "t": "sube",
+      "inicio": 46,
+      "fin": 46.2
+    },
+    {
+      "t": "a",
+      "inicio": 46.24,
+      "fin": 46.32
+    },
+    {
+      "t": "tres",
+      "inicio": 46.4,
+      "fin": 46.48
+    },
+    {
+      "t": "mil",
+      "inicio": 46.64,
+      "fin": 46.72
+    },
+    {
+      "t": "treinta.",
+      "inicio": 46.8,
+      "fin": 47.44
+    },
+    {
+      "t": "Cuadrado",
+      "inicio": 47.48,
+      "fin": 47.92
+    },
+    {
+      "t": "se",
+      "inicio": 48,
+      "fin": 48.08
+    },
+    {
+      "t": "queda",
+      "inicio": 48.16,
+      "fin": 48.32
+    },
+    {
+      "t": "fuera",
+      "inicio": 48.4,
+      "fin": 48.64
+    },
+    {
+      "t": "por",
+      "inicio": 48.72,
+      "fin": 48.88
+    },
+    {
+      "t": "diez",
+      "inicio": 48.96,
+      "fin": 49.16
+    },
+    {
+      "t": "votos.",
+      "inicio": 49.2,
+      "fin": 49.92
+    },
+    {
+      "t": "Con",
+      "inicio": 49.96,
+      "fin": 50
+    },
+    {
+      "t": "mil",
+      "inicio": 50.08,
+      "fin": 50.24
+    },
+    {
+      "t": "nulos",
+      "inicio": 50.32,
+      "fin": 50.64
+    },
+    {
+      "t": "o",
+      "inicio": 50.8,
+      "fin": 50.84
+    },
+    {
+      "t": "mil",
+      "inicio": 50.88,
+      "fin": 51.04
+    },
+    {
+      "t": "abstenciones,",
+      "inicio": 51.12,
+      "fin": 52
+    },
+    {
+      "t": "no:",
+      "inicio": 52.16,
+      "fin": 52.56
+    },
+    {
+      "t": "la",
+      "inicio": 52.6,
+      "fin": 52.64
+    },
+    {
+      "t": "barrera",
+      "inicio": 52.72,
+      "fin": 53.12
+    },
+    {
+      "t": "no",
+      "inicio": 53.28,
+      "fin": 53.36
+    },
+    {
+      "t": "se",
+      "inicio": 53.44,
+      "fin": 53.52
+    },
+    {
+      "t": "mueve.",
+      "inicio": 53.6,
+      "fin": 54.16
+    },
+    {
+      "t": "Eso",
+      "inicio": 54.2,
+      "fin": 54.32
+    },
+    {
+      "t": "sí:",
+      "inicio": 54.4,
+      "fin": 54.8
+    },
+    {
+      "t": "solo",
+      "inicio": 54.84,
+      "fin": 55.04
+    },
+    {
+      "t": "cambia",
+      "inicio": 55.12,
+      "fin": 55.36
+    },
+    {
+      "t": "algo",
+      "inicio": 55.44,
+      "fin": 55.68
+    },
+    {
+      "t": "si",
+      "inicio": 55.76,
+      "fin": 55.92
+    },
+    {
+      "t": "un",
+      "inicio": 55.96,
+      "fin": 56
+    },
+    {
+      "t": "partido",
+      "inicio": 56.16,
+      "fin": 56.56
+    },
+    {
+      "t": "roza",
+      "inicio": 56.64,
+      "fin": 56.88
+    },
+    {
+      "t": "la",
+      "inicio": 56.96,
+      "fin": 57
+    },
+    {
+      "t": "barrera.",
+      "inicio": 57.04,
+      "fin": 57.76
+    },
+    {
+      "t": "¿Se",
+      "inicio": 57.787,
+      "fin": 57.84
+    },
+    {
+      "t": "lo",
+      "inicio": 57.92,
+      "fin": 58
+    },
+    {
+      "t": "lleva",
+      "inicio": 58.053,
+      "fin": 58.187
+    },
+    {
+      "t": "el",
+      "inicio": 58.213,
+      "fin": 58.24
+    },
+    {
+      "t": "más",
+      "inicio": 58.32,
+      "fin": 58.4
+    },
+    {
+      "t": "votado?",
+      "inicio": 58.44,
+      "fin": 59.2
+    },
+    {
+      "t": "No.",
+      "inicio": 59.36,
+      "fin": 59.68
+    },
+    {
+      "t": "Pero",
+      "inicio": 59.84,
+      "fin": 60.08
+    },
+    {
+      "t": "tampoco",
+      "inicio": 60.24,
+      "fin": 60.72
+    },
+    {
+      "t": "es",
+      "inicio": 60.8,
+      "fin": 60.88
+    },
+    {
+      "t": "invisible.",
+      "inicio": 61.16,
+      "fin": 61.76
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 61.8,
+      "fin": 61.92
+    },
+    {
+      "t": "sabías?",
+      "inicio": 61.96,
+      "fin": 62.72
+    },
+    {
+      "t": "Te",
+      "inicio": 62.76,
+      "fin": 62.8
+    },
+    {
+      "t": "leemos",
+      "inicio": 62.88,
+      "fin": 63.2
+    },
+    {
+      "t": "en",
+      "inicio": 63.28,
+      "fin": 63.36
+    },
+    {
+      "t": "comentarios.",
+      "inicio": 63.4,
+      "fin": 64.32
+    }
+  ],
+  "duracion": 64.24,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE"
+}

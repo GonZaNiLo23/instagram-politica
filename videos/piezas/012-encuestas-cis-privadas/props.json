@@ -1,0 +1,2553 @@
+{
+  "plantilla": "estandar",
+  "duracion": 87.02,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "¿POR QUÉ NO COINCIDEN LAS ENCUESTAS?",
+            "y": 380,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "barrasE",
+            "filas": [
+              {
+                "etiqueta": "",
+                "valor": 55,
+                "texto": "",
+                "color": "#14213D",
+                "y": 900,
+                "en": -9
+              },
+              {
+                "etiqueta": "",
+                "valor": 38,
+                "texto": "",
+                "color": "#8D99AE",
+                "y": 975,
+                "en": -9
+              },
+              {
+                "etiqueta": "",
+                "valor": 22,
+                "texto": "",
+                "color": "#14213D",
+                "y": 1050,
+                "en": -9
+              }
+            ],
+            "x0": 70,
+            "col": 0,
+            "escala": 7,
+            "eje": true,
+            "en": -1
+          },
+          {
+            "tipo": "barrasE",
+            "filas": [
+              {
+                "etiqueta": "",
+                "valor": 22,
+                "texto": "",
+                "color": "#14213D",
+                "y": 900,
+                "en": -9
+              },
+              {
+                "etiqueta": "",
+                "valor": 38,
+                "texto": "",
+                "color": "#8D99AE",
+                "y": 975,
+                "en": -9
+              },
+              {
+                "etiqueta": "",
+                "valor": 55,
+                "texto": "",
+                "color": "#14213D",
+                "y": 1050,
+                "en": -9
+              }
+            ],
+            "x0": 560,
+            "col": 0,
+            "escala": 7,
+            "eje": true,
+            "en": -1
+          },
+          {
+            "tipo": "recorte",
+            "src": "olla.png",
+            "x": 540,
+            "y": 1290,
+            "ancho": 440,
+            "giro": -3,
+            "desde": "escala",
+            "flota": false,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.74,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CIS: PSOE +11,8 PUNTOS",
+          "y": 335,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Ventaja en estimación de voto · CIS, barómetro de octubre 2026"
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "balanzaE",
+          "x": 290,
+          "y": 800,
+          "baja": "izq",
+          "izq": "PSOE",
+          "der": "PP",
+          "inclinaEn": 0,
+          "en": -1,
+          "seco": true
+        }
+      ]
+    },
+    {
+      "inicio": 3.74,
+      "fin": 5.54,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PRIVADAS: PP PRIMERO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Encuestas privadas de octubre · según Euronews, 14-10-2026"
+          ],
+          "en": 0.05
+        },
+        {
+          "tipo": "balanzaE",
+          "x": 290,
+          "y": 800,
+          "baja": "izq",
+          "izq": "PSOE",
+          "der": "PP",
+          "inclinaEn": -1,
+          "en": 0,
+          "seco": true
+        },
+        {
+          "tipo": "balanzaE",
+          "x": 760,
+          "y": 800,
+          "baja": "der",
+          "izq": "PSOE",
+          "der": "PP",
+          "inclinaEn": 0.05,
+          "en": 0,
+          "seco": true
+        }
+      ]
+    },
+    {
+      "inicio": 5.54,
+      "fin": 6.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿QUIÉN TIENE RAZÓN?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "balanzaE",
+          "x": 290,
+          "y": 800,
+          "baja": "izq",
+          "izq": "PSOE",
+          "der": "PP",
+          "inclinaEn": -1,
+          "en": 0,
+          "seco": true
+        },
+        {
+          "tipo": "balanzaE",
+          "x": 760,
+          "y": 800,
+          "baja": "der",
+          "izq": "PSOE",
+          "der": "PP",
+          "inclinaEn": -1,
+          "en": 0,
+          "seco": true
+        },
+        {
+          "tipo": "cifraGrande",
+          "texto": "?",
+          "x": 540,
+          "y": 640,
+          "tamano": 230,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 6.9,
+      "fin": 8.74,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CIS octubre: PSOE 34 %",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F1c.jpg",
+          "x": 500,
+          "y": 790,
+          "ancho": 880,
+          "alto": 480,
+          "foco": "50% 40%",
+          "zoom": [
+            1,
+            1.12
+          ],
+          "dur": 2.34,
+          "en": 0.1,
+          "hasta": 1.82
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Luis García (Zaqarbal) · CC BY-SA 3.0 es · Wikimedia Commons (recorte)"
+          ],
+          "en": 0.1,
+          "y": 1040,
+          "hasta": 1.82
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "CIS = Centro de Investigaciones Sociológicas, organismo público · estudio 3582 · campo 1–6 oct · estimación, % sobre voto válido"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 8.74,
+      "fin": 11.1,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CIS octubre: PSOE 34 %",
+          "y": 335,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F1c.jpg",
+          "x": 230,
+          "y": 900,
+          "ancho": 340,
+          "alto": 185,
+          "foco": "50% 40%",
+          "zoom": [
+            1,
+            1
+          ],
+          "dur": 1,
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Luis García (Zaqarbal) · CC BY-SA 3.0 es · Wikimedia Commons (recorte)"
+          ],
+          "en": -1,
+          "y": 1010
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "CIS = Centro de Investigaciones Sociológicas, organismo público · estudio 3582 · campo 1–6 oct · estimación, % sobre voto válido"
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "barrasE",
+          "filas": [
+            {
+              "etiqueta": "PSOE",
+              "valor": 34,
+              "texto": "34 %",
+              "color": "#D8493E",
+              "y": 540,
+              "en": 0.19999999999999998,
+              "dur": 0.9
+            }
+          ],
+          "en": 0
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 720,
+          "y": 690,
+          "tamano": 90,
+          "angulo": 4,
+          "desde": -170,
+          "en": 1.34
+        }
+      ]
+    },
+    {
+      "inicio": 11.1,
+      "fin": 13.88,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PP 22,2 %",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: CIS, estudio 3582"
+          ],
+          "en": 0.05
+        },
+        {
+          "tipo": "barrasE",
+          "filas": [
+            {
+              "etiqueta": "PSOE",
+              "valor": 34,
+              "texto": "34 %",
+              "color": "#D8493E",
+              "y": 540,
+              "en": -5
+            },
+            {
+              "etiqueta": "PP",
+              "valor": 22.2,
+              "texto": "22,2 %",
+              "color": "#3B8EDB",
+              "y": 640,
+              "en": 0.15,
+              "dur": 0.8
+            }
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "Privadas de octubre (40dB, GAD3…): PP primero",
+          "x": 210,
+          "ancho": 750,
+          "y": 790,
+          "alto": 250,
+          "icono": false,
+          "entra": "abajo",
+          "en": 0.45
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Según Euronews, 14-10-2026"
+          ],
+          "en": 0.45,
+          "y": 1060
+        }
+      ]
+    },
+    {
+      "inicio": 13.88,
+      "fin": 18.2,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PP: el CIS ha perdido credibilidad",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "Juan Bravo, vicesecretario del PP",
+          "y": 560,
+          "entra": "izq",
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Juan Bravo, vicesecretario del PP · 14-10-2026 · según Artículo14"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 18.2,
+      "fin": 21.64,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CIS: teléfonos al azar + cuotas",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "Juan Bravo, vicesecretario del PP",
+          "y": 560,
+          "entra": "izq",
+          "en": -1
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "Centro de Investigaciones Sociológicas",
+          "y": 860,
+          "entra": "der",
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Ficha técnica del CIS, estudio 3582: teléfonos al azar y cuotas de sexo y edad"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 21.64,
+      "fin": 25.16,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2 PASOS · 1: PREGUNTAR",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pasosE",
+          "y": 620,
+          "enc1": 2.12,
+          "en": 0.1
+        },
+        {
+          "tipo": "personasE",
+          "n": 36,
+          "cols": 12,
+          "y": 720,
+          "tam": 60,
+          "paso": 70,
+          "aparece": {
+            "en": 2.64,
+            "dur": 1.2
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 25.16,
+      "fin": 28.8,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CIS: más de 5.000 entrevistas",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pasosE",
+          "y": 620,
+          "enc1": -1,
+          "en": -1
+        },
+        {
+          "tipo": "personasE",
+          "n": 36,
+          "cols": 12,
+          "y": 720,
+          "tam": 60,
+          "paso": 70,
+          "aparece": {
+            "en": -9,
+            "dur": 1
+          }
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 5024,
+          "en": 0.2,
+          "espera": 0.37999999999999995,
+          "dur": 2.4,
+          "etiqueta": "entrevistas",
+          "y": 905,
+          "tamano": 100
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "5.024 entrevistas (datos definitivos, 20-10) · teléfono (CATI), 1–6 oct · error ±1,4 % · CIS, estudio 3582"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 28.8,
+      "fin": 31.04,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VOTO DIRECTO = lo que contestan",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pasosE",
+          "y": 620,
+          "enc1": -1,
+          "en": -1
+        },
+        {
+          "tipo": "personasE",
+          "n": 36,
+          "cols": 12,
+          "y": 720,
+          "tam": 60,
+          "paso": 70,
+          "aparece": {
+            "en": -9,
+            "dur": 1
+          },
+          "burbujas": {
+            "en": 0.19999999999999998
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 31.04,
+      "fin": 35.52,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Voto directo CIS: PSOE 25,3 · PP 14,7",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "% sobre todos los entrevistados · CIS, estudio 3582, pregunta 17"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "barrasE",
+          "filas": [
+            {
+              "etiqueta": "PSOE",
+              "valor": 25.3,
+              "texto": "25,3 %",
+              "color": "#D8493E",
+              "y": 560,
+              "en": 0.88
+            },
+            {
+              "etiqueta": "PP",
+              "valor": 14.7,
+              "texto": "14,7 %",
+              "color": "#3B8EDB",
+              "y": 660,
+              "en": 3.08
+            }
+          ],
+          "en": 0
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 640,
+          "y": 820,
+          "tamano": 100,
+          "angulo": 4,
+          "desde": -170,
+          "en": 1.62
+        }
+      ]
+    },
+    {
+      "inicio": 35.52,
+      "fin": 39.08,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "17 de cada 100: \"no sabe todavía\"",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "17,3 % · CIS, estudio 3582, pregunta 17"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "personasE",
+          "n": 100,
+          "cols": 20,
+          "y": 760,
+          "tam": 38,
+          "paso": 42,
+          "aparece": {
+            "en": 0.1,
+            "dur": 0.9
+          },
+          "grises": {
+            "n": 17,
+            "en": 0.16
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 39.08,
+      "fin": 43,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2: ESTIMAR (la \"cocina\")",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pasosE",
+          "y": 600,
+          "enc1": -1,
+          "enc2": 0.1,
+          "en": -1
+        },
+        {
+          "tipo": "recorte",
+          "src": "olla.png",
+          "x": 540,
+          "y": 960,
+          "ancho": 600,
+          "giro": -2,
+          "desde": "abajo",
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons (recorte)"
+          ],
+          "en": 0.3
+        },
+        {
+          "tipo": "lluviaOllaE",
+          "xOlla": 540,
+          "yOlla": 790,
+          "items": [
+            {
+              "tipo": "barras",
+              "x": 330,
+              "en": 0.9
+            },
+            {
+              "tipo": "interro",
+              "x": 760,
+              "en": 1.25
+            },
+            {
+              "tipo": "interro",
+              "x": 450,
+              "en": 1.6
+            },
+            {
+              "tipo": "barras",
+              "x": 700,
+              "en": 1.95
+            },
+            {
+              "tipo": "interro",
+              "x": 360,
+              "en": 2.3
+            },
+            {
+              "tipo": "interro",
+              "x": 640,
+              "en": 2.65
+            }
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 43,
+      "fin": 46.2,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Quién vota? ¿Qué harán los indecisos?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "CIS: modelo propio «de escenarios»",
+            "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons (recorte)"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "pasosE",
+          "y": 612,
+          "enc1": -1,
+          "enc2": -1,
+          "en": -1
+        },
+        {
+          "tipo": "recorte",
+          "src": "olla.png",
+          "x": 830,
+          "y": 612,
+          "ancho": 170,
+          "giro": 0,
+          "desde": "escala",
+          "flota": false,
+          "contorno": 6,
+          "en": -1
+        },
+        {
+          "tipo": "repartoE",
+          "y": 850,
+          "repartoEn": 0.9,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 46.2,
+      "fin": 50.28,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO · mismos ingredientes, dos platos",
+          "y": 335,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "ejemploE",
+          "y": 690,
+          "yPlatos": 985,
+          "xs": [
+            290,
+            770
+          ],
+          "enT": 0.2,
+          "platosEn": 2.4,
+          "en": -1
+        },
+        {
+          "tipo": "foto",
+          "src": "paella0.jpg",
+          "forma": "circulo",
+          "x": 290,
+          "y": 985,
+          "alto": 340,
+          "foco": "50% 50%",
+          "zoom": [
+            1,
+            1.1
+          ],
+          "dur": 2,
+          "en": 2.4
+        },
+        {
+          "tipo": "foto",
+          "src": "paella1.jpg",
+          "forma": "circulo",
+          "x": 770,
+          "y": 985,
+          "alto": 340,
+          "foco": "50% 52%",
+          "zoom": [
+            1,
+            1.1
+          ],
+          "dur": 2,
+          "en": 2.55
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fotos: Jebulon (CC0) y RecoveryMinded (dominio público) · Wikimedia Commons"
+          ],
+          "en": 2.4
+        }
+      ]
+    },
+    {
+      "inicio": 50.28,
+      "fin": 52.08,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "RECUERDO DE VOTO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioE",
+          "texto": "2023",
+          "x": 540,
+          "y": 850,
+          "ancho": 420,
+          "luzEn": 0.7,
+          "oscuro": true,
+          "en": 0.15
+        }
+      ]
+    },
+    {
+      "inicio": 52.08,
+      "fin": 54.56,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Qué votaste en 2023?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "personasE",
+          "n": 3,
+          "cols": 3,
+          "y": 820,
+          "tam": 150,
+          "paso": 250,
+          "x0": 210,
+          "aparece": {
+            "en": 0.1,
+            "dur": 0.6
+          },
+          "burbujas": {
+            "en": 0.44000000000000006,
+            "texto": "2023"
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 54.56,
+      "fin": 59.4,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Muestra CIS: PSOE 38,2 · PP 19,5",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Recuerdo de voto 2023 · % sobre entrevistados que dicen haber votado · CIS, estudio 3582, pregunta 24a"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "barrasE",
+          "filas": [
+            {
+              "cab": "Lo que dice la muestra",
+              "y": 500,
+              "en": 0.05
+            },
+            {
+              "etiqueta": "PSOE",
+              "valor": 38.2,
+              "texto": "38,2 %",
+              "color": "#D8493E",
+              "y": 585,
+              "en": 1.2799999999999998
+            },
+            {
+              "etiqueta": "PP",
+              "valor": 19.5,
+              "texto": "19,5 %",
+              "color": "#3B8EDB",
+              "y": 663,
+              "en": 2.88
+            }
+          ],
+          "en": 0
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 700,
+          "y": 745,
+          "tamano": 80,
+          "angulo": 4,
+          "desde": -170,
+          "en": 1.98
+        }
+      ]
+    },
+    {
+      "inicio": 59.4,
+      "fin": 62.39,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Urnas 2023: PP 33,1 %",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Generales 23-7-2023 · % sobre votos válidos · Ministerio del Interior"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "barrasE",
+          "filas": [
+            {
+              "cab": "Lo que dice la muestra",
+              "y": 500,
+              "en": -5
+            },
+            {
+              "etiqueta": "PSOE",
+              "valor": 38.2,
+              "texto": "38,2 %",
+              "color": "#D8493E",
+              "y": 585,
+              "en": -5
+            },
+            {
+              "etiqueta": "PP",
+              "valor": 19.5,
+              "texto": "19,5 %",
+              "color": "#3B8EDB",
+              "y": 663,
+              "en": -5
+            }
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "barrasE",
+          "filas": [
+            {
+              "cab": "Lo que salió en las urnas",
+              "y": 880,
+              "en": 0.05
+            },
+            {
+              "etiqueta": "PP",
+              "valor": 33.1,
+              "texto": "33,1 %",
+              "color": "#3B8EDB",
+              "y": 965,
+              "en": 1.0399999999999998
+            }
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 62.39,
+      "fin": 64.72,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PSOE 31,7 %",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Bases distintas: entrevistados que votaron frente a votos válidos"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "barrasE",
+          "filas": [
+            {
+              "cab": "Lo que dice la muestra",
+              "y": 500,
+              "en": -5
+            },
+            {
+              "etiqueta": "PSOE",
+              "valor": 38.2,
+              "texto": "38,2 %",
+              "color": "#D8493E",
+              "y": 585,
+              "en": -5
+            },
+            {
+              "etiqueta": "PP",
+              "valor": 19.5,
+              "texto": "19,5 %",
+              "color": "#3B8EDB",
+              "y": 663,
+              "en": -5
+            }
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "barrasE",
+          "filas": [
+            {
+              "cab": "Lo que salió en las urnas",
+              "y": 880,
+              "en": 0.05
+            },
+            {
+              "etiqueta": "PP",
+              "valor": 33.1,
+              "texto": "33,1 %",
+              "color": "#3B8EDB",
+              "y": 965,
+              "en": -5
+            },
+            {
+              "etiqueta": "PSOE",
+              "valor": 31.7,
+              "texto": "31,7 %",
+              "color": "#D8493E",
+              "y": 1043,
+              "en": 0.13
+            }
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 700,
+          "y": 745,
+          "tamano": 80,
+          "angulo": 4,
+          "desde": -170,
+          "en": 1.27
+        }
+      ]
+    },
+    {
+      "inicio": 64.72,
+      "fin": 68.39,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Cómo se corrige: lo decide cada casa",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasE",
+          "filas": [
+            {
+              "cab": "Lo que dice la muestra",
+              "y": 500,
+              "en": -5
+            },
+            {
+              "etiqueta": "PSOE",
+              "valor": 38.2,
+              "texto": "38,2 %",
+              "color": "#D8493E",
+              "y": 585,
+              "en": -5
+            },
+            {
+              "etiqueta": "PP",
+              "valor": 19.5,
+              "texto": "19,5 %",
+              "color": "#3B8EDB",
+              "y": 663,
+              "en": -5
+            }
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "barrasE",
+          "filas": [
+            {
+              "cab": "Lo que salió en las urnas",
+              "y": 880,
+              "en": 0.05
+            },
+            {
+              "etiqueta": "PP",
+              "valor": 33.1,
+              "texto": "33,1 %",
+              "color": "#3B8EDB",
+              "y": 965,
+              "en": -5
+            },
+            {
+              "etiqueta": "PSOE",
+              "valor": 31.7,
+              "texto": "31,7 %",
+              "color": "#D8493E",
+              "y": 1043,
+              "en": -5
+            }
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "recorte",
+          "src": "olla.png",
+          "x": 290,
+          "y": 818,
+          "ancho": 190,
+          "giro": -2,
+          "desde": "escala",
+          "flota": false,
+          "contorno": 7,
+          "en": 0.15
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons (recorte)"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "llaveE",
+          "x": 600,
+          "y": 822,
+          "tam": 120,
+          "en": 2.1999999999999997
+        }
+      ]
+    },
+    {
+      "inicio": 68.39,
+      "fin": 72.36,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CIS: datos en abierto para recalcular",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "«…cualquiera puede aplicar sus propios modelos» · nota metodológica, estudio 3582",
+            "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons (recorte)"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "carpetaE",
+          "x": 540,
+          "y": 640,
+          "abreEn": 1.03,
+          "xs": [
+            180,
+            500,
+            820
+          ],
+          "yOllas": 1020,
+          "en": 0.1
+        },
+        {
+          "tipo": "recorte",
+          "src": "olla.png",
+          "x": 180,
+          "y": 1020,
+          "ancho": 230,
+          "giro": -3,
+          "desde": "abajo",
+          "flota": false,
+          "contorno": 7,
+          "en": 0.3
+        },
+        {
+          "tipo": "recorte",
+          "src": "olla.png",
+          "x": 500,
+          "y": 1020,
+          "ancho": 230,
+          "giro": 2,
+          "desde": "abajo",
+          "flota": false,
+          "contorno": 7,
+          "en": 0.45
+        },
+        {
+          "tipo": "recorte",
+          "src": "olla.png",
+          "x": 820,
+          "y": 1020,
+          "ancho": 230,
+          "giro": -2,
+          "desde": "abajo",
+          "flota": false,
+          "contorno": 7,
+          "en": 0.6
+        }
+      ]
+    },
+    {
+      "inicio": 72.36,
+      "fin": 75.91,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "FOTO + RECETA ≠ RESULTADO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "El CIS avisa: su estimación «no posee intención prospectiva» (no es predicción)",
+            "Fotos: Jacek Halicki (cámara) y Matti Blume (olla) · CC BY-SA 4.0 · Wikimedia Commons (recorte)"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "recorte",
+          "src": "camara.png",
+          "x": 280,
+          "y": 700,
+          "ancho": 270,
+          "giro": -3,
+          "desde": "izquierda",
+          "flota": false,
+          "contorno": 8,
+          "en": 0.1
+        },
+        {
+          "tipo": "recorte",
+          "src": "olla.png",
+          "x": 790,
+          "y": 700,
+          "ancho": 300,
+          "giro": 2,
+          "desde": "derecha",
+          "flota": false,
+          "contorno": 8,
+          "en": 0.25
+        },
+        {
+          "tipo": "polaroidE",
+          "x": 560,
+          "y": 960,
+          "xFlash": 280,
+          "yFlash": 715,
+          "clicEn": 1.0399999999999998,
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 75.91,
+      "fin": 79.76,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿QUIÉN TIENE RAZÓN? → 29-N",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Elecciones generales convocadas: RD 806/2026 · encuestas publicables hasta el 23-11"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "balanzaE",
+          "x": 290,
+          "y": 860,
+          "baja": "izq",
+          "izq": "PSOE",
+          "der": "PP",
+          "inclinaEn": -1,
+          "en": -1,
+          "seco": true
+        },
+        {
+          "tipo": "balanzaE",
+          "x": 760,
+          "y": 860,
+          "baja": "der",
+          "izq": "PSOE",
+          "der": "PP",
+          "inclinaEn": -1,
+          "en": -1,
+          "seco": true
+        },
+        {
+          "tipo": "calendarioE",
+          "texto": "29 NOV",
+          "x": 540,
+          "y": 640,
+          "ancho": 330,
+          "luzEn": 2.29,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 79.76,
+      "fin": 87.02,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿CIS O PRIVADAS?",
+          "tamano": 104,
+          "pulso": true,
+          "yFrase": 560
+        },
+        {
+          "tipo": "lupaFichaE",
+          "x": 540,
+          "y": 1010,
+          "en": 0.3
+        }
+      ]
+    }
+  ],
+  "id": "012-encuestas-cis-privadas",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "El",
+      "inicio": 0,
+      "fin": 0.12
+    },
+    {
+      "t": "CIS",
+      "inicio": 0.16,
+      "fin": 0.36
+    },
+    {
+      "t": "pone",
+      "inicio": 0.48,
+      "fin": 0.74
+    },
+    {
+      "t": "al",
+      "inicio": 0.8,
+      "fin": 0.86
+    },
+    {
+      "t": "PSOE",
+      "inicio": 0.88,
+      "fin": 1.36
+    },
+    {
+      "t": "casi",
+      "inicio": 1.52,
+      "fin": 1.867
+    },
+    {
+      "t": "doce",
+      "inicio": 1.92,
+      "fin": 2.24
+    },
+    {
+      "t": "puntos",
+      "inicio": 2.4,
+      "fin": 2.72
+    },
+    {
+      "t": "por",
+      "inicio": 2.8,
+      "fin": 2.88
+    },
+    {
+      "t": "delante.",
+      "inicio": 2.96,
+      "fin": 3.76
+    },
+    {
+      "t": "Las",
+      "inicio": 3.84,
+      "fin": 3.92
+    },
+    {
+      "t": "privadas,",
+      "inicio": 4,
+      "fin": 4.64
+    },
+    {
+      "t": "al",
+      "inicio": 4.72,
+      "fin": 4.8
+    },
+    {
+      "t": "PP.",
+      "inicio": 4.88,
+      "fin": 5.6
+    },
+    {
+      "t": "¿Quién",
+      "inicio": 5.64,
+      "fin": 5.8
+    },
+    {
+      "t": "tiene",
+      "inicio": 5.84,
+      "fin": 6
+    },
+    {
+      "t": "razón?",
+      "inicio": 6.08,
+      "fin": 6.96
+    },
+    {
+      "t": "En",
+      "inicio": 7,
+      "fin": 7.04
+    },
+    {
+      "t": "el",
+      "inicio": 7.12,
+      "fin": 7.16
+    },
+    {
+      "t": "barómetro",
+      "inicio": 7.2,
+      "fin": 7.6
+    },
+    {
+      "t": "de",
+      "inicio": 7.68,
+      "fin": 7.72
+    },
+    {
+      "t": "octubre",
+      "inicio": 7.76,
+      "fin": 8.08
+    },
+    {
+      "t": "del",
+      "inicio": 8.16,
+      "fin": 8.24
+    },
+    {
+      "t": "CIS,",
+      "inicio": 8.32,
+      "fin": 8.8
+    },
+    {
+      "t": "el",
+      "inicio": 8.84,
+      "fin": 8.88
+    },
+    {
+      "t": "PSOE",
+      "inicio": 9.04,
+      "fin": 9.52
+    },
+    {
+      "t": "saca",
+      "inicio": 9.56,
+      "fin": 9.84
+    },
+    {
+      "t": "un",
+      "inicio": 9.92,
+      "fin": 10
+    },
+    {
+      "t": "treinta",
+      "inicio": 10.08,
+      "fin": 10.32
+    },
+    {
+      "t": "y",
+      "inicio": 10.4,
+      "fin": 10.48
+    },
+    {
+      "t": "cuatro.",
+      "inicio": 10.52,
+      "fin": 11.12
+    },
+    {
+      "t": "Y",
+      "inicio": 11.2,
+      "fin": 11.24
+    },
+    {
+      "t": "el",
+      "inicio": 11.28,
+      "fin": 11.32
+    },
+    {
+      "t": "PP,",
+      "inicio": 11.36,
+      "fin": 11.92
+    },
+    {
+      "t": "un",
+      "inicio": 12,
+      "fin": 12.08
+    },
+    {
+      "t": "veintidós.",
+      "inicio": 12.16,
+      "fin": 13.2
+    },
+    {
+      "t": "El",
+      "inicio": 13.98,
+      "fin": 14.06
+    },
+    {
+      "t": "PP",
+      "inicio": 14.1,
+      "fin": 14.38
+    },
+    {
+      "t": "dice",
+      "inicio": 14.46,
+      "fin": 14.7
+    },
+    {
+      "t": "que",
+      "inicio": 14.78,
+      "fin": 14.82
+    },
+    {
+      "t": "el",
+      "inicio": 14.86,
+      "fin": 14.94
+    },
+    {
+      "t": "CIS",
+      "inicio": 15.02,
+      "fin": 15.26
+    },
+    {
+      "t": "ha",
+      "inicio": 15.34,
+      "fin": 15.42
+    },
+    {
+      "t": "perdido",
+      "inicio": 15.5,
+      "fin": 15.82
+    },
+    {
+      "t": "credibilidad",
+      "inicio": 15.9,
+      "fin": 16.62
+    },
+    {
+      "t": "y",
+      "inicio": 16.7,
+      "fin": 16.78
+    },
+    {
+      "t": "favorece",
+      "inicio": 16.86,
+      "fin": 17.26
+    },
+    {
+      "t": "al",
+      "inicio": 17.34,
+      "fin": 17.42
+    },
+    {
+      "t": "Gobierno.",
+      "inicio": 17.58,
+      "fin": 18.22
+    },
+    {
+      "t": "Según",
+      "inicio": 18.3,
+      "fin": 18.46
+    },
+    {
+      "t": "su",
+      "inicio": 18.54,
+      "fin": 18.62
+    },
+    {
+      "t": "ficha,",
+      "inicio": 18.66,
+      "fin": 19.1
+    },
+    {
+      "t": "el",
+      "inicio": 19.18,
+      "fin": 19.26
+    },
+    {
+      "t": "CIS",
+      "inicio": 19.34,
+      "fin": 19.58
+    },
+    {
+      "t": "elige",
+      "inicio": 19.66,
+      "fin": 19.98
+    },
+    {
+      "t": "los",
+      "inicio": 20.06,
+      "fin": 20.14
+    },
+    {
+      "t": "teléfonos",
+      "inicio": 20.22,
+      "fin": 20.62
+    },
+    {
+      "t": "al",
+      "inicio": 20.78,
+      "fin": 20.86
+    },
+    {
+      "t": "azar.",
+      "inicio": 20.94,
+      "fin": 21.5
+    },
+    {
+      "t": "Una",
+      "inicio": 21.74,
+      "fin": 21.82
+    },
+    {
+      "t": "encuesta",
+      "inicio": 21.9,
+      "fin": 22.3
+    },
+    {
+      "t": "tiene",
+      "inicio": 22.38,
+      "fin": 22.54
+    },
+    {
+      "t": "dos",
+      "inicio": 22.7,
+      "fin": 22.86
+    },
+    {
+      "t": "pasos.",
+      "inicio": 22.94,
+      "fin": 23.74
+    },
+    {
+      "t": "Uno:",
+      "inicio": 23.86,
+      "fin": 24.3
+    },
+    {
+      "t": "preguntar.",
+      "inicio": 24.38,
+      "fin": 25.06
+    },
+    {
+      "t": "El",
+      "inicio": 25.26,
+      "fin": 25.34
+    },
+    {
+      "t": "CIS",
+      "inicio": 25.42,
+      "fin": 25.66
+    },
+    {
+      "t": "entrevistó",
+      "inicio": 25.74,
+      "fin": 26.18
+    },
+    {
+      "t": "por",
+      "inicio": 26.22,
+      "fin": 26.3
+    },
+    {
+      "t": "teléfono",
+      "inicio": 26.38,
+      "fin": 26.86
+    },
+    {
+      "t": "a",
+      "inicio": 26.9,
+      "fin": 26.94
+    },
+    {
+      "t": "más",
+      "inicio": 27.02,
+      "fin": 27.18
+    },
+    {
+      "t": "de",
+      "inicio": 27.22,
+      "fin": 27.26
+    },
+    {
+      "t": "cinco",
+      "inicio": 27.42,
+      "fin": 27.66
+    },
+    {
+      "t": "mil",
+      "inicio": 27.74,
+      "fin": 27.82
+    },
+    {
+      "t": "personas.",
+      "inicio": 27.98,
+      "fin": 28.86
+    },
+    {
+      "t": "Lo",
+      "inicio": 28.9,
+      "fin": 28.94
+    },
+    {
+      "t": "que",
+      "inicio": 28.98,
+      "fin": 29.02
+    },
+    {
+      "t": "contestan",
+      "inicio": 29.1,
+      "fin": 29.74
+    },
+    {
+      "t": "es",
+      "inicio": 29.82,
+      "fin": 29.9
+    },
+    {
+      "t": "el",
+      "inicio": 29.94,
+      "fin": 29.98
+    },
+    {
+      "t": "voto",
+      "inicio": 30.06,
+      "fin": 30.22
+    },
+    {
+      "t": "directo.",
+      "inicio": 30.3,
+      "fin": 31.1
+    },
+    {
+      "t": "En",
+      "inicio": 31.14,
+      "fin": 31.18
+    },
+    {
+      "t": "el",
+      "inicio": 31.26,
+      "fin": 31.34
+    },
+    {
+      "t": "CIS:",
+      "inicio": 31.42,
+      "fin": 31.98
+    },
+    {
+      "t": "PSOE,",
+      "inicio": 32.02,
+      "fin": 32.62
+    },
+    {
+      "t": "veinticinco",
+      "inicio": 32.66,
+      "fin": 33.18
+    },
+    {
+      "t": "por",
+      "inicio": 33.26,
+      "fin": 33.34
+    },
+    {
+      "t": "ciento.",
+      "inicio": 33.42,
+      "fin": 34.14
+    },
+    {
+      "t": "PP,",
+      "inicio": 34.22,
+      "fin": 34.78
+    },
+    {
+      "t": "quince.",
+      "inicio": 34.82,
+      "fin": 35.58
+    },
+    {
+      "t": "Y",
+      "inicio": 35.62,
+      "fin": 35.66
+    },
+    {
+      "t": "diecisiete",
+      "inicio": 35.78,
+      "fin": 36.3
+    },
+    {
+      "t": "de",
+      "inicio": 36.38,
+      "fin": 36.46
+    },
+    {
+      "t": "cada",
+      "inicio": 36.54,
+      "fin": 36.7
+    },
+    {
+      "t": "cien",
+      "inicio": 36.78,
+      "fin": 36.94
+    },
+    {
+      "t": "aún",
+      "inicio": 37.1,
+      "fin": 37.42
+    },
+    {
+      "t": "no",
+      "inicio": 37.5,
+      "fin": 37.58
+    },
+    {
+      "t": "saben",
+      "inicio": 37.66,
+      "fin": 37.98
+    },
+    {
+      "t": "qué",
+      "inicio": 38.06,
+      "fin": 38.14
+    },
+    {
+      "t": "votarán.",
+      "inicio": 38.18,
+      "fin": 39.1
+    },
+    {
+      "t": "Dos:",
+      "inicio": 39.18,
+      "fin": 39.74
+    },
+    {
+      "t": "la",
+      "inicio": 39.78,
+      "fin": 39.82
+    },
+    {
+      "t": "estimación,",
+      "inicio": 39.9,
+      "fin": 40.78
+    },
+    {
+      "t": "lo",
+      "inicio": 40.82,
+      "fin": 40.86
+    },
+    {
+      "t": "que",
+      "inicio": 40.94,
+      "fin": 41.02
+    },
+    {
+      "t": "en",
+      "inicio": 41.06,
+      "fin": 41.1
+    },
+    {
+      "t": "el",
+      "inicio": 41.18,
+      "fin": 41.26
+    },
+    {
+      "t": "oficio",
+      "inicio": 41.34,
+      "fin": 41.66
+    },
+    {
+      "t": "llaman",
+      "inicio": 41.7,
+      "fin": 41.98
+    },
+    {
+      "t": "cocina.",
+      "inicio": 42.14,
+      "fin": 42.94
+    },
+    {
+      "t": "Calcula",
+      "inicio": 43.1,
+      "fin": 43.34
+    },
+    {
+      "t": "quién",
+      "inicio": 43.5,
+      "fin": 43.66
+    },
+    {
+      "t": "irá",
+      "inicio": 43.74,
+      "fin": 43.9
+    },
+    {
+      "t": "a",
+      "inicio": 43.927,
+      "fin": 43.953
+    },
+    {
+      "t": "votar",
+      "inicio": 43.98,
+      "fin": 44.3
+    },
+    {
+      "t": "y",
+      "inicio": 44.46,
+      "fin": 44.54
+    },
+    {
+      "t": "qué",
+      "inicio": 44.7,
+      "fin": 44.78
+    },
+    {
+      "t": "harán",
+      "inicio": 44.86,
+      "fin": 45.02
+    },
+    {
+      "t": "los",
+      "inicio": 45.1,
+      "fin": 45.18
+    },
+    {
+      "t": "indecisos.",
+      "inicio": 45.26,
+      "fin": 46.22
+    },
+    {
+      "t": "Mismos",
+      "inicio": 46.3,
+      "fin": 46.54
+    },
+    {
+      "t": "ingredientes,",
+      "inicio": 46.62,
+      "fin": 47.5
+    },
+    {
+      "t": "dos",
+      "inicio": 47.58,
+      "fin": 47.66
+    },
+    {
+      "t": "cocineros:",
+      "inicio": 47.74,
+      "fin": 48.62
+    },
+    {
+      "t": "dos",
+      "inicio": 48.7,
+      "fin": 48.78
+    },
+    {
+      "t": "paellas",
+      "inicio": 48.86,
+      "fin": 49.26
+    },
+    {
+      "t": "distintas.",
+      "inicio": 49.38,
+      "fin": 50.3
+    },
+    {
+      "t": "Ahora,",
+      "inicio": 50.38,
+      "fin": 50.78
+    },
+    {
+      "t": "el",
+      "inicio": 50.86,
+      "fin": 50.94
+    },
+    {
+      "t": "recuerdo",
+      "inicio": 51.02,
+      "fin": 51.42
+    },
+    {
+      "t": "de",
+      "inicio": 51.46,
+      "fin": 51.5
+    },
+    {
+      "t": "voto.",
+      "inicio": 51.58,
+      "fin": 52.14
+    },
+    {
+      "t": "Qué",
+      "inicio": 52.18,
+      "fin": 52.22
+    },
+    {
+      "t": "dicen",
+      "inicio": 52.3,
+      "fin": 52.54
+    },
+    {
+      "t": "haber",
+      "inicio": 52.62,
+      "fin": 52.78
+    },
+    {
+      "t": "votado",
+      "inicio": 52.82,
+      "fin": 53.1
+    },
+    {
+      "t": "en",
+      "inicio": 53.18,
+      "fin": 53.26
+    },
+    {
+      "t": "dos",
+      "inicio": 53.34,
+      "fin": 53.42
+    },
+    {
+      "t": "mil",
+      "inicio": 53.5,
+      "fin": 53.58
+    },
+    {
+      "t": "veintitrés.",
+      "inicio": 53.62,
+      "fin": 54.62
+    },
+    {
+      "t": "En",
+      "inicio": 54.66,
+      "fin": 54.7
+    },
+    {
+      "t": "la",
+      "inicio": 54.74,
+      "fin": 54.78
+    },
+    {
+      "t": "muestra",
+      "inicio": 54.86,
+      "fin": 55.1
+    },
+    {
+      "t": "del",
+      "inicio": 55.18,
+      "fin": 55.26
+    },
+    {
+      "t": "CIS:",
+      "inicio": 55.34,
+      "fin": 55.9
+    },
+    {
+      "t": "PSOE,",
+      "inicio": 55.94,
+      "fin": 56.46
+    },
+    {
+      "t": "treinta",
+      "inicio": 56.54,
+      "fin": 56.78
+    },
+    {
+      "t": "y",
+      "inicio": 56.86,
+      "fin": 56.9
+    },
+    {
+      "t": "ocho.",
+      "inicio": 56.94,
+      "fin": 57.5
+    },
+    {
+      "t": "PP,",
+      "inicio": 57.54,
+      "fin": 58.06
+    },
+    {
+      "t": "diecinueve",
+      "inicio": 58.18,
+      "fin": 58.62
+    },
+    {
+      "t": "y",
+      "inicio": 58.7,
+      "fin": 58.74
+    },
+    {
+      "t": "medio.",
+      "inicio": 58.78,
+      "fin": 59.42
+    },
+    {
+      "t": "En",
+      "inicio": 59.5,
+      "fin": 59.58
+    },
+    {
+      "t": "las",
+      "inicio": 59.66,
+      "fin": 59.74
+    },
+    {
+      "t": "urnas,",
+      "inicio": 59.86,
+      "fin": 60.3
+    },
+    {
+      "t": "el",
+      "inicio": 60.38,
+      "fin": 60.46
+    },
+    {
+      "t": "PP",
+      "inicio": 60.54,
+      "fin": 60.86
+    },
+    {
+      "t": "sacó",
+      "inicio": 60.94,
+      "fin": 61.26
+    },
+    {
+      "t": "un",
+      "inicio": 61.34,
+      "fin": 61.42
+    },
+    {
+      "t": "treinta",
+      "inicio": 61.5,
+      "fin": 61.74
+    },
+    {
+      "t": "y",
+      "inicio": 61.78,
+      "fin": 61.82
+    },
+    {
+      "t": "tres.",
+      "inicio": 61.9,
+      "fin": 62.46
+    },
+    {
+      "t": "Y",
+      "inicio": 62.487,
+      "fin": 62.513
+    },
+    {
+      "t": "el",
+      "inicio": 62.54,
+      "fin": 62.58
+    },
+    {
+      "t": "PSOE,",
+      "inicio": 62.62,
+      "fin": 63.26
+    },
+    {
+      "t": "casi",
+      "inicio": 63.34,
+      "fin": 63.5
+    },
+    {
+      "t": "treinta",
+      "inicio": 63.66,
+      "fin": 63.9
+    },
+    {
+      "t": "y",
+      "inicio": 63.98,
+      "fin": 64.06
+    },
+    {
+      "t": "dos.",
+      "inicio": 64.18,
+      "fin": 64.78
+    },
+    {
+      "t": "Cuánto",
+      "inicio": 64.82,
+      "fin": 65.1
+    },
+    {
+      "t": "pesa",
+      "inicio": 65.18,
+      "fin": 65.5
+    },
+    {
+      "t": "ese",
+      "inicio": 65.62,
+      "fin": 65.74
+    },
+    {
+      "t": "desajuste",
+      "inicio": 65.82,
+      "fin": 66.22
+    },
+    {
+      "t": "en",
+      "inicio": 66.3,
+      "fin": 66.38
+    },
+    {
+      "t": "la",
+      "inicio": 66.42,
+      "fin": 66.46
+    },
+    {
+      "t": "cocina",
+      "inicio": 66.54,
+      "fin": 66.86
+    },
+    {
+      "t": "lo",
+      "inicio": 67.02,
+      "fin": 67.1
+    },
+    {
+      "t": "decide",
+      "inicio": 67.18,
+      "fin": 67.5
+    },
+    {
+      "t": "cada",
+      "inicio": 67.58,
+      "fin": 67.74
+    },
+    {
+      "t": "casa.",
+      "inicio": 67.82,
+      "fin": 68.46
+    },
+    {
+      "t": "Y",
+      "inicio": 68.487,
+      "fin": 68.513
+    },
+    {
+      "t": "el",
+      "inicio": 68.54,
+      "fin": 68.62
+    },
+    {
+      "t": "CIS",
+      "inicio": 68.7,
+      "fin": 68.94
+    },
+    {
+      "t": "publica",
+      "inicio": 69.02,
+      "fin": 69.34
+    },
+    {
+      "t": "sus",
+      "inicio": 69.42,
+      "fin": 69.5
+    },
+    {
+      "t": "datos",
+      "inicio": 69.66,
+      "fin": 69.82
+    },
+    {
+      "t": "en",
+      "inicio": 69.86,
+      "fin": 69.9
+    },
+    {
+      "t": "bruto:",
+      "inicio": 69.98,
+      "fin": 70.54
+    },
+    {
+      "t": "cualquiera",
+      "inicio": 70.62,
+      "fin": 71.02
+    },
+    {
+      "t": "puede",
+      "inicio": 71.1,
+      "fin": 71.34
+    },
+    {
+      "t": "cocinarlos.",
+      "inicio": 71.42,
+      "fin": 72.38
+    },
+    {
+      "t": "Una",
+      "inicio": 72.46,
+      "fin": 72.54
+    },
+    {
+      "t": "encuesta",
+      "inicio": 72.62,
+      "fin": 73.02
+    },
+    {
+      "t": "es",
+      "inicio": 73.1,
+      "fin": 73.26
+    },
+    {
+      "t": "una",
+      "inicio": 73.34,
+      "fin": 73.42
+    },
+    {
+      "t": "foto",
+      "inicio": 73.5,
+      "fin": 73.74
+    },
+    {
+      "t": "con",
+      "inicio": 73.82,
+      "fin": 73.9
+    },
+    {
+      "t": "receta,",
+      "inicio": 73.98,
+      "fin": 74.7
+    },
+    {
+      "t": "no",
+      "inicio": 74.78,
+      "fin": 74.86
+    },
+    {
+      "t": "el",
+      "inicio": 74.9,
+      "fin": 74.94
+    },
+    {
+      "t": "resultado.",
+      "inicio": 75.02,
+      "fin": 75.98
+    },
+    {
+      "t": "¿Quién",
+      "inicio": 76.007,
+      "fin": 76.14
+    },
+    {
+      "t": "tiene",
+      "inicio": 76.22,
+      "fin": 76.38
+    },
+    {
+      "t": "razón?",
+      "inicio": 76.5,
+      "fin": 77.1
+    },
+    {
+      "t": "Lo",
+      "inicio": 77.14,
+      "fin": 77.18
+    },
+    {
+      "t": "dirán",
+      "inicio": 77.26,
+      "fin": 77.42
+    },
+    {
+      "t": "las",
+      "inicio": 77.5,
+      "fin": 77.58
+    },
+    {
+      "t": "urnas",
+      "inicio": 77.66,
+      "fin": 78.06
+    },
+    {
+      "t": "el",
+      "inicio": 78.14,
+      "fin": 78.22
+    },
+    {
+      "t": "veintinueve",
+      "inicio": 78.3,
+      "fin": 78.78
+    },
+    {
+      "t": "de",
+      "inicio": 78.86,
+      "fin": 78.9
+    },
+    {
+      "t": "noviembre.",
+      "inicio": 78.94,
+      "fin": 79.82
+    },
+    {
+      "t": "Y",
+      "inicio": 79.86,
+      "fin": 79.9
+    },
+    {
+      "t": "tú,",
+      "inicio": 79.94,
+      "fin": 80.38
+    },
+    {
+      "t": "¿de",
+      "inicio": 80.42,
+      "fin": 80.5
+    },
+    {
+      "t": "qué",
+      "inicio": 80.54,
+      "fin": 80.62
+    },
+    {
+      "t": "encuesta",
+      "inicio": 80.7,
+      "fin": 81.02
+    },
+    {
+      "t": "te",
+      "inicio": 81.1,
+      "fin": 81.18
+    },
+    {
+      "t": "fías",
+      "inicio": 81.22,
+      "fin": 81.42
+    },
+    {
+      "t": "más:",
+      "inicio": 81.5,
+      "fin": 82.06
+    },
+    {
+      "t": "del",
+      "inicio": 82.14,
+      "fin": 82.22
+    },
+    {
+      "t": "CIS",
+      "inicio": 82.3,
+      "fin": 82.54
+    },
+    {
+      "t": "o",
+      "inicio": 82.78,
+      "fin": 82.82
+    },
+    {
+      "t": "de",
+      "inicio": 82.86,
+      "fin": 82.9
+    },
+    {
+      "t": "las",
+      "inicio": 82.94,
+      "fin": 83.02
+    },
+    {
+      "t": "privadas?",
+      "inicio": 83.1,
+      "fin": 83.9
+    }
+  ]
+}

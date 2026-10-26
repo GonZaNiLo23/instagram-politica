@@ -12,7 +12,7 @@ Ejecuta `instalar-agentes.bat` (doble clic): copia `agentes/` a `.claude/agents/
 3. `estado/pipeline.md` (en qué punto está cada pieza)
 
 Los subagentes no pueden lanzar otros subagentes, por eso la coordinación la hace la sesión principal y delega con la herramienta Agent en:
-`buscador-temas`, `guionista`, `revisor-guion`, `generador-video`, `revisor-video`, `generador-carrusel`, `publicador` (Meta Business Suite + TikTok Studio) y `monitoreador` (métricas; se ejecuta solo cada día con `monitoreo-diario.ps1`).
+`buscador-temas`, `guionista`, `revisor-guion`, `generador-video`, `revisor-video`, `generador-carrusel`, `publicador` (Meta Business Suite + TikTok Studio) y `monitoreador` (métricas; se ejecuta solo cada día con `tareas/monitoreo-diario.ps1`).
 
 ## Estructura de carpetas
 ```
@@ -26,6 +26,9 @@ feedback/                  lecciones de los revisores para cada agente (las leen
 memoria/                   cuaderno de experiencia de cada agente (atajos y trampas; lo leen primero y lo amplían al terminar)
 estado/pipeline.md         tablero de estado de cada pieza (lo mantiene el coordinador)
 estado/informe-rendimiento.md  análisis diario del monitoreador (qué temas funcionan)
+estado/plan-crecimiento.md     plan e hitos hasta 100.000 seguidores (revisión cada lunes)
+estado/programado-hoy.md       lo programado con la aprobación permanente (para vetar)
+estado/mercados/           datos y pantallas de la historia diaria de mercados
 temas/backlog.md           ideas atemporales y preguntas de seguidores
 temas/propuestas/          propuestas semanales del buscador de temas
 guiones/_plantilla-guion.md
@@ -33,10 +36,14 @@ guiones/borradores/        guiones en curso  (NNN-slug.md)
 guiones/aprobados/         guiones aprobados por el revisor
 revisiones/guiones/        informes del revisor de guion
 revisiones/videos/         informes del revisor de vídeo
-videos/                    proyecto Remotion, audio, renders
+videos/                    proyecto Remotion (remotion/), piezas, scripts de voz y render, música, recortes (recorte/)
+videos/renders/            solo la última versión de cada pieza; subida/ = copias < 10 MB pendientes de subir
 carruseles/                carruseles en PNG + texto del post (NNN-slug-vX)
-publicado/                 registro de lo publicado, textos del post y métricas
+publicado/                 fichas de publicación, textos del post y métricas
+herramientas/              seccion.js (leer partes de un .md), medir-tokens.js (consumo por agente), publicar-api/ (API de Instagram)
+tareas/                    scripts de las tareas programadas de Windows (producción nocturna, monitoreo, revisión semanal) y rutina de mercados
 ```
+Limpieza: cuando una pieza tiene una versión nueva aprobada, las anteriores de `videos/renders/` y sus copias de `subida/` sobran (van a la Papelera, nunca se borran del todo).
 
 ## Convenciones
 - Cada pieza tiene un número de 3 cifras y un slug: `004-presupuestos-prorrogados`. Se usa igual en guion, revisiones y render.

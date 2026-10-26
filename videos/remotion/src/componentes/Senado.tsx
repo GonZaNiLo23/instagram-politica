@@ -170,7 +170,7 @@ export const DosPapeletasS: React.FC<{y?: number; en?: number; sepiaEn?: number;
 };
 
 /** Papeleta de ejemplo con tres columnas de candidaturas ficticias (Círculo, Triángulo, Cuadrado) y una cruz por columna. */
-export const ColumnasS: React.FC<{x?: number; y?: number; w?: number; en?: number; cruces?: number[]; hasta?: number}> = ({x = 500, y = 830, w = 860, en = 0, cruces = [0.6, 1.2, 1.8], hasta}) => {
+export const ColumnasS: React.FC<{x?: number; y?: number; w?: number; en?: number; cruces?: number[]; hasta?: number; fs?: number}> = ({x = 500, y = 830, w = 860, en = 0, cruces = [0.6, 1.2, 1.8], hasta, fs = 34}) => {
   const {fr, fps, t} = usa();
   const s = useSalida(hasta);
   const h = (w * 470) / 860;
@@ -203,7 +203,7 @@ export const ColumnasS: React.FC<{x?: number; y?: number; w?: number; en?: numbe
                     <g key={j}>
                       <rect x={x0 + 6} y={yy - 8} width={42} height={42} rx={6} fill={C.crema} stroke={C.tinta} strokeWidth={5} />
                       <Silueta cx={x0 + 74} cy={yy + 16} s={1.3} color={colores[i] === C.piedra ? C.tinta : C.turquesa} />
-                      <text x={x0 + 98} y={yy + 28} fontFamily={F.texto} fontWeight={600} fontSize={34} fill={C.tinta}>{n}</text>
+                      <text x={x0 + 98} y={yy + 28} fontFamily={F.texto} fontWeight={600} fontSize={fs} fill={C.tinta}>{n}</text>
                       <rect x={x0 + 98} y={yy + 44} width={110} height={10} rx={5} fill={C.tinta} opacity={0.25} />
                     </g>
                   );
@@ -236,7 +236,7 @@ const Badge: React.FC<{cx: number; cy: number; txt: string; bg: string; fg: stri
 );
 
 /** Mapa plano de España (provincias en tinta que se encienden en mostaza "3"; Gran Canaria, Mallorca, Tenerife, Ceuta y Melilla en turquesa "2"; resto de islas en piedra "1"). */
-export const MapaTopeS: React.FC<{x?: number; y?: number; en?: number; dosEn?: number; unoEn?: number; hasta?: number}> = ({x = 540, y = 650, en = 0, dosEn = 1, unoEn = 2, hasta}) => {
+export const MapaTopeS: React.FC<{x?: number; y?: number; en?: number; dosEn?: number; unoEn?: number; hasta?: number; esc?: number}> = ({x = 540, y = 650, en = 0, dosEn = 1, unoEn = 2, hasta, esc = 1}) => {
   const {fr, fps, t} = usa();
   const s = useSalida(hasta);
   const SC = 0.2; // px por px horneado
@@ -265,7 +265,7 @@ export const MapaTopeS: React.FC<{x?: number; y?: number; en?: number; dosEn?: n
   const mad = M.prov['Madrid'].c; // lon/lat
   const madPos = pos((mad[0] + 9.5) * 0.766 * 200 - 20, (44.0 - mad[1]) * 200 - 130);
   return (
-    <div style={{position: 'absolute', left: x - W / 2, top: y, width: W, height: Hh, opacity: s}}>
+    <div style={{position: 'absolute', left: x - W / 2, top: y, width: W, height: Hh, opacity: s, transform: esc === 1 ? undefined : `scale(${esc})`, transformOrigin: '50% 0'}}>
       <svg width={W} height={Hh} viewBox={`0 0 ${W} ${Hh}`} style={{overflow: 'visible', transform: `translateY(${Math.sin(t * 2.4) * 4}px)`}}>
         <g transform={`translate(${tx} ${ty}) scale(${SC})`}>
           {prov}
@@ -280,8 +280,8 @@ export const MapaTopeS: React.FC<{x?: number; y?: number; en?: number; dosEn?: n
         </g>
         <Badge cx={madPos[0]} cy={madPos[1]} txt="3" bg={C.crema} fg={C.tinta} p={pTres} r={44} />
         <Badge cx={mp[0] - 10} cy={mp[1] - 50} txt="2" bg={C.turquesa} fg={C.crema} p={pDos} />
-        <Badge cx={cC[0] - 52} cy={cC[1] + 26} txt="2" bg={C.turquesa} fg={C.crema} p={pDos} />
-        <Badge cx={mC[0] + 52} cy={mC[1] + 22} txt="2" bg={C.turquesa} fg={C.crema} p={pDos} />
+        <Badge cx={cC[0] - 52} cy={cC[1] + 6} txt="2" bg={C.turquesa} fg={C.crema} p={pDos} />
+        <Badge cx={mC[0] + 52} cy={mC[1] - 8} txt="2" bg={C.turquesa} fg={C.crema} p={pDos} />
         <Badge cx={dosCan[0]} cy={dosCan[1] - 28} txt="2" bg={C.turquesa} fg={C.crema} p={pDos} />
         <Badge cx={unoBal[0]} cy={unoBal[1] + 14} txt="1" bg={C.piedra} fg={C.tinta} p={pUno} />
         <Badge cx={cx0 + M.canBB[2] * csc + 56} cy={cy0 + M.canBB[3] * csc * 0.5} txt="1" bg={C.piedra} fg={C.tinta} p={pUno} />
@@ -290,39 +290,39 @@ export const MapaTopeS: React.FC<{x?: number; y?: number; en?: number; dosEn?: n
   );
 };
 
-/** Baleares: Ibiza y Formentera unidas por un óvalo con "1"; el óvalo se parte en dos y Formentera se ilumina en mostaza. */
-export const MapaBalearesS: React.FC<{x?: number; y?: number; w?: number; en?: number; partirEn?: number; hasta?: number}> = ({x = 540, y = 520, w = 900, en = 0, partirEn = 2, hasta}) => {
+/** Baleares (esquema limpio, sin GeoJSON): islas como óvalos con nombre; el óvalo conjunto con "1" se parte en dos y Formentera se ilumina en mostaza. */
+export const MapaBalearesS: React.FC<{x?: number; y?: number; w?: number; en?: number; partirEn?: number; hasta?: number; zoomPit?: boolean}> = ({x = 540, y = 520, w = 900, en = 0, partirEn = 2, hasta, zoomPit = false}) => {
   const {fr, fps, t} = usa();
   const s = useSalida(hasta);
-  const bb = M.bbBal;
-  const pad = 90;
-  const vb = [bb[0] - pad - 80, bb[1] - pad, bb[2] - bb[0] + 2 * pad + 80, bb[3] - bb[1] + 2 * pad];
-  const Hh = (w * vb[3]) / vb[2];
-  const k = w / vb[2];
+  const Hh = 500;
   const part = ease(fr, fps, partirEn, partirEn + 0.5);
-  const ib = M.islas.ibiza.bb, fo = M.islas.formentera.bb;
-  const ux = [Math.min(ib[0], fo[0]), Math.min(ib[1], fo[1]), Math.max(ib[2], fo[2]), Math.max(ib[3], fo[3])];
-  const ov = (b: number[], p: number) => ({cx: (b[0] + b[2]) / 2, cy: (b[1] + b[3]) / 2, rx: (b[2] - b[0]) / 2 + p, ry: (b[3] - b[1]) / 2 + p});
-  const U = ov(ux, 34), I = ov(ib, 26), Fo = ov(fo, 26);
+  const L = (a: number, b: number) => a + (b - a) * part;
   const pop = muelle(fr, fps, en + 0.3, 8);
   const pop2 = muelle(fr, fps, partirEn + 0.1, 8);
   const formOn = fr >= Math.round(partirEn * fps);
-  const oval = (o: ReturnType<typeof ov>, key: string, op = 1) => <ellipse key={key} cx={o.cx} cy={o.cy} rx={o.rx} ry={o.ry} fill="rgba(244,239,230,0.35)" stroke={C.tinta} strokeWidth={9} opacity={op} />;
+  const opI = zoomPit ? 1 - part : 1;
+  const ib = {cx: L(110, 120), cy: L(300, 150), rx: L(60, 85), ry: L(38, 50)};
+  const fo = {cx: L(215, 120), cy: L(405, 350), rx: L(40, 60), ry: L(18, 26)};
   const badge = (cx: number, cy: number, p: number) => (
-    <g transform={`translate(${cx} ${cy}) scale(${Math.max(p, 0) / k})`}>
+    <g transform={`translate(${cx} ${cy}) scale(${Math.max(p, 0)})`}>
       <circle r={44} fill={C.crema} stroke={C.tinta} strokeWidth={6} />
-      <text y={16} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={50} fill={C.tinta}>1</text>
+      <text y={17} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={50} fill={C.tinta}>1</text>
     </g>
+  );
+  const nom = (txt: string, yy: number) => (
+    <text x={0} y={yy} fontFamily={F.texto} fontWeight={700} fontSize={64} fill={C.tinta} opacity={part}>{txt}</text>
   );
   return (
     <div style={{position: 'absolute', left: x - w / 2, top: y, width: w, height: Hh, opacity: s}}>
-      <svg width={w} height={Hh} viewBox={vb.join(' ')} style={{overflow: 'visible', transform: `translateY(${Math.sin(t * 2.4) * 4}px)`}}>
-        {['mallorca', 'menorca'].map((kk) => <path key={kk} d={M.islas[kk].d} fill={C.piedra} stroke={C.crema} strokeWidth={4} />)}
-        <path d={M.islas.ibiza.d} fill={C.tinta} stroke={C.crema} strokeWidth={4} />
-        <path d={M.islas.formentera.d} fill={formOn ? C.mostaza : C.tinta} stroke={formOn ? C.tinta : C.crema} strokeWidth={formOn ? 8 : 4} />
-        {part < 0.5 ? oval(U, 'u', 1) : null}
-        {part >= 0.5 ? <>{oval(I, 'i')}{oval(Fo, 'f')}</> : null}
-        {part < 0.5 ? badge(U.cx - U.rx - 54, U.cy, pop) : <>{badge(I.cx - I.rx - 54, I.cy - 20, pop2)}{badge(Fo.cx - Fo.rx - 54, Fo.cy + 10, pop2)}</>}
+      <svg width={w} height={Hh} viewBox={`0 0 ${w} ${Hh}`} style={{overflow: 'visible', transform: `translateY(${Math.sin(t * 2.4) * 4}px)`}}>
+        <ellipse cx={330} cy={120} rx={140} ry={68} transform="rotate(-12 330 120)" fill={C.piedra} stroke={C.crema} strokeWidth={4} opacity={opI} />
+        <ellipse cx={480} cy={30} rx={46} ry={24} fill={C.piedra} stroke={C.crema} strokeWidth={4} opacity={opI} />
+        <ellipse cx={ib.cx} cy={ib.cy} rx={ib.rx} ry={ib.ry} fill={C.tinta} stroke={C.crema} strokeWidth={4} />
+        <ellipse cx={fo.cx} cy={fo.cy} rx={fo.rx} ry={fo.ry} fill={formOn ? C.mostaza : C.tinta} stroke={formOn ? C.tinta : C.crema} strokeWidth={formOn ? 5 : 4} />
+        {part < 0.5 ? <ellipse cx={150} cy={355} rx={135} ry={95} fill="none" stroke={C.tinta} strokeWidth={6} /> : null}
+        {part < 0.5 ? badge(-10, 355, pop) : <>{badge(290, 150, pop2)}{badge(290, 350, pop2)}</>}
+        {nom('IBIZA', 270)}
+        {nom('FORMENTERA', 462)}
       </svg>
     </div>
   );

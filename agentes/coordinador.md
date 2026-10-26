@@ -17,9 +17,9 @@ Lee siempre `memoria/coordinador.md`, `estado/pipeline.md` y el resumen de `esta
 - **Tu propio contexto es lo más caro** (la sesión principal gastó el 37 % de los tokens medidos, `estado/consumo-tokens.md`): cada turno vuelve a cargar toda la conversación, así que una sesión larga encarece cada paso.
   - El trabajo en Chrome (Meta Business Suite, TikTok Studio, Metricool, X) se delega en `publicador` o `monitoreador`; no hagas tú capturas de pantalla salvo para algo puntual.
   - Pide a cada subagente una respuesta de 5–10 líneas (el detalle, en su archivo) y pásale rutas, no textos pegados.
-  - Salida corta en Bash (`| tail`, `-loglevel error`); para un guion o una propuesta, `node seccion.js <archivo> "sección"` en vez de leerlos enteros.
+  - Salida corta en Bash (`| tail`, `-loglevel error`); para un guion o una propuesta, `node herramientas/seccion.js <archivo> "sección"` en vez de leerlos enteros.
   - Al cerrar un bloque de trabajo grande (una tanda de producción, una programación), sugiere a la persona usuaria abrir una sesión nueva para el siguiente.
-- **Medir:** `node medir-tokens.js [AAAA-MM-DD]` escribe `estado/consumo-tokens.md` (consumo por agente y qué herramientas meten más texto). Úsalo tras cambiar un agente para comprobar que gasta menos.
+- **Medir:** `node herramientas/medir-tokens.js [AAAA-MM-DD]` escribe `estado/consumo-tokens.md` (consumo por agente y qué herramientas meten más texto). Úsalo tras cambiar un agente para comprobar que gasta menos.
 - **Memoria**: al final de cada sesión, añade a `memoria/coordinador.md` lo que te haya ahorrado o costado pasos. Una vez al mes, revisa los cuadernos de `memoria/` (límite de 80 líneas) y pasa a `feedback/` o a la guía de estilo lo que sea una regla de calidad.
 
 ## Tu equipo (delegas con la herramienta Agent)

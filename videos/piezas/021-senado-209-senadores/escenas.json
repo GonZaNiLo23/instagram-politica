@@ -1,0 +1,452 @@
+{
+  "plantilla": "flash",
+  "duracion": 32.14,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "rotulo",
+            "texto": "¿4 CRUCES",
+            "y": 420,
+            "en": -1,
+            "tamano": 120,
+            "pastilla": true
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "EN EL SENADO?",
+            "y": 570,
+            "en": -1,
+            "tamano": 120,
+            "pastilla": true
+          },
+          {
+            "tipo": "foto",
+            "src": "F1c.jpg",
+            "x": 500,
+            "y": 930,
+            "ancho": 880,
+            "alto": 150,
+            "foco": "50% 50%",
+            "zoom": [
+              1,
+              1
+            ],
+            "dur": 3,
+            "en": -1,
+            "credito": "Foto: El Pantera · CC BY-SA 4.0 · Wikimedia Commons"
+          },
+          {
+            "tipo": "crucesS",
+            "x": 480,
+            "y": 1060,
+            "lado": 170,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 2.86,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HASTA 3 NOMBRES EN EL SENADO",
+          "y": 335,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F1c.jpg",
+          "x": 500,
+          "y": 640,
+          "ancho": 880,
+          "alto": 160,
+          "foco": "50% 50%",
+          "zoom": [
+            1,
+            1.05
+          ],
+          "dur": 2.86,
+          "en": -1,
+          "credito": "Foto: El Pantera · CC BY-SA 4.0 · Wikimedia Commons",
+          "notas": [
+            "Papeleta real: Cádiz, 2019 (recortada)"
+          ]
+        },
+        {
+          "tipo": "crucesS",
+          "x": 500,
+          "y": 830,
+          "lado": 220,
+          "en": -1,
+          "n": 3
+        }
+      ]
+    },
+    {
+      "inicio": 2.86,
+      "fin": 6.94,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Y SI MARCAS 4?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.44
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "VOTO NULO",
+          "y": 335,
+          "en": 1.52,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "no cuenta para nadie",
+          "y": 420,
+          "en": 2.6100000000000003,
+          "tamano": 64
+        },
+        {
+          "tipo": "papeletaS",
+          "x": 540,
+          "y": 900,
+          "w": 720,
+          "en": 0,
+          "cruces": [
+            0.1,
+            0.3,
+            0.5,
+            0.64
+          ],
+          "grisEn": 2.66,
+          "sale": {
+            "en": 2.66,
+            "dur": 0.7,
+            "dx": -160,
+            "dy": 0,
+            "esc": 0.82
+          },
+          "bob": 4
+        },
+        {
+          "tipo": "selloNuloS",
+          "x": 540,
+          "y": 900,
+          "d": 380,
+          "en": 1.86,
+          "angulo": -12,
+          "sale": {
+            "en": 2.66,
+            "dur": 0.7,
+            "dx": -160,
+            "dy": 0,
+            "esc": 0.82
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 790,
+          "y": 960,
+          "tamano": 270,
+          "en": 2.66,
+          "animEn": 2.7600000000000002
+        },
+        {
+          "tipo": "flechaEsquivaS",
+          "x1": 420,
+          "y1": 800,
+          "x2": 900,
+          "y2": 800,
+          "alto": 220,
+          "en": 2.82,
+          "dur": 0.8
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "En provincias. En islas, Ceuta y Melilla, menos"
+          ],
+          "en": 0.1,
+          "hasta": 1.54
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: LOREG, art. 96.3"
+          ],
+          "en": 1.54
+        }
+      ]
+    },
+    {
+      "inicio": 6.94,
+      "fin": 10.26,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SENADO: SEPIA · CONGRESO: BLANCA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "dosPapeletasS",
+          "y": 860,
+          "en": 0,
+          "sepiaEn": 0.1,
+          "blancaEn": 1.55,
+          "avanzaEn": 2.42
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: RD 605/1999, art. 4.2 · La Moncloa (20-10-2026)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 10.26,
+      "fin": 13.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SE VOTA A PERSONAS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "de uno o varios partidos",
+          "y": 420,
+          "en": 0.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "columnasS",
+          "x": 500,
+          "y": 900,
+          "w": 820,
+          "fs": 28,
+          "en": 0,
+          "cruces": [
+            0.22,
+            1,
+            2.34
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 13.3,
+      "fin": 17.94,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "TOPE DE CRUCES POR PAPELETA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PROVINCIAS: 3",
+          "y": 500,
+          "en": 0.5,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "3 ISLAS MAYORES,",
+          "y": 577,
+          "en": 0.6,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "CEUTA Y MELILLA: 2",
+          "y": 654,
+          "en": 0.6,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "RESTO DE ISLAS: 1",
+          "y": 731,
+          "en": 2.84,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaTopeS",
+          "x": 500,
+          "y": 805,
+          "esc": 0.85,
+          "en": 0.2,
+          "dosEn": 0.7,
+          "unoEn": 2.94
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: La Moncloa (20-10-2026) · LOREG, art. 166"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 17.94,
+      "fin": 23.02,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "209 SENADORES EN LAS URNAS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F2.jpg",
+          "x": 500,
+          "y": 790,
+          "ancho": 880,
+          "alto": 420,
+          "foco": "50% 55%",
+          "zoom": [
+            1,
+            1.15
+          ],
+          "dur": 5.18,
+          "en": 0.1
+        },
+        {
+          "tipo": "cuentaS",
+          "x": 60,
+          "y": 1030,
+          "en": 0.1,
+          "sube": 2,
+          "tamano": 170
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Elegidos en las urnas. Además, los parlamentos autonómicos designan otros",
+            "Foto: Rastrojo · CC BY-SA 4.0 · Wikimedia Commons"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 23.02,
+      "fin": 26.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SENADORES QUE ELIGE CADA ISLA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "FORMENTERA: SENADOR PROPIO",
+          "y": 500,
+          "en": 1.9900000000000002,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaBalearesS",
+          "x": 500,
+          "y": 620,
+          "w": 540,
+          "en": 0.2,
+          "partirEn": 2.0900000000000003,
+          "zoomPit": true
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Antes, Ibiza-Formentera elegía uno",
+            "Fuente: Reforma del art. 69.3 CE (BOE 20-5-2026) · LO 2/2026 · senado.es (2023)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 26.7,
+      "fin": 28.78,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "UN NOMBRE DE MÁS = NULO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "papeletaS",
+          "x": 540,
+          "y": 900,
+          "w": 720,
+          "en": -1,
+          "cruces": [
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "bob": 4
+        },
+        {
+          "tipo": "selloNuloS",
+          "x": 540,
+          "y": 900,
+          "d": 380,
+          "en": 1.2,
+          "angulo": -12
+        }
+      ]
+    },
+    {
+      "inicio": 28.78,
+      "fin": 32.14,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "cta": "guardalo",
+          "frase": "UN NOMBRE DE MÁS = NULO",
+          "guardaloLinea2": "PARA EL 29‑N",
+          "tamano": 104,
+          "yGuardalo": 1180,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

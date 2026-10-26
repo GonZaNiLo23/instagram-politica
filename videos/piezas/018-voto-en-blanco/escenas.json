@@ -1,0 +1,641 @@
+{
+  "plantilla": "estandar",
+  "duracion": 69.94,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "VOTO EN BLANCO: ¿PARA QUIÉN VA?",
+            "y": 330,
+            "tamano": 100,
+            "en": -1
+          },
+          {
+            "tipo": "recorte",
+            "src": "urna-cyl.png",
+            "x": 540,
+            "y": 1090,
+            "ancho": 480,
+            "giro": -2,
+            "desde": "escala",
+            "flota": false,
+            "en": -1,
+            "credito": "Foto: MiguelAlanCS · CC BY-SA 4.0 (recorte)"
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 6.13,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿TU VOTO EN BLANCO VA AL GANADOR?",
+          "y": 335,
+          "tamano": 92,
+          "en": -1,
+          "hasta": 2.84
+        },
+        {
+          "tipo": "gancho",
+          "texto": "NO. PERO TAMPOCO ES INVISIBLE",
+          "y": 335,
+          "tamano": 92,
+          "en": 2.94
+        },
+        {
+          "tipo": "bGancho",
+          "modo": "gancho",
+          "tInterr": 2.12,
+          "tRompe": 3.02
+        }
+      ]
+    },
+    {
+      "inicio": 6.13,
+      "fin": 19.62,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "BLANCO = sobre sin papeleta",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 72,
+          "hasta": 2.81
+        },
+        {
+          "tipo": "recorte",
+          "src": "urna-cyl.png",
+          "x": 540,
+          "y": 850,
+          "ancho": 430,
+          "giro": -2,
+          "desde": "abajo",
+          "en": 0.05,
+          "hasta": 1.44,
+          "notas": [
+            "LOREG art. 96.5",
+            "Urna, autonómicas de Castilla y León 2022"
+          ],
+          "credito": "Foto: MiguelAlanCS · CC BY-SA 4.0 (recorte)"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG art. 96.5"
+          ],
+          "en": 1.44,
+          "hasta": 2.81
+        },
+        {
+          "tipo": "bUrnas",
+          "y": 640,
+          "en": 1.44,
+          "miniEn": 12.04,
+          "luz": [
+            {
+              "i": 0,
+              "en": 1.44,
+              "hasta": 5.01
+            },
+            {
+              "i": 1,
+              "en": 5.01,
+              "hasta": 10.57
+            },
+            {
+              "i": 2,
+              "en": 10.57
+            }
+          ],
+          "llenan": [
+            {
+              "i": 0,
+              "en": 2.6399999999999997
+            }
+          ],
+          "check": [
+            {
+              "i": 0,
+              "en": 3.65
+            }
+          ],
+          "aspa": [
+            {
+              "i": 1,
+              "en": 9.11
+            }
+          ]
+        },
+        {
+          "tipo": "bSobreCae",
+          "x": 190,
+          "yTope": 410,
+          "yUrna": 640,
+          "abre": 1.54,
+          "cae": 2.34,
+          "en": 1.44,
+          "hasta": 2.83
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Es un VOTO VÁLIDO",
+          "y": 335,
+          "en": 2.91,
+          "tamano": 72,
+          "hasta": 4.91
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 780,
+          "y": 470,
+          "tamano": 120,
+          "en": 3.93,
+          "hasta": 4.91
+        },
+        {
+          "tipo": "notaEscribe",
+          "lineas": [
+            "«en blanco, pero válido»",
+            "LOREG art. 96.5"
+          ],
+          "en": 2.93,
+          "dur": 1.5,
+          "hasta": 4.91
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "NULO, por ejemplo:",
+          "y": 335,
+          "en": 4.99,
+          "tamano": 72,
+          "hasta": 8.91
+        },
+        {
+          "tipo": "bNulos",
+          "en1": 5.68,
+          "en2": 6.95,
+          "y1": 930,
+          "y2": 1040,
+          "hasta": 8.91
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "nombres tachados",
+          "y": 892,
+          "en": 5.73,
+          "tamano": 64,
+          "izq": 250,
+          "ancho": 680,
+          "hasta": 8.91
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "papel no oficial",
+          "y": 1002,
+          "en": 7,
+          "tamano": 64,
+          "izq": 250,
+          "ancho": 680,
+          "hasta": 8.91
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG art. 96.1 y 96.2"
+          ],
+          "en": 4.99,
+          "hasta": 8.91
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "NO es válido",
+          "y": 335,
+          "en": 8.99,
+          "tamano": 72,
+          "hasta": 10.47
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ABSTENCIÓN = no ir a votar",
+          "y": 335,
+          "en": 10.55,
+          "tamano": 72
+        },
+        {
+          "tipo": "bSofa",
+          "x": 520,
+          "y": 960,
+          "tam": 0.95,
+          "en": 11.11
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Votar no es obligatorio en España"
+          ],
+          "en": 10.55
+        }
+      ]
+    },
+    {
+      "inicio": 19.62,
+      "fin": 23.26,
+      "componentes": [
+        {
+          "tipo": "bUrnas",
+          "mini": true,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "El blanco va al ganador",
+          "y": 430,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "sello",
+          "valor": "MITO",
+          "x": 790,
+          "y": 505,
+          "tamano": 120,
+          "en": 1.4
+        },
+        {
+          "tipo": "bHemi",
+          "cy": 1030,
+          "intentos": [
+            1.3,
+            2.18
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "No suma escaños a nadie",
+          "y": 1062,
+          "en": 1.97,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG art. 163.1"
+          ],
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 23.26,
+      "fin": 31.16,
+      "componentes": [
+        {
+          "tipo": "bUrnas",
+          "mini": true,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "D'HONDT: solo votos a candidaturas",
+          "y": 430,
+          "en": 0.05,
+          "tamano": 72,
+          "hasta": 3.87
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "BARRERA: 3 % de los votos válidos",
+          "y": 430,
+          "en": 3.92,
+          "tamano": 72
+        },
+        {
+          "tipo": "bReparto",
+          "divide": [
+            0.3,
+            1.5,
+            2.14
+          ],
+          "montonEn": 1.66,
+          "listonEn": 5.63,
+          "en": 0.05
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG art. 163.1.b y c",
+            "¿Cómo funciona? Vídeo 002"
+          ],
+          "en": 0.05,
+          "hasta": 3.87
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG art. 163.1.a"
+          ],
+          "en": 3.92
+        }
+      ]
+    },
+    {
+      "inicio": 31.16,
+      "fin": 34.24,
+      "componentes": [
+        {
+          "tipo": "bUrnas",
+          "mini": true,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "No llegas al 3 % → fuera del reparto",
+          "y": 430,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "dhMapaMinimo",
+          "x": 500,
+          "y": 650,
+          "ancho": 540,
+          "enMapa": 0.1,
+          "enAros": 0.4,
+          "enPuntos": 999,
+          "hasta": 1.24
+        },
+        {
+          "tipo": "bProv",
+          "choque": 1.94,
+          "en": 1.24
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Circunscripción = provincia",
+            "Constitución, art. 68.2"
+          ],
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 34.24,
+      "fin": 37.02,
+      "componentes": [
+        {
+          "tipo": "bUrnas",
+          "mini": true,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Y AHÍ EL BLANCO SÍ CUENTA",
+          "y": 430,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "bTaco",
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 37.02,
+      "fin": 52.36,
+      "componentes": [
+        {
+          "tipo": "dhEtiqueta",
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "100.000 válidos → barrera: 3.000",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 72,
+          "hasta": 3.8
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Cuadrado: 3.020 → ENTRA",
+          "y": 335,
+          "en": 3.8499999999999996,
+          "tamano": 72,
+          "hasta": 6.88
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "+1.000 votos en blanco",
+          "y": 335,
+          "en": 6.93,
+          "tamano": 72,
+          "hasta": 8.96
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "101.000 válidos → barrera: 3.030",
+          "y": 335,
+          "en": 9.010000000000002,
+          "tamano": 72,
+          "hasta": 12.86
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "CUADRADO, FUERA POR 10 VOTOS",
+          "y": 335,
+          "en": 12.91,
+          "tamano": 72
+        },
+        {
+          "tipo": "bEjemplo",
+          "en": 0.05,
+          "enBarra": 4.34,
+          "durBarra": 1.6,
+          "enEntra": 6.38,
+          "sobres": {
+            "en": 7.3,
+            "dur": 1.24
+          },
+          "enSube": 10.58,
+          "durSube": 1.2,
+          "enFuera": 13.88
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "3 % de 100.000 = 3.000",
+            "Escala ampliada: desde 2.900"
+          ],
+          "en": 0.05,
+          "hasta": 8.96
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "3 % de 101.000 = 3.030",
+            "Escala ampliada: desde 2.900"
+          ],
+          "en": 9.010000000000002,
+          "hasta": 12.86
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "3.020 < 3.030",
+            "Escala ampliada: desde 2.900"
+          ],
+          "en": 12.91
+        }
+      ]
+    },
+    {
+      "inicio": 52.36,
+      "fin": 56.34,
+      "componentes": [
+        {
+          "tipo": "bUrnas",
+          "mini": true,
+          "en": -1
+        },
+        {
+          "tipo": "dhEtiqueta",
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "+1.000 nulos o abstenciones → sigue en 3.000",
+          "y": 420,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "bEjemplo",
+          "en": -1,
+          "barraFija": true,
+          "fijo": true,
+          "dy": 24,
+          "sinTitulo": true
+        },
+        {
+          "tipo": "bCaen",
+          "en": 0.36,
+          "variante": "nulo"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Escala ampliada: desde 2.900"
+          ],
+          "en": 0.05
+        },
+        {
+          "tipo": "bCaen",
+          "variante": "sofa",
+          "en": 0.92
+        }
+      ]
+    },
+    {
+      "inicio": 56.34,
+      "fin": 61.19,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Solo importa si alguien roza el 3 %",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "bPlano",
+          "enListon": 0.9,
+          "parpadeo": 2.1,
+          "enEt": 3.3,
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 61.19,
+      "fin": 65.2,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿AL GANADOR? NO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿INVISIBLE? TAMPOCO",
+          "y": 435,
+          "en": 2.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "bGancho",
+          "modo": "bucle",
+          "tPasa": 0.5,
+          "hasta": 2.35
+        },
+        {
+          "tipo": "recorte",
+          "src": "urna-and.png",
+          "x": 500,
+          "y": 900,
+          "ancho": 800,
+          "giro": 2,
+          "desde": "abajo",
+          "en": 2.35,
+          "notas": [
+            "Urna, autonómicas andaluzas 2015, Montalbán de Córdoba"
+          ],
+          "credito": "Foto: Américo Toledano · CC BY-SA 4.0 · Wikimedia Commons"
+        }
+      ]
+    },
+    {
+      "inicio": 65.2,
+      "fin": 69.94,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿LO SABÍAS?",
+          "pregunta": "Te leemos en comentarios",
+          "tamano": 110,
+          "yFrase": 460,
+          "yGuardalo": 1180,
+          "pulso": true
+        },
+        {
+          "tipo": "bUrnas",
+          "mini": true,
+          "yMini": 900,
+          "en": 0.2
+        }
+      ]
+    }
+  ]
+}

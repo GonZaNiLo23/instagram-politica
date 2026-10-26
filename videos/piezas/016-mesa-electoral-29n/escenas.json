@@ -1,0 +1,874 @@
+{
+  "plantilla": "estandar",
+  "duracion": 67.2,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 90,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "¿TE TOCA MESA EL 29‑N?",
+            "y": 350,
+            "tamano": 112,
+            "en": -1
+          },
+          {
+            "tipo": "foto",
+            "src": "F1.jpg",
+            "x": 500,
+            "y": 1010,
+            "ancho": 880,
+            "alto": 600,
+            "foco": "46% 70%",
+            "zoom": [
+              1.05,
+              1.05
+            ],
+            "dur": 3,
+            "en": -1,
+            "credito": "Foto: Américo Toledano · CC BY-SA 4.0 · Wikimedia Commons",
+            "notas": [
+              "Imagen de archivo · Andalucía 2015"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.77,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿TE TOCA MESA EL 29‑N?",
+          "y": 335,
+          "tamano": 104,
+          "en": -1,
+          "hasta": 3.6
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ES OBLIGATORIO",
+          "y": 335,
+          "en": 3.65,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG, art. 27.1"
+          ],
+          "en": 3.65
+        },
+        {
+          "tipo": "bomboM",
+          "x": 300,
+          "y": 1010,
+          "tam": 320,
+          "en": -1
+        },
+        {
+          "tipo": "mesaUrnaM",
+          "x": 760,
+          "y": 1100,
+          "tam": 380,
+          "en": -1
+        },
+        {
+          "tipo": "fichaM",
+          "texto": "¿TÚ?",
+          "r": 100,
+          "tamTexto": 60,
+          "rebote": true,
+          "ruta": [
+            {
+              "t": 0.2,
+              "x": 300,
+              "y": 1010,
+              "e": 0.3
+            },
+            {
+              "t": 1.5,
+              "x": 540,
+              "y": 1020,
+              "e": 1.45
+            },
+            {
+              "t": 2,
+              "x": 540,
+              "y": 1020,
+              "e": 1.45
+            },
+            {
+              "t": 3,
+              "x": 760,
+              "y": 995,
+              "e": 0.75,
+              "g": true
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "OBLIGATORIO"
+          ],
+          "x": 540,
+          "y": 650,
+          "tamano": 64,
+          "angulo": -5,
+          "desde": 300,
+          "en": 3.75
+        }
+      ]
+    },
+    {
+      "inicio": 4.77,
+      "fin": 8.25,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SORTEO: 31 OCT – 4 NOV",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineaM",
+          "y": 970,
+          "hitos": [
+            {
+              "x": 200,
+              "etiqueta": "31 OCT",
+              "en": 1.2
+            },
+            {
+              "x": 520,
+              "etiqueta": "4 NOV",
+              "en": 2.64
+            },
+            {
+              "x": 800,
+              "etiqueta": "29 NOV",
+              "en": 0,
+              "gris": true
+            }
+          ],
+          "barra": {
+            "de": 200,
+            "a": 520,
+            "en": 1.7,
+            "dur": 1.0400000000000003
+          },
+          "en": 0.1
+        },
+        {
+          "tipo": "bomboM",
+          "x": 360,
+          "y": 790,
+          "tam": 200,
+          "en": 0.2,
+          "gira": 1.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Días 25 a 29 tras la convocatoria · LOREG, art. 26.4"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 8.25,
+      "fin": 10.45,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SORTEO PÚBLICO EN TU AYUNTAMIENTO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "ayuntM",
+          "x": 340,
+          "y": 900,
+          "tam": 400,
+          "en": 0.15
+        },
+        {
+          "tipo": "altavozM",
+          "x": 760,
+          "y": 870,
+          "tam": 260,
+          "en": 0.5
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Supervisa la Junta Electoral de Zona"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 10.45,
+      "fin": 13.17,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NOTIFICACIÓN: EN 3 DÍAS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "ayuntM",
+          "x": 250,
+          "y": 830,
+          "tam": 330,
+          "en": 0.1
+        },
+        {
+          "tipo": "correoM",
+          "x": 800,
+          "y": 830,
+          "tam": 260,
+          "en": 0.1,
+          "sobre": {
+            "de": [
+              260,
+              790
+            ],
+            "en": 0.5,
+            "dur": 1.5,
+            "alto": 150
+          }
+        },
+        {
+          "tipo": "cifraGrande",
+          "texto": "3 DÍAS",
+          "x": 540,
+          "y": 1100,
+          "tamano": 130,
+          "en": 1.44
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Con el manual de instrucciones · art. 27.2",
+            "Fuente: BOE, LOREG · La Moncloa, 20-10-2026"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 13.17,
+      "fin": 17.89,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1 PRESIDENTE + 2 VOCALES",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "siluetasM",
+          "yMesa": 1040,
+          "presEn": 0.8600000000000001,
+          "vocEn": 1.74,
+          "suplEn": 3.42,
+          "en": 0
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cada uno, con 2 suplentes · arts. 25 y 26.3"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 17.89,
+      "fin": 19.73,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1 PRESIDENTE + 2 VOCALES",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "x": 500,
+          "y": 830,
+          "ancho": 880,
+          "alto": 640,
+          "foco": "46% 70%",
+          "zoom": [
+            1,
+            1.3
+          ],
+          "dur": 1.84,
+          "en": 0.1,
+          "credito": "Foto: Américo Toledano · CC BY-SA 4.0 · Wikimedia Commons",
+          "notas": [
+            "Imagen de archivo · Andalucía 2015"
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 19.73,
+      "fin": 22.93,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MENOS DE 70 AÑOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.2799999999999998
+        },
+        {
+          "tipo": "reglaEdadM",
+          "y": 990,
+          "xTope": 600,
+          "en": 0.1,
+          "hasta": 1.2799999999999998,
+          "t0": 0.15
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SABER LEER Y ESCRIBIR",
+          "y": 335,
+          "en": 1.3299999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "lapizLibroM",
+          "x": 420,
+          "y": 890,
+          "tam": 320,
+          "en": 1.3299999999999998,
+          "checkEn": 2.26
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Electores de esa mesa · art. 26.2"
+          ],
+          "en": 1.3299999999999998
+        }
+      ]
+    },
+    {
+      "inicio": 22.93,
+      "fin": 27.81,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PRESIDENCIA: BACHILLER O FP 2.º GRADO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "siluetasM",
+          "yMesa": 1040,
+          "presEn": -1,
+          "vocEn": -1,
+          "suplEn": -1,
+          "birreteEn": 2.1999999999999997,
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Si no, Graduado Escolar o equivalente · art. 26.2"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 27.81,
+      "fin": 28.98,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿NO PUEDES IR?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "cifraGrande",
+          "texto": "?",
+          "x": 540,
+          "y": 890,
+          "tamano": 420,
+          "en": 0.15
+        }
+      ]
+    },
+    {
+      "inicio": 28.98,
+      "fin": 31.09,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "7 DÍAS PARA ALEGAR",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillasM",
+          "y": 850,
+          "n": 7,
+          "tachan": [
+            0.65,
+            0.92,
+            1.19,
+            1.46,
+            1.73,
+            2,
+            2.27
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Ante la Junta Electoral de Zona · art. 27.3"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 31.09,
+      "fin": 33.13,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CAUSA JUSTIFICADA Y DOCUMENTADA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "documentoM",
+          "x": 300,
+          "y": 920,
+          "tam": 380,
+          "en": 0.1
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "JUSTIFICADA"
+          ],
+          "x": 640,
+          "y": 870,
+          "tamano": 64,
+          "angulo": -6,
+          "desde": 300,
+          "en": 0.8
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "La Junta resuelve en 5 días, sin recurso"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 33.13,
+      "fin": 37.29,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "65 O MÁS: PUEDES RENUNCIAR",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "bomboM",
+          "x": 290,
+          "y": 830,
+          "tam": 260,
+          "en": 0.1
+        },
+        {
+          "tipo": "fichaM",
+          "texto": "65+",
+          "r": 80,
+          "tamTexto": 56,
+          "ruta": [
+            {
+              "t": 0.8,
+              "x": 290,
+              "y": 830,
+              "e": 0.4
+            },
+            {
+              "t": 1.6,
+              "x": 560,
+              "y": 870,
+              "e": 1.1
+            }
+          ]
+        },
+        {
+          "tipo": "botonM",
+          "texto": "RENUNCIAR",
+          "x": 480,
+          "y": 1120,
+          "en": 1.46,
+          "checkEn": 2.26
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Plazo de 7 días · art. 26.2"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 37.29,
+      "fin": 39.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "8:00: SE CONSTITUYE LA MESA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.43
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LOREG, art. 80.1"
+          ],
+          "en": 0.05,
+          "hasta": 1.43
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "VOTACIÓN: 9:00–20:00",
+          "y": 335,
+          "en": 1.46,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "art. 84.1"
+          ],
+          "en": 1.46
+        },
+        {
+          "tipo": "relojM",
+          "x": 300,
+          "y": 880,
+          "tam": 340,
+          "puntos": [
+            {
+              "t": 0,
+              "h": 8
+            },
+            {
+              "t": 1.56,
+              "h": 9
+            },
+            {
+              "t": 2.1599999999999997,
+              "h": 20
+            }
+          ],
+          "yFranja": 1130,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 39.9,
+      "fin": 41.89,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DESPUÉS, EL RECUENTO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.0799999999999998
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DIETA: 75 €",
+          "y": 335,
+          "en": 1.13,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F2.jpg",
+          "x": 500,
+          "y": 800,
+          "ancho": 880,
+          "alto": 640,
+          "foco": "50% 55%",
+          "zoom": [
+            1,
+            1.15
+          ],
+          "dur": 1.99,
+          "en": 0,
+          "credito": "Foto: Txo · CC BY-SA 4.0 · Wikimedia Commons",
+          "notas": [
+            "Imagen de archivo · Bizkaia 2023"
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 41.89,
+      "fin": 45.49,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DIETA: 75 €",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "billeteM",
+          "texto": "75 €",
+          "x": 540,
+          "y": 890,
+          "tam": 480,
+          "sube": 160,
+          "en": 0
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Orden INT/650/2026"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 45.49,
+      "fin": 48.37,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "AL DÍA SIGUIENTE: 5 HORAS MENOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "jornadaM",
+          "x": 540,
+          "y": 880,
+          "yBarra": 1110,
+          "n": 5,
+          "apagan": [
+            1.54,
+            1.84,
+            2.14,
+            2.44,
+            2.74
+          ],
+          "en": 0.15
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Por cuenta ajena o funcionario · art. 28.1"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 48.37,
+      "fin": 52.87,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "75 € ÍNTEGROS, DURE LO QUE DURE",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "billeteM",
+          "texto": "75 €",
+          "x": 540,
+          "y": 940,
+          "tam": 480,
+          "orbita": true,
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Orden INT/650/2026, art. 3"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 52.87,
+      "fin": 55.55,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "FALTAR SIN CAUSA: DELITO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "siluetasM",
+          "yMesa": 1040,
+          "presEn": -1,
+          "vocEn": -1,
+          "ausenteEn": 0.52,
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "También abandonar la mesa · LOREG, art. 143"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 55.55,
+      "fin": 58.63,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PRISIÓN 3 MESES–1 AÑO, O MULTA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "balanzaM",
+          "y": 730,
+          "izq": [
+            "PRISIÓN",
+            "3 M–1 A"
+          ],
+          "der": [
+            "MULTA"
+          ],
+          "cx": 500,
+          "sep": 285,
+          "panW": 320,
+          "oEn": 2.12,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Multa de 6 a 24 meses · art. 143"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 58.63,
+      "fin": 62.38,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SORTEO · 7 DÍAS · 75 €",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "bomboM",
+          "x": 300,
+          "y": 950,
+          "tam": 340,
+          "en": -1
+        },
+        {
+          "tipo": "fichaM",
+          "texto": "¿TÚ?",
+          "r": 90,
+          "tamTexto": 56,
+          "ruta": [
+            {
+              "t": 0.9,
+              "x": 300,
+              "y": 950,
+              "e": 0.4
+            },
+            {
+              "t": 2,
+              "x": 700,
+              "y": 970,
+              "e": 1.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 62.38,
+      "fin": 67.2,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿TE HA TOCADO ALGUNA VEZ?",
+          "tamano": 104,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

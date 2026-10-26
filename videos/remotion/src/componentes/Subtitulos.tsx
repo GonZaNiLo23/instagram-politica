@@ -31,7 +31,7 @@ export const trocear = (palabras: Palabra[], maxPal = 5, maxCar = 32, sinHuerfan
 };
 
 /** Subtítulos quemados: banda y=1150-1400, máx. 2 líneas, palabra activa en mostaza, dentro de zonas seguras. */
-export const Subtitulos: React.FC<{palabras: Palabra[]; ocultarEn?: [number, number][]; sinHuerfanas?: boolean}> = ({palabras, ocultarEn = [], sinHuerfanas = false}) => {
+export const Subtitulos: React.FC<{palabras: Palabra[]; ocultarEn?: [number, number][]; sinHuerfanas?: boolean; dy?: number}> = ({palabras, ocultarEn = [], sinHuerfanas = false, dy = 0}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const t = frame / fps;
@@ -42,7 +42,7 @@ export const Subtitulos: React.FC<{palabras: Palabra[]; ocultarEn?: [number, num
   let activa = 0;
   tr.palabras.forEach((w, i) => { if (t >= w.inicio) activa = i; });
   return (
-    <div style={{position: 'absolute', left: SEGURA.izq, width: SEGURA.ancho, top: SUBS.y, display: 'flex', justifyContent: 'center'}}>
+    <div style={{position: 'absolute', left: SEGURA.izq, width: SEGURA.ancho, top: SUBS.y + dy, display: 'flex', justifyContent: 'center'}}>
       <div style={{background: 'rgba(20,33,61,0.93)', borderRadius: 18, padding: '16px 30px', textAlign: 'center', maxWidth: SEGURA.ancho, fontFamily: F.texto, fontWeight: 700, fontSize: 56, lineHeight: 1.2}}>
         {tr.palabras.map((w, i) => (
           <span key={i} style={{color: i === activa ? C.mostaza : C.crema}}>{w.t}{i < tr.palabras.length - 1 ? ' ' : ''}</span>
