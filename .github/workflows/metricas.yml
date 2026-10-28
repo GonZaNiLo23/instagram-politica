@@ -1,0 +1,33 @@
+# Recogida diaria de métricas de Instagram por la API (sin Chrome ni Metricool). Solo lectura.
+# 07:30 UTC = 08:30 en Madrid (horario de invierno). Deja publicado/metricas-api/AAAA-MM-DD.json;
+# el agente monitoreador (rutina en la nube, después) lo analiza y escribe el informe de rendimiento.
+name: Métricas diarias
+
+on:
+  schedule:
+    - cron: "30 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metricas:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Leer métricas
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: node herramientas/publicar-api/metricas.mjs
+      - name: Guardar
+        run: |
+          git config user.name "metricas-nube"
+          git config user.email "metricas-nube@users.noreply.github.com"
+          git add publicado/metricas-api
+          git diff --cached --quiet || { git commit -q -m "Métricas de Instagram $(date -u +%F)"; git pull --rebase -q && git push -q; }
