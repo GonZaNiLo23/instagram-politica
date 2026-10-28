@@ -18,5 +18,5 @@ subir() { # subir <archivo .env> <clave>…
 }
 
 subir videos/.env ELEVENLABS_API_KEY ELEVENLABS_VOICE_ID ELEVENLABS_MODEL ELEVENLABS_AJUSTES
-subir herramientas/publicar-api/.env IG_USER_ID IG_ACCESS_TOKEN
+subir herramientas/publicar-api/.env IG_USER_ID IG_ACCESS_TOKEN TIKTOK_CLIENT_KEY TIKTOK_CLIENT_SECRET TIKTOK_REFRESH_TOKEN
 "$GH" secret list -R "$REPO"

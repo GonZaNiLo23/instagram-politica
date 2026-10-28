@@ -67,6 +67,12 @@ for (const e of cola) {
     const m = salida.match(/PUBLICADO (\S+)(?: · (\S+))?/);
     Object.assign(e, {estado: 'publicado', id: m?.[1], enlace: m?.[2], publicado_en: new Date().toISOString()});
     registro(`${e.pieza} ${e.version}: PUBLICADA en Instagram ${m?.[2] || m?.[1] || ''}`);
+    // TikTok: el mismo vídeo va a la bandeja de borradores; la persona usuaria lo publica desde la app
+    if (process.env.TIKTOK_REFRESH_TOKEN && e.tiktok !== false) {
+      const t = spawnSync(process.execPath, [path.join(RAIZ, 'herramientas', 'publicar-api', 'tiktok.mjs'), 'borrador', video(e.pieza, e.version)], {encoding: 'utf8'});
+      e.tiktok_estado = t.status === 0 ? 'borrador' : 'error';
+      registro(`${e.pieza}: TikTok ${t.status === 0 ? 'en la bandeja de borradores (falta publicarlo desde la app)' : 'ERROR: ' + `${t.stdout}${t.stderr}`.trim().split('\n').pop()}`);
+    }
   } catch (err) {
     Object.assign(e, {estado: 'error', error: String(err.message).slice(0, 300)});
     registro(`${e.pieza}: ERROR al publicar: ${e.error}`);

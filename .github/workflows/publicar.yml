@@ -1,6 +1,7 @@
 # Publicador automático de Instagram: cada 15 min revisa estado/cola-publicacion.json y publica lo que toca
 # (herramientas/publicar-api/cola.mjs). Respeta los vetos de estado/vetos.md y exige "aprobacion" en cada entrada.
-# Solo reels de Instagram; TikTok y carruseles siguen a mano. Claves: secretos IG_USER_ID e IG_ACCESS_TOKEN.
+# Reels de Instagram; el mismo vídeo va a la bandeja de borradores de TikTok (se publica a mano desde la app).
+# Carruseles, a mano. Claves: secretos IG_USER_ID, IG_ACCESS_TOKEN y TIKTOK_* (si faltan los de TikTok, solo Instagram).
 name: Publicar cola
 
 on:
@@ -44,6 +45,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
           PRUEBA: ${{ inputs.prueba && '--prueba' || '' }}
         run: |
           node herramientas/publicar-api/cola.mjs $PRUEBA
