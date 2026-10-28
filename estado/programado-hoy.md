@@ -14,3 +14,5 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 018-voto-en-blanco | Reel 74 s | Instagram + TikTok | 2026-10-29 13:30 | revisiones/guiones/018-…-v1.md (literales aplicados) · revisiones/videos/018-…-v5.md (9/10) |
 | 020-junta-electoral-central | Reel 71 s | Instagram + TikTok | 2026-10-30 13:30 | revisiones/guiones/020-…-v1.md (literales aplicados) · revisiones/videos/020-…-v2.md (9/10) |
 | 019-huelga-general-11n | Reel 94 s | Instagram (Metricool) + TikTok | 2026-11-09 19:00 | revisiones/guiones/019-…-v1.md (literales aplicados) · revisiones/videos/019-…-v2.md (9/10). Recomprobar servicios mínimos y CEOE la mañana del 9-11 |
+| 015-voto-exterior-fin-voto-rogado | Reel 33 s | Instagram + TikTok | 2026-10-29 10:00 (3.ª del día, elegida por la persona usuaria) | revisiones/guiones/015-…-v1.md (literales aplicados) · revisiones/videos/015-…-v3.md (9/10). Antes: que la JEC no haya ampliado el plazo ERTA del 31-10 |
+| 017-midterms-eeuu | Reel 87 s | Instagram + TikTok | 2026-10-31 19:00 | revisiones/guiones/017-…-v2.md · revisiones/videos/017-…-v2.md (9/10). Recomprobar escaños en clerk.house.gov |

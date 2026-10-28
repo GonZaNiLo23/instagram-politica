@@ -59,11 +59,11 @@ Elegida **a propósito lejos de los colores de los partidos españoles**: la cue
 - Personas reales: silueta de busto plana en tinta + rótulo con nombre y cargo. Nunca caricaturas ni rasgos exagerados.
 
 ## Voz en off
-- Español de España, cercana, ritmo vivo (~150 palabras/min), sonrisa en la voz pero sin tono de anuncio.
+- Español de España, cercana, ritmo vivo (~165 palabras/min, la velocidad real de la voz), sonrisa en la voz pero sin tono de anuncio.
 - Volumen final ≈ -14 LUFS; música (si la hay) 18–22 dB por debajo de la voz.
 - Pronunciación: revisar siglas (se leen "pe-pe", "pe-ese-o-e", "u-e" o "Unión Europea"…) y añadir guía fonética en el guion si hace falta.
 - **Máximo 15 palabras por frase de voz**, contando las cifras como se leen. Las listas de fechas o cifras van en pantalla (línea de tiempo, barras) y la voz da solo el resumen. *(Incorporada el 2026-10-19 desde `feedback/guionista.md`: 3 ocurrencias.)*
-- **Duración y tiempos con el recuento real:** cuenta las palabras del "Texto de voz limpio" final, calcula la duración (≈ 150 palabras/min) y asigna los tiempos de cada bloque según sus palabras. Nunca a ojo. *(Incorporada el 2026-10-19: 4 ocurrencias.)*
+- **Duración y tiempos con el recuento real:** cuenta las palabras del "Texto de voz limpio" final, calcula la duración (≈ 165 palabras/min) y asigna los tiempos de cada bloque según sus palabras. Nunca a ojo. *(Incorporada el 2026-10-19: 4 ocurrencias.)*
 
 ## Portada
 - Todo guion define su portada: titular de 6 palabras como máximo más una imagen, legible en miniatura y dentro del recorte central 4:5 (1080×1350). *(Incorporada el 2026-10-19: 3 ocurrencias.)*

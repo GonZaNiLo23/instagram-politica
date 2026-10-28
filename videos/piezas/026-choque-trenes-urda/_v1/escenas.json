@@ -1,0 +1,257 @@
+{
+  "plantilla": "estandar",
+  "duracion": 73.2,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -18
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "Choque de trenes en Urda (Toledo)",
+            "y": 330,
+            "tamano": 96,
+            "en": -1
+          },
+          {
+            "tipo": "mapaU",
+            "x": 480,
+            "y": 620,
+            "sc": 0.38,
+            "en": -1,
+            "toledoEn": 0,
+            "urdaEn": 0
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 6.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Choque de trenes en Urda (Toledo)",
+          "y": 335,
+          "en": -1,
+          "tamano": 72
+        },
+        {
+          "tipo": "mapaU",
+          "x": 480,
+          "y": 560,
+          "sc": 0.38,
+          "en": -1,
+          "toledoEn": 1.2,
+          "urdaEn": 1.6,
+          "zoom": {
+            "en": 2,
+            "dur": 3.5,
+            "escala": 1.5
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 6.3,
+      "fin": 15.82,
+      "componentes": [
+        {
+          "tipo": "datoU",
+          "cifra": "30",
+          "fuente": "Junta de Castilla-La Mancha",
+          "hora": "10:30",
+          "en": 0.05,
+          "fuenteEn": 0.92,
+          "sinEn": 4.88
+        }
+      ]
+    },
+    {
+      "inicio": 15.82,
+      "fin": 27.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Alta velocidad Madrid-Andalucía: cortada",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 7.87
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Consulta con tu compañía",
+          "y": 335,
+          "en": 7.92,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaU",
+          "x": 480,
+          "y": 580,
+          "sc": 0.38,
+          "en": 0.05,
+          "toledoEn": 0,
+          "urdaEn": 0,
+          "linea": {
+            "en": 0.4,
+            "grisEn": 3.84,
+            "tachaEn": 3.94
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 27.66,
+      "fin": 38.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Qué es un alcance?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 7.6000000000000005
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Causa: sin determinar",
+          "y": 335,
+          "en": 7.75,
+          "tamano": 64
+        },
+        {
+          "tipo": "alcanceU",
+          "y": 640,
+          "en": 0.1,
+          "llegaEn": 5.38,
+          "dur": 4.5
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO",
+            "CONFIRMADO"
+          ],
+          "x": 440,
+          "y": 900,
+          "tamano": 64,
+          "angulo": -4,
+          "desde": 40,
+          "en": 7.95
+        }
+      ]
+    },
+    {
+      "inicio": 38.42,
+      "fin": 46.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Sistemas de frenado automático",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.19
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "En este tramo: lo dirá la investigación",
+          "y": 335,
+          "en": 4.29,
+          "tamano": 64
+        },
+        {
+          "tipo": "seguridadU",
+          "y": 640,
+          "en": 0.1,
+          "pasos": [
+            0.5,
+            1.14,
+            2.99
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 46.66,
+      "fin": 61.46,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CIAF: causas, no culpables",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 10.35
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Informe final: 12 meses, por regla general",
+          "y": 335,
+          "en": 10.450000000000001,
+          "tamano": 64
+        },
+        {
+          "tipo": "plazoU",
+          "y": 640,
+          "en": 0.1,
+          "hitoEn": 11.3
+        }
+      ]
+    },
+    {
+      "inicio": 61.46,
+      "fin": 69.66,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Causa: por determinar",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaU",
+          "x": 480,
+          "y": 580,
+          "sc": 0.38,
+          "en": 0.05,
+          "toledoEn": 0,
+          "urdaEn": 0.2,
+          "zoom": {
+            "en": 0.3,
+            "dur": 4.5,
+            "escala": 1.4
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 69.66,
+      "fin": 73.2,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Causa: por determinar",
+          "tamano": 88,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

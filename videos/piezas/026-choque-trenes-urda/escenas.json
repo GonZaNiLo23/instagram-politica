@@ -1,0 +1,931 @@
+{
+  "plantilla": "estandar",
+  "duracion": 87.42,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "Choque de trenes en Urda (Toledo)",
+            "y": 330,
+            "tamano": 96,
+            "en": -1
+          },
+          {
+            "tipo": "foto",
+            "src": "a8.jpg",
+            "x": 500,
+            "y": 1010,
+            "ancho": 880,
+            "alto": 640,
+            "foco": "28% 78%",
+            "zoom": [
+              1.2,
+              1.2
+            ],
+            "dur": 0.01,
+            "en": -1,
+            "notas": [
+              "Imagen de archivo"
+            ],
+            "credito": "Foto: Javier Perez Montes · CC BY-SA 4.0 · Commons"
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 6.46,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Choque de trenes en Urda (Toledo)",
+          "y": 335,
+          "en": -1,
+          "tamano": 72
+        },
+        {
+          "tipo": "foto",
+          "src": "a1.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 0,
+          "hasta": 3.47,
+          "dur": 3.47,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Javier Perez Montes · CC BY-SA 4.0 · Commons",
+          "foco": "22% 88%",
+          "zoom": [
+            1.5,
+            1.9
+          ],
+          "pan": [
+            30,
+            0
+          ]
+        },
+        {
+          "tipo": "foto",
+          "src": "a2.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 3.52,
+          "hasta": 4.96,
+          "dur": 1.44,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: MNXANL · CC BY-SA 4.0 · Commons",
+          "foco": "45% 50%",
+          "zoom": [
+            1,
+            1.25
+          ]
+        },
+        {
+          "tipo": "foto",
+          "src": "a8.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 4.96,
+          "hasta": 6.46,
+          "dur": 1.5,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Javier Perez Montes · CC BY-SA 4.0 · Commons",
+          "foco": "28% 78%",
+          "zoom": [
+            1.2,
+            1.55
+          ],
+          "pan": [
+            -30,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 6.46,
+      "fin": 9.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "3 preguntas: balance · viaje · causa",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaU",
+          "x": 480,
+          "y": 760,
+          "sc": 0.38,
+          "en": -1,
+          "toledoEn": 0.6,
+          "urdaEn": 1,
+          "zoom": {
+            "en": 1.4,
+            "dur": 1.5,
+            "escala": 1.3
+          }
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "pend",
+            "pend",
+            "pend"
+          ],
+          "aparece": [
+            1.66,
+            1.9100000000000001,
+            2.02
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 9.42,
+      "fin": 11.54,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1 · Balance",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 96
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "act",
+            "pend",
+            "pend"
+          ],
+          "pops": [
+            0.05,
+            null,
+            null
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 11.54,
+      "fin": 16.74,
+      "componentes": [
+        {
+          "tipo": "datoU",
+          "cifra": "30",
+          "fuente": "Junta de Castilla-La Mancha",
+          "hora": "10:30",
+          "y": 400,
+          "en": 0.05,
+          "fuenteEn": 1.0799999999999998,
+          "sinEn": 99
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "act",
+            "pend",
+            "pend"
+          ],
+          "pops": [
+            null,
+            null,
+            null
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 16.74,
+      "fin": 21.58,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Cifras más altas: sin confirmar",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "a5.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 0,
+          "hasta": 2.89,
+          "dur": 2.89,
+          "notas": [
+            "Imagen de archivo: Urda"
+          ],
+          "credito": "Foto: Julen Iturbe-Ormaetxe · CC BY-SA 2.0 · Commons",
+          "foco": "30% 55%",
+          "zoom": [
+            1.05,
+            1.3
+          ],
+          "pan": [
+            -40,
+            0
+          ]
+        },
+        {
+          "tipo": "foto",
+          "src": "a5.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 2.94,
+          "hasta": 4.84,
+          "dur": 1.9,
+          "notas": [
+            "Imagen de archivo: Urda"
+          ],
+          "credito": "Foto: Julen Iturbe-Ormaetxe · CC BY-SA 2.0 · Commons",
+          "foco": "85% 40%",
+          "zoom": [
+            1.3,
+            1.1
+          ],
+          "pan": [
+            40,
+            10
+          ]
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "act",
+            "pend",
+            "pend"
+          ],
+          "pops": [
+            null,
+            null,
+            null
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 21.58,
+      "fin": 31.14,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2 · Tu viaje",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 96,
+          "hasta": 1.65
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Alta velocidad Madrid-Andalucía: cortada",
+          "y": 335,
+          "en": 1.7,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaU",
+          "x": 480,
+          "y": 800,
+          "sc": 0.38,
+          "en": 1.7,
+          "hasta": 5.33,
+          "toledoEn": 0,
+          "urdaEn": 0,
+          "linea": {
+            "en": 2.1,
+            "grisEn": 4.28,
+            "tachaEn": 4.58
+          }
+        },
+        {
+          "tipo": "foto",
+          "src": "a6.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 5.33,
+          "hasta": 6.8,
+          "dur": 1.47,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Zarateman · CC0 · Commons",
+          "foco": "50% 30%",
+          "zoom": [
+            1,
+            1.25
+          ]
+        },
+        {
+          "tipo": "foto",
+          "src": "a9.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 6.8,
+          "hasta": 8.04,
+          "dur": 1.24,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Liberaler Humanist · CC BY-SA 3.0 · Commons",
+          "foco": "40% 55%",
+          "zoom": [
+            1,
+            1.3
+          ],
+          "pan": [
+            -30,
+            0
+          ]
+        },
+        {
+          "tipo": "foto",
+          "src": "a8.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 8.04,
+          "hasta": 9.56,
+          "dur": 1.52,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Javier Perez Montes · CC BY-SA 4.0 · Commons",
+          "foco": "30% 80%",
+          "zoom": [
+            1.3,
+            1.5
+          ],
+          "pan": [
+            -20,
+            0
+          ]
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "ok",
+            "act",
+            "pend"
+          ],
+          "pops": [
+            null,
+            0.05,
+            null
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 31.14,
+      "fin": 35.18,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Consulta con tu compañía",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "a1.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 0,
+          "hasta": 2.9,
+          "dur": 2.9,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Javier Perez Montes · CC BY-SA 4.0 · Commons",
+          "foco": "22% 88%",
+          "zoom": [
+            1.6,
+            1.3
+          ],
+          "pan": [
+            -30,
+            0
+          ]
+        },
+        {
+          "tipo": "foto",
+          "src": "a2.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 2.9,
+          "hasta": 4.04,
+          "dur": 1.14,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: MNXANL · CC BY-SA 4.0 · Commons",
+          "foco": "30% 60%",
+          "zoom": [
+            1.1,
+            1.4
+          ],
+          "pan": [
+            40,
+            0
+          ]
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "ok",
+            "act",
+            "pend"
+          ],
+          "pops": [
+            null,
+            null,
+            null
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 35.18,
+      "fin": 41.22,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "3 · La causa",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 96
+        },
+        {
+          "tipo": "foto",
+          "src": "a8.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 0,
+          "hasta": 3.17,
+          "dur": 3.17,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Javier Perez Montes · CC BY-SA 4.0 · Commons",
+          "foco": "40% 78%",
+          "zoom": [
+            1.5,
+            1.9
+          ]
+        },
+        {
+          "tipo": "foto",
+          "src": "a9.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 3.22,
+          "hasta": 6.04,
+          "dur": 2.82,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Liberaler Humanist · CC BY-SA 3.0 · Commons",
+          "foco": "70% 30%",
+          "zoom": [
+            1.1,
+            1.4
+          ],
+          "pan": [
+            -30,
+            20
+          ]
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "ok",
+            "ok",
+            "act"
+          ],
+          "pops": [
+            null,
+            null,
+            0.05
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 41.22,
+      "fin": 48.74,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Qué es un alcance?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 5.7700000000000005
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Sin determinar",
+          "y": 335,
+          "en": 5.82,
+          "tamano": 64
+        },
+        {
+          "tipo": "alcanceU",
+          "y": 680,
+          "en": 0.1,
+          "llegaEn": 3.26,
+          "dur": 6.5
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO",
+            "CONFIRMADO"
+          ],
+          "x": 440,
+          "y": 960,
+          "tamano": 64,
+          "angulo": -4,
+          "desde": 40,
+          "en": 4.76
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "ok",
+            "ok",
+            "act"
+          ],
+          "pops": [
+            null,
+            null,
+            null
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 48.74,
+      "fin": 52.98,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Sistemas de frenado automático",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "seguridadU",
+          "y": 680,
+          "en": 0.1,
+          "pasos": [
+            0.5,
+            1.66,
+            3.34
+          ]
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "ok",
+            "ok",
+            "act"
+          ],
+          "pops": [
+            null,
+            null,
+            null
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 52.98,
+      "fin": 57.13,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "En este tramo: lo dirá la investigación",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "a1.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 0,
+          "hasta": 1.74,
+          "dur": 1.74,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Javier Perez Montes · CC BY-SA 4.0 · Commons",
+          "foco": "22% 88%",
+          "zoom": [
+            1.9,
+            1.5
+          ],
+          "pan": [
+            20,
+            0
+          ]
+        },
+        {
+          "tipo": "foto",
+          "src": "a8.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 1.74,
+          "hasta": 4.15,
+          "dur": 2.41,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Javier Perez Montes · CC BY-SA 4.0 · Commons",
+          "foco": "45% 78%",
+          "zoom": [
+            1.3,
+            1.7
+          ],
+          "pan": [
+            -30,
+            0
+          ]
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "ok",
+            "ok",
+            "act"
+          ],
+          "pops": [
+            null,
+            null,
+            null
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 57.13,
+      "fin": 69.14,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CIAF: causas, no culpables",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaU",
+          "x": 480,
+          "y": 800,
+          "sc": 0.38,
+          "en": 0.05,
+          "hasta": 8.18,
+          "toledoEn": 0,
+          "urdaEn": 0.4,
+          "zoom": {
+            "en": 1.2,
+            "dur": 4.5,
+            "escala": 1.5
+          }
+        },
+        {
+          "tipo": "foto",
+          "src": "a9.jpg",
+          "x": 500,
+          "y": 860,
+          "ancho": 880,
+          "alto": 560,
+          "en": 8.23,
+          "hasta": 12.01,
+          "dur": 3.78,
+          "notas": [
+            "Imagen de archivo"
+          ],
+          "credito": "Foto: Liberaler Humanist · CC BY-SA 3.0 · Commons",
+          "foco": "85% 30%",
+          "zoom": [
+            1,
+            1.4
+          ],
+          "pan": [
+            -40,
+            0
+          ]
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "ok",
+            "ok",
+            "act"
+          ],
+          "pops": [
+            null,
+            null,
+            null
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 69.14,
+      "fin": 73.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Informe final: 12 meses, por regla general",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "plazoU",
+          "y": 700,
+          "en": 0.1,
+          "hitoEn": 3.34
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "ok",
+            "ok",
+            "act"
+          ],
+          "pops": [
+            null,
+            null,
+            null
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 73.7,
+      "fin": 79.98,
+      "componentes": [
+        {
+          "tipo": "pastillasU",
+          "items": [
+            {
+              "texto": "PP",
+              "en": 0.1,
+              "y": 480
+            },
+            {
+              "texto": "PSOE",
+              "en": 0.62,
+              "y": 640
+            },
+            {
+              "texto": "Frente Amplio",
+              "en": 1.26,
+              "y": 800
+            },
+            {
+              "texto": "Vox",
+              "en": 4.26,
+              "y": 1000
+            }
+          ]
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "ok",
+            "ok",
+            "act"
+          ],
+          "pops": [
+            null,
+            null,
+            null
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 79.98,
+      "fin": 83.78,
+      "componentes": [
+        {
+          "tipo": "resumenU",
+          "y": 480,
+          "filas": [
+            {
+              "texto": "Balance abierto",
+              "en": 0.1
+            },
+            {
+              "texto": "Línea cortada",
+              "en": 1.3
+            },
+            {
+              "texto": "Causa: por determinar",
+              "en": 2.42
+            }
+          ]
+        },
+        {
+          "tipo": "marcadorU",
+          "estados": [
+            "ok",
+            "ok",
+            "ok"
+          ],
+          "pops": [
+            0.1,
+            1.3,
+            2.42
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 83.78,
+      "fin": 87.42,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Causa: por determinar",
+          "tamano": 88,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

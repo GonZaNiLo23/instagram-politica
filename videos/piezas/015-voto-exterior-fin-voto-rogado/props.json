@@ -1,0 +1,913 @@
+{
+  "plantilla": "flash",
+  "duracion": 33.46,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "¿TIENES QUE PEDIR EL VOTO DESDE FUERA?",
+            "y": 350,
+            "tamano": 100,
+            "en": -1
+          },
+          {
+            "tipo": "mundoX",
+            "x": 500,
+            "y": 960,
+            "ancho": 860,
+            "en": -1,
+            "interrogante": {
+              "lon": 135,
+              "lat": -25,
+              "tam": 280,
+              "en": -1
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.3,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿TIENES QUE PEDIR EL VOTO DESDE FUERA?",
+          "y": 335,
+          "tamano": 88,
+          "en": -1,
+          "hasta": 4.41
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DEPENDE",
+          "y": 335,
+          "en": 4.46,
+          "tamano": 64
+        },
+        {
+          "tipo": "mundoX",
+          "x": 500,
+          "y": 940,
+          "ancho": 860,
+          "en": -1,
+          "interrogante": {
+            "lon": 135,
+            "lat": -25,
+            "tam": 260,
+            "en": -1,
+            "fuera": 4.51
+          }
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "RESIDES",
+          "x": 310,
+          "y": 1075,
+          "w": 380,
+          "h": 110,
+          "fs": 64,
+          "desde": -1,
+          "en": 4.76
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "DE PASO",
+          "x": 710,
+          "y": 1075,
+          "w": 380,
+          "h": 110,
+          "fs": 64,
+          "desde": -1,
+          "en": 4.76
+        }
+      ]
+    },
+    {
+      "inicio": 5.3,
+      "fin": 9.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "RESIDES FUERA: INSCRITO EN EL CERA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "RESIDES",
+          "x": 540,
+          "y": 910,
+          "w": 760,
+          "h": 210,
+          "fs": 100,
+          "fill": "#F2B134",
+          "en": 0.05,
+          "checkEn": 2.7
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO PIDES NADA"
+          ],
+          "x": 480,
+          "y": 990,
+          "tamano": 68,
+          "angulo": -4,
+          "desde": 40,
+          "fondo": "#2A9D8F",
+          "en": 3.24
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "CERA = censo de residentes ausentes"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 9.7,
+      "fin": 13.86,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DESDE 2022: SE ENVÍA DE OFICIO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mundoX",
+          "x": 500,
+          "y": 910,
+          "ancho": 860,
+          "en": 0.1,
+          "oficina": {
+            "en": 0.3
+          },
+          "vuelo": {
+            "de": [
+              -3,
+              40
+            ],
+            "a": [
+              -64,
+              -34
+            ],
+            "en": 2.36,
+            "dur": 1.2,
+            "alto": 30
+          }
+        },
+        {
+          "tipo": "fechaX",
+          "texto": "24–30 OCT",
+          "x": 540,
+          "y": 1170,
+          "tam": 64,
+          "en": 2.36
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LO 12/2022, art. 75 LOREG",
+            "Envío de la documentación · Exteriores"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 13.86,
+      "fin": 16.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2011–2022: HABÍA QUE PEDIRLO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "formularioX",
+          "x": 500,
+          "y": 890,
+          "tam": 400,
+          "en": 0.1,
+          "tachaEn": 1.69
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "LO 2/2011 → LO 12/2022"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 16.7,
+      "fin": 20.81,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EN URNA: 21–26 NOV",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "x": 500,
+          "y": 900,
+          "ancho": 880,
+          "alto": 600,
+          "foco": "50% 50%",
+          "zoom": [
+            1,
+            1.12
+          ],
+          "dur": 2.2,
+          "en": 0.1,
+          "hasta": 2.3,
+          "notas": [
+            "Imagen de archivo · Andalucía 2015",
+            "Foto: Américo Toledano",
+            "CC BY-SA 4.0 · Wikimedia Commons"
+          ]
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "NOVIEMBRE",
+          "primer": 6,
+          "dias": 30,
+          "x": 540,
+          "y": 580,
+          "en": 2.2,
+          "rellenos": [
+            {
+              "d0": 21,
+              "d1": 26,
+              "en": 2.4,
+              "paso": 0.15
+            }
+          ],
+          "grises": [
+            29
+          ]
+        },
+        {
+          "tipo": "etiquetaSobreX",
+          "texto": "O POR CORREO",
+          "x": 150,
+          "y": 1185,
+          "en": 3.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "O por correo · art. 75 LOREG"
+          ],
+          "en": 2.4
+        }
+      ]
+    },
+    {
+      "inicio": 20.81,
+      "fin": 22.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿DE PASO?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "DE PASO",
+          "x": 540,
+          "y": 710,
+          "w": 520,
+          "h": 120,
+          "fs": 72,
+          "fill": "#F2B134",
+          "en": 0.05
+        },
+        {
+          "tipo": "mundoX",
+          "x": 500,
+          "y": 990,
+          "ancho": 860,
+          "en": 0.1,
+          "puntos": [
+            {
+              "lon": 139,
+              "lat": 36,
+              "en": 0.3
+            }
+          ]
+        },
+        {
+          "tipo": "maletaX",
+          "x": 826,
+          "y": 868,
+          "tam": 130,
+          "en": 0.45
+        }
+      ]
+    },
+    {
+      "inicio": 22.42,
+      "fin": 23.98,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PÍDELO EN EL CONSULADO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "sobreX",
+          "x": 480,
+          "y": 910,
+          "tam": 380,
+          "clip": true,
+          "en": 0.1
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "SOLICITUD"
+          ],
+          "x": 600,
+          "y": 1040,
+          "tamano": 64,
+          "angulo": -6,
+          "desde": 40,
+          "en": 0.9
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Inscrito como no residente"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 23.98,
+      "fin": 26.75,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PLAZO: SÁBADO 31 OCT",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "OCTUBRE",
+          "primer": 3,
+          "dias": 31,
+          "x": 540,
+          "y": 580,
+          "en": 0.1,
+          "aro": {
+            "d": 31,
+            "en": 1.3599999999999999
+          }
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Entrega en persona · mira el horario de tu consulado"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 26.75,
+      "fin": 29.22,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿SIN PEDIRLO?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mundoX",
+          "x": 500,
+          "y": 940,
+          "ancho": 860,
+          "en": 0.05,
+          "interrogante": {
+            "lon": 135,
+            "lat": -25,
+            "tam": 260,
+            "en": 0.1
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 29.22,
+      "fin": 33.46,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿DEBERÍA RECIBIRLO TAMBIÉN QUIEN ESTÁ DE PASO?",
+          "tamano": 80,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "015-voto-exterior-fin-voto-rogado",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Estás",
+      "inicio": 0,
+      "fin": 0.32
+    },
+    {
+      "t": "fuera",
+      "inicio": 0.36,
+      "fin": 0.64
+    },
+    {
+      "t": "y",
+      "inicio": 0.72,
+      "fin": 0.8
+    },
+    {
+      "t": "quieres",
+      "inicio": 0.88,
+      "fin": 1.12
+    },
+    {
+      "t": "votar",
+      "inicio": 1.2,
+      "fin": 1.44
+    },
+    {
+      "t": "el",
+      "inicio": 1.48,
+      "fin": 1.52
+    },
+    {
+      "t": "veintinueve",
+      "inicio": 1.6,
+      "fin": 2.08
+    },
+    {
+      "t": "de",
+      "inicio": 2.16,
+      "fin": 2.24
+    },
+    {
+      "t": "noviembre.",
+      "inicio": 2.32,
+      "fin": 2.88
+    },
+    {
+      "t": "¿Tienes",
+      "inicio": 3.04,
+      "fin": 3.28
+    },
+    {
+      "t": "que",
+      "inicio": 3.36,
+      "fin": 3.4
+    },
+    {
+      "t": "pedir",
+      "inicio": 3.44,
+      "fin": 3.68
+    },
+    {
+      "t": "el",
+      "inicio": 3.72,
+      "fin": 3.76
+    },
+    {
+      "t": "voto?",
+      "inicio": 3.8,
+      "fin": 4.4
+    },
+    {
+      "t": "Depende.",
+      "inicio": 4.56,
+      "fin": 5.36
+    },
+    {
+      "t": "Si",
+      "inicio": 5.4,
+      "fin": 5.44
+    },
+    {
+      "t": "estás",
+      "inicio": 5.52,
+      "fin": 5.76
+    },
+    {
+      "t": "en",
+      "inicio": 5.8,
+      "fin": 5.84
+    },
+    {
+      "t": "el",
+      "inicio": 5.92,
+      "fin": 6
+    },
+    {
+      "t": "censo",
+      "inicio": 6.08,
+      "fin": 6.32
+    },
+    {
+      "t": "de",
+      "inicio": 6.36,
+      "fin": 6.4
+    },
+    {
+      "t": "residentes",
+      "inicio": 6.48,
+      "fin": 6.96
+    },
+    {
+      "t": "ausentes,",
+      "inicio": 7.04,
+      "fin": 7.76
+    },
+    {
+      "t": "el",
+      "inicio": 7.84,
+      "fin": 7.92
+    },
+    {
+      "t": "CERA,",
+      "inicio": 8,
+      "fin": 8.56
+    },
+    {
+      "t": "no",
+      "inicio": 8.64,
+      "fin": 8.72
+    },
+    {
+      "t": "pides",
+      "inicio": 8.8,
+      "fin": 9.04
+    },
+    {
+      "t": "nada.",
+      "inicio": 9.12,
+      "fin": 9.68
+    },
+    {
+      "t": "Desde",
+      "inicio": 9.8,
+      "fin": 9.92
+    },
+    {
+      "t": "dos",
+      "inicio": 10,
+      "fin": 10.08
+    },
+    {
+      "t": "mil",
+      "inicio": 10.16,
+      "fin": 10.24
+    },
+    {
+      "t": "veintidós,",
+      "inicio": 10.28,
+      "fin": 10.96
+    },
+    {
+      "t": "el",
+      "inicio": 11,
+      "fin": 11.04
+    },
+    {
+      "t": "Censo",
+      "inicio": 11.12,
+      "fin": 11.36
+    },
+    {
+      "t": "Electoral",
+      "inicio": 11.44,
+      "fin": 11.92
+    },
+    {
+      "t": "te",
+      "inicio": 12,
+      "fin": 12.08
+    },
+    {
+      "t": "manda",
+      "inicio": 12.16,
+      "fin": 12.32
+    },
+    {
+      "t": "la",
+      "inicio": 12.4,
+      "fin": 12.48
+    },
+    {
+      "t": "documentación",
+      "inicio": 12.68,
+      "fin": 13.12
+    },
+    {
+      "t": "a",
+      "inicio": 13.16,
+      "fin": 13.2
+    },
+    {
+      "t": "casa.",
+      "inicio": 13.28,
+      "fin": 13.84
+    },
+    {
+      "t": "Antes,",
+      "inicio": 13.96,
+      "fin": 14.4
+    },
+    {
+      "t": "desde",
+      "inicio": 14.48,
+      "fin": 14.64
+    },
+    {
+      "t": "dos",
+      "inicio": 14.72,
+      "fin": 14.8
+    },
+    {
+      "t": "mil",
+      "inicio": 14.88,
+      "fin": 14.96
+    },
+    {
+      "t": "once,",
+      "inicio": 15.04,
+      "fin": 15.52
+    },
+    {
+      "t": "había",
+      "inicio": 15.6,
+      "fin": 15.84
+    },
+    {
+      "t": "que",
+      "inicio": 15.88,
+      "fin": 15.92
+    },
+    {
+      "t": "pedirla.",
+      "inicio": 16,
+      "fin": 16.72
+    },
+    {
+      "t": "En",
+      "inicio": 16.8,
+      "fin": 16.88
+    },
+    {
+      "t": "urna,",
+      "inicio": 17,
+      "fin": 17.44
+    },
+    {
+      "t": "en",
+      "inicio": 17.48,
+      "fin": 17.52
+    },
+    {
+      "t": "el",
+      "inicio": 17.56,
+      "fin": 17.6
+    },
+    {
+      "t": "consulado,",
+      "inicio": 17.68,
+      "fin": 18.4
+    },
+    {
+      "t": "del",
+      "inicio": 18.48,
+      "fin": 18.56
+    },
+    {
+      "t": "veintiuno",
+      "inicio": 18.64,
+      "fin": 19.12
+    },
+    {
+      "t": "al",
+      "inicio": 19.28,
+      "fin": 19.44
+    },
+    {
+      "t": "veintiséis",
+      "inicio": 19.48,
+      "fin": 19.92
+    },
+    {
+      "t": "de",
+      "inicio": 20,
+      "fin": 20.04
+    },
+    {
+      "t": "noviembre.",
+      "inicio": 20.08,
+      "fin": 20.88
+    },
+    {
+      "t": "¿Y",
+      "inicio": 20.907,
+      "fin": 20.96
+    },
+    {
+      "t": "si",
+      "inicio": 21.12,
+      "fin": 21.2
+    },
+    {
+      "t": "solo",
+      "inicio": 21.28,
+      "fin": 21.44
+    },
+    {
+      "t": "estás",
+      "inicio": 21.52,
+      "fin": 21.68
+    },
+    {
+      "t": "de",
+      "inicio": 21.76,
+      "fin": 21.84
+    },
+    {
+      "t": "paso?",
+      "inicio": 21.92,
+      "fin": 22.4
+    },
+    {
+      "t": "Entonces",
+      "inicio": 22.52,
+      "fin": 22.88
+    },
+    {
+      "t": "sí:",
+      "inicio": 22.96,
+      "fin": 23.36
+    },
+    {
+      "t": "pídelo",
+      "inicio": 23.387,
+      "fin": 23.68
+    },
+    {
+      "t": "en",
+      "inicio": 23.72,
+      "fin": 23.76
+    },
+    {
+      "t": "el",
+      "inicio": 23.8,
+      "fin": 23.84
+    },
+    {
+      "t": "consulado",
+      "inicio": 23.92,
+      "fin": 24.4
+    },
+    {
+      "t": "hasta",
+      "inicio": 24.48,
+      "fin": 24.72
+    },
+    {
+      "t": "el",
+      "inicio": 24.8,
+      "fin": 24.88
+    },
+    {
+      "t": "sábado,",
+      "inicio": 24.96,
+      "fin": 25.36
+    },
+    {
+      "t": "treinta",
+      "inicio": 25.44,
+      "fin": 25.68
+    },
+    {
+      "t": "y",
+      "inicio": 25.76,
+      "fin": 25.84
+    },
+    {
+      "t": "uno",
+      "inicio": 25.88,
+      "fin": 25.92
+    },
+    {
+      "t": "de",
+      "inicio": 26,
+      "fin": 26.04
+    },
+    {
+      "t": "octubre.",
+      "inicio": 26.08,
+      "fin": 26.8
+    },
+    {
+      "t": "¿Debería",
+      "inicio": 26.853,
+      "fin": 27.2
+    },
+    {
+      "t": "recibirlo",
+      "inicio": 27.28,
+      "fin": 27.76
+    },
+    {
+      "t": "también",
+      "inicio": 27.84,
+      "fin": 28.08
+    },
+    {
+      "t": "quien",
+      "inicio": 28.16,
+      "fin": 28.32
+    },
+    {
+      "t": "está",
+      "inicio": 28.4,
+      "fin": 28.56
+    },
+    {
+      "t": "de",
+      "inicio": 28.6,
+      "fin": 28.64
+    },
+    {
+      "t": "paso?",
+      "inicio": 28.72,
+      "fin": 29.28
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 29.32,
+      "fin": 29.76
+    },
+    {
+      "t": "para",
+      "inicio": 29.84,
+      "fin": 30
+    },
+    {
+      "t": "estar",
+      "inicio": 30.12,
+      "fin": 30.24
+    },
+    {
+      "t": "informado.",
+      "inicio": 30.4,
+      "fin": 31.04
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "plantilla": "estandar",
+  "duracion": 87.28,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "4 ESCAÑOS PARA CAMBIAR EL SENADO",
+            "y": 340,
+            "tamano": 96,
+            "en": -1
+          },
+          {
+            "tipo": "recorte",
+            "src": "capitolio.png",
+            "x": 540,
+            "y": 1070,
+            "ancho": 560,
+            "giro": -2,
+            "desde": "escala",
+            "en": -1,
+            "flota": false,
+            "credito": "Foto: Martin Falbisoner / Wikimedia Commons, CC BY-SA 3.0"
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.3,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "4 ESCAÑOS",
+          "y": 335,
+          "tamano": 124,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "para controlar el Senado",
+          "y": 520,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "hemiM",
+          "total": 100,
+          "filas": 5,
+          "x": 500,
+          "y": 1075,
+          "radio": 340,
+          "punto": 30,
+          "en": -1,
+          "ent": 0.6,
+          "tramos": [
+            {
+              "hasta": 47,
+              "color": "#B4BBC8",
+              "en": -1
+            },
+            {
+              "hasta": 51,
+              "color": "#F2B134",
+              "en": 0.5,
+              "pop": true
+            },
+            {
+              "hasta": 100,
+              "color": "#B4BBC8",
+              "en": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 5.3,
+      "fin": 8.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MARTES 3 DE NOVIEMBRE",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ELECCIONES DE MITAD DE MANDATO",
+          "y": 415,
+          "en": 1.64,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 215,
+          "y": 1010,
+          "tamano": 260,
+          "en": 0.2,
+          "mes": "NOV",
+          "dia": "3",
+          "animEn": 0.3
+        },
+        {
+          "tipo": "recorte",
+          "src": "capitolio.png",
+          "x": 640,
+          "y": 880,
+          "ancho": 520,
+          "giro": -2,
+          "desde": "abajo",
+          "en": 0.1,
+          "credito": "Foto: Martin Falbisoner / Wikimedia Commons, CC BY-SA 3.0"
+        }
+      ]
+    },
+    {
+      "inicio": 8.9,
+      "fin": 14.98,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Trump no está",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "en la papeleta",
+          "y": 415,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "papeletaM",
+          "x": 500,
+          "y": 890,
+          "en": 0.1,
+          "siluetaEn": 0,
+          "aspaEn": 1,
+          "congresoEn": 3.3
+        }
+      ]
+    },
+    {
+      "inicio": 14.98,
+      "fin": 31.82,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CÁMARA: 435 ESCAÑOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MAYORÍA: 218",
+          "y": 415,
+          "en": 4.720000000000001,
+          "tamano": 64,
+          "hasta": 7.36
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "R 218 · D 214",
+          "y": 415,
+          "en": 7.41,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "1 ind. (con R) · 2 vacantes",
+          "y": 495,
+          "en": 12.729999999999999,
+          "tamano": 64
+        },
+        {
+          "tipo": "hemiM",
+          "total": 435,
+          "filas": 9,
+          "x": 500,
+          "y": 1075,
+          "radio": 340,
+          "punto": 21,
+          "en": 0.15,
+          "ent": 1.2,
+          "titulo": "Escaños en la Cámara hoy",
+          "yTitulo": 700,
+          "tramos": [
+            {
+              "hasta": 214,
+              "color": "#2F6FB5",
+              "en": 10.33
+            },
+            {
+              "hasta": 216,
+              "color": "#14213D",
+              "hueco": true,
+              "en": 15.48
+            },
+            {
+              "hasta": 217,
+              "color": "#D6322E",
+              "anillo": true,
+              "en": 12.88
+            },
+            {
+              "hasta": 435,
+              "color": "#D6322E",
+              "en": 7.8100000000000005
+            }
+          ],
+          "linea": {
+            "idx": 218,
+            "en": 4.82,
+            "etiqueta": "218"
+          },
+          "leyenda": {
+            "en": 7.86,
+            "y": 1118,
+            "items": [
+              {
+                "color": "#D6322E",
+                "texto": "Republicanos"
+              },
+              {
+                "color": "#2F6FB5",
+                "texto": "Demócratas"
+              }
+            ]
+          }
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Datos a 27-10-2026"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 31.82,
+      "fin": 47.54,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SENADO: 35 DE 100",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 11.4
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "R 53 · D 45 + 2 ind.",
+          "y": 415,
+          "en": 4.41,
+          "tamano": 64,
+          "hasta": 11.4
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MAYORÍA: 51",
+          "y": 335,
+          "en": 11.5,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "(empata el vicepresidente)",
+          "y": 415,
+          "en": 13.209999999999999,
+          "tamano": 64
+        },
+        {
+          "tipo": "hemiM",
+          "total": 100,
+          "filas": 5,
+          "x": 500,
+          "y": 1075,
+          "radio": 340,
+          "punto": 30,
+          "en": 0.15,
+          "ent": 1,
+          "titulo": "Senado hoy; 35 en juego",
+          "yTitulo": 700,
+          "tramos": [
+            {
+              "hasta": 45,
+              "color": "#2F6FB5",
+              "en": 8.049999999999999
+            },
+            {
+              "hasta": 47,
+              "color": "#2F6FB5",
+              "anillo": true,
+              "en": 9.33
+            },
+            {
+              "hasta": 100,
+              "color": "#D6322E",
+              "en": 4.930000000000001
+            }
+          ],
+          "parpadeo": {
+            "n": 35,
+            "desde": 2.29,
+            "fijo": true
+          },
+          "linea": {
+            "idx": 51,
+            "en": 12.1,
+            "etiqueta": "51",
+            "dy": 0
+          },
+          "leyenda": {
+            "en": 4.46,
+            "y": 1118,
+            "items": [
+              {
+                "color": "#D6322E",
+                "texto": "Republicanos"
+              },
+              {
+                "color": "#2F6FB5",
+                "texto": "Demócratas + ind."
+              }
+            ]
+          }
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Datos a 27-10-2026"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 47.54,
+      "fin": 51.02,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "36 GOBERNADORES DE ESTADO",
+          "y": 335,
+          "en": 0.68,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaGobM",
+          "x": 40,
+          "y": 555,
+          "paso": 70,
+          "en": 0.1,
+          "luzEn": 0.68,
+          "dur": 1.4,
+          "titulo": "Estados que eligen gobernador",
+          "yTitulo": 535
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Datos a 27-10-2026"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 51.02,
+      "fin": 54.18,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "UNA LEY NECESITA LAS DOS CÁMARAS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "leyM",
+          "x": 500,
+          "y": 790,
+          "en": -0.03999999999999998,
+          "unenEn": 2.08
+        }
+      ]
+    },
+    {
+      "inicio": 54.18,
+      "fin": 58.89,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SENADO: CONFIRMA NOMBRAMIENTOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "juezM",
+          "x": 500,
+          "y": 880,
+          "en": 0.15,
+          "selloEn": 1.2799999999999998
+        }
+      ]
+    },
+    {
+      "inicio": 58.89,
+      "fin": 61.46,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CONGRESO: GASTO FEDERAL",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "billeteM",
+          "texto": "$",
+          "x": 500,
+          "y": 840,
+          "tam": 520,
+          "sube": 500,
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 61.46,
+      "fin": 76.18,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Y hay un patrón",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 5.069999999999999
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DESDE 1934: SOLO 3 EXCEPCIONES",
+          "y": 335,
+          "en": 5.17,
+          "tamano": 64,
+          "hasta": 8.72
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MEDIA 1934–2018:",
+          "y": 335,
+          "en": 8.77,
+          "tamano": 64,
+          "hasta": 12.27
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Tendencia, no garantía",
+          "y": 335,
+          "en": 12.37,
+          "tamano": 64
+        },
+        {
+          "tipo": "tlM",
+          "x": 70,
+          "y": 590,
+          "en": 1.16,
+          "dur": 3.4,
+          "excEn": 7.720000000000001,
+          "marcaEn": 6.92
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 28,
+          "prefijo": "−",
+          "salto": true,
+          "en": 10.52,
+          "etiqueta": "ESCAÑOS",
+          "izq": 60,
+          "y": 830,
+          "tamano": 170,
+          "tamEtiqueta": 64
+        }
+      ]
+    },
+    {
+      "inicio": 76.18,
+      "fin": 80.41,
+      "componentes": [
+        {
+          "tipo": "hemiM",
+          "total": 100,
+          "filas": 5,
+          "x": 500,
+          "y": 1075,
+          "radio": 340,
+          "punto": 30,
+          "en": -1,
+          "ent": 0.5,
+          "tramos": [
+            {
+              "hasta": 47,
+              "color": "#2F6FB5",
+              "en": -1
+            },
+            {
+              "hasta": 51,
+              "color": "#F2B134",
+              "pop": true,
+              "en": 2.12
+            },
+            {
+              "hasta": 100,
+              "color": "#D6322E",
+              "en": -1
+            }
+          ],
+          "linea": {
+            "idx": 51,
+            "en": 2.92
+          }
+        },
+        {
+          "tipo": "sumaM",
+          "x": 500,
+          "y": 560,
+          "en": 0.1,
+          "sumaEn": 2.12,
+          "totalEn": 2.92,
+          "tam": 130
+        }
+      ]
+    },
+    {
+      "inicio": 80.41,
+      "fin": 87.28,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿VOLVERÁ A PERDER ESCAÑOS EN LA CÁMARA?",
+          "tamano": 92,
+          "pulso": true,
+          "guardaEn": 3.44
+        }
+      ]
+    }
+  ]
+}

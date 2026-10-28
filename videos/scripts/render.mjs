@@ -1,7 +1,7 @@
 // Uso: node videos/scripts/render.mjs NNN-slug [--v=v1] [--voz] [--objetivo=32] [--aviso]
 //  --voz       regenera la voz aunque ya exista tiempos.json
 //  --aviso     pinta "VOZ PROVISIONAL" en pantalla (solo pruebas)
-// Hace: voz -> props.json -> render H.264 CRF 18 -> música de fondo (si escenas.json trae "musica") -> loudnorm -14 LUFS -> ffprobe -> 6 fotogramas de control -> portada.
+// Hace: voz -> props.json -> render H.264 CRF 18 -> música de fondo (si escenas.json trae "musica") -> loudnorm -14 LUFS -> ffprobe -> 6 fotogramas de control -> portada -> comprobar.mjs (avisos mecánicos).
 import fs from 'node:fs';
 import path from 'node:path';
 import {spawnSync} from 'node:child_process';
@@ -107,4 +107,7 @@ fs.writeFileSync(pf, JSON.stringify({...props, escenas: esc.portada?.escenas ?? 
 const frame = Math.round((esc.portadaSegundo ?? 1.5) * 30);
 sh(node, [cli, 'still', 'src/index.ts', 'Pieza', path.join(dir, 'portada.png'), `--props=${pf}`, `--public-dir=${dir}`, `--frame=${frame}`], REMOTION);
 fs.rmSync(pf, {force: true});
+
+// 8. Comprobaciones mecánicas (literalidad, lectura, borde x>960, quietud, franja de subtítulos)
+sh(node, [path.join(RAIZ_VIDEOS, 'scripts', 'comprobar.mjs'), id, `--v=${version}`], RAIZ_VIDEOS, true);
 console.log(`Render: ${final}\nPortada: ${path.join(dir, 'portada.png')}${tiempos.provisional ? '\n*** VOZ PROVISIONAL ***' : ''}`);

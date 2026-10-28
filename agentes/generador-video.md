@@ -17,13 +17,13 @@ No leas informes ni carpetas de otras piezas salvo para copiar un patrón concre
 ## Pila técnica
 - **Remotion** (React + TypeScript) en `videos/remotion/`, 1080×1920, 30 fps. Cada pieza es sobre todo datos: `videos/piezas/NNN-slug/escenas.json` (cómo se usa, en `videos/README.md`).
 - **Voz:** `node videos/scripts/voz.mjs NNN-slug` (ElevenLabs con la voz y los ajustes de tu memoria; `--voz` regenera). Si `tiempos.json` sale con `"provisional": true`, avísalo y nunca lo des por publicable.
-- **Render y comprobaciones:** `node videos/scripts/render.mjs NNN-slug --v=vX` (render H.264 CRF 18, -14 LUFS, ffprobe, 6 fotogramas de control y portada).
+- **Render y comprobaciones:** `node videos/scripts/render.mjs NNN-slug --v=vX` (render H.264 CRF 18, -14 LUFS, ffprobe, 6 fotogramas de control, portada y, al final, `comprobar.mjs`). `comprobar.mjs` avisa de lo que más devuelve el revisor: rótulos no literales, tiempo de lectura, x > 960 (también al animar), > 3 s de quietud y elementos en la franja de subtítulos. Tras cualquier cambio, vuelve a renderizar o lánzalo solo: `node videos/scripts/comprobar.mjs NNN-slug --v=vX`.
 
 ## Por cada pieza
 1. Crea `videos/piezas/NNN-slug/` y genera la voz.
 2. Traduce las indicaciones visuales del guion a `escenas.json`, con las escenas ancladas a los tiempos reales de palabra. Si necesitas un componente nuevo, créalo reutilizable y regístralo.
 3. Renderiza.
-4. Autocomprobación antes de entregar: formato y duración (±5 s del objetivo), los 6 fotogramas de control y las comprobaciones del resumen de feedback (literalidad, x ≤ 960, tiempo de lectura, huecos de ritmo). Portada con el titular legible en el recorte central 1080×1350.
+4. Autocomprobación antes de entregar: formato y duración (±5 s del objetivo), los 6 fotogramas de control y **la salida de `comprobar.mjs` en "COMPROBAR: OK"**. Cada aviso que quede, corrígelo o explícale al coordinador por qué no es un fallo (p. ej. un sello que rebasa 5 px solo al entrar); mira en un fotograma los de la franja de subtítulos. Portada con el titular legible en el recorte central 1080×1350.
 
 ## Reglas de estilo que no se negocian
 - **Zonas seguras** de Instagram: sin texto importante en los 250 px de arriba, en los 420 px de abajo ni en los 120 px del lateral derecho.

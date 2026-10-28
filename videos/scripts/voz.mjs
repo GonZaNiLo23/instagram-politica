@@ -1,9 +1,10 @@
-// Uso: node videos/scripts/voz.mjs NNN-slug [--voz]
+// Uso: node videos/scripts/voz.mjs NNN-slug [--voz] [--forzar]
+//  --forzar  genera aunque voz.txt no cuadre en palabras con el guion (guías fonéticas largas)
 // Genera piezas/NNN-slug/voz.mp3 + tiempos.json (palabras con inicio/fin en segundos).
 //  - Con ELEVENLABS_API_KEY y ELEVENLABS_VOICE_ID en videos/.env: voz de ElevenLabs con marcas de tiempo (prioridad).
 //  - Si no, con AZURE_SPEECH_KEY y AZURE_SPEECH_REGION: voz neuronal de Azure (azure.mjs).
 //  - Sin clave: voz PROVISIONAL (voz del sistema de Windows si hay voz en español; si no, silencio),
-//    con tiempos estimados a 150 palabras/min y "provisional": true. Nunca publicar con ella.
+//    con tiempos estimados a 165 palabras/min y "provisional": true. Nunca publicar con ella.
 // El texto sale de piezas/NNN-slug/voz.txt (editable) o, si no existe, del bloque "Texto de voz limpio" del guion aprobado.
 import fs from 'node:fs';
 import path from 'node:path';
@@ -14,6 +15,7 @@ import {hayAzure, sintetizarAzure} from './azure.mjs';
 cargarEnv();
 const id = process.argv[2];
 const regenerar = process.argv.includes('--voz');
+const forzar = process.argv.includes('--forzar');
 if (!id) { console.error('Uso: node videos/scripts/voz.mjs NNN-slug [--voz]'); process.exit(1); }
 
 const dir = rutaPieza(id);
@@ -26,27 +28,47 @@ if (fs.existsSync(tiemposPath) && fs.existsSync(mp3) && !regenerar) {
 }
 
 // 1. Texto
+// Solo el primer párrafo del bloque de voz: así no se cuelan recuentos ni notas (007 y 010 pagaron la voz dos veces)
+function textoGuion() {
+  const guion = path.join(RAIZ, 'guiones', 'aprobados', `${id}.md`);
+  if (!fs.existsSync(guion)) return null;
+  const m = fs.readFileSync(guion, 'utf8').match(/## Texto de voz limpio\s*\n([\s\S]*?)(?=\n## |$)/);
+  if (!m) return null;
+  const lineas = m[1].replace(/^\s*\n/, '').split('\n');
+  const fin = lineas.findIndex((l) => !l.trim());
+  return lineas.slice(0, fin < 0 ? undefined : fin).filter((l) => !l.startsWith('(') && !l.startsWith('Recuento') && !l.startsWith('>')).join('\n').trim();
+}
+const contar = (t) => t.split(/\s+/).filter((w) => /[\p{L}\p{N}]/u.test(w)).length;
 const txtPath = path.join(dir, 'voz.txt');
 let texto;
 if (fs.existsSync(txtPath)) {
   texto = fs.readFileSync(txtPath, 'utf8').trim();
 } else {
-  const guion = path.join(RAIZ, 'guiones', 'aprobados', `${id}.md`);
-  if (!fs.existsSync(guion)) { console.error(`No encuentro el guion aprobado: ${guion}`); process.exit(1); }
-  const md = fs.readFileSync(guion, 'utf8');
-  const m = md.match(/## Texto de voz limpio\s*\n([\s\S]*?)(?=\n## |$)/);
-  if (!m) { console.error("El guion no tiene el bloque '## Texto de voz limpio'."); process.exit(1); }
-  texto = m[1].split('\n').filter((l) => !l.startsWith('(') && !l.startsWith('Recuento por frase') && !l.startsWith('>')).join('\n').trim();
+  texto = textoGuion();
+  if (texto == null) { console.error(`No encuentro el guion aprobado o su bloque '## Texto de voz limpio' (guiones/aprobados/${id}.md).`); process.exit(1); }
   fs.writeFileSync(txtPath, texto + '\n');
   console.log(`Texto extraído del guion a ${txtPath} (puedes editarlo y volver a ejecutar con --voz).`);
 }
+
+// 1b. Antes de gastar créditos: voz.txt debe cuadrar con el guion (±10 %; las guías fonéticas cambian pocas palabras)
+const ref = textoGuion();
+const n = contar(texto);
+if (ref) {
+  const nr = contar(ref);
+  if (Math.abs(n - nr) > Math.max(3, nr * 0.1) && !forzar) {
+    console.error(`PARO: voz.txt tiene ${n} palabras y el "Texto de voz limpio" del guion ${nr}. Revisa voz.txt (¿notas coladas o texto viejo?) o relanza con --forzar.`);
+    process.exit(3);
+  }
+}
+console.log(`Texto: ${n} palabras ≈ ${(n / 165 * 60).toFixed(1)} s a 165 pal/min`);
 
 // 2a. Voz real (ElevenLabs): tiene prioridad si hay clave y voz
 if (process.env.ELEVENLABS_API_KEY && process.env.ELEVENLABS_VOICE_ID) {
   const url = `https://api.elevenlabs.io/v1/text-to-speech/${process.env.ELEVENLABS_VOICE_ID}/with-timestamps?output_format=mp3_44100_192`;
   const modelo = process.env.ELEVENLABS_MODEL || 'eleven_multilingual_v2';
-  // v3/v4: estabilidad 0.5 = modo "Natural", sin exagerar el estilo. Modelos antiguos: ajustes clásicos.
-  const ajustes = /^eleven_v[34]/.test(modelo)
+  // Ajustes elegidos por la persona usuaria en ELEVENLABS_AJUSTES (videos/.env, "humana-2" desde el 2026-10-26).
+  // Sin esa variable: v3/v4 en modo "Natural"; modelos antiguos, ajustes clásicos.
+  const ajustes = process.env.ELEVENLABS_AJUSTES ? JSON.parse(process.env.ELEVENLABS_AJUSTES) : /^eleven_v[34]/.test(modelo)
     ? {stability: 0.5, similarity_boost: 0.75, style: 0, speed: 1.0}
     : {stability: 0.45, similarity_boost: 0.8, style: 0.25, speed: 1.0};
   const r = await fetch(url, {
@@ -89,7 +111,7 @@ if (fs.existsSync(mp3)) {
   process.exit(2);
 }
 const palabras = texto.split(/\s+/).filter(Boolean);
-const porPalabra = 60 / 150;
+const porPalabra = 60 / 165;
 const tiempos = palabras.map((t, i) => ({t, inicio: +(0.1 + i * porPalabra).toFixed(3), fin: +(0.1 + (i + 1) * porPalabra).toFixed(3)}));
 const duracion = tiempos.length ? tiempos[tiempos.length - 1].fin : 0;
 

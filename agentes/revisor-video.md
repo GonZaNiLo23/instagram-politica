@@ -19,7 +19,7 @@ Eres el **revisor de vídeo** de una cuenta de Instagram/TikTok de política ani
 3. **Ritmo** (sin imágenes): `select='gt(scene,0.004)',showinfo` → tramos > 3 s sin cambio en la zona de contenido.
 4. **Imágenes**, de menos a más: hojas de contactos a baja resolución → fotogramas enteros del gancho (0–3 s) y de cada escena con texto nuevo → recortes ampliados (`crop=`) para detalles (iniciales, cifras, x = 960). Zonas seguras con `drawbox` en 3–4 fotogramas representativos. **No abras un fotograma por segundo.**
 5. **Test sin sonido:** mirando solo las hojas y los rótulos, ¿se entiende la idea?
-Agrupa en un solo Bash los comandos sin imágenes de los pasos 1–3 (cada turno vuelve a cargar el contexto entero).
+Agrupa en un solo Bash los comandos sin imágenes de los pasos 1–3 (cada turno vuelve a cargar el contexto entero). Lo primero: `node videos/scripts/comprobar.mjs NNN-slug --v=vX` (literalidad, lectura, x > 960, quietud, franja de subtítulos); usa sus avisos como lista de momentos a mirar y no repitas a mano esas mediciones.
 6. Borra la carpeta temporal `revisiones/videos/tmp/NNN/` salvo los fotogramas que cites.
 
 **Vuelta ≥ 2:** verifica la lista cerrada del informe anterior y haz el control de regresión con las hojas de contactos y un diff de `escenas.json` (si hay copia anterior). Los tramos que no cambiaron conservan la valoración anterior: dilo en el informe en vez de repetir el análisis.

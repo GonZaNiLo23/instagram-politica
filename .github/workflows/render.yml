@@ -1,0 +1,106 @@
+# Render de una pieza en la nube (sin el PC encendido) y, opcionalmente, publicación en Instagram.
+# Lo lanza la persona usuaria desde GitHub (Actions → Render de pieza → Run workflow) o un agente con
+#   gh workflow run render.yml -f pieza=NNN-slug -f version=v1 [-f voz=true] [-f publicar=prueba|reel -f texto=ruta]
+# Publicar ("reel") solo con la aprobación de la pieza (CLAUDE.md, Convenciones). "prueba" sube a Meta sin publicar.
+# Claves: secretos del repositorio (ELEVENLABS_*, IG_USER_ID, IG_ACCESS_TOKEN); nunca en el código.
+name: Render de pieza
+
+on:
+  workflow_dispatch:
+    inputs:
+      pieza:
+        description: "Pieza (NNN-slug), p. ej. 028-presupuestos"
+        required: true
+      version:
+        description: "Versión del render (v1, v2…)"
+        default: "v1"
+      voz:
+        description: "Regenerar la voz con ElevenLabs (gasta créditos)"
+        type: boolean
+        default: false
+      publicar:
+        description: "Instagram tras el render: no, prueba (sube sin publicar) o reel (publica)"
+        type: choice
+        options: ["no", "prueba", "reel"]
+        default: "no"
+      texto:
+        description: "Ruta del texto del post (solo para publicar), p. ej. publicado/028-presupuestos.txt"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-${{ inputs.pieza }}
+
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    env:
+      PIEZA: ${{ inputs.pieza }}
+      VERSION: ${{ inputs.version }}
+      PUBLICAR: ${{ inputs.publicar }}
+      TEXTO: ${{ inputs.texto }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Comprobar entradas
+        run: |
+          [[ "$PIEZA" =~ ^[0-9]{3}-[a-z0-9-]+$ ]] || { echo "Pieza no válida: $PIEZA"; exit 1; }
+          [[ "$VERSION" =~ ^v[0-9]+$ ]] || { echo "Versión no válida: $VERSION"; exit 1; }
+          [ -f "videos/piezas/$PIEZA/escenas.json" ] || { echo "Falta videos/piezas/$PIEZA/escenas.json en el repositorio"; exit 1; }
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: videos/remotion/package-lock.json
+
+      - name: ffmpeg y librerías del navegador de Remotion
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q ffmpeg libnss3 libdbus-1-3 libatk1.0-0 libgbm-dev libasound2t64 libxrandr2 \
+            libxkbcommon-dev libxfixes3 libxcomposite1 libxdamage1 libatk-bridge2.0-0 libpango-1.0-0 libcairo2 libcups2
+
+      - name: Dependencias de Remotion
+        working-directory: videos/remotion
+        run: |
+          npm ci --no-audit --no-fund
+          npx remotion browser ensure
+
+      - name: Render
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
+          ELEVENLABS_MODEL: ${{ secrets.ELEVENLABS_MODEL }}
+          ELEVENLABS_AJUSTES: ${{ secrets.ELEVENLABS_AJUSTES }}
+          VOZ: ${{ inputs.voz && '--voz' || '' }}
+        run: node videos/scripts/render.mjs "$PIEZA" "--v=$VERSION" $VOZ
+
+      - name: Guardar voz y portada en el repositorio
+        # Para no pagar la voz dos veces: voz.mp3, tiempos.json y portada.png vuelven al repositorio
+        run: |
+          git config user.name "render-nube"
+          git config user.email "render-nube@users.noreply.github.com"
+          git add "videos/piezas/$PIEZA"
+          git diff --cached --quiet || { git commit -m "Render en la nube: $PIEZA $VERSION"; git pull --rebase -q && git push -q; }
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.pieza }}-${{ inputs.version }}
+          retention-days: 14
+          path: |
+            videos/renders/${{ inputs.pieza }}-${{ inputs.version }}.mp4
+            videos/piezas/${{ inputs.pieza }}/portada.png
+            videos/piezas/${{ inputs.pieza }}/control/*.png
+
+      - name: Instagram
+        if: inputs.publicar != 'no'
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: |
+          [ -n "$TEXTO" ] && [ -f "$TEXTO" ] || { echo "Para publicar hace falta el texto del post (entrada 'texto')"; exit 1; }
+          MODO=""; [ "$PUBLICAR" = "prueba" ] && MODO="--prueba"
+          node herramientas/publicar-api/instagram.mjs reel "videos/renders/$PIEZA-$VERSION.mp4" "--texto=$TEXTO" $MODO

@@ -4,7 +4,7 @@
 |---|---|
 | Pilar | 🔴 Actualidad · 💡 Curiosidad · ⚙️ Cómo funciona · 📊 Datos y mitos |
 | Formato | Estándar (60–90 s) · Flash (20–35 s) |
-| Duración objetivo | XX s (calculada con el recuento real: palabras ÷ 150 × 60) |
+| Duración objetivo | XX s (calculada con el recuento real: palabras ÷ 165 × 60) |
 | Palabras de voz | NNN, contadas en el "Texto de voz limpio" final, con las cifras como se leen. Frase más larga: NN palabras (máx. 15) |
 | Vigencia | URGENTE · SEMANA · ATEMPORAL · ATEMPORAL con dato vivo (recomprobar antes de publicar) |
 | Portada | Titular de 6 palabras como máximo + imagen, dentro del recorte 4:5 (1080×1350) |

@@ -1,0 +1,1247 @@
+{
+  "plantilla": "estandar",
+  "duracion": 85.64,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "tinta",
+        "componentes": [
+          {
+            "tipo": "foto",
+            "src": "I1.jpg",
+            "forma": "completa",
+            "en": -1,
+            "dur": 0.01,
+            "zoom": [
+              1.1,
+              1.1
+            ],
+            "foco": "50% 62%",
+            "velo": 0.45,
+            "credito": "Foto: Savh / Wikimedia Commons, CC BY-SA 3.0",
+            "sobre": "oscuro"
+          },
+          {
+            "tipo": "gancho",
+            "texto": "ADAMUZ: 45 MUERTOS, CAUSA SIN CERRAR",
+            "y": 330,
+            "tamano": 92,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "El tren desde 2023",
+            "y": 800,
+            "en": -1,
+            "tamano": 72,
+            "pastilla": "tinta"
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "Imagen de archivo",
+            "y": 1230,
+            "en": -1,
+            "tamano": 64,
+            "pastilla": true
+          },
+          {
+            "tipo": "numTr",
+            "x": 540,
+            "y": 1150,
+            "valor": "45",
+            "tam": 300,
+            "en": -1,
+            "color": "#FFF8EC"
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 2.54,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I1.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3.54,
+          "zoom": [
+            1,
+            1.25
+          ],
+          "foco": "50% 62%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0.4,
+          "credito": "Foto: Savh / Wikimedia Commons, CC BY-SA 3.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ADAMUZ: 45 MUERTOS · CAUSA SIN CERRAR",
+          "y": 335,
+          "en": -1,
+          "tamano": 72,
+          "pastilla": "tinta",
+          "hasta": 4.57
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "numTr",
+          "x": 540,
+          "y": 960,
+          "valor": "45",
+          "tam": 380,
+          "en": -1,
+          "color": "#FFF8EC"
+        }
+      ]
+    },
+    {
+      "inicio": 2.54,
+      "fin": 4.57,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I1.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3.0300000000000002,
+          "zoom": [
+            1.5,
+            1.2
+          ],
+          "foco": "52% 55%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0.4,
+          "credito": "Foto: Savh / Wikimedia Commons, CC BY-SA 3.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ADAMUZ: 45 MUERTOS · CAUSA SIN CERRAR",
+          "y": 335,
+          "en": -1,
+          "tamano": 72,
+          "pastilla": "tinta",
+          "hasta": 2.03
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "numTr",
+          "x": 540,
+          "y": 960,
+          "valor": "45",
+          "tam": 380,
+          "en": -1,
+          "color": "#FFF8EC"
+        }
+      ]
+    },
+    {
+      "inicio": 4.57,
+      "fin": 7.3,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I2.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3.7299999999999995,
+          "zoom": [
+            1,
+            1.3
+          ],
+          "foco": "78% 55%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0.1,
+          "credito": "Foto: Carlos Teixidor Cadenas / Wikimedia Commons, CC BY-SA 4.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "El tren desde 2023",
+          "y": 335,
+          "en": -1,
+          "tamano": 72,
+          "pastilla": "tinta"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        }
+      ]
+    },
+    {
+      "inicio": 7.3,
+      "fin": 10.3,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I3.jpg",
+          "forma": "rect",
+          "x": 500,
+          "y": 850,
+          "ancho": 880,
+          "alto": 640,
+          "en": 0.05,
+          "dur": 4.000000000000001,
+          "zoom": [
+            1,
+            1.25
+          ],
+          "foco": "50% 25%",
+          "pan": [
+            0,
+            0
+          ],
+          "credito": "Foto: La Moncloa / Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MINISTRO DESDE EL 21-11-2023",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 10.3,
+      "fin": 12.38,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I3.jpg",
+          "forma": "rect",
+          "x": 500,
+          "y": 850,
+          "ancho": 880,
+          "alto": 640,
+          "en": -1,
+          "dur": 3.08,
+          "zoom": [
+            1.35,
+            1.1
+          ],
+          "foco": "50% 30%",
+          "pan": [
+            0,
+            0
+          ],
+          "credito": "Foto: La Moncloa / Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MINISTRO DESDE EL 21-11-2023",
+          "y": 335,
+          "en": -1,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 12.38,
+      "fin": 14.06,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I4.jpg",
+          "forma": "rect",
+          "x": 500,
+          "y": 850,
+          "ancho": 880,
+          "alto": 640,
+          "en": 0.05,
+          "dur": 2.6799999999999997,
+          "zoom": [
+            1,
+            1.35
+          ],
+          "foco": "50% 45%",
+          "pan": [
+            0,
+            0
+          ],
+          "credito": "Foto: Pool Moncloa / José Manuel Álvarez / Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "NO ES UN BALANCE COMPLETO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 14.06,
+      "fin": 16.22,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I4.jpg",
+          "forma": "rect",
+          "x": 500,
+          "y": 850,
+          "ancho": 880,
+          "alto": 640,
+          "en": -1,
+          "dur": 3.1599999999999984,
+          "zoom": [
+            1.9,
+            1.6
+          ],
+          "foco": "50% 68%",
+          "pan": [
+            0,
+            0
+          ],
+          "credito": "Foto: Pool Moncloa / José Manuel Álvarez / Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "NO ES UN BALANCE COMPLETO",
+          "y": 335,
+          "en": -1,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 16.22,
+      "fin": 19.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CAUSAS: CIAF Y JUZGADO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "lupaMazoTr",
+          "x": 540,
+          "y": 830,
+          "en": 0.2,
+          "mazoEn": 2.5
+        }
+      ]
+    },
+    {
+      "inicio": 19.9,
+      "fin": 22.14,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I5.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3.240000000000002,
+          "zoom": [
+            1,
+            1.3
+          ],
+          "foco": "70% 55%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0.25,
+          "credito": "Foto: Carlos Teixidor Cadenas / Wikimedia Commons, CC BY-SA 3.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 1 DE 6",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "4-5-2025 · ROBO DE CABLE",
+          "y": 425,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": "tinta"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        }
+      ]
+    },
+    {
+      "inicio": 22.14,
+      "fin": 26.06,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 1 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "4-5-2025 · ROBO DE CABLE",
+          "y": 425,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "toledoTr",
+          "y": 170,
+          "en": 0.15,
+          "corteEn": 1.52,
+          "esposasEn": 99
+        }
+      ]
+    },
+    {
+      "inicio": 26.06,
+      "fin": 27.86,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I5.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 2.8000000000000007,
+          "zoom": [
+            1.5,
+            1.15
+          ],
+          "foco": "30% 50%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0.25,
+          "credito": "Foto: Carlos Teixidor Cadenas / Wikimedia Commons, CC BY-SA 3.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 1 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MILES DE VIAJEROS AFECTADOS",
+          "y": 425,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": "tinta"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        }
+      ]
+    },
+    {
+      "inicio": 27.86,
+      "fin": 29.66,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I3.jpg",
+          "forma": "rect",
+          "x": 500,
+          "y": 880,
+          "ancho": 880,
+          "alto": 600,
+          "en": 0.05,
+          "dur": 2.8000000000000007,
+          "zoom": [
+            1.15,
+            1
+          ],
+          "foco": "50% 22%",
+          "pan": [
+            0,
+            0
+          ],
+          "credito": "Foto: La Moncloa / Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 1 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        }
+      ]
+    },
+    {
+      "inicio": 29.66,
+      "fin": 33.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 1 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "JULIO: 2 DETENIDOS POR EL ROBO",
+          "y": 425,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "toledoTr",
+          "y": 190,
+          "en": 0.1,
+          "corteEn": 0,
+          "esposasEn": 1.48
+        }
+      ]
+    },
+    {
+      "inicio": 33.7,
+      "fin": 36.14,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I2.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3.4399999999999977,
+          "zoom": [
+            1.4,
+            1.05
+          ],
+          "foco": "60% 60%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0.55,
+          "credito": "Foto: Carlos Teixidor Cadenas / Wikimedia Commons, CC BY-SA 4.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 2 DE 6",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "18-1-2026 · ADAMUZ (CÓRDOBA)",
+          "y": 425,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": "tinta"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        }
+      ]
+    },
+    {
+      "inicio": 36.14,
+      "fin": 41.5,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 2 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "18-1-2026 · ADAMUZ (CÓRDOBA)",
+          "y": 425,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "viasTr",
+          "y": 720,
+          "en": 0.1,
+          "descarrilaEn": 1.1400000000000001,
+          "chocaEn": 4.32,
+          "bEn": 3.06
+        }
+      ]
+    },
+    {
+      "inicio": 41.5,
+      "fin": 44.14,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I7.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3.6400000000000006,
+          "zoom": [
+            1,
+            1.3
+          ],
+          "foco": "65% 55%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0,
+          "credito": "Foto: Peter elektro / Wikimedia Commons, CC BY-SA 3.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 3 DE 6",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "20-1-2026 · GELIDA (BARCELONA)",
+          "y": 425,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": "tinta"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        }
+      ]
+    },
+    {
+      "inicio": 44.14,
+      "fin": 47.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 3 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "20-1-2026 · GELIDA (BARCELONA)",
+          "y": 425,
+          "en": -1,
+          "tamano": 64,
+          "hasta": 1.27
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "1 MUERTO: MAQUINISTA EN PRÁCTICAS",
+          "y": 425,
+          "en": 1.3699999999999999,
+          "tamano": 64
+        },
+        {
+          "tipo": "muroTr",
+          "y": 780,
+          "en": 0.1,
+          "luto": 1.3199999999999998,
+          "paradaEn": 99
+        }
+      ]
+    },
+    {
+      "inicio": 47.3,
+      "fin": 49.62,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I6.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3.3200000000000003,
+          "zoom": [
+            1,
+            1.3
+          ],
+          "foco": "50% 35%",
+          "pan": [
+            0,
+            -120
+          ],
+          "velo": 0.3,
+          "credito": "Foto: Brunnaiz / Wikimedia Commons, CC BY-SA 4.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 3 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "RODALIES PARADA DOS DÍAS",
+          "y": 425,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": "tinta"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        }
+      ]
+    },
+    {
+      "inicio": 49.62,
+      "fin": 52.46,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I5.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3.8400000000000034,
+          "zoom": [
+            1.2,
+            1
+          ],
+          "foco": "80% 50%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0.45,
+          "credito": "Foto: Carlos Teixidor Cadenas / Wikimedia Commons, CC BY-SA 3.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 4 DE 6",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HUELGA 9–11 FEB",
+          "y": 425,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": "tinta"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        }
+      ]
+    },
+    {
+      "inicio": 52.46,
+      "fin": 57.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 4 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HUELGA 9–11 FEB · DESCONVOCADA EL 9",
+          "y": 425,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "calTr",
+          "x": 90,
+          "y": 640,
+          "en": 0.1,
+          "diasEn": [
+            0.15,
+            0.4,
+            0.65
+          ],
+          "desconvocaEn": 1.76
+        }
+      ]
+    },
+    {
+      "inicio": 57.42,
+      "fin": 61.54,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 5 DE 6",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "AGOSTO DE 2025: SEMAF AVISA A ADIF",
+          "y": 425,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "giroTr",
+          "y": 700,
+          "en": 0.2,
+          "atrilEn": 99
+        }
+      ]
+    },
+    {
+      "inicio": 61.54,
+      "fin": 63.58,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I2.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3.039999999999999,
+          "zoom": [
+            1.8,
+            1.4
+          ],
+          "foco": "35% 92%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0.35,
+          "credito": "Foto: Carlos Teixidor Cadenas / Wikimedia Commons, CC BY-SA 4.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 5 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        }
+      ]
+    },
+    {
+      "inicio": 63.58,
+      "fin": 65.46,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I7.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 2.8799999999999955,
+          "zoom": [
+            1.5,
+            1.15
+          ],
+          "foco": "20% 95%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0.35,
+          "credito": "Foto: Peter elektro / Wikimedia Commons, CC BY-SA 3.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 5 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "según Reuters",
+          "y": 930,
+          "en": 0.7699999999999999,
+          "tamano": 64,
+          "pastilla": "tinta"
+        }
+      ]
+    },
+    {
+      "inicio": 65.46,
+      "fin": 68.06,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I8.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3.6000000000000085,
+          "zoom": [
+            1,
+            1.3
+          ],
+          "foco": "50% 40%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0,
+          "credito": "Foto: Dilema / Wikimedia Commons, CC BY 3.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 5 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "3-2-2026: PUENTE EN EL CONGRESO",
+          "y": 425,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": "tinta"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        }
+      ]
+    },
+    {
+      "inicio": 68.06,
+      "fin": 70.18,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I9.jpg",
+          "forma": "rect",
+          "x": 500,
+          "y": 930,
+          "ancho": 880,
+          "alto": 560,
+          "en": 0.05,
+          "dur": 3.1200000000000045,
+          "zoom": [
+            1.6,
+            2
+          ],
+          "foco": "90% 35%",
+          "pan": [
+            0,
+            0
+          ],
+          "credito": "Foto: La Moncloa / Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 5 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Prometió máxima transparencia",
+          "y": 425,
+          "en": 0.05,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 70.18,
+      "fin": 72.22,
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I5.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3.039999999999992,
+          "zoom": [
+            1,
+            1.3
+          ],
+          "foco": "75% 55%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0.35,
+          "credito": "Foto: Carlos Teixidor Cadenas / Wikimedia Commons, CC BY-SA 3.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 6 DE 6",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "28-10: CHOQUE EN URDA (TOLEDO)",
+          "y": 425,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": "tinta"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        }
+      ]
+    },
+    {
+      "inicio": 72.22,
+      "fin": 74.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HECHO 6 DE 6",
+          "y": 330,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "28-10: CHOQUE EN URDA (TOLEDO)",
+          "y": 425,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "puntoTr",
+          "y": 190,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 74.3,
+      "fin": 77.74,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CIFRA DE VÍCTIMAS SIN CERRAR",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "duoTr",
+          "y": 820,
+          "valorA": "45",
+          "etiquetaA": "ADAMUZ",
+          "valorB": "SIN CERRAR",
+          "etiquetaB": "URDA",
+          "en": 0.2,
+          "enB": 1.3599999999999999,
+          "tamB": 64,
+          "cxB": 715
+        }
+      ]
+    },
+    {
+      "inicio": 77.74,
+      "fin": 79.74,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "I1.jpg",
+          "forma": "completa",
+          "en": -1,
+          "dur": 3,
+          "zoom": [
+            1,
+            1.22
+          ],
+          "foco": "50% 62%",
+          "pan": [
+            0,
+            0
+          ],
+          "velo": 0.5,
+          "credito": "Foto: Savh / Wikimedia Commons, CC BY-SA 3.0",
+          "sobre": "oscuro"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿RESPONSABILIDADES ANTES DEL INFORME?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": "tinta"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Imagen de archivo",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ADAMUZ: 45 MUERTOS · CAUSA SIN CERRAR",
+          "y": 740,
+          "en": 0.05,
+          "tamano": 72,
+          "pastilla": "tinta"
+        }
+      ]
+    },
+    {
+      "inicio": 79.74,
+      "fin": 81.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿RESPONSABILIDADES ANTES DEL INFORME?",
+          "y": 335,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "botonesTr",
+          "y": 790,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 81.3,
+      "fin": 85.64,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿RESPONSABILIDADES ANTES DEL INFORME?",
+          "tamano": 68,
+          "pulso": true,
+          "guardaEn": 0.6
+        }
+      ]
+    }
+  ]
+}
