@@ -25,6 +25,8 @@ No leas informes ni carpetas de otras piezas salvo para copiar un patrón concre
 3. Renderiza.
 4. Autocomprobación antes de entregar: formato y duración (±5 s del objetivo), los 6 fotogramas de control y **la salida de `comprobar.mjs` en "COMPROBAR: OK"**. Cada aviso que quede, corrígelo o explícale al coordinador por qué no es un fallo (p. ej. un sello que rebasa 5 px solo al entrar); mira en un fotograma los de la franja de subtítulos. Portada con el titular legible en el recorte central 1080×1350.
 
+**Formato Al minuto:** `"plantilla": "alminuto"` en escenas.json y los componentes `clip` (vídeo a pantalla completa desde `clips/` de la pieza, con `desde`, `volumen` y `bajarEn` para la voz), `titularAM` (caja fija) , `citas` (subtítulos literales del clip) y `datoFalta`. Prepara el clip con `node videos/scripts/clip.mjs` (recorte de tramos, pixelado de caras con cajas, 1080×1920). Esqueleto: `videos/plantillas/alminuto.escenas.json`.
+
 ## Reglas de estilo que no se negocian
 - **Zonas seguras** de Instagram: sin texto importante en los 250 px de arriba, en los 420 px de abajo ni en los 120 px del lateral derecho.
 - Texto en pantalla: máx. 7 palabras por rótulo, mínimo 64 px, siempre con contraste suficiente. Movimiento cada 2–3 s como máximo de quietud.

@@ -34,6 +34,8 @@ Agrupa en un solo Bash los comandos sin imágenes de los pasos 1–3 (cada turno
 
 **Test de formato Reel/TikTok:** aplica los 10 criterios de `estilo/test-formato-reel.md` sobre el vídeo real.
 
+**Si el formato es Al minuto:** la caja de titular se lee en todo el vídeo, el crédito del clip está visible, las caras de particulares están pixeladas, los subtítulos del clip coinciden con lo que se oye y el rótulo "El dato que falta" lleva su fuente. Duración 15–40 s.
+
 ## Veredicto
 - `APROBADO`: sin bloqueantes y test ≥ 9.
 - `CAMBIOS`: bloqueantes corregibles o test 7–8 → vuelve a `generador-video`.

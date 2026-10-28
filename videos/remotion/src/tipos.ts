@@ -20,10 +20,13 @@ export type Escena = {
 
 export type PiezaProps = {
   id: string;
-  plantilla: 'flash' | 'estandar';
+  /** 'alminuto': actualidad del día con clip real (sin barra de progreso; ver componentes/AlMinuto.tsx) */
+  plantilla: 'flash' | 'estandar' | 'alminuto';
   duracion: number; // segundos
   /** nombre del audio en la carpeta publica de la pieza (null = sin audio) */
   audio: string | null;
+  /** segundo en el que empieza la voz (por defecto 0; en Al minuto la voz entra con el dato que falta) */
+  audioDesde?: number;
   /** true si la voz es provisional (silencio/voz del sistema): se muestra aviso solo en modo prueba */
   provisional: boolean;
   /** muestra el aviso PROVISIONAL en pantalla (solo para pruebas internas) */

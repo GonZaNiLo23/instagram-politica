@@ -5,13 +5,15 @@ import type {PiezaProps} from '../tipos';
 import {REGISTRO, Marca, EtiquetaLectura, Fuente, Subtitulos} from '../componentes';
 
 /** Montaje común: recorre las escenas del JSON y las dibuja. Flash y Estándar lo envuelven con ajustes distintos. */
-export const Montaje: React.FC<PiezaProps & {barraProgreso?: boolean}> = ({audio, provisional, avisoProvisional, palabras, escenas, marca, duracion, barraProgreso, subSinHuerfanas, subDy}) => {
+export const Montaje: React.FC<PiezaProps & {barraProgreso?: boolean}> = ({audio, audioDesde = 0, provisional, avisoProvisional, palabras: palabras0, escenas, marca, duracion, barraProgreso, subSinHuerfanas, subDy}) => {
   const {fps} = useVideoConfig();
   const frame = useCurrentFrame();
   const ocultar = escenas.filter((e) => e.sinSubtitulos).map((e) => [e.inicio, e.fin] as [number, number]);
+  // audioDesde (Al minuto): la voz entra más tarde; sus subtítulos se desplazan lo mismo
+  const palabras = audioDesde ? palabras0.map((w) => ({...w, inicio: w.inicio + audioDesde, fin: w.fin + audioDesde})) : palabras0;
   return (
     <AbsoluteFill style={{background: C.crema}}>
-      {audio ? <Audio src={staticFile(audio)} /> : null}
+      {audio ? <Sequence from={Math.round(audioDesde * fps)} layout="none"><Audio src={staticFile(audio)} /></Sequence> : null}
       {escenas.map((e, i) => {
         const fondo = e.fondo ?? 'crema';
         const oscuro = fondo === 'tinta';

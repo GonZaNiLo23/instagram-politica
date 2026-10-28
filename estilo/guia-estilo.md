@@ -58,6 +58,18 @@ Elegida **a propósito lejos de los colores de los partidos españoles**: la cue
   - **Sello "MITO / DATO"** que cae sobre la pantalla.
 - Personas reales: silueta de busto plana en tinta + rótulo con nombre y cargo. Nunca caricaturas ni rasgos exagerados.
 
+## Formato Al minuto (2026-10-28, aprobado por la persona usuaria)
+Actualidad del mismo día en **15–40 s** con la **imagen real del hecho** como protagonista. Inspirado en cuentas de clips de noticias, pero con dos diferencias que no se negocian: **sin clips de televisión** y **sin tono activista** (la línea editorial elige el tema y el dato, nunca adjetiva).
+- **Pantalla:** el clip a pantalla completa (velo tinta suave arriba y abajo para leer) · **caja de titular fija** arriba (etiqueta mostaza "AL MINUTO" + titular de máx. 8 palabras en crema sobre tinta, presente todo el vídeo) · **rótulo "El dato que falta"** en el último tercio: una cifra o hecho verificado que da contexto (con su fuente en 36 px) · crédito del clip siempre visible abajo ("Vídeo: La Moncloa", "Vídeo: @usuario").
+- **Audio:** el sonido original del clip. Si hablan, **subtítulos literales** de lo que se dice, atribuidos ("Sánchez:"), sin recortar el sentido de la frase. Voz de Rafalupi **como mucho una frase** (normalmente para presentar el dato que falta); mientras suena, el clip baja a ~15 %.
+- **Estructura:** 0–2 s titular + lo más fuerte del clip (gancho visual, nunca fuera de contexto) · 2–25 s el clip (uno o dos cortes) · últimos 8–10 s el dato que falta + cierre corto ("Síguenos para estar informado").
+- **Clips permitidos (por orden de preferencia):**
+  1. **Institucionales** con reutilización permitida citando la fuente: La Moncloa (galería de vídeos), Congreso (Canal Parlamento / archivo audiovisual), Senado, Parlamento Europeo (Multimedia Centre), Comisión Europea (Audiovisual Service), Casa Real, Gobiernos autonómicos y ayuntamientos con aviso legal que lo permita. El guionista comprueba el aviso legal de cada fuente y lo anota.
+  2. **Grabados por particulares en redes** (excepción de la persona usuaria del 2026-10-25): citando la cuenta (@) en pantalla y **pixelando las caras** de quien no sea cargo público. Citar no equivale a permiso: riesgo de retirada asumido por la persona usuaria.
+  3. Material propio.
+- **Prohibido:** clips de televisiones, agencias o medios (aunque circulen por redes), vídeos generados con IA, montajes que cambien el orden o el sentido de lo dicho, y el clip de un bulo que se desmiente.
+- **Rigor:** fecha y lugar del clip comprobados (que sea de ese hecho y de ese día); la cita subtitulada, cotejada con la transcripción oficial si existe (Diario de Sesiones, nota de Moncloa).
+
 ## Voz en off
 - Español de España, cercana, ritmo vivo (~165 palabras/min, la velocidad real de la voz), sonrisa en la voz pero sin tono de anuncio.
 - Volumen final ≈ -14 LUFS; música (si la hay) 18–22 dB por debajo de la voz.

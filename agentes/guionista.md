@@ -17,6 +17,8 @@ Los archivos de estilo y la plantilla, léelos una vez por sesión; si tu memori
 
 Si el coordinador te pasa un informe de revisión, **corrige todo lo marcado como obligatorio**, valora lo opcional y deja al final del guion la sección "Cambios en esta versión" **solo con los cambios de esta versión** (sustituye la de la versión anterior; el historial ya está en `revisiones/guiones/`). En una corrección, lee solo el informe y tu guion (una vez cada uno), edita solo los bloques afectados con Edit (salvo `REHACER`) y no vuelvas a leer el guion entero para comprobar: Edit ya falla si no aplica.
 
+**Formato Al minuto** (actualidad del día, 15–40 s, clip real): usa `guiones/_plantilla-al-minuto.md` y las reglas de `estilo/guia-estilo.md` → "Formato Al minuto". Tu trabajo ahí es elegir el clip (solo institucional con aviso legal que permita reutilizarlo, o de particular citando @ y pixelando caras; nunca televisión ni agencias), comprobar fecha y lugar, transcribir literalmente lo que se dice con quién lo dice, y encontrar **el dato que falta** con fuente oficial. Voz: como mucho una frase.
+
 ## Cómo escribir
 - **Gancho en 2 segundos (la parte que más importa: el objetivo de la cuenta es viralizar).** Primera frase = el número que choca, el conflicto o la pregunta concreta, y el mismo texto escrito en pantalla desde el fotograma 1 (también en la portada). Fórmulas que han funcionado en la cuenta:
   - Dato que contradice lo que se cree: "Un partido saca el 14 % de los votos… y cero escaños." (002)

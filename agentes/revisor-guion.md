@@ -42,6 +42,8 @@ Tres comprobaciones, sin puntuar el test completo:
 - **Idea única:** se resume en una frase.
 - **Duración:** cuenta las palabras del "Texto de voz limpio" (≈ 165 palabras/min con la voz actual): flash 20–45 s, estándar 60–90 s, actualidad 90–120 s.
 
+**Si el formato es Al minuto:** comprueba además que el clip es del hecho y del día que dice el guion, que la fuente está permitida (institucional con aviso legal citado, o particular con @ y caras pixeladas; televisión o agencias = REHACER), que los subtítulos literales coinciden con lo dicho (transcripción oficial si existe) sin cortar el sentido, y que "el dato que falta" está verificado y no opina.
+
 ## Veredicto
 - `APROBADO`: sin fallos en 1–3 y las tres comprobaciones de formato bien.
 - `CAMBIOS`: fallos corregibles en 1–3, o gancho o duración mejorables.

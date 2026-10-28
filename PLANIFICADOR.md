@@ -47,6 +47,11 @@ Regla de variedad: en cada bloque de 10 vídeos, ningún líder protagoniza más
 | **Reel flash** | 20–35 s | Curiosidad rápida o "dato del día" |
 | **Serie** (2–4 partes) | 60–90 s c/u | Temas grandes: "La Constitución en 4 vídeos" |
 | **Carrusel** (opcional) | 6–10 diapositivas | Resumen de la semana, reutilizando gráficos del vídeo |
+| **Al minuto** (desde el 2026-10-28) | 15–40 s | Actualidad del mismo día con **imagen real del hecho**: el clip manda, con titular fijo de marca y el rótulo "El dato que falta". Plantilla `alminuto`; guion con `guiones/_plantilla-al-minuto.md`; reglas en `estilo/guia-estilo.md` → "Formato Al minuto" |
+
+**Dos líneas de producto (decisión del 2026-10-28, tras el análisis de rendimiento):**
+- **"¿Por qué…?"** (el núcleo, ~70 %): explicativos de instituciones, elecciones y dinero público con un ejemplo y una duda cotidiana; estándar o flash. Es lo que trae guardados y seguidores (002, 003, 016).
+- **"Al minuto"** (~30 %): la actualidad del día, corta y con imagen real. Sustituye a los largos de actualidad de 90–120 s cuando el tema no necesita contexto largo.
 
 **Estructura fija de un Reel estándar** (ver `estilo/guia-estilo.md`):
 1. **Gancho** (0–3 s): pregunta o dato sorprendente en pantalla + voz.
