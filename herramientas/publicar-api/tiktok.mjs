@@ -2,7 +2,7 @@
 // de la cuenta; la persona usuaria lo publica desde la app (descripción y botón final). Nunca publica directamente.
 // Uso:
 //   node herramientas/publicar-api/tiktok.mjs autorizar             → imprime el enlace para autorizar la app con tu TikTok
-//   node herramientas/publicar-api/tiktok.mjs codigo <code>         → canjea el "code" de la URL de vuelta y guarda el token en .env
+//   node herramientas/publicar-api/tiktok.mjs codigo "<dirección>"  → canjea el "code" de la dirección de vuelta y guarda el token en .env
 //   node herramientas/publicar-api/tiktok.mjs borrador <video.mp4>  → sube el vídeo a la bandeja de borradores
 // Variables (herramientas/publicar-api/.env o secretos de GitHub): TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET, TIKTOK_REFRESH_TOKEN.
 // El token de acceso dura 24 h: cada subida pide uno nuevo con el refresh token (válido 365 días; renovar antes de que caduque).
@@ -45,8 +45,10 @@ if (modo === 'autorizar') {
   console.log(`Abre este enlace, autoriza con la cuenta de TikTok y copia el valor "code" de la dirección a la que vuelve (${VUELTA}?code=…):\n${u}`);
 } else if (modo === 'codigo') {
   falta('TIKTOK_CLIENT_KEY', 'TIKTOK_CLIENT_SECRET');
-  if (!arg) { console.error('Uso: tiktok.mjs codigo <code>'); process.exit(1); }
-  const j = await token({code: decodeURIComponent(arg), grant_type: 'authorization_code', redirect_uri: VUELTA});
+  if (!arg) { console.error('Uso: tiktok.mjs codigo "<dirección completa de vuelta o code>"'); process.exit(1); }
+  // Admite la dirección entera (https://github.com/GonZaNiLo23?code=…&scopes=…) o solo el código
+  const code = arg.includes('code=') ? new URL(arg).searchParams.get('code') : decodeURIComponent(arg);
+  const j = await token({code, grant_type: 'authorization_code', redirect_uri: VUELTA});
   guardarEnv('TIKTOK_REFRESH_TOKEN', j.refresh_token);
   console.log(`Autorizado (open_id …${String(j.open_id).slice(-6)}; permisos: ${j.scope}). Refresh token guardado en .env, válido ${Math.round(j.refresh_expires_in / 86400)} días.`);
 } else if (modo === 'borrador') {
