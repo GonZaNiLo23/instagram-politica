@@ -14,5 +14,9 @@ Estos pasos crean cuentas o dan permisos, así que los hace la persona usuaria. 
 - **Sin Cloudflare R2 (0 €):** `instagram.mjs` sube los vídeos directamente a Meta (subida reanudable a `rupload.facebook.com/ig-api-upload/<id>`, sin versión en la ruta, con espera y reintentos). Las imágenes de historias se convierten antes en vídeos de 5 s con ffmpeg.
 - Prueba superada el 2026-10-28 con `--prueba` (reel 002 e historia de mercados): contenedores listos, nada publicado.
 
-## 6. Agentes en la nube
+## 6. Render en la nube (HECHO el 2026-10-28)
+`.github/workflows/render.yml` ("Render de pieza"): renderiza en un servidor de GitHub (≈ 4 min por pieza de 30 s; gratis dentro de los minutos del plan), devuelve vídeo, portada y fotogramas de control como artefacto (14 días), guarda en el repositorio la voz y la portada, y si se pide sube a Instagram (`prueba` o `reel`). Lanzarlo: GitHub → Actions → Render de pieza → Run workflow, o `gh workflow run render.yml -f pieza=NNN-slug -f version=v1`. Probado con 015: mismo resultado que en el PC.
+Secretos necesarios (los pone la persona usuaria; Claude no puede escribir en el almacén de secretos): ELEVENLABS_API_KEY, ELEVENLABS_VOICE_ID, ELEVENLABS_MODEL, ELEVENLABS_AJUSTES, IG_USER_ID, IG_ACCESS_TOKEN.
+
+## 7. Agentes en la nube
 Con el repositorio en GitHub, Claude crea los agentes programados (historia de mercados a las 22:15, producción nocturna, programación de lo aprobado) y guarda las claves como secretos del entorno en la nube.
