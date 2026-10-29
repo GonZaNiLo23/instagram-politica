@@ -1,0 +1,101 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 25.66,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 22.16,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 22.16,
+     "fundidoFin": 22.16
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL EXIGE DIMISIONES TRAS EL ACCIDENTE",
+     "fecha": "29 OCT",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 2.88,
+       "texto": "Hasta que los españoles se sientan"
+      },
+      {
+       "inicio": 2.88,
+       "fin": 4.92,
+       "texto": "seguros en su propia patria,"
+      },
+      {
+       "inicio": 5.1,
+       "fin": 7.7,
+       "texto": "hasta que los españoles se sientan seguros"
+      },
+      {
+       "inicio": 7.7,
+       "fin": 9.78,
+       "texto": "para volver a montar en el tren,"
+      },
+      {
+       "inicio": 9.78,
+       "fin": 11.72,
+       "texto": "hasta que los españoles se sientan"
+      },
+      {
+       "inicio": 11.72,
+       "fin": 13.4,
+       "texto": "protegidos por sus instituciones."
+      },
+      {
+       "inicio": 13.5,
+       "fin": 15.96,
+       "texto": "¿Por qué no ha dimitido aún"
+      },
+      {
+       "inicio": 15.96,
+       "fin": 19.1,
+       "texto": "el ministro de Transporte"
+      },
+      {
+       "inicio": 19.16,
+       "fin": 20.4,
+       "texto": "y por qué no ha dimitido aún"
+      },
+      {
+       "inicio": 20.46,
+       "fin": 22.16,
+       "texto": "el presidente del Gobierno?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 22.16,
+   "fin": 25.66,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal pide la dimisión del ministro y del presidente",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

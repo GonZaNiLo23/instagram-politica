@@ -7,3 +7,4 @@
 - 2026-10-29 17:30 UTC · sin candidatos (radar generado 17:27 UTC, 0 candidatos con frases)
 - 2026-10-29 18:30 UTC · sin candidatos (radar generado 18:28 UTC, 0 candidatos con frases; total_detectados: 1)
 - 2026-10-29 19:32 UTC · sin candidatos (radar generado 19:27 UTC, 0 candidatos con frases; total_detectados: 1)
+- 2026-10-29 20:36 UTC · nota 3 · @vox_es · publicado am20261029-2030-abascal-dimision (43,7-57,2 + 89,4-98,1 s; se excluyen el insulto 'pareja siniestra' y la cifra de 120 muertos por no poder contrastarla)
