@@ -33,6 +33,7 @@ const vistosF = path.join(RAIZ, 'estado', 'al-minuto', 'vistos.json');
 const vistos = fs.existsSync(vistosF) ? JSON.parse(fs.readFileSync(vistosF, 'utf8')) : {};
 const cuentas = JSON.parse(fs.readFileSync(path.join(aqui, 'cuentas.json'), 'utf8'));
 const ahora = Date.now();
+const traer = (u) => fetch(u, {signal: AbortSignal.timeout(30000)});
 const candidatos = [];
 const porCodigo = {}; // shortcode de Instagram → reel (para los enlaces del buzón)
 const codigo = (u) => (u.match(/instagram\.com\/(?:[^/]+\/)?(?:reel|reels|p)\/([A-Za-z0-9_-]+)/) || [])[1];
@@ -42,7 +43,7 @@ for (const c of cuentas.instagram) {
   const campos = `business_discovery.username(${c.usuario}){username,name,followers_count,media.limit(12){id,media_type,media_product_type,timestamp,like_count,comments_count,permalink,caption,media_url}}`;
   const url = `${GRAPH}/${IG_USER_ID}?fields=${encodeURIComponent(campos)}&access_token=${IG_ACCESS_TOKEN}`;
   let j;
-  try { j = await (await fetch(url)).json(); } catch (e) { console.log(`@${c.usuario}: error de red`); continue; }
+  try { j = await (await traer(url)).json(); } catch (e) { console.log(`@${c.usuario}: error de red`); continue; }
   if (j.error) { console.log(`@${c.usuario}: ${j.error.message.slice(0, 80)}`); continue; }
   const b = j.business_discovery;
   for (const m of b.media?.data || []) {
@@ -63,12 +64,12 @@ for (const c of cuentas.instagram) {
 const dd = (d) => `${String(d.getUTCDate()).padStart(2, '0')}${String(d.getUTCMonth() + 1).padStart(2, '0')}${String(d.getUTCFullYear()).slice(2)}`;
 const dias = [dd(new Date(ahora)), dd(new Date(ahora - 864e5))];
 try {
-  const html = await (await fetch('https://www.lamoncloa.gob.es/multimedia/videos/Paginas/index.aspx')).text();
+  const html = await (await traer('https://www.lamoncloa.gob.es/multimedia/videos/Paginas/index.aspx')).text();
   const paginas = [...new Set([...html.matchAll(/href="(\/multimedia\/videos\/[^"]+\/Paginas\/\d{4}\/(\d{6})-[^"]+\.aspx)"/g)].filter((m) => dias.includes(m[2])).map((m) => m[1]))];
   for (const p of paginas) {
     const id = `moncloa-${path.basename(p, '.aspx')}`;
     if (vistos[id]) continue;
-    const pag = await (await fetch(`https://www.lamoncloa.gob.es${p}`)).text();
+    const pag = await (await traer(`https://www.lamoncloa.gob.es${p}`)).text();
     const hls = pag.match(/https?:\/\/smultimedia\.lamoncloa\.gob\.es\/[^"' ]+?playlist\.m3u8/)?.[0] || (pag.match(/smultimedia\.lamoncloa\.gob\.es\/[^"' ]+?playlist\.m3u8/) ? `https://${pag.match(/smultimedia\.lamoncloa\.gob\.es\/[^"' ]+?playlist\.m3u8/)[0]}` : null);
     if (!hls) continue;
     const titulo = (pag.match(/<title>\s*([^<]+?)\s*<\/title>/) || [])[1] || p;
@@ -96,22 +97,24 @@ for (const c of candidatos) {
   if (elegidos.length >= N) break;
   const f = path.join(salida, `${c.id}.mp4`);
   let r;
+  try {
   if (c.fuente === 'instagram') {
-    const res = await fetch(c.descarga);
+    const res = await traer(c.descarga);
     if (!res.ok) { console.log(`${c.id}: descarga HTTP ${res.status}`); continue; }
     fs.writeFileSync(f, Buffer.from(await res.arrayBuffer()));
   } else if (c.fuente === 'moncloa') {
     // Primeros 10 min como máximo, en la mejor variante de hasta 1080p
-    const maestra = await (await fetch(c.descarga)).text();
+    const maestra = await (await traer(c.descarga)).text();
     const variantes = [...maestra.matchAll(/#EXT-X-STREAM-INF:[^\n]*?BANDWIDTH=(\d+)[^\n]*?(?:RESOLUTION=\d+x(\d+))?[^\n]*\n([^\n#]+)/g)]
       .map((m) => ({bw: +m[1], alto: +(m[2] || 0), url: new URL(m[3].trim(), c.descarga).href})).filter((v) => v.alto <= 1080).sort((a, b) => b.bw - a.bw);
-    r = spawnSync('ffmpeg', ['-y', '-v', 'error', '-i', variantes[0]?.url || c.descarga, '-t', '600', '-c', 'copy', f], {encoding: 'utf8'});
+    r = spawnSync('ffmpeg', ['-y', '-v', 'error', '-rw_timeout', '20000000', '-i', variantes[0]?.url || c.descarga, '-t', '600', '-c', 'copy', f], {encoding: 'utf8', timeout: 300000});
     if (r.status !== 0) { console.log(`${c.id}: ffmpeg no pudo bajar el vídeo`); continue; }
   } else {
     // Buzón: no se descarga aquí; la rutina decide si la fuente se puede usar (se avisa en el informe)
     elegidos.push({...c, archivo: null});
     continue;
   }
+  } catch (e) { console.log(`${c.id}: no se pudo descargar (${String(e.message).slice(0, 60)})`); continue; }
   const d = spawnSync('ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', f], {encoding: 'utf8'});
   c.duracion = +Number(d.stdout.trim() || 0).toFixed(1);
   delete c.descarga; // las URL de descarga de Meta llevan firma: no se guardan en el repositorio

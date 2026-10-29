@@ -31,8 +31,12 @@ if (orden === 'clip') {
   const colaF = path.join(RAIZ, 'estado', 'cola-publicacion.json');
   const cola = fs.existsSync(colaF) ? JSON.parse(fs.readFileSync(colaF, 'utf8')) : [];
   if (cola.some((x) => x.pieza === e.pieza && x.version === e.version)) process.exit(0);
-  cola.push({pieza: e.pieza, version: e.version || 'v1', hora: new Date().toISOString(), estado: 'pendiente',
+  // Se publica en punto (decisión de la persona usuaria: 16:00, 17:00, 18:00…): la próxima hora en punto
+  // (si el render acaba con hasta 15 min de retraso sobre la hora, se publica ya)
+  const t = Date.now(), ini = Math.floor(t / 36e5) * 36e5;
+  const enPunto = new Date(t - ini < 15 * 60e3 ? t : ini + 36e5).toISOString();
+  cola.push({pieza: e.pieza, version: e.version || 'v1', hora: enPunto, estado: 'pendiente',
     aprobacion: 'Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)'});
   fs.writeFileSync(colaF, JSON.stringify(cola, null, 2) + '\n');
-  console.log(`${e.pieza}: en la cola para publicar ya`);
+  console.log(`${e.pieza}: en la cola para publicar a las ${enPunto}`);
 } else { console.error('Uso: encargo.mjs clip|encolar <encargo.json>'); process.exit(1); }

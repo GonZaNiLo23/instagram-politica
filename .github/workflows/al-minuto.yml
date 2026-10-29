@@ -1,15 +1,15 @@
 # Radar del agente "Al minuto" horario (decisión de la persona usuaria del 2026-10-29).
-# Cada hora (08:00–22:00 en España): reels recientes de las cuentas de herramientas/al-minuto/cuentas.json (API oficial
+# Cada hora a y 20 (de 06:20 a 21:20 en España, horario de invierno), para publicar en punto de 07:00 a 22:00: reels recientes de las cuentas de herramientas/al-minuto/cuentas.json (API oficial
 # de Instagram), vídeos nuevos de La Moncloa y enlaces del buzón → descarga y transcribe los mejores con faster-whisper →
 # deja estado/al-minuto/candidatos.json en el repositorio y los vídeos en el release "fuentes-alminuto".
-# Después, la rutina en la nube "Al minuto horario" (a y 25) elige, escribe y encarga el render (cola/render/*.json),
-# y render.yml renderiza y PUBLICA directamente (sin revisores, por decisión de la persona usuaria; respeta estado/vetos.md).
+# Después, la rutina en la nube "Al minuto horario" (a y 38) elige, escribe y encarga el render (cola/render/*.json),
+# y render.yml renderiza y PUBLICA a la hora en punto siguiente (sin revisores, por decisión de la persona usuaria; respeta estado/vetos.md).
 # Repositorio público: nada de claves en el código ni en los registros (herramientas/publicar-api/ocultar.mjs).
 name: Al minuto (radar)
 
 on:
   schedule:
-    - cron: "5 6-21 * * *"
+    - cron: "20 5-20 * * *"
   workflow_dispatch:
 
 permissions:

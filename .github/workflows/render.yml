@@ -131,6 +131,9 @@ jobs:
           TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
           TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
         run: |
+          # Espera a la hora en punto que fijó el encargo (como mucho 50 min) y publica
+          espera=$(node -e 'const c=require("./estado/cola-publicacion.json");const h=c.filter(e=>e.estado==="pendiente").map(e=>Date.parse(e.hora)).filter(h=>h>Date.now());console.log(h.length?Math.min(3000,Math.ceil((Math.min(...h)-Date.now())/1000)+5):0)')
+          echo "Publicación en $espera s"; sleep "$espera"
           git pull --rebase -q
           node herramientas/publicar-api/cola.mjs
           git add estado/cola-publicacion.json estado/registro-publicacion.md 2>/dev/null || true

@@ -1,10 +1,10 @@
-# Rutina "Al minuto horario" (nube, cada hora a y 25, de 07:25 a 22:25 en España)
+# Rutina "Al minuto horario" (nube, cada hora a y 38, de 06:38 a 21:38 en España; se publica en punto: 07:00…22:00)
 
 Decisión de la persona usuaria del 2026-10-29: cada hora se publica **directamente, sin revisores**, el vídeo del momento más relevante (nota 3–5) en formato Al minuto. Lo único que lo para es un veto en `estado/vetos.md`. Tú no publicas: encargas el render con `"publicar": true` y GitHub Actions renderiza y publica.
 
 ## 0. Antes de nada
 - `git pull --rebase`.
-- Lee `estado/al-minuto/candidatos.json` (lo deja el radar a y 05). Si su `generado` tiene más de 50 min o no hay candidatos con `frases`, apunta "sin candidatos" en `estado/al-minuto/registro.md` y termina.
+- Lee `estado/al-minuto/candidatos.json` (lo deja el radar a y 20). Si su `generado` tiene más de 50 min o no hay candidatos con `frases`, apunta "sin candidatos" en `estado/al-minuto/registro.md` y termina.
 - Lee: el bloque de decisiones del principio de `estilo/linea-editorial.md`, la sección "Formato Al minuto" de `estilo/guia-estilo.md`, `estado/vetos.md`, las últimas 30 líneas de `estado/al-minuto/registro.md`, y como ejemplo `videos/piezas/029-luto-oficial/escenas.json`.
 
 ## 1. Puntúa cada candidato (1–5)
