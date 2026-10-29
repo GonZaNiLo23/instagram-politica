@@ -61,7 +61,7 @@ jobs:
             done
           fi
           while read -r p v z f; do
-            [[ "$p" =~ ^[0-9]{3}-[a-z0-9-]+$ ]] || { echo "Pieza no válida: $p"; exit 1; }
+            [[ "$p" =~ ^([0-9]{3}|am[0-9]{8}-[0-9]{4})-[a-z0-9-]+$ ]] || { echo "Pieza no válida: $p"; exit 1; }
             [[ "$v" =~ ^v[0-9]+$ ]] || { echo "Versión no válida: $v"; exit 1; }
             [ -f "videos/piezas/$p/escenas.json" ] || { echo "Falta videos/piezas/$p/escenas.json"; exit 1; }
           done < encargos.txt
@@ -96,10 +96,14 @@ jobs:
           estado=0
           while read -r p v z f; do
             VOZ=""; [ "$z" = "true" ] && VOZ="--voz"
+            # Al minuto horario: clip de origen desde el release "fuentes-alminuto"
+            [ "$f" != "-" ] && node herramientas/al-minuto/encargo.mjs clip "$f" >> "render-$p.log" 2>&1
             if node videos/scripts/render.mjs "$p" "--v=$v" $VOZ > "render-$p.log" 2>&1; then
               gh release upload listos "videos/renders/$p-$v.mp4" --clobber
               resumen=$(grep -E "ffprobe:|Volumen integrado" "render-$p.log" | tr '\n' ' ')
               echo "- $(date -u +%FT%TZ) · $p $v · OK · $resumen" >> cola/render/hecho.md
+              # Al minuto horario con "publicar": true → a la cola de publicación para ya
+              if [ "$f" != "-" ] && node herramientas/al-minuto/encargo.mjs encolar "$f"; then git add estado/cola-publicacion.json; echo "publicar=1" >> "$GITHUB_ENV"; fi
             else
               estado=1
               echo "- $(date -u +%FT%TZ) · $p $v · ERROR: $(tail -3 "render-$p.log" | tr '\n' ' ')" >> cola/render/hecho.md
@@ -116,7 +120,25 @@ jobs:
           git config user.name "render-nube"
           git config user.email "render-nube@users.noreply.github.com"
           git diff --cached --quiet || { git commit -q -m "Render en la nube: $(cut -d' ' -f1,2 encargos.txt | tr '\n' ' ')"; git pull --rebase -q && git push -q; }
-          exit ${estado:-0}
+
+      # Al minuto horario: publicar en cuanto termina el render (cola.mjs: vetos, aprobación y TikTok en borradores)
+      - name: Publicar lo encolado
+        if: env.publicar == '1'
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
+        run: |
+          git pull --rebase -q
+          node herramientas/publicar-api/cola.mjs
+          git add estado/cola-publicacion.json estado/registro-publicacion.md 2>/dev/null || true
+          git diff --cached --quiet || { git commit -q -m "Publicación automática (Al minuto)"; git pull --rebase -q && git push -q; }
+
+      - name: Resultado
+        if: always()
+        run: exit ${estado:-0}
 
       - uses: actions/upload-artifact@v4
         if: always()

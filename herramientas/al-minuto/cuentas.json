@@ -1,0 +1,14 @@
+{
+  "_nota": "Cuentas de Instagram que vigila el radar de Al minuto. Solo funcionan cuentas profesionales (Business Discovery). 'espacio': afin (PP, SALF, Vox) u otros (Gobierno y socios, para contestar con la línea). Para añadir una, comprobar antes que la API la encuentra.",
+  "instagram": [
+    {"usuario": "vox_es", "espacio": "afin"},
+    {"usuario": "santi_abascal", "espacio": "afin"},
+    {"usuario": "partidopopular", "espacio": "afin"},
+    {"usuario": "nngg_es", "espacio": "afin"},
+    {"usuario": "isabeldiazayuso", "espacio": "afin"},
+    {"usuario": "alviseperez", "espacio": "afin"},
+    {"usuario": "sanchezcastejon", "espacio": "otros"},
+    {"usuario": "psoe", "espacio": "otros"},
+    {"usuario": "gabrielrufian", "espacio": "otros"}
+  ]
+}

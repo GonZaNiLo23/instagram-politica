@@ -1,0 +1,79 @@
+# Radar del agente "Al minuto" horario (decisión de la persona usuaria del 2026-10-29).
+# Cada hora (08:00–22:00 en España): reels recientes de las cuentas de herramientas/al-minuto/cuentas.json (API oficial
+# de Instagram), vídeos nuevos de La Moncloa y enlaces del buzón → descarga y transcribe los mejores con faster-whisper →
+# deja estado/al-minuto/candidatos.json en el repositorio y los vídeos en el release "fuentes-alminuto".
+# Después, la rutina en la nube "Al minuto horario" (a y 25) elige, escribe y encarga el render (cola/render/*.json),
+# y render.yml renderiza y PUBLICA directamente (sin revisores, por decisión de la persona usuaria; respeta estado/vetos.md).
+# Repositorio público: nada de claves en el código ni en los registros (herramientas/publicar-api/ocultar.mjs).
+name: Al minuto (radar)
+
+on:
+  schedule:
+    - cron: "5 6-21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: al-minuto-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: herramientas/al-minuto/requisitos.txt
+
+      - name: ffmpeg y faster-whisper
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+          pip install -q -r herramientas/al-minuto/requisitos.txt
+
+      - name: Modelo de Whisper (caché)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small-v1
+
+      - name: Radar
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: node herramientas/al-minuto/radar.mjs --salida=/tmp/am --n=5 --horas=8
+
+      - name: Transcripción
+        run: python herramientas/al-minuto/transcribir.py /tmp/am
+
+      - name: Vídeos al release y candidatos al repositorio
+        run: |
+          gh release view fuentes-alminuto >/dev/null 2>&1 || gh release create fuentes-alminuto --title "Fuentes de Al minuto" --notes "Vídeos de origen que descarga el radar (se limpian a los 3 días)."
+          for f in /tmp/am/*.mp4; do [ -f "$f" ] && gh release upload fuentes-alminuto "$f" --clobber; done
+          # Limpieza: fuera los vídeos de origen de más de 3 días
+          gh release view fuentes-alminuto --json assets -q '.assets[] | select((now - (.createdAt | fromdateiso8601)) > 259200) | .name' | while read -r a; do gh release delete-asset fuentes-alminuto "$a" -y; done
+          mkdir -p estado/al-minuto
+          node -e '
+            const fs=require("fs");const c=require("/tmp/am/candidatos.json");
+            fs.writeFileSync("estado/al-minuto/candidatos.json",JSON.stringify(c,null,1));
+            const f="estado/al-minuto/vistos.json";const v=fs.existsSync(f)?JSON.parse(fs.readFileSync(f)):{};
+            for(const x of c.candidatos)v[x.id]=v[x.id]||{visto:c.generado,cuenta:x.cuenta||x.fuente};
+            // se olvidan los de más de 7 días
+            for(const[k,x]of Object.entries(v))if(Date.now()-Date.parse(x.visto)>7*864e5)delete v[k];
+            fs.writeFileSync(f,JSON.stringify(v,null,1));'
+          git config user.name "radar-nube"
+          git config user.email "radar-nube@users.noreply.github.com"
+          git add estado/al-minuto/candidatos.json estado/al-minuto/vistos.json
+          git diff --cached --quiet || { git commit -q -m "Al minuto: radar $(date -u +%FT%H:%MZ)"; git pull --rebase -q && git push -q; }
