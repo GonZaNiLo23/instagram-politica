@@ -39,3 +39,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 **Ritmo (confirmado el 2026-10-25):** 2 publicaciones al día (13:30 y 19:00; fin de semana 12:00 y 19:00); máximo 3 solo con urgente y con 3–4 h de separación. Reels + carruseles. 2026-10-20: en marcha propuestas nuevas (buscador), render final 006, vídeo 007, guiones 005 y 008 sin opinión.
 
 **Estados:** propuesto · elegido · guion-borrador · guion-revision · guion-aprobado · video-render · video-revision · listo · programado · publicado · descartado
+| am20261029-1552-alvise-efectivo | am-horario | 🔴 Actualidad · Al minuto | Al minuto (24 s) | publicando (Al minuto horario) | 0 | 0 | 2026-10-29 16:00 (render.yml, sin revisores) | Alvise exhibe efectivo; clip de @alviseperez |
