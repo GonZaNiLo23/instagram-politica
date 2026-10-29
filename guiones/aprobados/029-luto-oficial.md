@@ -1,4 +1,4 @@
-# 028 · Luto oficial por el accidente de Urda (formato Al minuto, PILOTO)
+# 029 · Luto oficial por el accidente de Urda (formato Al minuto, PILOTO)
 
 | Campo | Valor |
 |---|---|
@@ -8,7 +8,7 @@
 | Vigencia | Publicar el 2026-10-29 y, como tarde, antes de las 24:00 del 2026-10-31 (fin del luto). Si cambian el balance o la fecha del luto, revisar |
 | Portada | Titular "TRES DÍAS DE LUTO POR URDA" (6 palabras) sobre el fotograma del segundo 2 del clip |
 | Versión | v2 |
-| Estado | aprobado (revisor-guion, 2026-10-29, revisiones/guiones/028-luto-oficial-v2.md) |
+| Estado | aprobado (revisor-guion, 2026-10-29, revisiones/guiones/029-luto-oficial-v2.md) |
 
 ## Titular (caja fija, máx. 8 palabras)
 TRES DÍAS DE LUTO POR URDA

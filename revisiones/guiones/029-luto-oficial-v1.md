@@ -1,4 +1,4 @@
-# Revisión de guion · 028-luto-oficial · vuelta 1
+# Revisión de guion · 029-luto-oficial · vuelta 1
 **Veredicto:** CAMBIOS  →  vuelve a: guionista
 **Duración estimada:** 30 s (clip 27 s + cierre 3 s); voz 32 palabras ≈ 11,6 s a 165 pal/min (el guion usa 155; la guía dice 165)
 **Formato:** gancho OK (con cambio de titular) · idea única OK · duración OK (Al minuto: 15–40 s)

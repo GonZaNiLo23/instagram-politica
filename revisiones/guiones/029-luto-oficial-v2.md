@@ -1,4 +1,4 @@
-# Revisión de guion · 028-luto-oficial · vuelta 2
+# Revisión de guion · 029-luto-oficial · vuelta 2
 **Veredicto:** APROBADO
 **Duración estimada:** 26,5 s (clip 23,5 s + cierre 3 s); voz 14 palabras ≈ 5,1 s
 **Formato:** gancho OK · idea única OK · duración OK (Al minuto: 15–40 s)

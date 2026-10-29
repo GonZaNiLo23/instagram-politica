@@ -1,4 +1,4 @@
-# Revisión de vídeo · 028-luto-oficial · vuelta 2
+# Revisión de vídeo · 029-luto-oficial · vuelta 2
 **Veredicto:** APROBADO  →  sigue a publicación
 **Técnica:** 1080×1920 · 30 fps · H.264+AAC · 28,2 s · -14,4 LUFS · pico -1,4 dBTP
 **Test de formato:** 9/10 (criterio 9 sin pregunta, decisión del guion por ser suceso con víctimas)

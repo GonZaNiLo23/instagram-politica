@@ -1,4 +1,4 @@
-# Revisión de vídeo · 028-luto-oficial · vuelta 1
+# Revisión de vídeo · 029-luto-oficial · vuelta 1
 **Veredicto:** CAMBIOS  →  vuelve a: generador-video (con un aviso al coordinador sobre la música)
 **Técnica:** 1080×1920 · 30 fps · H.264+AAC · 27,2 s · -13,9 LUFS · pico -1,4 dBTP
 **Test de formato Al minuto/Reel:** 8/10 (fallan 9 y, a medias, 8)
