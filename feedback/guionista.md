@@ -24,7 +24,7 @@ Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 19. **Partidos ficticios**: forma o letra (Círculo/A), tonos neutros; nunca colores de partidos reales.
 20. **Simplifica el lenguaje, no el contenido**: cada efecto legal, con el artículo exacto y la elección a la que se aplica (la barrera del 3 % es la del Congreso; en municipales, el 5 %); el lema del cierre no contradice al gancho.
 21. **Rótulos ≤ 7 palabras**; las siglas se explican (si explicas una, explícalas todas).
-22. **Flash = 20–35 s (unas 88 palabras como máximo)**, aunque el encargo dé un margen mayor: el bloque explicativo o de "¿y en España?" no pasa del 40 % de la voz; los pasos de detalle (mayorías, plazos intermedios) van al post.
+22. **Flash = 20–35 s (88 palabras como máximo, tiempos a 165 pal/min)**, aunque el encargo dé un margen mayor: el bloque explicativo o de "¿y en España?" no pasa del 40 % de la voz; los pasos de detalle (mayorías, plazos intermedios, definiciones técnicas) van al rótulo o al post; se recorta la explicación, nunca la resolución del gancho ni el ejemplo; con dos cifras en juego, cada variación dice de cuál es.
 23. **Clips de redes**: sin reloj ni hito horario si no consta la hora de grabación; crédito "publicado DD-MM, HH:MM"; nada de grabaciones de otra pantalla sin descartar que sean de un medio; en la tabla, quién autorizó el uso.
 24. **Guía del 2026-10-26**: los objetos y lugares reales (urna, edificio, coche…) no se dibujan: foto recortada con su tabla de imágenes, o se quitan; el post lleva el crédito de la música del pilar (`videos/musica/LICENCIAS.md`).
 25. **Encuestas en periodo electoral** (LOREG 69.1: toda publicación lleva la ficha): ninguna cifra de una encuesta sin su ficha completa en el post (quién la realiza y quién la encarga, muestra, error, fechas, preguntas y no respuesta); nada de rangos de agregadores ni Wikipedia; usa la N y los datos **definitivos** del CIS, no los del avance.
@@ -34,6 +34,12 @@ Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 (Ya incorporadas a la guía de estilo y la plantilla, ver Histórico: recuento real de palabras y tiempos por bloque, frases de ≤ 15 palabras, dato vivo con "a fecha de" y fuentes concretas con fecha, campo Portada.)
 
 ## Reglas activas
+
+### 2026-10-29 · 028-dos-cifras-de-paro (v1) · revisor-guion
+- Ocurrencias: regla 22: 2 (023, 028) · +1 regla 12 ("Estás en la EPA", cuando la encuesta solo te cuenta si te encuestan; "cuenta solo a los inscritos", cuando no todo inscrito es parado registrado)
+- Problema: El flash tenía 109 palabras porque el encargo decía "35–45 s", y se calculó a 155 pal/min (la guía dice 165). El recorte que proponía quitaba la resolución del gancho ("Las dos son ciertas") y el ejemplo, que es lo que se comparte. Además, la voz afirmaba lo que el rótulo matizaba ("Si te encuestan"), y el balance de la EPA iba justo después del bloque del registro sin decir de qué cifra era.
+- Regla para el futuro: En un flash, máximo 88 palabras aunque el encargo dé más, con los tiempos a 165 pal/min. Recorta primero la explicación (la definición técnica va al rótulo y al post) y nunca la resolución del gancho ni el ejemplo. Si hay dos cifras en juego, cada variación dice en la voz de cuál es.
+- Ejemplo: "Este trimestre: casi noventa y seis mil parados más" (tras hablar del registro) → "Este trimestre, la EPA suma casi noventa y seis mil." · "Estás en la EPA, no en el registro." → "La encuesta puede contarte; el registro, no."
 
 ### 2026-10-28 · 027-trenes-oscar-puente (v1) · revisor-guion
 - Ocurrencias: nueva regla 27 (desenlace de los hechos pasados) · +1 regla 8 (gancho y portada con "45 muertos" junto a "con Óscar Puente de ministro", sin causa establecida) · +1 regla 17 ("¿tren o coche?" como cierre el día de un choque con muertos) · +1 regla 1 ("son los hechos más graves")
