@@ -8,6 +8,11 @@
 name: Al minuto (radar)
 
 on:
+  # Disparo principal: la rutina "Al minuto horario" sube cola/radar/pedir.txt (las tareas programadas de GitHub llegan tarde o se saltan)
+  push:
+    branches: [main]
+    paths: ["cola/radar/**"]
+  # Respaldo
   schedule:
     - cron: "20 5-20 * * *"
   workflow_dispatch:
@@ -76,4 +81,5 @@ jobs:
           git config user.name "radar-nube"
           git config user.email "radar-nube@users.noreply.github.com"
           git add estado/al-minuto/candidatos.json estado/al-minuto/vistos.json
+          [ -f cola/radar/pedir.txt ] && git rm -q cola/radar/pedir.txt
           git diff --cached --quiet || { git commit -q -m "Al minuto: radar $(date -u +%FT%H:%MZ)"; git pull --rebase -q && git push -q; }
