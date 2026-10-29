@@ -4,19 +4,29 @@
 # "palabras" [{t, inicio, fin}] (segundos del vídeo original). Whisper se equivoca a veces con nombres propios.
 import json
 import os
+import subprocess
 import sys
+
+import numpy as np
 
 from faster_whisper import WhisperModel
 
 carpeta = sys.argv[1]
 ruta = os.path.join(carpeta, "candidatos.json")
 datos = json.load(open(ruta, encoding="utf-8"))
+
+def audio(ruta):
+    # Se decodifica con ffmpeg (16 kHz mono) en vez de PyAV: evita incompatibilidades de versiones
+    crudo = subprocess.run(["ffmpeg", "-v", "error", "-i", ruta, "-f", "f32le", "-ac", "1", "-ar", "16000", "-"], capture_output=True, check=True).stdout
+    return np.frombuffer(crudo, np.float32)
+
+
 modelo = WhisperModel(os.environ.get("WHISPER_MODELO", "small"), device="cpu", compute_type="int8")
 
 for c in datos["candidatos"]:
     if not c.get("archivo"):
         continue
-    segmentos, info = modelo.transcribe(os.path.join(carpeta, c["archivo"]), language="es", word_timestamps=True, vad_filter=True)
+    segmentos, info = modelo.transcribe(audio(os.path.join(carpeta, c["archivo"])), language="es", word_timestamps=True, vad_filter=True)
     frases, palabras = [], []
     for s in segmentos:
         frases.append({"inicio": round(s.start, 2), "fin": round(s.end, 2), "texto": s.text.strip()})
