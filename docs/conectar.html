@@ -39,7 +39,14 @@
   document.getElementById('conectar').href = url;
   if (p.get('code')) {
     document.getElementById('estado').innerHTML = '<div class="ok"><b>Cuenta conectada.</b> Permisos concedidos: ' +
-      (p.get('scopes') || '').replace(/,/g, ', ') + '. Occidente Publicador ya puede subir y publicar los vídeos del medio.</div>';
+      (p.get('scopes') || '').replace(/,/g, ', ') + '. Occidente Publicador ya puede subir y publicar los vídeos del medio.' +
+      '<p style="margin:12px 0 6px;font-size:14px">Último paso en el ordenador del medio (el código caduca en unos minutos):</p>' +
+      '<button id="copiar" class="boton" style="border:0;cursor:pointer;margin-top:0">Copiar comando</button></div>';
+    var cmd = '! cd "C:/Users/gonza/Documents/Instagram Politica" && TIKTOK_VUELTA=' + VUELTA +
+      ' node herramientas/publicar-api/tiktok.mjs codigo "' + p.get('code') + '"';
+    document.getElementById('copiar').onclick = function () {
+      navigator.clipboard.writeText(cmd).then(function () { document.getElementById('copiar').textContent = 'Copiado ✓'; });
+    };
     document.getElementById('conectar').textContent = 'Volver a conectar';
   } else if (p.get('error')) {
     document.getElementById('estado').innerHTML = '<div class="ok"><b>No se ha conectado:</b> ' + (p.get('error_description') || p.get('error')) + '</div>';
