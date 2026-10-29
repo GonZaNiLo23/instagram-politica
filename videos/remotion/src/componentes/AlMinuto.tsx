@@ -4,6 +4,9 @@ import {C, F, SEGURA, SUBS} from '../tema';
 import {useEntrada, useSalida} from './util';
 import {Notas} from './Notas';
 
+/** Desplazamiento de los subtítulos (citas y voz) en Al minuto: suben sobre el pecho para dejar abajo la caja de titular. Úsalo también como subDy en escenas.json. */
+export const SUBS_DY_AM = -310;
+
 /**
  * Formato AL MINUTO (2026-10-28; reglas en estilo/guia-estilo.md → "Formato Al minuto").
  * El clip real a pantalla completa manda; encima, la caja de titular fija, los subtítulos literales del clip y "El dato que falta".
@@ -15,8 +18,8 @@ import {Notas} from './Notas';
  * Velo tinta degradado arriba y abajo para leer la caja y los subtítulos. `credito` ("Vídeo: La Moncloa") siempre visible abajo. */
 export const Clip: React.FC<{
   src: string; desde?: number; volumen?: number; bajarEn?: [number, number][]; volumenBajo?: number; foco?: string;
-  zoom?: [number, number]; dur?: number; en?: number; credito?: string; velo?: number; fundidoFin?: number;
-}> = ({src, desde = 0, volumen = 1, bajarEn = [], volumenBajo = 0.15, foco = '50% 50%', zoom = [1, 1], dur = 10, en = 0, credito, velo = 0.55, fundidoFin}) => {
+  zoom?: [number, number]; dur?: number; en?: number; credito?: string; creditoY?: number; velo?: number; fundidoFin?: number;
+}> = ({src, desde = 0, volumen = 1, bajarEn = [], volumenBajo = 0.15, foco = '50% 50%', zoom = [1, 1], dur = 10, en = 0, credito, creditoY = 1455, velo = 0.55, fundidoFin}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const k = interpolate(frame, [en * fps, (en + dur) * fps], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
@@ -37,15 +40,15 @@ export const Clip: React.FC<{
       <div style={{position: 'absolute', inset: 0, overflow: 'hidden', background: C.tinta}}>
         <OffthreadVideo src={staticFile(`clips/${src}`)} startFrom={Math.round(desde * fps)} volume={vol}
           style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: foco, transform: `scale(${esc})`, transformOrigin: foco}} />
-        <div style={{position: 'absolute', inset: 0, background: `linear-gradient(180deg, rgba(20,33,61,${velo}) 0%, rgba(20,33,61,0) 34%, rgba(20,33,61,0) 52%, rgba(20,33,61,${velo + 0.15}) 100%)`}} />
+        <div style={{position: 'absolute', inset: 0, background: `linear-gradient(180deg, rgba(20,33,61,${velo * 0.5}) 0%, rgba(20,33,61,0) 20%, rgba(20,33,61,0) 40%, rgba(20,33,61,${velo + 0.15}) 100%)`}} />
       </div>
-      {credito ? <Notas lineas={[credito]} sobre="oscuro" tamano={34} /> : null}
+      {credito ? <Notas lineas={[credito]} sobre="oscuro" tamano={34} y={creditoY} /> : null}
     </>
   );
 };
 
-/** Caja de titular fija (todo el vídeo): etiqueta mostaza "AL MINUTO · fecha" y titular (máx. 8 palabras) en crema sobre tinta. */
-export const TitularAM: React.FC<{texto: string; fecha?: string; etiqueta?: string; y?: number; tamano?: number; en?: number}> = ({texto, fecha, etiqueta = 'AL MINUTO', y = 345, tamano = 70, en = 0}) => {
+/** Caja de titular fija (todo el vídeo), ABAJO para no tapar la cara (decisión 2026-10-29): etiqueta mostaza "AL MINUTO · fecha" y titular (máx. 8 palabras) en crema sobre tinta. */
+export const TitularAM: React.FC<{texto: string; fecha?: string; etiqueta?: string; y?: number; tamano?: number; en?: number}> = ({texto, fecha, etiqueta = 'AL MINUTO', y = 1200, tamano = 70, en = 0}) => {
   // Regla de la plantilla: caja 100 % opaca desde el fotograma 1, sin fundido ni movimiento de entrada
   return (
     <div style={{position: 'absolute', left: SEGURA.izq, top: y, width: SEGURA.ancho}}>
@@ -57,8 +60,8 @@ export const TitularAM: React.FC<{texto: string; fecha?: string; etiqueta?: stri
   );
 };
 
-/** Subtítulos literales del clip (lo que se oye), con quién habla en mostaza. Pastilla tinta en la banda de subtítulos. */
-export const Citas: React.FC<{lineas: {inicio: number; fin: number; texto: string; quien?: string}[]; y?: number; tamano?: number}> = ({lineas, y = SUBS.y, tamano = 64}) => {
+/** Subtítulos literales del clip (lo que se oye), SIN el nombre de quien habla (decisión 2026-10-29). Encima de la caja de titular. Pastilla tinta en la banda de subtítulos. */
+export const Citas: React.FC<{lineas: {inicio: number; fin: number; texto: string}[]; y?: number; tamano?: number}> = ({lineas, y = SUBS.y + SUBS_DY_AM, tamano = 64}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const t = frame / fps;
@@ -67,7 +70,7 @@ export const Citas: React.FC<{lineas: {inicio: number; fin: number; texto: strin
   return (
     <div style={{position: 'absolute', left: SEGURA.izq, width: SEGURA.ancho, top: y, display: 'flex', justifyContent: 'center'}}>
       <div style={{fontFamily: F.texto, fontWeight: 700, fontSize: tamano, lineHeight: 1.22, color: C.crema, background: 'rgba(20,33,61,0.88)', padding: '12px 26px', borderRadius: 18, textAlign: 'center', maxWidth: SEGURA.ancho}}>
-        {l.quien ? <span style={{color: C.mostaza}}>{l.quien}: </span> : null}{l.texto}
+        {l.texto}
       </div>
     </div>
   );

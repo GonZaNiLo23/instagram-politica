@@ -38,45 +38,29 @@
       {
        "inicio": 0,
        "fin": 4.3,
-       "quien": "Pedro Sánchez",
        "texto": "Procederemos a la declaración de tres días de luto oficial,"
       },
       {
        "inicio": 4.3,
        "fin": 8.5,
-       "quien": "Pedro Sánchez",
        "texto": "como hicimos también con el accidente ferroviario de Adamuz."
       },
       {
        "inicio": 8.5,
        "fin": 11.9,
-       "quien": "Pedro Sánchez",
        "texto": "Será el día 29, el día 30 y el día 31."
       },
       {
        "inicio": 12,
        "fin": 14.8,
-       "quien": "Pedro Sánchez",
        "texto": "Como he dicho antes, al principio de esta breve intervención,"
       },
       {
        "inicio": 14.8,
        "fin": 17.7,
-       "quien": "Pedro Sánchez",
        "texto": "España está de luto, abraza a sus víctimas…"
       }
-     ],
-     "y": 1000
-    },
-    {
-     "tipo": "datoFalta",
-     "cifra": "LUTO DEL 29 (00:00) AL 31 (24:00)",
-     "texto": "Media asta: edificios públicos y buques de la Armada",
-     "fuente": "Fuente: BOE, RD 949/2026",
-     "en": 17.8,
-     "hasta": 24.1,
-     "y": 640,
-     "tamano": 66
+     ]
     }
    ]
   },
@@ -94,5 +78,6 @@
     }
    ]
   }
- ]
+ ],
+ "subDy": -310
 }

@@ -91,3 +91,8 @@ Imágenes: ninguna foto externa; todo el fondo es el clip. Rótulos y cierre, ve
 - Montaje con tiempos nuevos: clip 0–23,5 s, voz en 17,8 s, cierre mostaza 23,5–26,5 s; el clip no llega a "agradecer a los medios".
 - Subtítulos 0–4,3 / 4,3–8,5 / 8,5–11,9 / 12,0–17,7; rótulo del dato acortado; Adamuz solo en el post.
 - Duración recalculada a 165 pal/min; [VERIFICAR] 1 y 2 marcados como resueltos.
+
+## Cambios de la persona usuaria (2026-10-29, tras ver el vídeo v2)
+- Fuera el rótulo "El dato que falta" (la frase de la voz se queda, con sus subtítulos normales).
+- Caja de titular abajo para no tapar la cara; subtítulos encima, a la altura del pecho.
+- Subtítulos del clip sin "Pedro Sánchez:", solo el texto.
