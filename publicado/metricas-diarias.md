@@ -99,3 +99,24 @@
 | 2026-10-27 (TikTok Studio) | 002 | TikTok | 2026-10-23 19:03 | ~4 d | 1.576 | n/d | 24,05 s | 5,6 % completo | n/d | 45 | 3 | n/d | 6 | 2 | 40 |
 | 2026-10-27 (TikTok Studio) | resto TikTok (004, 006, 010, 022, 023, 001, 008, 024, 016, 025) | TikTok | varios | n/d | n/d | n/d | n/d | n/d | n/d | n/d | n/d | n/d | n/d | 0 por diferencia (33+3+2+2=40; no abiertas una a una) | 40 |
 | 2026-10-27 | todos | Instagram | n/d | n/d | Seguidores ganados por Reel: no disponible en esta lectura (no se pudo abrir Insights de Instagram; el total IG sigue en 29, Metricool) | | | | | | | | | n/d | 29 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 027 | Instagram | 2026-10-28 21:01 | 2 h | 226 | 207 | 9,2 s | n/d | n/d | 1 | 1 | 0 | 0 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 014 | Instagram | 2026-10-28 19:01 | 4 h | 2.581 | 2.093 | 16,1 s | n/d | n/d | 26 | 2 | 3 | 0 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 026 | Instagram | 2026-10-28 13:31 | 10 h | 2.122 | 1.870 | 23,7 s | n/d | n/d | 34 | 1 | 3 | 11 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 011 | Instagram (carrusel) | 2026-10-28 13:30 | 10 h | 20 | 8 | n/d | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 013 | Instagram | 2026-10-27 19:01 | 28 h | 1.762 | 1.539 | 28,9 s | n/d | n/d | 21 | 1 | 6 | 0 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 021 | Instagram | 2026-10-27 13:31 | 34 h | 631 | 531 | 10,5 s | n/d | n/d | 8 | 0 | 2 | 2 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 025 | Instagram | 2026-10-27 09:32 | 38 h | 697 | 603 | 23,5 s | n/d | n/d | 4 | 0 | 1 | 0 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 016 | Instagram | 2026-10-26 19:01 | 52 h | 5.637 | 4.816 | 25,5 s | n/d | n/d | 66 | 2 | 21 | 18 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 001 | Instagram | 2026-10-25 19:05 | 76 h | 1.916 | 1.639 | 21,3 s | n/d | n/d | 47 | 0 | 7 | 1 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 024 | Instagram | 2026-10-25 15:47 | 79 h | 271 | 243 | 12,6 s | n/d | n/d | 2 | 0 | 0 | 2 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 008 | Instagram | 2026-10-25 12:05 | 83 h | 833 | 724 | 18,1 s | n/d | n/d | 8 | 0 | 2 | 0 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 023 | Instagram | 2026-10-24 19:07 | 101 h | 1.734 | 1.516 | 13,1 s | n/d | n/d | 37 | 0 | 3 | 0 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 022 | Instagram | 2026-10-24 16:31 | 104 h | 1.779 | 1.574 | 11,6 s | n/d | n/d | 44 | 0 | 7 | 2 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 003 | Instagram | 2026-10-24 12:05 | 108 h | 3.428 | 2.789 | 19,4 s | n/d | n/d | 28 | 2 | 4 | 4 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 002 | Instagram | 2026-10-23 19:06 | 125 h | 8.625 | 6.964 | 39,1 s | n/d | n/d | 104 | 2 | 61 | 31 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 005 | Instagram | 2026-10-23 16:32 | 128 h | 177 | 162 | 13,2 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 010 | Instagram | 2026-10-23 13:33 | 131 h | 1.028 | 875 | 13,3 s | n/d | n/d | 11 | 0 | 0 | 5 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 009 | Instagram | 2026-10-23 10:07 | 134 h | 2.353 | 1.835 | 45,5 s | n/d | n/d | 72 | 13 | 11 | 36 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 006 | Instagram | 2026-10-22 19:08 | 149 h | 427 | 379 | 22,0 s | n/d | n/d | 9 | 0 | 0 | 0 | n/d | 41 |
+| 2026-10-29 (API, corte 28-10 22:05 UTC) | 004 | Instagram | 2026-10-20 19:08 | 197 h | 39 | 32 | 10,2 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 41 |
+| 2026-10-29 | todos | TikTok | n/d | n/d | TikTok no está en la API de Instagram: sin lectura hoy; último dato conocido 40 seguidores (TikTok Studio, 2026-10-27) | | | | | | | | | n/d | n/d |
