@@ -3,6 +3,7 @@
 // Deja <salida>.txt (frases con tiempos) y <salida>.json (tiempos por palabra). Por defecto, junto al origen.
 // Requiere whisper.cpp en %USERPROFILE%\whisper (bin\Release\whisper-cli.exe + ggml-<modelo>.bin) o WHISPER_DIR.
 // En la nube no está instalado: allí hace falta otra vía (p. ej. ElevenLabs speech-to-text con permiso en la clave).
+import '../../herramientas/publicar-api/ocultar.mjs';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';

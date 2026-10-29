@@ -7,6 +7,7 @@
 //  --foco     0..1, posición horizontal del recorte (0,5 = centro).
 //  --pixelar  cajas en px del vídeo FINAL 1080×1920 y segundos del vídeo FINAL. Para caras de particulares (guía de estilo).
 // Deja videos/piezas/NNN-slug/clips/<salida> y un fotograma de control por tramo en clips/control-*.png.
+import '../../herramientas/publicar-api/ocultar.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {FFMPEG, ejecutar, rutaPieza} from './herramientas.mjs';

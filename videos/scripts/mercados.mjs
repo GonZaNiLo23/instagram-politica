@@ -2,6 +2,7 @@
 // Escribe estado/mercados/AAAA-MM-DD.json con cierre, cierre anterior y variación de cada índice.
 // Fuente de los datos: API pública de gráficos de Yahoo Finance (agregador). El revisor contrasta cada cifra
 // con una segunda fuente de referencia (Reuters, WSJ, Expansión, BME) antes de publicar.
+import '../../herramientas/publicar-api/ocultar.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {RAIZ_VIDEOS} from './herramientas.mjs';

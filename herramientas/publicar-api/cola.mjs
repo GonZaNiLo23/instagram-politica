@@ -8,6 +8,7 @@
 //  - con más de 3 h de retraso no se publica ("caducado"): la actualidad puede haber cambiado; lo revisa el coordinador.
 // El vídeo sale de videos/renders/ o, si no está, del release "listos" del repositorio (lo sube el flujo de render).
 // El texto del post es la sección "## Texto del post" de publicado/NNN-slug.md.
+import './ocultar.mjs';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';

@@ -2,6 +2,8 @@
 
 > **DECISIÓN DE LA PERSONA USUARIA (2026-10-20), PREVALECE SOBRE TODO LO DE ABAJO:** los vídeos son **puramente informativos**. Se elimina el bloque "Nuestra lectura" y no se incluye opinión editorial en voz, rótulos ni texto del post. Los valores de abajo solo sirven ya como criterio para **elegir temas y enfoques**, nunca para opinar en pantalla. Se mantienen todas las reglas de rigor, equidad entre actores y exposición justa de cada postura (atribuida a quien la defiende).
 
+> **DECISIÓN DE LA PERSONA USUARIA (2026-10-29):** "ahora somos un periódico afín a PP, SALF y Vox". El espacio afín pasa a ser **PP, SALF (Se Acabó La Fiesta) y Vox**. En el formato **Al minuto** (incluido el agente horario), la **descripción del post** puede llevar el enfoque de esa línea (qué significa, a quién beneficia o perjudica, la crítica al Gobierno y a sus socios), siempre sin inventar ni sacar de contexto: lo que se atribuye a alguien tiene que oírse en el clip o constar en una fuente oficial, y los datos se siguen verificando igual para todos. En pantalla, solo el clip, el titular y los subtítulos literales.
+
 > **Recalibrada con la persona usuaria el 2026-10-26** (test de 8 preguntas): liberal en economía, conservadora en lo social, restrictiva en inmigración, europeísta crítica, Constitución actual, PP y Vox como espacio afín.
 
 La cuenta tiene una **mirada de derecha liberal-conservadora**. Explica la actualidad política con rigor. La credibilidad es nuestro mayor activo: **un enfoque de derecha bien argumentado y con datos ciertos convence; un dato falso nos hunde.**

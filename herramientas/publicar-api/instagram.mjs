@@ -10,6 +10,7 @@
 //   IG_USER_ID, IG_ACCESS_TOKEN, [GRAPH_VERSION=v23.0], [FFMPEG=ruta a ffmpeg]
 //   IG_ACCESS_TOKEN es el token de la página de Facebook vinculada (no caduca). App de Meta: Occidente Publicador.
 // Autorización: solo se ejecuta por encargo del coordinador con la aprobación correspondiente (CLAUDE.md, Convenciones).
+import './ocultar.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';

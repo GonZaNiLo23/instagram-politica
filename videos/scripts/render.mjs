@@ -2,6 +2,7 @@
 //  --voz       regenera la voz aunque ya exista tiempos.json
 //  --aviso     pinta "VOZ PROVISIONAL" en pantalla (solo pruebas)
 // Hace: voz -> props.json -> render H.264 CRF 18 -> música de fondo (si escenas.json trae "musica") -> loudnorm -14 LUFS -> ffprobe -> 6 fotogramas de control -> portada -> comprobar.mjs (avisos mecánicos).
+import '../../herramientas/publicar-api/ocultar.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {spawnSync} from 'node:child_process';

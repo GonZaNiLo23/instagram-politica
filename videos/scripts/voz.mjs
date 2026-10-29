@@ -6,6 +6,7 @@
 //  - Sin clave: voz PROVISIONAL (voz del sistema de Windows si hay voz en español; si no, silencio),
 //    con tiempos estimados a 165 palabras/min y "provisional": true. Nunca publicar con ella.
 // El texto sale de piezas/NNN-slug/voz.txt (editable) o, si no existe, del bloque "Texto de voz limpio" del guion aprobado.
+import '../../herramientas/publicar-api/ocultar.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {spawnSync} from 'node:child_process';

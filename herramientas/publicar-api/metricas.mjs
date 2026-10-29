@@ -3,6 +3,7 @@
 // Escribe publicado/metricas-api/AAAA-MM-DD.json: seguidores de la cuenta y, por publicación, sus métricas.
 // Una métrica que la API no da para ese tipo de publicación queda en null (nunca se estima).
 // Variables: IG_USER_ID, IG_ACCESS_TOKEN (herramientas/publicar-api/.env o secretos de GitHub).
+import './ocultar.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';

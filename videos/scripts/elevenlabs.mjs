@@ -1,6 +1,7 @@
 // ElevenLabs: voz + marcas de tiempo por carácter (endpoint with-timestamps), agrupadas en palabras.
 // Variables en videos/.env: ELEVENLABS_API_KEY, ELEVENLABS_VOICE_ID, opcional ELEVENLABS_MODEL y ELEVENLABS_AJUSTES
 // (JSON de voice_settings, p. ej. {"stability":0.35,"style":0.3}; sin él, los ajustes por defecto de la voz).
+import '../../herramientas/publicar-api/ocultar.mjs';
 import fs from 'node:fs';
 
 export const hayElevenLabs = () => !!(process.env.ELEVENLABS_API_KEY && process.env.ELEVENLABS_VOICE_ID);

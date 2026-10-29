@@ -6,6 +6,7 @@
 //   node herramientas/publicar-api/tiktok.mjs borrador <video.mp4>  → sube el vídeo a la bandeja de borradores
 // Variables (herramientas/publicar-api/.env o secretos de GitHub): TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET, TIKTOK_REFRESH_TOKEN.
 // El token de acceso dura 24 h: cada subida pide uno nuevo con el refresh token (válido 365 días; renovar antes de que caduque).
+import {ocultarValor} from './ocultar.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -34,6 +35,7 @@ async function token(params) {
   const r = await fetch(`${API}/oauth/token/`, {method: 'POST', headers: {'Content-Type': 'application/x-www-form-urlencoded'},
     body: new URLSearchParams({client_key: E.TIKTOK_CLIENT_KEY, client_secret: E.TIKTOK_CLIENT_SECRET, ...params})});
   const j = await r.json();
+  ocultarValor(j.access_token); ocultarValor(j.refresh_token);
   if (!j.access_token) throw new Error(`TikTok no dio token: ${j.error_description || j.error || JSON.stringify(j).slice(0, 200)}`);
   return j;
 }

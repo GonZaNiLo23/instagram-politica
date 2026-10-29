@@ -1,6 +1,7 @@
 // Renderiza la historia diaria de mercados: node videos/scripts/historia-mercados.mjs AAAA-MM-DD
 // Lee estado/mercados/AAAA-MM-DD.json (cifras, de mercados.mjs) y estado/mercados/AAAA-MM-DD-textos.json
 // ({"titular", "subtitulo", "causas": [{"texto", "fuente"}], "fuentes"}) y deja los PNG en estado/mercados/AAAA-MM-DD/.
+import '../../herramientas/publicar-api/ocultar.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {spawnSync} from 'node:child_process';
