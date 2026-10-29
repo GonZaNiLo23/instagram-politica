@@ -4,3 +4,4 @@
 - 2026-10-29 15:52 UTC · nota 2 · @sanchezcastejon · descartado (discurso largo sobre accidente ferroviario, sin frase clara, baja viralidad)
 - 2026-10-29 15:52 UTC · nota 1 · @vox_es · descartado (sin voz, no se entiende sin contexto)
 - 2026-10-29 16:40 UTC · sin candidatos (candidatos.json generado 15:30 UTC, caducado; el radar de :20 no lo ha renovado)
+- 2026-10-29 17:30 UTC · sin candidatos (radar generado 17:27 UTC, 0 candidatos con frases)
