@@ -15,8 +15,8 @@ import {Notas} from './Notas';
  * Velo tinta degradado arriba y abajo para leer la caja y los subtítulos. `credito` ("Vídeo: La Moncloa") siempre visible abajo. */
 export const Clip: React.FC<{
   src: string; desde?: number; volumen?: number; bajarEn?: [number, number][]; volumenBajo?: number; foco?: string;
-  zoom?: [number, number]; dur?: number; en?: number; credito?: string; velo?: number;
-}> = ({src, desde = 0, volumen = 1, bajarEn = [], volumenBajo = 0.15, foco = '50% 50%', zoom = [1, 1], dur = 10, en = 0, credito, velo = 0.55}) => {
+  zoom?: [number, number]; dur?: number; en?: number; credito?: string; velo?: number; fundidoFin?: number;
+}> = ({src, desde = 0, volumen = 1, bajarEn = [], volumenBajo = 0.15, foco = '50% 50%', zoom = [1, 1], dur = 10, en = 0, credito, velo = 0.55, fundidoFin}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const k = interpolate(frame, [en * fps, (en + dur) * fps], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
@@ -29,6 +29,7 @@ export const Clip: React.FC<{
       const dentro = interpolate(t, [a - 0.3, a, b, b + 0.3], [0, 1, 1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
       v = Math.min(v, volumen - (volumen - volumenBajo) * dentro);
     }
+    if (fundidoFin !== undefined) v *= interpolate(t, [fundidoFin - 0.1, fundidoFin], [1, 0], {extrapolateLeft: "clamp", extrapolateRight: "clamp"});
     return v;
   };
   return (
@@ -45,9 +46,9 @@ export const Clip: React.FC<{
 
 /** Caja de titular fija (todo el vídeo): etiqueta mostaza "AL MINUTO · fecha" y titular (máx. 8 palabras) en crema sobre tinta. */
 export const TitularAM: React.FC<{texto: string; fecha?: string; etiqueta?: string; y?: number; tamano?: number; en?: number}> = ({texto, fecha, etiqueta = 'AL MINUTO', y = 345, tamano = 70, en = 0}) => {
-  const p = useEntrada(en, 16);
+  // Regla de la plantilla: caja 100 % opaca desde el fotograma 1, sin fundido ni movimiento de entrada
   return (
-    <div style={{position: 'absolute', left: SEGURA.izq, top: y, width: SEGURA.ancho, opacity: Math.min(p, 1), transform: `translateY(${(1 - p) * -40}px)`}}>
+    <div style={{position: 'absolute', left: SEGURA.izq, top: y, width: SEGURA.ancho}}>
       <div style={{display: 'inline-block', fontFamily: F.texto, fontWeight: 700, fontSize: 36, letterSpacing: 2, color: C.tinta, background: C.mostaza, padding: '6px 18px', borderRadius: '14px 14px 0 0'}}>
         {etiqueta}{fecha ? <span style={{fontWeight: 600, letterSpacing: 0.5}}> · {fecha}</span> : null}
       </div>
@@ -57,7 +58,7 @@ export const TitularAM: React.FC<{texto: string; fecha?: string; etiqueta?: stri
 };
 
 /** Subtítulos literales del clip (lo que se oye), con quién habla en mostaza. Pastilla tinta en la banda de subtítulos. */
-export const Citas: React.FC<{lineas: {inicio: number; fin: number; texto: string; quien?: string}[]; y?: number; tamano?: number}> = ({lineas, y = SUBS.y, tamano = 56}) => {
+export const Citas: React.FC<{lineas: {inicio: number; fin: number; texto: string; quien?: string}[]; y?: number; tamano?: number}> = ({lineas, y = SUBS.y, tamano = 64}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const t = frame / fps;

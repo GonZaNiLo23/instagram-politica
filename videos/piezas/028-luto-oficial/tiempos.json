@@ -1,0 +1,83 @@
+{
+  "palabras": [
+    {
+      "t": "Ya",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "está",
+      "inicio": 0.24,
+      "fin": 0.48
+    },
+    {
+      "t": "en",
+      "inicio": 0.52,
+      "fin": 0.56
+    },
+    {
+      "t": "el",
+      "inicio": 0.64,
+      "fin": 0.72
+    },
+    {
+      "t": "BOE:",
+      "inicio": 0.8,
+      "fin": 1.36
+    },
+    {
+      "t": "luto",
+      "inicio": 1.44,
+      "fin": 1.76
+    },
+    {
+      "t": "hasta",
+      "inicio": 1.8,
+      "fin": 2
+    },
+    {
+      "t": "el",
+      "inicio": 2.04,
+      "fin": 2.08
+    },
+    {
+      "t": "31",
+      "inicio": 2.16,
+      "fin": 2.64
+    },
+    {
+      "t": "incluido",
+      "inicio": 2.72,
+      "fin": 3.2
+    },
+    {
+      "t": "y",
+      "inicio": 3.36,
+      "fin": 3.44
+    },
+    {
+      "t": "banderas",
+      "inicio": 3.52,
+      "fin": 4
+    },
+    {
+      "t": "a",
+      "inicio": 4.08,
+      "fin": 4.12
+    },
+    {
+      "t": "media",
+      "inicio": 4.16,
+      "fin": 4.4
+    },
+    {
+      "t": "asta.",
+      "inicio": 4.6,
+      "fin": 5.04
+    }
+  ],
+  "duracion": 4.96,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

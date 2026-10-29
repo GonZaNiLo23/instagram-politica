@@ -1,0 +1,179 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 28.1,
+  "portadaSegundo": 2,
+  "audioDesde": 17.8,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 24.1,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "credito": "Vídeo: La Moncloa · 28-10-2026",
+          "bajarEn": [
+            [
+              17.8,
+              24.1
+            ]
+          ],
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 24.1,
+          "fundidoFin": 24.1
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "TRES DÍAS DE LUTO POR URDA",
+          "fecha": "29 OCT"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 4.3,
+              "quien": "Pedro Sánchez",
+              "texto": "Procederemos a la declaración de tres días de luto oficial,"
+            },
+            {
+              "inicio": 4.3,
+              "fin": 8.5,
+              "quien": "Pedro Sánchez",
+              "texto": "como hicimos también con el accidente ferroviario de Adamuz."
+            },
+            {
+              "inicio": 8.5,
+              "fin": 11.9,
+              "quien": "Pedro Sánchez",
+              "texto": "Será el día 29, el día 30 y el día 31."
+            },
+            {
+              "inicio": 12,
+              "fin": 14.8,
+              "quien": "Pedro Sánchez",
+              "texto": "Como he dicho antes, al principio de esta breve intervención,"
+            },
+            {
+              "inicio": 14.8,
+              "fin": 17.7,
+              "quien": "Pedro Sánchez",
+              "texto": "España está de luto, abraza a sus víctimas…"
+            }
+          ],
+          "y": 1000
+        },
+        {
+          "tipo": "datoFalta",
+          "cifra": "LUTO DEL 29 (00:00) AL 31 (24:00)",
+          "texto": "Media asta: edificios públicos y buques de la Armada",
+          "fuente": "Fuente: BOE, RD 949/2026",
+          "en": 17.8,
+          "hasta": 24.1,
+          "y": 640,
+          "tamano": 66
+        }
+      ]
+    },
+    {
+      "inicio": 24.1,
+      "fin": 28.1,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Luto oficial hasta las 24:00 del 31 de octubre",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "028-luto-oficial",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Ya",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "está",
+      "inicio": 0.24,
+      "fin": 0.48
+    },
+    {
+      "t": "en",
+      "inicio": 0.52,
+      "fin": 0.56
+    },
+    {
+      "t": "el",
+      "inicio": 0.64,
+      "fin": 0.72
+    },
+    {
+      "t": "BOE:",
+      "inicio": 0.8,
+      "fin": 1.36
+    },
+    {
+      "t": "luto",
+      "inicio": 1.44,
+      "fin": 1.76
+    },
+    {
+      "t": "hasta",
+      "inicio": 1.8,
+      "fin": 2
+    },
+    {
+      "t": "el",
+      "inicio": 2.04,
+      "fin": 2.08
+    },
+    {
+      "t": "31",
+      "inicio": 2.16,
+      "fin": 2.64
+    },
+    {
+      "t": "incluido",
+      "inicio": 2.72,
+      "fin": 3.2
+    },
+    {
+      "t": "y",
+      "inicio": 3.36,
+      "fin": 3.44
+    },
+    {
+      "t": "banderas",
+      "inicio": 3.52,
+      "fin": 4
+    },
+    {
+      "t": "a",
+      "inicio": 4.08,
+      "fin": 4.12
+    },
+    {
+      "t": "media",
+      "inicio": 4.16,
+      "fin": 4.4
+    },
+    {
+      "t": "asta.",
+      "inicio": 4.6,
+      "fin": 5.04
+    }
+  ]
+}

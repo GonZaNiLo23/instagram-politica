@@ -6,7 +6,7 @@
   "marca": "@loquepasaenunminuto",
   "escenas": [
     {"inicio": 0, "fin": 27, "fondo": "tinta", "componentes": [
-      {"tipo": "clip", "src": "clip.mp4", "credito": "Vídeo: La Moncloa", "bajarEn": [[18, 26]], "zoom": [1, 1.04], "dur": 27},
+      {"tipo": "clip", "src": "clip.mp4", "credito": "Vídeo: La Moncloa", "fundidoFin": 27, "bajarEn": [[18, 26]], "zoom": [1, 1.04], "dur": 27},
       {"tipo": "titularAM", "texto": "TITULAR DE MÁXIMO OCHO PALABRAS", "fecha": "29 OCT"},
       {"tipo": "citas", "lineas": [
         {"inicio": 1.0, "fin": 4.5, "quien": "Nombre", "texto": "Frase literal del clip"}
