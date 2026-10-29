@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conectar con TikTok</title>
+<style>
+  :root { --tinta: #14213d; --crema: #f4efe6; --mostaza: #e9b949; }
+  body { margin: 0; background: var(--crema); color: var(--tinta); font: 17px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 640px; margin: 0 auto; padding: 48px 16px 64px; }
+  h1 { font-size: 28px; margin: 0 0 8px; }
+  .boton { display: inline-block; background: #000; color: #fff; text-decoration: none; font-weight: 700; padding: 14px 22px; border-radius: 10px; margin-top: 12px; }
+  .ok { background: #fff; border-left: 8px solid var(--mostaza); padding: 16px 18px; border-radius: 10px; margin-top: 16px; }
+  ul { padding-left: 20px; } a { color: var(--tinta); }
+</style>
+</head>
+<body>
+<main>
+  <p><a href="index.html">← Lo que pasa en un minuto</a></p>
+  <h1>Occidente Publicador · Conectar con TikTok</h1>
+  <p>Conecta la cuenta de TikTok del medio para que Occidente Publicador pueda subir sus vídeos de noticias:</p>
+  <ul>
+    <li><b>user.info.basic</b>: identificar la cuenta conectada.</li>
+    <li><b>video.upload</b>: enviar el vídeo a la bandeja de borradores de TikTok.</li>
+    <li><b>video.publish</b>: publicar el vídeo en el perfil a la hora programada, con las opciones de privacidad que permita la cuenta.</li>
+  </ul>
+  <div id="estado"></div>
+  <a id="conectar" class="boton" href="#">Conectar con TikTok</a>
+  <p style="font-size:14px;opacity:.75;margin-top:28px">Solo para la cuenta propia del medio. <a href="terminos.html">Condiciones</a> · <a href="privacidad.html">Privacidad</a></p>
+</main>
+<script>
+  // Identificador público de la app (no es una clave secreta). El intercambio del código se hace en el servidor del medio.
+  var CLIENTE = 'sbawlqegvc731qo90v';
+  var VUELTA = 'https://gonzanilo23.github.io/instagram-politica/conectar.html';
+  var p = new URLSearchParams(location.search);
+  var url = 'https://www.tiktok.com/v2/auth/authorize/?' + new URLSearchParams({
+    client_key: CLIENTE, scope: 'user.info.basic,video.upload,video.publish', response_type: 'code', redirect_uri: VUELTA, state: 'occidente'
+  });
+  document.getElementById('conectar').href = url;
+  if (p.get('code')) {
+    document.getElementById('estado').innerHTML = '<div class="ok"><b>Cuenta conectada.</b> Permisos concedidos: ' +
+      (p.get('scopes') || '').replace(/,/g, ', ') + '. Occidente Publicador ya puede subir y publicar los vídeos del medio.</div>';
+    document.getElementById('conectar').textContent = 'Volver a conectar';
+  } else if (p.get('error')) {
+    document.getElementById('estado').innerHTML = '<div class="ok"><b>No se ha conectado:</b> ' + (p.get('error_description') || p.get('error')) + '</div>';
+  }
+</script>
+</body>
+</html>

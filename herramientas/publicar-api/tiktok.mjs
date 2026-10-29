@@ -20,7 +20,8 @@ if (fs.existsSync(envF)) {
   }
 }
 const E = process.env;
-const VUELTA = 'https://github.com/GonZaNiLo23';
+// Dirección de vuelta registrada en la app (TIKTOK_VUELTA para cambiarla; la web pública tiene la página conectar.html)
+const VUELTA = process.env.TIKTOK_VUELTA || 'https://github.com/GonZaNiLo23';
 const API = 'https://open.tiktokapis.com/v2';
 const [modo, arg] = process.argv.slice(2);
 const falta = (...ks) => { const f = ks.filter((k) => !E[k]); if (f.length) { console.error(`Faltan en .env: ${f.join(', ')}`); process.exit(2); } };
@@ -43,7 +44,7 @@ async function token(params) {
 if (modo === 'autorizar') {
   falta('TIKTOK_CLIENT_KEY');
   const u = new URL('https://www.tiktok.com/v2/auth/authorize/');
-  u.search = new URLSearchParams({client_key: E.TIKTOK_CLIENT_KEY, scope: 'user.info.basic,video.upload', response_type: 'code', redirect_uri: VUELTA, state: 'occidente'});
+  u.search = new URLSearchParams({client_key: E.TIKTOK_CLIENT_KEY, scope: process.env.TIKTOK_PERMISOS || 'user.info.basic,video.upload', response_type: 'code', redirect_uri: VUELTA, state: 'occidente'});
   console.log(`Abre este enlace, autoriza con la cuenta de TikTok y copia el valor "code" de la dirección a la que vuelve (${VUELTA}?code=…):\n${u}`);
 } else if (modo === 'codigo') {
   falta('TIKTOK_CLIENT_KEY', 'TIKTOK_CLIENT_SECRET');
