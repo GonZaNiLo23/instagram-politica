@@ -1,0 +1,1 @@
+- 2026-10-29: fallo — el JSON de cierres (GitHub Actions 22:05) no llegó tras ~20 min de espera (hasta 22:35 Madrid). No se escriben textos ni se publica historia.
