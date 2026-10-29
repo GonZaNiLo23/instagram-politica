@@ -1,0 +1,96 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 23.8,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 20.3,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 20.3,
+          "fundidoFin": 20.3
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ALVISE EXHIBE 25.000 € DE SUS SUELDOS",
+          "fecha": "29 OCT",
+          "credito": "Vídeo: @alviseperez"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 1.8,
+              "texto": "Este dinero es dinero robado,"
+            },
+            {
+              "inicio": 1.8,
+              "fin": 5.7,
+              "texto": "25.000 euros netos en billetes\nde mis sueldos de eurodiputado,"
+            },
+            {
+              "inicio": 5.78,
+              "fin": 7.4,
+              "texto": "robado de vuestro bolsillo."
+            },
+            {
+              "inicio": 7.8,
+              "fin": 10.2,
+              "texto": "Es curioso aquí que estoy\nfrente al banco,"
+            },
+            {
+              "inicio": 10.2,
+              "fin": 12.7,
+              "texto": "porque yo como autónomo,\na partir de mil euros en billete"
+            },
+            {
+              "inicio": 12.7,
+              "fin": 14.6,
+              "texto": "no puedo pagarle una empresa,\naunque sea mío, ¿eh?"
+            },
+            {
+              "inicio": 14.8,
+              "fin": 17.4,
+              "texto": "Con más de 3.000 euros\nel banco se lo chiva a Hacienda."
+            },
+            {
+              "inicio": 17.6,
+              "fin": 20.28,
+              "texto": "Con más de 10.000 euros\nuna frontera me lo requisan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 20.3,
+      "fin": 23.8,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Alvise cuestiona los límites al pago en efectivo",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261029-1552-alvise-efectivo",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}

@@ -1,0 +1,1 @@
+- 2026-10-29T15:56:38Z · am20261029-1552-alvise-efectivo v1 · OK · ffprobe: h264 1080x1920 @30/1 · 23.85 s (objetivo 23.8 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
