@@ -26,7 +26,13 @@ modelo = WhisperModel(os.environ.get("WHISPER_MODELO", "small"), device="cpu", c
 for c in datos["candidatos"]:
     if not c.get("archivo"):
         continue
-    segmentos, info = modelo.transcribe(audio(os.path.join(carpeta, c["archivo"])), language="es", word_timestamps=True, vad_filter=True)
+    try:
+        segmentos, info = modelo.transcribe(audio(os.path.join(carpeta, c["archivo"])), language="es", word_timestamps=True, vad_filter=True)
+        segmentos = list(segmentos)
+    except Exception as e:  # sin pista de audio o archivo dañado: se queda sin transcripción
+        c["habla"], c["error"] = False, str(e)[:120]
+        print(f"{c['id']}: sin transcripción ({type(e).__name__})")
+        continue
     frases, palabras = [], []
     for s in segmentos:
         frases.append({"inicio": round(s.start, 2), "fin": round(s.end, 2), "texto": s.text.strip()})
