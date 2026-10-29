@@ -70,9 +70,11 @@ for (const e of cola) {
     registro(`${e.pieza} ${e.version}: PUBLICADA en Instagram ${m?.[2] || m?.[1] || ''}`);
     // TikTok: el mismo vídeo va a la bandeja de borradores; la persona usuaria lo publica desde la app
     if (process.env.TIKTOK_REFRESH_TOKEN && e.tiktok !== false) {
-      const t = spawnSync(process.execPath, [path.join(RAIZ, 'herramientas', 'publicar-api', 'tiktok.mjs'), 'borrador', video(e.pieza, e.version)], {encoding: 'utf8'});
-      e.tiktok_estado = t.status === 0 ? 'borrador' : 'error';
-      registro(`${e.pieza}: TikTok ${t.status === 0 ? 'en la bandeja de borradores (falta publicarlo desde la app)' : 'ERROR: ' + `${t.stdout}${t.stderr}`.trim().split('\n').pop()}`);
+      // TIKTOK_DIRECTO=1 (cuando TikTok haya auditado la app): publicación directa con el mismo texto; si no, borrador
+      const directo = process.env.TIKTOK_DIRECTO === '1';
+      const t = spawnSync(process.execPath, [path.join(RAIZ, 'herramientas', 'publicar-api', 'tiktok.mjs'), directo ? 'publicar' : 'borrador', video(e.pieza, e.version), ...(directo ? [textoPost(e.pieza)] : [])], {encoding: 'utf8'});
+      e.tiktok_estado = t.status === 0 ? (directo ? 'publicado' : 'borrador') : 'error';
+      registro(`${e.pieza}: TikTok ${t.status === 0 ? (directo ? 'PUBLICADO' : 'en la bandeja de borradores (falta publicarlo desde la app)') : 'ERROR: ' + `${t.stdout}${t.stderr}`.trim().split('\n').pop()}`);
     }
   } catch (err) {
     Object.assign(e, {estado: 'error', error: String(err.message).slice(0, 300)});

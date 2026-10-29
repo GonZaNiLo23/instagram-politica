@@ -68,7 +68,31 @@ if (modo === 'autorizar') {
     headers: {'Content-Type': 'video/mp4', 'Content-Range': `bytes 0-${datos.length - 1}/${datos.length}`}});
   if (!r.ok) throw new Error(`subida: HTTP ${r.status}`);
   console.log(`BORRADOR TikTok ${ini.data.publish_id}: ${path.basename(arg)} en la bandeja (notificación en la app; publícalo desde allí)`);
+} else if (modo === 'publicar') {
+  // Publicación directa (Direct Post, permiso video.publish). Solo sirve con la app AUDITADA por TikTok: sin auditoría
+  // todo sale como privado (SELF_ONLY). La activa TIKTOK_DIRECTO=1 en cola.mjs. Texto: archivo del 3.er argumento.
+  falta('TIKTOK_CLIENT_KEY', 'TIKTOK_CLIENT_SECRET', 'TIKTOK_REFRESH_TOKEN');
+  const textoF = process.argv[4];
+  if (!arg || !fs.existsSync(arg)) { console.error('Uso: tiktok.mjs publicar <video.mp4> [texto.txt]'); process.exit(1); }
+  const {access_token} = await token({grant_type: 'refresh_token', refresh_token: E.TIKTOK_REFRESH_TOKEN});
+  const cab = {Authorization: `Bearer ${access_token}`, 'Content-Type': 'application/json; charset=UTF-8'};
+  // Obligatorio antes de publicar: qué niveles de privacidad y opciones permite la cuenta
+  const info = await (await fetch(`${API}/post/publish/creator_info/query/`, {method: 'POST', headers: cab})).json();
+  if (info.error?.code !== 'ok') throw new Error(`creator_info: ${info.error?.message}`);
+  const niveles = info.data.privacy_level_options || [];
+  const privacidad = niveles.includes('PUBLIC_TO_EVERYONE') ? 'PUBLIC_TO_EVERYONE' : niveles[0];
+  const titulo = textoF && fs.existsSync(textoF) ? [...fs.readFileSync(textoF, 'utf8').trim()].slice(0, 2200).join('') : '';
+  const datos = fs.readFileSync(arg);
+  if (datos.length > 64 * 1024 * 1024) throw new Error('Vídeo de más de 64 MB: hay que trocearlo');
+  const ini = await (await fetch(`${API}/post/publish/video/init/`, {method: 'POST', headers: cab, body: JSON.stringify({
+    post_info: {title: titulo, privacy_level: privacidad, disable_duet: false, disable_comment: false, disable_stitch: false, video_cover_timestamp_ms: 1000},
+    source_info: {source: 'FILE_UPLOAD', video_size: datos.length, chunk_size: datos.length, total_chunk_count: 1}})})).json();
+  if (ini.error?.code !== 'ok') throw new Error(`init: ${ini.error?.message || JSON.stringify(ini).slice(0, 200)}`);
+  const r = await fetch(ini.data.upload_url, {method: 'PUT', body: datos,
+    headers: {'Content-Type': 'video/mp4', 'Content-Range': `bytes 0-${datos.length - 1}/${datos.length}`}});
+  if (!r.ok) throw new Error(`subida: HTTP ${r.status}`);
+  console.log(`PUBLICADO TikTok ${ini.data.publish_id} (${privacidad}): ${path.basename(arg)}`);
 } else {
-  console.error('Uso: tiktok.mjs autorizar | codigo <code> | borrador <video.mp4>');
+  console.error('Uso: tiktok.mjs autorizar | codigo <code> | borrador <video.mp4> | publicar <video.mp4> [texto.txt]');
   process.exit(1);
 }
