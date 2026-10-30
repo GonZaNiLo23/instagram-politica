@@ -59,3 +59,4 @@ Seguidores por red (total y ganados), visualizaciones, seguidores por cada 1.000
 |---|---|---|---|---|---|---|---|---|---|
 | 2026-10-26 | 23 | 40 | 63 | — | — | 1 | Conversión (≈ 1–2 seguidores por 1.000 visual.) | Ganchos con dato en el primer fotograma; flashes; actualidad en 6–8 h | — |
 | 2026-10-29 (parcial, monitoreo diario) | 41 | n/d (40 el 27-10) | n/d | IG ≈ 116 | IG ≈ 35 % | 1 | Conversión y alcance: ≈ 0,6 seguidores por 1.000 visual. (aprox.) | — | Dato de IG por API (corte 28-10 22:05 UTC); sin fila semanal oficial hasta el lunes |
+| 2026-10-30 (parcial, monitoreo diario) | 42 | n/d (40 el 27-10) | n/d | IG ≈ 116 (a 29-10) | IG ≈ 36 % | 1 | Alcance y conversión: ≈ 0,9 seguidores por 1.000 visual. (aprox.) | — | Dato de IG por API (corte 29-10 14:38 UTC; falta 2026-10-30.json); ritmo ≈ 5/día frente a ≈ 240/día para el hito de 1.000 del 2-11: recalibrar el lunes |
