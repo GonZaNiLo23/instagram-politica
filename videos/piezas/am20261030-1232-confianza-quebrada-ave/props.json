@@ -1,0 +1,121 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 36.98,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 33.48,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 33.48,
+          "fundidoFin": 33.48
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "GOBIERNO: CONFIANZA QUEBRADA EN LA ALTA VELOCIDAD",
+          "fecha": "30 OCT",
+          "credito": "Vídeo: @sanchezcastejon"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 3.5,
+              "texto": "Lo dije el primer día, no es asumible"
+            },
+            {
+              "inicio": 3.5,
+              "fin": 6.4,
+              "texto": "para un país como España con un sistema"
+            },
+            {
+              "inicio": 6.4,
+              "fin": 9.6,
+              "texto": "de alta velocidad tan potente como el que tenemos"
+            },
+            {
+              "inicio": 9.6,
+              "fin": 12.68,
+              "texto": "sufrir dos accidentes de estas características"
+            },
+            {
+              "inicio": 12.68,
+              "fin": 14.64,
+              "texto": "y de esta magnitud en un año."
+            },
+            {
+              "inicio": 14.64,
+              "fin": 17.3,
+              "texto": "Hay una confianza quebrada en el sistema"
+            },
+            {
+              "inicio": 17.3,
+              "fin": 19.3,
+              "texto": "de alta velocidad en nuestro país"
+            },
+            {
+              "inicio": 19.3,
+              "fin": 21.2,
+              "texto": "y la labor del Gobierno no es solamente"
+            },
+            {
+              "inicio": 21.2,
+              "fin": 24.1,
+              "texto": "hacer el diagnóstico, conocer cuáles son las causas"
+            },
+            {
+              "inicio": 24.1,
+              "fin": 25.52,
+              "texto": "sin ofrecer soluciones"
+            },
+            {
+              "inicio": 25.52,
+              "fin": 28.44,
+              "texto": "para que una tragedia de esta magnitud"
+            },
+            {
+              "inicio": 28.44,
+              "fin": 31.04,
+              "texto": "como ayer dijo el jefe del Estado, el rey"
+            },
+            {
+              "inicio": 31.04,
+              "fin": 33.48,
+              "texto": "Felipe VI no vuelva a suceder."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 33.48,
+      "fin": 36.98,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Confianza quebrada en la alta velocidad, admite el Gobierno",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261030-1232-confianza-quebrada-ave",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
