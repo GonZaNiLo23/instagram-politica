@@ -15,3 +15,5 @@
 - 2026-10-30 09:35 UTC · sin candidatos (radar generado 09:26 UTC, total_detectados: 0)
 - 2026-10-30 10:30 UTC · sin candidatos (radar generado 10:26 UTC, total_detectados: 0)
 - 2026-10-30 11:30 UTC · sin candidatos (radar generado 11:27 UTC, total_detectados: 0)
+- 2026-10-30 12:32 UTC · nota 4 · @sanchezcastejon · publicado am20261030-1232-confianza-quebrada-ave
+- 2026-10-30 12:32 UTC · nota 3 · La Moncloa (misma comparecencia) · descartado: mismo hecho que el anterior

@@ -41,3 +41,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 **Estados:** propuesto · elegido · guion-borrador · guion-revision · guion-aprobado · video-render · video-revision · listo · programado · publicado · descartado
 | am20261029-1552-alvise-efectivo | am-horario | 🔴 Actualidad · Al minuto | Al minuto (24 s) | publicando (Al minuto horario) | 0 | 0 | 2026-10-29 16:00 (render.yml, sin revisores) | Alvise exhibe efectivo; clip de @alviseperez |
 | am20261029-2030-abascal-dimision | am-horario | 🔴 Actualidad · Al minuto | Al minuto (26 s) | publicando (Al minuto horario) | 0 | 0 | 2026-10-29 21:00 (render.yml, sin revisores) | Abascal exige dimisiones tras el accidente; clip de @vox_es |
+| am20261030-1232-confianza-quebrada-ave | Al minuto: Gobierno admite confianza quebrada en alta velocidad | publicando (Al minuto horario) |
