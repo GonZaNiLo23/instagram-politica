@@ -20,3 +20,4 @@
 - 2026-10-30 13:30 UTC · sin candidatos (radar generado 13:27 UTC, total_detectados: 0)
 - 2026-10-30 14:30 UTC · sin candidatos (radar generado 14:27 UTC, total_detectados: 0)
 - 2026-10-30 15:30 UTC · sin candidatos (radar generado 15:27 UTC, total_detectados: 0)
+- 2026-10-30 16:30 UTC · sin candidatos (radar generado 16:29 UTC, total_detectados: 0)
