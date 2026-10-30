@@ -2,3 +2,5 @@
 - 2026-10-29T16:00:46.536Z · am20261029-1552-alvise-efectivo: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-10-29T21:00:51.494Z · am20261029-2030-abascal-dimision v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfF7EmDAqr9/
 - 2026-10-29T21:00:55.922Z · am20261029-2030-abascal-dimision: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-10-30T13:01:03.507Z · am20261030-1232-confianza-quebrada-ave v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfHo7nbGjvz/
+- 2026-10-30T13:01:09.261Z · am20261030-1232-confianza-quebrada-ave: TikTok en la bandeja de borradores (falta publicarlo desde la app)
