@@ -1,0 +1,141 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 43.6,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 40.1,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 40.1,
+          "fundidoFin": 40.1
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "VOX AMPLIARÁ QUERELLAS CONTRA EL DELEGADO DEL GOBIERNO",
+          "fecha": "31 OCT",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.9,
+              "texto": "Poner de manifiesto mis primeras palabras"
+            },
+            {
+              "inicio": 2.9,
+              "fin": 4.3,
+              "texto": "dirigidas a la Delegación del Gobierno,"
+            },
+            {
+              "inicio": 4.3,
+              "fin": 6.3,
+              "texto": "a Delegación del Gobierno, a Grande-Marlaska"
+            },
+            {
+              "inicio": 6.3,
+              "fin": 7.3,
+              "texto": "y a Pedro Sánchez, que"
+            },
+            {
+              "inicio": 7.3,
+              "fin": 9.6,
+              "texto": "siguen permitiendo que los actos electorales"
+            },
+            {
+              "inicio": 9.6,
+              "fin": 11.34,
+              "texto": "de Vox no se puedan celebrar"
+            },
+            {
+              "inicio": 11.34,
+              "fin": 12.4,
+              "texto": "con normalidad."
+            },
+            {
+              "inicio": 12.4,
+              "fin": 15.8,
+              "texto": "Esto no es admisible, esto no sucede en ninguna democracia"
+            },
+            {
+              "inicio": 15.8,
+              "fin": 18.1,
+              "texto": "europea, en ninguna democracia moderna,"
+            },
+            {
+              "inicio": 18.1,
+              "fin": 20.3,
+              "texto": "no es admisible, es contrario a la ley"
+            },
+            {
+              "inicio": 20.3,
+              "fin": 24,
+              "texto": "orgánica del régimen electoral general y por supuesto ya puedo avisar"
+            },
+            {
+              "inicio": 24,
+              "fin": 26.6,
+              "texto": "que ampliaremos las querellas interpuestas"
+            },
+            {
+              "inicio": 26.6,
+              "fin": 29.7,
+              "texto": "contra su delegado del Gobierno y delegado del Gobierno en Galicia"
+            },
+            {
+              "inicio": 29.7,
+              "fin": 32.8,
+              "texto": "y aquí en la provincia, lo que sucedió en Coruña,"
+            },
+            {
+              "inicio": 32.8,
+              "fin": 34.6,
+              "texto": "lo que sucedió en Santiago de Compostela"
+            },
+            {
+              "inicio": 34.6,
+              "fin": 36.3,
+              "texto": "no puede volver a seguir sucediendo"
+            },
+            {
+              "inicio": 36.3,
+              "fin": 40.1,
+              "texto": "y mientras ellos sigan en las calles nosotros vamos a seguir en las calles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 40.1,
+      "fin": 43.6,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Vox ampliará sus querellas contra el delegado del Gobierno en Galicia",
+          "tamano": 64,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261031-1327-vox-querellas-delegado",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}

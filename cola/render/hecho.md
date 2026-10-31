@@ -2,3 +2,4 @@
 - 2026-10-29T20:37:47Z · am20261029-2030-abascal-dimision v1 · OK · ffprobe: h264 1080x1920 @30/1 · 25.80 s (objetivo 25.66 s) -> OK Volumen integrado: -14.5 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-10-30T12:47:38Z · am20261030-1232-confianza-quebrada-ave v1 · OK · ffprobe: h264 1080x1920 @30/1 · 37.10 s (objetivo 36.98 s) -> OK Volumen integrado: -14.5 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-10-31T12:31:30Z · am20261031-1226-pp-exige-consecuencias-trenes v1 · OK · ffprobe: h264 1080x1920 @30/1 · 25.30 s (objetivo 25.2 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-10-31T13:36:02Z · am20261031-1327-vox-querellas-delegado v1 · OK · ffprobe: h264 1080x1920 @30/1 · 43.70 s (objetivo 43.6 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
