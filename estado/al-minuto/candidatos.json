@@ -1,5 +1,914 @@
 {
- "generado": "2026-10-30T22:22:18.217Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-10-31T05:27:01.589Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-18340237642302808",
+   "fuente": "instagram",
+   "cuenta": "@alviseperez",
+   "nombre": "Alvise Pérez",
+   "espacio": "afin",
+   "seguidores": 1419177,
+   "fecha": "2026-10-30T23:27:34+0000",
+   "horas": 6,
+   "me_gusta": 8038,
+   "comentarios": 290,
+   "viral": 101.4,
+   "enlace": "https://www.instagram.com/reel/DfIwYCyAaiy/",
+   "texto": "Cuando a una idea le llega su hora no hay gobierno, partido ni televisión que la frene. Y le ha llegado.\n\nGracias, Canarias: desde aquí ya no hay quien nos pare. 🇪🇸",
+   "credito": "Vídeo: @alviseperez",
+   "duracion": 71.4,
+   "archivo": "ig-18340237642302808.mp4",
+   "frases": [
+    {
+     "inicio": 6.9,
+     "fin": 9.44,
+     "texto": "Presidente. Yo mi pueblo no lo abandono. Yo no lo abandono."
+    },
+    {
+     "inicio": 9.66,
+     "fin": 11.86,
+     "texto": "Viví la educación, viví la sabidad, viví las carencias."
+    },
+    {
+     "inicio": 12.42,
+     "fin": 15.9,
+     "texto": "Más de volto a la esperanza. Así que, a por ello."
+    },
+    {
+     "inicio": 19.72,
+     "fin": 22.26,
+     "texto": "No sé cuántos años pero estarás con nosotros."
+    },
+    {
+     "inicio": 22.86,
+     "fin": 24.58,
+     "texto": "Todos unidos. Confiamos en ti."
+    },
+    {
+     "inicio": 25.92,
+     "fin": 27.16,
+     "texto": "Pero muchas gracias por lo que estás haciendo."
+    },
+    {
+     "inicio": 29.32,
+     "fin": 32.8,
+     "texto": "Nosotras somos funcionales y estamos apoyándote, maestras."
+    },
+    {
+     "inicio": 33.12,
+     "fin": 34.28,
+     "texto": "Con el futuro en la mar."
+    },
+    {
+     "inicio": 34.28,
+     "fin": 35.22,
+     "texto": "Tenemos esperanza."
+    },
+    {
+     "inicio": 35.24,
+     "fin": 37.32,
+     "texto": "Sí, no está chiqui, cante nadie."
+    },
+    {
+     "inicio": 37.6,
+     "fin": 40.58,
+     "texto": "Con esa empatía. No cargar con esa violencia."
+    },
+    {
+     "inicio": 40.76,
+     "fin": 41.78,
+     "texto": "Eso no lo se lo escuchan a nadie."
+    },
+    {
+     "inicio": 41.8,
+     "fin": 43.68,
+     "texto": "El negocio de los partidos es dividirnos."
+    },
+    {
+     "inicio": 43.88,
+     "fin": 47.56,
+     "texto": "Cuando tú eres un partido que dice públicamente"
+    },
+    {
+     "inicio": 47.56,
+     "fin": 50.4,
+     "texto": "que cuando nosotros se van a cavar las subvenciones"
+    },
+    {
+     "inicio": 50.4,
+     "fin": 53.18,
+     "texto": "a sindicatos, medios y partidos políticos,"
+    },
+    {
+     "inicio": 53.64,
+     "fin": 54.44,
+     "texto": "pues entra mucho miedo."
+    },
+    {
+     "inicio": 55.66,
+     "fin": 56.3,
+     "texto": "Entra miedo."
+    },
+    {
+     "inicio": 58.68,
+     "fin": 62.08,
+     "texto": "Lo que estás haciendo y que estás descubriendo"
+    },
+    {
+     "inicio": 62.08,
+     "fin": 63.74,
+     "texto": "la corrupción y todo es muy importante."
+    },
+    {
+     "inicio": 63.74,
+     "fin": 66.48,
+     "texto": "Con todo el orgullo a saludarte y a estar contigo."
+    },
+    {
+     "inicio": 66.64,
+     "fin": 68.12,
+     "texto": "El orgullo es muy bueno."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "Presidente.",
+     "inicio": 6.9,
+     "fin": 7.3
+    },
+    {
+     "t": "Yo",
+     "inicio": 7.4,
+     "fin": 7.52
+    },
+    {
+     "t": "mi",
+     "inicio": 7.52,
+     "fin": 7.64
+    },
+    {
+     "t": "pueblo",
+     "inicio": 7.64,
+     "fin": 7.78
+    },
+    {
+     "t": "no",
+     "inicio": 7.78,
+     "fin": 7.98
+    },
+    {
+     "t": "lo",
+     "inicio": 7.98,
+     "fin": 8.06
+    },
+    {
+     "t": "abandono.",
+     "inicio": 8.06,
+     "fin": 8.5
+    },
+    {
+     "t": "Yo",
+     "inicio": 8.54,
+     "fin": 8.84
+    },
+    {
+     "t": "no",
+     "inicio": 8.84,
+     "fin": 9
+    },
+    {
+     "t": "lo",
+     "inicio": 9,
+     "fin": 9.08
+    },
+    {
+     "t": "abandono.",
+     "inicio": 9.08,
+     "fin": 9.44
+    },
+    {
+     "t": "Viví",
+     "inicio": 9.66,
+     "fin": 9.88
+    },
+    {
+     "t": "la",
+     "inicio": 9.88,
+     "fin": 9.98
+    },
+    {
+     "t": "educación,",
+     "inicio": 9.98,
+     "fin": 10.3
+    },
+    {
+     "t": "viví",
+     "inicio": 10.5,
+     "fin": 10.62
+    },
+    {
+     "t": "la",
+     "inicio": 10.62,
+     "fin": 10.72
+    },
+    {
+     "t": "sabidad,",
+     "inicio": 10.72,
+     "fin": 11.08
+    },
+    {
+     "t": "viví",
+     "inicio": 11.18,
+     "fin": 11.32
+    },
+    {
+     "t": "las",
+     "inicio": 11.32,
+     "fin": 11.46
+    },
+    {
+     "t": "carencias.",
+     "inicio": 11.46,
+     "fin": 11.86
+    },
+    {
+     "t": "Más",
+     "inicio": 12.42,
+     "fin": 12.82
+    },
+    {
+     "t": "de",
+     "inicio": 12.82,
+     "fin": 12.9
+    },
+    {
+     "t": "volto",
+     "inicio": 12.9,
+     "fin": 13.06
+    },
+    {
+     "t": "a",
+     "inicio": 13.06,
+     "fin": 13.16
+    },
+    {
+     "t": "la",
+     "inicio": 13.16,
+     "fin": 13.22
+    },
+    {
+     "t": "esperanza.",
+     "inicio": 13.22,
+     "fin": 13.42
+    },
+    {
+     "t": "Así",
+     "inicio": 14.46,
+     "fin": 14.64
+    },
+    {
+     "t": "que,",
+     "inicio": 14.64,
+     "fin": 14.98
+    },
+    {
+     "t": "a",
+     "inicio": 15.5,
+     "fin": 15.6
+    },
+    {
+     "t": "por",
+     "inicio": 15.6,
+     "fin": 15.74
+    },
+    {
+     "t": "ello.",
+     "inicio": 15.74,
+     "fin": 15.9
+    },
+    {
+     "t": "No",
+     "inicio": 19.72,
+     "fin": 20.12
+    },
+    {
+     "t": "sé",
+     "inicio": 20.12,
+     "fin": 20.32
+    },
+    {
+     "t": "cuántos",
+     "inicio": 20.32,
+     "fin": 20.82
+    },
+    {
+     "t": "años",
+     "inicio": 20.82,
+     "fin": 21.02
+    },
+    {
+     "t": "pero",
+     "inicio": 21.02,
+     "fin": 21.24
+    },
+    {
+     "t": "estarás",
+     "inicio": 21.24,
+     "fin": 21.56
+    },
+    {
+     "t": "con",
+     "inicio": 21.56,
+     "fin": 21.82
+    },
+    {
+     "t": "nosotros.",
+     "inicio": 21.82,
+     "fin": 22.26
+    },
+    {
+     "t": "Todos",
+     "inicio": 22.86,
+     "fin": 23.2
+    },
+    {
+     "t": "unidos.",
+     "inicio": 23.2,
+     "fin": 23.54
+    },
+    {
+     "t": "Confiamos",
+     "inicio": 23.88,
+     "fin": 24.28
+    },
+    {
+     "t": "en",
+     "inicio": 24.28,
+     "fin": 24.5
+    },
+    {
+     "t": "ti.",
+     "inicio": 24.5,
+     "fin": 24.58
+    },
+    {
+     "t": "Pero",
+     "inicio": 25.92,
+     "fin": 26.04
+    },
+    {
+     "t": "muchas",
+     "inicio": 26.04,
+     "fin": 26.26
+    },
+    {
+     "t": "gracias",
+     "inicio": 26.26,
+     "fin": 26.52
+    },
+    {
+     "t": "por",
+     "inicio": 26.52,
+     "fin": 26.64
+    },
+    {
+     "t": "lo",
+     "inicio": 26.64,
+     "fin": 26.72
+    },
+    {
+     "t": "que",
+     "inicio": 26.72,
+     "fin": 26.78
+    },
+    {
+     "t": "estás",
+     "inicio": 26.78,
+     "fin": 26.9
+    },
+    {
+     "t": "haciendo.",
+     "inicio": 26.9,
+     "fin": 27.16
+    },
+    {
+     "t": "Nosotras",
+     "inicio": 29.32,
+     "fin": 29.72
+    },
+    {
+     "t": "somos",
+     "inicio": 29.72,
+     "fin": 29.98
+    },
+    {
+     "t": "funcionales",
+     "inicio": 29.98,
+     "fin": 30.76
+    },
+    {
+     "t": "y",
+     "inicio": 30.76,
+     "fin": 30.92
+    },
+    {
+     "t": "estamos",
+     "inicio": 30.92,
+     "fin": 31.18
+    },
+    {
+     "t": "apoyándote,",
+     "inicio": 31.18,
+     "fin": 31.92
+    },
+    {
+     "t": "maestras.",
+     "inicio": 32.04,
+     "fin": 32.8
+    },
+    {
+     "t": "Con",
+     "inicio": 33.12,
+     "fin": 33.46
+    },
+    {
+     "t": "el",
+     "inicio": 33.46,
+     "fin": 33.56
+    },
+    {
+     "t": "futuro",
+     "inicio": 33.56,
+     "fin": 33.84
+    },
+    {
+     "t": "en",
+     "inicio": 33.84,
+     "fin": 34.02
+    },
+    {
+     "t": "la",
+     "inicio": 34.02,
+     "fin": 34.12
+    },
+    {
+     "t": "mar.",
+     "inicio": 34.12,
+     "fin": 34.28
+    },
+    {
+     "t": "Tenemos",
+     "inicio": 34.28,
+     "fin": 34.8
+    },
+    {
+     "t": "esperanza.",
+     "inicio": 34.8,
+     "fin": 35.22
+    },
+    {
+     "t": "Sí,",
+     "inicio": 35.24,
+     "fin": 35.36
+    },
+    {
+     "t": "no",
+     "inicio": 35.62,
+     "fin": 36
+    },
+    {
+     "t": "está",
+     "inicio": 36,
+     "fin": 36.52
+    },
+    {
+     "t": "chiqui,",
+     "inicio": 36.52,
+     "fin": 36.82
+    },
+    {
+     "t": "cante",
+     "inicio": 36.92,
+     "fin": 37.08
+    },
+    {
+     "t": "nadie.",
+     "inicio": 37.08,
+     "fin": 37.32
+    },
+    {
+     "t": "Con",
+     "inicio": 37.6,
+     "fin": 37.76
+    },
+    {
+     "t": "esa",
+     "inicio": 37.76,
+     "fin": 37.98
+    },
+    {
+     "t": "empatía.",
+     "inicio": 37.98,
+     "fin": 38.54
+    },
+    {
+     "t": "No",
+     "inicio": 38.96,
+     "fin": 39.22
+    },
+    {
+     "t": "cargar",
+     "inicio": 39.22,
+     "fin": 39.66
+    },
+    {
+     "t": "con",
+     "inicio": 39.66,
+     "fin": 40.02
+    },
+    {
+     "t": "esa",
+     "inicio": 40.02,
+     "fin": 40.2
+    },
+    {
+     "t": "violencia.",
+     "inicio": 40.2,
+     "fin": 40.58
+    },
+    {
+     "t": "Eso",
+     "inicio": 40.76,
+     "fin": 40.94
+    },
+    {
+     "t": "no",
+     "inicio": 40.94,
+     "fin": 41.06
+    },
+    {
+     "t": "lo",
+     "inicio": 41.06,
+     "fin": 41.16
+    },
+    {
+     "t": "se",
+     "inicio": 41.16,
+     "fin": 41.26
+    },
+    {
+     "t": "lo",
+     "inicio": 41.26,
+     "fin": 41.36
+    },
+    {
+     "t": "escuchan",
+     "inicio": 41.36,
+     "fin": 41.68
+    },
+    {
+     "t": "a",
+     "inicio": 41.68,
+     "fin": 41.7
+    },
+    {
+     "t": "nadie.",
+     "inicio": 41.7,
+     "fin": 41.78
+    },
+    {
+     "t": "El",
+     "inicio": 41.8,
+     "fin": 41.98
+    },
+    {
+     "t": "negocio",
+     "inicio": 41.98,
+     "fin": 42.32
+    },
+    {
+     "t": "de",
+     "inicio": 42.32,
+     "fin": 42.44
+    },
+    {
+     "t": "los",
+     "inicio": 42.44,
+     "fin": 42.52
+    },
+    {
+     "t": "partidos",
+     "inicio": 42.52,
+     "fin": 42.82
+    },
+    {
+     "t": "es",
+     "inicio": 42.82,
+     "fin": 42.98
+    },
+    {
+     "t": "dividirnos.",
+     "inicio": 42.98,
+     "fin": 43.68
+    },
+    {
+     "t": "Cuando",
+     "inicio": 43.88,
+     "fin": 44.1
+    },
+    {
+     "t": "tú",
+     "inicio": 44.1,
+     "fin": 44.48
+    },
+    {
+     "t": "eres",
+     "inicio": 44.48,
+     "fin": 45.12
+    },
+    {
+     "t": "un",
+     "inicio": 45.12,
+     "fin": 45.36
+    },
+    {
+     "t": "partido",
+     "inicio": 45.36,
+     "fin": 45.78
+    },
+    {
+     "t": "que",
+     "inicio": 45.78,
+     "fin": 46.42
+    },
+    {
+     "t": "dice",
+     "inicio": 46.42,
+     "fin": 46.7
+    },
+    {
+     "t": "públicamente",
+     "inicio": 46.7,
+     "fin": 47.56
+    },
+    {
+     "t": "que",
+     "inicio": 47.56,
+     "fin": 48.06
+    },
+    {
+     "t": "cuando",
+     "inicio": 48.06,
+     "fin": 48.2
+    },
+    {
+     "t": "nosotros",
+     "inicio": 48.2,
+     "fin": 48.52
+    },
+    {
+     "t": "se",
+     "inicio": 48.52,
+     "fin": 48.72
+    },
+    {
+     "t": "van",
+     "inicio": 48.72,
+     "fin": 48.8
+    },
+    {
+     "t": "a",
+     "inicio": 48.8,
+     "fin": 48.9
+    },
+    {
+     "t": "cavar",
+     "inicio": 48.9,
+     "fin": 49.34
+    },
+    {
+     "t": "las",
+     "inicio": 49.34,
+     "fin": 49.78
+    },
+    {
+     "t": "subvenciones",
+     "inicio": 49.78,
+     "fin": 50.4
+    },
+    {
+     "t": "a",
+     "inicio": 50.4,
+     "fin": 50.88
+    },
+    {
+     "t": "sindicatos,",
+     "inicio": 50.88,
+     "fin": 51.54
+    },
+    {
+     "t": "medios",
+     "inicio": 51.74,
+     "fin": 52.02
+    },
+    {
+     "t": "y",
+     "inicio": 52.02,
+     "fin": 52.34
+    },
+    {
+     "t": "partidos",
+     "inicio": 52.34,
+     "fin": 52.66
+    },
+    {
+     "t": "políticos,",
+     "inicio": 52.66,
+     "fin": 53.18
+    },
+    {
+     "t": "pues",
+     "inicio": 53.64,
+     "fin": 53.68
+    },
+    {
+     "t": "entra",
+     "inicio": 53.68,
+     "fin": 53.9
+    },
+    {
+     "t": "mucho",
+     "inicio": 53.9,
+     "fin": 54.14
+    },
+    {
+     "t": "miedo.",
+     "inicio": 54.14,
+     "fin": 54.44
+    },
+    {
+     "t": "Entra",
+     "inicio": 55.66,
+     "fin": 56.02
+    },
+    {
+     "t": "miedo.",
+     "inicio": 56.02,
+     "fin": 56.3
+    },
+    {
+     "t": "Lo",
+     "inicio": 58.68,
+     "fin": 59.08
+    },
+    {
+     "t": "que",
+     "inicio": 59.08,
+     "fin": 59.76
+    },
+    {
+     "t": "estás",
+     "inicio": 59.76,
+     "fin": 60.26
+    },
+    {
+     "t": "haciendo",
+     "inicio": 60.26,
+     "fin": 60.66
+    },
+    {
+     "t": "y",
+     "inicio": 60.66,
+     "fin": 60.84
+    },
+    {
+     "t": "que",
+     "inicio": 60.84,
+     "fin": 60.94
+    },
+    {
+     "t": "estás",
+     "inicio": 60.94,
+     "fin": 61.54
+    },
+    {
+     "t": "descubriendo",
+     "inicio": 61.54,
+     "fin": 62.08
+    },
+    {
+     "t": "la",
+     "inicio": 62.08,
+     "fin": 62.2
+    },
+    {
+     "t": "corrupción",
+     "inicio": 62.2,
+     "fin": 62.68
+    },
+    {
+     "t": "y",
+     "inicio": 62.68,
+     "fin": 62.8
+    },
+    {
+     "t": "todo",
+     "inicio": 62.8,
+     "fin": 62.98
+    },
+    {
+     "t": "es",
+     "inicio": 62.98,
+     "fin": 63.2
+    },
+    {
+     "t": "muy",
+     "inicio": 63.2,
+     "fin": 63.32
+    },
+    {
+     "t": "importante.",
+     "inicio": 63.32,
+     "fin": 63.74
+    },
+    {
+     "t": "Con",
+     "inicio": 63.74,
+     "fin": 64.18
+    },
+    {
+     "t": "todo",
+     "inicio": 64.18,
+     "fin": 64.36
+    },
+    {
+     "t": "el",
+     "inicio": 64.36,
+     "fin": 64.48
+    },
+    {
+     "t": "orgullo",
+     "inicio": 64.48,
+     "fin": 64.8
+    },
+    {
+     "t": "a",
+     "inicio": 64.8,
+     "fin": 64.94
+    },
+    {
+     "t": "saludarte",
+     "inicio": 64.94,
+     "fin": 65.62
+    },
+    {
+     "t": "y",
+     "inicio": 65.62,
+     "fin": 65.78
+    },
+    {
+     "t": "a",
+     "inicio": 65.78,
+     "fin": 65.82
+    },
+    {
+     "t": "estar",
+     "inicio": 65.82,
+     "fin": 65.96
+    },
+    {
+     "t": "contigo.",
+     "inicio": 65.96,
+     "fin": 66.48
+    },
+    {
+     "t": "El",
+     "inicio": 66.64,
+     "fin": 66.9
+    },
+    {
+     "t": "orgullo",
+     "inicio": 66.9,
+     "fin": 67.82
+    },
+    {
+     "t": "es",
+     "inicio": 67.82,
+     "fin": 67.84
+    },
+    {
+     "t": "muy",
+     "inicio": 67.84,
+     "fin": 68
+    },
+    {
+     "t": "bueno.",
+     "inicio": 68,
+     "fin": 68.12
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
