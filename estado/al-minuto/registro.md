@@ -33,3 +33,4 @@
 - 2026-10-31 10:36 UTC · sin candidatos (radar generado 10:26 UTC, total_detectados: 0)
 - 2026-10-31 11:27 UTC · sin candidatos (radar generado 11:26 UTC, total_detectados: 0)
 - 2026-10-31 12:35 UTC · nota 4 · @partidopopular · publicado am20261031-1226-pp-exige-consecuencias-trenes (22,8-36,1 + 92,7-101,1 s; se omiten las cinco medidas por duración; 'Damud' corregido a Adamuz)
+- 2026-10-31 13:40 UTC · nota 3 · @vox_es (Buxadé, Ferrol) · publicado am20261031-1327-vox-querellas-delegado (3,9-44,0 s; 'box' corregido a Vox; el otro candidato de Buxadé, 38 s, descartado: acusa de 'organizaciones ilegales' sin contexto; el de 'seguridad en trenes' sin audio)

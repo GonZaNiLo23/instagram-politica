@@ -43,3 +43,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261029-2030-abascal-dimision | am-horario | 🔴 Actualidad · Al minuto | Al minuto (26 s) | publicando (Al minuto horario) | 0 | 0 | 2026-10-29 21:00 (render.yml, sin revisores) | Abascal exige dimisiones tras el accidente; clip de @vox_es |
 | am20261030-1232-confianza-quebrada-ave | Al minuto: Gobierno admite confianza quebrada en alta velocidad | publicando (Al minuto horario) |
 | am20261031-1226-pp-exige-consecuencias-trenes | Al minuto: el PP exige consecuencias tras los accidentes ferroviarios | publicando (Al minuto horario) |
+| am20261031-1327-vox-querellas-delegado | Al minuto: Vox ampliará querellas contra el delegado del Gobierno en Galicia | publicando (Al minuto horario) |
