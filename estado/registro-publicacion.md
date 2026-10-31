@@ -6,3 +6,5 @@
 - 2026-10-30T13:01:09.261Z · am20261030-1232-confianza-quebrada-ave: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-10-31T13:01:08.822Z · am20261031-1226-pp-exige-consecuencias-trenes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfKNuZYCizZ/
 - 2026-10-31T13:01:12.878Z · am20261031-1226-pp-exige-consecuencias-trenes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-10-31T14:01:02.394Z · am20261031-1327-vox-querellas-delegado v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfKUlx8jHUO/
+- 2026-10-31T14:01:06.813Z · am20261031-1327-vox-querellas-delegado: TikTok en la bandeja de borradores (falta publicarlo desde la app)
