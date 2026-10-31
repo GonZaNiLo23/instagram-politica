@@ -37,3 +37,4 @@
 - 2026-10-31 14:35 UTC · nota 2 · @vox_es (Garriga, Urda) · descartado: tercer reel sobre los trenes en 3 h (PP 12:26, Vox 13:27), mismo tema ya publicado en las últimas 6 h; las cifras (1.500 M en préstamos, 500 M en trenes a Marruecos) no constan en el clip como dato contrastable y el resto es acusación política sobre un suceso con víctimas
 - 2026-10-31 15:30 UTC · sin candidatos (radar generado 15:27 UTC, total_detectados: 0)
 - 2026-10-31 16:30 UTC · sin candidatos (radar generado 16:27 UTC, total_detectados: 0)
+- 2026-10-31 17:30 UTC · sin candidatos (radar generado 17:26 UTC, total_detectados: 0)
