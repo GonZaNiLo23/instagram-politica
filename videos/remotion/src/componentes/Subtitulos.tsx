@@ -45,7 +45,7 @@ export const Subtitulos: React.FC<{palabras: Palabra[]; ocultarEn?: [number, num
     <div style={{position: 'absolute', left: SEGURA.izq, width: SEGURA.ancho, top: SUBS.y + dy, display: 'flex', justifyContent: 'center'}}>
       <div style={{background: 'rgba(20,33,61,0.93)', borderRadius: 18, padding: '16px 30px', textAlign: 'center', maxWidth: SEGURA.ancho, fontFamily: F.texto, fontWeight: 700, fontSize: 56, lineHeight: 1.2}}>
         {tr.palabras.map((w, i) => (
-          <span key={i} style={{color: i === activa ? C.mostaza : C.crema}}>{w.t}{i < tr.palabras.length - 1 ? ' ' : ''}</span>
+          <span key={i} style={{color: i === activa ? C.mostaza : C.crema}}>{w.t}{i < tr.palabras.length - 1 ? (sinHuerfanas && i === tr.palabras.length - 2 && tr.palabras.length > 2 ? ' ' : ' ') : ''}</span>
         ))}
       </div>
     </div>

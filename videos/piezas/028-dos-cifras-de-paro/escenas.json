@@ -1,0 +1,543 @@
+{
+  "plantilla": "flash",
+  "duracion": 35.48,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "¿Cuántos parados hay?",
+            "y": 340,
+            "tamano": 100,
+            "en": -1
+          },
+          {
+            "tipo": "cifraP",
+            "texto": "2,59 millones",
+            "sub": "EPA jul–sep",
+            "y": 560,
+            "fondo": "#F2B134",
+            "en": -1
+          },
+          {
+            "tipo": "colaP",
+            "y": 735,
+            "n": 13,
+            "en": -1
+          },
+          {
+            "tipo": "cifraP",
+            "texto": "2,38 millones",
+            "sub": "Registro sept.",
+            "y": 855,
+            "fondo": "#2A9D8F",
+            "color": "#F4EFE6",
+            "en": -1
+          },
+          {
+            "tipo": "colaP",
+            "y": 1030,
+            "n": 12,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 6.06,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿Cuántos parados hay?",
+          "y": 340,
+          "tamano": 84,
+          "en": -1,
+          "hasta": 1.9
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿Cuál es la buena?",
+          "y": 340,
+          "en": 1.95,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "marcadorP",
+          "estado": "ninguna",
+          "en": 2
+        },
+        {
+          "tipo": "cifraP",
+          "texto": "2,59 millones",
+          "sub": "EPA jul–sep",
+          "y": 560,
+          "fondo": "#F2B134",
+          "en": 0.05,
+          "pulsos": [
+            2.38
+          ]
+        },
+        {
+          "tipo": "colaP",
+          "y": 735,
+          "n": 13,
+          "en": 0.1
+        },
+        {
+          "tipo": "cifraP",
+          "texto": "2,38 millones",
+          "sub": "Registro sept.",
+          "y": 855,
+          "fondo": "#2A9D8F",
+          "color": "#F4EFE6",
+          "en": 0.2,
+          "pulsos": [
+            4.86
+          ]
+        },
+        {
+          "tipo": "colaP",
+          "y": 1030,
+          "n": 12,
+          "en": 0.25
+        }
+      ]
+    },
+    {
+      "inicio": 6.06,
+      "fin": 7.74,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LAS DOS SON OFICIALES",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "marcadorP",
+          "estado": "ninguna",
+          "en": -1
+        },
+        {
+          "tipo": "colaP",
+          "y": 560,
+          "n": 13,
+          "en": -1,
+          "base": "#F2B134"
+        },
+        {
+          "tipo": "igualP",
+          "y": 680,
+          "en": 0.1
+        },
+        {
+          "tipo": "colaP",
+          "y": 910,
+          "n": 12,
+          "en": -1,
+          "base": "#2A9D8F"
+        }
+      ]
+    },
+    {
+      "inicio": 7.74,
+      "fin": 11.32,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CIFRA 1 · EPA (INE)",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Encuesta a hogares",
+          "y": 475,
+          "en": 0.7,
+          "tamano": 64
+        },
+        {
+          "tipo": "marcadorP",
+          "estado": 1,
+          "en": -1
+        },
+        {
+          "tipo": "casasP",
+          "y": 545,
+          "en": 0.15,
+          "paso": 0.35
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PARADO EPA: sin empleo y buscándolo",
+          "y": 950,
+          "en": 0.6,
+          "tamano": 64,
+          "izq": 270,
+          "ancho": 690
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "EPA = Encuesta de Población Activa",
+            "INE = Instituto Nacional de Estadística",
+            "Fuente: INE, EPA 3T 2026 (jul–sep)"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 11.32,
+      "fin": 13.74,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CIFRA 2 · PARO REGISTRADO",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Inscritos en las oficinas de empleo",
+          "y": 555,
+          "en": 0.35,
+          "tamano": 64
+        },
+        {
+          "tipo": "marcadorP",
+          "estado": 2,
+          "en": -1
+        },
+        {
+          "tipo": "ventanillaP",
+          "x": 300,
+          "y": 880,
+          "tam": 260,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "EPA = Encuesta de Población Activa",
+            "INE = Instituto Nacional de Estadística",
+            "Fuente: Ministerio de Trabajo, 2-10-2026"
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 13.74,
+      "fin": 16.58,
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Buscas empleo · sin inscribirte",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pasaP",
+          "y": 800,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 16.58,
+      "fin": 19.86,
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ENCUESTA: puede contarte · REGISTRO: no",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "cifraP",
+          "texto": "ENCUESTA",
+          "y": 560,
+          "fondo": "#F2B134",
+          "en": -1,
+          "tam": 48
+        },
+        {
+          "tipo": "colaP",
+          "y": 650,
+          "n": 13,
+          "en": -1,
+          "base": "#8D99AE",
+          "luz": [
+            {
+              "t": 0.22,
+              "color": "#F2B134"
+            }
+          ],
+          "nuevo": {
+            "en": 0.42000000000000004,
+            "color": "#F2B134"
+          }
+        },
+        {
+          "tipo": "cifraP",
+          "texto": "REGISTRO",
+          "y": 800,
+          "fondo": "#8D99AE",
+          "en": -1,
+          "tam": 48
+        },
+        {
+          "tipo": "colaP",
+          "y": 890,
+          "n": 12,
+          "en": -1,
+          "base": "#8D99AE"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Si te encuestan"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 19.86,
+      "fin": 23.12,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EPA 3T vs 2T: +95.900 parados",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "marcadorP",
+          "estado": 1,
+          "en": -1
+        },
+        {
+          "tipo": "flechaP",
+          "dir": "sube",
+          "texto": "+95.900",
+          "color": "#14213D",
+          "y": 730,
+          "en": 0.1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Tasa: 10,18 % (+0,31 puntos)",
+          "y": 950,
+          "en": 0.5,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: INE, EPA 3T 2026"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 23.12,
+      "fin": 25.86,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EPA 3T 2026 vs 3T 2025: −21.900 parados",
+          "y": 385,
+          "en": 0,
+          "tamano": 64
+        },
+        {
+          "tipo": "marcadorP",
+          "estado": 1,
+          "en": -1
+        },
+        {
+          "tipo": "flechaP",
+          "dir": "baja",
+          "texto": "−21.900",
+          "color": "#2A9D8F",
+          "sub": "Ocupados: +465.500",
+          "y": 730,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: INE, EPA 3T 2026"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 25.86,
+      "fin": 29.55,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "REGISTRO: septiembre más bajo desde 2007",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "marcadorP",
+          "estado": 2,
+          "en": -1
+        },
+        {
+          "tipo": "cifraP",
+          "texto": "2.379.505 parados",
+          "y": 670,
+          "fondo": "#2A9D8F",
+          "color": "#F4EFE6",
+          "en": 0.2,
+          "tam": 76
+        },
+        {
+          "tipo": "tiempoP",
+          "y": 830,
+          "en": 0.3,
+          "enciende": 1.18
+        },
+        {
+          "tipo": "colaP",
+          "y": 1010,
+          "n": 12,
+          "en": 0.3,
+          "base": "#2A9D8F"
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "en": 2.3,
+          "x": 660,
+          "y": 985,
+          "tamano": 96,
+          "angulo": -6,
+          "desde": 40,
+          "reboteMax": 0
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Ministerio de Trabajo, 2-10-2026"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 29.55,
+      "fin": 30.82,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿EPA o REGISTRO?",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "marcadorP",
+          "estado": "ambas",
+          "en": -1
+        },
+        {
+          "tipo": "cifraP",
+          "texto": "Encuesta (EPA)",
+          "y": 560,
+          "fondo": "#F2B134",
+          "en": -1,
+          "tam": 56
+        },
+        {
+          "tipo": "colaP",
+          "y": 735,
+          "n": 13,
+          "en": -1,
+          "luz": [
+            {
+              "t": 0.1,
+              "color": "#F2B134"
+            },
+            {
+              "t": 0.9,
+              "color": "#14213D"
+            }
+          ]
+        },
+        {
+          "tipo": "cifraP",
+          "texto": "Registro (paro registrado)",
+          "y": 855,
+          "fondo": "#2A9D8F",
+          "color": "#F4EFE6",
+          "en": -1,
+          "tam": 48
+        },
+        {
+          "tipo": "colaP",
+          "y": 1030,
+          "n": 12,
+          "en": -1,
+          "luz": [
+            {
+              "t": 0.9,
+              "color": "#2A9D8F"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 30.82,
+      "fin": 35.48,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿EPA o REGISTRO?",
+          "pregunta": "2 FORMAS DE MEDIR EL PARO",
+          "tamano": 104,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

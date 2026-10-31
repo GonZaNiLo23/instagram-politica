@@ -1,0 +1,931 @@
+{
+  "plantilla": "flash",
+  "duracion": 43.1,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 1,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "208.685 → 325.356",
+            "y": 520,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "contadorSerie",
+            "valA": 208685,
+            "valB": 325356,
+            "etiqA": "2018",
+            "etiqB": "2025",
+            "base": 1100,
+            "hMax": 270,
+            "cuentaEn": -5,
+            "cuentaDur": 1,
+            "signo": -1,
+            "valores": false
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 9.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 1,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2018: 208.685 M€",
+          "y": 520,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2025: 325.356 M€",
+          "y": 600,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 208685,
+          "valB": 325356,
+          "etiqA": "2018",
+          "etiqB": "2025",
+          "base": 1080,
+          "hMax": 270,
+          "etiqBYa": true,
+          "cuentaEn": 1,
+          "cuentaDur": 6.86,
+          "signo": 8.02
+        }
+      ]
+    },
+    {
+      "inicio": 9.34,
+      "fin": 15.82,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraGrandeSerie",
+          "valor": "+56 %",
+          "sub": "(cálculo propio)",
+          "y": 330,
+          "en": 0.05
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Ingresos tributarios, año completo",
+          "y": 730,
+          "en": 2.34,
+          "tamano": 64
+        },
+        {
+          "tipo": "fichaSerie",
+          "filas": [
+            "2018 · 208.685",
+            "2025 · 325.356"
+          ],
+          "y": 920,
+          "en": 2.6399999999999997,
+          "paso": 0.6,
+          "tam": 56
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "No incluye cotizaciones",
+          "y": 1140,
+          "en": 4.34,
+          "tamano": 64
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "MISMA",
+            "MEDIDA"
+          ],
+          "x": 730,
+          "y": 950,
+          "tamano": 46,
+          "desde": 40,
+          "en": 5.159999999999999
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "AEAT, Informe anual de recaudación 2018 y 2025"
+          ],
+          "en": 2.34
+        }
+      ]
+    },
+    {
+      "inicio": 15.82,
+      "fin": 23.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "barrasHSerie",
+          "titulo": "CRECIMIENTO 2018–2025",
+          "max": 60,
+          "paso": 20,
+          "y0": 420,
+          "alto": 190,
+          "dur": 0.9,
+          "filas": [
+            {
+              "etiqueta": "PRECIOS +22 % (IPCA)",
+              "valor": 22,
+              "color": "#B4BBC8",
+              "en": 0.34
+            },
+            {
+              "etiqueta": "PIB +39 % (euros corrientes)",
+              "valor": 39,
+              "color": "#8D99AE",
+              "en": 2.86
+            },
+            {
+              "etiqueta": "RECAUDACIÓN +56 %",
+              "valor": 56,
+              "color": "#F2B134",
+              "en": 4.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 23.26,
+      "fin": 27.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "17 % → 19 % del PIB",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tartaSerie",
+          "de": 17,
+          "a": 19,
+          "cx": 540,
+          "cy": 950,
+          "r": 250,
+          "en": 0.2,
+          "dur": 1.8
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 540,
+          "y": 1090,
+          "tamano": 110,
+          "desde": 60,
+          "en": 3.42
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio con datos oficiales"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 27.58,
+      "fin": 32.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SEGÚN HACIENDA (2025): crecimiento y empleo",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Inflación: 1,3 puntos del +10,4 % de 2025",
+          "y": 610,
+          "en": 1.86,
+          "tamano": 64
+        },
+        {
+          "tipo": "empleoSerie",
+          "x": 60,
+          "y": 790,
+          "escala": 0.9,
+          "en": 0.4
+        },
+        {
+          "tipo": "foto",
+          "src": "hacienda.jpg",
+          "forma": "rect",
+          "x": 700,
+          "y": 971,
+          "ancho": 480,
+          "alto": 340,
+          "en": 0.3,
+          "dur": 5.06,
+          "zoom": [
+            1,
+            1.12
+          ],
+          "credito": "Imagen de archivo: Luis García, CC BY-SA 2.0",
+          "notas": [
+            "Ministerio de Hacienda, 31-3-2026"
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 32.54,
+      "fin": 37.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NO ES LO QUE PAGA CADA UNO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Euros corrientes · más ocupados",
+          "y": 600,
+          "en": 1.22,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraFigurasSerie",
+          "n": 10,
+          "y": 990,
+          "en": 0.2,
+          "divide": 2.34
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO MIDE"
+          ],
+          "x": 540,
+          "y": 890,
+          "desde": 40,
+          "angulo": -5,
+          "en": 2.74
+        }
+      ]
+    },
+    {
+      "inicio": 37.1,
+      "fin": 39.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿TRUCO O CRECIMIENTO?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 208685,
+          "valB": 325356,
+          "base": 800,
+          "hMax": 220,
+          "cuentaEn": -5,
+          "cuentaDur": 1,
+          "signo": 0.2,
+          "valores": false,
+          "etiquetas": false
+        },
+        {
+          "tipo": "abSerie",
+          "a": "TRUCO",
+          "b": "CRECIMIENTO",
+          "y": 880,
+          "en": 0.9
+        }
+      ]
+    },
+    {
+      "inicio": 39.46,
+      "fin": 43.1,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 2
+        }
+      ]
+    }
+  ],
+  "id": "030-8-anos-recaudacion",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "En",
+      "inicio": 0,
+      "fin": 0.12
+    },
+    {
+      "t": "dos",
+      "inicio": 0.16,
+      "fin": 0.293
+    },
+    {
+      "t": "mil",
+      "inicio": 0.32,
+      "fin": 0.453
+    },
+    {
+      "t": "dieciocho,",
+      "inicio": 0.48,
+      "fin": 0.96
+    },
+    {
+      "t": "los",
+      "inicio": 1.28,
+      "fin": 1.36
+    },
+    {
+      "t": "impuestos",
+      "inicio": 1.44,
+      "fin": 1.84
+    },
+    {
+      "t": "recaudaron",
+      "inicio": 1.92,
+      "fin": 2.48
+    },
+    {
+      "t": "doscientos",
+      "inicio": 2.56,
+      "fin": 3.12
+    },
+    {
+      "t": "ocho",
+      "inicio": 3.2,
+      "fin": 3.36
+    },
+    {
+      "t": "mil",
+      "inicio": 3.44,
+      "fin": 3.6
+    },
+    {
+      "t": "millones.",
+      "inicio": 3.68,
+      "fin": 4.44
+    },
+    {
+      "t": "En",
+      "inicio": 4.64,
+      "fin": 4.72
+    },
+    {
+      "t": "dos",
+      "inicio": 4.8,
+      "fin": 4.88
+    },
+    {
+      "t": "mil",
+      "inicio": 4.96,
+      "fin": 5.04
+    },
+    {
+      "t": "veinticinco,",
+      "inicio": 5.12,
+      "fin": 6
+    },
+    {
+      "t": "trescientos",
+      "inicio": 6.16,
+      "fin": 6.72
+    },
+    {
+      "t": "veinticinco",
+      "inicio": 6.76,
+      "fin": 7.28
+    },
+    {
+      "t": "mil.",
+      "inicio": 7.36,
+      "fin": 8.08
+    },
+    {
+      "t": "¿Dónde",
+      "inicio": 8.12,
+      "fin": 8.32
+    },
+    {
+      "t": "está",
+      "inicio": 8.4,
+      "fin": 8.52
+    },
+    {
+      "t": "el",
+      "inicio": 8.56,
+      "fin": 8.6
+    },
+    {
+      "t": "truco?",
+      "inicio": 8.64,
+      "fin": 9.04
+    },
+    {
+      "t": "Es",
+      "inicio": 9.44,
+      "fin": 9.52
+    },
+    {
+      "t": "un",
+      "inicio": 9.6,
+      "fin": 9.68
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 9.76,
+      "fin": 10.16
+    },
+    {
+      "t": "y",
+      "inicio": 10.24,
+      "fin": 10.32
+    },
+    {
+      "t": "seis",
+      "inicio": 10.4,
+      "fin": 10.56
+    },
+    {
+      "t": "por",
+      "inicio": 10.64,
+      "fin": 10.72
+    },
+    {
+      "t": "ciento",
+      "inicio": 10.8,
+      "fin": 11.04
+    },
+    {
+      "t": "más,",
+      "inicio": 11.12,
+      "fin": 11.6
+    },
+    {
+      "t": "con",
+      "inicio": 11.68,
+      "fin": 11.76
+    },
+    {
+      "t": "datos",
+      "inicio": 11.92,
+      "fin": 12.08
+    },
+    {
+      "t": "de",
+      "inicio": 12.12,
+      "fin": 12.16
+    },
+    {
+      "t": "la",
+      "inicio": 12.187,
+      "fin": 12.213
+    },
+    {
+      "t": "Agencia",
+      "inicio": 12.24,
+      "fin": 12.56
+    },
+    {
+      "t": "Tributaria.",
+      "inicio": 12.64,
+      "fin": 13.28
+    },
+    {
+      "t": "La",
+      "inicio": 13.68,
+      "fin": 13.76
+    },
+    {
+      "t": "medida",
+      "inicio": 13.84,
+      "fin": 14.08
+    },
+    {
+      "t": "es",
+      "inicio": 14.16,
+      "fin": 14.24
+    },
+    {
+      "t": "la",
+      "inicio": 14.28,
+      "fin": 14.32
+    },
+    {
+      "t": "misma",
+      "inicio": 14.4,
+      "fin": 14.64
+    },
+    {
+      "t": "en",
+      "inicio": 14.68,
+      "fin": 14.72
+    },
+    {
+      "t": "los",
+      "inicio": 14.8,
+      "fin": 14.88
+    },
+    {
+      "t": "dos",
+      "inicio": 14.96,
+      "fin": 15.12
+    },
+    {
+      "t": "años.",
+      "inicio": 15.2,
+      "fin": 15.76
+    },
+    {
+      "t": "Los",
+      "inicio": 15.92,
+      "fin": 16.08
+    },
+    {
+      "t": "precios",
+      "inicio": 16.16,
+      "fin": 16.48
+    },
+    {
+      "t": "subieron",
+      "inicio": 16.56,
+      "fin": 16.96
+    },
+    {
+      "t": "un",
+      "inicio": 17,
+      "fin": 17.04
+    },
+    {
+      "t": "veintidós",
+      "inicio": 17.12,
+      "fin": 17.52
+    },
+    {
+      "t": "por",
+      "inicio": 17.68,
+      "fin": 17.76
+    },
+    {
+      "t": "ciento.",
+      "inicio": 17.84,
+      "fin": 18.48
+    },
+    {
+      "t": "Y",
+      "inicio": 18.507,
+      "fin": 18.533
+    },
+    {
+      "t": "la",
+      "inicio": 18.56,
+      "fin": 18.64
+    },
+    {
+      "t": "economía,",
+      "inicio": 18.68,
+      "fin": 19.36
+    },
+    {
+      "t": "un",
+      "inicio": 19.44,
+      "fin": 19.52
+    },
+    {
+      "t": "treinta",
+      "inicio": 19.6,
+      "fin": 19.84
+    },
+    {
+      "t": "y",
+      "inicio": 19.92,
+      "fin": 19.96
+    },
+    {
+      "t": "nueve.",
+      "inicio": 20,
+      "fin": 20.64
+    },
+    {
+      "t": "La",
+      "inicio": 20.68,
+      "fin": 20.72
+    },
+    {
+      "t": "recaudación",
+      "inicio": 20.8,
+      "fin": 21.36
+    },
+    {
+      "t": "creció",
+      "inicio": 21.44,
+      "fin": 21.76
+    },
+    {
+      "t": "más",
+      "inicio": 21.84,
+      "fin": 22
+    },
+    {
+      "t": "que",
+      "inicio": 22.08,
+      "fin": 22.16
+    },
+    {
+      "t": "las",
+      "inicio": 22.24,
+      "fin": 22.32
+    },
+    {
+      "t": "dos",
+      "inicio": 22.4,
+      "fin": 22.48
+    },
+    {
+      "t": "cosas.",
+      "inicio": 22.64,
+      "fin": 23.2
+    },
+    {
+      "t": "Pasó",
+      "inicio": 23.36,
+      "fin": 23.6
+    },
+    {
+      "t": "del",
+      "inicio": 23.68,
+      "fin": 23.76
+    },
+    {
+      "t": "diecisiete",
+      "inicio": 23.84,
+      "fin": 24.48
+    },
+    {
+      "t": "al",
+      "inicio": 24.72,
+      "fin": 24.88
+    },
+    {
+      "t": "diecinueve",
+      "inicio": 25,
+      "fin": 25.44
+    },
+    {
+      "t": "por",
+      "inicio": 25.52,
+      "fin": 25.68
+    },
+    {
+      "t": "ciento",
+      "inicio": 25.76,
+      "fin": 26
+    },
+    {
+      "t": "de",
+      "inicio": 26.16,
+      "fin": 26.24
+    },
+    {
+      "t": "toda",
+      "inicio": 26.4,
+      "fin": 26.64
+    },
+    {
+      "t": "la",
+      "inicio": 26.68,
+      "fin": 26.72
+    },
+    {
+      "t": "economía.",
+      "inicio": 26.8,
+      "fin": 27.36
+    },
+    {
+      "t": "Hacienda",
+      "inicio": 27.68,
+      "fin": 28.16
+    },
+    {
+      "t": "atribuye",
+      "inicio": 28.28,
+      "fin": 28.56
+    },
+    {
+      "t": "la",
+      "inicio": 28.64,
+      "fin": 28.72
+    },
+    {
+      "t": "subida",
+      "inicio": 28.8,
+      "fin": 29.12
+    },
+    {
+      "t": "de",
+      "inicio": 29.16,
+      "fin": 29.2
+    },
+    {
+      "t": "dos",
+      "inicio": 29.28,
+      "fin": 29.36
+    },
+    {
+      "t": "mil",
+      "inicio": 29.44,
+      "fin": 29.52
+    },
+    {
+      "t": "veinticinco",
+      "inicio": 29.6,
+      "fin": 30.16
+    },
+    {
+      "t": "al",
+      "inicio": 30.4,
+      "fin": 30.48
+    },
+    {
+      "t": "crecimiento",
+      "inicio": 30.56,
+      "fin": 31.2
+    },
+    {
+      "t": "y",
+      "inicio": 31.24,
+      "fin": 31.28
+    },
+    {
+      "t": "al",
+      "inicio": 31.32,
+      "fin": 31.36
+    },
+    {
+      "t": "empleo",
+      "inicio": 31.44,
+      "fin": 31.76
+    },
+    {
+      "t": "récord.",
+      "inicio": 31.84,
+      "fin": 32.56
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 32.64,
+      "fin": 33.2
+    },
+    {
+      "t": "hay",
+      "inicio": 33.28,
+      "fin": 33.36
+    },
+    {
+      "t": "más",
+      "inicio": 33.52,
+      "fin": 33.68
+    },
+    {
+      "t": "gente",
+      "inicio": 33.76,
+      "fin": 34
+    },
+    {
+      "t": "trabajando,",
+      "inicio": 34.08,
+      "fin": 34.8
+    },
+    {
+      "t": "así",
+      "inicio": 34.88,
+      "fin": 35
+    },
+    {
+      "t": "que",
+      "inicio": 35.04,
+      "fin": 35.2
+    },
+    {
+      "t": "no",
+      "inicio": 35.28,
+      "fin": 35.44
+    },
+    {
+      "t": "es",
+      "inicio": 35.52,
+      "fin": 35.68
+    },
+    {
+      "t": "lo",
+      "inicio": 35.72,
+      "fin": 35.76
+    },
+    {
+      "t": "que",
+      "inicio": 35.84,
+      "fin": 35.92
+    },
+    {
+      "t": "paga",
+      "inicio": 36,
+      "fin": 36.16
+    },
+    {
+      "t": "cada",
+      "inicio": 36.24,
+      "fin": 36.48
+    },
+    {
+      "t": "uno.",
+      "inicio": 36.56,
+      "fin": 36.8
+    },
+    {
+      "t": "¿Ves",
+      "inicio": 37.2,
+      "fin": 37.44
+    },
+    {
+      "t": "truco…",
+      "inicio": 37.52,
+      "fin": 38.32
+    },
+    {
+      "t": "o",
+      "inicio": 38.36,
+      "fin": 38.4
+    },
+    {
+      "t": "crecimiento?",
+      "inicio": 38.48,
+      "fin": 39.52
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 39.56,
+      "fin": 40.08
+    },
+    {
+      "t": "para",
+      "inicio": 40.16,
+      "fin": 40.24
+    },
+    {
+      "t": "estar",
+      "inicio": 40.36,
+      "fin": 40.48
+    },
+    {
+      "t": "informado.",
+      "inicio": 40.68,
+      "fin": 41.28
+    }
+  ]
+}

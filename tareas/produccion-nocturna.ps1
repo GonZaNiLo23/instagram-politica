@@ -1,5 +1,5 @@
 # Ciclo de producción nocturno (lo lanza el Programador de tareas de Windows).
-# Produce guiones y vídeos hasta "listo". NUNCA programa ni publica: eso requiere el "aprobado" de la persona usuaria en el chat.
+# Produce guiones y vídeos y, con la aprobación permanente (CLAUDE.md), los deja en la cola de publicación (estado/cola-publicacion.json).
 $ErrorActionPreference = 'Continue'
 Set-Location -LiteralPath (Split-Path -Parent $PSScriptRoot)  # raíz del proyecto: los scripts viven en tareas/
 $hoy = Get-Date -Format 'yyyy-MM-dd'
@@ -12,27 +12,17 @@ Add-Type -Name Power -Namespace Win32 -MemberDefinition '[DllImport("kernel32.dl
 $env:Path = [Environment]::GetEnvironmentVariable('Path', 'User') + ';' + [Environment]::GetEnvironmentVariable('Path', 'Machine')
 
 $prompt = @"
-Hoy es $hoy. Ejecución nocturna sin persona usuaria delante. Actúa como COORDINADOR según CLAUDE.md: lee agentes/coordinador.md, PLANIFICADOR.md, estado/pipeline.md y memoria/coordinador.md, y delega en los subagentes con la herramienta Agent.
+Hoy es $hoy. Producción nocturna EN ESTE PC (local; desde el 2026-10-31 sustituye a la rutina de la nube, que no tiene red a las fuentes), sin persona usuaria delante. Actúa como COORDINADOR según CLAUDE.md: lee agentes/coordinador.md, memoria/coordinador.md, estado/pipeline.md, el resumen de estado/informe-rendimiento.md, estado/programado-hoy.md y estado/cola-publicacion.json, y delega en los subagentes con la herramienta Agent. Haz git pull --rebase antes de empezar.
 
-Objetivo: llenar los huecos del 26 al 30-10 (2 piezas al día) dejando piezas en estado "listo" (guion y vídeo aprobados por los revisores). Por orden de prioridad:
-1. Vídeos de 016-mesa-electoral-29n, 018-voto-en-blanco y 021-senado-209-senadores (guion ya aprobado; el tablero dice "vídeo en curso", pero no hay render). Generador de vídeo, en paralelo, y después revisor de vídeo hasta APROBADO.
-2. Guiones de 014-28-octubre-1982 (aniversario el 28-10) y 013-articulo-155-27-octubre (27-10, tema sensible: ficha de equidad): guionista, luego revisor de guion; aplica tú los literales cerrados. Después, vídeo y revisión.
-3. Carruseles (generador-carrusel, 6-10 diapositivas 1080x1350, a partir de guiones ya aprobados; revisa cada uno el revisor-video como pieza visual, con verificación de que los datos son los del guion aprobado), en este orden:
-   a. 024-disturbios-barcelona (actualidad, sale primero): cronología y balance. Solo animación y gráficos, SIN fotos de redes ni caras. La cita de Vox, atribuida y seguida del dato de que los Mossos no han dado nacionalidad, igual que en el vídeo.
-   b. 002-ley-dhondt: el ejemplo de los tres partidos inventados (la pieza con más guardados).
-   c. 003-por-que-350-diputados.
-   d. 011-calendario-generales-54-dias: el guion está en borrador; antes, guionista y revisor de guion (verificar contra la JEC y la LOREG). Si no queda aprobado, déjalo.
-   Carpeta carruseles/NNN-slug-vX; texto del post en publicado/NNN-slug-carrusel.md.
-4. Si queda tiempo: 015-voto-exterior-fin-voto-rogado y 012-encuestas-cis-privadas.
+Objetivo: que los próximos 2 días tengan 2 piezas al día (13:30 y 19:00; fin de semana 12:00 y 19:00, hora de Madrid). Cuenta como cubierto lo que ya figure en estado/programado-hoy.md o en la cola. Encarga solo lo necesario para los huecos inmediatos (ahorro de tokens). Temas: primero lo que ya esté a medias en el tablero; después, la serie "8 años en cifras" (temas/propuestas/2026-10-28-serie-8-anos.md, en su orden recomendado y respetando la rotación) y las propuestas recientes de temas/propuestas/, priorizando lo que el informe de rendimiento dice que funciona. Si no queda nada, pide propuestas a buscador-temas. Tienes autorización de la persona usuaria para elegir los temas (2026-10-31, "hazlo tú").
 
-Reglas:
-- PROHIBIDO programar, publicar, responder comentarios o usar Chrome/Metricool/Meta/TikTok. Ninguna pieza tiene el "aprobado" de la persona usuaria; se le pedirá por la mañana.
-- Verificación estricta de hechos (§7 del planificador). Si un dato no se puede verificar, la pieza se queda a medias con la nota, sin inventar.
-- Preferencias: actualidad de 90-120 s con contexto, voz Dani v4 de ElevenLabs, imágenes reales con licencia libre.
-- Máximo 2 vueltas de revisión por pieza esta noche; si no aprueba, déjala con el informe y sigue con la siguiente.
-- Mantén estado/pipeline.md al día.
-- Ahorro de tokens: sigue la sección "Eficiencia" de agentes/coordinador.md (respuestas cortas de los subagentes, rutas en vez de textos, node herramientas/seccion.js para leer partes de un guion). Al terminar, ejecuta node herramientas/medir-tokens.js $hoy y copia al informe la tabla de consumo por agente.
-- Al terminar, escribe estado/informe-produccion-$hoy.md: qué piezas quedaron "listo" (render, duración, portada y texto del post en publicado/NNN), cuáles quedaron a medias y por qué, y una propuesta de calendario 26-30-10 (13:30 y 19:00; fin de semana 12:00 y 19:00) para que la persona usuaria la apruebe.
+Flujo: guionista -> revisor-guion (máx. 2 vueltas; los literales cerrados, aplícalos tú) -> generador-video (render local con node videos/render.mjs y voz real) -> revisor-video (máx. 2 vueltas). Con los dos APROBADO y test de formato >= 9 rige la aprobación permanente (CLAUDE.md, 2026-10-26):
+1. Sube el render al release "listos": gh release upload listos videos/renders/NNN-slug-vX.mp4 --clobber.
+2. Comprueba que publicado/NNN-slug.md tiene "## Texto del post" (<= 2.200 caracteres, mídelo con node; termina con "Síguenos para estar informado").
+3. Añade a estado/cola-publicacion.json {"pieza","version","hora": ISO con zona +01:00 al menos 2 h después de ahora,"aprobacion": "permanente (CLAUDE.md 2026-10-26): <informe guion> APROBADO · <informe vídeo> APROBADO test N/10","estado": "pendiente"}. GitHub Actions la publica en Instagram a esa hora (salvo veto en estado/vetos.md) y deja TikTok en borradores.
+4. Fila en estado/programado-hoy.md con TikTok "borrador (publicar a mano)".
+
+Reglas: verificación estricta de hechos (§7 del planificador): si un dato no se verifica en la fuente primaria, la pieza se queda a medias con la nota. Imágenes reales con licencia libre. No uses Chrome ni llames tú a las API de Instagram o TikTok: solo la cola. Mantén estado/pipeline.md al día y sigue la sección "Eficiencia" de agentes/coordinador.md. Al terminar, ejecuta node herramientas/medir-tokens.js $hoy, escribe estado/informe-produccion-$hoy.md (qué quedó en cola y a qué hora, qué quedó a medias y por qué, qué hay que publicar a mano en TikTok) y haz git commit y git push a main (si falla, git pull --rebase y repite).
 "@
 
 # El prompt va por la entrada estándar: como argumento, PowerShell 5.1 lo corta en la primera comilla doble (el 2026-10-26 llegó truncado)

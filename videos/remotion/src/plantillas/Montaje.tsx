@@ -17,13 +17,13 @@ export const Montaje: React.FC<PiezaProps & {barraProgreso?: boolean}> = ({audio
       {escenas.map((e, i) => {
         const fondo = e.fondo ?? 'crema';
         const oscuro = fondo === 'tinta';
-        const tieneCierre = e.componentes.some((c) => c.tipo === 'cierre');
+        const tieneCierre = e.componentes.some((c) => c.tipo === 'cierre' || c.tipo === 'cierreSerie');
         const desde = Math.round(e.inicio * fps);
         const dur = Math.max(1, Math.round(e.fin * fps) - desde);
         return (
           <Sequence key={i} from={desde} durationInFrames={dur} layout="none">
             <AbsoluteFill style={{background: colorFondo(fondo)}}>
-              {tieneCierre ? null : <Marca texto={marca} sobre={oscuro ? 'oscuro' : 'claro'} />}
+              {tieneCierre || (e as any).sinMarca ? null : <Marca texto={marca} sobre={oscuro ? 'oscuro' : 'claro'} />}
               {e.lectura ? <EtiquetaLectura /> : null}
               {e.componentes.map((c, j) => {
                 const Comp = REGISTRO[c.tipo];

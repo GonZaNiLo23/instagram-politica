@@ -42,6 +42,11 @@ No leas informes ni carpetas de otras piezas salvo para copiar un patrón concre
   - 📊 Datos y mitos → `investigations.mp3`
   A la persona usuaria le gusta "de fondo, bajito": no subas de -14. Devuelve al coordinador la pista usada: su crédito va en el post (`videos/musica/LICENCIAS.md`). Ninguna otra música.
 
+- **Aprendidas de las revisiones (incorporadas el 2026-10-31 por repetirse ≥ 3 veces; ver estado/cambios-agentes.md):**
+  - **Contadores con etiqueta desde el primer fotograma de la cuenta** (013, 023, 030): nunca una cifra intermedia sin etiqueta ni con la etiqueta de un dato oficial; si la cifra final no puede llevar su etiqueta desde el principio, el contador no se usa.
+  - **No se entrega con avisos de LECTURA de comprobar.mjs** (022, 023, 010, 005, 006, 008, 028): ≥ 1 s por cada 3 palabras de rótulo o nota; si la voz es más corta, el rótulo entra antes o se queda en la escena siguiente; cada definición, en la escena de lo que define.
+  - **Tercio inferior lleno** (015, 028, 030): el bloque de contenido baja hasta y ≈ 1250 (iconos ≥ 240 px), con ≥ 40 px de aire sobre la franja de subtítulos; antes de entregar, mira un fotograma por escena.
+
 ## Uso eficiente de tokens (misma calidad)
 - No leas con Read archivos grandes generados (`tiempos.json`, `props.json`, `escenas.json` de otras piezas): consúltalos con Grep o con un `node -e` que imprima solo lo que necesitas.
 - Ejecuta los comandos con salida corta (`-loglevel error`, `| tail`), sin volcar registros de render enteros. `render.mjs` ya no muestra el progreso de Remotion: solo avisos, el resumen final o, si falla, las últimas 30 líneas.
