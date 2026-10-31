@@ -6,6 +6,7 @@ Aquí los revisores dejan **lecciones aprendidas** para los agentes que producen
 |---|---|---|
 | `guionista.md` | revisor-guion, revisor-video | guionista |
 | `generador-video.md` | revisor-video | generador-video |
+| `al-minuto.md` | monitoreador (métricas), coordinador | rutina Al minuto horario |
 | `buscador-temas.md` | revisor-guion, revisor-video, coordinador | buscador-temas |
 
 ## Formato de cada entrada

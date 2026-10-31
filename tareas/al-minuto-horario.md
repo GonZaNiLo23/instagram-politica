@@ -7,7 +7,7 @@ Decisión de la persona usuaria del 2026-10-29: cada hora se publica **directame
 - **Lanza el radar:** escribe la hora UTC actual en `cola/radar/pedir.txt`, haz commit ("Al minuto: pedir radar") y `git push` (con `git pull --rebase` si hace falta). Eso arranca `.github/workflows/al-minuto.yml`.
 - **Espera sus resultados:** cada 30 s, `git pull --rebase -q` y mira el campo `generado` de `estado/al-minuto/candidatos.json`. Sigue cuando sea posterior a la hora que escribiste en `pedir.txt` (suele tardar 6–9 min). Si a los 20 min no ha llegado, apunta "radar sin respuesta" en `estado/al-minuto/registro.md`, haz commit y push y termina.
 - Si no hay candidatos con `frases`, apunta "sin candidatos" en el registro y termina.
-- Lee: el bloque de decisiones del principio de `estilo/linea-editorial.md`, la sección "Formato Al minuto" de `estilo/guia-estilo.md`, `estado/vetos.md`, las últimas 30 líneas de `estado/al-minuto/registro.md`, y como ejemplo `videos/piezas/029-luto-oficial/escenas.json`.
+- Lee: el bloque de decisiones del principio de `estilo/linea-editorial.md`, la sección "Formato Al minuto" de `estilo/guia-estilo.md`, `estado/vetos.md`, las últimas 30 líneas de `estado/al-minuto/registro.md`, el resumen de reglas de `feedback/al-minuto.md` (lecciones de las métricas: síguelas al elegir y montar), y como ejemplo `videos/piezas/029-luto-oficial/escenas.json`.
 
 ## 1. Puntúa cada candidato (1–5)
 Suma de dos cosas, redondeada:

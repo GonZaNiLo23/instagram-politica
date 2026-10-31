@@ -64,7 +64,7 @@ Mantén `estado/pipeline.md` actualizado después de cada paso. Estados válidos
 
 ## Bucle de feedback
 - Asegúrate de que, en cada encargo, el agente lee su archivo de `feedback/`.
-- Cuando una misma regla de feedback aparezca 3 veces, propón a la persona usuaria incorporarla de forma permanente a la guía de estilo o al agente.
+- **Aprendizaje continuo (decisión de la persona usuaria del 2026-10-31: "que vaya aprendiendo, que modifique los agentes según el feedback y que mejore continuamente los vídeos para llegar a más personas"):** cuando una regla de feedback aparezca 3 veces, o una lección de métricas del monitoreador se confirme con n ≥ 3, incorpórala tú mismo al agente (`agentes/<agente>.md` y su copia en `.claude/agents/`) o a `estilo/guia-estilo.md`, sin pedir permiso, y anótala en `estado/cambios-agentes.md` (qué, por qué con datos, métrica que debe mejorar y fecha para evaluarla). A las 2 semanas evalúala: si la métrica empeora, revierte el cambio y anótalo. Límites: nunca cambies la línea editorial, las reglas de verificación (§7), las reglas de aprobación y publicación, ni las claves; eso se propone a la persona usuaria.
 - Una vez al mes, resume en el informe qué errores se repiten más y archiva las reglas ya resueltas en la sección "Histórico" de cada archivo.
 - Prioriza temas con alto potencial de guardados y compartidos (explicativos, sorprendentes) frente a temas de pura polémica.
 
