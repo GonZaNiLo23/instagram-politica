@@ -31,3 +31,4 @@
 - 2026-10-31 08:30 UTC · nota 2 · @partidopopular · descartado (testimonios ciudadanos sobre voluntariado sin contexto del suceso, sin frase política propia; no se entiende solo)
 - 2026-10-31 09:30 UTC · sin candidatos (radar generado 09:26 UTC, total_detectados: 0)
 - 2026-10-31 10:36 UTC · sin candidatos (radar generado 10:26 UTC, total_detectados: 0)
+- 2026-10-31 11:27 UTC · sin candidatos (radar generado 11:26 UTC, total_detectados: 0)
