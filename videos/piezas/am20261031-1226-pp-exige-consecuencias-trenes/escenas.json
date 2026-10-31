@@ -1,0 +1,85 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 25.2,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "sinVoz": true,
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 21.7,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 21.7,
+     "fundidoFin": 21.7
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "EL PP EXIGE CONSECUENCIAS TRAS LOS ACCIDENTES",
+     "fecha": "31 OCT",
+     "credito": "Vídeo: @partidopopular"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.04,
+       "fin": 4.3,
+       "texto": "En estos últimos 10 meses hemos tenido dos graves accidentes en España, en Adamuz"
+      },
+      {
+       "inicio": 4.72,
+       "fin": 7.5,
+       "texto": "y Urda, Toledo, con más de 100 fallecidos,"
+      },
+      {
+       "inicio": 7.5,
+       "fin": 10.04,
+       "texto": "y esto no se puede despachar diciendo que"
+      },
+      {
+       "inicio": 10.04,
+       "fin": 13.16,
+       "texto": "es una fatalidad o buscando una cabeza de turco."
+      },
+      {
+       "inicio": 13.42,
+       "fin": 16.9,
+       "texto": "Si el señor Sánchez ha reconocido"
+      },
+      {
+       "inicio": 16.9,
+       "fin": 20.42,
+       "texto": "que estos dos accidentes son inasumibles,"
+      },
+      {
+       "inicio": 20.42,
+       "fin": 21.5,
+       "texto": "esto tiene que tener consecuencias."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 21.7,
+   "fin": 25.2,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "El PP pide consecuencias por los dos accidentes ferroviarios",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ]
+}
