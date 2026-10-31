@@ -26,3 +26,4 @@
 - 2026-10-30 19:30 UTC · sin candidatos (radar generado 19:27 UTC, total_detectados: 0)
 - 2026-10-30 20:30 UTC · sin candidatos (radar generado 20:27 UTC, total_detectados: 0)
 - 2026-10-31 05:30 UTC · nota 2 · @alviseperez · descartado (acto en Canarias con intervenciones de asistentes, transcripción confusa, sin frase propia clara ni dato noticioso; tramo 41,8-53,2 s sobre subvenciones es de una asistente y no se entiende sin contexto)
+- 2026-10-31 06:28 UTC · sin candidatos (radar generado 06:27 UTC, total_detectados: 0)
