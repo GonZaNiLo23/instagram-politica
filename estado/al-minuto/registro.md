@@ -48,3 +48,4 @@
 - 2026-11-01 09:35 UTC · nota 2 · @vox_es (Abascal, luto y campaña) · descartado: mismo tema y mismo orador ya publicados en las últimas 6 h (07:27 y 08:27); suceso con víctimas, y la mención a 'organización criminal' y 'plañideras' no se puede contrastar en la autocomprobación
 - 2026-11-01 10:35 UTC · nota 4 · @vox_es (Abascal, remigración) · publicado am20261101-1027-abascal-remigracion (0-32,18 s; subtítulos literales cotejados con la transcripción; la 'estafa' y las ayudas se atribuyen a Abascal; omitido el caso de Vitoria por no verificable; otros candidatos: pensiones nota 3 y energía nota 2 descartados: 'carácter criminal' es acusación no contrastable, y solo una pieza por hora)
 - 2026-11-01 11:30 UTC · sin candidatos (radar generado 11:27 UTC, total_detectados: 0)
+- 2026-11-01 12:30 UTC · sin candidatos (radar generado 12:27 UTC, total_detectados: 0)
