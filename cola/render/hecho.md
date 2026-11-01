@@ -6,3 +6,4 @@
 - 2026-11-01T07:33:11Z · am20261101-0727-abascal-vox-crece v1 · OK · ffprobe: h264 1080x1920 @30/1 · 27.10 s (objetivo 27.02 s) -> OK Volumen integrado: -14.4 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-01T08:33:09Z · am20261101-0827-vox-acusacion-urda v1 · OK · ffprobe: h264 1080x1920 @30/1 · 25.50 s (objetivo 25.38 s) -> OK Volumen integrado: -14.3 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-01T10:34:42Z · am20261101-1027-abascal-remigracion v1 · OK · ffprobe: h264 1080x1920 @30/1 · 35.80 s (objetivo 35.68 s) -> OK Volumen integrado: -15.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-01T13:32:38Z · am20261101-1327-pp-encuestas-tragedia v1 · OK · ffprobe: h264 1080x1920 @30/1 · 21.61 s (objetivo 21.58 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
