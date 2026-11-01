@@ -1,0 +1,96 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 35.68,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "sinVoz": true,
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 32.18,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 32.18,
+     "fundidoFin": 32.18
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL EXPLICA QUÉ ENTIENDE POR REMIGRACIÓN",
+     "fecha": "1 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 3.4,
+       "texto": "Cuando hablamos de remigración nos\nreferimos"
+      },
+      {
+       "inicio": 3.4,
+       "fin": 6.1,
+       "texto": "a las personas que, aun estando legalmente\nen España,"
+      },
+      {
+       "inicio": 6.9,
+       "fin": 10.16,
+       "texto": "están viviendo de las ayudas sociales que\nhacen falta a los españoles."
+      },
+      {
+       "inicio": 10.4,
+       "fin": 13.6,
+       "texto": "Cuando uno emigra a un país y tiene un\npermiso de trabajo,"
+      },
+      {
+       "inicio": 14.42,
+       "fin": 18.5,
+       "texto": "cuando ese permiso de trabajo concluye, lo\nnormal es que se vayan del país"
+      },
+      {
+       "inicio": 18.5,
+       "fin": 20.26,
+       "texto": "No es normal que vivan de las ayudas\nsociales."
+      },
+      {
+       "inicio": 21.06,
+       "fin": 25.24,
+       "texto": "Eso demuestra la estafa de quienes nos\ndecían que venían a pagar las pensiones"
+      },
+      {
+       "inicio": 25.24,
+       "fin": 29.32,
+       "texto": "y resulta que no pagan exactamente las\npensiones, sino que reciben ayudas\nsociales"
+      },
+      {
+       "inicio": 29.32,
+       "fin": 32.18,
+       "texto": "que hacen falta a muchos españoles\nhumildes en estos momentos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 32.18,
+   "fin": 35.68,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal define la remigración como un asunto de ayudas sociales",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ]
+}
