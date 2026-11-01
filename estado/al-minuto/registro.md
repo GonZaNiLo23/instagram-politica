@@ -49,3 +49,4 @@
 - 2026-11-01 10:35 UTC · nota 4 · @vox_es (Abascal, remigración) · publicado am20261101-1027-abascal-remigracion (0-32,18 s; subtítulos literales cotejados con la transcripción; la 'estafa' y las ayudas se atribuyen a Abascal; omitido el caso de Vitoria por no verificable; otros candidatos: pensiones nota 3 y energía nota 2 descartados: 'carácter criminal' es acusación no contrastable, y solo una pieza por hora)
 - 2026-11-01 11:30 UTC · sin candidatos (radar generado 11:27 UTC, total_detectados: 0)
 - 2026-11-01 12:30 UTC · sin candidatos (radar generado 12:27 UTC, total_detectados: 0)
+- 2026-11-01 13:40 UTC · nota 4 · @partidopopular (acusación de encuestas sobre la tragedia ferroviaria) · publicado am20261101-1327-pp-encuestas-tragedia (0,14-13,34 + 42,8-47,68 s; 'patrónético'→patrón ético; la acusación se atribuye al PP en titular y post; omitidos los pasajes sobre Madrid-Barcelona y expertos por duración; último tema de trenes publicado 08:27, hace >4 h)

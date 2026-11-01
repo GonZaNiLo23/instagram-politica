@@ -1,0 +1,100 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 21.58,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 18.08,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "fundidoFin": 18.08,
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 18.08
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "EL PP DENUNCIA ENCUESTAS ELECTORALES SOBRE LA TRAGEDIA",
+     "fecha": "1 NOV",
+     "credito": "Vídeo: @partidopopular"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 2.18,
+       "texto": "Ahora sabemos que, en lugar de volcarse"
+      },
+      {
+       "inicio": 2.18,
+       "fin": 4.16,
+       "texto": "en las familias y con la seguridad ferroviaria,"
+      },
+      {
+       "inicio": 4.58,
+       "fin": 6.18,
+       "texto": "el Gobierno está haciendo encuestas para medir"
+      },
+      {
+       "inicio": 6.18,
+       "fin": 7.98,
+       "texto": "el impacto electoral de la tragedia."
+      },
+      {
+       "inicio": 8.66,
+       "fin": 9.78,
+       "texto": "¿Ese es su patrón ético?"
+      },
+      {
+       "inicio": 10.4,
+       "fin": 11.64,
+       "texto": "¿La responsabilidad llega solo"
+      },
+      {
+       "inicio": 11.64,
+       "fin": 13.2,
+       "texto": "si trae consigo rédito electoral?"
+      },
+      {
+       "inicio": 13.2,
+       "fin": 14.64,
+       "texto": "Yo creo que España merece un presidente"
+      },
+      {
+       "inicio": 14.64,
+       "fin": 16.3,
+       "texto": "al que le pese más el dolor de su país"
+      },
+      {
+       "inicio": 16.3,
+       "fin": 18.08,
+       "texto": "que el miedo a perder unas elecciones."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 18.08,
+   "fin": 21.58,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "El PP pide al Gobierno responsabilidad tras el accidente ferroviario",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

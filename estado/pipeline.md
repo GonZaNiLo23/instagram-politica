@@ -50,3 +50,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261101-0727-abascal-vox-crece | Al minuto: Abascal dice que Vox es el único gran partido que crece | publicando (Al minuto horario) |
 | am20261101-0827-vox-acusacion-urda | Al minuto: Abascal anuncia que Vox se personará como acusación en el accidente de Urda | publicando (Al minuto horario) |
 | am20261101-1027-abascal-remigracion | Al minuto: Abascal explica qué entiende Vox por remigración | publicando (Al minuto horario) |
+| am20261101-1327-pp-encuestas-tragedia | Al minuto: el PP acusa al Gobierno de encuestar el impacto electoral de la tragedia | publicando (Al minuto horario) |
