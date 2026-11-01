@@ -56,3 +56,4 @@
 - 2026-11-01 17:35 UTC · sin candidatos (radar generado 17:27 UTC, total_detectados: 0)
 - 2026-11-01 18:40 UTC · sin candidatos (radar generado 18:27 UTC, total_detectados: 0)
 - 2026-11-01 19:35 UTC · nota 2 · @santi_abascal (mitin Ávila, luto y campaña) · descartado: mismo tema y orador ya descartados a las 09:35 y cuarto reel de Abascal en el día (07:27, 08:27, 10:27); el pasaje del 'pato' y 'amigote' es acusación política de transcripción confusa, no contrastable; único candidato
+- 2026-11-01 20:30 UTC · sin candidatos (radar generado 20:27 UTC, total_detectados: 0)
