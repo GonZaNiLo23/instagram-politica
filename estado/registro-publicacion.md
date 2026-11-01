@@ -14,3 +14,5 @@
 - 2026-11-01T09:00:44.795Z · am20261101-0827-vox-acusacion-urda: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-01T11:00:46.593Z · am20261101-1027-abascal-remigracion v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfMkyRTjdgg/
 - 2026-11-01T11:00:50.421Z · am20261101-1027-abascal-remigracion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-01T14:00:42.926Z · am20261101-1327-pp-encuestas-tragedia v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfM5YlnjQ_J/
+- 2026-11-01T14:00:46.379Z · am20261101-1327-pp-encuestas-tragedia: TikTok en la bandeja de borradores (falta publicarlo desde la app)
