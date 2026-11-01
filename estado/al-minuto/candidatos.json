@@ -1,5 +1,779 @@
 {
- "generado": "2026-11-01T18:27:05.755Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-01T19:27:35.464Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-18636667810002596",
+   "fuente": "instagram",
+   "cuenta": "@santi_abascal",
+   "nombre": "🇪🇸 Santiago Abascal 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1624174,
+   "fecha": "2026-11-01T19:14:06+0000",
+   "horas": 0.2,
+   "me_gusta": 226,
+   "comentarios": 2,
+   "viral": 28.3,
+   "enlace": "https://www.instagram.com/reel/DfNdBG9IVPB/",
+   "texto": "\"Estamos hoy aquí, no para  hacer política, sino para hacer justicia\"\n¡GRACIAS ÁVILA ! #Ávila",
+   "credito": "Vídeo: @santi_abascal",
+   "duracion": 48.5,
+   "archivo": "ig-18636667810002596.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 4.44,
+     "texto": "Nosotros estamos hoy aquí precisamente, no para hacer política, como están diciendo algunos."
+    },
+    {
+     "inicio": 4.62,
+     "fin": 10.64,
+     "texto": "Estamos para hacer justicia, para no callar jamás, para no admitir que nos silencien"
+    },
+    {
+     "inicio": 10.64,
+     "fin": 15.78,
+     "texto": "y para decir que vamos a dejarnos la piel para que esto jamás vuelva a ocurrir en España."
+    },
+    {
+     "inicio": 17.56,
+     "fin": 23.06,
+     "texto": "Nos dicen que tenemos que callar por este accidente, que el luto significa silencio"
+    },
+    {
+     "inicio": 23.06,
+     "fin": 25.58,
+     "texto": "y nos están hablando de la guerra civil de hace un siglo."
+    },
+    {
+     "inicio": 25.9,
+     "fin": 29.14,
+     "texto": "Nos dicen que tenemos que callar y que el luto implica silencio."
+    },
+    {
+     "inicio": 29.14,
+     "fin": 33.4,
+     "texto": "Pero los mismos que montaron la que montaron por un perro que se llamaba Scalibur"
+    },
+    {
+     "inicio": 33.4,
+     "fin": 38.14,
+     "texto": "o el amigote de Óscar Muerte que ha puesto en Renfe que montó un lío porque había muerto un pato,"
+    },
+    {
+     "inicio": 38.16,
+     "fin": 41.86,
+     "texto": "un pato en el Manzanares, politizó eso y nos dicen que tenemos que callar"
+    },
+    {
+     "inicio": 41.86,
+     "fin": 47.48,
+     "texto": "ante 74 españoles que han muerto jamás, jamás."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "Nosotros",
+     "inicio": 0,
+     "fin": 0.34
+    },
+    {
+     "t": "estamos",
+     "inicio": 0.34,
+     "fin": 0.56
+    },
+    {
+     "t": "hoy",
+     "inicio": 0.56,
+     "fin": 0.78
+    },
+    {
+     "t": "aquí",
+     "inicio": 0.78,
+     "fin": 0.96
+    },
+    {
+     "t": "precisamente,",
+     "inicio": 0.96,
+     "fin": 1.4
+    },
+    {
+     "t": "no",
+     "inicio": 1.86,
+     "fin": 2.24
+    },
+    {
+     "t": "para",
+     "inicio": 2.24,
+     "fin": 2.38
+    },
+    {
+     "t": "hacer",
+     "inicio": 2.38,
+     "fin": 2.52
+    },
+    {
+     "t": "política,",
+     "inicio": 2.52,
+     "fin": 2.92
+    },
+    {
+     "t": "como",
+     "inicio": 3.36,
+     "fin": 3.6
+    },
+    {
+     "t": "están",
+     "inicio": 3.6,
+     "fin": 3.84
+    },
+    {
+     "t": "diciendo",
+     "inicio": 3.84,
+     "fin": 4.06
+    },
+    {
+     "t": "algunos.",
+     "inicio": 4.06,
+     "fin": 4.44
+    },
+    {
+     "t": "Estamos",
+     "inicio": 4.62,
+     "fin": 4.88
+    },
+    {
+     "t": "para",
+     "inicio": 4.88,
+     "fin": 5.44
+    },
+    {
+     "t": "hacer",
+     "inicio": 5.44,
+     "fin": 5.62
+    },
+    {
+     "t": "justicia,",
+     "inicio": 5.62,
+     "fin": 6.26
+    },
+    {
+     "t": "para",
+     "inicio": 6.48,
+     "fin": 6.64
+    },
+    {
+     "t": "no",
+     "inicio": 6.64,
+     "fin": 6.82
+    },
+    {
+     "t": "callar",
+     "inicio": 6.82,
+     "fin": 7.24
+    },
+    {
+     "t": "jamás,",
+     "inicio": 7.24,
+     "fin": 7.94
+    },
+    {
+     "t": "para",
+     "inicio": 8.4,
+     "fin": 8.58
+    },
+    {
+     "t": "no",
+     "inicio": 8.58,
+     "fin": 8.74
+    },
+    {
+     "t": "admitir",
+     "inicio": 8.74,
+     "fin": 9.32
+    },
+    {
+     "t": "que",
+     "inicio": 9.32,
+     "fin": 9.52
+    },
+    {
+     "t": "nos",
+     "inicio": 9.52,
+     "fin": 9.7
+    },
+    {
+     "t": "silencien",
+     "inicio": 9.7,
+     "fin": 10.64
+    },
+    {
+     "t": "y",
+     "inicio": 10.64,
+     "fin": 10.8
+    },
+    {
+     "t": "para",
+     "inicio": 10.8,
+     "fin": 10.96
+    },
+    {
+     "t": "decir",
+     "inicio": 10.96,
+     "fin": 11.24
+    },
+    {
+     "t": "que",
+     "inicio": 11.24,
+     "fin": 11.48
+    },
+    {
+     "t": "vamos",
+     "inicio": 11.48,
+     "fin": 11.7
+    },
+    {
+     "t": "a",
+     "inicio": 11.7,
+     "fin": 11.96
+    },
+    {
+     "t": "dejarnos",
+     "inicio": 11.96,
+     "fin": 12.26
+    },
+    {
+     "t": "la",
+     "inicio": 12.26,
+     "fin": 12.44
+    },
+    {
+     "t": "piel",
+     "inicio": 12.44,
+     "fin": 12.68
+    },
+    {
+     "t": "para",
+     "inicio": 12.68,
+     "fin": 13.22
+    },
+    {
+     "t": "que",
+     "inicio": 13.22,
+     "fin": 13.38
+    },
+    {
+     "t": "esto",
+     "inicio": 13.38,
+     "fin": 13.62
+    },
+    {
+     "t": "jamás",
+     "inicio": 13.62,
+     "fin": 14.14
+    },
+    {
+     "t": "vuelva",
+     "inicio": 14.14,
+     "fin": 14.72
+    },
+    {
+     "t": "a",
+     "inicio": 14.72,
+     "fin": 14.92
+    },
+    {
+     "t": "ocurrir",
+     "inicio": 14.92,
+     "fin": 15.22
+    },
+    {
+     "t": "en",
+     "inicio": 15.22,
+     "fin": 15.48
+    },
+    {
+     "t": "España.",
+     "inicio": 15.48,
+     "fin": 15.78
+    },
+    {
+     "t": "Nos",
+     "inicio": 17.56,
+     "fin": 18.04
+    },
+    {
+     "t": "dicen",
+     "inicio": 18.04,
+     "fin": 18.32
+    },
+    {
+     "t": "que",
+     "inicio": 18.32,
+     "fin": 18.56
+    },
+    {
+     "t": "tenemos",
+     "inicio": 18.56,
+     "fin": 18.88
+    },
+    {
+     "t": "que",
+     "inicio": 18.88,
+     "fin": 19.14
+    },
+    {
+     "t": "callar",
+     "inicio": 19.14,
+     "fin": 19.7
+    },
+    {
+     "t": "por",
+     "inicio": 19.7,
+     "fin": 20.08
+    },
+    {
+     "t": "este",
+     "inicio": 20.08,
+     "fin": 20.3
+    },
+    {
+     "t": "accidente,",
+     "inicio": 20.3,
+     "fin": 21.02
+    },
+    {
+     "t": "que",
+     "inicio": 21.18,
+     "fin": 21.68
+    },
+    {
+     "t": "el",
+     "inicio": 21.68,
+     "fin": 21.84
+    },
+    {
+     "t": "luto",
+     "inicio": 21.84,
+     "fin": 22.02
+    },
+    {
+     "t": "significa",
+     "inicio": 22.02,
+     "fin": 22.42
+    },
+    {
+     "t": "silencio",
+     "inicio": 22.42,
+     "fin": 23.06
+    },
+    {
+     "t": "y",
+     "inicio": 23.06,
+     "fin": 23.58
+    },
+    {
+     "t": "nos",
+     "inicio": 23.58,
+     "fin": 23.7
+    },
+    {
+     "t": "están",
+     "inicio": 23.7,
+     "fin": 23.92
+    },
+    {
+     "t": "hablando",
+     "inicio": 23.92,
+     "fin": 24.12
+    },
+    {
+     "t": "de",
+     "inicio": 24.12,
+     "fin": 24.38
+    },
+    {
+     "t": "la",
+     "inicio": 24.38,
+     "fin": 24.5
+    },
+    {
+     "t": "guerra",
+     "inicio": 24.5,
+     "fin": 24.68
+    },
+    {
+     "t": "civil",
+     "inicio": 24.68,
+     "fin": 24.92
+    },
+    {
+     "t": "de",
+     "inicio": 24.92,
+     "fin": 25.1
+    },
+    {
+     "t": "hace",
+     "inicio": 25.1,
+     "fin": 25.22
+    },
+    {
+     "t": "un",
+     "inicio": 25.22,
+     "fin": 25.32
+    },
+    {
+     "t": "siglo.",
+     "inicio": 25.32,
+     "fin": 25.58
+    },
+    {
+     "t": "Nos",
+     "inicio": 25.9,
+     "fin": 26.14
+    },
+    {
+     "t": "dicen",
+     "inicio": 26.14,
+     "fin": 26.38
+    },
+    {
+     "t": "que",
+     "inicio": 26.38,
+     "fin": 26.56
+    },
+    {
+     "t": "tenemos",
+     "inicio": 26.56,
+     "fin": 26.82
+    },
+    {
+     "t": "que",
+     "inicio": 26.82,
+     "fin": 27.02
+    },
+    {
+     "t": "callar",
+     "inicio": 27.02,
+     "fin": 27.36
+    },
+    {
+     "t": "y",
+     "inicio": 27.36,
+     "fin": 27.46
+    },
+    {
+     "t": "que",
+     "inicio": 27.46,
+     "fin": 27.54
+    },
+    {
+     "t": "el",
+     "inicio": 27.54,
+     "fin": 27.7
+    },
+    {
+     "t": "luto",
+     "inicio": 27.7,
+     "fin": 27.94
+    },
+    {
+     "t": "implica",
+     "inicio": 27.94,
+     "fin": 28.62
+    },
+    {
+     "t": "silencio.",
+     "inicio": 28.62,
+     "fin": 29.14
+    },
+    {
+     "t": "Pero",
+     "inicio": 29.14,
+     "fin": 29.26
+    },
+    {
+     "t": "los",
+     "inicio": 29.26,
+     "fin": 29.84
+    },
+    {
+     "t": "mismos",
+     "inicio": 29.84,
+     "fin": 30.16
+    },
+    {
+     "t": "que",
+     "inicio": 30.16,
+     "fin": 30.5
+    },
+    {
+     "t": "montaron",
+     "inicio": 30.5,
+     "fin": 30.92
+    },
+    {
+     "t": "la",
+     "inicio": 30.92,
+     "fin": 31.08
+    },
+    {
+     "t": "que",
+     "inicio": 31.08,
+     "fin": 31.2
+    },
+    {
+     "t": "montaron",
+     "inicio": 31.2,
+     "fin": 31.58
+    },
+    {
+     "t": "por",
+     "inicio": 31.58,
+     "fin": 31.78
+    },
+    {
+     "t": "un",
+     "inicio": 31.78,
+     "fin": 31.92
+    },
+    {
+     "t": "perro",
+     "inicio": 31.92,
+     "fin": 32.26
+    },
+    {
+     "t": "que",
+     "inicio": 32.26,
+     "fin": 32.32
+    },
+    {
+     "t": "se",
+     "inicio": 32.32,
+     "fin": 32.42
+    },
+    {
+     "t": "llamaba",
+     "inicio": 32.42,
+     "fin": 32.62
+    },
+    {
+     "t": "Scalibur",
+     "inicio": 32.62,
+     "fin": 33.4
+    },
+    {
+     "t": "o",
+     "inicio": 33.4,
+     "fin": 33.54
+    },
+    {
+     "t": "el",
+     "inicio": 33.54,
+     "fin": 33.66
+    },
+    {
+     "t": "amigote",
+     "inicio": 33.66,
+     "fin": 34.1
+    },
+    {
+     "t": "de",
+     "inicio": 34.1,
+     "fin": 34.28
+    },
+    {
+     "t": "Óscar",
+     "inicio": 34.28,
+     "fin": 34.58
+    },
+    {
+     "t": "Muerte",
+     "inicio": 34.58,
+     "fin": 34.98
+    },
+    {
+     "t": "que",
+     "inicio": 34.98,
+     "fin": 35.26
+    },
+    {
+     "t": "ha",
+     "inicio": 35.26,
+     "fin": 35.3
+    },
+    {
+     "t": "puesto",
+     "inicio": 35.3,
+     "fin": 35.44
+    },
+    {
+     "t": "en",
+     "inicio": 35.44,
+     "fin": 35.62
+    },
+    {
+     "t": "Renfe",
+     "inicio": 35.62,
+     "fin": 35.98
+    },
+    {
+     "t": "que",
+     "inicio": 35.98,
+     "fin": 36.26
+    },
+    {
+     "t": "montó",
+     "inicio": 36.26,
+     "fin": 36.6
+    },
+    {
+     "t": "un",
+     "inicio": 36.6,
+     "fin": 36.74
+    },
+    {
+     "t": "lío",
+     "inicio": 36.74,
+     "fin": 36.92
+    },
+    {
+     "t": "porque",
+     "inicio": 36.92,
+     "fin": 37.08
+    },
+    {
+     "t": "había",
+     "inicio": 37.08,
+     "fin": 37.26
+    },
+    {
+     "t": "muerto",
+     "inicio": 37.26,
+     "fin": 37.52
+    },
+    {
+     "t": "un",
+     "inicio": 37.52,
+     "fin": 37.66
+    },
+    {
+     "t": "pato,",
+     "inicio": 37.66,
+     "fin": 38.14
+    },
+    {
+     "t": "un",
+     "inicio": 38.16,
+     "fin": 38.48
+    },
+    {
+     "t": "pato",
+     "inicio": 38.48,
+     "fin": 38.86
+    },
+    {
+     "t": "en",
+     "inicio": 38.86,
+     "fin": 38.92
+    },
+    {
+     "t": "el",
+     "inicio": 38.92,
+     "fin": 38.98
+    },
+    {
+     "t": "Manzanares,",
+     "inicio": 38.98,
+     "fin": 39.56
+    },
+    {
+     "t": "politizó",
+     "inicio": 39.62,
+     "fin": 40.1
+    },
+    {
+     "t": "eso",
+     "inicio": 40.1,
+     "fin": 40.32
+    },
+    {
+     "t": "y",
+     "inicio": 40.32,
+     "fin": 40.62
+    },
+    {
+     "t": "nos",
+     "inicio": 40.62,
+     "fin": 40.74
+    },
+    {
+     "t": "dicen",
+     "inicio": 40.74,
+     "fin": 40.9
+    },
+    {
+     "t": "que",
+     "inicio": 40.9,
+     "fin": 41.06
+    },
+    {
+     "t": "tenemos",
+     "inicio": 41.06,
+     "fin": 41.26
+    },
+    {
+     "t": "que",
+     "inicio": 41.26,
+     "fin": 41.42
+    },
+    {
+     "t": "callar",
+     "inicio": 41.42,
+     "fin": 41.86
+    },
+    {
+     "t": "ante",
+     "inicio": 41.86,
+     "fin": 42.28
+    },
+    {
+     "t": "74",
+     "inicio": 42.28,
+     "fin": 42.9
+    },
+    {
+     "t": "españoles",
+     "inicio": 42.9,
+     "fin": 43.54
+    },
+    {
+     "t": "que",
+     "inicio": 43.54,
+     "fin": 43.68
+    },
+    {
+     "t": "han",
+     "inicio": 43.68,
+     "fin": 43.78
+    },
+    {
+     "t": "muerto",
+     "inicio": 43.78,
+     "fin": 44.1
+    },
+    {
+     "t": "jamás,",
+     "inicio": 44.1,
+     "fin": 45.3
+    },
+    {
+     "t": "jamás.",
+     "inicio": 45.46,
+     "fin": 47.48
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
