@@ -10,3 +10,5 @@
 - 2026-10-31T14:01:06.813Z · am20261031-1327-vox-querellas-delegado: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-01T08:00:43.865Z · am20261101-0727-abascal-vox-crece v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfMQL0OAZ2s/
 - 2026-11-01T08:00:46.801Z · am20261101-0727-abascal-vox-crece: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-01T09:00:41.738Z · am20261101-0827-vox-acusacion-urda v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfMXDYnEfrF/
+- 2026-11-01T09:00:44.795Z · am20261101-0827-vox-acusacion-urda: TikTok en la bandeja de borradores (falta publicarlo desde la app)
