@@ -54,3 +54,4 @@
 - 2026-11-01 15:35 UTC · nota 2 · @santi_abascal (mitin Santander 'Gracias Santander') · descartado: transcripción ininteligible, sin frase noticiosa clara; único candidato
 - 2026-11-01 16:35 UTC · sin candidatos (radar generado 16:27 UTC, total_detectados: 0)
 - 2026-11-01 17:35 UTC · sin candidatos (radar generado 17:27 UTC, total_detectados: 0)
+- 2026-11-01 18:40 UTC · sin candidatos (radar generado 18:27 UTC, total_detectados: 0)
