@@ -8,3 +8,5 @@
 - 2026-10-31T13:01:12.878Z · am20261031-1226-pp-exige-consecuencias-trenes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-10-31T14:01:02.394Z · am20261031-1327-vox-querellas-delegado v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfKUlx8jHUO/
 - 2026-10-31T14:01:06.813Z · am20261031-1327-vox-querellas-delegado: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-01T08:00:43.865Z · am20261101-0727-abascal-vox-crece v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfMQL0OAZ2s/
+- 2026-11-01T08:00:46.801Z · am20261101-0727-abascal-vox-crece: TikTok en la bandeja de borradores (falta publicarlo desde la app)
