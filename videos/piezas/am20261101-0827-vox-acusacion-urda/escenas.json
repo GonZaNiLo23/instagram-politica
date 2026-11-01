@@ -1,0 +1,90 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 25.38,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 21.88,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 21.88,
+     "fundidoFin": 21.88
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL: VOX SE PERSONARÁ COMO ACUSACIÓN",
+     "fecha": "1 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 3.5,
+       "texto": "Exijo conocer toda la verdad y exijo que esto lo conozcamos en sede judicial"
+      },
+      {
+       "inicio": 3.5,
+       "fin": 6.24,
+       "texto": "y desde luego Vox va a volver a personarse en este asunto"
+      },
+      {
+       "inicio": 6.84,
+       "fin": 9.18,
+       "texto": "como acusación para que podamos conocer toda la verdad,"
+      },
+      {
+       "inicio": 9.18,
+       "fin": 12.18,
+       "texto": "por eso ayer pedimos en primer lugar que se protegieran las pruebas"
+      },
+      {
+       "inicio": 12.18,
+       "fin": 14.92,
+       "texto": "que existieran del accidente, para que no tuviéramos"
+      },
+      {
+       "inicio": 14.92,
+       "fin": 17.08,
+       "texto": "que tener noticias de nuevo como las de Adamuz,"
+      },
+      {
+       "inicio": 17.08,
+       "fin": 20.5,
+       "texto": "donde se habían retirado del lugar del accidente"
+      },
+      {
+       "inicio": 20.5,
+       "fin": 21.88,
+       "texto": "elementos probatorios importantes."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 21.88,
+   "fin": 25.38,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Vox será acusación en el caso del accidente de Urda",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

@@ -48,3 +48,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261031-1226-pp-exige-consecuencias-trenes | Al minuto: el PP exige consecuencias tras los accidentes ferroviarios | publicando (Al minuto horario) |
 | am20261031-1327-vox-querellas-delegado | Al minuto: Vox ampliará querellas contra el delegado del Gobierno en Galicia | publicando (Al minuto horario) |
 | am20261101-0727-abascal-vox-crece | Al minuto: Abascal dice que Vox es el único gran partido que crece | publicando (Al minuto horario) |
+| am20261101-0827-vox-acusacion-urda | Al minuto: Abascal anuncia que Vox se personará como acusación en el accidente de Urda | publicando (Al minuto horario) |
