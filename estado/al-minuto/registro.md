@@ -53,3 +53,4 @@
 - 2026-11-01 14:35 UTC · nota 2 · @santi_abascal (mitin Zamora) · descartado: mitin genérico sin frase noticiosa propia ni dato nuevo (reel del 27-oct), tercer reel de Abascal en el día (07:27, 08:27, 10:27); único candidato
 - 2026-11-01 15:35 UTC · nota 2 · @santi_abascal (mitin Santander 'Gracias Santander') · descartado: transcripción ininteligible, sin frase noticiosa clara; único candidato
 - 2026-11-01 16:35 UTC · sin candidatos (radar generado 16:27 UTC, total_detectados: 0)
+- 2026-11-01 17:35 UTC · sin candidatos (radar generado 17:27 UTC, total_detectados: 0)
