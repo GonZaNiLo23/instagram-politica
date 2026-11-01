@@ -4,3 +4,4 @@
 - 2026-10-31T12:31:30Z · am20261031-1226-pp-exige-consecuencias-trenes v1 · OK · ffprobe: h264 1080x1920 @30/1 · 25.30 s (objetivo 25.2 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-10-31T13:36:02Z · am20261031-1327-vox-querellas-delegado v1 · OK · ffprobe: h264 1080x1920 @30/1 · 43.70 s (objetivo 43.6 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-01T07:33:11Z · am20261101-0727-abascal-vox-crece v1 · OK · ffprobe: h264 1080x1920 @30/1 · 27.10 s (objetivo 27.02 s) -> OK Volumen integrado: -14.4 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-01T08:33:09Z · am20261101-0827-vox-acusacion-urda v1 · OK · ffprobe: h264 1080x1920 @30/1 · 25.50 s (objetivo 25.38 s) -> OK Volumen integrado: -14.3 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
