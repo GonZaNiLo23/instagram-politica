@@ -42,3 +42,4 @@
 - 2026-10-31 19:30 UTC · nota 2 · @alviseperez (Alvise Pérez) · descartado: pelea personal con PP/Vox sobre supuestos bulos; no verificable en la autocomprobación (condena penal, donación de sueldos) y sin relevancia institucional pese a viral alto
 - 2026-10-31 20:36 UTC · sin candidatos (radar generado 20:27 UTC, total_detectados: 0)
 - 2026-11-01 05:35 UTC · sin candidatos (radar generado 05:26 UTC, total_detectados: 0)
+- 2026-11-01 06:37 UTC · sin candidatos (radar generado 06:26 UTC, total_detectados: 0)
