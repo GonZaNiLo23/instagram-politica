@@ -43,3 +43,4 @@
 - 2026-10-31 20:36 UTC · sin candidatos (radar generado 20:27 UTC, total_detectados: 0)
 - 2026-11-01 05:35 UTC · sin candidatos (radar generado 05:26 UTC, total_detectados: 0)
 - 2026-11-01 06:37 UTC · sin candidatos (radar generado 06:26 UTC, total_detectados: 0)
+- 2026-11-01 07:30 UTC · nota 4 · @vox_es (Abascal, entrevista El Mundo) · publicado am20261101-0727-abascal-vox-crece (44,2-67,72 s; la afirmación sobre encuestas se atribuye a Abascal; titular y post como declaración suya; subtítulos cotejados con la transcripción)

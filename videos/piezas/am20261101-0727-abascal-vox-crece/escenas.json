@@ -1,0 +1,85 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 27.02,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 23.52,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 23.52,
+     "fundidoFin": 23.52
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL: VOX, ÚNICO GRAN PARTIDO QUE CRECE",
+     "fecha": "1 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 4.4,
+       "texto": "Desde el 23 hasta ahora hay una coincidencia\nen casi todas las encuestas"
+      },
+      {
+       "inicio": 4.42,
+       "fin": 8.5,
+       "texto": "y es que Vox es el único de los grandes\npartidos que crece,"
+      },
+      {
+       "inicio": 8.5,
+       "fin": 10.4,
+       "texto": "y que crece mucho."
+      },
+      {
+       "inicio": 10.58,
+       "fin": 12.9,
+       "texto": "Y digo esto porque hay quienes\nestán diciendo"
+      },
+      {
+       "inicio": 12.9,
+       "fin": 15.1,
+       "texto": "que Sánchez tiene interés\nen que Vox crezca."
+      },
+      {
+       "inicio": 15.7,
+       "fin": 18.45,
+       "texto": "Me parece muy llamativo, porque\nel crecimiento de Vox"
+      },
+      {
+       "inicio": 19.18,
+       "fin": 23.52,
+       "texto": "es lo único que está asegurando en estos\nmomentos que haya una alternativa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 23.52,
+   "fin": 27.02,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal: el crecimiento de Vox asegura la alternativa",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

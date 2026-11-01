@@ -47,3 +47,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261030-1232-confianza-quebrada-ave | Al minuto: Gobierno admite confianza quebrada en alta velocidad | publicando (Al minuto horario) |
 | am20261031-1226-pp-exige-consecuencias-trenes | Al minuto: el PP exige consecuencias tras los accidentes ferroviarios | publicando (Al minuto horario) |
 | am20261031-1327-vox-querellas-delegado | Al minuto: Vox ampliará querellas contra el delegado del Gobierno en Galicia | publicando (Al minuto horario) |
+| am20261101-0727-abascal-vox-crece | Al minuto: Abascal dice que Vox es el único gran partido que crece | publicando (Al minuto horario) |
