@@ -51,3 +51,4 @@
 - 2026-11-01 12:30 UTC · sin candidatos (radar generado 12:27 UTC, total_detectados: 0)
 - 2026-11-01 13:40 UTC · nota 4 · @partidopopular (acusación de encuestas sobre la tragedia ferroviaria) · publicado am20261101-1327-pp-encuestas-tragedia (0,14-13,34 + 42,8-47,68 s; 'patrónético'→patrón ético; la acusación se atribuye al PP en titular y post; omitidos los pasajes sobre Madrid-Barcelona y expertos por duración; último tema de trenes publicado 08:27, hace >4 h)
 - 2026-11-01 14:35 UTC · nota 2 · @santi_abascal (mitin Zamora) · descartado: mitin genérico sin frase noticiosa propia ni dato nuevo (reel del 27-oct), tercer reel de Abascal en el día (07:27, 08:27, 10:27); único candidato
+- 2026-11-01 15:35 UTC · nota 2 · @santi_abascal (mitin Santander 'Gracias Santander') · descartado: transcripción ininteligible, sin frase noticiosa clara; único candidato
