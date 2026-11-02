@@ -38,6 +38,7 @@ Usa siempre la fecha actual en las búsquedas. Busca varias veces con formulacio
   4. ¿Es de hoy o de esta semana y ya se está hablando de ello en redes?
   5. ¿Se guarda o se manda por WhatsApp ("para la próxima discusión en la cena")?
   Referencias de la cuenta: lo que más funcionó fue la 002 (dato que choca + explicar algo que todos creen entender), la 009 (tema cotidiano con debate: 83 comentarios) y la 003 (curiosidad con cifra); lo que menos, temas complejos o lejanos sin número en el gancho (004, 005, 006). Mira siempre `estado/informe-rendimiento.md` antes de proponer.
+  **Actualidad de trámite** (votación, comparecencia o anuncio sin efecto en el día a día ni número que choque) rinde poco en la cuenta: 015, 024, 025 y 027 se quedaron en 270–700 visual. y la mediana de Actualidad es ≈ 360 (n = 10) frente a ≈ 1.800 de "Cómo funciona" (n = 6) y ≈ 1.780 de Curiosidad (n = 5) (revisión semanal 2026-11-02). Una propuesta de Actualidad necesita el sí en la pregunta 1 o en la 2 de potencial viral; si no lo tiene, conviértela en "Cómo funciona" (qué te pasa a ti: "¿Y si te toca mesa electoral?", 016) o déjala para Al minuto.
   Propón al menos 3 flashes (30–45 s, un dato curioso) por tanda, para comparar con las piezas largas.
 
 ## Entrega

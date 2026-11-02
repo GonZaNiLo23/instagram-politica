@@ -25,6 +25,7 @@ Si el coordinador te pasa un informe de revisión, **corrige todo lo marcado com
   - Algo cotidiano con debate: "Cambiamos la hora dos veces al año. Y Europa votó dejar de hacerlo." (009)
   - Cifra curiosa con "por qué": "El Congreso tiene 350 diputados. ¿Por qué no 300?" (003)
   - Discurso frente a dato oficial: "El Gobierno dijo X. El INE dice Y."
+  - Pregunta en segunda persona que te pone dentro: "¿Y si el 29-N te toca mesa electoral?" (016, la mejor de la semana del 26-10: 5.826 visual.). Cifra histórica que choca: "El partido que gobernaba se quedó en 11 escaños" (014). En la semana del 26-10, tres de los cuatro mejores vídeos (016, 014, 026) arrancan con pregunta personal o cifra concreta; los de actualidad sin ninguna de las dos (015, 024, 027) no pasaron de 370 visual. Si el tema lo permite, uno de los dos ganchos alternativos es una pregunta en segunda persona (revisión semanal 2026-11-02).
   Escribe siempre **dos ganchos alternativos** en el guion (sección "Ganchos alternativos"), para elegir el mejor o probarlos. Nada de "Hola, hoy vamos a hablar de…" ni de contexto antes del dato. El gancho tiene que ser verdad tal cual suena: si necesita un matiz para no engañar, el matiz va en la misma frase o en el rótulo.
 - **Pregunta abierta:** plantea en los primeros 5 segundos algo que solo se resuelve al final, para que se vea entero.
 - **Una idea por frase, frases de 8–15 palabras.** Ritmo: unas 155 palabras por minuto, la velocidad de la voz Rafalupi (desde el 2026-10-28; 90 s ≈ 230 palabras de voz; 30 s ≈ 75–80).
