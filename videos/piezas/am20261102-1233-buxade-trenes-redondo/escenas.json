@@ -1,0 +1,76 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 17.82,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 14.32,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 14.32,
+     "fundidoFin": 14.32
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "BUXADÉ RESPONDE A REDONDO SOBRE LOS TRENES",
+     "fecha": "2 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 1.9,
+       "texto": "No pretende ahora el señor Redondo"
+      },
+      {
+       "inicio": 1.9,
+       "fin": 4.7,
+       "texto": "o cualquiera otro echarle la responsabilidad a los españoles,"
+      },
+      {
+       "inicio": 4.8,
+       "fin": 7.28,
+       "texto": "es un discurso en el que parece que somos los españoles,"
+      },
+      {
+       "inicio": 7.32,
+       "fin": 9.66,
+       "texto": "lo que tenemos la responsabilidad ahora de resolver esto, no,"
+      },
+      {
+       "inicio": 9.96,
+       "fin": 14.32,
+       "texto": "los españoles lo que tenemos es la responsabilidad el día 29 de noviembre"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 14.32,
+   "fin": 17.82,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Buxadé responde a Redondo sobre el desastre ferroviario",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

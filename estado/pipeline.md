@@ -54,3 +54,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261101-1027-abascal-remigracion | Al minuto: Abascal explica qué entiende Vox por remigración | publicando (Al minuto horario) |
 | am20261101-1327-pp-encuestas-tragedia | Al minuto: el PP acusa al Gobierno de encuestar el impacto electoral de la tragedia | publicando (Al minuto horario) |
 | am20261102-1131-garriga-apagones | Al minuto: Garriga (Vox) culpa al PSOE de los apagones | publicando (Al minuto horario) |
+| am20261102-1233-buxade-trenes-redondo | Al minuto: Buxadé (Vox) responde a Redondo sobre los trenes | publicando (Al minuto horario) |
