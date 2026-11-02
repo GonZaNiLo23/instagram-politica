@@ -1,5 +1,729 @@
 {
- "generado": "2026-11-02T19:27:40.390Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-02T20:28:11.871Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-18131365318693197",
+   "fuente": "instagram",
+   "cuenta": "@gabrielrufian",
+   "nombre": "Gabriel Rufián",
+   "espacio": "otros",
+   "seguidores": 1033207,
+   "fecha": "2026-11-02T20:20:10+0000",
+   "horas": 0.1,
+   "me_gusta": 1124,
+   "comentarios": 46,
+   "viral": 235.4,
+   "enlace": "https://www.instagram.com/reel/DfQJkGSp3_7/",
+   "texto": "Esta ya me la sé.",
+   "credito": "Vídeo: @gabrielrufian",
+   "duracion": 51.4,
+   "archivo": "ig-18131365318693197.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 4.56,
+     "texto": "¿Ustedes dicen que van a expulsar a 8 millones de migrantes en este país y a sus hijos?"
+    },
+    {
+     "inicio": 5.3,
+     "fin": 6.3,
+     "texto": "También la mía mal, ¿no?"
+    },
+    {
+     "inicio": 7.74,
+     "fin": 9.26,
+     "texto": "También Nico Williams, ¿no?"
+    },
+    {
+     "inicio": 9.84,
+     "fin": 10.24,
+     "texto": "No creo."
+    },
+    {
+     "inicio": 11.2,
+     "fin": 17.84,
+     "texto": "Más allá de la broma, me tienen despistado porque no nos quieren a los indepes, porque"
+    },
+    {
+     "inicio": 17.84,
+     "fin": 23.12,
+     "texto": "no queremos ser españoles, tampoco quieren a los migrantes porque quieren ser españoles,"
+    },
+    {
+     "inicio": 23.78,
+     "fin": 24.86,
+     "texto": "entonces ¿ustedes a quiénes quieren?"
+    },
+    {
+     "inicio": 25.9,
+     "fin": 26.58,
+     "texto": "No quieren a nadie."
+    },
+    {
+     "inicio": 26.58,
+     "fin": 31.98,
+     "texto": "Pero les voy a decir algo, ustedes no van a expulsar a nadie, a nadie, y mucho menos"
+    },
+    {
+     "inicio": 31.98,
+     "fin": 36.56,
+     "texto": "a 8 millones de personas, primero porque si expusa a tanta gente al final va a tener que trabajar"
+    },
+    {
+     "inicio": 36.56,
+     "fin": 37.16,
+     "texto": "hasta Bascal."
+    },
+    {
+     "inicio": 39.11,
+     "fin": 47.88,
+     "texto": "Y segundo, y segundo, y segundo, porque ustedes no representan a sus migrantes,"
+    },
+    {
+     "inicio": 48.32,
+     "fin": 50.78,
+     "texto": "ustedes representan a los empresarios que les explotan."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "¿Ustedes",
+     "inicio": 0,
+     "fin": 0.3
+    },
+    {
+     "t": "dicen",
+     "inicio": 0.3,
+     "fin": 0.48
+    },
+    {
+     "t": "que",
+     "inicio": 0.48,
+     "fin": 0.62
+    },
+    {
+     "t": "van",
+     "inicio": 0.62,
+     "fin": 0.72
+    },
+    {
+     "t": "a",
+     "inicio": 0.72,
+     "fin": 0.84
+    },
+    {
+     "t": "expulsar",
+     "inicio": 0.84,
+     "fin": 1.18
+    },
+    {
+     "t": "a",
+     "inicio": 1.18,
+     "fin": 1.5
+    },
+    {
+     "t": "8",
+     "inicio": 1.5,
+     "fin": 1.84
+    },
+    {
+     "t": "millones",
+     "inicio": 1.84,
+     "fin": 2.1
+    },
+    {
+     "t": "de",
+     "inicio": 2.1,
+     "fin": 2.38
+    },
+    {
+     "t": "migrantes",
+     "inicio": 2.38,
+     "fin": 2.92
+    },
+    {
+     "t": "en",
+     "inicio": 2.92,
+     "fin": 3.06
+    },
+    {
+     "t": "este",
+     "inicio": 3.06,
+     "fin": 3.26
+    },
+    {
+     "t": "país",
+     "inicio": 3.26,
+     "fin": 3.54
+    },
+    {
+     "t": "y",
+     "inicio": 3.54,
+     "fin": 4.06
+    },
+    {
+     "t": "a",
+     "inicio": 4.06,
+     "fin": 4.12
+    },
+    {
+     "t": "sus",
+     "inicio": 4.12,
+     "fin": 4.28
+    },
+    {
+     "t": "hijos?",
+     "inicio": 4.28,
+     "fin": 4.56
+    },
+    {
+     "t": "También",
+     "inicio": 5.3,
+     "fin": 5.62
+    },
+    {
+     "t": "la",
+     "inicio": 5.62,
+     "fin": 5.74
+    },
+    {
+     "t": "mía",
+     "inicio": 5.74,
+     "fin": 5.9
+    },
+    {
+     "t": "mal,",
+     "inicio": 5.9,
+     "fin": 6.16
+    },
+    {
+     "t": "¿no?",
+     "inicio": 6.22,
+     "fin": 6.3
+    },
+    {
+     "t": "También",
+     "inicio": 7.74,
+     "fin": 8.06
+    },
+    {
+     "t": "Nico",
+     "inicio": 8.06,
+     "fin": 8.3
+    },
+    {
+     "t": "Williams,",
+     "inicio": 8.3,
+     "fin": 8.62
+    },
+    {
+     "t": "¿no?",
+     "inicio": 8.9,
+     "fin": 9.26
+    },
+    {
+     "t": "No",
+     "inicio": 9.84,
+     "fin": 10
+    },
+    {
+     "t": "creo.",
+     "inicio": 10,
+     "fin": 10.24
+    },
+    {
+     "t": "Más",
+     "inicio": 11.2,
+     "fin": 11.44
+    },
+    {
+     "t": "allá",
+     "inicio": 11.44,
+     "fin": 11.6
+    },
+    {
+     "t": "de",
+     "inicio": 11.6,
+     "fin": 11.72
+    },
+    {
+     "t": "la",
+     "inicio": 11.72,
+     "fin": 11.82
+    },
+    {
+     "t": "broma,",
+     "inicio": 11.82,
+     "fin": 12.16
+    },
+    {
+     "t": "me",
+     "inicio": 13.1,
+     "fin": 13.96
+    },
+    {
+     "t": "tienen",
+     "inicio": 13.96,
+     "fin": 14.12
+    },
+    {
+     "t": "despistado",
+     "inicio": 14.12,
+     "fin": 14.78
+    },
+    {
+     "t": "porque",
+     "inicio": 14.78,
+     "fin": 15.98
+    },
+    {
+     "t": "no",
+     "inicio": 15.98,
+     "fin": 16.36
+    },
+    {
+     "t": "nos",
+     "inicio": 16.36,
+     "fin": 16.56
+    },
+    {
+     "t": "quieren",
+     "inicio": 16.56,
+     "fin": 16.76
+    },
+    {
+     "t": "a",
+     "inicio": 16.76,
+     "fin": 16.92
+    },
+    {
+     "t": "los",
+     "inicio": 16.92,
+     "fin": 17
+    },
+    {
+     "t": "indepes,",
+     "inicio": 17,
+     "fin": 17.56
+    },
+    {
+     "t": "porque",
+     "inicio": 17.64,
+     "fin": 17.84
+    },
+    {
+     "t": "no",
+     "inicio": 17.84,
+     "fin": 17.96
+    },
+    {
+     "t": "queremos",
+     "inicio": 17.96,
+     "fin": 18.18
+    },
+    {
+     "t": "ser",
+     "inicio": 18.18,
+     "fin": 18.34
+    },
+    {
+     "t": "españoles,",
+     "inicio": 18.34,
+     "fin": 18.96
+    },
+    {
+     "t": "tampoco",
+     "inicio": 19.16,
+     "fin": 20.14
+    },
+    {
+     "t": "quieren",
+     "inicio": 20.14,
+     "fin": 20.44
+    },
+    {
+     "t": "a",
+     "inicio": 20.44,
+     "fin": 20.56
+    },
+    {
+     "t": "los",
+     "inicio": 20.56,
+     "fin": 20.64
+    },
+    {
+     "t": "migrantes",
+     "inicio": 20.64,
+     "fin": 21.38
+    },
+    {
+     "t": "porque",
+     "inicio": 21.38,
+     "fin": 22.16
+    },
+    {
+     "t": "quieren",
+     "inicio": 22.16,
+     "fin": 22.4
+    },
+    {
+     "t": "ser",
+     "inicio": 22.4,
+     "fin": 22.52
+    },
+    {
+     "t": "españoles,",
+     "inicio": 22.52,
+     "fin": 23.12
+    },
+    {
+     "t": "entonces",
+     "inicio": 23.78,
+     "fin": 24.08
+    },
+    {
+     "t": "¿ustedes",
+     "inicio": 24.08,
+     "fin": 24.4
+    },
+    {
+     "t": "a",
+     "inicio": 24.4,
+     "fin": 24.48
+    },
+    {
+     "t": "quiénes",
+     "inicio": 24.48,
+     "fin": 24.72
+    },
+    {
+     "t": "quieren?",
+     "inicio": 24.72,
+     "fin": 24.86
+    },
+    {
+     "t": "No",
+     "inicio": 25.9,
+     "fin": 26.12
+    },
+    {
+     "t": "quieren",
+     "inicio": 26.12,
+     "fin": 26.28
+    },
+    {
+     "t": "a",
+     "inicio": 26.28,
+     "fin": 26.4
+    },
+    {
+     "t": "nadie.",
+     "inicio": 26.4,
+     "fin": 26.58
+    },
+    {
+     "t": "Pero",
+     "inicio": 26.58,
+     "fin": 27.38
+    },
+    {
+     "t": "les",
+     "inicio": 27.38,
+     "fin": 27.5
+    },
+    {
+     "t": "voy",
+     "inicio": 27.5,
+     "fin": 27.62
+    },
+    {
+     "t": "a",
+     "inicio": 27.62,
+     "fin": 27.68
+    },
+    {
+     "t": "decir",
+     "inicio": 27.68,
+     "fin": 27.82
+    },
+    {
+     "t": "algo,",
+     "inicio": 27.82,
+     "fin": 28.08
+    },
+    {
+     "t": "ustedes",
+     "inicio": 28.2,
+     "fin": 28.4
+    },
+    {
+     "t": "no",
+     "inicio": 28.4,
+     "fin": 28.62
+    },
+    {
+     "t": "van",
+     "inicio": 28.62,
+     "fin": 28.72
+    },
+    {
+     "t": "a",
+     "inicio": 28.72,
+     "fin": 28.78
+    },
+    {
+     "t": "expulsar",
+     "inicio": 28.78,
+     "fin": 29.1
+    },
+    {
+     "t": "a",
+     "inicio": 29.1,
+     "fin": 29.16
+    },
+    {
+     "t": "nadie,",
+     "inicio": 29.16,
+     "fin": 29.44
+    },
+    {
+     "t": "a",
+     "inicio": 30.1,
+     "fin": 30.3
+    },
+    {
+     "t": "nadie,",
+     "inicio": 30.3,
+     "fin": 30.62
+    },
+    {
+     "t": "y",
+     "inicio": 31.34,
+     "fin": 31.5
+    },
+    {
+     "t": "mucho",
+     "inicio": 31.5,
+     "fin": 31.72
+    },
+    {
+     "t": "menos",
+     "inicio": 31.72,
+     "fin": 31.98
+    },
+    {
+     "t": "a",
+     "inicio": 31.98,
+     "fin": 32.42
+    },
+    {
+     "t": "8",
+     "inicio": 32.42,
+     "fin": 32.64
+    },
+    {
+     "t": "millones",
+     "inicio": 32.64,
+     "fin": 32.86
+    },
+    {
+     "t": "de",
+     "inicio": 32.86,
+     "fin": 33.06
+    },
+    {
+     "t": "personas,",
+     "inicio": 33.06,
+     "fin": 33.44
+    },
+    {
+     "t": "primero",
+     "inicio": 33.6,
+     "fin": 33.72
+    },
+    {
+     "t": "porque",
+     "inicio": 33.72,
+     "fin": 34.02
+    },
+    {
+     "t": "si",
+     "inicio": 34.02,
+     "fin": 34.2
+    },
+    {
+     "t": "expusa",
+     "inicio": 34.2,
+     "fin": 34.5
+    },
+    {
+     "t": "a",
+     "inicio": 34.5,
+     "fin": 34.6
+    },
+    {
+     "t": "tanta",
+     "inicio": 34.6,
+     "fin": 34.72
+    },
+    {
+     "t": "gente",
+     "inicio": 34.72,
+     "fin": 35.08
+    },
+    {
+     "t": "al",
+     "inicio": 35.08,
+     "fin": 35.2
+    },
+    {
+     "t": "final",
+     "inicio": 35.2,
+     "fin": 35.44
+    },
+    {
+     "t": "va",
+     "inicio": 35.44,
+     "fin": 36
+    },
+    {
+     "t": "a",
+     "inicio": 36,
+     "fin": 36.06
+    },
+    {
+     "t": "tener",
+     "inicio": 36.06,
+     "fin": 36.16
+    },
+    {
+     "t": "que",
+     "inicio": 36.16,
+     "fin": 36.28
+    },
+    {
+     "t": "trabajar",
+     "inicio": 36.28,
+     "fin": 36.56
+    },
+    {
+     "t": "hasta",
+     "inicio": 36.56,
+     "fin": 36.78
+    },
+    {
+     "t": "Bascal.",
+     "inicio": 36.78,
+     "fin": 37.16
+    },
+    {
+     "t": "Y",
+     "inicio": 39.11,
+     "fin": 39.35
+    },
+    {
+     "t": "segundo,",
+     "inicio": 39.35,
+     "fin": 39.73
+    },
+    {
+     "t": "y",
+     "inicio": 40.07,
+     "fin": 40.35
+    },
+    {
+     "t": "segundo,",
+     "inicio": 40.35,
+     "fin": 40.77
+    },
+    {
+     "t": "y",
+     "inicio": 42.96,
+     "fin": 43.54
+    },
+    {
+     "t": "segundo,",
+     "inicio": 43.54,
+     "fin": 43.92
+    },
+    {
+     "t": "porque",
+     "inicio": 44.42,
+     "fin": 45.36
+    },
+    {
+     "t": "ustedes",
+     "inicio": 45.36,
+     "fin": 45.66
+    },
+    {
+     "t": "no",
+     "inicio": 45.66,
+     "fin": 45.94
+    },
+    {
+     "t": "representan",
+     "inicio": 45.94,
+     "fin": 46.86
+    },
+    {
+     "t": "a",
+     "inicio": 46.86,
+     "fin": 47.08
+    },
+    {
+     "t": "sus",
+     "inicio": 47.08,
+     "fin": 47.2
+    },
+    {
+     "t": "migrantes,",
+     "inicio": 47.2,
+     "fin": 47.88
+    },
+    {
+     "t": "ustedes",
+     "inicio": 48.32,
+     "fin": 48.56
+    },
+    {
+     "t": "representan",
+     "inicio": 48.56,
+     "fin": 49.26
+    },
+    {
+     "t": "a",
+     "inicio": 49.26,
+     "fin": 49.3
+    },
+    {
+     "t": "los",
+     "inicio": 49.3,
+     "fin": 49.44
+    },
+    {
+     "t": "empresarios",
+     "inicio": 49.44,
+     "fin": 49.96
+    },
+    {
+     "t": "que",
+     "inicio": 49.96,
+     "fin": 50.1
+    },
+    {
+     "t": "les",
+     "inicio": 50.1,
+     "fin": 50.22
+    },
+    {
+     "t": "explotan.",
+     "inicio": 50.22,
+     "fin": 50.78
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
