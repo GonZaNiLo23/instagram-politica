@@ -68,3 +68,4 @@
 - 2026-11-02 11:45 UTC · nota 2 · @vox_es (Garriga, Ceuta) · descartado: léxico "invasores" sin contexto, riesgo de rigor
 - 2026-11-02 11:45 UTC · nota 2 · @vox_es (Garriga, 27 días) · descartado: mitin largo sin tramo autónomo claro
 - 2026-11-02 12:45 UTC · nota 3 · @vox_es (Buxadé responde a Redondo, trenes) · publicado am20261102-1233-buxade-trenes-redondo (35,62-49,94 s; subtítulos literales cotejados con la transcripción; omitido el pasaje con nombres mal transcritos; responsabilidad del Gobierno atribuida a Buxadé según el texto del reel; último tema de trenes hace >6 h; único candidato)
+- 2026-11-02 14:00 UTC · nota 2 · @sanchezcastejon (Sánchez, 'repensar Europa') · descartado: mensaje genérico de propaganda sin dato noticioso, alude a 'líderes' sin nombrar y a la 'internacional ultraderechista' (no contrastable); sin interés para nuestra audiencia pese a viral alto; único candidato
