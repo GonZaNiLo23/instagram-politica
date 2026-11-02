@@ -71,3 +71,4 @@
 - 2026-11-02 14:00 UTC · nota 2 · @sanchezcastejon (Sánchez, 'repensar Europa') · descartado: mensaje genérico de propaganda sin dato noticioso, alude a 'líderes' sin nombrar y a la 'internacional ultraderechista' (no contrastable); sin interés para nuestra audiencia pese a viral alto; único candidato
 - 2026-11-02 15:08 UTC · sin candidatos (radar sin resultados) · sin publicación
 - 2026-11-02 16:18 UTC · sin candidatos (radar sin resultados) · sin publicación
+- 2026-11-02 17:14 UTC · sin candidatos (radar sin resultados) · sin publicación
