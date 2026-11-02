@@ -1,5 +1,544 @@
 {
- "generado": "2026-11-02T13:31:35.768Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-02T13:56:26.985Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-18120956335964313",
+   "fuente": "instagram",
+   "cuenta": "@sanchezcastejon",
+   "nombre": "Pedro Sánchez",
+   "espacio": "otros",
+   "seguidores": 2325581,
+   "fecha": "2026-11-02T13:34:49+0000",
+   "horas": 0.4,
+   "me_gusta": 2537,
+   "comentarios": 276,
+   "viral": 265.7,
+   "enlace": "https://www.instagram.com/reel/DfPbLGbs8_7/",
+   "texto": "La internacional ultraderechista teje alianzas para debilitar Europa desde dentro.\n\nY nos recuerda que la democracia y los derechos humanos no son el final de una carrera ya ganada. Hay que luchar por ellos, día tras día.\n\nHay que repensar Europa para fortalecerla. Porque nuestro proyecto común sigue siendo un faro moral para la humanidad.",
+   "credito": "Vídeo: @sanchezcastejon",
+   "duracion": 42.7,
+   "archivo": "ig-18120956335964313.mp4",
+   "frases": [
+    {
+     "inicio": 3.6,
+     "fin": 5.86,
+     "texto": "Nuestra mayor fortaleza es la cooperación,"
+    },
+    {
+     "inicio": 6.28,
+     "fin": 8.84,
+     "texto": "también frente a quienes quieren fragmentarnos."
+    },
+    {
+     "inicio": 10.12,
+     "fin": 14.02,
+     "texto": "Por eso, no es que haya que repensar Europa para debilitarla,"
+    },
+    {
+     "inicio": 14.04,
+     "fin": 17.6,
+     "texto": "como desgraciadamente hay algunos líderes que están haciendo,"
+    },
+    {
+     "inicio": 18.66,
+     "fin": 20.76,
+     "texto": "hay que repensar Europa para fortalecerla."
+    },
+    {
+     "inicio": 21.12,
+     "fin": 22.96,
+     "texto": "Y nuestro proyecto común, por tanto,"
+    },
+    {
+     "inicio": 23.62,
+     "fin": 26.66,
+     "texto": "es saber que no está en decadencia, todo lo contrario."
+    },
+    {
+     "inicio": 27.2,
+     "fin": 31.18,
+     "texto": "Es un faro moral para la humanidad, es la única región en todo el mundo"
+    },
+    {
+     "inicio": 31.18,
+     "fin": 32.52,
+     "texto": "en la que los derechos humanos,"
+    },
+    {
+     "inicio": 33.07,
+     "fin": 36.56,
+     "texto": "los derechos en definitiva no compiten con la innovación y la competitividad,"
+    },
+    {
+     "inicio": 36.92,
+     "fin": 38.12,
+     "texto": "sino que caminan de la mano."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "Nuestra",
+     "inicio": 3.6,
+     "fin": 4.18
+    },
+    {
+     "t": "mayor",
+     "inicio": 4.18,
+     "fin": 4.5
+    },
+    {
+     "t": "fortaleza",
+     "inicio": 4.5,
+     "fin": 5.06
+    },
+    {
+     "t": "es",
+     "inicio": 5.06,
+     "fin": 5.16
+    },
+    {
+     "t": "la",
+     "inicio": 5.16,
+     "fin": 5.24
+    },
+    {
+     "t": "cooperación,",
+     "inicio": 5.24,
+     "fin": 5.86
+    },
+    {
+     "t": "también",
+     "inicio": 6.28,
+     "fin": 6.54
+    },
+    {
+     "t": "frente",
+     "inicio": 6.54,
+     "fin": 6.82
+    },
+    {
+     "t": "a",
+     "inicio": 6.82,
+     "fin": 7.06
+    },
+    {
+     "t": "quienes",
+     "inicio": 7.06,
+     "fin": 7.24
+    },
+    {
+     "t": "quieren",
+     "inicio": 7.24,
+     "fin": 7.62
+    },
+    {
+     "t": "fragmentarnos.",
+     "inicio": 7.62,
+     "fin": 8.84
+    },
+    {
+     "t": "Por",
+     "inicio": 10.12,
+     "fin": 10.68
+    },
+    {
+     "t": "eso,",
+     "inicio": 10.68,
+     "fin": 10.88
+    },
+    {
+     "t": "no",
+     "inicio": 11.2,
+     "fin": 11.38
+    },
+    {
+     "t": "es",
+     "inicio": 11.38,
+     "fin": 11.48
+    },
+    {
+     "t": "que",
+     "inicio": 11.48,
+     "fin": 11.56
+    },
+    {
+     "t": "haya",
+     "inicio": 11.56,
+     "fin": 11.68
+    },
+    {
+     "t": "que",
+     "inicio": 11.68,
+     "fin": 11.9
+    },
+    {
+     "t": "repensar",
+     "inicio": 11.9,
+     "fin": 12.64
+    },
+    {
+     "t": "Europa",
+     "inicio": 12.64,
+     "fin": 13.04
+    },
+    {
+     "t": "para",
+     "inicio": 13.04,
+     "fin": 13.38
+    },
+    {
+     "t": "debilitarla,",
+     "inicio": 13.38,
+     "fin": 14.02
+    },
+    {
+     "t": "como",
+     "inicio": 14.04,
+     "fin": 14.24
+    },
+    {
+     "t": "desgraciadamente",
+     "inicio": 14.24,
+     "fin": 15.2
+    },
+    {
+     "t": "hay",
+     "inicio": 15.2,
+     "fin": 15.6
+    },
+    {
+     "t": "algunos",
+     "inicio": 15.6,
+     "fin": 16.22
+    },
+    {
+     "t": "líderes",
+     "inicio": 16.22,
+     "fin": 16.72
+    },
+    {
+     "t": "que",
+     "inicio": 16.72,
+     "fin": 16.82
+    },
+    {
+     "t": "están",
+     "inicio": 16.82,
+     "fin": 17.32
+    },
+    {
+     "t": "haciendo,",
+     "inicio": 17.32,
+     "fin": 17.6
+    },
+    {
+     "t": "hay",
+     "inicio": 18.66,
+     "fin": 18.8
+    },
+    {
+     "t": "que",
+     "inicio": 18.8,
+     "fin": 18.92
+    },
+    {
+     "t": "repensar",
+     "inicio": 18.92,
+     "fin": 19.38
+    },
+    {
+     "t": "Europa",
+     "inicio": 19.38,
+     "fin": 19.64
+    },
+    {
+     "t": "para",
+     "inicio": 19.64,
+     "fin": 19.92
+    },
+    {
+     "t": "fortalecerla.",
+     "inicio": 19.92,
+     "fin": 20.76
+    },
+    {
+     "t": "Y",
+     "inicio": 21.12,
+     "fin": 21.2
+    },
+    {
+     "t": "nuestro",
+     "inicio": 21.2,
+     "fin": 21.36
+    },
+    {
+     "t": "proyecto",
+     "inicio": 21.36,
+     "fin": 21.76
+    },
+    {
+     "t": "común,",
+     "inicio": 21.76,
+     "fin": 22.14
+    },
+    {
+     "t": "por",
+     "inicio": 22.5,
+     "fin": 22.68
+    },
+    {
+     "t": "tanto,",
+     "inicio": 22.68,
+     "fin": 22.96
+    },
+    {
+     "t": "es",
+     "inicio": 23.62,
+     "fin": 23.76
+    },
+    {
+     "t": "saber",
+     "inicio": 23.76,
+     "fin": 23.96
+    },
+    {
+     "t": "que",
+     "inicio": 23.96,
+     "fin": 24.36
+    },
+    {
+     "t": "no",
+     "inicio": 24.36,
+     "fin": 24.56
+    },
+    {
+     "t": "está",
+     "inicio": 24.56,
+     "fin": 24.84
+    },
+    {
+     "t": "en",
+     "inicio": 24.84,
+     "fin": 25
+    },
+    {
+     "t": "decadencia,",
+     "inicio": 25,
+     "fin": 25.6
+    },
+    {
+     "t": "todo",
+     "inicio": 25.9,
+     "fin": 26.1
+    },
+    {
+     "t": "lo",
+     "inicio": 26.1,
+     "fin": 26.26
+    },
+    {
+     "t": "contrario.",
+     "inicio": 26.26,
+     "fin": 26.66
+    },
+    {
+     "t": "Es",
+     "inicio": 27.2,
+     "fin": 27.44
+    },
+    {
+     "t": "un",
+     "inicio": 27.44,
+     "fin": 27.7
+    },
+    {
+     "t": "faro",
+     "inicio": 27.7,
+     "fin": 28.06
+    },
+    {
+     "t": "moral",
+     "inicio": 28.06,
+     "fin": 28.82
+    },
+    {
+     "t": "para",
+     "inicio": 28.82,
+     "fin": 29.2
+    },
+    {
+     "t": "la",
+     "inicio": 29.2,
+     "fin": 29.32
+    },
+    {
+     "t": "humanidad,",
+     "inicio": 29.32,
+     "fin": 29.68
+    },
+    {
+     "t": "es",
+     "inicio": 29.7,
+     "fin": 29.88
+    },
+    {
+     "t": "la",
+     "inicio": 29.88,
+     "fin": 29.98
+    },
+    {
+     "t": "única",
+     "inicio": 29.98,
+     "fin": 30.22
+    },
+    {
+     "t": "región",
+     "inicio": 30.22,
+     "fin": 30.58
+    },
+    {
+     "t": "en",
+     "inicio": 30.58,
+     "fin": 30.72
+    },
+    {
+     "t": "todo",
+     "inicio": 30.72,
+     "fin": 30.86
+    },
+    {
+     "t": "el",
+     "inicio": 30.86,
+     "fin": 31
+    },
+    {
+     "t": "mundo",
+     "inicio": 31,
+     "fin": 31.18
+    },
+    {
+     "t": "en",
+     "inicio": 31.18,
+     "fin": 31.32
+    },
+    {
+     "t": "la",
+     "inicio": 31.32,
+     "fin": 31.42
+    },
+    {
+     "t": "que",
+     "inicio": 31.42,
+     "fin": 31.52
+    },
+    {
+     "t": "los",
+     "inicio": 31.52,
+     "fin": 31.66
+    },
+    {
+     "t": "derechos",
+     "inicio": 31.66,
+     "fin": 31.94
+    },
+    {
+     "t": "humanos,",
+     "inicio": 31.94,
+     "fin": 32.52
+    },
+    {
+     "t": "los",
+     "inicio": 33.07,
+     "fin": 33.32
+    },
+    {
+     "t": "derechos",
+     "inicio": 33.32,
+     "fin": 33.6
+    },
+    {
+     "t": "en",
+     "inicio": 33.6,
+     "fin": 33.78
+    },
+    {
+     "t": "definitiva",
+     "inicio": 33.78,
+     "fin": 34.26
+    },
+    {
+     "t": "no",
+     "inicio": 34.26,
+     "fin": 34.36
+    },
+    {
+     "t": "compiten",
+     "inicio": 34.36,
+     "fin": 34.78
+    },
+    {
+     "t": "con",
+     "inicio": 34.78,
+     "fin": 34.94
+    },
+    {
+     "t": "la",
+     "inicio": 34.94,
+     "fin": 35.06
+    },
+    {
+     "t": "innovación",
+     "inicio": 35.06,
+     "fin": 35.5
+    },
+    {
+     "t": "y",
+     "inicio": 35.5,
+     "fin": 35.58
+    },
+    {
+     "t": "la",
+     "inicio": 35.58,
+     "fin": 35.68
+    },
+    {
+     "t": "competitividad,",
+     "inicio": 35.68,
+     "fin": 36.56
+    },
+    {
+     "t": "sino",
+     "inicio": 36.92,
+     "fin": 37.2
+    },
+    {
+     "t": "que",
+     "inicio": 37.2,
+     "fin": 37.34
+    },
+    {
+     "t": "caminan",
+     "inicio": 37.34,
+     "fin": 37.72
+    },
+    {
+     "t": "de",
+     "inicio": 37.72,
+     "fin": 37.8
+    },
+    {
+     "t": "la",
+     "inicio": 37.8,
+     "fin": 37.9
+    },
+    {
+     "t": "mano.",
+     "inicio": 37.9,
+     "fin": 38.12
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
