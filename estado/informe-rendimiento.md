@@ -1,75 +1,82 @@
-# Informe de rendimiento 2026-11-01 (domingo)
+# Informe de rendimiento 2026-11-02 (lunes)
 
-**Fuente:** `publicado/metricas-api/2026-10-31.json` (API de Instagram, leído el 31-10 a las 13:50 UTC). **No existe `2026-11-01.json`** (último commit de `origin/main` a las 08:33 UTC): se usa el más reciente, con edades a ese corte. Faltan las piezas publicadas después del corte (entre ellas los Al minuto del 1-11). **TikTok no está en la API: n/d.** No se estima nada.
+**Fuente:** `publicado/metricas-api/2026-11-01.json` (API de Instagram, leído el 1-11 a las 14:29 UTC). **No existe `2026-11-02.json`** (último commit de `origin/main` a las 08:33 UTC): se usa el más reciente, con edades a ese corte. Faltan las piezas publicadas después (030 de las 19:00 del 1-11, Al minuto posteriores a las 15:00 y todo el 2-11). **TikTok no está en la API: n/d.** No se estima nada.
 
 ## Resumen
-- **Funciona (indicios):** siguen en cabeza 002 (D'Hondt, 8.671 visual., 39 s medios, 10,8 guard.+comp. por 1.000) y 016 (5.797, 25,1 s). 020 (Junta Electoral Central) a 25 h: **1.013 visual., 21,3 s**, buen arranque para un "Cómo funciona" de las 13:30. 009 sigue con el mejor ratio (20,0) y 018 (10,7).
-- **No funciona:** Al minuto (am-Alvise 224, am-Abascal 190, am-AVE 200 visual. a ≥ 25 h; n = 3): 0 guardados/compartidos, 7–14 s. 007 (Constitución) a 3 h: 205 visual. y 7,7 s (edad corta, pendiente). 015 (5,1 s), 004, 005, 024 y el carrusel 011 (26) siguen bajos.
-- **Probar:** gancho/portada de 027 (72,8 s de tiempo medio, 363 visual.). La franja de 19:00 se agota a las ~24 h (014: 3.563 → 3.576 en 24 h; 018 y 012 también casi planos).
+- **Funciona (indicios):** 002 (D'Hondt, 8.692 visual., 39 s) y 016 (5.826) siguen en cabeza. 017 (Midterms, 19:00) a 20 h: **1.429 visual., 48,6 s de tiempo medio, 6,3 guard.+comp. por 1.000** y 50 likes: el mejor arranque de las últimas piezas. 009 (20,0) y 018 (10,7) mantienen los mejores ratios.
+- **Cambio en Al minuto (indicios, n = 2):** los dos clips de Abascal/Vox del 1-11 por la mañana despegan con edad corta: **am-Abascal Vox crece** (08:00, 6 h) 1.272 visual., 26 likes y **37 comentarios**; **am-Remigración** (12:00, 3 h) 640 visual., 17 likes, 7 comentarios, 3 compartidos. Los otros Al minuto (am-AVE, am-PP trenes, am-Buxadé, am-Alvise, am-Abascal dimisión, am-Vox Urda; n = 6) siguen en ≈ 175–230 visual. sin guardados. Lo que parece separar: tema polémico/identitario (Vox, inmigración) frente a trámite o crónica. Comparar a ≥ 24 h antes de concluir.
+- **No funciona:** 028 (dos cifras de paro, flash) a 3 h: 182 visual., 7,8 s (edad corta, pendiente); 015, 004, 005, 024, 027 (363 visual. a pesar de 72,8 s de tiempo medio) y el carrusel 011 (26) siguen bajos.
+- **Crecimiento (alerta):** IG **49** seguidores; el hito de 1.000 del **2-11 (hoy) no se alcanza**. Ver sección de seguidores.
 
 ## Seguidores
-- Instagram: **46** (API, 31-10 13:50 UTC). Ayer 43: **+3**. Desde el 25-10 (23): +23 en 6 días ≈ 3,8/día. Ganados por Reel: la API no los da (`follows` = null).
-- TikTok: n/d (último: 40 el 27-10). Suma no calculable; con el dato antiguo serían 86.
+- Instagram: **49** (API, 1-11 14:29 UTC). Ayer 46: **+3**. Desde el 25-10 (23): +26 en 7 días ≈ 3,7/día. Ganados por Reel: la API no los da (`follows` = null).
+- TikTok: n/d (último: 40 el 27-10). Suma no calculable; con el dato antiguo serían 89.
+- Ruta al hito de 1.000 (interpolación geométrica 23 → 1.000, 26-10 → 2-11): ≈ 583 a 1-11; IG = **8 %** de la ruta. Hito 1.000: faltan 951 en el día de la fecha objetivo → **fallado**. Para el siguiente hito (10.000 el 16-11) harían falta ≈ 710/día frente a ≈ 3,7/día reales.
 
-## Tabla por pieza (Instagram, corte 31-10 13:50 UTC; orden por visualizaciones)
+## Tabla por pieza (Instagram, corte 1-11 14:29 UTC; orden por visualizaciones)
 | Nº | Edad | Visual. | Alcance | T. medio | Guard.+comp. por 1.000 | Guard.+comp. | Likes | Coment. |
 |---|---|---|---|---|---|---|---|---|
-| 002 | 189 h | 8.671 | 6.993 | 39,0 s | 10,8 | 62+32 | 105 | 2 |
-| 016 | 116 h | 5.797 | 4.980 | 25,1 s | 7,1 | 23+18 | 67 | 2 |
-| 014 | 68 h | 3.576 | 2.942 | 16,6 s | 2,2 | 8+0 | 37 | 2 |
-| 003 | 172 h | 3.439 | 2.796 | 19,4 s | 2,3 | 4+4 | 28 | 2 |
-| 009 | 198 h | 2.353 | 1.835 | 45,5 s | 20,0 | 11+36 | 72 | 13 |
-| 026 | 73 h | 2.311 | 2.046 | 22,9 s | 6,1 | 3+11 | 35 | 1 |
-| 012 | 44 h | 1.988 | 1.725 | 30,3 s | 3,5 | 6+1 | 20 | 1 |
-| 001 | 140 h | 1.921 | 1.643 | 21,3 s | 4,2 | 7+1 | 48 | 0 |
-| 013 | 92 h | 1.795 | 1.575 | 28,8 s | 3,3 | 6+0 | 21 | 1 |
-| 022 | 167 h | 1.782 | 1.575 | 11,6 s | 5,1 | 7+2 | 44 | 0 |
-| 023 | 165 h | 1.737 | 1.518 | 13,1 s | 1,7 | 3+0 | 37 | 0 |
-| 018 | 49 h | 1.587 | 1.372 | 15,9 s | 10,7 | 7+10 | 14 | 0 |
-| 010 | 194 h | 1.029 | 875 | 13,3 s | 4,9 | 0+5 | 11 | 0 |
-| 020 | 25 h | 1.013 | 900 | 21,3 s | 2,0 | 2+0 | 22 | 0 |
-| 008 | 147 h | 837 | 726 | 18,1 s | 2,4 | 2+0 | 8 | 0 |
-| 025 | 101 h | 699 | 604 | 23,4 s | 1,4 | 1+0 | 4 | 0 |
-| 021 | 97 h | 635 | 535 | 10,6 s | 6,3 | 2+2 | 8 | 0 |
-| 006 | 213 h | 427 | 379 | 22,0 s | 0,0 | 0+0 | 9 | 0 |
-| 027 | 66 h | 363 | 308 | 72,8 s | 0,0 | 0+0 | 3 | 1 |
-| 024 | 143 h | 272 | 244 | 12,6 s | 7,4 | 0+2 | 2 | 0 |
-| 015 | 53 h | 266 | 246 | 5,1 s | 0,0 | 0+0 | 3 | 0 |
-| am-Alvise | 46 h | 224 | 181 | 13,6 s | 0,0 | 0+0 | 1 | 0 |
-| 007 | 3 h | 205 | 178 | 7,7 s | 0,0 | 0+0 | 3 | 0 |
-| am-AVE | 25 h | 200 | 171 | 12,6 s | 0,0 | 0+0 | 0 | 0 |
-| am-Abascal | 41 h | 190 | 174 | 7,0 s | 0,0 | 0+0 | 2 | 0 |
-| 005 | 191 h | 179 | 163 | 13,1 s | 0,0 | 0+0 | 1 | 0 |
-| am-PP trenes | 1 h | 48 | 0 | 5,5 s | 0,0 | 0+0 | 0 | 0 |
-| 004 | 261 h | 39 | 32 | 10,2 s | 0,0 | 0+0 | 2 | 0 |
-| 011 | 73 h | 26 | 11 | n/d | 0,0 | 0+0 | 2 | 0 |
+| 002 | 213 h | 8.692 | 7.020 | 39,0 s | 10,9 | 63+32 | 105 | 2 |
+| 016 | 140 h | 5.826 | 5.003 | 25,1 s | 7,0 | 23+18 | 67 | 2 |
+| 014 | 92 h | 3.592 | 2.963 | 16,6 s | 2,5 | 9+0 | 37 | 2 |
+| 003 | 196 h | 3.440 | 2.797 | 19,4 s | 2,3 | 4+4 | 28 | 2 |
+| 009 | 222 h | 2.357 | 1.842 | 45,4 s | 19,9 | 11+36 | 72 | 13 |
+| 026 | 98 h | 2.311 | 2.046 | 22,9 s | 6,1 | 3+11 | 35 | 1 |
+| 012 | 68 h | 1.993 | 1.730 | 30,4 s | 3,5 | 6+1 | 20 | 1 |
+| 001 | 164 h | 1.921 | 1.643 | 21,3 s | 4,2 | 7+1 | 48 | 0 |
+| 013 | 116 h | 1.796 | 1.575 | 28,9 s | 3,3 | 6+0 | 21 | 1 |
+| 022 | 192 h | 1.782 | 1.575 | 11,6 s | 5,1 | 7+2 | 44 | 0 |
+| 023 | 189 h | 1.737 | 1.518 | 13,1 s | 1,7 | 3+0 | 37 | 0 |
+| 007 | 27 h | 1.649 | 1.379 | 16,7 s | 1,8 | 3+0 | 32 | 1 |
+| 018 | 74 h | 1.595 | 1.380 | 15,9 s | 10,7 | 7+10 | 14 | 0 |
+| 017 | 20 h | 1.429 | 1.206 | 48,6 s | 6,3 | 5+4 | 50 | 1 |
+| am-Abascal Vox crece | 6 h | 1.272 | 1.059 | 12,4 s | 0,0 | 0+0 | 26 | 37 |
+| 010 | 219 h | 1.029 | 875 | 13,3 s | 4,9 | 0+5 | 11 | 0 |
+| 020 | 50 h | 1.017 | 906 | 21,2 s | 2,0 | 2+0 | 22 | 0 |
+| 008 | 171 h | 837 | 726 | 18,1 s | 2,4 | 2+0 | 8 | 0 |
+| 025 | 126 h | 699 | 604 | 23,4 s | 1,4 | 1+0 | 4 | 0 |
+| am-Remigración | 3 h | 640 | 459 | 14,0 s | 4,7 | 0+3 | 17 | 7 |
+| 021 | 122 h | 635 | 535 | 10,6 s | 6,3 | 2+2 | 8 | 0 |
+| 006 | 237 h | 427 | 379 | 22,0 s | 0,0 | 0+0 | 9 | 0 |
+| 027 | 90 h | 363 | 308 | 72,8 s | 0,0 | 0+0 | 3 | 1 |
+| 024 | 168 h | 272 | 244 | 12,6 s | 7,4 | 0+2 | 2 | 0 |
+| 015 | 77 h | 267 | 246 | 5,1 s | 0,0 | 0+0 | 3 | 0 |
+| am-Vox Urda | 5 h | 230 | 207 | 8,5 s | 0,0 | 0+0 | 3 | 0 |
+| am-Alvise | 70 h | 227 | 184 | 13,5 s | 0,0 | 0+0 | 1 | 0 |
+| am-AVE | 49 h | 206 | 175 | 12,3 s | 0,0 | 0+0 | 0 | 0 |
+| am-Abascal dimisión | 65 h | 190 | 174 | 7,0 s | 0,0 | 0+0 | 2 | 0 |
+| am-PP trenes | 25 h | 188 | 170 | 6,7 s | 0,0 | 0+0 | 3 | 0 |
+| 028 | 3 h | 182 | 163 | 7,8 s | 0,0 | 0+0 | 0 | 0 |
+| 005 | 216 h | 179 | 163 | 13,1 s | 0,0 | 0+0 | 1 | 0 |
+| am-Buxadé querellas | 24 h | 175 | 155 | 12,9 s | 0,0 | 0+0 | 5 | 0 |
+| 004 | 285 h | 40 | 33 | 10,0 s | 0,0 | 0+0 | 2 | 0 |
+| 011 | 98 h | 26 | 11 | n/d | 0,0 | 0+0 | 2 | 0 |
+| am-PP encuestas | 0 h | 5 | 0 | 19,3 s | — | — | 0 | 0 |
 
-Retención a 3 s, % visto y seguidores ganados por pieza no vienen en la API: n/d. 007 (3 h) y am-PP trenes (1 h) tienen edad muy corta: no comparables. Total de las 29 publicaciones: 43.609 visualizaciones.
+Retención a 3 s, % visto y seguidores ganados por pieza no están en la API: n/d. 028, am-Remigración, am-Vox Urda, am-Abascal Vox crece y am-PP encuestas tienen edad muy corta: no comparables con el resto. Total de las 36 publicaciones: 49.226 visualizaciones.
 
 ## Ranking (indicios; n por grupo)
-- **Pilar, mediana de visualizaciones (piezas > 24 h):** Cómo funciona 1.795 (001, 002, 006, 013, 020, 021; n = 6; de 427 a 8.671) ≈ Curiosidad 1.782 (003, 010, 014, 022, 023; n = 5) > Datos y mitos 1.587–1.988 (008, 012, 018; n = 3) > Actualidad 363 (004, 005, 009, 015, 016, 024, 025, 026, 027; n = 9; de 39 a 5.797). Actualidad, el pilar más irregular.
-- **Al minuto (n = 3 con ≥ 25 h, sin revisores):** mediana 200 visual.; 0 guardados/compartidos; 7–14 s. Muy por debajo de los vídeos del pipeline a edades comparables. Indicio, no conclusión: no suman alcance ni conversión por ahora.
-- **Hora (Madrid):** 19:00 (001, 002, 013, 014, 016, 023, 012; n = 7) mediana ≈ 1.990 frente a 13:30 (010, 018, 020, 021, 026; n = 5) ≈ 1.010 y mañana 08–11 h (003, 009, 015, 025; n = 4) ≈ 1.500. La franja de 19:00 sigue siendo la mejor.
-- **Tiempo medio:** 009 (45,5 s) y 002 (39 s) con mayores guard.+comp. por 1.000; 018 (15,9 s) logra 10,7 con tiempo normal; 027 (72,8 s) sigue sin guardados ni compartidos.
+- **Al minuto (n = 9):** mediana ≈ 200 visual. y 0 guardados; las dos excepciones (Abascal Vox crece, Remigración) son clips de Vox sobre posición propia/inmigración, de mañana o mediodía. Indicio de que el tema y la polémica pesan más que la hora; n = 2, a confirmar.
+- **Hora (Madrid), piezas del pipeline:** 19:00 sigue siendo la mejor franja (001, 002, 012, 013, 014, 016, 017, 023; n = 8, mediana ≈ 1.900) frente a 13:30 (018, 020, 021, 026; n = 4, ≈ 1.300) y mañana 08–12 h (003, 007, 009, 015, 025, 028; n = 6, ≈ 1.200 con 007 y 009 a favor).
+- **Pilar (mediana de visual., piezas > 24 h):** Cómo funciona ≈ 1.800 (001, 002, 006, 013, 020, 021; n = 6), Curiosidad ≈ 1.780 (003, 010, 014, 022, 023; n = 5), Datos y mitos ≈ 1.600 (008, 012, 018; n = 3), Actualidad ≈ 363 (n = 10, muy irregular: 016 y 026 altos, 015/024/025/027 bajos).
+- **Tiempo medio:** 017 (48,6 s), 009 y 002 combinan retención alta con guardados/compartidos; 027 (72,8 s) sigue sin conversión.
 - **Pregunta A/B:** no calculable con la API (no da seguidores por pieza).
 
-## Recomendaciones
-1. Más "Cómo funciona" con ejemplo numérico o decisión del espectador (002, 016, 018, 020; n = 4).
-2. Datos y mitos de decisión práctica ("¿qué pasa con mi voto?") parecen compartirse más (018, 009; n = 2).
-3. Evitar actualidad "de trámite" (015: 5,1 s) y reservar las 19:00 a las piezas con más recorrido.
-4. Revisar el gancho/portada de 027: buen contenido (72,8 s) con mala captación.
-5. Valorar con la persona usuaria si 1 "Al minuto" por hora compensa: ~200 visual. cada uno sin interacciones (n = 3). Medir cuándo haya más piezas con ≥ 24 h si suman seguidores.
+## Seguimiento de crecimiento (resumen; detalle en `estado/plan-crecimiento.md`)
+- Hito 1.000 (2-11): **no alcanzado**, IG 49. Ritmo medio 3,7/día. La regla de alerta del plan (dos semanas seguidas por debajo de la mitad de la ruta) **se cumple** en IG (22 % el 31-10, 14 % el 1-11, 8 % hoy): el coordinador debe proponer hoy a la persona usuaria un cambio de estrategia y recalibrar fechas (revisión de los lunes).
+- **Qué viraliza (lunes; piezas publicadas del 26-10 al 1-11, por visualizaciones):** 1) 016 mesa electoral 29-N, 5.826 visual., 25,1 s, 7,0 guard.+comp. por 1.000, «¿Y si el 29-N te toca mesa electoral?»; 2) 014 el 28-O de 1982, 3.592, 16,6 s, «El partido que gobernaba se quedó en 11 escaños»; 3) 026 choque de trenes en Urda, 2.311, 22,9 s, «Choque de trenes en Urda: lo confirmado y…». Seguidores ganados por pieza: n/d (la API no los da). En común (n = 3): tres de los cuatro mejores arrancan con una pregunta personal o una cifra concreta, se publican en 13:30 o 19:00 y mezclan Actualidad con "Cómo funciona"/datos. Con n = 3, indicio.
 
-## Plan de crecimiento
-- IG 46, TikTok n/d. Hito de 1.000 mañana (2-11): faltan 954 frente a ≈ 3,8/día de media desde el 25-10. Ruta geométrica IG (23 el 26-10 → 1.000 el 2-11): ≈ 340 el 31-10; la cuenta está al ≈ 14 % de la ruta. No es alcanzable: recalibrar fechas en la revisión del lunes (2-11). La alerta de estrategia (≤ 50 % de la ruta durante ≥ 2 semanas) queda para esa revisión.
-- Seguidores por 1.000 visualizaciones: +23 seguidores / 43.609 visual. acumuladas ≈ 0,5 por 1.000 (aprox.). Cuello de botella: alcance y conversión.
-- (La sección "qué viraliza" se añade el lunes; hoy es domingo.)
+## Recomendaciones
+1. Más "Cómo funciona" con decisión del espectador o ejemplo numérico (002, 016, 018, 020, 017; n = 5).
+2. Pruebas de Al minuto con material de posición política firme de los líderes (Vox, PP) frente a crónica de trámite; leer a 24 h antes de decidir (n = 2 de 9).
+3. Reservar las 19:00 a las piezas con más recorrido (017, 014, 016 muestran techo alto) y evitar actualidad "de trámite" (015, 024).
+4. Gancho/portada de 027 (72,8 s de tiempo medio, 363 visual.) a revisar.
+5. 028 (flash de cifras, 3 h): reevaluar el 3-11 a edad comparable antes de repetir el formato.
 
 ## Lecciones de las métricas
-- Ninguna regla nueva: Al minuto ya está registrada como indicio en `feedback/al-minuto.md` (2026-10-31); hoy se actualiza con las cifras de 25–46 h (n = 3, 190–224 visual., 0 interacciones). No hay otro patrón con n ≥ 3 nuevo.
+Ninguna regla nueva en `feedback/`: el patrón Al minuto/Vox es n = 2 y a edades distintas del resto (3–6 h).
 
 ## Alertas
-- **Falta `2026-11-01.json`** (y el 31-10 se leyó a las 13:50 UTC, no a las 08:30 Madrid): comprobar `metricas.yml`. Se ha usado el más reciente.
-- Piezas de `publicado/` que no aparecen en la API a este corte: `am20261031-1327-vox-querellas-delegado` (esperada hacia las 13:27–14:27) y los dos Al minuto del 1-11 (07:27, 08:27, posteriores al corte). Comprobar que la primera se publicó realmente.
-- Comentarios: la API da solo el recuento (009: 13; 026, 027, 012, 013: 1). No se ha podido comprobar ningún posible error de datos.
-- Se hunden: 015, Al minuto (3 piezas), 004, 005, 024, 011. Se estancan: 014, 012, 018. Sin caída de seguidores en IG.
+- Hito de 1.000 seguidores fallado (49, ritmo 3,7/día): decisión de estrategia pendiente.
+- am-Abascal Vox crece: 37 comentarios en 6 h. Los comentarios no se leen aquí (la API no los da con texto); el coordinador puede revisar si señalan errores de datos o debate sensible.
+- Falta el JSON del día por cuarto día seguido (el workflow de las 08:30 no ha dejado `2026-11-02.json`): conviene revisar el workflow.
