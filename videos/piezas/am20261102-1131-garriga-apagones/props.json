@@ -1,0 +1,91 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 23.44,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 19.94,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 19.94,
+          "fundidoFin": 19.94
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "GARRIGA CULPA AL PSOE DE LOS APAGONES",
+          "fecha": "2 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.7,
+              "texto": "Y el apagón en La Palma es un signo más"
+            },
+            {
+              "inicio": 2.7,
+              "fin": 5.38,
+              "texto": "de lo que ha traído el Gobierno del Partido Socialista."
+            },
+            {
+              "inicio": 5.76,
+              "fin": 8.16,
+              "texto": "El Partido Socialista se lo ha cargado absolutamente todo."
+            },
+            {
+              "inicio": 8.62,
+              "fin": 11.6,
+              "texto": "Hace años era imposible asistir a apagones"
+            },
+            {
+              "inicio": 11.6,
+              "fin": 14.2,
+              "texto": "y el Partido Socialista ha convertido en normal"
+            },
+            {
+              "inicio": 14.2,
+              "fin": 16.48,
+              "texto": "los apagones en España."
+            },
+            {
+              "inicio": 17,
+              "fin": 19.94,
+              "texto": "El Partido Socialista ha traído la tercermundización."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 19.94,
+      "fin": 23.44,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Garriga (Vox) responsabiliza al PSOE de los apagones",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261102-1131-garriga-apagones",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
