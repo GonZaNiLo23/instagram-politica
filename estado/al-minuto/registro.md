@@ -63,3 +63,7 @@
 - 2026-11-02 08:35 UTC · sin candidatos (radar generado 08:32 UTC, total_detectados: 0)
 - 2026-11-02 09:40 UTC · sin candidatos (radar generado 09:27 UTC, total_detectados: 0)
 - 2026-11-02 10:30 UTC · sin candidatos (radar generado 10:27 UTC, total_detectados: 0)
+- 2026-11-02 11:45 UTC · nota 3 · @vox_es (Garriga, apagones) · publicado am20261102-1131-garriga-apagones
+- 2026-11-02 11:45 UTC · nota 2 · @psoe (servicios públicos) · descartado: mensaje genérico sin noticia, propaganda
+- 2026-11-02 11:45 UTC · nota 2 · @vox_es (Garriga, Ceuta) · descartado: léxico "invasores" sin contexto, riesgo de rigor
+- 2026-11-02 11:45 UTC · nota 2 · @vox_es (Garriga, 27 días) · descartado: mitin largo sin tramo autónomo claro
