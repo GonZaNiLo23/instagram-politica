@@ -16,3 +16,5 @@
 - 2026-11-01T11:00:50.421Z · am20261101-1027-abascal-remigracion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-01T14:00:42.926Z · am20261101-1327-pp-encuestas-tragedia v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfM5YlnjQ_J/
 - 2026-11-01T14:00:46.379Z · am20261101-1327-pp-encuestas-tragedia: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-02T12:00:45.585Z · am20261102-1131-garriga-apagones v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfPQckpjqgt/
+- 2026-11-02T12:00:49.555Z · am20261102-1131-garriga-apagones: TikTok en la bandeja de borradores (falta publicarlo desde la app)
