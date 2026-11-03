@@ -1,5 +1,2982 @@
 {
- "generado": "2026-11-03T14:28:32.224Z",
- "total_detectados": 1,
- "candidatos": []
+ "generado": "2026-11-03T15:28:50.032Z",
+ "total_detectados": 3,
+ "candidatos": [
+  {
+   "id": "ig-17975084937160307",
+   "fuente": "instagram",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1244767,
+   "fecha": "2026-11-03T15:09:19+0000",
+   "horas": 0.3,
+   "me_gusta": 96,
+   "comentarios": 3,
+   "viral": 16.4,
+   "enlace": "https://www.instagram.com/reel/DfSKuoFuYOr/",
+   "texto": "🔴 garriga_ignacio exige responsabilidades a Óscar Puente tras la tragedia de Urda:\n\n“Debería, en primer lugar, pedir perdón, decir que se marcha a su casa y que se va a poner a disposición judicial”.",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 64.9,
+   "archivo": "ig-17975084937160307.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 3.9,
+     "texto": "El ministro Puente, en la comparecencia que tiene hoy en el Congreso de los Diputados,"
+    },
+    {
+     "inicio": 4.52,
+     "fin": 8.14,
+     "texto": "debería, en primer lugar, pedir perdón, decir que se marcha a su casa"
+    },
+    {
+     "inicio": 8.14,
+     "fin": 10.22,
+     "texto": "y que se va a poner a disposición judicial."
+    },
+    {
+     "inicio": 10.66,
+     "fin": 13.94,
+     "texto": "Todo lo que puede explicar hoy el ministro Puente o el Partido Socialista,"
+    },
+    {
+     "inicio": 14.1,
+     "fin": 18.28,
+     "texto": "sea el presidente del Gobierno o cualquier portavoz del Partido Socialista,"
+    },
+    {
+     "inicio": 18.6,
+     "fin": 20.96,
+     "texto": "es insultar al conjunto de los españoles"
+    },
+    {
+     "inicio": 21.47,
+     "fin": 25.06,
+     "texto": "y pisotear la memoria de las víctimas de Urda o Adamuz."
+    },
+    {
+     "inicio": 25.8,
+     "fin": 30.94,
+     "texto": "No queremos las migajas en forma de decretos y millones de euros del Partido Socialista."
+    },
+    {
+     "inicio": 31.28,
+     "fin": 35,
+     "texto": "Lo que queremos son unas infraestructuras que tengan el mantenimiento que merecen"
+    },
+    {
+     "inicio": 35,
+     "fin": 38.84,
+     "texto": "el dinero que le han negado durante estos años y que ha llevado"
+    },
+    {
+     "inicio": 38.84,
+     "fin": 42.2,
+     "texto": "a la tercera bundización del sistema ferroviario español."
+    },
+    {
+     "inicio": 42.82,
+     "fin": 46.58,
+     "texto": "Luego, no queremos los planteamientos ni del señor Puente ni del señor Sánchez."
+    },
+    {
+     "inicio": 46.68,
+     "fin": 49.1,
+     "texto": "Sabemos que ellos son los principales responsables"
+    },
+    {
+     "inicio": 49.56,
+     "fin": 53.08,
+     "texto": "de que hayan muerto personas en Urda, de que hayan muerto personas en Adamuz"
+    },
+    {
+     "inicio": 53.08,
+     "fin": 57.34,
+     "texto": "y de que hoy el sistema de alta velocidad español,"
+    },
+    {
+     "inicio": 57.74,
+     "fin": 63.04,
+     "texto": "que era envidia del mundo, sea hoy el peor y el que más víctimas mortales"
+    },
+    {
+     "inicio": 63.04,
+     "fin": 64.56,
+     "texto": "acumula de toda Europa."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "El",
+     "inicio": 0,
+     "fin": 0.22
+    },
+    {
+     "t": "ministro",
+     "inicio": 0.22,
+     "fin": 0.54
+    },
+    {
+     "t": "Puente,",
+     "inicio": 0.54,
+     "fin": 0.88
+    },
+    {
+     "t": "en",
+     "inicio": 0.96,
+     "fin": 1.04
+    },
+    {
+     "t": "la",
+     "inicio": 1.04,
+     "fin": 1.1
+    },
+    {
+     "t": "comparecencia",
+     "inicio": 1.1,
+     "fin": 1.56
+    },
+    {
+     "t": "que",
+     "inicio": 1.56,
+     "fin": 1.7
+    },
+    {
+     "t": "tiene",
+     "inicio": 1.7,
+     "fin": 1.88
+    },
+    {
+     "t": "hoy",
+     "inicio": 1.88,
+     "fin": 2.2
+    },
+    {
+     "t": "en",
+     "inicio": 2.2,
+     "fin": 2.5
+    },
+    {
+     "t": "el",
+     "inicio": 2.5,
+     "fin": 2.6
+    },
+    {
+     "t": "Congreso",
+     "inicio": 2.6,
+     "fin": 2.96
+    },
+    {
+     "t": "de",
+     "inicio": 2.96,
+     "fin": 3.14
+    },
+    {
+     "t": "los",
+     "inicio": 3.14,
+     "fin": 3.32
+    },
+    {
+     "t": "Diputados,",
+     "inicio": 3.32,
+     "fin": 3.9
+    },
+    {
+     "t": "debería,",
+     "inicio": 4.52,
+     "fin": 4.98
+    },
+    {
+     "t": "en",
+     "inicio": 5.04,
+     "fin": 5.08
+    },
+    {
+     "t": "primer",
+     "inicio": 5.08,
+     "fin": 5.28
+    },
+    {
+     "t": "lugar,",
+     "inicio": 5.28,
+     "fin": 5.52
+    },
+    {
+     "t": "pedir",
+     "inicio": 5.8,
+     "fin": 5.98
+    },
+    {
+     "t": "perdón,",
+     "inicio": 5.98,
+     "fin": 6.46
+    },
+    {
+     "t": "decir",
+     "inicio": 6.94,
+     "fin": 7.12
+    },
+    {
+     "t": "que",
+     "inicio": 7.12,
+     "fin": 7.32
+    },
+    {
+     "t": "se",
+     "inicio": 7.32,
+     "fin": 7.46
+    },
+    {
+     "t": "marcha",
+     "inicio": 7.46,
+     "fin": 7.78
+    },
+    {
+     "t": "a",
+     "inicio": 7.78,
+     "fin": 7.86
+    },
+    {
+     "t": "su",
+     "inicio": 7.86,
+     "fin": 7.94
+    },
+    {
+     "t": "casa",
+     "inicio": 7.94,
+     "fin": 8.14
+    },
+    {
+     "t": "y",
+     "inicio": 8.14,
+     "fin": 8.68
+    },
+    {
+     "t": "que",
+     "inicio": 8.68,
+     "fin": 8.8
+    },
+    {
+     "t": "se",
+     "inicio": 8.8,
+     "fin": 8.98
+    },
+    {
+     "t": "va",
+     "inicio": 8.98,
+     "fin": 9.08
+    },
+    {
+     "t": "a",
+     "inicio": 9.08,
+     "fin": 9.12
+    },
+    {
+     "t": "poner",
+     "inicio": 9.12,
+     "fin": 9.28
+    },
+    {
+     "t": "a",
+     "inicio": 9.28,
+     "fin": 9.42
+    },
+    {
+     "t": "disposición",
+     "inicio": 9.42,
+     "fin": 9.88
+    },
+    {
+     "t": "judicial.",
+     "inicio": 9.88,
+     "fin": 10.22
+    },
+    {
+     "t": "Todo",
+     "inicio": 10.66,
+     "fin": 10.82
+    },
+    {
+     "t": "lo",
+     "inicio": 10.82,
+     "fin": 10.98
+    },
+    {
+     "t": "que",
+     "inicio": 10.98,
+     "fin": 11.06
+    },
+    {
+     "t": "puede",
+     "inicio": 11.06,
+     "fin": 11.22
+    },
+    {
+     "t": "explicar",
+     "inicio": 11.22,
+     "fin": 11.58
+    },
+    {
+     "t": "hoy",
+     "inicio": 11.58,
+     "fin": 11.78
+    },
+    {
+     "t": "el",
+     "inicio": 11.78,
+     "fin": 12.06
+    },
+    {
+     "t": "ministro",
+     "inicio": 12.06,
+     "fin": 12.44
+    },
+    {
+     "t": "Puente",
+     "inicio": 12.44,
+     "fin": 12.8
+    },
+    {
+     "t": "o",
+     "inicio": 12.8,
+     "fin": 13
+    },
+    {
+     "t": "el",
+     "inicio": 13,
+     "fin": 13.12
+    },
+    {
+     "t": "Partido",
+     "inicio": 13.12,
+     "fin": 13.38
+    },
+    {
+     "t": "Socialista,",
+     "inicio": 13.38,
+     "fin": 13.94
+    },
+    {
+     "t": "sea",
+     "inicio": 14.1,
+     "fin": 14.38
+    },
+    {
+     "t": "el",
+     "inicio": 14.38,
+     "fin": 14.84
+    },
+    {
+     "t": "presidente",
+     "inicio": 14.84,
+     "fin": 15.08
+    },
+    {
+     "t": "del",
+     "inicio": 15.08,
+     "fin": 15.26
+    },
+    {
+     "t": "Gobierno",
+     "inicio": 15.26,
+     "fin": 15.66
+    },
+    {
+     "t": "o",
+     "inicio": 15.66,
+     "fin": 16.24
+    },
+    {
+     "t": "cualquier",
+     "inicio": 16.24,
+     "fin": 16.52
+    },
+    {
+     "t": "portavoz",
+     "inicio": 16.52,
+     "fin": 17.1
+    },
+    {
+     "t": "del",
+     "inicio": 17.1,
+     "fin": 17.46
+    },
+    {
+     "t": "Partido",
+     "inicio": 17.46,
+     "fin": 17.72
+    },
+    {
+     "t": "Socialista,",
+     "inicio": 17.72,
+     "fin": 18.28
+    },
+    {
+     "t": "es",
+     "inicio": 18.6,
+     "fin": 18.84
+    },
+    {
+     "t": "insultar",
+     "inicio": 18.84,
+     "fin": 19.54
+    },
+    {
+     "t": "al",
+     "inicio": 19.54,
+     "fin": 20.02
+    },
+    {
+     "t": "conjunto",
+     "inicio": 20.02,
+     "fin": 20.32
+    },
+    {
+     "t": "de",
+     "inicio": 20.32,
+     "fin": 20.46
+    },
+    {
+     "t": "los",
+     "inicio": 20.46,
+     "fin": 20.5
+    },
+    {
+     "t": "españoles",
+     "inicio": 20.5,
+     "fin": 20.96
+    },
+    {
+     "t": "y",
+     "inicio": 21.47,
+     "fin": 21.74
+    },
+    {
+     "t": "pisotear",
+     "inicio": 21.74,
+     "fin": 22.36
+    },
+    {
+     "t": "la",
+     "inicio": 22.36,
+     "fin": 22.66
+    },
+    {
+     "t": "memoria",
+     "inicio": 22.66,
+     "fin": 23.02
+    },
+    {
+     "t": "de",
+     "inicio": 23.02,
+     "fin": 23.16
+    },
+    {
+     "t": "las",
+     "inicio": 23.16,
+     "fin": 23.28
+    },
+    {
+     "t": "víctimas",
+     "inicio": 23.28,
+     "fin": 23.68
+    },
+    {
+     "t": "de",
+     "inicio": 23.68,
+     "fin": 23.94
+    },
+    {
+     "t": "Urda",
+     "inicio": 23.94,
+     "fin": 24.28
+    },
+    {
+     "t": "o",
+     "inicio": 24.28,
+     "fin": 24.7
+    },
+    {
+     "t": "Adamuz.",
+     "inicio": 24.7,
+     "fin": 25.06
+    },
+    {
+     "t": "No",
+     "inicio": 25.8,
+     "fin": 26.08
+    },
+    {
+     "t": "queremos",
+     "inicio": 26.08,
+     "fin": 26.44
+    },
+    {
+     "t": "las",
+     "inicio": 26.44,
+     "fin": 27.02
+    },
+    {
+     "t": "migajas",
+     "inicio": 27.02,
+     "fin": 27.62
+    },
+    {
+     "t": "en",
+     "inicio": 27.62,
+     "fin": 27.98
+    },
+    {
+     "t": "forma",
+     "inicio": 27.98,
+     "fin": 28.18
+    },
+    {
+     "t": "de",
+     "inicio": 28.18,
+     "fin": 28.84
+    },
+    {
+     "t": "decretos",
+     "inicio": 28.84,
+     "fin": 29.3
+    },
+    {
+     "t": "y",
+     "inicio": 29.3,
+     "fin": 29.42
+    },
+    {
+     "t": "millones",
+     "inicio": 29.42,
+     "fin": 29.66
+    },
+    {
+     "t": "de",
+     "inicio": 29.66,
+     "fin": 29.86
+    },
+    {
+     "t": "euros",
+     "inicio": 29.86,
+     "fin": 29.96
+    },
+    {
+     "t": "del",
+     "inicio": 29.96,
+     "fin": 30.14
+    },
+    {
+     "t": "Partido",
+     "inicio": 30.14,
+     "fin": 30.42
+    },
+    {
+     "t": "Socialista.",
+     "inicio": 30.42,
+     "fin": 30.94
+    },
+    {
+     "t": "Lo",
+     "inicio": 31.28,
+     "fin": 31.34
+    },
+    {
+     "t": "que",
+     "inicio": 31.34,
+     "fin": 31.44
+    },
+    {
+     "t": "queremos",
+     "inicio": 31.44,
+     "fin": 31.66
+    },
+    {
+     "t": "son",
+     "inicio": 31.66,
+     "fin": 31.9
+    },
+    {
+     "t": "unas",
+     "inicio": 31.9,
+     "fin": 32.38
+    },
+    {
+     "t": "infraestructuras",
+     "inicio": 32.38,
+     "fin": 33.12
+    },
+    {
+     "t": "que",
+     "inicio": 33.12,
+     "fin": 33.36
+    },
+    {
+     "t": "tengan",
+     "inicio": 33.36,
+     "fin": 33.6
+    },
+    {
+     "t": "el",
+     "inicio": 33.6,
+     "fin": 33.76
+    },
+    {
+     "t": "mantenimiento",
+     "inicio": 33.76,
+     "fin": 34.42
+    },
+    {
+     "t": "que",
+     "inicio": 34.42,
+     "fin": 34.58
+    },
+    {
+     "t": "merecen",
+     "inicio": 34.58,
+     "fin": 35
+    },
+    {
+     "t": "el",
+     "inicio": 35,
+     "fin": 35.62
+    },
+    {
+     "t": "dinero",
+     "inicio": 35.62,
+     "fin": 35.9
+    },
+    {
+     "t": "que",
+     "inicio": 35.9,
+     "fin": 36.52
+    },
+    {
+     "t": "le",
+     "inicio": 36.52,
+     "fin": 36.76
+    },
+    {
+     "t": "han",
+     "inicio": 36.76,
+     "fin": 36.88
+    },
+    {
+     "t": "negado",
+     "inicio": 36.88,
+     "fin": 37.22
+    },
+    {
+     "t": "durante",
+     "inicio": 37.22,
+     "fin": 37.46
+    },
+    {
+     "t": "estos",
+     "inicio": 37.46,
+     "fin": 37.78
+    },
+    {
+     "t": "años",
+     "inicio": 37.78,
+     "fin": 38.06
+    },
+    {
+     "t": "y",
+     "inicio": 38.06,
+     "fin": 38.32
+    },
+    {
+     "t": "que",
+     "inicio": 38.32,
+     "fin": 38.4
+    },
+    {
+     "t": "ha",
+     "inicio": 38.4,
+     "fin": 38.52
+    },
+    {
+     "t": "llevado",
+     "inicio": 38.52,
+     "fin": 38.84
+    },
+    {
+     "t": "a",
+     "inicio": 38.84,
+     "fin": 39.26
+    },
+    {
+     "t": "la",
+     "inicio": 39.26,
+     "fin": 39.34
+    },
+    {
+     "t": "tercera",
+     "inicio": 39.34,
+     "fin": 39.56
+    },
+    {
+     "t": "bundización",
+     "inicio": 39.56,
+     "fin": 40.02
+    },
+    {
+     "t": "del",
+     "inicio": 40.02,
+     "fin": 40.98
+    },
+    {
+     "t": "sistema",
+     "inicio": 40.98,
+     "fin": 41.38
+    },
+    {
+     "t": "ferroviario",
+     "inicio": 41.38,
+     "fin": 41.9
+    },
+    {
+     "t": "español.",
+     "inicio": 41.9,
+     "fin": 42.2
+    },
+    {
+     "t": "Luego,",
+     "inicio": 42.82,
+     "fin": 43.04
+    },
+    {
+     "t": "no",
+     "inicio": 43.36,
+     "fin": 43.48
+    },
+    {
+     "t": "queremos",
+     "inicio": 43.48,
+     "fin": 43.78
+    },
+    {
+     "t": "los",
+     "inicio": 43.78,
+     "fin": 44.18
+    },
+    {
+     "t": "planteamientos",
+     "inicio": 44.18,
+     "fin": 44.78
+    },
+    {
+     "t": "ni",
+     "inicio": 44.78,
+     "fin": 45.06
+    },
+    {
+     "t": "del",
+     "inicio": 45.06,
+     "fin": 45.18
+    },
+    {
+     "t": "señor",
+     "inicio": 45.18,
+     "fin": 45.34
+    },
+    {
+     "t": "Puente",
+     "inicio": 45.34,
+     "fin": 45.7
+    },
+    {
+     "t": "ni",
+     "inicio": 45.7,
+     "fin": 45.9
+    },
+    {
+     "t": "del",
+     "inicio": 45.9,
+     "fin": 46.02
+    },
+    {
+     "t": "señor",
+     "inicio": 46.02,
+     "fin": 46.24
+    },
+    {
+     "t": "Sánchez.",
+     "inicio": 46.24,
+     "fin": 46.58
+    },
+    {
+     "t": "Sabemos",
+     "inicio": 46.68,
+     "fin": 46.98
+    },
+    {
+     "t": "que",
+     "inicio": 46.98,
+     "fin": 47.28
+    },
+    {
+     "t": "ellos",
+     "inicio": 47.28,
+     "fin": 47.42
+    },
+    {
+     "t": "son",
+     "inicio": 47.42,
+     "fin": 47.68
+    },
+    {
+     "t": "los",
+     "inicio": 47.68,
+     "fin": 47.92
+    },
+    {
+     "t": "principales",
+     "inicio": 47.92,
+     "fin": 48.42
+    },
+    {
+     "t": "responsables",
+     "inicio": 48.42,
+     "fin": 49.1
+    },
+    {
+     "t": "de",
+     "inicio": 49.56,
+     "fin": 49.84
+    },
+    {
+     "t": "que",
+     "inicio": 49.84,
+     "fin": 49.92
+    },
+    {
+     "t": "hayan",
+     "inicio": 49.92,
+     "fin": 50.12
+    },
+    {
+     "t": "muerto",
+     "inicio": 50.12,
+     "fin": 50.38
+    },
+    {
+     "t": "personas",
+     "inicio": 50.38,
+     "fin": 50.68
+    },
+    {
+     "t": "en",
+     "inicio": 50.68,
+     "fin": 50.96
+    },
+    {
+     "t": "Urda,",
+     "inicio": 50.96,
+     "fin": 51.2
+    },
+    {
+     "t": "de",
+     "inicio": 51.6,
+     "fin": 51.62
+    },
+    {
+     "t": "que",
+     "inicio": 51.62,
+     "fin": 51.68
+    },
+    {
+     "t": "hayan",
+     "inicio": 51.68,
+     "fin": 51.9
+    },
+    {
+     "t": "muerto",
+     "inicio": 51.9,
+     "fin": 52.14
+    },
+    {
+     "t": "personas",
+     "inicio": 52.14,
+     "fin": 52.56
+    },
+    {
+     "t": "en",
+     "inicio": 52.56,
+     "fin": 52.74
+    },
+    {
+     "t": "Adamuz",
+     "inicio": 52.74,
+     "fin": 53.08
+    },
+    {
+     "t": "y",
+     "inicio": 53.08,
+     "fin": 53.48
+    },
+    {
+     "t": "de",
+     "inicio": 53.48,
+     "fin": 53.56
+    },
+    {
+     "t": "que",
+     "inicio": 53.56,
+     "fin": 53.72
+    },
+    {
+     "t": "hoy",
+     "inicio": 53.72,
+     "fin": 53.88
+    },
+    {
+     "t": "el",
+     "inicio": 53.88,
+     "fin": 55.08
+    },
+    {
+     "t": "sistema",
+     "inicio": 55.08,
+     "fin": 55.44
+    },
+    {
+     "t": "de",
+     "inicio": 55.44,
+     "fin": 55.92
+    },
+    {
+     "t": "alta",
+     "inicio": 55.92,
+     "fin": 56.52
+    },
+    {
+     "t": "velocidad",
+     "inicio": 56.52,
+     "fin": 56.92
+    },
+    {
+     "t": "español,",
+     "inicio": 56.92,
+     "fin": 57.34
+    },
+    {
+     "t": "que",
+     "inicio": 57.74,
+     "fin": 57.88
+    },
+    {
+     "t": "era",
+     "inicio": 57.88,
+     "fin": 58.06
+    },
+    {
+     "t": "envidia",
+     "inicio": 58.06,
+     "fin": 59.06
+    },
+    {
+     "t": "del",
+     "inicio": 59.06,
+     "fin": 59.2
+    },
+    {
+     "t": "mundo,",
+     "inicio": 59.2,
+     "fin": 59.48
+    },
+    {
+     "t": "sea",
+     "inicio": 59.92,
+     "fin": 60.14
+    },
+    {
+     "t": "hoy",
+     "inicio": 60.14,
+     "fin": 60.46
+    },
+    {
+     "t": "el",
+     "inicio": 60.46,
+     "fin": 60.9
+    },
+    {
+     "t": "peor",
+     "inicio": 60.9,
+     "fin": 61.34
+    },
+    {
+     "t": "y",
+     "inicio": 61.34,
+     "fin": 61.54
+    },
+    {
+     "t": "el",
+     "inicio": 61.54,
+     "fin": 61.62
+    },
+    {
+     "t": "que",
+     "inicio": 61.62,
+     "fin": 61.76
+    },
+    {
+     "t": "más",
+     "inicio": 61.76,
+     "fin": 62.08
+    },
+    {
+     "t": "víctimas",
+     "inicio": 62.08,
+     "fin": 62.58
+    },
+    {
+     "t": "mortales",
+     "inicio": 62.58,
+     "fin": 63.04
+    },
+    {
+     "t": "acumula",
+     "inicio": 63.04,
+     "fin": 63.64
+    },
+    {
+     "t": "de",
+     "inicio": 63.64,
+     "fin": 64.12
+    },
+    {
+     "t": "toda",
+     "inicio": 64.12,
+     "fin": 64.3
+    },
+    {
+     "t": "Europa.",
+     "inicio": 64.3,
+     "fin": 64.56
+    }
+   ],
+   "habla": true
+  },
+  {
+   "id": "ig-17953719159336270",
+   "fuente": "instagram",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1244767,
+   "fecha": "2026-11-03T15:04:21+0000",
+   "horas": 0.4,
+   "me_gusta": 91,
+   "comentarios": 3,
+   "viral": 15.6,
+   "enlace": "https://www.instagram.com/reel/DfSKNHTODz7/",
+   "texto": "🔴 garriga_ignacio, sobre el escándalo de corrupción del jefe de gabinete de Salvador Illa:\n\n“Se sabía desde hace más de seis meses y lo han ocultado.\n\nLa corrupción del Partido Socialista tiene consecuencias directas en la vida de las familias y los trabajadores españoles”.",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 121.6,
+   "archivo": "ig-17953719159336270.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 4.3,
+     "texto": "un día más y un nuevo caso de corrupción que rodea al Partido Socialista."
+    },
+    {
+     "inicio": 4.62,
+     "fin": 8.22,
+     "texto": "En este caso, al presidente de la Generalitat, a su jefe de gabinete"
+    },
+    {
+     "inicio": 8.22,
+     "fin": 12.18,
+     "texto": "por una supuesta malversación de fondos públicos."
+    },
+    {
+     "inicio": 12.44,
+     "fin": 15.1,
+     "texto": "No nos sorprende, estamos acostumbrados por desgracia"
+    },
+    {
+     "inicio": 15.1,
+     "fin": 19.08,
+     "texto": "a ver cómo el Partido Socialista se apotea sobre la corrupción"
+    },
+    {
+     "inicio": 19.52,
+     "fin": 22.88,
+     "texto": "y lo que demuestra una vez más es cómo el Partido Socialista"
+    },
+    {
+     "inicio": 22.88,
+     "fin": 26.78,
+     "texto": "a cada caso de corrupción, cada caso que intenta encubrir."
+    },
+    {
+     "inicio": 27.28,
+     "fin": 30.28,
+     "texto": "Queremos denunciar que lo que afecta al jefe de gabinete"
+    },
+    {
+     "inicio": 30.28,
+     "fin": 33.66,
+     "texto": "del presidente de la Generalitat se sabía desde hace más de seis meses"
+    },
+    {
+     "inicio": 34.04,
+     "fin": 35,
+     "texto": "y lo han ocultado."
+    },
+    {
+     "inicio": 35.56,
+     "fin": 38.2,
+     "texto": "Nosotros queremos decir al conjunto de los españoles"
+    },
+    {
+     "inicio": 38.6,
+     "fin": 41.98,
+     "texto": "que la corrupción del Partido Socialista tiene consecuencias."
+    },
+    {
+     "inicio": 42.3,
+     "fin": 46.4,
+     "texto": "Una corrupción que no solo afecta a cómo mete en la mano en la caja"
+    },
+    {
+     "inicio": 46.4,
+     "fin": 50.8,
+     "texto": "y en el bolsillo de los españoles, sino una corrupción liderada por Pedro Sánchez,"
+    },
+    {
+     "inicio": 51.06,
+     "fin": 53.78,
+     "texto": "por Salvador Illa, que colapsa los servicios públicos."
+    },
+    {
+     "inicio": 54.16,
+     "fin": 58.54,
+     "texto": "Una corrupción que degrada las infraestructuras ferroviarias"
+    },
+    {
+     "inicio": 58.54,
+     "fin": 62.6,
+     "texto": "y una corrupción que también colapsa nuestro sistema energético"
+    },
+    {
+     "inicio": 62.6,
+     "fin": 65.56,
+     "texto": "como hemos visto hace escasas horas una vez más"
+    },
+    {
+     "inicio": 65.56,
+     "fin": 67.94,
+     "texto": "con el apagón energético en la palma."
+    },
+    {
+     "inicio": 68.62,
+     "fin": 70.88,
+     "texto": "Es decir, la corrupción del Partido Socialista"
+    },
+    {
+     "inicio": 70.88,
+     "fin": 73.62,
+     "texto": "tiene consecuencias directas en la vida corriente"
+    },
+    {
+     "inicio": 73.62,
+     "fin": 75.82,
+     "texto": "de las familias y los trabajadores españoles."
+    },
+    {
+     "inicio": 76.3,
+     "fin": 80.14,
+     "texto": "Por eso queremos llamar a una movilización total y absoluta"
+    },
+    {
+     "inicio": 80.14,
+     "fin": 82.72,
+     "texto": "ante la cita electoral del próximo 29 de noviembre."
+    },
+    {
+     "inicio": 82.72,
+     "fin": 86.22,
+     "texto": "No podemos soportar cuatro años más de Partido Socialista."
+    },
+    {
+     "inicio": 86.38,
+     "fin": 89.2,
+     "texto": "Cuatro años más de Sánchez y del Partido Socialista"
+    },
+    {
+     "inicio": 89.2,
+     "fin": 91.1,
+     "texto": "serán cuatro años más de corrupción,"
+    },
+    {
+     "inicio": 91.54,
+     "fin": 93.66,
+     "texto": "cuatro años más de colapso en los servicios públicos,"
+    },
+    {
+     "inicio": 93.86,
+     "fin": 96.42,
+     "texto": "cuatro años más del colapso del mercado a la vivienda,"
+    },
+    {
+     "inicio": 96.7,
+     "fin": 98.94,
+     "texto": "cuatro años más del incremento de las violaciones,"
+    },
+    {
+     "inicio": 99.2,
+     "fin": 100.84,
+     "texto": "de los asaltos y las ocupaciones"
+    },
+    {
+     "inicio": 100.84,
+     "fin": 103.34,
+     "texto": "y cuatro años más de la frustración"
+    },
+    {
+     "inicio": 103.34,
+     "fin": 105.36,
+     "texto": "de una generación entera de jóvenes."
+    },
+    {
+     "inicio": 106,
+     "fin": 108.88,
+     "texto": "Ante esta realidad, solo un box fuerte"
+    },
+    {
+     "inicio": 108.88,
+     "fin": 112.46,
+     "texto": "podrá desalojar a un Partido Socialista del Gobierno de España"
+    },
+    {
+     "inicio": 112.46,
+     "fin": 115.48,
+     "texto": "y solo un box fuerte será la garantía"
+    },
+    {
+     "inicio": 115.48,
+     "fin": 119.04,
+     "texto": "para impulsar esas políticas que lancen a la papelera de la historia"
+    },
+    {
+     "inicio": 119.04,
+     "fin": 121.34,
+     "texto": "la ruina que ha traído el Partido Socialista."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "un",
+     "inicio": 0,
+     "fin": 0.28
+    },
+    {
+     "t": "día",
+     "inicio": 0.28,
+     "fin": 0.42
+    },
+    {
+     "t": "más",
+     "inicio": 0.42,
+     "fin": 0.8
+    },
+    {
+     "t": "y",
+     "inicio": 0.8,
+     "fin": 1.2
+    },
+    {
+     "t": "un",
+     "inicio": 1.2,
+     "fin": 1.32
+    },
+    {
+     "t": "nuevo",
+     "inicio": 1.32,
+     "fin": 1.46
+    },
+    {
+     "t": "caso",
+     "inicio": 1.46,
+     "fin": 1.76
+    },
+    {
+     "t": "de",
+     "inicio": 1.76,
+     "fin": 1.92
+    },
+    {
+     "t": "corrupción",
+     "inicio": 1.92,
+     "fin": 2.38
+    },
+    {
+     "t": "que",
+     "inicio": 2.38,
+     "fin": 2.88
+    },
+    {
+     "t": "rodea",
+     "inicio": 2.88,
+     "fin": 3.5
+    },
+    {
+     "t": "al",
+     "inicio": 3.5,
+     "fin": 3.6
+    },
+    {
+     "t": "Partido",
+     "inicio": 3.6,
+     "fin": 3.82
+    },
+    {
+     "t": "Socialista.",
+     "inicio": 3.82,
+     "fin": 4.3
+    },
+    {
+     "t": "En",
+     "inicio": 4.62,
+     "fin": 4.8
+    },
+    {
+     "t": "este",
+     "inicio": 4.8,
+     "fin": 4.96
+    },
+    {
+     "t": "caso,",
+     "inicio": 4.96,
+     "fin": 5.32
+    },
+    {
+     "t": "al",
+     "inicio": 5.54,
+     "fin": 5.84
+    },
+    {
+     "t": "presidente",
+     "inicio": 5.84,
+     "fin": 6.06
+    },
+    {
+     "t": "de",
+     "inicio": 6.06,
+     "fin": 6.22
+    },
+    {
+     "t": "la",
+     "inicio": 6.22,
+     "fin": 6.3
+    },
+    {
+     "t": "Generalitat,",
+     "inicio": 6.3,
+     "fin": 6.78
+    },
+    {
+     "t": "a",
+     "inicio": 7.14,
+     "fin": 7.28
+    },
+    {
+     "t": "su",
+     "inicio": 7.28,
+     "fin": 7.42
+    },
+    {
+     "t": "jefe",
+     "inicio": 7.42,
+     "fin": 7.64
+    },
+    {
+     "t": "de",
+     "inicio": 7.64,
+     "fin": 7.76
+    },
+    {
+     "t": "gabinete",
+     "inicio": 7.76,
+     "fin": 8.22
+    },
+    {
+     "t": "por",
+     "inicio": 8.22,
+     "fin": 9.06
+    },
+    {
+     "t": "una",
+     "inicio": 9.06,
+     "fin": 9.46
+    },
+    {
+     "t": "supuesta",
+     "inicio": 9.46,
+     "fin": 9.9
+    },
+    {
+     "t": "malversación",
+     "inicio": 9.9,
+     "fin": 10.6
+    },
+    {
+     "t": "de",
+     "inicio": 10.6,
+     "fin": 11.32
+    },
+    {
+     "t": "fondos",
+     "inicio": 11.32,
+     "fin": 11.62
+    },
+    {
+     "t": "públicos.",
+     "inicio": 11.62,
+     "fin": 12.18
+    },
+    {
+     "t": "No",
+     "inicio": 12.44,
+     "fin": 12.9
+    },
+    {
+     "t": "nos",
+     "inicio": 12.9,
+     "fin": 13.06
+    },
+    {
+     "t": "sorprende,",
+     "inicio": 13.06,
+     "fin": 13.46
+    },
+    {
+     "t": "estamos",
+     "inicio": 13.56,
+     "fin": 13.7
+    },
+    {
+     "t": "acostumbrados",
+     "inicio": 13.7,
+     "fin": 14.24
+    },
+    {
+     "t": "por",
+     "inicio": 14.24,
+     "fin": 14.48
+    },
+    {
+     "t": "desgracia",
+     "inicio": 14.48,
+     "fin": 15.1
+    },
+    {
+     "t": "a",
+     "inicio": 15.1,
+     "fin": 15.68
+    },
+    {
+     "t": "ver",
+     "inicio": 15.68,
+     "fin": 15.82
+    },
+    {
+     "t": "cómo",
+     "inicio": 15.82,
+     "fin": 16.02
+    },
+    {
+     "t": "el",
+     "inicio": 16.02,
+     "fin": 16.2
+    },
+    {
+     "t": "Partido",
+     "inicio": 16.2,
+     "fin": 16.54
+    },
+    {
+     "t": "Socialista",
+     "inicio": 16.54,
+     "fin": 17.14
+    },
+    {
+     "t": "se",
+     "inicio": 17.14,
+     "fin": 17.64
+    },
+    {
+     "t": "apotea",
+     "inicio": 17.64,
+     "fin": 18.08
+    },
+    {
+     "t": "sobre",
+     "inicio": 18.08,
+     "fin": 18.46
+    },
+    {
+     "t": "la",
+     "inicio": 18.46,
+     "fin": 18.6
+    },
+    {
+     "t": "corrupción",
+     "inicio": 18.6,
+     "fin": 19.08
+    },
+    {
+     "t": "y",
+     "inicio": 19.52,
+     "fin": 19.82
+    },
+    {
+     "t": "lo",
+     "inicio": 19.82,
+     "fin": 19.94
+    },
+    {
+     "t": "que",
+     "inicio": 19.94,
+     "fin": 20.18
+    },
+    {
+     "t": "demuestra",
+     "inicio": 20.18,
+     "fin": 20.84
+    },
+    {
+     "t": "una",
+     "inicio": 20.84,
+     "fin": 20.94
+    },
+    {
+     "t": "vez",
+     "inicio": 20.94,
+     "fin": 21.08
+    },
+    {
+     "t": "más",
+     "inicio": 21.08,
+     "fin": 21.32
+    },
+    {
+     "t": "es",
+     "inicio": 21.32,
+     "fin": 21.66
+    },
+    {
+     "t": "cómo",
+     "inicio": 21.66,
+     "fin": 21.86
+    },
+    {
+     "t": "el",
+     "inicio": 21.86,
+     "fin": 22
+    },
+    {
+     "t": "Partido",
+     "inicio": 22,
+     "fin": 22.28
+    },
+    {
+     "t": "Socialista",
+     "inicio": 22.28,
+     "fin": 22.88
+    },
+    {
+     "t": "a",
+     "inicio": 22.88,
+     "fin": 23.44
+    },
+    {
+     "t": "cada",
+     "inicio": 23.44,
+     "fin": 23.62
+    },
+    {
+     "t": "caso",
+     "inicio": 23.62,
+     "fin": 23.9
+    },
+    {
+     "t": "de",
+     "inicio": 23.9,
+     "fin": 24.02
+    },
+    {
+     "t": "corrupción,",
+     "inicio": 24.02,
+     "fin": 24.52
+    },
+    {
+     "t": "cada",
+     "inicio": 24.68,
+     "fin": 25.24
+    },
+    {
+     "t": "caso",
+     "inicio": 25.24,
+     "fin": 25.66
+    },
+    {
+     "t": "que",
+     "inicio": 25.66,
+     "fin": 26.04
+    },
+    {
+     "t": "intenta",
+     "inicio": 26.04,
+     "fin": 26.4
+    },
+    {
+     "t": "encubrir.",
+     "inicio": 26.4,
+     "fin": 26.78
+    },
+    {
+     "t": "Queremos",
+     "inicio": 27.28,
+     "fin": 27.58
+    },
+    {
+     "t": "denunciar",
+     "inicio": 27.58,
+     "fin": 28.22
+    },
+    {
+     "t": "que",
+     "inicio": 28.22,
+     "fin": 28.54
+    },
+    {
+     "t": "lo",
+     "inicio": 28.54,
+     "fin": 29.02
+    },
+    {
+     "t": "que",
+     "inicio": 29.02,
+     "fin": 29.12
+    },
+    {
+     "t": "afecta",
+     "inicio": 29.12,
+     "fin": 29.5
+    },
+    {
+     "t": "al",
+     "inicio": 29.5,
+     "fin": 29.66
+    },
+    {
+     "t": "jefe",
+     "inicio": 29.66,
+     "fin": 29.84
+    },
+    {
+     "t": "de",
+     "inicio": 29.84,
+     "fin": 29.94
+    },
+    {
+     "t": "gabinete",
+     "inicio": 29.94,
+     "fin": 30.28
+    },
+    {
+     "t": "del",
+     "inicio": 30.28,
+     "fin": 30.48
+    },
+    {
+     "t": "presidente",
+     "inicio": 30.48,
+     "fin": 30.78
+    },
+    {
+     "t": "de",
+     "inicio": 30.78,
+     "fin": 30.94
+    },
+    {
+     "t": "la",
+     "inicio": 30.94,
+     "fin": 31
+    },
+    {
+     "t": "Generalitat",
+     "inicio": 31,
+     "fin": 31.42
+    },
+    {
+     "t": "se",
+     "inicio": 31.42,
+     "fin": 31.88
+    },
+    {
+     "t": "sabía",
+     "inicio": 31.88,
+     "fin": 32.2
+    },
+    {
+     "t": "desde",
+     "inicio": 32.2,
+     "fin": 32.58
+    },
+    {
+     "t": "hace",
+     "inicio": 32.58,
+     "fin": 32.76
+    },
+    {
+     "t": "más",
+     "inicio": 32.76,
+     "fin": 32.98
+    },
+    {
+     "t": "de",
+     "inicio": 32.98,
+     "fin": 33.1
+    },
+    {
+     "t": "seis",
+     "inicio": 33.1,
+     "fin": 33.34
+    },
+    {
+     "t": "meses",
+     "inicio": 33.34,
+     "fin": 33.66
+    },
+    {
+     "t": "y",
+     "inicio": 34.04,
+     "fin": 34.34
+    },
+    {
+     "t": "lo",
+     "inicio": 34.34,
+     "fin": 34.46
+    },
+    {
+     "t": "han",
+     "inicio": 34.46,
+     "fin": 34.54
+    },
+    {
+     "t": "ocultado.",
+     "inicio": 34.54,
+     "fin": 35
+    },
+    {
+     "t": "Nosotros",
+     "inicio": 35.56,
+     "fin": 36.16
+    },
+    {
+     "t": "queremos",
+     "inicio": 36.16,
+     "fin": 36.76
+    },
+    {
+     "t": "decir",
+     "inicio": 36.76,
+     "fin": 37.1
+    },
+    {
+     "t": "al",
+     "inicio": 37.1,
+     "fin": 37.28
+    },
+    {
+     "t": "conjunto",
+     "inicio": 37.28,
+     "fin": 37.58
+    },
+    {
+     "t": "de",
+     "inicio": 37.58,
+     "fin": 37.74
+    },
+    {
+     "t": "los",
+     "inicio": 37.74,
+     "fin": 37.8
+    },
+    {
+     "t": "españoles",
+     "inicio": 37.8,
+     "fin": 38.2
+    },
+    {
+     "t": "que",
+     "inicio": 38.6,
+     "fin": 38.9
+    },
+    {
+     "t": "la",
+     "inicio": 38.9,
+     "fin": 39.08
+    },
+    {
+     "t": "corrupción",
+     "inicio": 39.08,
+     "fin": 39.68
+    },
+    {
+     "t": "del",
+     "inicio": 39.68,
+     "fin": 39.86
+    },
+    {
+     "t": "Partido",
+     "inicio": 39.86,
+     "fin": 40.18
+    },
+    {
+     "t": "Socialista",
+     "inicio": 40.18,
+     "fin": 40.76
+    },
+    {
+     "t": "tiene",
+     "inicio": 40.76,
+     "fin": 41.3
+    },
+    {
+     "t": "consecuencias.",
+     "inicio": 41.3,
+     "fin": 41.98
+    },
+    {
+     "t": "Una",
+     "inicio": 42.3,
+     "fin": 42.46
+    },
+    {
+     "t": "corrupción",
+     "inicio": 42.46,
+     "fin": 42.9
+    },
+    {
+     "t": "que",
+     "inicio": 42.9,
+     "fin": 43.12
+    },
+    {
+     "t": "no",
+     "inicio": 43.12,
+     "fin": 43.26
+    },
+    {
+     "t": "solo",
+     "inicio": 43.26,
+     "fin": 43.46
+    },
+    {
+     "t": "afecta",
+     "inicio": 43.46,
+     "fin": 44.42
+    },
+    {
+     "t": "a",
+     "inicio": 44.42,
+     "fin": 44.7
+    },
+    {
+     "t": "cómo",
+     "inicio": 44.7,
+     "fin": 45.06
+    },
+    {
+     "t": "mete",
+     "inicio": 45.06,
+     "fin": 45.32
+    },
+    {
+     "t": "en",
+     "inicio": 45.32,
+     "fin": 45.44
+    },
+    {
+     "t": "la",
+     "inicio": 45.44,
+     "fin": 45.52
+    },
+    {
+     "t": "mano",
+     "inicio": 45.52,
+     "fin": 45.72
+    },
+    {
+     "t": "en",
+     "inicio": 45.72,
+     "fin": 45.86
+    },
+    {
+     "t": "la",
+     "inicio": 45.86,
+     "fin": 45.96
+    },
+    {
+     "t": "caja",
+     "inicio": 45.96,
+     "fin": 46.4
+    },
+    {
+     "t": "y",
+     "inicio": 46.4,
+     "fin": 46.76
+    },
+    {
+     "t": "en",
+     "inicio": 46.76,
+     "fin": 46.84
+    },
+    {
+     "t": "el",
+     "inicio": 46.84,
+     "fin": 46.94
+    },
+    {
+     "t": "bolsillo",
+     "inicio": 46.94,
+     "fin": 47.24
+    },
+    {
+     "t": "de",
+     "inicio": 47.24,
+     "fin": 47.36
+    },
+    {
+     "t": "los",
+     "inicio": 47.36,
+     "fin": 47.42
+    },
+    {
+     "t": "españoles,",
+     "inicio": 47.42,
+     "fin": 47.86
+    },
+    {
+     "t": "sino",
+     "inicio": 48.06,
+     "fin": 48.48
+    },
+    {
+     "t": "una",
+     "inicio": 48.48,
+     "fin": 48.64
+    },
+    {
+     "t": "corrupción",
+     "inicio": 48.64,
+     "fin": 49.16
+    },
+    {
+     "t": "liderada",
+     "inicio": 49.16,
+     "fin": 49.94
+    },
+    {
+     "t": "por",
+     "inicio": 49.94,
+     "fin": 50.16
+    },
+    {
+     "t": "Pedro",
+     "inicio": 50.16,
+     "fin": 50.36
+    },
+    {
+     "t": "Sánchez,",
+     "inicio": 50.36,
+     "fin": 50.8
+    },
+    {
+     "t": "por",
+     "inicio": 51.06,
+     "fin": 51.08
+    },
+    {
+     "t": "Salvador",
+     "inicio": 51.08,
+     "fin": 51.38
+    },
+    {
+     "t": "Illa,",
+     "inicio": 51.38,
+     "fin": 51.82
+    },
+    {
+     "t": "que",
+     "inicio": 52.04,
+     "fin": 52.32
+    },
+    {
+     "t": "colapsa",
+     "inicio": 52.32,
+     "fin": 52.76
+    },
+    {
+     "t": "los",
+     "inicio": 52.76,
+     "fin": 52.88
+    },
+    {
+     "t": "servicios",
+     "inicio": 52.88,
+     "fin": 53.2
+    },
+    {
+     "t": "públicos.",
+     "inicio": 53.2,
+     "fin": 53.78
+    },
+    {
+     "t": "Una",
+     "inicio": 54.16,
+     "fin": 54.52
+    },
+    {
+     "t": "corrupción",
+     "inicio": 54.52,
+     "fin": 55.04
+    },
+    {
+     "t": "que",
+     "inicio": 55.04,
+     "fin": 55.44
+    },
+    {
+     "t": "degrada",
+     "inicio": 55.44,
+     "fin": 56.62
+    },
+    {
+     "t": "las",
+     "inicio": 56.62,
+     "fin": 57.02
+    },
+    {
+     "t": "infraestructuras",
+     "inicio": 57.02,
+     "fin": 57.86
+    },
+    {
+     "t": "ferroviarias",
+     "inicio": 57.86,
+     "fin": 58.54
+    },
+    {
+     "t": "y",
+     "inicio": 58.54,
+     "fin": 59.2
+    },
+    {
+     "t": "una",
+     "inicio": 59.2,
+     "fin": 59.36
+    },
+    {
+     "t": "corrupción",
+     "inicio": 59.36,
+     "fin": 59.82
+    },
+    {
+     "t": "que",
+     "inicio": 59.82,
+     "fin": 60.04
+    },
+    {
+     "t": "también",
+     "inicio": 60.04,
+     "fin": 60.46
+    },
+    {
+     "t": "colapsa",
+     "inicio": 60.46,
+     "fin": 61.4
+    },
+    {
+     "t": "nuestro",
+     "inicio": 61.4,
+     "fin": 61.68
+    },
+    {
+     "t": "sistema",
+     "inicio": 61.68,
+     "fin": 62.08
+    },
+    {
+     "t": "energético",
+     "inicio": 62.08,
+     "fin": 62.6
+    },
+    {
+     "t": "como",
+     "inicio": 62.6,
+     "fin": 62.84
+    },
+    {
+     "t": "hemos",
+     "inicio": 62.84,
+     "fin": 63.04
+    },
+    {
+     "t": "visto",
+     "inicio": 63.04,
+     "fin": 63.4
+    },
+    {
+     "t": "hace",
+     "inicio": 63.4,
+     "fin": 63.92
+    },
+    {
+     "t": "escasas",
+     "inicio": 63.92,
+     "fin": 64.34
+    },
+    {
+     "t": "horas",
+     "inicio": 64.34,
+     "fin": 64.54
+    },
+    {
+     "t": "una",
+     "inicio": 64.54,
+     "fin": 65.12
+    },
+    {
+     "t": "vez",
+     "inicio": 65.12,
+     "fin": 65.3
+    },
+    {
+     "t": "más",
+     "inicio": 65.3,
+     "fin": 65.56
+    },
+    {
+     "t": "con",
+     "inicio": 65.56,
+     "fin": 66.12
+    },
+    {
+     "t": "el",
+     "inicio": 66.12,
+     "fin": 66.24
+    },
+    {
+     "t": "apagón",
+     "inicio": 66.24,
+     "fin": 66.52
+    },
+    {
+     "t": "energético",
+     "inicio": 66.52,
+     "fin": 67.14
+    },
+    {
+     "t": "en",
+     "inicio": 67.14,
+     "fin": 67.54
+    },
+    {
+     "t": "la",
+     "inicio": 67.54,
+     "fin": 67.62
+    },
+    {
+     "t": "palma.",
+     "inicio": 67.62,
+     "fin": 67.94
+    },
+    {
+     "t": "Es",
+     "inicio": 68.62,
+     "fin": 68.62
+    },
+    {
+     "t": "decir,",
+     "inicio": 68.62,
+     "fin": 68.84
+    },
+    {
+     "t": "la",
+     "inicio": 69.44,
+     "fin": 69.64
+    },
+    {
+     "t": "corrupción",
+     "inicio": 69.64,
+     "fin": 70.02
+    },
+    {
+     "t": "del",
+     "inicio": 70.02,
+     "fin": 70.16
+    },
+    {
+     "t": "Partido",
+     "inicio": 70.16,
+     "fin": 70.42
+    },
+    {
+     "t": "Socialista",
+     "inicio": 70.42,
+     "fin": 70.88
+    },
+    {
+     "t": "tiene",
+     "inicio": 70.88,
+     "fin": 71.16
+    },
+    {
+     "t": "consecuencias",
+     "inicio": 71.16,
+     "fin": 71.74
+    },
+    {
+     "t": "directas",
+     "inicio": 71.74,
+     "fin": 72.36
+    },
+    {
+     "t": "en",
+     "inicio": 72.36,
+     "fin": 72.78
+    },
+    {
+     "t": "la",
+     "inicio": 72.78,
+     "fin": 72.86
+    },
+    {
+     "t": "vida",
+     "inicio": 72.86,
+     "fin": 73.04
+    },
+    {
+     "t": "corriente",
+     "inicio": 73.04,
+     "fin": 73.62
+    },
+    {
+     "t": "de",
+     "inicio": 73.62,
+     "fin": 74.04
+    },
+    {
+     "t": "las",
+     "inicio": 74.04,
+     "fin": 74.16
+    },
+    {
+     "t": "familias",
+     "inicio": 74.16,
+     "fin": 74.58
+    },
+    {
+     "t": "y",
+     "inicio": 74.58,
+     "fin": 74.76
+    },
+    {
+     "t": "los",
+     "inicio": 74.76,
+     "fin": 74.88
+    },
+    {
+     "t": "trabajadores",
+     "inicio": 74.88,
+     "fin": 75.28
+    },
+    {
+     "t": "españoles.",
+     "inicio": 75.28,
+     "fin": 75.82
+    },
+    {
+     "t": "Por",
+     "inicio": 76.3,
+     "fin": 76.48
+    },
+    {
+     "t": "eso",
+     "inicio": 76.48,
+     "fin": 76.62
+    },
+    {
+     "t": "queremos",
+     "inicio": 76.62,
+     "fin": 76.94
+    },
+    {
+     "t": "llamar",
+     "inicio": 76.94,
+     "fin": 77.22
+    },
+    {
+     "t": "a",
+     "inicio": 77.22,
+     "fin": 77.28
+    },
+    {
+     "t": "una",
+     "inicio": 77.28,
+     "fin": 77.44
+    },
+    {
+     "t": "movilización",
+     "inicio": 77.44,
+     "fin": 78.18
+    },
+    {
+     "t": "total",
+     "inicio": 78.18,
+     "fin": 79.04
+    },
+    {
+     "t": "y",
+     "inicio": 79.04,
+     "fin": 79.28
+    },
+    {
+     "t": "absoluta",
+     "inicio": 79.28,
+     "fin": 80.14
+    },
+    {
+     "t": "ante",
+     "inicio": 80.14,
+     "fin": 80.5
+    },
+    {
+     "t": "la",
+     "inicio": 80.5,
+     "fin": 80.64
+    },
+    {
+     "t": "cita",
+     "inicio": 80.64,
+     "fin": 80.86
+    },
+    {
+     "t": "electoral",
+     "inicio": 80.86,
+     "fin": 81.22
+    },
+    {
+     "t": "del",
+     "inicio": 81.22,
+     "fin": 81.42
+    },
+    {
+     "t": "próximo",
+     "inicio": 81.42,
+     "fin": 81.6
+    },
+    {
+     "t": "29",
+     "inicio": 81.6,
+     "fin": 82.14
+    },
+    {
+     "t": "de",
+     "inicio": 82.14,
+     "fin": 82.32
+    },
+    {
+     "t": "noviembre.",
+     "inicio": 82.32,
+     "fin": 82.72
+    },
+    {
+     "t": "No",
+     "inicio": 82.72,
+     "fin": 83.24
+    },
+    {
+     "t": "podemos",
+     "inicio": 83.24,
+     "fin": 83.54
+    },
+    {
+     "t": "soportar",
+     "inicio": 83.54,
+     "fin": 84.04
+    },
+    {
+     "t": "cuatro",
+     "inicio": 84.04,
+     "fin": 84.32
+    },
+    {
+     "t": "años",
+     "inicio": 84.32,
+     "fin": 84.64
+    },
+    {
+     "t": "más",
+     "inicio": 84.64,
+     "fin": 84.88
+    },
+    {
+     "t": "de",
+     "inicio": 84.88,
+     "fin": 85.32
+    },
+    {
+     "t": "Partido",
+     "inicio": 85.32,
+     "fin": 85.62
+    },
+    {
+     "t": "Socialista.",
+     "inicio": 85.62,
+     "fin": 86.22
+    },
+    {
+     "t": "Cuatro",
+     "inicio": 86.38,
+     "fin": 86.84
+    },
+    {
+     "t": "años",
+     "inicio": 86.84,
+     "fin": 87
+    },
+    {
+     "t": "más",
+     "inicio": 87,
+     "fin": 87.26
+    },
+    {
+     "t": "de",
+     "inicio": 87.26,
+     "fin": 87.52
+    },
+    {
+     "t": "Sánchez",
+     "inicio": 87.52,
+     "fin": 87.98
+    },
+    {
+     "t": "y",
+     "inicio": 87.98,
+     "fin": 88.28
+    },
+    {
+     "t": "del",
+     "inicio": 88.28,
+     "fin": 88.38
+    },
+    {
+     "t": "Partido",
+     "inicio": 88.38,
+     "fin": 88.64
+    },
+    {
+     "t": "Socialista",
+     "inicio": 88.64,
+     "fin": 89.2
+    },
+    {
+     "t": "serán",
+     "inicio": 89.2,
+     "fin": 89.82
+    },
+    {
+     "t": "cuatro",
+     "inicio": 89.82,
+     "fin": 90.1
+    },
+    {
+     "t": "años",
+     "inicio": 90.1,
+     "fin": 90.38
+    },
+    {
+     "t": "más",
+     "inicio": 90.38,
+     "fin": 90.58
+    },
+    {
+     "t": "de",
+     "inicio": 90.58,
+     "fin": 90.7
+    },
+    {
+     "t": "corrupción,",
+     "inicio": 90.7,
+     "fin": 91.1
+    },
+    {
+     "t": "cuatro",
+     "inicio": 91.54,
+     "fin": 91.68
+    },
+    {
+     "t": "años",
+     "inicio": 91.68,
+     "fin": 91.9
+    },
+    {
+     "t": "más",
+     "inicio": 91.9,
+     "fin": 92.12
+    },
+    {
+     "t": "de",
+     "inicio": 92.12,
+     "fin": 92.26
+    },
+    {
+     "t": "colapso",
+     "inicio": 92.26,
+     "fin": 92.66
+    },
+    {
+     "t": "en",
+     "inicio": 92.66,
+     "fin": 92.74
+    },
+    {
+     "t": "los",
+     "inicio": 92.74,
+     "fin": 92.78
+    },
+    {
+     "t": "servicios",
+     "inicio": 92.78,
+     "fin": 93.06
+    },
+    {
+     "t": "públicos,",
+     "inicio": 93.06,
+     "fin": 93.66
+    },
+    {
+     "t": "cuatro",
+     "inicio": 93.86,
+     "fin": 94.08
+    },
+    {
+     "t": "años",
+     "inicio": 94.08,
+     "fin": 94.34
+    },
+    {
+     "t": "más",
+     "inicio": 94.34,
+     "fin": 94.62
+    },
+    {
+     "t": "del",
+     "inicio": 94.62,
+     "fin": 95.14
+    },
+    {
+     "t": "colapso",
+     "inicio": 95.14,
+     "fin": 95.54
+    },
+    {
+     "t": "del",
+     "inicio": 95.54,
+     "fin": 95.68
+    },
+    {
+     "t": "mercado",
+     "inicio": 95.68,
+     "fin": 95.9
+    },
+    {
+     "t": "a",
+     "inicio": 95.9,
+     "fin": 96.04
+    },
+    {
+     "t": "la",
+     "inicio": 96.04,
+     "fin": 96.08
+    },
+    {
+     "t": "vivienda,",
+     "inicio": 96.08,
+     "fin": 96.42
+    },
+    {
+     "t": "cuatro",
+     "inicio": 96.7,
+     "fin": 96.88
+    },
+    {
+     "t": "años",
+     "inicio": 96.88,
+     "fin": 97.12
+    },
+    {
+     "t": "más",
+     "inicio": 97.12,
+     "fin": 97.36
+    },
+    {
+     "t": "del",
+     "inicio": 97.36,
+     "fin": 97.56
+    },
+    {
+     "t": "incremento",
+     "inicio": 97.56,
+     "fin": 98.18
+    },
+    {
+     "t": "de",
+     "inicio": 98.18,
+     "fin": 98.28
+    },
+    {
+     "t": "las",
+     "inicio": 98.28,
+     "fin": 98.42
+    },
+    {
+     "t": "violaciones,",
+     "inicio": 98.42,
+     "fin": 98.94
+    },
+    {
+     "t": "de",
+     "inicio": 99.2,
+     "fin": 99.22
+    },
+    {
+     "t": "los",
+     "inicio": 99.22,
+     "fin": 99.32
+    },
+    {
+     "t": "asaltos",
+     "inicio": 99.32,
+     "fin": 99.82
+    },
+    {
+     "t": "y",
+     "inicio": 99.82,
+     "fin": 100.2
+    },
+    {
+     "t": "las",
+     "inicio": 100.2,
+     "fin": 100.34
+    },
+    {
+     "t": "ocupaciones",
+     "inicio": 100.34,
+     "fin": 100.84
+    },
+    {
+     "t": "y",
+     "inicio": 100.84,
+     "fin": 101.36
+    },
+    {
+     "t": "cuatro",
+     "inicio": 101.36,
+     "fin": 101.6
+    },
+    {
+     "t": "años",
+     "inicio": 101.6,
+     "fin": 101.82
+    },
+    {
+     "t": "más",
+     "inicio": 101.82,
+     "fin": 102.14
+    },
+    {
+     "t": "de",
+     "inicio": 102.14,
+     "fin": 102.7
+    },
+    {
+     "t": "la",
+     "inicio": 102.7,
+     "fin": 102.8
+    },
+    {
+     "t": "frustración",
+     "inicio": 102.8,
+     "fin": 103.34
+    },
+    {
+     "t": "de",
+     "inicio": 103.34,
+     "fin": 103.6
+    },
+    {
+     "t": "una",
+     "inicio": 103.6,
+     "fin": 103.72
+    },
+    {
+     "t": "generación",
+     "inicio": 103.72,
+     "fin": 104.22
+    },
+    {
+     "t": "entera",
+     "inicio": 104.22,
+     "fin": 104.74
+    },
+    {
+     "t": "de",
+     "inicio": 104.74,
+     "fin": 105.1
+    },
+    {
+     "t": "jóvenes.",
+     "inicio": 105.1,
+     "fin": 105.36
+    },
+    {
+     "t": "Ante",
+     "inicio": 106,
+     "fin": 106.24
+    },
+    {
+     "t": "esta",
+     "inicio": 106.24,
+     "fin": 106.38
+    },
+    {
+     "t": "realidad,",
+     "inicio": 106.38,
+     "fin": 106.7
+    },
+    {
+     "t": "solo",
+     "inicio": 107.22,
+     "fin": 107.84
+    },
+    {
+     "t": "un",
+     "inicio": 107.84,
+     "fin": 108.24
+    },
+    {
+     "t": "box",
+     "inicio": 108.24,
+     "fin": 108.44
+    },
+    {
+     "t": "fuerte",
+     "inicio": 108.44,
+     "fin": 108.88
+    },
+    {
+     "t": "podrá",
+     "inicio": 108.88,
+     "fin": 109.66
+    },
+    {
+     "t": "desalojar",
+     "inicio": 109.66,
+     "fin": 110.16
+    },
+    {
+     "t": "a",
+     "inicio": 110.16,
+     "fin": 110.24
+    },
+    {
+     "t": "un",
+     "inicio": 110.24,
+     "fin": 110.32
+    },
+    {
+     "t": "Partido",
+     "inicio": 110.32,
+     "fin": 110.64
+    },
+    {
+     "t": "Socialista",
+     "inicio": 110.64,
+     "fin": 111.16
+    },
+    {
+     "t": "del",
+     "inicio": 111.16,
+     "fin": 111.68
+    },
+    {
+     "t": "Gobierno",
+     "inicio": 111.68,
+     "fin": 111.98
+    },
+    {
+     "t": "de",
+     "inicio": 111.98,
+     "fin": 112.12
+    },
+    {
+     "t": "España",
+     "inicio": 112.12,
+     "fin": 112.46
+    },
+    {
+     "t": "y",
+     "inicio": 112.46,
+     "fin": 112.9
+    },
+    {
+     "t": "solo",
+     "inicio": 112.9,
+     "fin": 113.06
+    },
+    {
+     "t": "un",
+     "inicio": 113.06,
+     "fin": 113.22
+    },
+    {
+     "t": "box",
+     "inicio": 113.22,
+     "fin": 113.4
+    },
+    {
+     "t": "fuerte",
+     "inicio": 113.4,
+     "fin": 113.84
+    },
+    {
+     "t": "será",
+     "inicio": 113.84,
+     "fin": 114.48
+    },
+    {
+     "t": "la",
+     "inicio": 114.48,
+     "fin": 114.98
+    },
+    {
+     "t": "garantía",
+     "inicio": 114.98,
+     "fin": 115.48
+    },
+    {
+     "t": "para",
+     "inicio": 115.48,
+     "fin": 115.72
+    },
+    {
+     "t": "impulsar",
+     "inicio": 115.72,
+     "fin": 116.18
+    },
+    {
+     "t": "esas",
+     "inicio": 116.18,
+     "fin": 116.34
+    },
+    {
+     "t": "políticas",
+     "inicio": 116.34,
+     "fin": 116.92
+    },
+    {
+     "t": "que",
+     "inicio": 116.92,
+     "fin": 117.56
+    },
+    {
+     "t": "lancen",
+     "inicio": 117.56,
+     "fin": 117.88
+    },
+    {
+     "t": "a",
+     "inicio": 117.88,
+     "fin": 118
+    },
+    {
+     "t": "la",
+     "inicio": 118,
+     "fin": 118.1
+    },
+    {
+     "t": "papelera",
+     "inicio": 118.1,
+     "fin": 118.58
+    },
+    {
+     "t": "de",
+     "inicio": 118.58,
+     "fin": 118.66
+    },
+    {
+     "t": "la",
+     "inicio": 118.66,
+     "fin": 118.74
+    },
+    {
+     "t": "historia",
+     "inicio": 118.74,
+     "fin": 119.04
+    },
+    {
+     "t": "la",
+     "inicio": 119.04,
+     "fin": 119.3
+    },
+    {
+     "t": "ruina",
+     "inicio": 119.3,
+     "fin": 119.64
+    },
+    {
+     "t": "que",
+     "inicio": 119.64,
+     "fin": 119.84
+    },
+    {
+     "t": "ha",
+     "inicio": 119.84,
+     "fin": 119.92
+    },
+    {
+     "t": "traído",
+     "inicio": 119.92,
+     "fin": 120.24
+    },
+    {
+     "t": "el",
+     "inicio": 120.24,
+     "fin": 120.54
+    },
+    {
+     "t": "Partido",
+     "inicio": 120.54,
+     "fin": 120.84
+    },
+    {
+     "t": "Socialista.",
+     "inicio": 120.84,
+     "fin": 121.34
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
