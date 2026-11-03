@@ -94,3 +94,4 @@
 - 2026-11-03 15:40 UTC · nota 3 · @vox_es (Garriga exige a Puente pedir perdón; tramo 0-25,06 s, subtítulos cotejados con la transcripción) · publicado am20261103-1540-garriga-puente-perdon
 - 2026-11-03 15:40 UTC · nota 2 · @vox_es (Garriga, corrupción jefe de gabinete de Illa) · descartado: una pieza por hora; 121 s y 'se sabía hace seis meses' no contrastable
 - 2026-11-03 16:40 UTC · nota 2 · @psoe (cómo votar el 29N desde el extranjero) · descartado: guía de trámite de una cuenta de partido sin noticia ni frase de choque, poco interés para nuestra audiencia pese a viral alto; único candidato · sin publicación
+- 2026-11-03 17:45 UTC · nota 4 · @isabeldiazayuso (Ayuso, acampada Puerta del Sol 38 días; tramos 0,24-13,46 y 60,26-72,68 s, subtítulos cotejados con la transcripción; corregido 'sanjismo'→'sanchismo'; omitidas las cifras de pérdidas y acusaciones de secuestro) · publicado am20261103-1745-ayuso-acampada-sol

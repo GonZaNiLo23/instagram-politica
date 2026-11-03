@@ -1,0 +1,110 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 29.14,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 25.64,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 25.64,
+     "fundidoFin": 25.64
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "AYUSO ACUSA A SÁNCHEZ POR LA ACAMPADA",
+     "fecha": "3 NOV",
+     "credito": "Vídeo: @isabeldiazayuso"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 2.6,
+       "texto": "Pedro Sánchez ha permitido otra vez"
+      },
+      {
+       "inicio": 2.6,
+       "fin": 5.14,
+       "texto": "una situación ilegal que se ha producido"
+      },
+      {
+       "inicio": 5.14,
+       "fin": 7.18,
+       "texto": "en Madrid durante 38 días."
+      },
+      {
+       "inicio": 7.44,
+       "fin": 10.02,
+       "texto": "Sánchez consintió por interés político"
+      },
+      {
+       "inicio": 10.02,
+       "fin": 12.14,
+       "texto": "que se ocupara ilegalmente"
+      },
+      {
+       "inicio": 12.14,
+       "fin": 13.22,
+       "texto": "la Puerta del Sol."
+      },
+      {
+       "inicio": 13.22,
+       "fin": 15.86,
+       "texto": "Por tanto, es imperdonable que una vez más"
+      },
+      {
+       "inicio": 15.86,
+       "fin": 17.44,
+       "texto": "Sánchez se haya permitido este daño"
+      },
+      {
+       "inicio": 17.44,
+       "fin": 19.04,
+       "texto": "para la imagen de España y de Madrid."
+      },
+      {
+       "inicio": 19.38,
+       "fin": 20.64,
+       "texto": "Es el legado que deja el sanchismo,"
+      },
+      {
+       "inicio": 20.94,
+       "fin": 23.2,
+       "texto": "ilegalidad, caos, abandono,"
+      },
+      {
+       "inicio": 23.38,
+       "fin": 25.64,
+       "texto": "suciedad, violencia y miseria."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 25.64,
+   "fin": 29.14,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Ayuso responsabiliza a Sánchez de 38 días de acampada en Sol",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}
