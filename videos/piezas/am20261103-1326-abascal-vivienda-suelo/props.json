@@ -1,0 +1,141 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 36.14,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 32.64,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 32.64,
+          "fundidoFin": 32.64
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL PROPONE LIBERALIZAR EL SUELO PARA CONSTRUIR",
+          "fecha": "3 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 1.28,
+              "texto": "pero no basta, también hay que iniciar"
+            },
+            {
+              "inicio": 1.28,
+              "fin": 3.6,
+              "texto": "un proceso de liberalización del suelo,"
+            },
+            {
+              "inicio": 3.7,
+              "fin": 5.1,
+              "texto": "es decir, que se pueda construir"
+            },
+            {
+              "inicio": 5.1,
+              "fin": 7.68,
+              "texto": "en todos aquellos lugares que no estén"
+            },
+            {
+              "inicio": 7.68,
+              "fin": 8.92,
+              "texto": "estrictamente protegidos."
+            },
+            {
+              "inicio": 9.14,
+              "fin": 11.36,
+              "texto": "Si uno sube a un edificio alto en Madrid,"
+            },
+            {
+              "inicio": 11.94,
+              "fin": 13.98,
+              "texto": "ve la cantidad de espacio en lugares que"
+            },
+            {
+              "inicio": 13.98,
+              "fin": 15.52,
+              "texto": "no son espacios naturales, precisamente,"
+            },
+            {
+              "inicio": 16.46,
+              "fin": 18.04,
+              "texto": "para poder seguir creciendo,"
+            },
+            {
+              "inicio": 18.2,
+              "fin": 19.34,
+              "texto": "para que haya construcción de vivienda,"
+            },
+            {
+              "inicio": 19.72,
+              "fin": 21.42,
+              "texto": "significa que hay que acabar con todo tipo de"
+            },
+            {
+              "inicio": 21.42,
+              "fin": 23.38,
+              "texto": "regulación ideológica en la construcción de vivienda"
+            },
+            {
+              "inicio": 23.85,
+              "fin": 25.64,
+              "texto": "y de sobreprecio como consecuencia"
+            },
+            {
+              "inicio": 25.64,
+              "fin": 27.4,
+              "texto": "de una fiscalidad abusiva."
+            },
+            {
+              "inicio": 27.48,
+              "fin": 29.18,
+              "texto": "Y, por supuesto, el Estado tiene que apostar"
+            },
+            {
+              "inicio": 29.18,
+              "fin": 30.88,
+              "texto": "por la construcción de vivienda social también"
+            },
+            {
+              "inicio": 30.88,
+              "fin": 32.64,
+              "texto": "para las familias más vulnerables."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 32.64,
+      "fin": 36.14,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal propone liberalizar suelo para construir más vivienda",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261103-1326-abascal-vivienda-suelo",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
