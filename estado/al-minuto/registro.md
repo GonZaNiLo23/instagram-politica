@@ -97,3 +97,4 @@
 - 2026-11-03 17:45 UTC · nota 4 · @isabeldiazayuso (Ayuso, acampada Puerta del Sol 38 días; tramos 0,24-13,46 y 60,26-72,68 s, subtítulos cotejados con la transcripción; corregido 'sanjismo'→'sanchismo'; omitidas las cifras de pérdidas y acusaciones de secuestro) · publicado am20261103-1745-ayuso-acampada-sol
 - 2026-11-03 18:45 UTC · sin candidatos (radar generado 18:38 UTC, candidatos vacíos) · sin publicación
 - 2026-11-03 19:45 UTC · sin candidatos (radar generado 19:34 UTC, candidatos vacíos) · sin publicación
+- 2026-11-03 20:45 UTC · sin candidatos (radar generado 20:37 UTC, candidatos vacíos) · sin publicación
