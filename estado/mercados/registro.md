@@ -1,3 +1,4 @@
 - 2026-10-29: fallo — el JSON de cierres (GitHub Actions 22:05) no llegó tras ~20 min de espera (hasta 22:35 Madrid). No se escriben textos ni se publica historia.
 - 2026-10-30: fallo — el JSON de cierres (GitHub Actions 22:05) no llegó tras ~20 min de espera (hasta 22:35 Madrid); solo había uno generado a las 01:50 con cierres antiguos (IBEX 28-oct, EE. UU. 29-oct). No se escriben textos ni se publica historia.
 - 2026-11-02: FALLO: GitHub Actions no dejó estado/mercados/2026-11-02.json tras esperar 20 min (22:16–22:40 Madrid). No se escriben textos ni se publica historia.
+- 2026-11-03: FALLO: GitHub Actions no actualizó estado/mercados/2026-11-03.json tras esperar 20 min (22:17–22:37 Madrid); solo había uno generado a las 03:52 con cierres del 2-nov. No se escriben textos ni se publica historia.
