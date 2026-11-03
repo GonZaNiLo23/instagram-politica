@@ -88,3 +88,5 @@
 - 2026-11-03 12:40 UTC · nota 3 · @vox_es (Vox, votar el 29-N) · descartado: spot de campaña sin noticia
 - 2026-11-03 12:40 UTC · nota 2 · @vox_es (Abascal, muertos bajo las alfombras) · descartado: insinuación no contrastable
 - 2026-11-03 12:40 UTC · nota 2 · @vox_es (Abascal responde al PP) · descartado: 175 s sin tramo autónomo claro; mismo tema ya descartado
+- 2026-11-03 13:40 UTC · nota 3 · @vox_es (Abascal, vivienda y liberalización del suelo; tramo 21,0-53,64 s, subtítulos cotejados con la transcripción; omitido el pasaje previo sobre remigración, el tramo empieza en "pero no basta") · publicado am20261103-1326-abascal-vivienda-suelo
+- 2026-11-03 13:40 UTC · nota 2 · @vox_es (apoderados electorales, "nos roben las elecciones") · descartado: llamamiento de campaña sin noticia, acusación de fraude no contrastable
