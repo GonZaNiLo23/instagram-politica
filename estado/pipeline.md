@@ -57,3 +57,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261102-1233-buxade-trenes-redondo | Al minuto: Buxadé (Vox) responde a Redondo sobre los trenes | publicando (Al minuto horario) |
 | am20261103-1226-abascal-huelga-ugt-ccoo | Al minuto: Abascal (Vox) critica la huelga general de UGT y CCOO | publicando (Al minuto horario) |
 | am20261103-1326-abascal-vivienda-suelo | Al minuto: Abascal (Vox) propone liberalizar el suelo para construir vivienda | publicando (Al minuto horario) |
+| am20261103-1540-garriga-puente-perdon | Al minuto: Garriga (Vox) exige a Puente pedir perdón en su comparecencia | publicando (Al minuto horario) |

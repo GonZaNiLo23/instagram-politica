@@ -1,0 +1,111 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 28.56,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "sinVoz": true,
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 25.06,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 25.06,
+     "fundidoFin": 25.06
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "GARRIGA EXIGE A PUENTE PEDIR PERDÓN Y MARCHARSE",
+     "fecha": "3 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 2.0,
+       "texto": "El ministro Puente, en la comparecencia"
+      },
+      {
+       "inicio": 2.0,
+       "fin": 3.9,
+       "texto": "que tiene hoy en el Congreso de los Diputados,"
+      },
+      {
+       "inicio": 4.52,
+       "fin": 6.3,
+       "texto": "debería, en primer lugar, pedir perdón,"
+      },
+      {
+       "inicio": 6.3,
+       "fin": 8.14,
+       "texto": "decir que se marcha a su casa"
+      },
+      {
+       "inicio": 8.14,
+       "fin": 10.22,
+       "texto": "y que se va a poner a disposición judicial."
+      },
+      {
+       "inicio": 10.66,
+       "fin": 12.3,
+       "texto": "Todo lo que puede explicar hoy"
+      },
+      {
+       "inicio": 12.3,
+       "fin": 13.94,
+       "texto": "el ministro Puente o el Partido Socialista,"
+      },
+      {
+       "inicio": 14.1,
+       "fin": 16.2,
+       "texto": "sea el presidente del Gobierno"
+      },
+      {
+       "inicio": 16.2,
+       "fin": 18.28,
+       "texto": "o cualquier portavoz del Partido Socialista,"
+      },
+      {
+       "inicio": 18.6,
+       "fin": 20.96,
+       "texto": "es insultar al conjunto de los españoles"
+      },
+      {
+       "inicio": 21.47,
+       "fin": 23.0,
+       "texto": "y pisotear la memoria de las víctimas"
+      },
+      {
+       "inicio": 23.0,
+       "fin": 25.06,
+       "texto": "de Urda o Adamuz."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 25.06,
+   "fin": 28.56,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Vox exige que Puente pida perdón y se marche",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ]
+}

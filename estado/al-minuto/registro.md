@@ -91,3 +91,5 @@
 - 2026-11-03 13:40 UTC · nota 3 · @vox_es (Abascal, vivienda y liberalización del suelo; tramo 21,0-53,64 s, subtítulos cotejados con la transcripción; omitido el pasaje previo sobre remigración, el tramo empieza en "pero no basta") · publicado am20261103-1326-abascal-vivienda-suelo
 - 2026-11-03 13:40 UTC · nota 2 · @vox_es (apoderados electorales, "nos roben las elecciones") · descartado: llamamiento de campaña sin noticia, acusación de fraude no contrastable
 - 2026-11-03 14:40 UTC · sin candidatos (radar generado 14:28 UTC, candidatos vacíos) · sin publicación
+- 2026-11-03 15:40 UTC · nota 3 · @vox_es (Garriga exige a Puente pedir perdón; tramo 0-25,06 s, subtítulos cotejados con la transcripción) · publicado am20261103-1540-garriga-puente-perdon
+- 2026-11-03 15:40 UTC · nota 2 · @vox_es (Garriga, corrupción jefe de gabinete de Illa) · descartado: una pieza por hora; 121 s y 'se sabía hace seis meses' no contrastable
