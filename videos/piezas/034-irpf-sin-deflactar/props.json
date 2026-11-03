@@ -1,0 +1,1640 @@
+{
+  "plantilla": "estandar",
+  "duracion": 86.48,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "ejemploP"
+          },
+          {
+            "tipo": "barrasI",
+            "y": 330,
+            "tam": 96,
+            "iEn": -5,
+            "dur": 0.01
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.14,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "barrasI",
+          "y": 330,
+          "tam": 96,
+          "iEn": 1.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Precios: IPC adelantado de octubre, INE (30-10)"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 4.14,
+      "fin": 12.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO: tributas por 20.000 €",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaAnioI",
+          "y": 556,
+          "h": 164,
+          "l1": "Año 0: 20.000 €",
+          "l2": "→ IRPF 3.123 €",
+          "en": 1.22,
+          "en2": 1.52
+        },
+        {
+          "tipo": "tarjetaAnioI",
+          "y": 735,
+          "h": 164,
+          "l1": "Año 1: 20.980 €",
+          "l2": "→ IRPF 3.405 €",
+          "en": 2.82,
+          "en2": 5.86,
+          "fondo": "#FBE3A8"
+        },
+        {
+          "tipo": "chipI",
+          "y": 918,
+          "texto": "Sueldo +4,9 %",
+          "ancho": 600,
+          "en": 3.22,
+          "fondo": "#14213D"
+        },
+        {
+          "tipo": "chipI",
+          "y": 1024,
+          "texto": "IRPF +9 %",
+          "ancho": 440,
+          "en": 6.82,
+          "fondo": "#F2B134",
+          "color": "#14213D"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio · soltero, sin hijos, < 65 años · base liquidable · escala autonómica = estatal (p. ej., C.-La Mancha)"
+          ],
+          "en": 1.38
+        }
+      ]
+    },
+    {
+      "inicio": 12.86,
+      "fin": 31.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "escalonI",
+          "vivo": true,
+          "y0": 1090,
+          "en": 2.16,
+          "paso": 0.9,
+          "barraEn": 4.9,
+          "sube": 8.34,
+          "luz": 10.5,
+          "atenua": 12.64,
+          "vuelve": 14.88,
+          "desplaza": 15.440000000000001
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "TRAMOS: 19 % · 24 % · 30 %",
+          "y": 560,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.9
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Los tramos no se ajustan solos",
+          "y": 560,
+          "en": 4.9,
+          "tamano": 64,
+          "hasta": 12.69
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PROGRESIVIDAD EN FRÍO",
+          "y": 560,
+          "en": 12.69,
+          "tamano": 64,
+          "hasta": 14.93
+        },
+        {
+          "tipo": "copoI",
+          "x": 540,
+          "y": 880,
+          "r": 190,
+          "en": 12.69,
+          "hasta": 14.93
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DEFLACTAR = ajustar al IPC",
+          "y": 560,
+          "en": 14.93,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 31.42,
+      "fin": 36.94,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "+129 € DE IRPF",
+          "y": 385,
+          "en": 0.88,
+          "tamano": 96,
+          "color": "#14213D"
+        },
+        {
+          "tipo": "comparaI",
+          "enB": 0.1,
+          "enA": 3.02,
+          "enDif": 3.92
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio con la tarifa del IRPF (art. 57 y 63 LIRPF)"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 36.94,
+      "fin": 41.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "BANCO DE ESPAÑA · 2019‑2023",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "edificioI",
+          "x": 540,
+          "y": 640,
+          "ancho": 520,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Doc. Ocasional 2422 (14-6-2024)"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 41.66,
+      "fin": 46.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "≈ la mitad de la subida de IRPF/PIB",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mitadI",
+          "vivo": true,
+          "y": 700,
+          "en": 0.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Doc. Ocasional 2422 (14-6-2024)"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 46.46,
+      "fin": 51.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Más en rentas medias y medias-altas",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 2.86
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Reduce la desigualdad de renta neta",
+          "y": 385,
+          "en": 2.86,
+          "tamano": 64
+        },
+        {
+          "tipo": "rentasI",
+          "base": 1100,
+          "hMax": 330,
+          "luz": 0.9,
+          "comprime": 3.18
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Doc. Ocasional 2422 (14-6-2024)"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 51.74,
+      "fin": 55.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "INFORME DE PROGRESO ANUAL 2026",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "caratulaI",
+          "y": 700,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Gobierno de España, Informe de Progreso Anual 2026"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 55.02,
+      "fin": 60.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "informeI",
+          "directo": true,
+          "valor": 2294,
+          "etiqueta": "No deflactar en 2025",
+          "cuentaEn": 0.3,
+          "cuentaDur": 3.1,
+          "yCifra": 640,
+          "yPartes": 880,
+          "partes": [
+            {
+              "texto": "Estado 1.137",
+              "en": 3.5
+            },
+            {
+              "texto": "CCAA 1.157",
+              "en": 3.8
+            }
+          ]
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 715,
+          "y": 560,
+          "tamano": 88,
+          "angulo": -6,
+          "desde": 40,
+          "en": 3.4,
+          "reboteMax": 0
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Gobierno de España, Informe de Progreso Anual 2026 (pp. 23 y 44)"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 60.54,
+      "fin": 64.18,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Hasta 2028: cuenta como ingresos",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "aniosI",
+          "y": 800,
+          "en": 0.3,
+          "dur": 2.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Gobierno de España, Informe de Progreso Anual 2026"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 64.18,
+      "fin": 66.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PP: deflactar el IRPF (moción, 22-4-2026)",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "escaleraIcoI",
+          "x": 520,
+          "y": 960,
+          "esc": 1.35,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 66.74,
+      "fin": 70.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HACIENDA: ya actualizado con el SMI",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "nominaI",
+          "x": 540,
+          "y": 660,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Arcadi España, entrevista en elDiario.es (29-4-2026)"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 70.9,
+      "fin": 78.43,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "barrasI",
+          "y": 340,
+          "tam": 72,
+          "base": 1100,
+          "hMax": 380,
+          "iEn": 1,
+          "paso": 96
+        }
+      ]
+    },
+    {
+      "inicio": 78.43,
+      "fin": 82.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿AJUSTAR O DEJAR?",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 96
+        },
+        {
+          "tipo": "barrasI",
+          "rot": false,
+          "base": 840,
+          "hMax": 220,
+          "iEn": -5,
+          "dur": 0.01,
+          "preg": 0.4
+        },
+        {
+          "tipo": "abSerie",
+          "a": "AJUSTAR AL IPC",
+          "b": "DEJAR COMO ESTÁ",
+          "y": 880,
+          "en": 0.9
+        }
+      ]
+    },
+    {
+      "inicio": 82.34,
+      "fin": 86.48,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿AJUSTAR O DEJAR?",
+          "tamano": 104,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "034-irpf-sin-deflactar",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Sueldo",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "t": "y",
+      "inicio": 0.427,
+      "fin": 0.453
+    },
+    {
+      "t": "precios",
+      "inicio": 0.48,
+      "fin": 0.96
+    },
+    {
+      "t": "suben",
+      "inicio": 1.2,
+      "fin": 1.44
+    },
+    {
+      "t": "igual.",
+      "inicio": 1.52,
+      "fin": 1.92
+    },
+    {
+      "t": "Tu",
+      "inicio": 2.24,
+      "fin": 2.32
+    },
+    {
+      "t": "IRPF,",
+      "inicio": 2.4,
+      "fin": 3.2
+    },
+    {
+      "t": "no.",
+      "inicio": 3.52,
+      "fin": 3.76
+    },
+    {
+      "t": "Imagina",
+      "inicio": 4.24,
+      "fin": 4.56
+    },
+    {
+      "t": "que",
+      "inicio": 4.64,
+      "fin": 4.72
+    },
+    {
+      "t": "tributas",
+      "inicio": 4.84,
+      "fin": 5.28
+    },
+    {
+      "t": "por",
+      "inicio": 5.36,
+      "fin": 5.44
+    },
+    {
+      "t": "veinte",
+      "inicio": 5.52,
+      "fin": 5.76
+    },
+    {
+      "t": "mil",
+      "inicio": 5.84,
+      "fin": 6
+    },
+    {
+      "t": "euros.",
+      "inicio": 6.08,
+      "fin": 6.64
+    },
+    {
+      "t": "Te",
+      "inicio": 6.8,
+      "fin": 6.88
+    },
+    {
+      "t": "suben",
+      "inicio": 6.96,
+      "fin": 7.12
+    },
+    {
+      "t": "el",
+      "inicio": 7.2,
+      "fin": 7.28
+    },
+    {
+      "t": "sueldo",
+      "inicio": 7.36,
+      "fin": 7.68
+    },
+    {
+      "t": "un",
+      "inicio": 7.76,
+      "fin": 8
+    },
+    {
+      "t": "cuatro",
+      "inicio": 8.08,
+      "fin": 8.32
+    },
+    {
+      "t": "coma",
+      "inicio": 8.48,
+      "fin": 8.64
+    },
+    {
+      "t": "nueve",
+      "inicio": 8.72,
+      "fin": 8.88
+    },
+    {
+      "t": "por",
+      "inicio": 9.04,
+      "fin": 9.12
+    },
+    {
+      "t": "ciento.",
+      "inicio": 9.2,
+      "fin": 9.92
+    },
+    {
+      "t": "Tu",
+      "inicio": 10,
+      "fin": 10.08
+    },
+    {
+      "t": "IRPF",
+      "inicio": 10.12,
+      "fin": 10.88
+    },
+    {
+      "t": "sube",
+      "inicio": 10.96,
+      "fin": 11.2
+    },
+    {
+      "t": "un",
+      "inicio": 11.36,
+      "fin": 11.52
+    },
+    {
+      "t": "nueve",
+      "inicio": 11.6,
+      "fin": 11.84
+    },
+    {
+      "t": "por",
+      "inicio": 11.92,
+      "fin": 12.08
+    },
+    {
+      "t": "ciento.",
+      "inicio": 12.12,
+      "fin": 12.88
+    },
+    {
+      "t": "El",
+      "inicio": 12.96,
+      "fin": 13.04
+    },
+    {
+      "t": "IRPF",
+      "inicio": 13.08,
+      "fin": 13.76
+    },
+    {
+      "t": "funciona",
+      "inicio": 13.84,
+      "fin": 14.24
+    },
+    {
+      "t": "por",
+      "inicio": 14.32,
+      "fin": 14.4
+    },
+    {
+      "t": "tramos:",
+      "inicio": 14.48,
+      "fin": 15.28
+    },
+    {
+      "t": "cuanto",
+      "inicio": 15.32,
+      "fin": 15.6
+    },
+    {
+      "t": "más",
+      "inicio": 15.64,
+      "fin": 15.76
+    },
+    {
+      "t": "ganas,",
+      "inicio": 15.84,
+      "fin": 16.4
+    },
+    {
+      "t": "más",
+      "inicio": 16.44,
+      "fin": 16.64
+    },
+    {
+      "t": "tipo",
+      "inicio": 16.76,
+      "fin": 16.88
+    },
+    {
+      "t": "pagas.",
+      "inicio": 16.96,
+      "fin": 17.44
+    },
+    {
+      "t": "Pero",
+      "inicio": 17.76,
+      "fin": 17.92
+    },
+    {
+      "t": "esos",
+      "inicio": 18,
+      "fin": 18.16
+    },
+    {
+      "t": "tramos",
+      "inicio": 18.24,
+      "fin": 18.56
+    },
+    {
+      "t": "no",
+      "inicio": 18.8,
+      "fin": 18.88
+    },
+    {
+      "t": "suben",
+      "inicio": 18.96,
+      "fin": 19.2
+    },
+    {
+      "t": "solos",
+      "inicio": 19.36,
+      "fin": 19.6
+    },
+    {
+      "t": "con",
+      "inicio": 19.68,
+      "fin": 19.76
+    },
+    {
+      "t": "los",
+      "inicio": 19.84,
+      "fin": 19.92
+    },
+    {
+      "t": "precios.",
+      "inicio": 20,
+      "fin": 20.48
+    },
+    {
+      "t": "Si",
+      "inicio": 20.88,
+      "fin": 20.96
+    },
+    {
+      "t": "tu",
+      "inicio": 21.04,
+      "fin": 21.12
+    },
+    {
+      "t": "subida",
+      "inicio": 21.2,
+      "fin": 21.52
+    },
+    {
+      "t": "solo",
+      "inicio": 21.6,
+      "fin": 21.84
+    },
+    {
+      "t": "cubre",
+      "inicio": 21.92,
+      "fin": 22.16
+    },
+    {
+      "t": "la",
+      "inicio": 22.2,
+      "fin": 22.24
+    },
+    {
+      "t": "inflación,",
+      "inicio": 22.32,
+      "fin": 23.12
+    },
+    {
+      "t": "una",
+      "inicio": 23.2,
+      "fin": 23.28
+    },
+    {
+      "t": "parte",
+      "inicio": 23.36,
+      "fin": 23.56
+    },
+    {
+      "t": "mayor",
+      "inicio": 23.6,
+      "fin": 23.92
+    },
+    {
+      "t": "paga",
+      "inicio": 24.08,
+      "fin": 24.24
+    },
+    {
+      "t": "los",
+      "inicio": 24.32,
+      "fin": 24.48
+    },
+    {
+      "t": "tipos",
+      "inicio": 24.56,
+      "fin": 24.8
+    },
+    {
+      "t": "altos.",
+      "inicio": 24.92,
+      "fin": 25.28
+    },
+    {
+      "t": "Se",
+      "inicio": 25.6,
+      "fin": 25.68
+    },
+    {
+      "t": "llama",
+      "inicio": 25.76,
+      "fin": 26
+    },
+    {
+      "t": "progresividad",
+      "inicio": 26.16,
+      "fin": 26.96
+    },
+    {
+      "t": "en",
+      "inicio": 27,
+      "fin": 27.04
+    },
+    {
+      "t": "frío.",
+      "inicio": 27.12,
+      "fin": 27.52
+    },
+    {
+      "t": "Y",
+      "inicio": 27.84,
+      "fin": 27.92
+    },
+    {
+      "t": "ajustar",
+      "inicio": 28,
+      "fin": 28.32
+    },
+    {
+      "t": "los",
+      "inicio": 28.4,
+      "fin": 28.48
+    },
+    {
+      "t": "tramos",
+      "inicio": 28.56,
+      "fin": 28.88
+    },
+    {
+      "t": "al",
+      "inicio": 28.96,
+      "fin": 29.04
+    },
+    {
+      "t": "IPC",
+      "inicio": 29.08,
+      "fin": 29.44
+    },
+    {
+      "t": "se",
+      "inicio": 29.68,
+      "fin": 29.76
+    },
+    {
+      "t": "llama",
+      "inicio": 29.84,
+      "fin": 30.08
+    },
+    {
+      "t": "deflactar.",
+      "inicio": 30.32,
+      "fin": 31.12
+    },
+    {
+      "t": "En",
+      "inicio": 31.52,
+      "fin": 31.6
+    },
+    {
+      "t": "el",
+      "inicio": 31.64,
+      "fin": 31.68
+    },
+    {
+      "t": "ejemplo,",
+      "inicio": 31.76,
+      "fin": 32.32
+    },
+    {
+      "t": "pagas",
+      "inicio": 32.4,
+      "fin": 32.64
+    },
+    {
+      "t": "unos",
+      "inicio": 32.76,
+      "fin": 32.88
+    },
+    {
+      "t": "ciento",
+      "inicio": 32.96,
+      "fin": 33.28
+    },
+    {
+      "t": "veintinueve",
+      "inicio": 33.36,
+      "fin": 33.84
+    },
+    {
+      "t": "euros",
+      "inicio": 34,
+      "fin": 34.24
+    },
+    {
+      "t": "más…",
+      "inicio": 34.32,
+      "fin": 34.8
+    },
+    {
+      "t": "que",
+      "inicio": 34.84,
+      "fin": 34.88
+    },
+    {
+      "t": "si",
+      "inicio": 34.96,
+      "fin": 35.12
+    },
+    {
+      "t": "todo",
+      "inicio": 35.28,
+      "fin": 35.52
+    },
+    {
+      "t": "se",
+      "inicio": 35.6,
+      "fin": 35.68
+    },
+    {
+      "t": "hubiera",
+      "inicio": 35.76,
+      "fin": 36
+    },
+    {
+      "t": "ajustado.",
+      "inicio": 36.08,
+      "fin": 36.64
+    },
+    {
+      "t": "El",
+      "inicio": 37.04,
+      "fin": 37.12
+    },
+    {
+      "t": "Banco",
+      "inicio": 37.2,
+      "fin": 37.36
+    },
+    {
+      "t": "de",
+      "inicio": 37.44,
+      "fin": 37.48
+    },
+    {
+      "t": "España",
+      "inicio": 37.52,
+      "fin": 37.92
+    },
+    {
+      "t": "estimó",
+      "inicio": 38.04,
+      "fin": 38.32
+    },
+    {
+      "t": "el",
+      "inicio": 38.36,
+      "fin": 38.4
+    },
+    {
+      "t": "efecto",
+      "inicio": 38.48,
+      "fin": 38.8
+    },
+    {
+      "t": "entre",
+      "inicio": 38.92,
+      "fin": 39.04
+    },
+    {
+      "t": "dos",
+      "inicio": 39.12,
+      "fin": 39.28
+    },
+    {
+      "t": "mil",
+      "inicio": 39.36,
+      "fin": 39.44
+    },
+    {
+      "t": "diecinueve",
+      "inicio": 39.52,
+      "fin": 40
+    },
+    {
+      "t": "y",
+      "inicio": 40.24,
+      "fin": 40.32
+    },
+    {
+      "t": "dos",
+      "inicio": 40.4,
+      "fin": 40.48
+    },
+    {
+      "t": "mil",
+      "inicio": 40.56,
+      "fin": 40.64
+    },
+    {
+      "t": "veintitrés.",
+      "inicio": 40.72,
+      "fin": 41.68
+    },
+    {
+      "t": "Explica",
+      "inicio": 41.76,
+      "fin": 42.24
+    },
+    {
+      "t": "en",
+      "inicio": 42.4,
+      "fin": 42.56
+    },
+    {
+      "t": "torno",
+      "inicio": 42.6,
+      "fin": 42.8
+    },
+    {
+      "t": "a",
+      "inicio": 42.88,
+      "fin": 42.92
+    },
+    {
+      "t": "la",
+      "inicio": 42.96,
+      "fin": 43.04
+    },
+    {
+      "t": "mitad",
+      "inicio": 43.16,
+      "fin": 43.44
+    },
+    {
+      "t": "de",
+      "inicio": 43.48,
+      "fin": 43.52
+    },
+    {
+      "t": "lo",
+      "inicio": 43.6,
+      "fin": 43.64
+    },
+    {
+      "t": "que",
+      "inicio": 43.68,
+      "fin": 43.76
+    },
+    {
+      "t": "subió",
+      "inicio": 43.84,
+      "fin": 44.08
+    },
+    {
+      "t": "el",
+      "inicio": 44.16,
+      "fin": 44.24
+    },
+    {
+      "t": "IRPF",
+      "inicio": 44.32,
+      "fin": 44.96
+    },
+    {
+      "t": "respecto",
+      "inicio": 45.04,
+      "fin": 45.48
+    },
+    {
+      "t": "al",
+      "inicio": 45.52,
+      "fin": 45.6
+    },
+    {
+      "t": "PIB.",
+      "inicio": 45.68,
+      "fin": 46.08
+    },
+    {
+      "t": "Afecta",
+      "inicio": 46.56,
+      "fin": 46.92
+    },
+    {
+      "t": "más",
+      "inicio": 46.96,
+      "fin": 47.12
+    },
+    {
+      "t": "a",
+      "inicio": 47.16,
+      "fin": 47.2
+    },
+    {
+      "t": "rentas",
+      "inicio": 47.32,
+      "fin": 47.6
+    },
+    {
+      "t": "medias",
+      "inicio": 47.68,
+      "fin": 48.08
+    },
+    {
+      "t": "y",
+      "inicio": 48.16,
+      "fin": 48.24
+    },
+    {
+      "t": "medias-altas,",
+      "inicio": 48.32,
+      "fin": 49.28
+    },
+    {
+      "t": "y",
+      "inicio": 49.32,
+      "fin": 49.36
+    },
+    {
+      "t": "reduce",
+      "inicio": 49.44,
+      "fin": 49.92
+    },
+    {
+      "t": "la",
+      "inicio": 49.96,
+      "fin": 50
+    },
+    {
+      "t": "desigualdad",
+      "inicio": 50.08,
+      "fin": 50.64
+    },
+    {
+      "t": "de",
+      "inicio": 50.68,
+      "fin": 50.72
+    },
+    {
+      "t": "renta",
+      "inicio": 50.8,
+      "fin": 51.08
+    },
+    {
+      "t": "neta.",
+      "inicio": 51.12,
+      "fin": 51.64
+    },
+    {
+      "t": "El",
+      "inicio": 51.84,
+      "fin": 51.92
+    },
+    {
+      "t": "informe",
+      "inicio": 52,
+      "fin": 52.32
+    },
+    {
+      "t": "anual",
+      "inicio": 52.4,
+      "fin": 52.64
+    },
+    {
+      "t": "del",
+      "inicio": 52.72,
+      "fin": 52.8
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 52.88,
+      "fin": 53.2
+    },
+    {
+      "t": "a",
+      "inicio": 53.24,
+      "fin": 53.28
+    },
+    {
+      "t": "Bruselas",
+      "inicio": 53.32,
+      "fin": 53.84
+    },
+    {
+      "t": "también",
+      "inicio": 53.88,
+      "fin": 54.16
+    },
+    {
+      "t": "lo",
+      "inicio": 54.24,
+      "fin": 54.32
+    },
+    {
+      "t": "mide.",
+      "inicio": 54.36,
+      "fin": 54.72
+    },
+    {
+      "t": "No",
+      "inicio": 55.12,
+      "fin": 55.28
+    },
+    {
+      "t": "deflactar",
+      "inicio": 55.36,
+      "fin": 55.84
+    },
+    {
+      "t": "en",
+      "inicio": 55.92,
+      "fin": 56
+    },
+    {
+      "t": "dos",
+      "inicio": 56.08,
+      "fin": 56.16
+    },
+    {
+      "t": "mil",
+      "inicio": 56.24,
+      "fin": 56.32
+    },
+    {
+      "t": "veinticinco",
+      "inicio": 56.4,
+      "fin": 56.88
+    },
+    {
+      "t": "aportó",
+      "inicio": 57.28,
+      "fin": 57.84
+    },
+    {
+      "t": "dos",
+      "inicio": 57.92,
+      "fin": 58.08
+    },
+    {
+      "t": "mil",
+      "inicio": 58.24,
+      "fin": 58.32
+    },
+    {
+      "t": "doscientos",
+      "inicio": 58.4,
+      "fin": 58.96
+    },
+    {
+      "t": "noventa",
+      "inicio": 59.04,
+      "fin": 59.36
+    },
+    {
+      "t": "y",
+      "inicio": 59.44,
+      "fin": 59.48
+    },
+    {
+      "t": "cuatro",
+      "inicio": 59.52,
+      "fin": 59.68
+    },
+    {
+      "t": "millones.",
+      "inicio": 59.76,
+      "fin": 60.32
+    },
+    {
+      "t": "Y",
+      "inicio": 60.64,
+      "fin": 60.72
+    },
+    {
+      "t": "lo",
+      "inicio": 60.76,
+      "fin": 60.8
+    },
+    {
+      "t": "contabiliza",
+      "inicio": 60.92,
+      "fin": 61.44
+    },
+    {
+      "t": "como",
+      "inicio": 61.52,
+      "fin": 61.68
+    },
+    {
+      "t": "ingresos",
+      "inicio": 61.76,
+      "fin": 62.4
+    },
+    {
+      "t": "hasta",
+      "inicio": 62.44,
+      "fin": 62.72
+    },
+    {
+      "t": "dos",
+      "inicio": 62.8,
+      "fin": 62.88
+    },
+    {
+      "t": "mil",
+      "inicio": 63.04,
+      "fin": 63.12
+    },
+    {
+      "t": "veintiocho.",
+      "inicio": 63.2,
+      "fin": 64.24
+    },
+    {
+      "t": "El",
+      "inicio": 64.28,
+      "fin": 64.32
+    },
+    {
+      "t": "PP",
+      "inicio": 64.4,
+      "fin": 64.72
+    },
+    {
+      "t": "pide",
+      "inicio": 64.88,
+      "fin": 65.12
+    },
+    {
+      "t": "deflactar",
+      "inicio": 65.2,
+      "fin": 65.76
+    },
+    {
+      "t": "el",
+      "inicio": 65.84,
+      "fin": 65.92
+    },
+    {
+      "t": "impuesto.",
+      "inicio": 66,
+      "fin": 66.8
+    },
+    {
+      "t": "El",
+      "inicio": 66.84,
+      "fin": 66.88
+    },
+    {
+      "t": "ministro",
+      "inicio": 66.96,
+      "fin": 67.28
+    },
+    {
+      "t": "de",
+      "inicio": 67.36,
+      "fin": 67.4
+    },
+    {
+      "t": "Hacienda",
+      "inicio": 67.44,
+      "fin": 67.84
+    },
+    {
+      "t": "dice",
+      "inicio": 67.92,
+      "fin": 68.16
+    },
+    {
+      "t": "que",
+      "inicio": 68.24,
+      "fin": 68.32
+    },
+    {
+      "t": "ya",
+      "inicio": 68.48,
+      "fin": 68.56
+    },
+    {
+      "t": "lo",
+      "inicio": 68.64,
+      "fin": 68.72
+    },
+    {
+      "t": "actualizó",
+      "inicio": 68.88,
+      "fin": 69.28
+    },
+    {
+      "t": "con",
+      "inicio": 69.36,
+      "fin": 69.44
+    },
+    {
+      "t": "el",
+      "inicio": 69.52,
+      "fin": 69.6
+    },
+    {
+      "t": "salario",
+      "inicio": 69.68,
+      "fin": 70
+    },
+    {
+      "t": "mínimo.",
+      "inicio": 70.08,
+      "fin": 70.88
+    },
+    {
+      "t": "Resumen:",
+      "inicio": 71,
+      "fin": 71.76
+    },
+    {
+      "t": "si",
+      "inicio": 71.84,
+      "fin": 71.92
+    },
+    {
+      "t": "los",
+      "inicio": 72,
+      "fin": 72.08
+    },
+    {
+      "t": "tramos",
+      "inicio": 72.16,
+      "fin": 72.48
+    },
+    {
+      "t": "no",
+      "inicio": 72.56,
+      "fin": 72.64
+    },
+    {
+      "t": "se",
+      "inicio": 72.72,
+      "fin": 72.8
+    },
+    {
+      "t": "mueven,",
+      "inicio": 72.88,
+      "fin": 73.36
+    },
+    {
+      "t": "la",
+      "inicio": 73.4,
+      "fin": 73.44
+    },
+    {
+      "t": "inflación",
+      "inicio": 73.52,
+      "fin": 74
+    },
+    {
+      "t": "también",
+      "inicio": 74.08,
+      "fin": 74.48
+    },
+    {
+      "t": "te",
+      "inicio": 74.56,
+      "fin": 74.72
+    },
+    {
+      "t": "sube",
+      "inicio": 74.84,
+      "fin": 75
+    },
+    {
+      "t": "el",
+      "inicio": 75.04,
+      "fin": 75.12
+    },
+    {
+      "t": "IRPF.",
+      "inicio": 75.2,
+      "fin": 76.32
+    },
+    {
+      "t": "Sueldo",
+      "inicio": 76.4,
+      "fin": 76.64
+    },
+    {
+      "t": "y",
+      "inicio": 76.72,
+      "fin": 76.76
+    },
+    {
+      "t": "precios",
+      "inicio": 76.8,
+      "fin": 77.36
+    },
+    {
+      "t": "suben",
+      "inicio": 77.44,
+      "fin": 77.76
+    },
+    {
+      "t": "igual.",
+      "inicio": 77.84,
+      "fin": 78.48
+    },
+    {
+      "t": "¿Ajustarías",
+      "inicio": 78.533,
+      "fin": 79.12
+    },
+    {
+      "t": "los",
+      "inicio": 79.2,
+      "fin": 79.28
+    },
+    {
+      "t": "tramos",
+      "inicio": 79.36,
+      "fin": 79.68
+    },
+    {
+      "t": "al",
+      "inicio": 79.72,
+      "fin": 79.76
+    },
+    {
+      "t": "IPC…",
+      "inicio": 79.84,
+      "fin": 80.56
+    },
+    {
+      "t": "o",
+      "inicio": 80.6,
+      "fin": 80.64
+    },
+    {
+      "t": "los",
+      "inicio": 80.72,
+      "fin": 80.8
+    },
+    {
+      "t": "dejarías",
+      "inicio": 80.88,
+      "fin": 81.28
+    },
+    {
+      "t": "como",
+      "inicio": 81.36,
+      "fin": 81.52
+    },
+    {
+      "t": "están?",
+      "inicio": 81.64,
+      "fin": 82.4
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 82.44,
+      "fin": 82.88
+    },
+    {
+      "t": "para",
+      "inicio": 82.96,
+      "fin": 83.12
+    },
+    {
+      "t": "estar",
+      "inicio": 83.24,
+      "fin": 83.36
+    },
+    {
+      "t": "informado.",
+      "inicio": 83.56,
+      "fin": 84.16
+    }
+  ]
+}

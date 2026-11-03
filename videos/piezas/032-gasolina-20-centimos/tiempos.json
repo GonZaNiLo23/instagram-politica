@@ -1,0 +1,428 @@
+{
+  "palabras": [
+    {
+      "t": "Tu",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "litro",
+      "inicio": 0.28,
+      "fin": 0.48
+    },
+    {
+      "t": "lleva",
+      "inicio": 0.56,
+      "fin": 0.84
+    },
+    {
+      "t": "veinte",
+      "inicio": 0.96,
+      "fin": 1.28
+    },
+    {
+      "t": "céntimos",
+      "inicio": 1.36,
+      "fin": 1.84
+    },
+    {
+      "t": "menos",
+      "inicio": 1.92,
+      "fin": 2.08
+    },
+    {
+      "t": "de",
+      "inicio": 2.16,
+      "fin": 2.24
+    },
+    {
+      "t": "impuesto.",
+      "inicio": 2.32,
+      "fin": 2.8
+    },
+    {
+      "t": "Y",
+      "inicio": 3.04,
+      "fin": 3.12
+    },
+    {
+      "t": "la",
+      "inicio": 3.16,
+      "fin": 3.2
+    },
+    {
+      "t": "inflación",
+      "inicio": 3.24,
+      "fin": 3.68
+    },
+    {
+      "t": "sigue",
+      "inicio": 3.76,
+      "fin": 4
+    },
+    {
+      "t": "en",
+      "inicio": 4.08,
+      "fin": 4.24
+    },
+    {
+      "t": "cuatro",
+      "inicio": 4.32,
+      "fin": 4.56
+    },
+    {
+      "t": "coma",
+      "inicio": 4.64,
+      "fin": 4.8
+    },
+    {
+      "t": "nueve.",
+      "inicio": 4.88,
+      "fin": 5.6
+    },
+    {
+      "t": "Imagina",
+      "inicio": 5.68,
+      "fin": 6
+    },
+    {
+      "t": "que",
+      "inicio": 6.04,
+      "fin": 6.08
+    },
+    {
+      "t": "llenas",
+      "inicio": 6.16,
+      "fin": 6.48
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 6.56,
+      "fin": 7.04
+    },
+    {
+      "t": "litros:",
+      "inicio": 7.12,
+      "fin": 8
+    },
+    {
+      "t": "diez",
+      "inicio": 8.12,
+      "fin": 8.32
+    },
+    {
+      "t": "euros",
+      "inicio": 8.4,
+      "fin": 8.72
+    },
+    {
+      "t": "menos",
+      "inicio": 8.8,
+      "fin": 8.96
+    },
+    {
+      "t": "de",
+      "inicio": 9,
+      "fin": 9.04
+    },
+    {
+      "t": "impuesto.",
+      "inicio": 9.12,
+      "fin": 9.84
+    },
+    {
+      "t": "Es",
+      "inicio": 9.88,
+      "fin": 9.92
+    },
+    {
+      "t": "la",
+      "inicio": 10,
+      "fin": 10.08
+    },
+    {
+      "t": "rebaja",
+      "inicio": 10.16,
+      "fin": 10.48
+    },
+    {
+      "t": "del",
+      "inicio": 10.52,
+      "fin": 10.56
+    },
+    {
+      "t": "impuesto",
+      "inicio": 10.64,
+      "fin": 11.04
+    },
+    {
+      "t": "de",
+      "inicio": 11.08,
+      "fin": 11.12
+    },
+    {
+      "t": "hidrocarburos,",
+      "inicio": 11.2,
+      "fin": 12.08
+    },
+    {
+      "t": "y",
+      "inicio": 12.12,
+      "fin": 12.16
+    },
+    {
+      "t": "ya",
+      "inicio": 12.24,
+      "fin": 12.4
+    },
+    {
+      "t": "regía",
+      "inicio": 12.52,
+      "fin": 12.8
+    },
+    {
+      "t": "en",
+      "inicio": 12.84,
+      "fin": 12.88
+    },
+    {
+      "t": "octubre.",
+      "inicio": 12.96,
+      "fin": 13.68
+    },
+    {
+      "t": "Es",
+      "inicio": 13.76,
+      "fin": 13.84
+    },
+    {
+      "t": "el",
+      "inicio": 13.88,
+      "fin": 13.92
+    },
+    {
+      "t": "impuesto,",
+      "inicio": 14.04,
+      "fin": 14.72
+    },
+    {
+      "t": "no",
+      "inicio": 14.8,
+      "fin": 14.88
+    },
+    {
+      "t": "el",
+      "inicio": 14.96,
+      "fin": 15.04
+    },
+    {
+      "t": "precio",
+      "inicio": 15.12,
+      "fin": 15.36
+    },
+    {
+      "t": "final.",
+      "inicio": 15.44,
+      "fin": 16.08
+    },
+    {
+      "t": "Según",
+      "inicio": 16.16,
+      "fin": 16.32
+    },
+    {
+      "t": "el",
+      "inicio": 16.4,
+      "fin": 16.48
+    },
+    {
+      "t": "INE,",
+      "inicio": 16.56,
+      "fin": 16.88
+    },
+    {
+      "t": "los",
+      "inicio": 16.96,
+      "fin": 17.04
+    },
+    {
+      "t": "carburantes",
+      "inicio": 17.12,
+      "fin": 17.68
+    },
+    {
+      "t": "bajan",
+      "inicio": 17.72,
+      "fin": 18.08
+    },
+    {
+      "t": "más",
+      "inicio": 18.12,
+      "fin": 18.24
+    },
+    {
+      "t": "que",
+      "inicio": 18.32,
+      "fin": 18.4
+    },
+    {
+      "t": "hace",
+      "inicio": 18.48,
+      "fin": 18.64
+    },
+    {
+      "t": "un",
+      "inicio": 18.68,
+      "fin": 18.72
+    },
+    {
+      "t": "año.",
+      "inicio": 18.8,
+      "fin": 19.28
+    },
+    {
+      "t": "Pero",
+      "inicio": 19.333,
+      "fin": 19.44
+    },
+    {
+      "t": "el",
+      "inicio": 19.48,
+      "fin": 19.52
+    },
+    {
+      "t": "gas",
+      "inicio": 19.6,
+      "fin": 19.84
+    },
+    {
+      "t": "y",
+      "inicio": 19.88,
+      "fin": 19.92
+    },
+    {
+      "t": "los",
+      "inicio": 20,
+      "fin": 20.08
+    },
+    {
+      "t": "combustibles",
+      "inicio": 20.16,
+      "fin": 20.64
+    },
+    {
+      "t": "líquidos",
+      "inicio": 20.72,
+      "fin": 21.28
+    },
+    {
+      "t": "suben.",
+      "inicio": 21.36,
+      "fin": 22
+    },
+    {
+      "t": "En",
+      "inicio": 22.08,
+      "fin": 22.16
+    },
+    {
+      "t": "octubre,",
+      "inicio": 22.28,
+      "fin": 22.72
+    },
+    {
+      "t": "el",
+      "inicio": 22.76,
+      "fin": 22.8
+    },
+    {
+      "t": "índice",
+      "inicio": 22.88,
+      "fin": 23.2
+    },
+    {
+      "t": "general",
+      "inicio": 23.4,
+      "fin": 23.6
+    },
+    {
+      "t": "sigue",
+      "inicio": 23.68,
+      "fin": 23.92
+    },
+    {
+      "t": "igual",
+      "inicio": 24,
+      "fin": 24.24
+    },
+    {
+      "t": "que",
+      "inicio": 24.32,
+      "fin": 24.4
+    },
+    {
+      "t": "en",
+      "inicio": 24.44,
+      "fin": 24.48
+    },
+    {
+      "t": "septiembre.",
+      "inicio": 24.56,
+      "fin": 25.36
+    },
+    {
+      "t": "¿Notas",
+      "inicio": 25.44,
+      "fin": 25.76
+    },
+    {
+      "t": "esos",
+      "inicio": 25.84,
+      "fin": 26.08
+    },
+    {
+      "t": "veinte",
+      "inicio": 26.12,
+      "fin": 26.32
+    },
+    {
+      "t": "céntimos",
+      "inicio": 26.48,
+      "fin": 26.88
+    },
+    {
+      "t": "al",
+      "inicio": 26.92,
+      "fin": 26.96
+    },
+    {
+      "t": "repostar?",
+      "inicio": 27.04,
+      "fin": 27.84
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 27.867,
+      "fin": 28.32
+    },
+    {
+      "t": "para",
+      "inicio": 28.4,
+      "fin": 28.56
+    },
+    {
+      "t": "estar",
+      "inicio": 28.68,
+      "fin": 28.8
+    },
+    {
+      "t": "informado.",
+      "inicio": 29,
+      "fin": 29.6
+    }
+  ],
+  "duracion": 29.52,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

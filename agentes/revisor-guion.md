@@ -38,7 +38,7 @@ Posibles injurias o calumnias, datos personales, imágenes de personas reales, c
 
 ### 4. Formato, solo lo esencial (puede ser bloqueante)
 Tres comprobaciones, sin puntuar el test completo:
-- **Gancho:** la primera frase y el primer fotograma llevan un número que choca, un conflicto o una pregunta concreta, y es verdad tal cual suena. Si no, propón 2 ganchos alternativos.
+- **Gancho (`estilo/ganchos-y-temas.md`, desde el 2026-11-01):** puntúa el gancho elegido con la rúbrica (Tú · Choque · Bucle · Breve · Verdad). **Menos de 4/5 = CAMBIOS bloqueante**, aunque todo lo demás esté bien; también si empieza por una institución, una norma o una fecha, o si del segundo 3 al 8 la voz da contexto en vez de la primera prueba. Comprueba que hay 5 ganchos puntuados; si ninguno llega a 4, propón tú 2 que lleguen. Verdad = 0 (exagerado o con matiz escondido) es bloqueante de exactitud.
 - **Idea única:** se resume en una frase.
 - **Duración:** cuenta las palabras del "Texto de voz limpio" (≈ 165 palabras/min con la voz actual): flash 20–45 s, estándar 60–90 s, actualidad 90–120 s.
 

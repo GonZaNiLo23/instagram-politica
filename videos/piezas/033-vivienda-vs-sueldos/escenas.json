@@ -1,0 +1,267 @@
+{
+  "plantilla": "flash",
+  "duracion": 35.5,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 90,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "CASA +12,2 %",
+            "y": 340,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "SUELDOS PACTADOS +3,01 %",
+            "y": 490,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "barrasCasa",
+            "base": 1120,
+            "k": 22,
+            "creceCasa": 0.01,
+            "creceSueldo": 0.01
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "CASA +12,2 %",
+          "y": 320,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SUELDOS PACTADOS +3,01 %",
+          "y": 450,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasCasa",
+          "base": 1100,
+          "k": 22,
+          "creceCasa": 0.4,
+          "creceSueldo": 3.2,
+          "pulsoEn": 1.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Compra, INE · Convenios hasta junio, Trabajo"
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 5.1,
+      "fin": 14.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Casa: 9,8 → 10,7 años de sueldo",
+          "y": 330,
+          "en": 5.44,
+          "tamano": 64
+        },
+        {
+          "tipo": "ejemploCasa",
+          "y": 760,
+          "yFila": 1060,
+          "en": 0.64,
+          "llena9": 5.54,
+          "llena10": 8.26,
+          "enBillete": 2.4,
+          "enSlots": 4.66
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio con datos de INE y Trabajo"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 14.54,
+      "fin": 19.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "barrasCasa",
+          "base": 1100,
+          "k": 24,
+          "creceCasa": 0.01,
+          "creceSueldo": 0.01,
+          "signo": 0.2,
+          "hasta": 1.62,
+          "iconos": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "INE: precio de compra,",
+          "y": 330,
+          "en": 1.62,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2.º trim. 2026 (no alquiler)",
+          "y": 415,
+          "en": 1.62,
+          "tamano": 64
+        },
+        {
+          "tipo": "compraCasa",
+          "y": 700,
+          "enCompra": 2.6999999999999997,
+          "enAlquiler": 3.6
+        }
+      ]
+    },
+    {
+      "inicio": 19.34,
+      "fin": 22.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "TRABAJO: convenios hasta junio 2026",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Dos medidas distintas, mismo corte: junio",
+          "y": 520,
+          "en": 1.2799999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "corteCasa",
+          "y": 900,
+          "en": 0.4
+        }
+      ]
+    },
+    {
+      "inicio": 22.74,
+      "fin": 29.63,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "barrasCasa",
+          "base": 1100,
+          "k": 30,
+          "casaDe": 12.9,
+          "valCasa": 12.2,
+          "bajaEn": 0.62,
+          "bajaDur": 0.9,
+          "sueldosEn": 3.79,
+          "creceSueldo": 0.5,
+          "copias": {
+            "en": 4.43,
+            "paso": 0.5
+          },
+          "iconos": false
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "12,9 % → 12,2 %",
+          "y": 330,
+          "en": 1.3199999999999998,
+          "tamano": 96
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "(1.er → 2.º trim.)",
+          "y": 450,
+          "en": 1.3199999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "≈ 4 veces (cálculo propio)",
+          "y": 590,
+          "en": 4.33,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 29.63,
+      "fin": 31.82,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿COMPRAR O ALQUILAR?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 80
+        },
+        {
+          "tipo": "abSerie",
+          "a": "COMPRAR",
+          "b": "ALQUILAR",
+          "y": 560,
+          "en": 0.35
+        },
+        {
+          "tipo": "barrasCasa",
+          "base": 1100,
+          "k": 20,
+          "creceCasa": 0.01,
+          "creceSueldo": 0.01,
+          "iconos": false
+        }
+      ]
+    },
+    {
+      "inicio": 31.82,
+      "fin": 35.5,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿COMPRAR O ALQUILAR?",
+          "tamano": 96,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

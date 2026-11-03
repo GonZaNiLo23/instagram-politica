@@ -1,0 +1,1328 @@
+{
+  "plantilla": "estandar",
+  "duracion": 68.14,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 90,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "IPC OCT 4,9 % ≠ TU SUBIDA",
+            "y": 330,
+            "tamano": 112,
+            "en": -1
+          },
+          {
+            "tipo": "sobreP",
+            "y": 680,
+            "casillaEn": -5
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "IPC OCT 4,9 % ≠ TU SUBIDA",
+          "y": 340,
+          "tamano": 112,
+          "en": -1
+        },
+        {
+          "tipo": "sobreP",
+          "y": 640,
+          "casillaEn": 1
+        }
+      ]
+    },
+    {
+      "inicio": 4.38,
+      "fin": 13.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MEDIA DE 12 MESES DE INFLACIÓN",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Pensiones contributivas",
+          "y": 580,
+          "en": 1.4,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DIC → NOV",
+          "y": 680,
+          "en": 4.66,
+          "tamano": 64
+        },
+        {
+          "tipo": "mesesP",
+          "y": 950,
+          "en": 0.2,
+          "llenan": [
+            4.86,
+            5.13,
+            5.4,
+            5.67,
+            5.94,
+            6.21,
+            6.48,
+            6.75,
+            7.02,
+            7.29,
+            7.56
+          ],
+          "parpadeo": 8.38
+        }
+      ]
+    },
+    {
+      "inicio": 13.9,
+      "fin": 19.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LEY GENERAL DE LA SEGURIDAD SOCIAL",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "art. 58",
+          "y": 580,
+          "en": 1.2,
+          "tamano": 64
+        },
+        {
+          "tipo": "libroP",
+          "x": 300,
+          "y": 770,
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 19.34,
+      "fin": 25.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2019: aplazada por Gobierno en funciones",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "(RDL 18/2019)",
+          "y": 590,
+          "en": 1,
+          "tamano": 64
+        },
+        {
+          "tipo": "aplazadoP",
+          "x": 60,
+          "y": 770,
+          "en": 0.3,
+          "empuja": 2.42,
+          "cobroEn": 3.38
+        }
+      ]
+    },
+    {
+      "inicio": 25.02,
+      "fin": 33.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "tlP",
+          "y": 470,
+          "hitos": [
+            {
+              "tipo": "grafica",
+              "etiqueta": "27-N · avance IPC",
+              "en": 0.2
+            },
+            {
+              "tipo": "urna",
+              "etiqueta": "29-N · elecciones",
+              "en": 3.14
+            },
+            {
+              "tipo": "calendario",
+              "etiqueta": "15-D · dato|definitivo",
+              "en": 5.22
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "INE, calendario 2026"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 33.02,
+      "fin": 47.18,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "OCT: 1.376,1 €/mes (Seguridad Social)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraPensionP",
+          "y": 610,
+          "en": 0.3,
+          "segEn": 9.22,
+          "yCont": 905,
+          "directo": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SI NOV = 4,9 % → ≈ 3,6 %",
+          "y": 760,
+          "en": 4.82,
+          "tamano": 64
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "CÁLCULO PROPIO,",
+            "NO OFICIAL"
+          ],
+          "x": 500,
+          "y": 1055,
+          "tamano": 48,
+          "desde": 40,
+          "angulo": -3,
+          "en": 11.54
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Con datos del INE · cálculo propio"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 47.18,
+      "fin": 57.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "OCT 2026: 4,9 % (avance)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DIC 2025: 2,9 %",
+          "y": 630,
+          "en": 4.04,
+          "tamano": 64
+        },
+        {
+          "tipo": "ipcMediaP",
+          "y0": 470,
+          "y1": 830,
+          "media": 4.2,
+          "mediaEn": 7.38,
+          "filas": [
+            {
+              "y": 500,
+              "valor": 4.9,
+              "en": 0.3,
+              "color": "#F2B134"
+            },
+            {
+              "y": 720,
+              "valor": 2.9,
+              "en": 4.14,
+              "color": "#8D99AE"
+            }
+          ]
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SUBIDA = MEDIA, NO EL ÚLTIMO MES",
+          "y": 870,
+          "en": 7.38,
+          "tamano": 64
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO ES LA ÚLTIMA"
+          ],
+          "x": 480,
+          "y": 1080,
+          "tamano": 52,
+          "desde": 40,
+          "angulo": -4,
+          "en": 8.1
+        }
+      ]
+    },
+    {
+      "inicio": 57.5,
+      "fin": 64.49,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿INFLACIÓN O PARLAMENTO?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillaP",
+          "x": 420,
+          "y": 630,
+          "tam": 240,
+          "en": 0.2
+        },
+        {
+          "tipo": "abSerie",
+          "a": "INFLACIÓN",
+          "b": "PARLAMENTO",
+          "y": 970,
+          "en": 2.53
+        }
+      ]
+    },
+    {
+      "inicio": 64.49,
+      "fin": 68.14,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿INFLACIÓN O PARLAMENTO?",
+          "tamano": 96,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "031-pension-enero-27n",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "¿Tu",
+      "inicio": 0,
+      "fin": 0.08
+    },
+    {
+      "t": "pensión",
+      "inicio": 0.12,
+      "fin": 0.56
+    },
+    {
+      "t": "sube",
+      "inicio": 0.68,
+      "fin": 0.84
+    },
+    {
+      "t": "un",
+      "inicio": 0.88,
+      "fin": 1.04
+    },
+    {
+      "t": "cuatro",
+      "inicio": 1.08,
+      "fin": 1.28
+    },
+    {
+      "t": "coma",
+      "inicio": 1.36,
+      "fin": 1.52
+    },
+    {
+      "t": "nueve?",
+      "inicio": 1.56,
+      "fin": 2.32
+    },
+    {
+      "t": "No.",
+      "inicio": 2.44,
+      "fin": 2.8
+    },
+    {
+      "t": "Y",
+      "inicio": 3.04,
+      "fin": 3.12
+    },
+    {
+      "t": "aún",
+      "inicio": 3.16,
+      "fin": 3.36
+    },
+    {
+      "t": "falta",
+      "inicio": 3.4,
+      "fin": 3.6
+    },
+    {
+      "t": "un",
+      "inicio": 3.68,
+      "fin": 3.76
+    },
+    {
+      "t": "dato.",
+      "inicio": 3.92,
+      "fin": 4.28
+    },
+    {
+      "t": "Es",
+      "inicio": 4.48,
+      "fin": 4.64
+    },
+    {
+      "t": "la",
+      "inicio": 4.72,
+      "fin": 4.8
+    },
+    {
+      "t": "media",
+      "inicio": 4.88,
+      "fin": 5.12
+    },
+    {
+      "t": "de",
+      "inicio": 5.16,
+      "fin": 5.2
+    },
+    {
+      "t": "la",
+      "inicio": 5.28,
+      "fin": 5.32
+    },
+    {
+      "t": "inflación,",
+      "inicio": 5.36,
+      "fin": 6.16
+    },
+    {
+      "t": "la",
+      "inicio": 6.2,
+      "fin": 6.24
+    },
+    {
+      "t": "subida",
+      "inicio": 6.32,
+      "fin": 6.64
+    },
+    {
+      "t": "de",
+      "inicio": 6.68,
+      "fin": 6.72
+    },
+    {
+      "t": "precios,",
+      "inicio": 6.8,
+      "fin": 7.36
+    },
+    {
+      "t": "durante",
+      "inicio": 7.44,
+      "fin": 7.84
+    },
+    {
+      "t": "doce",
+      "inicio": 7.92,
+      "fin": 8.16
+    },
+    {
+      "t": "meses.",
+      "inicio": 8.24,
+      "fin": 8.72
+    },
+    {
+      "t": "De",
+      "inicio": 9.04,
+      "fin": 9.12
+    },
+    {
+      "t": "diciembre",
+      "inicio": 9.2,
+      "fin": 9.68
+    },
+    {
+      "t": "a",
+      "inicio": 9.92,
+      "fin": 9.96
+    },
+    {
+      "t": "noviembre.",
+      "inicio": 10,
+      "fin": 10.56
+    },
+    {
+      "t": "Casi",
+      "inicio": 10.96,
+      "fin": 11.12
+    },
+    {
+      "t": "todos",
+      "inicio": 11.2,
+      "fin": 11.44
+    },
+    {
+      "t": "ya",
+      "inicio": 11.52,
+      "fin": 11.6
+    },
+    {
+      "t": "están",
+      "inicio": 11.64,
+      "fin": 11.84
+    },
+    {
+      "t": "contados…",
+      "inicio": 11.96,
+      "fin": 12.72
+    },
+    {
+      "t": "falta",
+      "inicio": 12.76,
+      "fin": 13.04
+    },
+    {
+      "t": "el",
+      "inicio": 13.08,
+      "fin": 13.12
+    },
+    {
+      "t": "último.",
+      "inicio": 13.16,
+      "fin": 13.76
+    },
+    {
+      "t": "Así",
+      "inicio": 14,
+      "fin": 14.24
+    },
+    {
+      "t": "lo",
+      "inicio": 14.28,
+      "fin": 14.32
+    },
+    {
+      "t": "establece",
+      "inicio": 14.4,
+      "fin": 14.88
+    },
+    {
+      "t": "la",
+      "inicio": 14.96,
+      "fin": 15.04
+    },
+    {
+      "t": "Ley",
+      "inicio": 15.12,
+      "fin": 15.2
+    },
+    {
+      "t": "General",
+      "inicio": 15.28,
+      "fin": 15.68
+    },
+    {
+      "t": "de",
+      "inicio": 15.72,
+      "fin": 15.76
+    },
+    {
+      "t": "la",
+      "inicio": 15.84,
+      "fin": 15.88
+    },
+    {
+      "t": "Seguridad",
+      "inicio": 15.92,
+      "fin": 16.32
+    },
+    {
+      "t": "Social.",
+      "inicio": 16.48,
+      "fin": 17.08
+    },
+    {
+      "t": "La",
+      "inicio": 17.28,
+      "fin": 17.36
+    },
+    {
+      "t": "aplica",
+      "inicio": 17.44,
+      "fin": 17.68
+    },
+    {
+      "t": "el",
+      "inicio": 17.72,
+      "fin": 17.76
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 17.84,
+      "fin": 18.24
+    },
+    {
+      "t": "con",
+      "inicio": 18.32,
+      "fin": 18.4
+    },
+    {
+      "t": "un",
+      "inicio": 18.48,
+      "fin": 18.52
+    },
+    {
+      "t": "decreto.",
+      "inicio": 18.56,
+      "fin": 19.24
+    },
+    {
+      "t": "En",
+      "inicio": 19.44,
+      "fin": 19.52
+    },
+    {
+      "t": "dos",
+      "inicio": 19.6,
+      "fin": 19.68
+    },
+    {
+      "t": "mil",
+      "inicio": 19.76,
+      "fin": 19.8
+    },
+    {
+      "t": "diecinueve,",
+      "inicio": 19.84,
+      "fin": 20.56
+    },
+    {
+      "t": "un",
+      "inicio": 20.6,
+      "fin": 20.64
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 20.72,
+      "fin": 21.04
+    },
+    {
+      "t": "en",
+      "inicio": 21.08,
+      "fin": 21.12
+    },
+    {
+      "t": "funciones",
+      "inicio": 21.2,
+      "fin": 21.68
+    },
+    {
+      "t": "la",
+      "inicio": 21.76,
+      "fin": 21.84
+    },
+    {
+      "t": "aplazó.",
+      "inicio": 21.92,
+      "fin": 22.52
+    },
+    {
+      "t": "Se",
+      "inicio": 22.72,
+      "fin": 22.8
+    },
+    {
+      "t": "cobró",
+      "inicio": 22.88,
+      "fin": 23.12
+    },
+    {
+      "t": "después,",
+      "inicio": 23.24,
+      "fin": 23.84
+    },
+    {
+      "t": "con",
+      "inicio": 23.92,
+      "fin": 24
+    },
+    {
+      "t": "atrasos.",
+      "inicio": 24.08,
+      "fin": 24.88
+    },
+    {
+      "t": "El",
+      "inicio": 25.12,
+      "fin": 25.2
+    },
+    {
+      "t": "INE",
+      "inicio": 25.28,
+      "fin": 25.44
+    },
+    {
+      "t": "publica",
+      "inicio": 25.52,
+      "fin": 25.88
+    },
+    {
+      "t": "el",
+      "inicio": 25.92,
+      "fin": 26
+    },
+    {
+      "t": "avance",
+      "inicio": 26.04,
+      "fin": 26.32
+    },
+    {
+      "t": "de",
+      "inicio": 26.4,
+      "fin": 26.44
+    },
+    {
+      "t": "noviembre",
+      "inicio": 26.48,
+      "fin": 26.88
+    },
+    {
+      "t": "el",
+      "inicio": 26.92,
+      "fin": 26.96
+    },
+    {
+      "t": "veintisiete.",
+      "inicio": 27.04,
+      "fin": 28.08
+    },
+    {
+      "t": "Dos",
+      "inicio": 28.16,
+      "fin": 28.24
+    },
+    {
+      "t": "días",
+      "inicio": 28.32,
+      "fin": 28.56
+    },
+    {
+      "t": "antes",
+      "inicio": 28.72,
+      "fin": 28.88
+    },
+    {
+      "t": "de",
+      "inicio": 28.92,
+      "fin": 28.96
+    },
+    {
+      "t": "las",
+      "inicio": 29.04,
+      "fin": 29.12
+    },
+    {
+      "t": "elecciones.",
+      "inicio": 29.2,
+      "fin": 30.04
+    },
+    {
+      "t": "El",
+      "inicio": 30.24,
+      "fin": 30.32
+    },
+    {
+      "t": "dato",
+      "inicio": 30.4,
+      "fin": 30.56
+    },
+    {
+      "t": "definitivo",
+      "inicio": 30.64,
+      "fin": 31.2
+    },
+    {
+      "t": "llega",
+      "inicio": 31.24,
+      "fin": 31.48
+    },
+    {
+      "t": "el",
+      "inicio": 31.52,
+      "fin": 31.6
+    },
+    {
+      "t": "quince",
+      "inicio": 31.68,
+      "fin": 32
+    },
+    {
+      "t": "de",
+      "inicio": 32.08,
+      "fin": 32.16
+    },
+    {
+      "t": "diciembre.",
+      "inicio": 32.2,
+      "fin": 32.92
+    },
+    {
+      "t": "En",
+      "inicio": 33.12,
+      "fin": 33.2
+    },
+    {
+      "t": "octubre,",
+      "inicio": 33.32,
+      "fin": 33.76
+    },
+    {
+      "t": "la",
+      "inicio": 33.84,
+      "fin": 33.92
+    },
+    {
+      "t": "pensión",
+      "inicio": 34,
+      "fin": 34.32
+    },
+    {
+      "t": "media",
+      "inicio": 34.4,
+      "fin": 34.64
+    },
+    {
+      "t": "era",
+      "inicio": 34.72,
+      "fin": 34.8
+    },
+    {
+      "t": "de",
+      "inicio": 34.88,
+      "fin": 34.96
+    },
+    {
+      "t": "mil",
+      "inicio": 35.04,
+      "fin": 35.2
+    },
+    {
+      "t": "trescientos",
+      "inicio": 35.36,
+      "fin": 35.92
+    },
+    {
+      "t": "setenta",
+      "inicio": 36,
+      "fin": 36.32
+    },
+    {
+      "t": "y",
+      "inicio": 36.373,
+      "fin": 36.427
+    },
+    {
+      "t": "seis",
+      "inicio": 36.48,
+      "fin": 36.64
+    },
+    {
+      "t": "euros",
+      "inicio": 36.72,
+      "fin": 37.04
+    },
+    {
+      "t": "al",
+      "inicio": 37.08,
+      "fin": 37.12
+    },
+    {
+      "t": "mes.",
+      "inicio": 37.2,
+      "fin": 37.64
+    },
+    {
+      "t": "Si",
+      "inicio": 37.84,
+      "fin": 37.92
+    },
+    {
+      "t": "noviembre",
+      "inicio": 38,
+      "fin": 38.4
+    },
+    {
+      "t": "repite",
+      "inicio": 38.48,
+      "fin": 38.8
+    },
+    {
+      "t": "el",
+      "inicio": 38.84,
+      "fin": 38.88
+    },
+    {
+      "t": "cuatro",
+      "inicio": 38.96,
+      "fin": 39.2
+    },
+    {
+      "t": "coma",
+      "inicio": 39.28,
+      "fin": 39.36
+    },
+    {
+      "t": "nueve,",
+      "inicio": 39.52,
+      "fin": 39.84
+    },
+    {
+      "t": "la",
+      "inicio": 40,
+      "fin": 40.08
+    },
+    {
+      "t": "media",
+      "inicio": 40.16,
+      "fin": 40.4
+    },
+    {
+      "t": "sería",
+      "inicio": 40.48,
+      "fin": 40.72
+    },
+    {
+      "t": "del",
+      "inicio": 40.8,
+      "fin": 40.96
+    },
+    {
+      "t": "tres",
+      "inicio": 41.04,
+      "fin": 41.2
+    },
+    {
+      "t": "coma",
+      "inicio": 41.36,
+      "fin": 41.52
+    },
+    {
+      "t": "seis.",
+      "inicio": 41.6,
+      "fin": 42
+    },
+    {
+      "t": "Casi",
+      "inicio": 42.24,
+      "fin": 42.48
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 42.56,
+      "fin": 43.04
+    },
+    {
+      "t": "euros",
+      "inicio": 43.2,
+      "fin": 43.52
+    },
+    {
+      "t": "más",
+      "inicio": 43.6,
+      "fin": 43.76
+    },
+    {
+      "t": "al",
+      "inicio": 43.84,
+      "fin": 43.92
+    },
+    {
+      "t": "mes.",
+      "inicio": 44.04,
+      "fin": 44.24
+    },
+    {
+      "t": "Es",
+      "inicio": 44.56,
+      "fin": 44.64
+    },
+    {
+      "t": "un",
+      "inicio": 44.72,
+      "fin": 44.8
+    },
+    {
+      "t": "cálculo",
+      "inicio": 44.88,
+      "fin": 45.2
+    },
+    {
+      "t": "nuestro,",
+      "inicio": 45.24,
+      "fin": 45.84
+    },
+    {
+      "t": "no",
+      "inicio": 45.92,
+      "fin": 46
+    },
+    {
+      "t": "la",
+      "inicio": 46.04,
+      "fin": 46.08
+    },
+    {
+      "t": "cifra",
+      "inicio": 46.16,
+      "fin": 46.4
+    },
+    {
+      "t": "oficial.",
+      "inicio": 46.48,
+      "fin": 47.08
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 47.28,
+      "fin": 47.84
+    },
+    {
+      "t": "en",
+      "inicio": 47.92,
+      "fin": 48
+    },
+    {
+      "t": "octubre,",
+      "inicio": 48.08,
+      "fin": 48.64
+    },
+    {
+      "t": "la",
+      "inicio": 48.68,
+      "fin": 48.72
+    },
+    {
+      "t": "inflación",
+      "inicio": 48.76,
+      "fin": 49.2
+    },
+    {
+      "t": "fue",
+      "inicio": 49.28,
+      "fin": 49.36
+    },
+    {
+      "t": "del",
+      "inicio": 49.44,
+      "fin": 49.6
+    },
+    {
+      "t": "cuatro",
+      "inicio": 49.68,
+      "fin": 49.92
+    },
+    {
+      "t": "coma",
+      "inicio": 50,
+      "fin": 50.16
+    },
+    {
+      "t": "nueve.",
+      "inicio": 50.24,
+      "fin": 50.64
+    },
+    {
+      "t": "Pero",
+      "inicio": 50.88,
+      "fin": 51.04
+    },
+    {
+      "t": "la",
+      "inicio": 51.08,
+      "fin": 51.12
+    },
+    {
+      "t": "de",
+      "inicio": 51.2,
+      "fin": 51.28
+    },
+    {
+      "t": "diciembre",
+      "inicio": 51.32,
+      "fin": 51.76
+    },
+    {
+      "t": "de",
+      "inicio": 51.84,
+      "fin": 51.92
+    },
+    {
+      "t": "dos",
+      "inicio": 52,
+      "fin": 52.08
+    },
+    {
+      "t": "mil",
+      "inicio": 52.16,
+      "fin": 52.2
+    },
+    {
+      "t": "veinticinco",
+      "inicio": 52.24,
+      "fin": 52.8
+    },
+    {
+      "t": "fue",
+      "inicio": 52.96,
+      "fin": 53.12
+    },
+    {
+      "t": "del",
+      "inicio": 53.24,
+      "fin": 53.36
+    },
+    {
+      "t": "dos",
+      "inicio": 53.44,
+      "fin": 53.52
+    },
+    {
+      "t": "coma",
+      "inicio": 53.68,
+      "fin": 53.76
+    },
+    {
+      "t": "nueve.",
+      "inicio": 53.92,
+      "fin": 54.32
+    },
+    {
+      "t": "La",
+      "inicio": 54.56,
+      "fin": 54.64
+    },
+    {
+      "t": "subida",
+      "inicio": 54.72,
+      "fin": 55.04
+    },
+    {
+      "t": "es",
+      "inicio": 55.12,
+      "fin": 55.2
+    },
+    {
+      "t": "la",
+      "inicio": 55.28,
+      "fin": 55.36
+    },
+    {
+      "t": "media",
+      "inicio": 55.44,
+      "fin": 55.68
+    },
+    {
+      "t": "de",
+      "inicio": 55.76,
+      "fin": 55.84
+    },
+    {
+      "t": "todas,",
+      "inicio": 55.92,
+      "fin": 56.4
+    },
+    {
+      "t": "no",
+      "inicio": 56.48,
+      "fin": 56.56
+    },
+    {
+      "t": "la",
+      "inicio": 56.64,
+      "fin": 56.72
+    },
+    {
+      "t": "última.",
+      "inicio": 56.8,
+      "fin": 57.52
+    },
+    {
+      "t": "Ya",
+      "inicio": 57.6,
+      "fin": 57.68
+    },
+    {
+      "t": "solo",
+      "inicio": 57.76,
+      "fin": 57.92
+    },
+    {
+      "t": "falta",
+      "inicio": 57.96,
+      "fin": 58.24
+    },
+    {
+      "t": "un",
+      "inicio": 58.32,
+      "fin": 58.4
+    },
+    {
+      "t": "mes",
+      "inicio": 58.48,
+      "fin": 58.64
+    },
+    {
+      "t": "para",
+      "inicio": 58.72,
+      "fin": 58.88
+    },
+    {
+      "t": "saber",
+      "inicio": 58.96,
+      "fin": 59.2
+    },
+    {
+      "t": "cuánto.",
+      "inicio": 59.28,
+      "fin": 60
+    },
+    {
+      "t": "¿Pensiones",
+      "inicio": 60.027,
+      "fin": 60.48
+    },
+    {
+      "t": "ligadas",
+      "inicio": 60.56,
+      "fin": 60.96
+    },
+    {
+      "t": "a",
+      "inicio": 60.987,
+      "fin": 61.013
+    },
+    {
+      "t": "la",
+      "inicio": 61.04,
+      "fin": 61.08
+    },
+    {
+      "t": "inflación,",
+      "inicio": 61.12,
+      "fin": 61.84
+    },
+    {
+      "t": "o",
+      "inicio": 61.88,
+      "fin": 61.92
+    },
+    {
+      "t": "que",
+      "inicio": 62,
+      "fin": 62.08
+    },
+    {
+      "t": "el",
+      "inicio": 62.12,
+      "fin": 62.16
+    },
+    {
+      "t": "Parlamento",
+      "inicio": 62.24,
+      "fin": 62.72
+    },
+    {
+      "t": "fije",
+      "inicio": 62.8,
+      "fin": 63.04
+    },
+    {
+      "t": "la",
+      "inicio": 63.12,
+      "fin": 63.16
+    },
+    {
+      "t": "subida",
+      "inicio": 63.2,
+      "fin": 63.52
+    },
+    {
+      "t": "cada",
+      "inicio": 63.6,
+      "fin": 63.84
+    },
+    {
+      "t": "año?",
+      "inicio": 63.92,
+      "fin": 64.56
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 64.587,
+      "fin": 65.12
+    },
+    {
+      "t": "para",
+      "inicio": 65.2,
+      "fin": 65.28
+    },
+    {
+      "t": "estar",
+      "inicio": 65.4,
+      "fin": 65.52
+    },
+    {
+      "t": "informado.",
+      "inicio": 65.6,
+      "fin": 66.32
+    }
+  ]
+}

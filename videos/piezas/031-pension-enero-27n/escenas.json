@@ -1,0 +1,347 @@
+{
+  "plantilla": "estandar",
+  "duracion": 68.14,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 90,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "IPC OCT 4,9 % ≠ TU SUBIDA",
+            "y": 330,
+            "tamano": 112,
+            "en": -1
+          },
+          {
+            "tipo": "sobreP",
+            "y": 680,
+            "casillaEn": -5
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "IPC OCT 4,9 % ≠ TU SUBIDA",
+          "y": 340,
+          "tamano": 112,
+          "en": -1
+        },
+        {
+          "tipo": "sobreP",
+          "y": 640,
+          "casillaEn": 1
+        }
+      ]
+    },
+    {
+      "inicio": 4.38,
+      "fin": 13.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MEDIA DE 12 MESES DE INFLACIÓN",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Pensiones contributivas",
+          "y": 580,
+          "en": 1.4,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DIC → NOV",
+          "y": 680,
+          "en": 4.66,
+          "tamano": 64
+        },
+        {
+          "tipo": "mesesP",
+          "y": 950,
+          "en": 0.2,
+          "llenan": [
+            4.86,
+            5.13,
+            5.4,
+            5.67,
+            5.94,
+            6.21,
+            6.48,
+            6.75,
+            7.02,
+            7.29,
+            7.56
+          ],
+          "parpadeo": 8.38
+        }
+      ]
+    },
+    {
+      "inicio": 13.9,
+      "fin": 19.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LEY GENERAL DE LA SEGURIDAD SOCIAL",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "art. 58",
+          "y": 580,
+          "en": 1.2,
+          "tamano": 64
+        },
+        {
+          "tipo": "libroP",
+          "x": 300,
+          "y": 770,
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 19.34,
+      "fin": 25.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2019: aplazada por Gobierno en funciones",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "(RDL 18/2019)",
+          "y": 590,
+          "en": 1,
+          "tamano": 64
+        },
+        {
+          "tipo": "aplazadoP",
+          "x": 60,
+          "y": 770,
+          "en": 0.3,
+          "empuja": 2.42,
+          "cobroEn": 3.38
+        }
+      ]
+    },
+    {
+      "inicio": 25.02,
+      "fin": 33.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "tlP",
+          "y": 470,
+          "hitos": [
+            {
+              "tipo": "grafica",
+              "etiqueta": "27-N · avance IPC",
+              "en": 0.2
+            },
+            {
+              "tipo": "urna",
+              "etiqueta": "29-N · elecciones",
+              "en": 3.14
+            },
+            {
+              "tipo": "calendario",
+              "etiqueta": "15-D · dato|definitivo",
+              "en": 5.22
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "INE, calendario 2026"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 33.02,
+      "fin": 47.18,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "OCT: 1.376,1 €/mes (Seguridad Social)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraPensionP",
+          "y": 610,
+          "en": 0.3,
+          "segEn": 9.22,
+          "yCont": 905,
+          "directo": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SI NOV = 4,9 % → ≈ 3,6 %",
+          "y": 760,
+          "en": 4.82,
+          "tamano": 64
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "CÁLCULO PROPIO,",
+            "NO OFICIAL"
+          ],
+          "x": 500,
+          "y": 1055,
+          "tamano": 48,
+          "desde": 40,
+          "angulo": -3,
+          "en": 11.54
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Con datos del INE · cálculo propio"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 47.18,
+      "fin": 57.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "OCT 2026: 4,9 % (avance)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DIC 2025: 2,9 %",
+          "y": 630,
+          "en": 4.04,
+          "tamano": 64
+        },
+        {
+          "tipo": "ipcMediaP",
+          "y0": 470,
+          "y1": 830,
+          "media": 4.2,
+          "mediaEn": 7.38,
+          "filas": [
+            {
+              "y": 500,
+              "valor": 4.9,
+              "en": 0.3,
+              "color": "#F2B134"
+            },
+            {
+              "y": 720,
+              "valor": 2.9,
+              "en": 4.14,
+              "color": "#8D99AE"
+            }
+          ]
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SUBIDA = MEDIA, NO EL ÚLTIMO MES",
+          "y": 870,
+          "en": 7.38,
+          "tamano": 64
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO ES LA ÚLTIMA"
+          ],
+          "x": 480,
+          "y": 1080,
+          "tamano": 52,
+          "desde": 40,
+          "angulo": -4,
+          "en": 8.1
+        }
+      ]
+    },
+    {
+      "inicio": 57.5,
+      "fin": 64.49,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿INFLACIÓN O PARLAMENTO?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillaP",
+          "x": 420,
+          "y": 630,
+          "tam": 240,
+          "en": 0.2
+        },
+        {
+          "tipo": "abSerie",
+          "a": "INFLACIÓN",
+          "b": "PARLAMENTO",
+          "y": 970,
+          "en": 2.53
+        }
+      ]
+    },
+    {
+      "inicio": 64.49,
+      "fin": 68.14,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿INFLACIÓN O PARLAMENTO?",
+          "tamano": 96,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

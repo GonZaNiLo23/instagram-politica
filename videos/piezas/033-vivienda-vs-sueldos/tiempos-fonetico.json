@@ -1,0 +1,448 @@
+{
+  "palabras": [
+    {
+      "t": "Comprar",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "t": "casa",
+      "inicio": 0.48,
+      "fin": 0.8
+    },
+    {
+      "t": "cuesta",
+      "inicio": 0.88,
+      "fin": 1.2
+    },
+    {
+      "t": "un",
+      "inicio": 1.28,
+      "fin": 1.36
+    },
+    {
+      "t": "doce",
+      "inicio": 1.44,
+      "fin": 1.68
+    },
+    {
+      "t": "por",
+      "inicio": 1.76,
+      "fin": 1.92
+    },
+    {
+      "t": "ciento",
+      "inicio": 1.96,
+      "fin": 2.24
+    },
+    {
+      "t": "más.",
+      "inicio": 2.32,
+      "fin": 2.8
+    },
+    {
+      "t": "Los",
+      "inicio": 2.96,
+      "fin": 3.12
+    },
+    {
+      "t": "sueldos",
+      "inicio": 3.16,
+      "fin": 3.44
+    },
+    {
+      "t": "pactados,",
+      "inicio": 3.52,
+      "fin": 4.2
+    },
+    {
+      "t": "un",
+      "inicio": 4.32,
+      "fin": 4.4
+    },
+    {
+      "t": "tres.",
+      "inicio": 4.48,
+      "fin": 4.88
+    },
+    {
+      "t": "Imagina",
+      "inicio": 5.2,
+      "fin": 5.6
+    },
+    {
+      "t": "una",
+      "inicio": 5.68,
+      "fin": 5.76
+    },
+    {
+      "t": "casa",
+      "inicio": 5.84,
+      "fin": 6.08
+    },
+    {
+      "t": "de",
+      "inicio": 6.16,
+      "fin": 6.24
+    },
+    {
+      "t": "doscientos",
+      "inicio": 6.36,
+      "fin": 6.72
+    },
+    {
+      "t": "mil",
+      "inicio": 6.88,
+      "fin": 6.96
+    },
+    {
+      "t": "euros",
+      "inicio": 7.04,
+      "fin": 7.36
+    },
+    {
+      "t": "y",
+      "inicio": 7.52,
+      "fin": 7.56
+    },
+    {
+      "t": "un",
+      "inicio": 7.6,
+      "fin": 7.76
+    },
+    {
+      "t": "sueldo",
+      "inicio": 7.8,
+      "fin": 8.08
+    },
+    {
+      "t": "de",
+      "inicio": 8.12,
+      "fin": 8.16
+    },
+    {
+      "t": "veintiún",
+      "inicio": 8.24,
+      "fin": 8.64
+    },
+    {
+      "t": "mil",
+      "inicio": 8.72,
+      "fin": 8.88
+    },
+    {
+      "t": "al",
+      "inicio": 8.96,
+      "fin": 9.04
+    },
+    {
+      "t": "año.",
+      "inicio": 9.08,
+      "fin": 9.56
+    },
+    {
+      "t": "Hace",
+      "inicio": 9.76,
+      "fin": 9.92
+    },
+    {
+      "t": "un",
+      "inicio": 10,
+      "fin": 10.08
+    },
+    {
+      "t": "año,",
+      "inicio": 10.12,
+      "fin": 10.48
+    },
+    {
+      "t": "nueve",
+      "inicio": 10.64,
+      "fin": 10.88
+    },
+    {
+      "t": "coma",
+      "inicio": 10.96,
+      "fin": 11.12
+    },
+    {
+      "t": "ocho",
+      "inicio": 11.2,
+      "fin": 11.36
+    },
+    {
+      "t": "sueldos",
+      "inicio": 11.52,
+      "fin": 11.84
+    },
+    {
+      "t": "anuales;",
+      "inicio": 11.92,
+      "fin": 12.72
+    },
+    {
+      "t": "hoy,",
+      "inicio": 12.8,
+      "fin": 13.28
+    },
+    {
+      "t": "diez",
+      "inicio": 13.36,
+      "fin": 13.52
+    },
+    {
+      "t": "coma",
+      "inicio": 13.68,
+      "fin": 13.84
+    },
+    {
+      "t": "siete.",
+      "inicio": 13.92,
+      "fin": 14.4
+    },
+    {
+      "t": "¿Se",
+      "inicio": 14.64,
+      "fin": 14.72
+    },
+    {
+      "t": "acorta",
+      "inicio": 14.8,
+      "fin": 15.12
+    },
+    {
+      "t": "la",
+      "inicio": 15.16,
+      "fin": 15.2
+    },
+    {
+      "t": "distancia?",
+      "inicio": 15.32,
+      "fin": 15.96
+    },
+    {
+      "t": "El",
+      "inicio": 16.16,
+      "fin": 16.32
+    },
+    {
+      "t": "íne",
+      "inicio": 16.36,
+      "fin": 16.56
+    },
+    {
+      "t": "mide",
+      "inicio": 16.6,
+      "fin": 16.8
+    },
+    {
+      "t": "el",
+      "inicio": 16.88,
+      "fin": 16.96
+    },
+    {
+      "t": "precio",
+      "inicio": 17.12,
+      "fin": 17.28
+    },
+    {
+      "t": "de",
+      "inicio": 17.32,
+      "fin": 17.36
+    },
+    {
+      "t": "comprar,",
+      "inicio": 17.44,
+      "fin": 18.16
+    },
+    {
+      "t": "no",
+      "inicio": 18.24,
+      "fin": 18.4
+    },
+    {
+      "t": "de",
+      "inicio": 18.44,
+      "fin": 18.48
+    },
+    {
+      "t": "alquilar.",
+      "inicio": 18.56,
+      "fin": 19.24
+    },
+    {
+      "t": "Trabajo,",
+      "inicio": 19.44,
+      "fin": 20.16
+    },
+    {
+      "t": "la",
+      "inicio": 20.24,
+      "fin": 20.32
+    },
+    {
+      "t": "subida",
+      "inicio": 20.4,
+      "fin": 20.64
+    },
+    {
+      "t": "pactada",
+      "inicio": 20.72,
+      "fin": 21.12
+    },
+    {
+      "t": "en",
+      "inicio": 21.2,
+      "fin": 21.28
+    },
+    {
+      "t": "convenios",
+      "inicio": 21.36,
+      "fin": 21.84
+    },
+    {
+      "t": "hasta",
+      "inicio": 21.92,
+      "fin": 22.08
+    },
+    {
+      "t": "junio.",
+      "inicio": 22.16,
+      "fin": 22.8
+    },
+    {
+      "t": "La",
+      "inicio": 22.84,
+      "fin": 22.88
+    },
+    {
+      "t": "subida",
+      "inicio": 22.96,
+      "fin": 23.28
+    },
+    {
+      "t": "frena:",
+      "inicio": 23.36,
+      "fin": 24
+    },
+    {
+      "t": "era",
+      "inicio": 24.16,
+      "fin": 24.32
+    },
+    {
+      "t": "doce",
+      "inicio": 24.4,
+      "fin": 24.56
+    },
+    {
+      "t": "coma",
+      "inicio": 24.64,
+      "fin": 24.8
+    },
+    {
+      "t": "nueve",
+      "inicio": 24.88,
+      "fin": 25.08
+    },
+    {
+      "t": "el",
+      "inicio": 25.12,
+      "fin": 25.2
+    },
+    {
+      "t": "trimestre",
+      "inicio": 25.28,
+      "fin": 25.68
+    },
+    {
+      "t": "anterior.",
+      "inicio": 25.76,
+      "fin": 26.507
+    },
+    {
+      "t": "Aun",
+      "inicio": 26.533,
+      "fin": 26.72
+    },
+    {
+      "t": "así,",
+      "inicio": 26.8,
+      "fin": 27.147
+    },
+    {
+      "t": "cuadruplica",
+      "inicio": 27.173,
+      "fin": 27.84
+    },
+    {
+      "t": "la",
+      "inicio": 27.92,
+      "fin": 28
+    },
+    {
+      "t": "subida",
+      "inicio": 28.08,
+      "fin": 28.4
+    },
+    {
+      "t": "del",
+      "inicio": 28.44,
+      "fin": 28.48
+    },
+    {
+      "t": "sueldo",
+      "inicio": 28.56,
+      "fin": 28.88
+    },
+    {
+      "t": "pactado.",
+      "inicio": 28.92,
+      "fin": 29.68
+    },
+    {
+      "t": "¿Comprarías",
+      "inicio": 29.733,
+      "fin": 30.24
+    },
+    {
+      "t": "hoy",
+      "inicio": 30.32,
+      "fin": 30.64
+    },
+    {
+      "t": "o",
+      "inicio": 30.68,
+      "fin": 30.72
+    },
+    {
+      "t": "alquilarías?",
+      "inicio": 30.8,
+      "fin": 31.84
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 31.92,
+      "fin": 32.4
+    },
+    {
+      "t": "para",
+      "inicio": 32.48,
+      "fin": 32.64
+    },
+    {
+      "t": "estar",
+      "inicio": 32.76,
+      "fin": 32.88
+    },
+    {
+      "t": "informado.",
+      "inicio": 33.08,
+      "fin": 33.68
+    }
+  ],
+  "duracion": 33.6,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

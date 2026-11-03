@@ -35,6 +35,7 @@ No leas informes ni carpetas de otras piezas salvo para copiar un patrón concre
 - **Cierre:** el componente `cierre` muestra por defecto "Síguenos / para estar informado"; no pongas `yLinea2` ni un `yFuentes` que lo pise.
 - Colores de partidos solo cuando hagan falta para identificar grupos, con el mismo tratamiento para todos. Gráficos honestos: ejes desde cero, escalas proporcionales.
 - Sin bloque de opinión desde el 2026-10-20: si un guion lo trae, avisa al coordinador.
+- **Gancho visual (`estilo/ganchos-y-temas.md`, regla 6, desde el 2026-11-01):** movimiento desde el fotograma 0 (golpe de cifra, zoom, imagen real o el objeto del conflicto) con el texto del gancho en 110–140 px; primer cambio visual antes de 1,5 s; nunca una tarjeta de título quieta sobre crema. La portada repite las palabras clave del gancho.
 - Si la vuelta anterior fue `REHACER` por realización, replantea el gancho visual y el montaje, no solo los detalles.
 - **Música de fondo en todas las piezas (2026-10-26), una por pilar**, con el campo `"musica": {"pista": "…", "volumen": -16}` de `escenas.json` (`render.mjs` la mezcla y la baja sola cuando habla la voz):
   - 🔴 Actualidad → `hidden-agenda.mp3`

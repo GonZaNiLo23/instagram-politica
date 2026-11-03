@@ -1,0 +1,514 @@
+{
+  "plantilla": "estandar",
+  "duracion": 86.48,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "ejemploP"
+          },
+          {
+            "tipo": "barrasI",
+            "y": 330,
+            "tam": 96,
+            "iEn": -5,
+            "dur": 0.01
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.14,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "barrasI",
+          "y": 330,
+          "tam": 96,
+          "iEn": 1.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Precios: IPC adelantado de octubre, INE (30-10)"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 4.14,
+      "fin": 12.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO: tributas por 20.000 €",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaAnioI",
+          "y": 556,
+          "h": 164,
+          "l1": "Año 0: 20.000 €",
+          "l2": "→ IRPF 3.123 €",
+          "en": 1.22,
+          "en2": 1.52
+        },
+        {
+          "tipo": "tarjetaAnioI",
+          "y": 735,
+          "h": 164,
+          "l1": "Año 1: 20.980 €",
+          "l2": "→ IRPF 3.405 €",
+          "en": 2.82,
+          "en2": 5.86,
+          "fondo": "#FBE3A8"
+        },
+        {
+          "tipo": "chipI",
+          "y": 918,
+          "texto": "Sueldo +4,9 %",
+          "ancho": 600,
+          "en": 3.22,
+          "fondo": "#14213D"
+        },
+        {
+          "tipo": "chipI",
+          "y": 1024,
+          "texto": "IRPF +9 %",
+          "ancho": 440,
+          "en": 6.82,
+          "fondo": "#F2B134",
+          "color": "#14213D"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio · soltero, sin hijos, < 65 años · base liquidable · escala autonómica = estatal (p. ej., C.-La Mancha)"
+          ],
+          "en": 1.38
+        }
+      ]
+    },
+    {
+      "inicio": 12.86,
+      "fin": 31.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "escalonI",
+          "vivo": true,
+          "y0": 1090,
+          "en": 2.16,
+          "paso": 0.9,
+          "barraEn": 4.9,
+          "sube": 8.34,
+          "luz": 10.5,
+          "atenua": 12.64,
+          "vuelve": 14.88,
+          "desplaza": 15.440000000000001
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "TRAMOS: 19 % · 24 % · 30 %",
+          "y": 560,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.9
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Los tramos no se ajustan solos",
+          "y": 560,
+          "en": 4.9,
+          "tamano": 64,
+          "hasta": 12.69
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PROGRESIVIDAD EN FRÍO",
+          "y": 560,
+          "en": 12.69,
+          "tamano": 64,
+          "hasta": 14.93
+        },
+        {
+          "tipo": "copoI",
+          "x": 540,
+          "y": 880,
+          "r": 190,
+          "en": 12.69,
+          "hasta": 14.93
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DEFLACTAR = ajustar al IPC",
+          "y": 560,
+          "en": 14.93,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 31.42,
+      "fin": 36.94,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "+129 € DE IRPF",
+          "y": 385,
+          "en": 0.88,
+          "tamano": 96,
+          "color": "#14213D"
+        },
+        {
+          "tipo": "comparaI",
+          "enB": 0.1,
+          "enA": 3.02,
+          "enDif": 3.92
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio con la tarifa del IRPF (art. 57 y 63 LIRPF)"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 36.94,
+      "fin": 41.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "BANCO DE ESPAÑA · 2019‑2023",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "edificioI",
+          "x": 540,
+          "y": 640,
+          "ancho": 520,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Doc. Ocasional 2422 (14-6-2024)"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 41.66,
+      "fin": 46.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "≈ la mitad de la subida de IRPF/PIB",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mitadI",
+          "vivo": true,
+          "y": 700,
+          "en": 0.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Doc. Ocasional 2422 (14-6-2024)"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 46.46,
+      "fin": 51.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Más en rentas medias y medias-altas",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 2.86
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Reduce la desigualdad de renta neta",
+          "y": 385,
+          "en": 2.86,
+          "tamano": 64
+        },
+        {
+          "tipo": "rentasI",
+          "base": 1100,
+          "hMax": 330,
+          "luz": 0.9,
+          "comprime": 3.18
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Doc. Ocasional 2422 (14-6-2024)"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 51.74,
+      "fin": 55.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "INFORME DE PROGRESO ANUAL 2026",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "caratulaI",
+          "y": 700,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Gobierno de España, Informe de Progreso Anual 2026"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 55.02,
+      "fin": 60.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "informeI",
+          "directo": true,
+          "valor": 2294,
+          "etiqueta": "No deflactar en 2025",
+          "cuentaEn": 0.3,
+          "cuentaDur": 3.1,
+          "yCifra": 640,
+          "yPartes": 880,
+          "partes": [
+            {
+              "texto": "Estado 1.137",
+              "en": 3.5
+            },
+            {
+              "texto": "CCAA 1.157",
+              "en": 3.8
+            }
+          ]
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 715,
+          "y": 560,
+          "tamano": 88,
+          "angulo": -6,
+          "desde": 40,
+          "en": 3.4,
+          "reboteMax": 0
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Gobierno de España, Informe de Progreso Anual 2026 (pp. 23 y 44)"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 60.54,
+      "fin": 64.18,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Hasta 2028: cuenta como ingresos",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "aniosI",
+          "y": 800,
+          "en": 0.3,
+          "dur": 2.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Gobierno de España, Informe de Progreso Anual 2026"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 64.18,
+      "fin": 66.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PP: deflactar el IRPF (moción, 22-4-2026)",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "escaleraIcoI",
+          "x": 520,
+          "y": 960,
+          "esc": 1.35,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 66.74,
+      "fin": 70.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HACIENDA: ya actualizado con el SMI",
+          "y": 385,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "nominaI",
+          "x": 540,
+          "y": 660,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Arcadi España, entrevista en elDiario.es (29-4-2026)"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 70.9,
+      "fin": 78.43,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "barrasI",
+          "y": 340,
+          "tam": 72,
+          "base": 1100,
+          "hMax": 380,
+          "iEn": 1,
+          "paso": 96
+        }
+      ]
+    },
+    {
+      "inicio": 78.43,
+      "fin": 82.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿AJUSTAR O DEJAR?",
+          "y": 340,
+          "en": 0.05,
+          "tamano": 96
+        },
+        {
+          "tipo": "barrasI",
+          "rot": false,
+          "base": 840,
+          "hMax": 220,
+          "iEn": -5,
+          "dur": 0.01,
+          "preg": 0.4
+        },
+        {
+          "tipo": "abSerie",
+          "a": "AJUSTAR AL IPC",
+          "b": "DEJAR COMO ESTÁ",
+          "y": 880,
+          "en": 0.9
+        }
+      ]
+    },
+    {
+      "inicio": 82.34,
+      "fin": 86.48,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿AJUSTAR O DEJAR?",
+          "tamano": 104,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

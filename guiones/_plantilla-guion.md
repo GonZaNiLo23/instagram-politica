@@ -20,14 +20,17 @@
 | # | Tiempo | Voz en off | En pantalla (rótulo) | Visual / animación |
 |---|---|---|---|---|
 | 1 · Gancho | 0–3 s | | | |
-| 2 · Contexto | 3–20 s | | | |
+| 2 · Primera prueba (cifra, escena o ejemplo; sin contexto ni fecha en voz) | 3–8 s | | | |
+| 2b · Contexto | 8–20 s | | | |
 | 3 · Explicación | 20–65 s | | | |
 | 4 · Giro | 65–80 s | | | |
 | 5 · Cierre | 80–90 s | | | |
 
-## Ganchos alternativos
-- A: (otra primera frase + texto del primer fotograma)
-- B: (otra)
+## Ganchos alternativos (5, de familias distintas; ver estilo/ganchos-y-temas.md)
+| # | Familia | Voz (frase 1 ≤ 8 pal.; total ≤ 14) | Texto del fotograma 1 | Tú | Choque | Bucle | Breve | Verdad | Total |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | | | | | | | | | |
+(Elegido: el de mayor total, mínimo 4/5. Es el que va en el bloque 1.)
 
 ## Texto de voz limpio
 (Todo el texto de la voz seguido, sin acotaciones, tal y como se enviará al sintetizador. Siglas escritas como se pronuncian si hace falta.)

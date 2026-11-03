@@ -5,7 +5,7 @@ Lo aplican **revisor-guion** (sobre el guion) y **revisor-video** (sobre el rend
 ## Puntuación (1 punto por criterio, total 10)
 | # | Criterio | Se cumple si… |
 |---|---|---|
-| 1 | **Gancho en 1–3 s** | La primera frase **y el primer fotograma** llevan un número que choca, un conflicto o una pregunta concreta, escritos también en pantalla desde el fotograma 1. No hay saludo, presentación ni contexto previo. Un gancho genérico ("hoy te explico…", "¿sabías que…?" sin dato) no cumple. El gancho tiene que ser verdad: exagerado o engañoso = bloqueante de exactitud. |
+| 1 | **Gancho en 1–3 s** | La primera frase **y el primer fotograma** llevan un número que choca, un conflicto o una pregunta concreta, escritos también en pantalla desde el fotograma 1. No hay saludo, presentación ni contexto previo. Un gancho genérico ("hoy te explico…", "¿sabías que…?" sin dato) no cumple. El gancho tiene que ser verdad: exagerado o engañoso = bloqueante de exactitud. Desde el 2026-11-01, además: la rúbrica de `estilo/ganchos-y-temas.md` da ≥ 4/5, no empieza por institución, norma ni fecha, y el fotograma 1 tiene movimiento (no una tarjeta quieta). |
 | 2 | **Funciona sin sonido** | Con solo rótulos y subtítulos se entiende la idea (85 % del consumo en silencio). |
 | 3 | **Una sola idea** | Se puede resumir en una frase. Si caben dos vídeos, son dos vídeos. |
 | 4 | **Duración adecuada** | 20–45 s (flash), 60–90 s (estándar) o 90–120 s (actualidad, preferencia de la persona usuaria), sin relleno. |

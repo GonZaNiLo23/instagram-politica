@@ -1,0 +1,752 @@
+{
+  "plantilla": "estandar",
+  "duracion": 93.8,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "HUELGA GENERAL: 11 DE NOVIEMBRE",
+            "y": 340,
+            "tamano": 100,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "¿TE DESCUENTAN EL DÍA?",
+            "y": 800,
+            "en": -1,
+            "tamano": 72
+          },
+          {
+            "tipo": "calendarioH",
+            "x": 270,
+            "y": 1190,
+            "lado": 330,
+            "mes": "NOV",
+            "dia": "11",
+            "cae": -1,
+            "en": -1
+          },
+          {
+            "tipo": "nominaH",
+            "x": 720,
+            "y": 1190,
+            "esc": 0.85,
+            "interroga": true,
+            "interEn": -10.4,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.9,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "HUELGA GENERAL: 11 DE NOVIEMBRE",
+          "y": 335,
+          "tamano": 84,
+          "en": -1,
+          "hasta": 3.1
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 540,
+          "y": 930,
+          "lado": 340,
+          "mes": "NOV",
+          "dia": "11",
+          "cae": 0.05,
+          "mueve": 3.2,
+          "x2": 270,
+          "y2": 840,
+          "dur": 0.7,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿TE DESCUENTAN EL DÍA?",
+          "y": 335,
+          "en": 3.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "nominaH",
+          "x": 730,
+          "y": 840,
+          "esc": 0.9,
+          "interroga": true,
+          "interEn": 3.6,
+          "en": 3.35
+        }
+      ]
+    },
+    {
+      "inicio": 4.9,
+      "fin": 10.86,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "REGISTRADA EL 19 DE OCTUBRE",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Ministerio de Trabajo · EFE, 19-10-2026"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 240,
+          "y": 770,
+          "lado": 290,
+          "mes": "OCT",
+          "dia": "19",
+          "cae": -1,
+          "marca": 1.02,
+          "en": 0.1
+        },
+        {
+          "tipo": "sobreCarpetaH",
+          "x": 700,
+          "y": 770,
+          "sobreEn": 0.34,
+          "selloEn": 1.62,
+          "en": 0.15
+        },
+        {
+          "tipo": "pastillaH",
+          "texto": "CCOO",
+          "x": 60,
+          "y": 970,
+          "ancho": 250,
+          "caps": true,
+          "en": 2.12
+        },
+        {
+          "tipo": "pastillaH",
+          "texto": "UGT",
+          "x": 60,
+          "y": 1060,
+          "ancho": 250,
+          "caps": true,
+          "en": 3.56
+        },
+        {
+          "tipo": "pastillaH",
+          "texto": "otras organizaciones",
+          "x": 60,
+          "y": 1150,
+          "en": 4.44
+        }
+      ]
+    },
+    {
+      "inicio": 10.86,
+      "fin": 13.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PIDEN: VIVIENDA Y SUELDOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "llaveBilleteH",
+          "y": 780,
+          "llaveEn": 0.24,
+          "billeteEn": 1.28,
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 13.42,
+      "fin": 18.82,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1.ª CONJUNTA DE CCOO Y UGT DESDE 2012",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Al Jazeera y El País, 07-10 · la anterior, 14-11-2012"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "fechasH",
+          "y": 780,
+          "hitos": [
+            {
+              "x": 240,
+              "etiq": "2012",
+              "en": 3.96
+            },
+            {
+              "x": 720,
+              "etiq": "2026",
+              "en": 4.84
+            }
+          ],
+          "unir": 4.84,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 18.82,
+      "fin": 21.78,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿PUEDE PARARLA LA PATRONAL?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mazoH",
+          "x": 200,
+          "y": 830,
+          "interroga": 1.14,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 21.78,
+      "fin": 36.19,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SI LA SECUNDAS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EL CONTRATO NO SE ACABA",
+          "y": 430,
+          "en": 1.32,
+          "tamano": 64,
+          "hasta": 3.76
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL 17/1977, art. 6.1",
+            "Fuente: BOE, RDL 17/1977 · ET"
+          ],
+          "en": 1.37,
+          "hasta": 3.76
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SIN SANCIÓN",
+          "y": 430,
+          "en": 3.8099999999999996,
+          "tamano": 64,
+          "hasta": 8.16
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Salvo falta durante la huelga",
+            "Fuente: BOE, RDL 17/1977 · ET"
+          ],
+          "en": 3.8599999999999994,
+          "hasta": 8.16
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ESE DÍA, SIN SUELDO",
+          "y": 430,
+          "en": 8.21,
+          "tamano": 64,
+          "hasta": 12.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Contrato suspendido · ET 45.1.l · RDL art. 6.2",
+            "Fuente: BOE, RDL 17/1977 · ET"
+          ],
+          "en": 8.260000000000002,
+          "hasta": 12.2
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SIGUES DE ALTA EN LA SEGURIDAD SOCIAL",
+          "y": 430,
+          "en": 12.25,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Alta especial, sin cotizar ese día · RDL art. 6.3",
+            "Fuente: BOE, RDL 17/1977 · ET"
+          ],
+          "en": 12.3
+        },
+        {
+          "tipo": "contratoH",
+          "x": 540,
+          "y": 870,
+          "check": 2.3,
+          "escudo": 4.27,
+          "mueve": 3.86,
+          "x2": 250,
+          "en": 1.32,
+          "hasta": 8.16
+        },
+        {
+          "tipo": "sancionH",
+          "x": 690,
+          "y": 780,
+          "tacha": 4.5,
+          "chispa": 6.86,
+          "en": 3.88,
+          "hasta": 8.16
+        },
+        {
+          "tipo": "nominaH",
+          "x": 540,
+          "y": 820,
+          "esc": 1.1,
+          "cifra": "0 €",
+          "cifraEn": 9.4,
+          "dia": "ese día",
+          "en": 8.21,
+          "hasta": 12.2
+        },
+        {
+          "tipo": "casillaSSH",
+          "y": 880,
+          "check": 12.7,
+          "en": 12.25
+        }
+      ]
+    },
+    {
+      "inicio": 36.19,
+      "fin": 43.82,
+      "fondo": "mostaza",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Y SI PREFIERES TRABAJAR?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.55
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "LIBERTAD DE TRABAJO",
+          "y": 335,
+          "en": 1.6,
+          "tamano": 64,
+          "hasta": 3.83
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL art. 6.4"
+          ],
+          "en": 1.6500000000000001,
+          "hasta": 3.83
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SIN SUSTITUIR A HUELGUISTAS",
+          "y": 335,
+          "en": 3.88,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Personal ajeno a la empresa · art. 6.5"
+          ],
+          "en": 3.9299999999999997
+        },
+        {
+          "tipo": "puertaH",
+          "x": 540,
+          "y": 900,
+          "check": 2.05,
+          "en": 0.1,
+          "hasta": 3.83
+        },
+        {
+          "tipo": "sillasH",
+          "y": 900,
+          "flecha": 4.77,
+          "bloqueo": 5.91,
+          "en": 3.88
+        }
+      ]
+    },
+    {
+      "inicio": 43.82,
+      "fin": 51.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EL LÍMITE: SERVICIOS MÍNIMOS",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.68
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "LOS PUEDE FIJAR LA ADMINISTRACIÓN",
+          "y": 335,
+          "en": 1.73,
+          "tamano": 64,
+          "hasta": 5.64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL art. 10 · STC 11/1981, FJ 18"
+          ],
+          "en": 1.78,
+          "hasta": 5.64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SE PUEDEN RECURRIR",
+          "y": 335,
+          "en": 5.6899999999999995,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Ante los tribunales"
+          ],
+          "en": 5.739999999999999
+        },
+        {
+          "tipo": "balanzaH",
+          "y": 700,
+          "izqEn": 0.3,
+          "derEn": 1.26,
+          "en": 0.1,
+          "hasta": 5.64
+        },
+        {
+          "tipo": "resolucionH",
+          "y": 840,
+          "selloEn": 6.04,
+          "golpes": [
+            6.34,
+            7.18
+          ],
+          "en": 5.69
+        }
+      ]
+    },
+    {
+      "inicio": 51.9,
+      "fin": 56.42,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LOS SINDICATOS DICEN: NO HAY ACUERDO SALARIAL",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "EFE, 22-10-2026"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "pastillaH",
+          "texto": "CEOE",
+          "x": 60,
+          "y": 650,
+          "ancho": 250,
+          "caps": true,
+          "en": 1.36
+        },
+        {
+          "tipo": "pastillaH",
+          "texto": "Sindicatos",
+          "x": 500,
+          "y": 650,
+          "ancho": 410,
+          "en": 0.19
+        },
+        {
+          "tipo": "acuerdoH",
+          "x": 540,
+          "y": 890,
+          "en": 2
+        }
+      ]
+    },
+    {
+      "inicio": 56.42,
+      "fin": 61.7,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LA LEY: ILEGAL SI ES POLÍTICA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL 17/1977, art. 11.a: motivos políticos o ajenos al interés profesional"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "claveH",
+          "lineas": [
+            {
+              "t": "motivos políticos",
+              "y": 770,
+              "en": 2.2,
+              "w": 600
+            },
+            {
+              "t": "ajenos al interés",
+              "y": 890,
+              "en": 3.4,
+              "w": 600
+            },
+            {
+              "t": "profesional",
+              "y": 975,
+              "en": 3.96,
+              "w": 385
+            }
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 61.7,
+      "fin": 72.26,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CEOE 19‑10: ES ELECTORAL",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 5.45
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Paráfrasis, según EFE"
+          ],
+          "en": 0.1,
+          "hasta": 5.45
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "22‑10: NO LA RECURRIRÁ ANTES DEL 11‑N",
+          "y": 335,
+          "en": 5.5,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuentes de la CEOE a EFE y a elDiario.es"
+          ],
+          "en": 5.55
+        },
+        {
+          "tipo": "lineaCeoeH",
+          "y": 860,
+          "tarjeta": 1.32,
+          "hito2": 7.08,
+          "renuncia": 8.7,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 72.26,
+      "fin": 75.45,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SEGUIRÁ LA JORNADA",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 380,
+          "y": 840,
+          "lado": 360,
+          "mes": "NOV",
+          "dia": "11",
+          "cae": -1,
+          "en": 0.1
+        },
+        {
+          "tipo": "lupaH",
+          "x": 690,
+          "y": 840,
+          "etiqueta": "seguimiento",
+          "etiquetaY": 1085,
+          "en": 0.44
+        }
+      ]
+    },
+    {
+      "inicio": 75.45,
+      "fin": 84.02,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿QUÉ VIENE AHORA?",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.17
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "11‑N: HUELGA Y MANIFESTACIONES",
+          "y": 335,
+          "en": 1.22,
+          "tamano": 64,
+          "hasta": 5.25
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Según Sordo (CCOO) y Álvarez (UGT) · EFE, 22-10"
+          ],
+          "en": 1.27,
+          "hasta": 5.25
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "13‑N: ARRANCA LA CAMPAÑA",
+          "y": 335,
+          "en": 5.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RD 806/2026 · elecciones: 29-11"
+          ],
+          "en": 5.35
+        },
+        {
+          "tipo": "novH",
+          "y": 860,
+          "hito11": 1.46,
+          "campana": 6.05,
+          "urna": 7.91,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 84.02,
+      "fin": 87.95,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SI LA SECUNDAS: SIN SUELDO, CON CONTRATO",
+          "y": 335,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioH",
+          "x": 190,
+          "y": 870,
+          "lado": 260,
+          "mes": "NOV",
+          "dia": "11",
+          "cae": 0.15,
+          "en": 0.1
+        },
+        {
+          "tipo": "nominaH",
+          "x": 470,
+          "y": 870,
+          "esc": 0.8,
+          "cifra": "0 €",
+          "cifraEn": 1,
+          "dia": "ese día",
+          "en": 0.15
+        },
+        {
+          "tipo": "contratoH",
+          "x": 790,
+          "y": 870,
+          "esc": 0.8,
+          "check": 2.46,
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 87.95,
+      "fin": 93.8,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿LA SECUNDARÍAS?",
+          "tamano": 88,
+          "pulso": true,
+          "guardaEn": 2.58
+        }
+      ]
+    }
+  ]
+}

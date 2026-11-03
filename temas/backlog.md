@@ -22,7 +22,9 @@ Ideas que no dependen de la actualidad. El buscador de temas añade aquí las bu
 - [ ] (2026-10-21) Cómo se reparte el tiempo gratuito en los medios públicos durante la campaña (LOREG art. 63; ahora recogido en la propuesta 9 de 2026-10-27, esperar a los minutos fijados por la Comisión de Radio y Televisión)
 - [ ] (2026-10-21) El Pacto de Migración y Asilo de la UE (aplicación desde 12-jun-2026): solo con fuente primaria de la Comisión
 - [ ] (2026-10-27) Qué es el Banco Central Europeo y cómo decide los tipos (reunión del 29-10; las fuentes discrepan en el tipo de depósito, 2,25 % o 2,50 %: verificar en el comunicado del BCE) y cómo llega al euríbor de tu hipoteca (el Banco de España publica el cierre mensual a primeros de mes)
-- [ ] (2026-10-27) Cláusula de salvaguarda en una rebaja fiscal: cómo funciona el IPC-umbral del 15 % del RDL 25/2026 (si no entra como pieza propia, queda dentro de la 4 de 2026-10-27)
+- [ ] (2026-10-27) Cláusula de salvaguarda en una rebaja fiscal: cómo funciona el IPC-umbral del 15 % del RDL 25/2026 (ahora recogido en la propuesta 7 de 2026-11-01, carrusel, pendiente de verificar el IVA de la luz)
+- [ ] (2026-11-01) Quién paga el IRPF de la inflación: deflactar la tarifa, qué piden Sumar y los inspectores de Hacienda y qué dice el compromiso del Gobierno con Bruselas (propuesta 5 de 2026-11-01; si no entra esta semana, queda aquí; abrir el Informe de Progreso Anual)
+- [ ] (2026-11-01) Cómo se calcula la subida de pensiones (media del IPC de 12 meses, ley 21/2021) y qué pasa con máximas y mínimas con Presupuestos prorrogados (propuesta 1 de 2026-11-01; repetir en diciembre con el dato definitivo del 15-12)
 
 ## 💡 Curiosidades
 - [ ] Los leones del Congreso: de dónde salió su bronce (ahora propuesta 8 de 2026-10-21)
@@ -46,10 +48,10 @@ Ideas que no dependen de la actualidad. El buscador de temas añade aquí las bu
 - [x] ¿El voto en blanco favorece a los grandes? → propuesta 13 de 2026-10-21
 - [ ] ¿Se puede "perder" el voto por correo? (cubierto por la pieza 008)
 - [ ] (2026-10-19) "Votar 1-1-1 en el Senado perjudica a un partido": el bulo recurrente (Maldita 2019 y 2023); integrado en la propuesta 15 de 2026-10-21
-- [ ] (2026-10-19) ¿Qué hace la cifra de "mínimo histórico" del déficit y la deuda? Comprobar con Banco de España/AIReF cuando haya Presupuestos
-- [ ] (2026-10-21) Cuánto de lo que pagas por un litro de gasolina son impuestos (Boletín Petrolero de la UE + decreto de la rebaja; ahora conectado con la propuesta 4 de 2026-10-27)
+- [ ] (2026-10-19) ¿Qué hace la cifra de "mínimo histórico" del déficit y la deuda? Comprobar con Banco de España/AIReF cuando haya Presupuestos. (2026-11-01: la deuda bajó del 100 % del PIB en julio, primera vez desde feb-2020, a la vez que el importe sigue cerca de máximos, 1,744 billones; Banco de España vía Europa Press, verificar; da una pieza "dos cifras que chocan" cuando salga el dato de agosto/septiembre)
+- [ ] (2026-10-21) Cuánto de lo que pagas por un litro de gasolina son impuestos (Boletín Petrolero de la UE + decreto de la rebaja; ahora conectado con la propuesta 2 de 2026-11-01)
 - [ ] (2026-10-27) "Paro más bajo desde 2007": ¿se compara bien? Paro registrado en septiembre de 2026 = 2.379.505 (cifra más baja para ese mes desde 2007) frente a la EPA del 3T (10,18 %). Depende de la serie; verificar en el SEPE y el INE
-- [ ] (2026-10-27) Inflación de España frente a la zona euro, mes a mes (Eurostat: 4-nov flash de octubre, 17-nov definitivo; calendario por confirmar) · material para una pieza de seguimiento de la propuesta 1 de 2026-10-27
+- [ ] (2026-10-27) Inflación de España frente a la zona euro, mes a mes (Eurostat: 4-nov flash de octubre, 17-nov definitivo; calendario por confirmar) · material para una pieza de seguimiento de la propuesta 1 de 2026-10-27. (2026-11-01: Moncloa.com cita brecha de 1,2 puntos con la zona euro en octubre, sin fuente primaria; Eurostat no se abre. INE definitivo de octubre: 13-nov)
 
 ## 🙋 Preguntas de seguidores
 (Añadir con fecha y enlace al comentario.)

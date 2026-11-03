@@ -7,10 +7,11 @@
 | Portada | videos/piezas/019-huelga-general-11n/portada.png |
 | Programado | 2026-11-09 19:00 (Europe/Madrid) · Instagram (Reel, por Metricool: > 90 s) + TikTok (TikTok Studio) |
 | Programado (hecho) | 2026-10-26: 2026-11-09 19:00 (Europe/Madrid). Instagram Reel por Metricool (solo IG; texto 2.187/2.200, 6 hashtags, portada subida; verificado en Calendario, semana 9-15 nov, lunes 19:00) + TikTok por TikTok Studio (verificado en Publicaciones: "9 nov, 19:00"; texto intacto, sin hashtag autocompletado). Cupo Metricool: "13 de 20" (contador del mes en curso) |
+| Programado (v3) | 2026-11-01: IG (Metricool, 2026-11-09 19:00) sustituido por v3 + portada + texto de 2.189 caracteres; verificado reabriendo el editor. TikTok: la programacion v2 se ELIMINO (TikTok no deja editar programadas) y la v3 NO esta creada: limite de uso alcanzado; pendiente crear en TikTok Studio 2026-11-09 19:00 |
 | Dato vivo | Recomprobar la mañana del 9-11: servicios mínimos (si ya hay resolución, añadir al post "11-N: fijados por [órgano], [fecha]"), postura de la CEOE y que la convocatoria sigue en pie. Tema sensible: moderar comentarios |
 
 ## Texto del post
-Está convocada una huelga general el 11 de noviembre. ¿Te pueden descontar el día? 🗓️
+Si haces huelga el 11-N, ese día no cobras. Pero no te pueden sancionar por ello. 🗓️
 
 CCOO, UGT y otras organizaciones la registraron el 19 de octubre en el Ministerio de Trabajo, por la vivienda y los salarios. Es la primera huelga general convocada conjuntamente por CCOO y UGT desde la del 14 de noviembre de 2012 (Al Jazeera y El País).
 Qué dice el Real Decreto-ley 17/1977 (BOE):

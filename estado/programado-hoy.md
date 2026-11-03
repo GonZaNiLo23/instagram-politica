@@ -18,3 +18,8 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 017-midterms-eeuu | Reel 87 s | Instagram + TikTok | 2026-10-31 19:00 | revisiones/guiones/017-…-v2.md · revisiones/videos/017-…-v2.md (9/10). Recomprobar escaños en clerk.house.gov |
 | 028-dos-cifras-de-paro | Reel 35 s | Instagram + TikTok (Facebook: salió por error el 31-10 12:43) | 2026-11-01 12:00 | revisiones/guiones/028-…-v2.md · revisiones/videos/028-…-v2.md (9/10). Si se retrasa al 3-11, poner el paro registrado de octubre |
 | 030-8-anos-recaudacion | Reel 43 s | Instagram + Facebook + TikTok | 2026-11-01 19:00 | revisiones/guiones/030-…-v1.md (literales aplicados) · revisiones/videos/030-…-v4.md (9/10). Episodio 1 de "8 años en cifras" |
+| 032-gasolina-20-centimos | Reel 31 s | TikTok: PUBLICADO 2026-11-02 19:00 · Instagram (Meta): 2026-11-04 19:00 (reprogramada: la extensión de Chrome estaba desconectada) | revisiones/guiones/032-…-v1.md (literales aplicados) · revisiones/videos/032-…-v1.md (9/10) |
+| 019-huelga-general-11n (v3, gancho nuevo) | Reel 100 s | Instagram (Metricool) + TikTok | 2026-11-09 19:00 | revisiones/guiones/019-…-v2.md · revisiones/videos/019-…-v3.md (9/10) |
+| 033-vivienda-vs-sueldos (v2) | Reel 35 s | Instagram (Meta) + TikTok | 2026-11-04 13:30 | revisiones/guiones/033-…-v2.md · revisiones/videos/033-…-v2.md (9/10) |
+| 031-pension-enero-27n (v2) | Reel 68 s | Instagram (Meta) + TikTok | 2026-11-05 13:30 | revisiones/guiones/031-…-v2.md (literales aplicados) · revisiones/videos/031-…-v2.md (9/10) |
+| 034-irpf-sin-deflactar (v2) | Reel 87 s | Instagram (Meta) + TikTok | 2026-11-05 19:00 | revisiones/guiones/034-…-v1.md (literales aplicados) · revisiones/videos/034-…-v2.md (9/10). Recomprobar si sale el IPC definitivo |

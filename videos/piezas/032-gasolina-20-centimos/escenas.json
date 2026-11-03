@@ -1,0 +1,339 @@
+{
+  "plantilla": "flash",
+  "duracion": 31.42,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 90,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "-20 cts de impuesto por litro",
+            "y": 330,
+            "tamano": 110,
+            "en": -1
+          },
+          {
+            "tipo": "surtidorG",
+            "x": 60,
+            "y": 830,
+            "esc": 0.75,
+            "en": -1,
+            "texto": "20 cts",
+            "tacha": -5
+          },
+          {
+            "tipo": "ipcG",
+            "x": 440,
+            "y": 930,
+            "texto": "4,9 %",
+            "etiqueta": "IPC",
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "-20 cts de impuesto por litro",
+          "y": 330,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Gasolina y diésel · noviembre 2026",
+          "y": 690,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "surtidorG",
+          "x": 60,
+          "y": 870,
+          "esc": 0.68,
+          "zoom": true,
+          "texto": "20 cts",
+          "tacha": 0.5
+        },
+        {
+          "tipo": "ipcG",
+          "x": 440,
+          "y": 930,
+          "texto": "4,9 %",
+          "etiqueta": "IPC",
+          "en": 1.2,
+          "pulsos": [
+            2.6,
+            3.6,
+            4.6
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Agencia Tributaria"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 5.58,
+      "fin": 9.78,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "50 l × 0,20 € = 10 €",
+          "y": 400,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "surtidorG",
+          "x": 60,
+          "y": 780,
+          "esc": 0.8,
+          "en": -1,
+          "litros": {
+            "en": 0.6799999999999999,
+            "dur": 1.9,
+            "hasta": 50
+          }
+        },
+        {
+          "tipo": "monedasG",
+          "x": 440,
+          "y": 800,
+          "n": 10,
+          "en": 2.54,
+          "paso": 0.17
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio"
+          ],
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 9.78,
+      "fin": 16.06,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Impuesto sobre Hidrocarburos",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Noviembre 2026",
+          "y": 490,
+          "en": 0.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "IMPUESTO ≠ PRECIO FINAL",
+          "y": 650,
+          "en": 3.88,
+          "tamano": 64
+        },
+        {
+          "tipo": "precioG",
+          "x": 60,
+          "y": 860,
+          "en": 0.4,
+          "resalta": 0.86
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "AEAT, 20-10-2026"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 16.06,
+      "fin": 21.98,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "filaIneG",
+          "y": 350,
+          "sube": false,
+          "iconos": [
+            "surtidor"
+          ],
+          "en": 0.1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Carburantes: bajan más que en oct. 2025",
+          "y": 350,
+          "en": 0.2,
+          "tamano": 64,
+          "izq": 440,
+          "ancho": 520
+        },
+        {
+          "tipo": "filaIneG",
+          "y": 800,
+          "sube": true,
+          "iconos": [
+            "gas"
+          ],
+          "en": 3.27
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Gas y combustibles líquidos: suben",
+          "y": 800,
+          "en": 3.37,
+          "tamano": 64,
+          "izq": 440,
+          "ancho": 520
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "INE, IPC adelantado octubre 2026 (30-10)"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 21.98,
+      "fin": 25.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "IPC general: sept. 4,9 % → oct. 4,9 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Subyacente: 3,1 %",
+          "y": 560,
+          "en": 1,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Dato adelantado",
+          "y": 650,
+          "en": 1.5,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasIgualG",
+          "x": 80,
+          "base": 1170,
+          "en": 0.5,
+          "valor": 4.9,
+          "etiquetas": [
+            "SEPT.",
+            "OCT."
+          ]
+        },
+        {
+          "tipo": "ipcG",
+          "x": 570,
+          "y": 860,
+          "tam": 96,
+          "texto": "4,9 %",
+          "etiqueta": "IPC",
+          "en": 1.5
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "IGUAL"
+          ],
+          "x": 690,
+          "y": 1090,
+          "tamano": 64,
+          "desde": 40,
+          "en": 2,
+          "angulo": -5
+        }
+      ]
+    },
+    {
+      "inicio": 25.34,
+      "fin": 27.77,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿LOS NOTAS AL REPOSTAR?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "surtidorG",
+          "x": 60,
+          "y": 780,
+          "esc": 0.8,
+          "en": -1,
+          "texto": "20 cts",
+          "tacha": -5
+        },
+        {
+          "tipo": "interrogaG",
+          "x": 520,
+          "y": 760,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 27.77,
+      "fin": 31.42,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿LOS NOTAS AL REPOSTAR?",
+          "tamano": 96,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

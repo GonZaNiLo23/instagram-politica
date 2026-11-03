@@ -69,10 +69,11 @@ export const CalendarioH: React.FC<{x?: number; y?: number; lado?: number; mes?:
 };
 
 /** Nómina (hoja con líneas). `cifra`: texto grande que cae en `cifraEn`; `interroga`: signo de interrogación que parpadea. */
-export const NominaH: React.FC<{x?: number; y?: number; esc?: number; cifra?: string; cifraEn?: number; dia?: string; interroga?: boolean; interEn?: number; en?: number; hasta?: number}> = ({
-  x = 540, y = 850, esc = 1, cifra, cifraEn = -1, dia, interroga = false, interEn = 0, en = 0, hasta,
+export const NominaH: React.FC<{x?: number; y?: number; esc?: number; cifra?: string; cifraEn?: number; dia?: string; interroga?: boolean; interEn?: number; zoom?: number; zoomDur?: number; cifraS?: number; caida?: number; en?: number; hasta?: number}> = ({
+  x = 540, y = 850, esc: esc0 = 1, cifra, cifraEn = -1, dia, interroga = false, interEn = 0, zoom = 1, zoomDur = 1.2, cifraS, caida = 320, en = 0, hasta,
 }) => {
   const t = useT();
+  const esc = esc0 * (1 + (zoom - 1) * (1 - easeO(cl(t / zoomDur))));
   const k = cifra ? (cifraEn < 0 ? 1 : easeO(cl((t - cifraEn) / 0.5))) : 0;
   const parp = interroga && t >= interEn ? (Math.floor((t - interEn) / 0.45) % 2 === 0 ? 1 : 0.2) : 0;
   return (
@@ -83,9 +84,9 @@ export const NominaH: React.FC<{x?: number; y?: number; esc?: number; cifra?: st
         <rect x={-110} y={-170} width={120} height={20} rx={10} fill={C.crema} />
         {[0, 1, 2].map((i) => <rect key={i} x={-110} y={-100 + i * 36} width={i === 2 ? 130 : 220} height={14} rx={7} fill={C.piedra} />)}
         {cifra ? (
-          <g transform={`translate(0 ${-(1 - k) * 320})`} opacity={Math.min(1, k * 2)}>
-            <rect x={-130} y={20} width={260} height={110} rx={14} fill={C.mostaza} {...sw} />
-            <Txt x={0} y={100} t={cifra} s={84} font={F.cifra} w={700} />
+          <g transform={`translate(0 ${-(1 - k) * caida})`} opacity={Math.min(1, k * 2)}>
+            <rect x={cifraS ? -140 : -130} y={20} width={cifraS ? 280 : 260} height={110} rx={14} fill={C.mostaza} {...sw} />
+            <Txt x={0} y={cifraS ? 96 : 100} t={cifra} s={cifraS ?? 84} font={F.cifra} w={700} />
           </g>
         ) : null}
         {dia ? <Txt x={0} y={198} t={dia} s={64} w={700} op={Math.min(1, k * 2)} /> : null}
@@ -243,6 +244,20 @@ export const ContratoH: React.FC<{x?: number; y?: number; esc?: number; check?: 
             <path d="M-45 -5 L-10 35 L55 -45" fill="none" stroke={C.crema} strokeWidth={18} strokeLinecap="round" strokeLinejoin="round" />
           </g>
         ) : null}
+      </g>
+    </Capa>
+  );
+};
+
+/** Escudo turquesa grande (protección). `entra`: segundo de escena en que cae. */
+export const EscudoH: React.FC<{x?: number; y?: number; esc?: number; entra?: number; en?: number; hasta?: number}> = ({x = 700, y = 960, esc = 1, entra = 0, en = 0, hasta}) => {
+  const t = useT();
+  const ke = prog(t, entra, 0.5);
+  return (
+    <Capa en={en} hasta={hasta} bob={6}>
+      <g transform={`translate(${x} ${y - (1 - ke) * 260}) scale(${esc})`} opacity={Math.min(1, ke * 2)}>
+        <path d="M0 -150 C50 -130 100 -125 120 -125 C120 -20 100 90 0 150 C-100 90 -120 -20 -120 -125 C-100 -125 -50 -130 0 -150 Z" fill={C.turquesa} fillOpacity={0.93} {...sw} />
+        <path d="M-45 -5 L-10 35 L55 -45" fill="none" stroke={C.crema} strokeWidth={18} strokeLinecap="round" strokeLinejoin="round" />
       </g>
     </Capa>
   );
@@ -539,6 +554,6 @@ export const NovH: React.FC<{y?: number; hito11?: number; campana?: number; urna
 
 export const REGISTRO_019: Record<string, React.FC<any>> = {
   calendarioH: CalendarioH, nominaH: NominaH, sobreCarpetaH: SobreCarpetaH, pastillaH: PastillaH, llaveBilleteH: LlaveBilleteH, fechasH: FechasH,
-  mazoH: MazoH, contratoH: ContratoH, sancionH: SancionH, casillaSSH: CasillaSSH, puertaH: PuertaH, sillasH: SillasH, balanzaH: BalanzaH,
+  mazoH: MazoH, contratoH: ContratoH, sancionH: SancionH, escudoH: EscudoH, casillaSSH: CasillaSSH, puertaH: PuertaH, sillasH: SillasH, balanzaH: BalanzaH,
   resolucionH: ResolucionH, acuerdoH: AcuerdoH, claveH: ClaveH, lineaCeoeH: LineaCeoeH, lupaH: LupaH, novH: NovH,
 };
