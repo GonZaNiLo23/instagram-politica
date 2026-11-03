@@ -12,3 +12,4 @@
 - 2026-11-03T12:34:48Z · am20261103-1226-abascal-huelga-ugt-ccoo v1 · OK · ffprobe: h264 1080x1920 @30/1 · 30.90 s (objetivo 30.76 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-03T13:40:52Z · am20261103-1326-abascal-vivienda-suelo v1 · OK · ffprobe: h264 1080x1920 @30/1 · 36.20 s (objetivo 36.14 s) -> OK Volumen integrado: -14.3 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-03T15:42:30Z · am20261103-1540-garriga-puente-perdon v1 · OK · ffprobe: h264 1080x1920 @30/1 · 28.70 s (objetivo 28.56 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-03T18:05:35Z · am20261103-1745-ayuso-acampada-sol v1 · OK · ffprobe: h264 1080x1920 @30/1 · 29.30 s (objetivo 29.14 s) -> OK Volumen integrado: -14.3 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
