@@ -93,3 +93,4 @@
 - 2026-11-03 14:40 UTC · sin candidatos (radar generado 14:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-03 15:40 UTC · nota 3 · @vox_es (Garriga exige a Puente pedir perdón; tramo 0-25,06 s, subtítulos cotejados con la transcripción) · publicado am20261103-1540-garriga-puente-perdon
 - 2026-11-03 15:40 UTC · nota 2 · @vox_es (Garriga, corrupción jefe de gabinete de Illa) · descartado: una pieza por hora; 121 s y 'se sabía hace seis meses' no contrastable
+- 2026-11-03 16:40 UTC · nota 2 · @psoe (cómo votar el 29N desde el extranjero) · descartado: guía de trámite de una cuenta de partido sin noticia ni frase de choque, poco interés para nuestra audiencia pese a viral alto; único candidato · sin publicación
