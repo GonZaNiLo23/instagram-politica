@@ -9,3 +9,4 @@
 - 2026-11-01T13:32:38Z · am20261101-1327-pp-encuestas-tragedia v1 · OK · ffprobe: h264 1080x1920 @30/1 · 21.61 s (objetivo 21.58 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-02T11:39:29Z · am20261102-1131-garriga-apagones v1 · OK · ffprobe: h264 1080x1920 @30/1 · 23.50 s (objetivo 23.44 s) -> OK Volumen integrado: -14.2 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-02T12:39:03Z · am20261102-1233-buxade-trenes-redondo v1 · OK · ffprobe: h264 1080x1920 @30/1 · 17.90 s (objetivo 17.82 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-03T12:34:48Z · am20261103-1226-abascal-huelga-ugt-ccoo v1 · OK · ffprobe: h264 1080x1920 @30/1 · 30.90 s (objetivo 30.76 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
