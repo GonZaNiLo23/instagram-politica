@@ -1,0 +1,116 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 30.76,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 27.26,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 27.26,
+     "fundidoFin": 27.26
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL CRITICA LA HUELGA GENERAL DE UGT Y CCOO",
+     "fecha": "3 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.0,
+       "fin": 1.38,
+       "texto": "UGT y Comisiones Obreras,"
+      },
+      {
+       "inicio": 1.38,
+       "fin": 2.6,
+       "texto": "que han estado callados como muertos"
+      },
+      {
+       "inicio": 2.6,
+       "fin": 5.32,
+       "texto": "durante estos ocho años de gobierno socialista."
+      },
+      {
+       "inicio": 5.98,
+       "fin": 7.48,
+       "texto": "Parece que no han manifestado"
+      },
+      {
+       "inicio": 7.48,
+       "fin": 9.6,
+       "texto": "ningún tipo de preocupación seria"
+      },
+      {
+       "inicio": 9.6,
+       "fin": 13.02,
+       "texto": "sobre la degradación económica de las familias,"
+      },
+      {
+       "inicio": 13.06,
+       "fin": 14.48,
+       "texto": "sobre la pérdida de poder adquisitivo,"
+      },
+      {
+       "inicio": 14.96,
+       "fin": 16.12,
+       "texto": "sobre la falta de seguridad,"
+      },
+      {
+       "inicio": 16.3,
+       "fin": 18.58,
+       "texto": "sobre las listas de espera en la sanidad,"
+      },
+      {
+       "inicio": 19.48,
+       "fin": 20.98,
+       "texto": "sobre la inaccesible vivienda"
+      },
+      {
+       "inicio": 20.98,
+       "fin": 22.68,
+       "texto": "durante estos años de gobierno"
+      },
+      {
+       "inicio": 22.68,
+       "fin": 24.98,
+       "texto": "y de repente hace una huelga general"
+      },
+      {
+       "inicio": 24.98,
+       "fin": 27.26,
+       "texto": "para hacerle la campaña electoral a Sánchez."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 27.26,
+   "fin": 30.76,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal ve en la huelga general campaña para Sánchez",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

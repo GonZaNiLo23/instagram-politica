@@ -55,3 +55,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261101-1327-pp-encuestas-tragedia | Al minuto: el PP acusa al Gobierno de encuestar el impacto electoral de la tragedia | publicando (Al minuto horario) |
 | am20261102-1131-garriga-apagones | Al minuto: Garriga (Vox) culpa al PSOE de los apagones | publicando (Al minuto horario) |
 | am20261102-1233-buxade-trenes-redondo | Al minuto: Buxadé (Vox) responde a Redondo sobre los trenes | publicando (Al minuto horario) |
+| am20261103-1226-abascal-huelga-ugt-ccoo | Al minuto: Abascal (Vox) critica la huelga general de UGT y CCOO | publicando (Al minuto horario) |

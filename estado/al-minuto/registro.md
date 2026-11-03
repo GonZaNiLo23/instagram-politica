@@ -83,3 +83,8 @@
 - 2026-11-03 09:30 UTC · sin candidatos (radar generado 09:27 UTC, candidatos vacíos) · sin publicación
 - 2026-11-03 10:40 UTC · sin candidatos (radar generado 10:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-03 11:30 UTC · sin candidatos (radar generado 11:27 UTC, candidatos vacíos) · sin publicación
+- 2026-11-03 12:40 UTC · nota 4 · @vox_es (Abascal, huelga general UGT/CCOO; tramo 10,92-38,18 s, subtítulos cotejados con la transcripción; omitido el arranque con transcripción dudosa) · publicado am20261103-1226-abascal-huelga-ugt-ccoo
+- 2026-11-03 12:40 UTC · nota 3 · @vox_es (Abascal, Óscar Puente) · descartado: una pieza por hora; tema trenes ya cubierto
+- 2026-11-03 12:40 UTC · nota 3 · @vox_es (Vox, votar el 29-N) · descartado: spot de campaña sin noticia
+- 2026-11-03 12:40 UTC · nota 2 · @vox_es (Abascal, muertos bajo las alfombras) · descartado: insinuación no contrastable
+- 2026-11-03 12:40 UTC · nota 2 · @vox_es (Abascal responde al PP) · descartado: 175 s sin tramo autónomo claro; mismo tema ya descartado
