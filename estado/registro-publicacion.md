@@ -20,3 +20,5 @@
 - 2026-11-02T12:00:49.555Z · am20261102-1131-garriga-apagones: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-02T13:00:43.304Z · am20261102-1233-buxade-trenes-redondo v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfPXT7dj9qS/
 - 2026-11-02T13:00:46.338Z · am20261102-1233-buxade-trenes-redondo: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-03T13:00:40.876Z · am20261103-1226-abascal-huelga-ugt-ccoo v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfR8GwTjxJr/
+- 2026-11-03T13:00:44.255Z · am20261103-1226-abascal-huelga-ugt-ccoo: TikTok en la bandeja de borradores (falta publicarlo desde la app)
