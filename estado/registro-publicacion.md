@@ -29,3 +29,5 @@
 - 2026-11-03T18:09:09.122Z · am20261103-1745-ayuso-acampada-sol: ERROR al publicar: Error: Subida de am20261103-1745-ayuso-acampada-sol-v1.mp4 fallida: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"{\"success\":false,\"error\":{\"message\":\"The ig container is not in the status to upload a video\"}}"}}
 - 2026-11-04T12:00:39.599Z · am20261104-1127-cuerpo-transportes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfUaCS0nTu1/
 - 2026-11-04T12:00:42.807Z · am20261104-1127-cuerpo-transportes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-04T13:00:46.186Z · am20261104-1227-pp-puente-encuestas v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfUg5s_jvDj/
+- 2026-11-04T13:00:51.386Z · am20261104-1227-pp-puente-encuestas: TikTok en la bandeja de borradores (falta publicarlo desde la app)
