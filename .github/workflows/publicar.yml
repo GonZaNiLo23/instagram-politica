@@ -24,13 +24,16 @@ concurrency:
 jobs:
   publicar:
     runs-on: ubuntu-24.04
-    timeout-minutes: 30
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
 
       - name: ¿Hay algo que publicar?
         id: hay
         run: |
+          # Lanzado por el radar horario (al-minuto.yml): si no toca nada aún pero sí en menos de 60 min, espera a la hora en punto
+          espera=$(node -e 'const c=require("./estado/cola-publicacion.json");const p=c.filter(e=>e.estado==="pendiente");const ya=p.some(e=>Date.parse(e.hora)<=Date.now());const f=p.filter(e=>!e.pieza.startsWith("am")).map(e=>Date.parse(e.hora)-Date.now()).filter(d=>d>0&&d<=3600e3);console.log(ya||!f.length?0:Math.ceil(Math.min(...f)/1000)+5)' 2>/dev/null || echo 0)
+          if [ "$espera" != "0" ]; then echo "Espero $espera s a la hora de publicación"; sleep "$espera"; git pull -q --rebase; fi
           n=$(node -e 'const c=require("./estado/cola-publicacion.json");console.log(c.filter(e=>e.estado==="pendiente"&&Date.parse(e.hora)<=Date.now()).length)' 2>/dev/null || echo 0)
           echo "n=$n" >> "$GITHUB_OUTPUT"
 

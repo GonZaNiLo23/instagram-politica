@@ -1,0 +1,95 @@
+# Producción diaria de piezas trabajadas EN LA NUBE (decisión de la persona usuaria del 2026-11-04: "que lo haga todo en la nube").
+# Claude Code + los agentes de .claude/agents (coordinador → guionista → revisor-guion → generador-video → revisor-video)
+# en un ejecutor de GitHub Actions con red completa (la rutina de claude.ai no podía abrir BOE, INE, Moncloa ni Commons).
+# El encargo está en tareas/produccion-nube.md. Renderiza aquí mismo, sube el vídeo al release "listos" y lo deja en
+# estado/cola-publicacion.json con la aprobación permanente; publicar.yml lo publica en Instagram y TikTok a su hora.
+# Disparo: cron de las 01:00 UTC y, como el cron de GitHub llega horas tarde, el radar horario (al-minuto.yml) la lanza
+# desde las 05:00 UTC si hoy no ha corrido. También a mano: gh workflow run produccion.yml [-f encargo="urgente: …"].
+# Claves: CLAUDE_CODE_OAUTH_TOKEN (claude setup-token, suscripción) y ELEVENLABS_*. Las de Instagram y TikTok NO llegan a este trabajo.
+# Repositorio público: la salida de Claude va al registro (GitHub enmascara los secretos); no se suben artefactos con registros.
+name: Producción diaria
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      encargo:
+        description: "Encargo extra para el coordinador (opcional; p. ej. 'urgente: <tema>' o 'solo la pieza 035')"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: produccion
+  cancel-in-progress: false
+
+jobs:
+  produccion:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 330
+    env:
+      GH_TOKEN: ${{ github.token }}
+      TZ: Europe/Madrid
+    steps:
+      - name: ¿Está la clave de Claude?
+        env:
+          T: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          [ -n "$T" ] || { echo "::error::Falta el secreto CLAUDE_CODE_OAUTH_TOKEN (claude setup-token → GitHub → Settings → Secrets → Actions)"; exit 1; }
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: videos/remotion/package-lock.json
+
+      - name: ffmpeg, yt-dlp y librerías del navegador de Remotion
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q ffmpeg libnss3 libdbus-1-3 libatk1.0-0 libgbm-dev libasound2t64 libxrandr2 \
+            libxkbcommon-dev libxfixes3 libxcomposite1 libxdamage1 libatk-bridge2.0-0 libpango-1.0-0 libcairo2 libcups2
+          pipx install -q yt-dlp || pip install -q yt-dlp
+
+      - name: Dependencias de Remotion y de la API
+        run: |
+          (cd videos/remotion && npm ci --no-audit --no-fund && npx remotion browser ensure)
+          (cd herramientas/publicar-api && npm ci --no-audit --no-fund)
+
+      - name: Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Producción
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
+          ELEVENLABS_MODEL: ${{ secrets.ELEVENLABS_MODEL }}
+          ELEVENLABS_AJUSTES: ${{ secrets.ELEVENLABS_AJUSTES }}
+          TIKTOK_DIRECTO: ${{ vars.TIKTOK_DIRECTO }}
+          ENCARGO: ${{ inputs.encargo }}
+        run: |
+          git config user.name "produccion-nube"
+          git config user.email "produccion-nube@users.noreply.github.com"
+          hoy=$(date +%F)
+          {
+            echo "Hoy es $hoy ($(date +%A), $(date +%H:%M) en Madrid)."
+            [ -n "$ENCARGO" ] && echo "Encargo extra de la persona usuaria: $ENCARGO"
+            sed -n '/^---$/,$p' tareas/produccion-nube.md | tail -n +2
+          } > /tmp/encargo.txt
+          claude -p \
+            --allowedTools 'Agent,Read,Write,Edit,Glob,Grep,Bash,WebSearch,WebFetch' \
+            --disallowedTools 'mcp__claude-in-chrome' \
+            < /tmp/encargo.txt | tail -c 4000
+
+      - name: Guardar lo que quede
+        if: always()
+        run: |
+          git config user.name "produccion-nube"
+          git config user.email "produccion-nube@users.noreply.github.com"
+          git add -A estado guiones revisiones publicado memoria feedback temas videos/piezas 2>/dev/null || true
+          git diff --cached --quiet || { git commit -q -m "Producción en la nube $(date +%F): cierre"; git pull --rebase -q && git push -q; }

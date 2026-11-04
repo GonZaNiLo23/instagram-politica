@@ -19,6 +19,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # para lanzar metricas.yml (paso "Métricas del día")
 
 concurrency:
   group: al-minuto-radar
@@ -32,6 +33,40 @@ jobs:
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
+
+      # El cron de metricas.yml (07:30 UTC) llega con 6–10 h de retraso y el monitoreador (08:45 UTC) no encontraba el JSON del día.
+      # El radar sí corre cada hora: desde las 06:00 UTC, si falta el JSON de hoy y no hay ninguna recogida hoy, la lanza.
+      - name: Métricas del día (si faltan)
+        continue-on-error: true
+        run: |
+          hoy=$(date -u +%F)
+          if [ "$(date -u +%H)" -ge 6 ] && [ ! -f "publicado/metricas-api/$hoy.json" ]; then
+            hechas=$(gh run list --workflow metricas.yml --limit 5 --json createdAt -q "[.[] | select(.createdAt | startswith(\"$hoy\"))] | length")
+            if [ "${hechas:-0}" = "0" ]; then
+              gh workflow run metricas.yml && echo "Métricas de $hoy: lanzadas"
+            else
+              echo "Métricas de $hoy: ya hay una recogida lanzada hoy"
+            fi
+          fi
+
+      # Producción diaria en la nube (produccion.yml, 2026-11-04): su cron de las 01:00 UTC puede no llegar; desde las 05:00 UTC, si hoy no ha corrido, la lanza.
+      - name: Producción del día (si falta)
+        continue-on-error: true
+        run: |
+          hoy=$(date -u +%F)
+          if [ "$(date -u +%H)" -ge 5 ]; then
+            hechas=$(gh run list --workflow produccion.yml --limit 5 --json createdAt -q "[.[] | select(.createdAt | startswith(\"$hoy\"))] | length")
+            [ "${hechas:-0}" = "0" ] && gh workflow run produccion.yml && echo "Producción de $hoy: lanzada"
+          fi
+
+      # El cron de publicar.yml (cada 15 min) llega con horas de retraso y las piezas caducaban. El radar corre cada hora:
+      # si una pieza trabajada de la cola toca en los próximos 70 min (o ya tocaba), lanza publicar.yml, que espera a la hora exacta.
+      # Las de Al minuto (am…) no: las publica render.yml.
+      - name: Publicación de la próxima hora
+        continue-on-error: true
+        run: |
+          n=$(node -e 'const c=require("./estado/cola-publicacion.json");console.log(c.filter(e=>e.estado==="pendiente"&&!e.pieza.startsWith("am")&&Date.parse(e.hora)<=Date.now()+70*60e3).length)' 2>/dev/null || echo 0)
+          [ "$n" != "0" ] && gh workflow run publicar.yml && echo "Publicación lanzada ($n pieza/s)"
 
       - uses: actions/setup-node@v4
         with:

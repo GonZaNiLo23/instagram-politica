@@ -12,7 +12,9 @@ Ejecuta `instalar-agentes.bat` (doble clic): copia `agentes/` a `.claude/agents/
 3. `estado/pipeline.md` (en qué punto está cada pieza)
 
 Los subagentes no pueden lanzar otros subagentes, por eso la coordinación la hace la sesión principal y delega con la herramienta Agent en:
-`buscador-temas`, `guionista`, `revisor-guion`, `generador-video`, `revisor-video`, `generador-carrusel`, `publicador` (Meta Business Suite + TikTok Studio) y `monitoreador` (métricas; se ejecuta solo cada día con `tareas/monitoreo-diario.ps1`).
+`buscador-temas`, `guionista`, `revisor-guion`, `generador-video`, `revisor-video`, `generador-carrusel`, `publicador` (Meta Business Suite + TikTok Studio) y `monitoreador` (métricas; rutina diaria en la nube).
+
+**Todo corre en la nube desde el 2026-11-04** (decisión de la persona usuaria: "sin utilizar más mi portátil que para comunicarme con la sesión"): la producción diaria de piezas trabajadas la hace `.github/workflows/produccion.yml` (Claude Code + agentes en GitHub Actions, con red completa; encargo en `tareas/produccion-nube.md`), que renderiza, encola y deja que `publicar.yml` publique en Instagram y TikTok. El portátil solo sirve para hablar con la sesión; las tareas de Windows (`tareas/*.ps1`) quedan desactivadas.
 
 ## Estructura de carpetas
 ```
