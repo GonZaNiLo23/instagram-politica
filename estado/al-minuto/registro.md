@@ -121,3 +121,4 @@
 - 2026-11-04 14:40 UTC · 1 · @vox_es (¡Gracias Ciudad Real!) · descartado: sin habla (solo música/rótulo de Amara)
 - 2026-11-04 14:40 UTC · 2 · @santi_abascal (Abascal: Sánchez y el 'fusible' Puente, 140 s) · descartado: tema Puente ya cubierto varias veces hoy; letanía de nombres con insinuaciones de corrupción no contrastables · sin publicación
 - 2026-11-04 15:30 UTC · sin candidatos (radar generado 15:28 UTC, candidatos vacíos) · sin publicación
+- 2026-11-04 16:38 UTC · 3 · @alviseperez (Hermanos Musulmanes, organización terrorista; Eurocámara, 114 s) · publicado am20261104-1626-alvise-hermanos-musulmanes (tramo 18.1–41.0 s)
