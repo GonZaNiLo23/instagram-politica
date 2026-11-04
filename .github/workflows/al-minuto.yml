@@ -63,12 +63,12 @@ jobs:
           fi
 
       # El cron de publicar.yml (cada 15 min) llega con horas de retraso y las piezas caducaban. El radar corre cada hora:
-      # si una pieza trabajada de la cola toca en los próximos 70 min (o ya tocaba), lanza publicar.yml, que espera a la hora exacta.
+      # si una pieza trabajada de la cola toca en los próximos 130 min (el radar corre cada 2 h desde el 2026-11-04) (o ya tocaba), lanza publicar.yml, que espera a la hora exacta.
       # Las de Al minuto (am…) no: las publica render.yml.
       - name: Publicación de la próxima hora
         continue-on-error: true
         run: |
-          n=$(node -e 'const c=require("./estado/cola-publicacion.json");console.log(c.filter(e=>e.estado==="pendiente"&&!e.pieza.startsWith("am")&&Date.parse(e.hora)<=Date.now()+70*60e3).length)' 2>/dev/null || echo 0)
+          n=$(node -e 'const c=require("./estado/cola-publicacion.json");console.log(c.filter(e=>e.estado==="pendiente"&&!e.pieza.startsWith("am")&&Date.parse(e.hora)<=Date.now()+130*60e3).length)' 2>/dev/null || echo 0)
           [ "$n" != "0" ] && gh workflow run publicar.yml && echo "Publicación lanzada ($n pieza/s)"
 
       - uses: actions/setup-node@v4
