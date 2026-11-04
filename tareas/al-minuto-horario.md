@@ -1,8 +1,9 @@
-# Rutina "Al minuto horario" (nube, cada hora a y 25, de 06:25 a 21:25 en España; se publica en punto: 07:00…22:00)
+# Rutina "Al minuto horario" (nube; desde el 2026-11-04 cada DOS horas: se publica en punto a las horas pares, 08:00…22:00 de Madrid)
 
 Decisión de la persona usuaria del 2026-10-29: cada hora se publica **directamente, sin revisores**, el vídeo del momento más relevante (nota 3–5) en formato Al minuto. Lo único que lo para es un veto en `estado/vetos.md`. Tú no publicas: encargas el render con `"publicar": true` y GitHub Actions renderiza y publica.
 
 ## 0. Antes de nada
+- **Cada dos horas (decisión de la persona usuaria del 2026-11-04, para no agotar el límite de uso):** solo se publica a las horas PARES de Madrid (08:00, 10:00 … 22:00). Calcula la hora en punto siguiente en Madrid (`TZ=Europe/Madrid date -d '+30 min' +%H`, hora de la publicación). **Si es impar, termina ya**: no hagas pull, no lances el radar, no leas nada más ni escribas en el registro.
 - `git pull --rebase`.
 - **Lanza el radar:** escribe la hora UTC actual en `cola/radar/pedir.txt`, haz commit ("Al minuto: pedir radar") y `git push` (con `git pull --rebase` si hace falta). Eso arranca `.github/workflows/al-minuto.yml`.
 - **Espera sus resultados:** cada 30 s, `git pull --rebase -q` y mira el campo `generado` de `estado/al-minuto/candidatos.json`. Sigue cuando sea posterior a la hora que escribiste en `pedir.txt` (suele tardar 6–9 min). Si a los 20 min no ha llegado, apunta "radar sin respuesta" en `estado/al-minuto/registro.md`, haz commit y push y termina.
