@@ -55,8 +55,11 @@ jobs:
         run: |
           hoy=$(date -u +%F)
           if [ "$(date -u +%H)" -ge 5 ]; then
-            hechas=$(gh run list --workflow produccion.yml --limit 5 --json createdAt -q "[.[] | select(.createdAt | startswith(\"$hoy\"))] | length")
-            [ "${hechas:-0}" = "0" ] && gh workflow run produccion.yml && echo "Producción de $hoy: lanzada"
+            # Cuenta las de hoy en marcha o bien terminadas; las fallidas (límite de uso) se reintentan, como mucho 3 al día
+            hoyes=$(gh run list --workflow produccion.yml --limit 10 --json createdAt,status,conclusion -q "[.[] | select(.createdAt | startswith(\"$hoy\"))]")
+            vivas=$(echo "$hoyes" | jq '[.[] | select(.status != "completed" or .conclusion == "success")] | length')
+            total=$(echo "$hoyes" | jq 'length')
+            [ "${vivas:-0}" = "0" ] && [ "${total:-0}" -lt 3 ] && gh workflow run produccion.yml && echo "Producción de $hoy: lanzada (intento $((total+1)))"
           fi
 
       # El cron de publicar.yml (cada 15 min) llega con horas de retraso y las piezas caducaban. El radar corre cada hora:

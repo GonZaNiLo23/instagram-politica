@@ -84,7 +84,10 @@ jobs:
           claude -p \
             --allowedTools 'Agent,Read,Write,Edit,Glob,Grep,Bash,WebSearch,WebFetch' \
             --disallowedTools 'mcp__claude-in-chrome' \
-            < /tmp/encargo.txt | tail -c 4000
+            < /tmp/encargo.txt > /tmp/salida.txt 2>&1 || true
+          tail -c 4000 /tmp/salida.txt
+          # Límite de uso de la suscripción: el trabajo queda como fallido y el radar horario la relanza (máx. 3 intentos al día)
+          if grep -qiE "hit your .*limit|usage limit|rate limit" /tmp/salida.txt; then echo "::warning::Límite de uso de Claude: se relanzará"; echo "limite=1" >> "$GITHUB_ENV"; fi
 
       - name: Guardar lo que quede
         if: always()
@@ -93,3 +96,4 @@ jobs:
           git config user.email "produccion-nube@users.noreply.github.com"
           git add -A estado guiones revisiones publicado memoria feedback temas videos/piezas 2>/dev/null || true
           git diff --cached --quiet || { git commit -q -m "Producción en la nube $(date +%F): cierre"; git pull --rebase -q && git push -q; }
+          [ "${limite:-0}" = "1" ] && exit 1 || true
