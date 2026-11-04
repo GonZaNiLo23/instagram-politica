@@ -35,3 +35,4 @@
 - [nube, 2026-11-01] 4.ª noche sin red (403 a todo). Mismo protocolo: curl de 1 minuto, informe y aviso. Hasta que cambie la red del entorno, la producción real tiene que hacerse en local.
 - [nube, 2026-11-02] 5.ª noche igual (curl 403 + WebFetch "host no permitido"). Es la política de red del entorno, no una caída: hasta que la persona usuaria añada los dominios, salir en 1 minuto.
 - [nube, 2026-11-03] 6.ª noche igual (403 a todo). Los huecos del 3 y 4-11 quedan vacíos: sin cambio de red en el entorno, la producción solo puede salir en local.
+- [nube, 2026-11-04] 7.ª noche igual (403 a ine, boe, europapress, commons, wikipedia). 4 y 5-11 cubiertos por lo programado en Meta; 6-11 vacío.
