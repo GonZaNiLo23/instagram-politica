@@ -117,3 +117,6 @@
 - 2026-11-04 13:40 UTC · 2 · @vox_es (Abascal, dimisión de Puente, 140 s) · descartado: tema ya cubierto 3 veces hoy; acusaciones no contrastables
 - 2026-11-04 13:40 UTC · 2 · @vox_es (Abascal responde a Colau) · descartado: afirma que un partido 'ha matado a esas víctimas', acusación no probada
 - 2026-11-04 13:40 UTC · 2 · @vox_es (Abascal, campaña y luto) · descartado: acusa de 'provocar los crímenes', no probado
+- 2026-11-04 14:40 UTC · 2 · @vox_es (Ciudad Real, 3.000 personas despiden a Abascal) · descartado: sin habla, solo imágenes de mitin sin frase
+- 2026-11-04 14:40 UTC · 1 · @vox_es (¡Gracias Ciudad Real!) · descartado: sin habla (solo música/rótulo de Amara)
+- 2026-11-04 14:40 UTC · 2 · @santi_abascal (Abascal: Sánchez y el 'fusible' Puente, 140 s) · descartado: tema Puente ya cubierto varias veces hoy; letanía de nombres con insinuaciones de corrupción no contrastables · sin publicación
