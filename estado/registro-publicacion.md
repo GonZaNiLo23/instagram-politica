@@ -31,3 +31,5 @@
 - 2026-11-04T12:00:42.807Z · am20261104-1127-cuerpo-transportes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-04T13:00:46.186Z · am20261104-1227-pp-puente-encuestas v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfUg5s_jvDj/
 - 2026-11-04T13:00:51.386Z · am20261104-1227-pp-puente-encuestas: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-04T14:00:48.149Z · am20261104-1332-abascal-michigan v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfUnxHfjVI3/
+- 2026-11-04T14:00:51.595Z · am20261104-1332-abascal-michigan: TikTok en la bandeja de borradores (falta publicarlo desde la app)
