@@ -120,3 +120,4 @@
 - 2026-11-04 14:40 UTC · 2 · @vox_es (Ciudad Real, 3.000 personas despiden a Abascal) · descartado: sin habla, solo imágenes de mitin sin frase
 - 2026-11-04 14:40 UTC · 1 · @vox_es (¡Gracias Ciudad Real!) · descartado: sin habla (solo música/rótulo de Amara)
 - 2026-11-04 14:40 UTC · 2 · @santi_abascal (Abascal: Sánchez y el 'fusible' Puente, 140 s) · descartado: tema Puente ya cubierto varias veces hoy; letanía de nombres con insinuaciones de corrupción no contrastables · sin publicación
+- 2026-11-04 15:30 UTC · sin candidatos (radar generado 15:28 UTC, candidatos vacíos) · sin publicación
