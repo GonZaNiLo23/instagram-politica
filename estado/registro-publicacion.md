@@ -27,3 +27,5 @@
 - 2026-11-03T16:00:44.795Z · am20261103-1540-garriga-puente-perdon v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfSQtXTDxnv/
 - 2026-11-03T16:00:48.964Z · am20261103-1540-garriga-puente-perdon: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-03T18:09:09.122Z · am20261103-1745-ayuso-acampada-sol: ERROR al publicar: Error: Subida de am20261103-1745-ayuso-acampada-sol-v1.mp4 fallida: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"{\"success\":false,\"error\":{\"message\":\"The ig container is not in the status to upload a video\"}}"}}
+- 2026-11-04T12:00:39.599Z · am20261104-1127-cuerpo-transportes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfUaCS0nTu1/
+- 2026-11-04T12:00:42.807Z · am20261104-1127-cuerpo-transportes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
