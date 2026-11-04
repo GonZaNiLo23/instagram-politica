@@ -18,3 +18,4 @@
 - 2026-11-04T12:34:57Z · am20261104-1227-pp-puente-encuestas v1 · OK · ffprobe: h264 1080x1920 @30/1 · 26.70 s (objetivo 26.6 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-04T13:34:44Z · am20261104-1332-abascal-michigan v1 · OK · ffprobe: h264 1080x1920 @30/1 · 24.10 s (objetivo 23.96 s) -> OK Volumen integrado: -14.4 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-04T16:34:37Z · am20261104-1626-alvise-hermanos-musulmanes v1 · OK · ffprobe: h264 1080x1920 @30/1 · 26.50 s (objetivo 26.4 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-04T17:34:50Z · am20261104-1730-nngg-protestas-educacion v1 · OK · ffprobe: h264 1080x1920 @30/1 · 30.91 s (objetivo 30.88 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
