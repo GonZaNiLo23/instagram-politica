@@ -278,3 +278,45 @@
 | 2026-11-03 (API, corte 11-02 17:26 UTC) | 006 | Instagram | 2026-10-22 18:08 | 264 h | 431 | 380 | 22,0 s | n/d | n/d | 9 | 0 | 0 | 0 | n/d | 59 |
 | 2026-11-03 (API, corte 11-02 17:26 UTC) | 004 | Instagram | 2026-10-20 18:08 | 312 h | 40 | 33 | 10,0 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 59 |
 | 2026-11-03 | todos | TikTok | n/d | n/d | TikTok no está en la API de Instagram: sin lectura hoy; último dato conocido 40 seguidores (TikTok Studio, 2026-10-27) | | | | | | | | | n/d | n/d |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-Abascal vivienda | Instagram | 2026-11-03 15:00 | 1 h | 175 | 117 | 10,9 s | n/d | n/d | 3 | 1 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-Abascal UGT-CCOO | Instagram | 2026-11-03 14:00 | 2 h | 169 | 149 | 14,2 s | n/d | n/d | 4 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-Buxadé-Redondo | Instagram | 2026-11-02 14:00 | 26 h | 191 | 158 | 7,3 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-Garriga apagones | Instagram | 2026-11-02 13:00 | 27 h | 165 | 152 | 5,2 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 030 | Instagram | 2026-11-01 19:01 | 45 h | 1.644 | 1.483 | 19,1 s | n/d | n/d | 18 | 0 | 3 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-PP encuestas | Instagram | 2026-11-01 15:00 | 49 h | 206 | 171 | 10,6 s | n/d | n/d | 6 | 2 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 028 | Instagram | 2026-11-01 12:01 | 52 h | 242 | 211 | 8,2 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-Remigración | Instagram | 2026-11-01 12:00 | 52 h | 2.875 | 2.225 | 18,2 s | n/d | n/d | 126 | 74 | 1 | 17 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-Vox Urda | Instagram | 2026-11-01 10:00 | 54 h | 384 | 327 | 12,4 s | n/d | n/d | 9 | 3 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-Abascal Vox crece | Instagram | 2026-11-01 09:00 | 55 h | 1.491 | 1.259 | 12,4 s | n/d | n/d | 32 | 39 | 1 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 017 | Instagram | 2026-10-31 19:01 | 69 h | 1.566 | 1.341 | 46,4 s | n/d | n/d | 56 | 1 | 5 | 5 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-Buxadé querellas | Instagram | 2026-10-31 15:00 | 73 h | 182 | 161 | 12,9 s | n/d | n/d | 5 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-PP trenes | Instagram | 2026-10-31 14:01 | 74 h | 192 | 174 | 6,6 s | n/d | n/d | 3 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 007 | Instagram | 2026-10-31 12:02 | 76 h | 1.668 | 1.397 | 16,6 s | n/d | n/d | 32 | 1 | 3 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-AVE | Instagram | 2026-10-30 14:00 | 98 h | 211 | 178 | 12,4 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 020 | Instagram | 2026-10-30 13:30 | 99 h | 1.022 | 909 | 21,2 s | n/d | n/d | 22 | 0 | 2 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-Abascal | Instagram | 2026-10-29 22:00 | 114 h | 195 | 177 | 7,1 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 012 | Instagram | 2026-10-29 19:01 | 117 h | 1.999 | 1.742 | 30,4 s | n/d | n/d | 20 | 1 | 6 | 1 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | am-Alvise | Instagram | 2026-10-29 17:00 | 119 h | 232 | 187 | 13,6 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 018 | Instagram | 2026-10-29 13:31 | 123 h | 1.602 | 1.382 | 16,0 s | n/d | n/d | 15 | 0 | 7 | 10 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 015 | Instagram | 2026-10-29 10:01 | 126 h | 272 | 251 | 5,1 s | n/d | n/d | 3 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 027 | Instagram | 2026-10-28 21:01 | 139 h | 365 | 310 | 72,4 s | n/d | n/d | 3 | 1 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 014 | Instagram | 2026-10-28 19:01 | 141 h | 3.619 | 2.984 | 16,6 s | n/d | n/d | 38 | 2 | 9 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 026 | Instagram | 2026-10-28 13:31 | 147 h | 2.313 | 2.052 | 22,8 s | n/d | n/d | 35 | 1 | 3 | 11 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 011 | Instagram (carrusel) | 2026-10-28 13:30 | 147 h | 30 | 13 | n/d | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 013 | Instagram | 2026-10-27 19:01 | 165 h | 1.798 | 1.580 | 28,9 s | n/d | n/d | 21 | 1 | 6 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 021 | Instagram | 2026-10-27 13:31 | 171 h | 637 | 538 | 10,6 s | n/d | n/d | 8 | 0 | 2 | 2 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 025 | Instagram | 2026-10-27 09:32 | 175 h | 702 | 608 | 23,3 s | n/d | n/d | 4 | 0 | 1 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 016 | Instagram | 2026-10-26 19:01 | 189 h | 5.867 | 5.026 | 25,1 s | n/d | n/d | 68 | 2 | 24 | 18 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 001 | Instagram | 2026-10-25 19:05 | 213 h | 1.924 | 1.646 | 21,3 s | n/d | n/d | 48 | 0 | 7 | 1 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 024 | Instagram | 2026-10-25 15:47 | 217 h | 273 | 245 | 12,5 s | n/d | n/d | 2 | 0 | 0 | 2 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 008 | Instagram | 2026-10-25 12:05 | 220 h | 838 | 727 | 18,1 s | n/d | n/d | 8 | 0 | 2 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 023 | Instagram | 2026-10-24 18:07 | 238 h | 1.740 | 1.522 | 13,1 s | n/d | n/d | 37 | 0 | 3 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 022 | Instagram | 2026-10-24 15:31 | 241 h | 1.784 | 1.576 | 11,6 s | n/d | n/d | 44 | 0 | 7 | 2 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 003 | Instagram | 2026-10-24 11:05 | 245 h | 3.448 | 2.801 | 19,4 s | n/d | n/d | 28 | 2 | 4 | 4 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 002 | Instagram | 2026-10-23 18:06 | 262 h | 8.714 | 7.031 | 39,0 s | n/d | n/d | 105 | 2 | 62 | 32 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 005 | Instagram | 2026-10-23 15:32 | 265 h | 180 | 164 | 13,1 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 010 | Instagram | 2026-10-23 12:33 | 268 h | 1.030 | 876 | 13,3 s | n/d | n/d | 11 | 0 | 0 | 5 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 009 | Instagram | 2026-10-23 09:07 | 271 h | 2.358 | 1.845 | 45,4 s | n/d | n/d | 72 | 13 | 11 | 36 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 006 | Instagram | 2026-10-22 18:08 | 286 h | 432 | 381 | 22,0 s | n/d | n/d | 9 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 (API, corte 11-03 15:30 UTC) | 004 | Instagram | 2026-10-20 18:08 | 334 h | 40 | 33 | 10,0 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 59 |
+| 2026-11-04 | todos | TikTok | n/d | n/d | TikTok no está en la API de Instagram: sin lectura hoy; último dato conocido 40 seguidores (TikTok Studio, 2026-10-27) | | | | | | | | | n/d | n/d |
