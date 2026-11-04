@@ -111,3 +111,5 @@
 - 2026-11-04 11:40 UTC · 3 · @vox_es (Abascal, prioridad nacional) · descartado: una pieza por hora; sin noticia nueva
 - 2026-11-04 11:40 UTC · 2 · @vox_es (Abascal, pensiones, 23 s) · descartado: 7 frases, sin dato
 - 2026-11-04 11:40 UTC · 2 · @vox_es (Abascal, desregulación) · descartado: cifra del Instituto Juan de Mariana no contrastada
+- 2026-11-04 12:40 UTC · 3 · @partidopopular (PP, «Puente se va, Sánchez se queda»; tramo 0-23,1 s, subtítulos cotejados con la transcripción; corregido 'secciones'→'secuelas', 'del nuestro'→'de nuestro'; omitido el final con Cerdán/Zapatero por insinuación) · publicado am20261104-1227-pp-puente-encuestas
+- 2026-11-04 12:40 UTC · 3 · @vox_es (Abascal, 'psicópata'/ley de nietos, 75 s) · descartado: una pieza por hora; afirmaciones sobre ley no contrastadas
