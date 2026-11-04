@@ -122,3 +122,4 @@
 - 2026-11-04 14:40 UTC · 2 · @santi_abascal (Abascal: Sánchez y el 'fusible' Puente, 140 s) · descartado: tema Puente ya cubierto varias veces hoy; letanía de nombres con insinuaciones de corrupción no contrastables · sin publicación
 - 2026-11-04 15:30 UTC · sin candidatos (radar generado 15:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-04 16:38 UTC · 3 · @alviseperez (Hermanos Musulmanes, organización terrorista; Eurocámara, 114 s) · publicado am20261104-1626-alvise-hermanos-musulmanes (tramo 18.1–41.0 s)
+- 2026-11-04 17:40 UTC · 3 · @nngg_es (NNGG sobre protestas educativas en Madrid; tramo 0-27,38 s, subtítulos cotejados con la transcripción; sonidad→sanidad; la afirmación PISA va atribuida a NNGG) · publicado am20261104-1730-nngg-protestas-educacion

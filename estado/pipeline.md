@@ -68,3 +68,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261104-1227-pp-puente-encuestas | Al minuto: PP responde a la renuncia de Puente | publicando (Al minuto horario) |
 | am20261104-1332-abascal-michigan | Al minuto: Abascal, 'estoy en Ciudad Real, no en Michigan' | publicando (Al minuto horario) |
 | am20261104-1626-alvise-hermanos-musulmanes | Al minuto: Alvise, 'los Hermanos Musulmanes son una organización terrorista' | publicando (Al minuto horario) |
+| am20261104-1730-nngg-protestas-educacion | Al minuto: NNGG critica las protestas educativas en Madrid | publicando (Al minuto horario) |

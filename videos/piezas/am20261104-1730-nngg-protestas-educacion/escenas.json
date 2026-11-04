@@ -1,0 +1,125 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 30.88,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "sinVoz": true,
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 27.38,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 27.38,
+     "fundidoFin": 27.38
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "NNGG CRITICA LAS PROTESTAS EDUCATIVAS EN MADRID",
+     "fecha": "4 NOV",
+     "credito": "Vídeo: @nngg_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 2.0,
+       "texto": "Es bastante curioso que se manifiesten"
+      },
+      {
+       "inicio": 2.0,
+       "fin": 4.1,
+       "texto": "aquí en Madrid cuando es la mejor"
+      },
+      {
+       "inicio": 4.1,
+       "fin": 5.8,
+       "texto": "comunidad en los informes PISA"
+      },
+      {
+       "inicio": 5.8,
+       "fin": 7.74,
+       "texto": "y en todos los informes de educación de este año"
+      },
+      {
+       "inicio": 7.74,
+       "fin": 9.9,
+       "texto": "Pero yo lo que creo es que para esta gente"
+      },
+      {
+       "inicio": 9.9,
+       "fin": 11.6,
+       "texto": "esto es una actividad lúdica."
+      },
+      {
+       "inicio": 11.6,
+       "fin": 13.6,
+       "texto": "No tendrán nada mejor que hacer en sus casas"
+      },
+      {
+       "inicio": 13.6,
+       "fin": 15.18,
+       "texto": "porque si mañana le dicen Palestina,"
+      },
+      {
+       "inicio": 15.18,
+       "fin": 17.92,
+       "texto": "pues Palestina, si mañana le dicen aborto,"
+      },
+      {
+       "inicio": 17.92,
+       "fin": 19.3,
+       "texto": "pues aborto, si mañana"
+      },
+      {
+       "inicio": 19.3,
+       "fin": 21.4,
+       "texto": "alguien les dice que educación o que sanidad"
+      },
+      {
+       "inicio": 21.4,
+       "fin": 23.36,
+       "texto": "o lo que toque, pues nada. Yo"
+      },
+      {
+       "inicio": 23.36,
+       "fin": 25.6,
+       "texto": "creo que están bastante desesperados,"
+      },
+      {
+       "inicio": 25.6,
+       "fin": 26.58,
+       "texto": "que se les acaba el chiringuito"
+      },
+      {
+       "inicio": 26.58,
+       "fin": 27.38,
+       "texto": "el 21 de noviembre."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 27.38,
+   "fin": 30.88,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Nuevas Generaciones critica las protestas educativas",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ]
+}
