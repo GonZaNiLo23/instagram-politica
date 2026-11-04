@@ -1,0 +1,101 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 26.6,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 23.1,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 23.1,
+          "fundidoFin": 23.1
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "EL PP: «PUENTE SE VA, SÁNCHEZ SE QUEDA»",
+          "fecha": "4 NOV",
+          "credito": "Vídeo: @partidopopular"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.4,
+              "texto": "Puente le ha dimitido las encuestas,"
+            },
+            {
+              "inicio": 2.4,
+              "fin": 3.94,
+              "texto": "pero claro,"
+            },
+            {
+              "inicio": 3.94,
+              "fin": 7.6,
+              "texto": "Puente se va, pero Sánchez se queda."
+            },
+            {
+              "inicio": 7.72,
+              "fin": 10.6,
+              "texto": "Puente se va, pero los heridos"
+            },
+            {
+              "inicio": 10.6,
+              "fin": 13.3,
+              "texto": "con sus secuelas, los huérfanos,"
+            },
+            {
+              "inicio": 13.3,
+              "fin": 16.5,
+              "texto": "los viudos, los hermanos que se han quedado sin hermanos,"
+            },
+            {
+              "inicio": 16.5,
+              "fin": 18,
+              "texto": "eso se quedan."
+            },
+            {
+              "inicio": 18.06,
+              "fin": 20.4,
+              "texto": "Y se queda un sistema ferroviario"
+            },
+            {
+              "inicio": 20.4,
+              "fin": 23.1,
+              "texto": "que ha quebrado la confianza de nuestro país."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 23.1,
+      "fin": 26.6,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "El PP responde a la renuncia de Puente",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261104-1227-pp-puente-encuestas",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
