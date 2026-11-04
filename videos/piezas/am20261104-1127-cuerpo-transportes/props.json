@@ -1,0 +1,121 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 29.5,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 26,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 26,
+          "fundidoFin": 26
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "SÁNCHEZ: CUERPO ASUME TRANSPORTES",
+          "fecha": "4 NOV",
+          "credito": "Vídeo: La Moncloa · 04-11-2026"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.4,
+              "texto": "Y con este objetivo, y teniendo en cuenta"
+            },
+            {
+              "inicio": 2.4,
+              "fin": 4.1,
+              "texto": "que queda menos de un mes"
+            },
+            {
+              "inicio": 4.1,
+              "fin": 5.7,
+              "texto": "para las elecciones generales,"
+            },
+            {
+              "inicio": 5.7,
+              "fin": 7.6,
+              "texto": "he informado al jefe del Estado"
+            },
+            {
+              "inicio": 7.6,
+              "fin": 10.2,
+              "texto": "que he decidido que el vicepresidente primero"
+            },
+            {
+              "inicio": 10.2,
+              "fin": 12,
+              "texto": "del Gobierno, Carlos Cuerpo,"
+            },
+            {
+              "inicio": 12,
+              "fin": 14.3,
+              "texto": "asuma de forma transitoria"
+            },
+            {
+              "inicio": 14.3,
+              "fin": 16.9,
+              "texto": "la gestión del Ministerio de Transportes"
+            },
+            {
+              "inicio": 16.9,
+              "fin": 18.6,
+              "texto": "y de Movilidad Sostenible."
+            },
+            {
+              "inicio": 18.7,
+              "fin": 21.4,
+              "texto": "Asunción que formalizaremos"
+            },
+            {
+              "inicio": 21.4,
+              "fin": 22.8,
+              "texto": "mediante real decreto"
+            },
+            {
+              "inicio": 22.8,
+              "fin": 24,
+              "texto": "en el Boletín Oficial del Estado"
+            },
+            {
+              "inicio": 24,
+              "fin": 26,
+              "texto": "extraordinario esta misma mañana."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 26,
+      "fin": 29.5,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Cuerpo asume Transportes de forma transitoria",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261104-1127-cuerpo-transportes",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
