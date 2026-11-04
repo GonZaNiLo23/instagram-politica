@@ -107,3 +107,7 @@
 - 2026-11-04 10:45 UTC · 3 · @vox_es (Abascal, Puente y corrupción, 99 s) · descartado: tema ya cubierto, mejor candidato elegido
 - 2026-11-04 10:45 UTC · 3 · @vox_es (Abascal, Ceuta) · descartado: una pieza por hora
 - 2026-11-04 10:45 UTC · 2 · @vox_es (auditoría ferroviaria, remigración) · descartado: sin frase redonda/duplicado de tema
+- 2026-11-04 11:40 UTC · 4 · La Moncloa (Sánchez: Cuerpo asume Transportes tras dimisión de Puente; tramo 106,3-132,3 s, subtítulos cotejados con la transcripción; Mobilidad→Movilidad) · publicado am20261104-1127-cuerpo-transportes
+- 2026-11-04 11:40 UTC · 3 · @vox_es (Abascal, prioridad nacional) · descartado: una pieza por hora; sin noticia nueva
+- 2026-11-04 11:40 UTC · 2 · @vox_es (Abascal, pensiones, 23 s) · descartado: 7 frases, sin dato
+- 2026-11-04 11:40 UTC · 2 · @vox_es (Abascal, desregulación) · descartado: cifra del Instituto Juan de Mariana no contrastada
