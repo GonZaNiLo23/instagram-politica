@@ -35,3 +35,5 @@
 - 2026-11-04T14:00:51.595Z · am20261104-1332-abascal-michigan: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-04T17:00:42.809Z · am20261104-1626-alvise-hermanos-musulmanes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfU8XhYjrcv/
 - 2026-11-04T17:00:46.236Z · am20261104-1626-alvise-hermanos-musulmanes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-04T18:00:46.246Z · am20261104-1730-nngg-protestas-educacion v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfVDPH1AT-G/
+- 2026-11-04T18:00:50.792Z · am20261104-1730-nngg-protestas-educacion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
