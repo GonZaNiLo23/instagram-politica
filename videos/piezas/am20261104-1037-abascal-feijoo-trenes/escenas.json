@@ -1,0 +1,86 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 23.6,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 20.1,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 20.1,
+     "fundidoFin": 20.1
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL DISCREPA DE FEIJÓO SOBRE LOS TRENES",
+     "fecha": "4 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 2.54,
+       "texto": "¿Usted se subiría a un tren de alta velocidad con los suyos?"
+      },
+      {
+       "inicio": 2.7,
+       "fin": 6.2,
+       "texto": "Bueno, yo precisamente por responsabilidad haría lo contrario del señor Feijóo."
+      },
+      {
+       "inicio": 6.32,
+       "fin": 9,
+       "texto": "Yo, como no tengo los datos,"
+      },
+      {
+       "inicio": 9,
+       "fin": 11.86,
+       "texto": "no dispongo exactamente de lo que está ocurriendo."
+      },
+      {
+       "inicio": 12.04,
+       "fin": 13.72,
+       "texto": "Yo no tomaría esa decisión."
+      },
+      {
+       "inicio": 14.08,
+       "fin": 17.1,
+       "texto": "Lo responsable me parece decirle a la gente"
+      },
+      {
+       "inicio": 17.1,
+       "fin": 20.1,
+       "texto": "que el sistema merece confianza cuando no lo merece."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 20.1,
+   "fin": 23.6,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal pide no transmitir confianza en el sistema ferroviario,
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

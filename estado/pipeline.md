@@ -63,3 +63,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261103-1326-abascal-vivienda-suelo | Al minuto: Abascal (Vox) propone liberalizar el suelo para construir vivienda | publicando (Al minuto horario) |
 | am20261103-1540-garriga-puente-perdon | Al minuto: Garriga (Vox) exige a Puente pedir perdón en su comparecencia | publicando (Al minuto horario) |
 | am20261103-1745-ayuso-acampada-sol | Al minuto: Ayuso acusa a Sánchez por la acampada de Sol | publicando (Al minuto horario) |
+| am20261104-1037-abascal-feijoo-trenes | Al minuto: Abascal discrepa de Feijóo sobre subirse a un tren | publicando (Al minuto horario) |

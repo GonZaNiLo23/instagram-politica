@@ -103,3 +103,7 @@
 - 2026-11-04 07:40 UTC · sin candidatos (radar generado 07:27 UTC, candidatos vacíos) · sin publicación
 - 2026-11-04 08:30 UTC · sin candidatos (radar generado 08:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-04 09:30 UTC · sin candidatos (radar generado 09:27 UTC, candidatos vacíos) · sin publicación
+- 2026-11-04 10:45 UTC · 4 · @vox_es (Abascal vs Feijóo, trenes) · publicado am20261104-1037-abascal-feijoo-trenes
+- 2026-11-04 10:45 UTC · 3 · @vox_es (Abascal, Puente y corrupción, 99 s) · descartado: tema ya cubierto, mejor candidato elegido
+- 2026-11-04 10:45 UTC · 3 · @vox_es (Abascal, Ceuta) · descartado: una pieza por hora
+- 2026-11-04 10:45 UTC · 2 · @vox_es (auditoría ferroviaria, remigración) · descartado: sin frase redonda/duplicado de tema
