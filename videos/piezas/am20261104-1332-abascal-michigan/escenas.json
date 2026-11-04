@@ -1,0 +1,96 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 23.96,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 20.46,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 20.46,
+     "fundidoFin": 20.46
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL: «ESTOY EN CIUDAD REAL, NO EN MICHIGAN»",
+     "fecha": "4 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 2.44,
+       "texto": "En relación al resultado en Estados Unidos,"
+      },
+      {
+       "inicio": 2.44,
+       "fin": 5.62,
+       "texto": "he de decir que estoy en Ciudad Real,"
+      },
+      {
+       "inicio": 5.9,
+       "fin": 7.72,
+       "texto": "en España y no estoy en Michigan."
+      },
+      {
+       "inicio": 7.98,
+       "fin": 9.46,
+       "texto": "No soy un comentarista de otras elecciones."
+      },
+      {
+       "inicio": 10.48,
+       "fin": 13.32,
+       "texto": "Teniendo en cuenta el reto que tenemos en España el día 29 de noviembre,"
+      },
+      {
+       "inicio": 13.7,
+       "fin": 16.04,
+       "texto": "me importa bastante poco lo que pasa en otros lugares."
+      },
+      {
+       "inicio": 16.04,
+       "fin": 17.44,
+       "texto": "Pues hoy digo que estoy en Ciudad Real,"
+      },
+      {
+       "inicio": 17.5,
+       "fin": 19.14,
+       "texto": "no en Michigan y voy a seguir en Ciudad Real"
+      },
+      {
+       "inicio": 19.26,
+       "fin": 20.46,
+       "texto": "y recorriendo España."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 20.46,
+   "fin": 23.96,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal, sobre las elecciones de EE. UU.",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

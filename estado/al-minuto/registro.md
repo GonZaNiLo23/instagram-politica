@@ -113,3 +113,7 @@
 - 2026-11-04 11:40 UTC · 2 · @vox_es (Abascal, desregulación) · descartado: cifra del Instituto Juan de Mariana no contrastada
 - 2026-11-04 12:40 UTC · 3 · @partidopopular (PP, «Puente se va, Sánchez se queda»; tramo 0-23,1 s, subtítulos cotejados con la transcripción; corregido 'secciones'→'secuelas', 'del nuestro'→'de nuestro'; omitido el final con Cerdán/Zapatero por insinuación) · publicado am20261104-1227-pp-puente-encuestas
 - 2026-11-04 12:40 UTC · 3 · @vox_es (Abascal, 'psicópata'/ley de nietos, 75 s) · descartado: una pieza por hora; afirmaciones sobre ley no contrastadas
+- 2026-11-04 13:40 UTC · 3 · @vox_es (Abascal: 'estoy en Ciudad Real, no en Michigan'; tramos 0-16,04 y 24,1-28,52 s, subtítulos cotejados con la transcripción; omitida la referencia a Ceuta) · publicado am20261104-1332-abascal-michigan
+- 2026-11-04 13:40 UTC · 2 · @vox_es (Abascal, dimisión de Puente, 140 s) · descartado: tema ya cubierto 3 veces hoy; acusaciones no contrastables
+- 2026-11-04 13:40 UTC · 2 · @vox_es (Abascal responde a Colau) · descartado: afirma que un partido 'ha matado a esas víctimas', acusación no probada
+- 2026-11-04 13:40 UTC · 2 · @vox_es (Abascal, campaña y luto) · descartado: acusa de 'provocar los crímenes', no probado

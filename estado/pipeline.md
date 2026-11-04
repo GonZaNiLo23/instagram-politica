@@ -66,3 +66,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261104-1037-abascal-feijoo-trenes | Al minuto: Abascal discrepa de Feijóo sobre subirse a un tren | publicando (Al minuto horario) |
 | am20261104-1127-cuerpo-transportes | Al minuto: Sánchez nombra a Cuerpo para Transportes tras la dimisión de Puente | publicando (Al minuto horario) |
 | am20261104-1227-pp-puente-encuestas | Al minuto: PP responde a la renuncia de Puente | publicando (Al minuto horario) |
+| am20261104-1332-abascal-michigan | Al minuto: Abascal, 'estoy en Ciudad Real, no en Michigan' | publicando (Al minuto horario) |
