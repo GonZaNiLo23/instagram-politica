@@ -1,0 +1,85 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 26.4,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 22.9,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 22.9,
+          "fundidoFin": 22.9
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ALVISE: HERMANOS MUSULMANES, RED TERRORISTA",
+          "fecha": "4 NOV",
+          "credito": "Vídeo: @alviseperez"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 4.06,
+              "texto": "Los Hermanos Musulmanes son una organización terrorista"
+            },
+            {
+              "inicio": 4.06,
+              "fin": 9.1,
+              "texto": "y que no lo digo yo, lo dice Hamás en su carta fundacional de 1988,"
+            },
+            {
+              "inicio": 9.14,
+              "fin": 14.4,
+              "texto": "y cito textualmente: «Somos una rama de los Hermanos Musulmanes»."
+            },
+            {
+              "inicio": 14.58,
+              "fin": 17.55,
+              "texto": "Son terroristas en Egipto, son terroristas en Arabia Saudí,"
+            },
+            {
+              "inicio": 17.7,
+              "fin": 19.35,
+              "texto": "son terroristas en Emiratos Árabes,"
+            },
+            {
+              "inicio": 19.5,
+              "fin": 22.9,
+              "texto": "están prohibidos en Jordania, son terroristas para Estados Unidos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 22.9,
+      "fin": 26.4,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Alvise pide ilegalizar a los Hermanos Musulmanes en Europa",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261104-1626-alvise-hermanos-musulmanes",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
