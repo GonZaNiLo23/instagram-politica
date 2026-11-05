@@ -1,84 +1,92 @@
-# Informe de rendimiento 2026-11-04 (miércoles)
+# Informe de rendimiento 2026-11-05 (jueves)
 
-**Fuente:** `publicado/metricas-api/2026-11-03.json` (API de Instagram, leído el 3-11 a las 15:30 UTC). **No existe `2026-11-04.json`** (sexto día seguido sin el JSON del día): se usa el más reciente, con edades a ese corte. Faltan las piezas publicadas desde las 16:30 (Madrid) del 3-11 (entre ellas 031/032 y los Al minuto de la tarde). **TikTok no está en la API: n/d.** No se estima nada.
+**Fuente:** `publicado/metricas-api/2026-11-05.json` (API de Instagram, leído el 5-11 a las 07:31 UTC = 08:31 Madrid; el del día sí existe hoy). Edades a ese corte. **TikTok no está en la API: n/d.** No se estima nada.
 
 ## Resumen
-- **Funciona (indicios):** sin cambios de fondo. am-Remigración sigue siendo la pieza reciente que despega (2.875 visual. a 52 h, 74 comentarios, 17 compartidos, 6,3 guard.+comp. por 1.000), pero ya apenas crece (+11 en 22 h). 002 y 009 mantienen los mejores ratios (10,8 y 19,9 por 1.000).
-- **No funciona:** los dos Al minuto nuevos (Abascal sobre UGT/CCOO y Abascal sobre vivienda) arrancan en 169 y 175 visual. a 1–2 h, el patrón de los de trámite (≈ 160–200); 028 (flash de paro) se queda en 242. Mediana de los Al minuto (n = 14): ≈ 200 visual., 0 guardados.
-- **Qué probar:** dos Al minuto de Abascal seguidos a las 14:00 y 15:00 compiten entre sí; leerlos a ≥ 24 h antes de concluir. Mantener la idea de un explicativo estándar sobre el tema identitario con datos y verificación estricta (§7).
+- **Funciona (indicios):** sin cambios de fondo. Los techos siguen siendo las estándar de las 19:00 de la semana pasada (002: 8.726; 016: 5.896; 014: 3.632) y am-Remigración (2.888 visual., 76 comentarios), pero ya casi no crecen (+12, +29, +13).
+- **No funciona:** las 8 piezas nuevas (032 gasolina, 033 vivienda y 6 Al minuto) arrancan entre 137 y 473 visual. a 13–39 h. **032, un flash en el hueco de las 19:00, se queda en 163 visual. y 5,2 s de tiempo medio a 13 h**, frente a 1.645 de 030 (19:00 del 1-11, a 85 h). Mediana de los Al minuto (n = 20): ≈ 195 visual., 0 guardados; solo 2 de 20 superan las 1.000 (ambos de Abascal, 1-11).
+- **Qué probar:** el alcance de toda la cuenta parece haberse aplanado en ≈ 160–200 desde el 2-11; hay que comprobar con una estándar de 19:00 (034, hoy) si es la pieza o la cuenta. Hasta entonces no se puede separar efecto de formato de efecto de cuenta (n = 1 estándar posterior al 2-11).
 
 ## Seguidores
-- Instagram: **59** (API, 3-11 15:30 UTC). Sin cambio frente al corte anterior (2-11 17:26 UTC): **+0** en 22 h. Desde el 25-10 (23): +36 en 10 días ≈ 3,6/día. La API no da seguidores ganados por Reel (`follows` = null).
+- Instagram: **60** (API, 5-11 07:31 UTC). **+1** frente al corte anterior (3-11 15:30 UTC, 59). Desde el 25-10 (23): +37 en 11 días ≈ 3,4/día. La API no da seguidores ganados por Reel (`follows` = null).
 - TikTok: n/d (último: 40 el 27-10). Suma no calculable.
-- Hito 1.000 (2-11): no alcanzado (IG 59 = 5,9 %). Hito 10.000 (16-11): faltan ≈ 9.940 en 12 días (≈ 830/día) frente a ≈ 3,6/día reales.
+- Hito 1.000 (2-11): no alcanzado (IG 60 = 6 %). Hito 10.000 (16-11): faltan ≈ 9.940 en 11 días (≈ 900/día) frente a ≈ 3,4/día reales.
 
-## Tabla por pieza (Instagram, corte 3-11 15:30 UTC; orden por visualizaciones; Δ = visual. desde el corte anterior)
+## Tabla por pieza (Instagram, corte 5-11 07:31 UTC; orden por visualizaciones; Δ = visual. desde el corte anterior, 3-11 15:30 UTC)
 | Nº | Edad | Visual. | T. medio | Guard.+comp. por 1.000 | Guard.+comp. | Likes | Coment. | Δ visual. |
 |---|---|---|---|---|---|---|---|---|
-| 002 | 262 h | 8.714 | 39,0 s | 10,8 | 62+32 | 105 | 2 | +9 |
-| 016 | 189 h | 5.867 | 25,1 s | 7,2 | 24+18 | 68 | 2 | +20 |
-| 014 | 141 h | 3.619 | 16,6 s | 2,5 | 9+0 | 38 | 2 | +5 |
-| 003 | 245 h | 3.448 | 19,4 s | 2,3 | 4+4 | 28 | 2 | +3 |
-| am-Remigración | 52 h | 2.875 | 18,2 s | 6,3 | 1+17 | 126 | 74 | +11 |
-| 009 | 271 h | 2.358 | 45,4 s | 19,9 | 11+36 | 72 | 13 | 0 |
-| 026 | 147 h | 2.313 | 22,8 s | 6,1 | 3+11 | 35 | 1 | 0 |
-| 012 | 117 h | 1.999 | 30,4 s | 3,5 | 6+1 | 20 | 1 | 0 |
-| 001 | 213 h | 1.924 | 21,3 s | 4,2 | 7+1 | 48 | 0 | +1 |
-| 013 | 165 h | 1.798 | 28,9 s | 3,3 | 6+0 | 21 | 1 | 0 |
-| 022 | 241 h | 1.784 | 11,6 s | 5,0 | 7+2 | 44 | 0 | 0 |
-| 023 | 238 h | 1.740 | 13,1 s | 1,7 | 3+0 | 37 | 0 | +2 |
-| 007 | 76 h | 1.668 | 16,6 s | 1,8 | 3+0 | 32 | 1 | +2 |
-| 030 | 45 h | 1.644 | 19,1 s | 1,8 | 3+0 | 18 | 0 | +6 |
-| 018 | 123 h | 1.602 | 16,0 s | 10,6 | 7+10 | 15 | 0 | 0 |
-| 017 | 69 h | 1.566 | 46,4 s | 6,4 | 5+5 | 56 | 1 | +1 |
-| am-Abascal Vox crece | 55 h | 1.491 | 12,4 s | 0,7 | 1+0 | 32 | 39 | +2 |
-| 010 | 268 h | 1.030 | 13,3 s | 4,9 | 0+5 | 11 | 0 | +1 |
-| 020 | 99 h | 1.022 | 21,2 s | 2,0 | 2+0 | 22 | 0 | +2 |
-| 008 | 220 h | 838 | 18,1 s | 2,4 | 2+0 | 8 | 0 | +1 |
-| 025 | 175 h | 702 | 23,3 s | 1,4 | 1+0 | 4 | 0 | 0 |
-| 021 | 171 h | 637 | 10,6 s | 6,3 | 2+2 | 8 | 0 | +1 |
-| 006 | 286 h | 432 | 22,0 s | 0,0 | 0+0 | 9 | 0 | +1 |
-| am-Vox Urda | 54 h | 384 | 12,4 s | 0,0 | 0+0 | 9 | 3 | +2 |
-| 027 | 139 h | 365 | 72,4 s | 0,0 | 0+0 | 3 | 1 | 0 |
-| 024 | 217 h | 273 | 12,5 s | 7,3 | 0+2 | 2 | 0 | +1 |
-| 015 | 126 h | 272 | 5,1 s | 0,0 | 0+0 | 3 | 0 | +2 |
-| 028 | 52 h | 242 | 8,2 s | 0,0 | 0+0 | 0 | 0 | +1 |
-| am-Alvise | 119 h | 232 | 13,6 s | 0,0 | 0+0 | 1 | 0 | 0 |
-| am-AVE | 98 h | 211 | 12,4 s | 0,0 | 0+0 | 0 | 0 | 0 |
-| am-PP encuestas | 49 h | 206 | 10,6 s | 0,0 | 0+0 | 6 | 2 | +3 |
-| am-Abascal | 114 h | 195 | 7,1 s | 0,0 | 0+0 | 2 | 0 | 0 |
-| am-PP trenes | 74 h | 192 | 6,6 s | 0,0 | 0+0 | 3 | 0 | 0 |
-| am-Buxadé-Redondo | 26 h | 191 | 7,3 s | 0,0 | 0+0 | 2 | 0 | +7 |
-| am-Buxadé querellas | 73 h | 182 | 12,9 s | 0,0 | 0+0 | 5 | 0 | 0 |
-| 005 | 265 h | 180 | 13,1 s | 0,0 | 0+0 | 1 | 0 | 0 |
-| am-Abascal vivienda (nueva) | 1 h | 175 | 10,9 s | 0,0 | 0+0 | 3 | 1 | — |
-| am-Abascal UGT-CCOO (nueva) | 2 h | 169 | 14,2 s | 0,0 | 0+0 | 4 | 0 | — |
-| am-Garriga apagones | 27 h | 165 | 5,2 s | 0,0 | 0+0 | 2 | 0 | +3 |
-| 004 | 334 h | 40 | 10,0 s | 0,0 | 0+0 | 2 | 0 | 0 |
-| 011 (carrusel) | 147 h | 30 | n/d | 0,0 | 0+0 | 2 | 0 | +1 |
+| 002 | 302 h | 8.726 | 38,9 s | 10,8 | 62+32 | 105 | 2 | +12 |
+| 016 | 229 h | 5.896 | 25,0 s | 7,1 | 24+18 | 68 | 2 | +29 |
+| 014 | 181 h | 3.632 | 16,6 s | 2,5 | 9+0 | 39 | 2 | +13 |
+| 003 | 285 h | 3.448 | 19,4 s | 2,3 | 4+4 | 28 | 2 | +0 |
+| am-Remigración | 92 h | 2.888 | 18,2 s | 6,2 | 1+17 | 126 | 76 | +13 |
+| 009 | 311 h | 2.361 | 45,4 s | 19,9 | 11+36 | 72 | 13 | +3 |
+| 026 | 187 h | 2.313 | 22,8 s | 6,1 | 3+11 | 35 | 1 | +0 |
+| 012 | 157 h | 1.999 | 30,4 s | 3,5 | 6+1 | 20 | 1 | +0 |
+| 001 | 253 h | 1.925 | 21,3 s | 4,2 | 7+1 | 48 | 0 | +1 |
+| 013 | 205 h | 1.798 | 28,9 s | 3,3 | 6+0 | 21 | 1 | +0 |
+| 022 | 281 h | 1.784 | 11,6 s | 5,0 | 7+2 | 44 | 0 | +0 |
+| 023 | 278 h | 1.740 | 13,1 s | 1,7 | 3+0 | 37 | 0 | +0 |
+| 007 | 116 h | 1.668 | 16,6 s | 1,8 | 3+0 | 32 | 1 | +0 |
+| 030 | 85 h | 1.645 | 19,1 s | 1,8 | 3+0 | 18 | 0 | +1 |
+| 018 | 163 h | 1.602 | 16,0 s | 10,6 | 7+10 | 15 | 0 | +0 |
+| 017 | 109 h | 1.569 | 46,3 s | 6,4 | 5+5 | 56 | 1 | +3 |
+| am-Abascal Vox crece | 95 h | 1.491 | 12,4 s | 0,7 | 1+0 | 32 | 39 | +0 |
+| 010 | 308 h | 1.030 | 13,3 s | 4,9 | 0+5 | 11 | 0 | +0 |
+| 020 | 139 h | 1.022 | 21,2 s | 2,0 | 2+0 | 22 | 0 | +0 |
+| 008 | 260 h | 838 | 18,1 s | 2,4 | 2+0 | 8 | 0 | +0 |
+| 025 | 215 h | 702 | 23,3 s | 1,4 | 1+0 | 4 | 0 | +0 |
+| 021 | 211 h | 637 | 10,6 s | 6,3 | 2+2 | 8 | 0 | +0 |
+| am-NNGG protestas educación | 13 h | 473 | 12,4 s | 0,0 | 0+0 | 11 | 1 | — |
+| 006 | 326 h | 432 | 22,0 s | 0,0 | 0+0 | 9 | 0 | +0 |
+| am-Vox Urda | 94 h | 384 | 12,4 s | 0,0 | 0+0 | 9 | 3 | +0 |
+| 027 | 179 h | 365 | 72,4 s | 0,0 | 0+0 | 3 | 1 | +0 |
+| 024 | 257 h | 273 | 12,5 s | 7,3 | 0+2 | 2 | 0 | +0 |
+| 015 | 166 h | 272 | 5,1 s | 0,0 | 0+0 | 3 | 0 | +0 |
+| 028 | 92 h | 242 | 8,2 s | 0,0 | 0+0 | 0 | 0 | +0 |
+| am-Alvise | 159 h | 233 | 13,5 s | 0,0 | 0+0 | 1 | 0 | +1 |
+| am-AVE | 138 h | 211 | 12,4 s | 0,0 | 0+0 | 0 | 0 | +0 |
+| am-PP encuestas | 89 h | 206 | 10,6 s | 0,0 | 0+0 | 6 | 2 | +0 |
+| am-Abascal vivienda | 41 h | 198 | 12,4 s | 0,0 | 0+0 | 3 | 1 | +23 |
+| am-Abascal | 154 h | 195 | 7,1 s | 0,0 | 0+0 | 2 | 0 | +0 |
+| am-Buxadé-Redondo | 66 h | 194 | 7,4 s | 0,0 | 0+0 | 2 | 0 | +3 |
+| am-PP trenes | 114 h | 192 | 6,6 s | 0,0 | 0+0 | 3 | 0 | +0 |
+| am-Buxadé querellas | 113 h | 183 | 12,8 s | 0,0 | 0+0 | 5 | 0 | +1 |
+| 005 | 305 h | 180 | 13,1 s | 0,0 | 0+0 | 1 | 0 | +0 |
+| am-Abascal UGT-CCOO | 42 h | 172 | 14,0 s | 0,0 | 0+0 | 4 | 0 | +3 |
+| 033 | 19 h | 166 | 7,9 s | 0,0 | 0+0 | 2 | 0 | — |
+| am-Garriga apagones | 67 h | 166 | 5,1 s | 0,0 | 0+0 | 2 | 0 | +1 |
+| am-PP Puente renuncia | 18 h | 165 | 12,5 s | 0,0 | 0+0 | 1 | 0 | — |
+| 032 | 13 h | 163 | 5,2 s | 0,0 | 0+0 | 0 | 0 | — |
+| am-Cuerpo Transportes | 19 h | 163 | 8,6 s | 0,0 | 0+0 | 4 | 0 | — |
+| am-Garriga Puente perdón | 39 h | 159 | 6,3 s | 0,0 | 0+0 | 3 | 0 | — |
+| am-Abascal Michigan | 17 h | 156 | 14,7 s | 0,0 | 0+0 | 1 | 0 | — |
+| am-Alvise Hermanos Musulmanes | 14 h | 137 | 11,6 s | 0,0 | 0+0 | 4 | 1 | — |
+| 004 | 374 h | 40 | 10,0 s | 0,0 | 0+0 | 2 | 0 | +0 |
+| 011 | 187 h | 30 | n/d | 0,0 | 0+0 | 2 | 0 | +0 |
 
-Total de las 41 publicaciones: 54.775 visualizaciones (+432 desde el corte anterior: el crecimiento orgánico de las piezas viejas es casi nulo). Retención a 3 s, % visto y seguidores ganados por pieza: n/d (la API no los da). Las dos piezas nuevas (1–2 h) no son comparables todavía.
+Total de las 49 publicaciones: 56.464 visualizaciones (+1.689 desde el corte anterior: 1.582 son de las 8 piezas nuevas; las 41 anteriores suman solo +107, crecimiento orgánico casi nulo). Retención a 3 s, % visto y seguidores ganados por pieza: n/d (la API no los da). Nombres de las piezas nuevas asignados por hora y texto (032 = litro/gasolina, 033 = vivienda vs sueldos).
 
 ## Ranking (indicios; n por grupo)
-- **Al minuto (n = 14):** mediana ≈ 200 visual. y 0 guardados; solo 2 de 14 (am-Remigración, am-Abascal Vox crece) superan 1.000, ambos de Abascal/Vox sobre posición propia, publicados por la mañana (9:00 y 12:00). Los dos de hoy (Abascal, 14:00 y 15:00) no siguen ese patrón a 1–2 h; reevaluar a 24 h. Indicio, n = 2.
-- **Estándar a las 19:00 (n ≥ 9):** siguen siendo el techo de la cuenta (002, 016, 014, 003). Sin cambios.
-- **Flash (n = 5):** por debajo de las estándar; 028 sigue siendo el peor de los recientes (242).
+- **Al minuto (n = 20):** mediana ≈ 195 visual.; el mejor de los nuevos es am-NNGG protestas educación (473 a 13 h, 12,4 s, 11 likes), el único por encima de 300 desde el 2-11 (n = 1). Tiempos medios de 5–15 s: nadie llega a ver el clip entero.
+- **Flash de economía (n = 3: 028, 032, 033):** 242, 163 y 166 visual.; todos bajo la mediana de los Al minuto de éxito. Ya van tres flashes con cifra de gancho sin tracción tras el 1-11 (n = 3: umbral para una regla; ver Lecciones).
+- **Estándar a las 19:00:** siguen siendo el techo histórico (002, 016, 014, 003); no hay estándar posterior al 2-11 todavía.
 - **Pregunta A/B:** no calculable con la API.
 
 ## Seguimiento de crecimiento (detalle en `estado/plan-crecimiento.md`)
-IG 59, ritmo ≈ 3,6/día, ≈ 6 % de la ruta al hito de 10.000. La alerta de cambio de estrategia (< 50 % de la ruta) sigue vigente y ya está propuesta a la persona usuaria. Hoy no es lunes: sin sección "qué viraliza".
+IG 60, ritmo ≈ 3,4/día, ≈ 6 % de la ruta al hito de 10.000. La alerta de cambio de estrategia (< 50 % de la ruta) sigue vigente. Hoy no es lunes: sin sección "qué viraliza".
 
 ## Recomendaciones
-1. No saturar con Al minuto del mismo líder en horas contiguas; elegir el de posición más firme y espaciar (n = 2 de 14 funcionan).
-2. Explicativo estándar de "Cómo funciona" sobre el tema identitario/inmigración con datos y verificación §7 (inspirado en am-Remigración).
-3. Reservar 19:00 a piezas con techo alto; no repetir el flash de cifras de paro sin cambiar el gancho.
-4. Revisar el texto de los 74 comentarios de am-Remigración por si señalan algún error de datos (la API no da el texto).
-5. Arreglar el workflow de las 08:30: seis días sin JSON del día y el seguimiento va con retraso.
+1. Poner 034 (IRPF sin deflactar, estándar) a las 19:00 como prueba limpia de si el hundimiento es del formato o de la cuenta; leerla a 24 h.
+2. No repetir flashes de cifra en economía sin cambiar el gancho (3 de 3 por debajo de 250 visual.).
+3. Repetir el ángulo de am-NNGG (reacción de una organización a un conflicto social en vivo) en la selección de Al minuto, y espaciarlos.
+4. Revisar los 76 comentarios de am-Remigración (la API no da el texto) por si señalan errores de datos o riesgos.
+5. Priorizar la estrategia ya propuesta: con ≈ 3 seguidores/día el hito de 10.000 del 16-11 es inalcanzable; recalibrar fechas.
 
 ## Lecciones de las métricas
-Ninguna regla nueva en `feedback/`: ningún patrón alcanza n ≥ 3 todavía (Al minuto/Vox sigue en n = 2).
+**Ninguna regla nueva en `feedback/`.** El patrón "flash de economía con cifra en el gancho no despega" tiene n = 3 (028: 242; 032: 163; 033: 166), pero las tres piezas se publicaron en la misma semana de alcance deprimido de toda la cuenta (≈ 160–200 en todo lo posterior al 2-11), de modo que no se puede atribuir al formato. Se reevalúa con 034 (estándar).
 
 ## Alertas
-- Falta el JSON del día por sexto día seguido (el último, 3-11, se subió a las 15:30 UTC: el workflow parece correr por la tarde, no a las 08:30).
-- Seguidores IG estancados en 59 (+0 en 22 h); hito de 1.000 fallado, decisión de estrategia pendiente.
-- Posible disparo: am-Remigración (74 comentarios): el coordinador puede revisar el contenido de los comentarios y la fidelidad de lo dicho.
+- Alcance general aplanado en ≈ 160–200 visual. por pieza desde el 2-11, incluso en la franja de las 19:00 (032: 163): posible problema de cuenta, no de pieza (interpretación; datos: n = 8 piezas nuevas). El coordinador debería comprobar en Instagram si hay avisos de la cuenta o restricciones.
+- Seguidores IG: 60 (+1 en 16 h). Hito de 1.000 fallado; decisión de estrategia pendiente.
+- am-Remigración: 76 comentarios (+2); revisar su contenido.
