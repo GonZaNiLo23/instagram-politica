@@ -34,9 +34,15 @@ Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 26. **Sucesos con balance abierto**: solo la última cifra oficial (organismo + hora tal como la trae la fuente); las cifras no oficiales no se dan ("cifras más altas, sin confirmar"); nada que insinúe causa o fallo; juzgado, sistemas o plazos sin fuente, como regla general o fuera.
 29. **Series largas ("8 años en cifras")**: antes de comparar dos años, abre también el corte siguiente al de partida y busca "rotura de serie", "cambio de metodología" o "nueva base"; si la hay, compara desde el primer dato homogéneo y dilo en el post. No uses como base un mínimo o un máximo de la serie sin decirlo; el "ahora" es el último dato publicado (036).
 30. **"Hoy" frente a "lo que cambia"**: lee el artículo vigente y el nuevo lado a lado; cada punto de "qué cambiaría" tiene que ser distinto del vigente (lo que no cambia, "como hoy"); el "hoy" no se simplifica hasta que sea falso (prórroga del art. 9 ≠ prórroga del 10); el gancho y el cierre se refieren solo a lo que cambia (035).
+31. **Cambios de una vuelta**: aplica cada corrección en todos los sitios donde sale la frase (tabla de bloques, texto limpio, rótulo, ganchos, post) y búscala con Grep antes de entregar; actualiza las fechas "a AAAA-MM-DD" de los datos vivos (035 v2).
 (Ya incorporadas a la guía de estilo y la plantilla, ver Histórico: recuento real de palabras y tiempos por bloque, frases de ≤ 15 palabras, dato vivo con "a fecha de" y fuentes concretas con fecha, campo Portada.)
 
 ## Reglas activas
+
+### 2026-11-05 · 035-alquiler-12n (v2) · revisor-guion
+- Problema (regla 31, nueva): en la v2, el cierre corregido estaba en el texto limpio y en el rótulo, pero la columna de voz de la tabla de bloques mantenía la frase vieja ("¿Se renueva tu alquiler solo?"). El rótulo, la ficha y el post seguían diciendo "a 2026-11-04".
+- Regla para el futuro: al aplicar una corrección, busca con Grep la frase antigua en todo el guion y cámbiala en cada sitio; refresca la fecha de comprobación de cada dato vivo.
+- Ejemplo: tabla, bloque 5: "¿Se renueva tu alquiler solo?" → "¿Cinco años más, sin firmar nada?"; "Sin convocar a 2026-11-04" → "a 2026-11-05".
 
 ### 2026-11-05 · 035-alquiler-12n (v1) · revisor-guion
 - Ocurrencias: +1 regla 16 (rótulo con «el grupo más numeroso» como cita del preámbulo; el BOE dice «el mayor volumen de contratos vigentes»).
