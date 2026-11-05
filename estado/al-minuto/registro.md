@@ -126,3 +126,4 @@
 - 2026-11-04 18:40 UTC · sin candidatos (radar generado 18:29 UTC, candidatos vacíos) · sin publicación
 - 2026-11-05 05:30 UTC · sin candidatos (radar generado 05:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-05 07:30 UTC · sin candidatos (radar generado 07:28 UTC, candidatos vacíos) · sin publicación
+- 2026-11-05 09:40 UTC · 2 · @santi_abascal ("No todos somos iguales", 70 s) · descartado: letanía de acusaciones no probadas (etarras, narcos y jueces, manos manchadas de sangre, responsabilidad penal de Sánchez); sin tramo limpio · sin publicación
