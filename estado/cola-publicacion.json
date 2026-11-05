@@ -222,5 +222,12 @@
     "hora": "2026-11-06T13:30:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/037-hipoteca-variable-v1.md (literales aplicados) APROBADO · revisiones/videos/037-hipoteca-variable-v1.md APROBADO test 9/10",
     "estado": "pendiente"
+  },
+  {
+    "pieza": "am20261105-1127-sanchez-cumbre-iberoamericana",
+    "version": "v1",
+    "hora": "2026-11-05T12:00:00.000Z",
+    "estado": "pendiente",
+    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)"
   }
 ]
