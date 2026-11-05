@@ -135,3 +135,6 @@
 - 2026-11-05 13:45 UTC · 1 · @santi_abascal (agradecimiento Albacete, 32 s) · descartado: sin habla, solo imágenes de mitin · sin publicación
 - 2026-11-05 15:40 UTC · sin candidatos (radar generado 15:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-05 17:40 UTC · 1 · La Moncloa (Sánchez–Zelenski, encuentro, 17,7 s) · descartado: sin habla ni frases, solo imágenes · sin publicación
+- 2026-11-05 19:40 UTC · 2 · @alviseperez (Eurocámara, talibanes/litio, 130 s) · descartado: afirmaciones no contrastadas (billón de dólares en cobre y litio, «la UE nos llama terroristas»), transcripción con errores y sin tramo limpio
+- 2026-11-05 19:40 UTC · 2 · La Moncloa (Sánchez, balance clausura Cumbre Iberoamericana, 449 s) · descartado: mismo tema ya publicado a las 11:27; discurso de agradecimientos sin frase rotunda
+- 2026-11-05 19:40 UTC · 1 · @vox_es (Teruel, acto de Abascal, 17 s) · descartado: sin habla, solo imágenes de mitin · sin publicación
