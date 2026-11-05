@@ -125,3 +125,4 @@
 - 2026-11-04 17:40 UTC · 3 · @nngg_es (NNGG sobre protestas educativas en Madrid; tramo 0-27,38 s, subtítulos cotejados con la transcripción; sonidad→sanidad; la afirmación PISA va atribuida a NNGG) · publicado am20261104-1730-nngg-protestas-educacion
 - 2026-11-04 18:40 UTC · sin candidatos (radar generado 18:29 UTC, candidatos vacíos) · sin publicación
 - 2026-11-05 05:30 UTC · sin candidatos (radar generado 05:28 UTC, candidatos vacíos) · sin publicación
+- 2026-11-05 07:30 UTC · sin candidatos (radar generado 07:28 UTC, candidatos vacíos) · sin publicación
