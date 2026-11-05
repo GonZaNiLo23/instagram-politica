@@ -127,3 +127,5 @@
 - 2026-11-05 05:30 UTC · sin candidatos (radar generado 05:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-05 07:30 UTC · sin candidatos (radar generado 07:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-05 09:40 UTC · 2 · @santi_abascal ("No todos somos iguales", 70 s) · descartado: letanía de acusaciones no probadas (etarras, narcos y jueces, manos manchadas de sangre, responsabilidad penal de Sánchez); sin tramo limpio · sin publicación
+- 2026-11-05 11:40 UTC · 3 · La Moncloa (Sánchez, inauguración Cumbre Iberoamericana; tramo 258,23-299,37 s, subtítulos cotejados con la transcripción; omitido el saludo y el resto del discurso) · publicado am20261105-1127-sanchez-cumbre-iberoamericana
+- 2026-11-05 11:40 UTC · 1 · @vox_es (Albacete, declaración a medios, 10,9 s) · descartado: sin habla, solo imágenes de mitin

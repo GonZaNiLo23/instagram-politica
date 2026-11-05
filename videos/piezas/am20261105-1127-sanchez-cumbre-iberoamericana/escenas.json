@@ -1,0 +1,130 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 44.64,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 41.14,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 41.14,
+     "fundidoFin": 41.14
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "SÁNCHEZ ABRE LA CUMBRE IBEROAMERICANA EN MADRID",
+     "fecha": "5 NOV",
+     "credito": "Vídeo: La Moncloa · 04-11-2026"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 3.46,
+       "texto": "Vivimos un tiempo en el que demasiados países"
+      },
+      {
+       "inicio": 3.76,
+       "fin": 6.3,
+       "texto": "parecen haber llegado a la misma conclusión,"
+      },
+      {
+       "inicio": 6.6,
+       "fin": 8.14,
+       "texto": "desafortunada, pero es así."
+      },
+      {
+       "inicio": 8.58,
+       "fin": 10.98,
+       "texto": "Y es que para protegerse hay que cerrarse."
+      },
+      {
+       "inicio": 11.48,
+       "fin": 14.54,
+       "texto": "Cerrar fronteras, levantar barreras,"
+      },
+      {
+       "inicio": 14.78,
+       "fin": 16.5,
+       "texto": "reducir la cooperación,"
+      },
+      {
+       "inicio": 17.18,
+       "fin": 19.5,
+       "texto": "contemplar al resto del mundo como una amenaza,"
+      },
+      {
+       "inicio": 19.58,
+       "fin": 22.66,
+       "texto": "como un riesgo, en lugar de como una oportunidad,"
+      },
+      {
+       "inicio": 22.7,
+       "fin": 23.58,
+       "texto": "que es lo que es."
+      },
+      {
+       "inicio": 24,
+       "fin": 27.4,
+       "texto": "Pues bien, yo creo que debemos hacer exactamente lo contrario."
+      },
+      {
+       "inicio": 27.92,
+       "fin": 29.44,
+       "texto": "Frente a quienes se cierran,"
+      },
+      {
+       "inicio": 29.48,
+       "fin": 31.36,
+       "texto": "nosotros debemos abrirnos."
+      },
+      {
+       "inicio": 31.64,
+       "fin": 33.32,
+       "texto": "Frente a quienes levantan muros,"
+      },
+      {
+       "inicio": 33.32,
+       "fin": 35.8,
+       "texto": "nosotros debemos construir alianzas."
+      },
+      {
+       "inicio": 36.02,
+       "fin": 38.08,
+       "texto": "Y frente a los que alimentan la guerra,"
+      },
+      {
+       "inicio": 38.4,
+       "fin": 41.14,
+       "texto": "nosotros debemos ser sembradores de paz."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 41.14,
+   "fin": 44.64,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Sánchez pide abrirse frente a quienes cierran fronteras",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}
