@@ -1,5 +1,1139 @@
 {
- "generado": "2026-11-05T07:28:21.647Z",
- "total_detectados": 1,
- "candidatos": []
+ "generado": "2026-11-05T09:28:34.200Z",
+ "total_detectados": 3,
+ "candidatos": [
+  {
+   "id": "ig-18122556202899137",
+   "fuente": "instagram",
+   "cuenta": "@santi_abascal",
+   "nombre": "🇪🇸 Santiago Abascal 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1626328,
+   "fecha": "2026-11-05T08:17:03+0000",
+   "horas": 1.2,
+   "me_gusta": 558,
+   "comentarios": 5,
+   "viral": 29.3,
+   "enlace": "https://www.instagram.com/reel/DfWk8VyI5Qs/",
+   "texto": "Sánchez, por supuesto que \"no todos somos iguales\". No tenemos ni tu maldad ni tu falta de escrúpulos. \n#Cuenca",
+   "credito": "Vídeo: @santi_abascal",
+   "duracion": 70.8,
+   "archivo": "ig-18122556202899137.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 3.66,
+     "texto": "No todos somos iguales, porque algunos no gobernamos con etarras."
+    },
+    {
+     "inicio": 3.8,
+     "fin": 6.76,
+     "texto": "Algunos no pedimos a los narcos que eliminen a jueces."
+    },
+    {
+     "inicio": 6.94,
+     "fin": 11.22,
+     "texto": "Algunos no robamos elecciones ni adulteramos los tensos ni a nuestros propios compañeros"
+    },
+    {
+     "inicio": 11.22,
+     "fin": 13.52,
+     "texto": "ni al conjunto de los españoles con la ley de nietos."
+    },
+    {
+     "inicio": 13.64,
+     "fin": 19.24,
+     "texto": "No dividimos a los españoles por el bando en el que los bisabueros lucharon en una guerra de hace un siglo."
+    },
+    {
+     "inicio": 19.64,
+     "fin": 24.24,
+     "texto": "Algunos no nos rodeamos de hábalos, de coldos, de cerdanes o de begoñas."
+    },
+    {
+     "inicio": 24.44,
+     "fin": 27.5,
+     "texto": "Algunos no proponemos la invasión de nuestra propia tierra."
+    },
+    {
+     "inicio": 27.5,
+     "fin": 32.32,
+     "texto": "Algunos no traicionamos a los habitantes de Ceuta abriendo las fronteras y robándoles"
+    },
+    {
+     "inicio": 32.32,
+     "fin": 35.32,
+     "texto": "su propia ciudad, su tranquilidad y sus libertades."
+    },
+    {
+     "inicio": 35.7,
+     "fin": 44.1,
+     "texto": "Algunos no tenemos las manos manchadas de sangre por los crímenes de Adamud, de Urda, de La Dana o de La Pagón,"
+    },
+    {
+     "inicio": 44.12,
+     "fin": 50.82,
+     "texto": "donde las decisiones políticas, las corrupciones, están detrás de las consecuencias mortales para nuestro pueblo."
+    },
+    {
+     "inicio": 51.28,
+     "fin": 56.06,
+     "texto": "Es imperdonable, al menos judicialmente. Tienen que responder, tienen que ir al banquillo."
+    },
+    {
+     "inicio": 56.06,
+     "fin": 59.86,
+     "texto": "Y esto no se salda con una dimisión ni con la asunción de una responsabilidad política,"
+    },
+    {
+     "inicio": 59.98,
+     "fin": 66,
+     "texto": "porque hay responsabilidades penales de las que hay un principal culpable, que es también Pedro Sánchez Castejón."
+    },
+    {
+     "inicio": 66.2,
+     "fin": 69.9,
+     "texto": "Y eso había que decirlo con toda claridad. No todos somos iguales, claro que no, Pedro."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "No",
+     "inicio": 0,
+     "fin": 0.22
+    },
+    {
+     "t": "todos",
+     "inicio": 0.22,
+     "fin": 0.5
+    },
+    {
+     "t": "somos",
+     "inicio": 0.5,
+     "fin": 0.68
+    },
+    {
+     "t": "iguales,",
+     "inicio": 0.68,
+     "fin": 1.2
+    },
+    {
+     "t": "porque",
+     "inicio": 1.26,
+     "fin": 1.42
+    },
+    {
+     "t": "algunos",
+     "inicio": 1.42,
+     "fin": 1.72
+    },
+    {
+     "t": "no",
+     "inicio": 1.72,
+     "fin": 2.24
+    },
+    {
+     "t": "gobernamos",
+     "inicio": 2.24,
+     "fin": 2.72
+    },
+    {
+     "t": "con",
+     "inicio": 2.72,
+     "fin": 3.1
+    },
+    {
+     "t": "etarras.",
+     "inicio": 3.1,
+     "fin": 3.66
+    },
+    {
+     "t": "Algunos",
+     "inicio": 3.8,
+     "fin": 4.34
+    },
+    {
+     "t": "no",
+     "inicio": 4.34,
+     "fin": 4.56
+    },
+    {
+     "t": "pedimos",
+     "inicio": 4.56,
+     "fin": 4.92
+    },
+    {
+     "t": "a",
+     "inicio": 4.92,
+     "fin": 5.12
+    },
+    {
+     "t": "los",
+     "inicio": 5.12,
+     "fin": 5.22
+    },
+    {
+     "t": "narcos",
+     "inicio": 5.22,
+     "fin": 5.6
+    },
+    {
+     "t": "que",
+     "inicio": 5.6,
+     "fin": 5.84
+    },
+    {
+     "t": "eliminen",
+     "inicio": 5.84,
+     "fin": 6.24
+    },
+    {
+     "t": "a",
+     "inicio": 6.24,
+     "fin": 6.44
+    },
+    {
+     "t": "jueces.",
+     "inicio": 6.44,
+     "fin": 6.76
+    },
+    {
+     "t": "Algunos",
+     "inicio": 6.94,
+     "fin": 7.4
+    },
+    {
+     "t": "no",
+     "inicio": 7.4,
+     "fin": 7.56
+    },
+    {
+     "t": "robamos",
+     "inicio": 7.56,
+     "fin": 8
+    },
+    {
+     "t": "elecciones",
+     "inicio": 8,
+     "fin": 8.54
+    },
+    {
+     "t": "ni",
+     "inicio": 8.54,
+     "fin": 8.88
+    },
+    {
+     "t": "adulteramos",
+     "inicio": 8.88,
+     "fin": 9.38
+    },
+    {
+     "t": "los",
+     "inicio": 9.38,
+     "fin": 9.56
+    },
+    {
+     "t": "tensos",
+     "inicio": 9.56,
+     "fin": 9.9
+    },
+    {
+     "t": "ni",
+     "inicio": 9.9,
+     "fin": 10
+    },
+    {
+     "t": "a",
+     "inicio": 10,
+     "fin": 10.04
+    },
+    {
+     "t": "nuestros",
+     "inicio": 10.04,
+     "fin": 10.22
+    },
+    {
+     "t": "propios",
+     "inicio": 10.22,
+     "fin": 10.58
+    },
+    {
+     "t": "compañeros",
+     "inicio": 10.58,
+     "fin": 11.22
+    },
+    {
+     "t": "ni",
+     "inicio": 11.22,
+     "fin": 11.42
+    },
+    {
+     "t": "al",
+     "inicio": 11.42,
+     "fin": 11.52
+    },
+    {
+     "t": "conjunto",
+     "inicio": 11.52,
+     "fin": 11.82
+    },
+    {
+     "t": "de",
+     "inicio": 11.82,
+     "fin": 12.06
+    },
+    {
+     "t": "los",
+     "inicio": 12.06,
+     "fin": 12.14
+    },
+    {
+     "t": "españoles",
+     "inicio": 12.14,
+     "fin": 12.62
+    },
+    {
+     "t": "con",
+     "inicio": 12.62,
+     "fin": 12.8
+    },
+    {
+     "t": "la",
+     "inicio": 12.8,
+     "fin": 12.9
+    },
+    {
+     "t": "ley",
+     "inicio": 12.9,
+     "fin": 13
+    },
+    {
+     "t": "de",
+     "inicio": 13,
+     "fin": 13.1
+    },
+    {
+     "t": "nietos.",
+     "inicio": 13.1,
+     "fin": 13.52
+    },
+    {
+     "t": "No",
+     "inicio": 13.64,
+     "fin": 13.84
+    },
+    {
+     "t": "dividimos",
+     "inicio": 13.84,
+     "fin": 14.4
+    },
+    {
+     "t": "a",
+     "inicio": 14.4,
+     "fin": 14.6
+    },
+    {
+     "t": "los",
+     "inicio": 14.6,
+     "fin": 14.7
+    },
+    {
+     "t": "españoles",
+     "inicio": 14.7,
+     "fin": 15.3
+    },
+    {
+     "t": "por",
+     "inicio": 15.3,
+     "fin": 15.64
+    },
+    {
+     "t": "el",
+     "inicio": 15.64,
+     "fin": 15.8
+    },
+    {
+     "t": "bando",
+     "inicio": 15.8,
+     "fin": 16.06
+    },
+    {
+     "t": "en",
+     "inicio": 16.06,
+     "fin": 16.22
+    },
+    {
+     "t": "el",
+     "inicio": 16.22,
+     "fin": 16.26
+    },
+    {
+     "t": "que",
+     "inicio": 16.26,
+     "fin": 16.36
+    },
+    {
+     "t": "los",
+     "inicio": 16.36,
+     "fin": 16.5
+    },
+    {
+     "t": "bisabueros",
+     "inicio": 16.5,
+     "fin": 17.12
+    },
+    {
+     "t": "lucharon",
+     "inicio": 17.12,
+     "fin": 17.56
+    },
+    {
+     "t": "en",
+     "inicio": 17.56,
+     "fin": 17.74
+    },
+    {
+     "t": "una",
+     "inicio": 17.74,
+     "fin": 17.9
+    },
+    {
+     "t": "guerra",
+     "inicio": 17.9,
+     "fin": 18.22
+    },
+    {
+     "t": "de",
+     "inicio": 18.22,
+     "fin": 18.66
+    },
+    {
+     "t": "hace",
+     "inicio": 18.66,
+     "fin": 18.82
+    },
+    {
+     "t": "un",
+     "inicio": 18.82,
+     "fin": 18.94
+    },
+    {
+     "t": "siglo.",
+     "inicio": 18.94,
+     "fin": 19.24
+    },
+    {
+     "t": "Algunos",
+     "inicio": 19.64,
+     "fin": 20.18
+    },
+    {
+     "t": "no",
+     "inicio": 20.18,
+     "fin": 20.54
+    },
+    {
+     "t": "nos",
+     "inicio": 20.54,
+     "fin": 20.7
+    },
+    {
+     "t": "rodeamos",
+     "inicio": 20.7,
+     "fin": 21.16
+    },
+    {
+     "t": "de",
+     "inicio": 21.16,
+     "fin": 21.5
+    },
+    {
+     "t": "hábalos,",
+     "inicio": 21.5,
+     "fin": 22.04
+    },
+    {
+     "t": "de",
+     "inicio": 22.14,
+     "fin": 22.32
+    },
+    {
+     "t": "coldos,",
+     "inicio": 22.32,
+     "fin": 22.7
+    },
+    {
+     "t": "de",
+     "inicio": 22.8,
+     "fin": 22.86
+    },
+    {
+     "t": "cerdanes",
+     "inicio": 22.86,
+     "fin": 23.3
+    },
+    {
+     "t": "o",
+     "inicio": 23.3,
+     "fin": 23.72
+    },
+    {
+     "t": "de",
+     "inicio": 23.72,
+     "fin": 23.84
+    },
+    {
+     "t": "begoñas.",
+     "inicio": 23.84,
+     "fin": 24.24
+    },
+    {
+     "t": "Algunos",
+     "inicio": 24.44,
+     "fin": 24.94
+    },
+    {
+     "t": "no",
+     "inicio": 24.94,
+     "fin": 25.08
+    },
+    {
+     "t": "proponemos",
+     "inicio": 25.08,
+     "fin": 25.7
+    },
+    {
+     "t": "la",
+     "inicio": 25.7,
+     "fin": 25.88
+    },
+    {
+     "t": "invasión",
+     "inicio": 25.88,
+     "fin": 26.32
+    },
+    {
+     "t": "de",
+     "inicio": 26.32,
+     "fin": 26.64
+    },
+    {
+     "t": "nuestra",
+     "inicio": 26.64,
+     "fin": 26.82
+    },
+    {
+     "t": "propia",
+     "inicio": 26.82,
+     "fin": 27.18
+    },
+    {
+     "t": "tierra.",
+     "inicio": 27.18,
+     "fin": 27.5
+    },
+    {
+     "t": "Algunos",
+     "inicio": 27.5,
+     "fin": 27.9
+    },
+    {
+     "t": "no",
+     "inicio": 27.9,
+     "fin": 28.02
+    },
+    {
+     "t": "traicionamos",
+     "inicio": 28.02,
+     "fin": 28.68
+    },
+    {
+     "t": "a",
+     "inicio": 28.68,
+     "fin": 29
+    },
+    {
+     "t": "los",
+     "inicio": 29,
+     "fin": 29.1
+    },
+    {
+     "t": "habitantes",
+     "inicio": 29.1,
+     "fin": 29.66
+    },
+    {
+     "t": "de",
+     "inicio": 29.66,
+     "fin": 29.88
+    },
+    {
+     "t": "Ceuta",
+     "inicio": 29.88,
+     "fin": 30.28
+    },
+    {
+     "t": "abriendo",
+     "inicio": 30.28,
+     "fin": 30.98
+    },
+    {
+     "t": "las",
+     "inicio": 30.98,
+     "fin": 31.14
+    },
+    {
+     "t": "fronteras",
+     "inicio": 31.14,
+     "fin": 31.68
+    },
+    {
+     "t": "y",
+     "inicio": 31.68,
+     "fin": 31.8
+    },
+    {
+     "t": "robándoles",
+     "inicio": 31.8,
+     "fin": 32.32
+    },
+    {
+     "t": "su",
+     "inicio": 32.32,
+     "fin": 32.72
+    },
+    {
+     "t": "propia",
+     "inicio": 32.72,
+     "fin": 32.92
+    },
+    {
+     "t": "ciudad,",
+     "inicio": 32.92,
+     "fin": 33.28
+    },
+    {
+     "t": "su",
+     "inicio": 33.62,
+     "fin": 33.66
+    },
+    {
+     "t": "tranquilidad",
+     "inicio": 33.66,
+     "fin": 34.28
+    },
+    {
+     "t": "y",
+     "inicio": 34.28,
+     "fin": 34.58
+    },
+    {
+     "t": "sus",
+     "inicio": 34.58,
+     "fin": 34.74
+    },
+    {
+     "t": "libertades.",
+     "inicio": 34.74,
+     "fin": 35.32
+    },
+    {
+     "t": "Algunos",
+     "inicio": 35.7,
+     "fin": 36.38
+    },
+    {
+     "t": "no",
+     "inicio": 36.38,
+     "fin": 36.72
+    },
+    {
+     "t": "tenemos",
+     "inicio": 36.72,
+     "fin": 37
+    },
+    {
+     "t": "las",
+     "inicio": 37,
+     "fin": 37.28
+    },
+    {
+     "t": "manos",
+     "inicio": 37.28,
+     "fin": 37.66
+    },
+    {
+     "t": "manchadas",
+     "inicio": 37.66,
+     "fin": 38.32
+    },
+    {
+     "t": "de",
+     "inicio": 38.32,
+     "fin": 38.58
+    },
+    {
+     "t": "sangre",
+     "inicio": 38.58,
+     "fin": 38.96
+    },
+    {
+     "t": "por",
+     "inicio": 38.96,
+     "fin": 39.32
+    },
+    {
+     "t": "los",
+     "inicio": 39.32,
+     "fin": 39.46
+    },
+    {
+     "t": "crímenes",
+     "inicio": 39.46,
+     "fin": 40.2
+    },
+    {
+     "t": "de",
+     "inicio": 40.2,
+     "fin": 40.38
+    },
+    {
+     "t": "Adamud,",
+     "inicio": 40.38,
+     "fin": 40.84
+    },
+    {
+     "t": "de",
+     "inicio": 41.1,
+     "fin": 41.3
+    },
+    {
+     "t": "Urda,",
+     "inicio": 41.3,
+     "fin": 41.74
+    },
+    {
+     "t": "de",
+     "inicio": 42.26,
+     "fin": 42.28
+    },
+    {
+     "t": "La",
+     "inicio": 42.28,
+     "fin": 42.44
+    },
+    {
+     "t": "Dana",
+     "inicio": 42.44,
+     "fin": 42.68
+    },
+    {
+     "t": "o",
+     "inicio": 42.68,
+     "fin": 43.2
+    },
+    {
+     "t": "de",
+     "inicio": 43.2,
+     "fin": 43.28
+    },
+    {
+     "t": "La",
+     "inicio": 43.28,
+     "fin": 43.4
+    },
+    {
+     "t": "Pagón,",
+     "inicio": 43.4,
+     "fin": 44.1
+    },
+    {
+     "t": "donde",
+     "inicio": 44.12,
+     "fin": 44.32
+    },
+    {
+     "t": "las",
+     "inicio": 44.32,
+     "fin": 44.52
+    },
+    {
+     "t": "decisiones",
+     "inicio": 44.52,
+     "fin": 45.04
+    },
+    {
+     "t": "políticas,",
+     "inicio": 45.04,
+     "fin": 45.56
+    },
+    {
+     "t": "las",
+     "inicio": 45.96,
+     "fin": 46.14
+    },
+    {
+     "t": "corrupciones,",
+     "inicio": 46.14,
+     "fin": 46.7
+    },
+    {
+     "t": "están",
+     "inicio": 47.06,
+     "fin": 47.32
+    },
+    {
+     "t": "detrás",
+     "inicio": 47.32,
+     "fin": 47.8
+    },
+    {
+     "t": "de",
+     "inicio": 47.8,
+     "fin": 48.24
+    },
+    {
+     "t": "las",
+     "inicio": 48.24,
+     "fin": 48.36
+    },
+    {
+     "t": "consecuencias",
+     "inicio": 48.36,
+     "fin": 49
+    },
+    {
+     "t": "mortales",
+     "inicio": 49,
+     "fin": 49.74
+    },
+    {
+     "t": "para",
+     "inicio": 49.74,
+     "fin": 50.14
+    },
+    {
+     "t": "nuestro",
+     "inicio": 50.14,
+     "fin": 50.36
+    },
+    {
+     "t": "pueblo.",
+     "inicio": 50.36,
+     "fin": 50.82
+    },
+    {
+     "t": "Es",
+     "inicio": 51.28,
+     "fin": 51.58
+    },
+    {
+     "t": "imperdonable,",
+     "inicio": 51.58,
+     "fin": 52.58
+    },
+    {
+     "t": "al",
+     "inicio": 52.82,
+     "fin": 52.96
+    },
+    {
+     "t": "menos",
+     "inicio": 52.96,
+     "fin": 53.2
+    },
+    {
+     "t": "judicialmente.",
+     "inicio": 53.2,
+     "fin": 54.08
+    },
+    {
+     "t": "Tienen",
+     "inicio": 54.1,
+     "fin": 54.28
+    },
+    {
+     "t": "que",
+     "inicio": 54.28,
+     "fin": 54.46
+    },
+    {
+     "t": "responder,",
+     "inicio": 54.46,
+     "fin": 54.86
+    },
+    {
+     "t": "tienen",
+     "inicio": 55.22,
+     "fin": 55.34
+    },
+    {
+     "t": "que",
+     "inicio": 55.34,
+     "fin": 55.5
+    },
+    {
+     "t": "ir",
+     "inicio": 55.5,
+     "fin": 55.56
+    },
+    {
+     "t": "al",
+     "inicio": 55.56,
+     "fin": 55.68
+    },
+    {
+     "t": "banquillo.",
+     "inicio": 55.68,
+     "fin": 56.06
+    },
+    {
+     "t": "Y",
+     "inicio": 56.06,
+     "fin": 56.22
+    },
+    {
+     "t": "esto",
+     "inicio": 56.22,
+     "fin": 56.22
+    },
+    {
+     "t": "no",
+     "inicio": 56.22,
+     "fin": 56.46
+    },
+    {
+     "t": "se",
+     "inicio": 56.46,
+     "fin": 56.6
+    },
+    {
+     "t": "salda",
+     "inicio": 56.6,
+     "fin": 57.02
+    },
+    {
+     "t": "con",
+     "inicio": 57.02,
+     "fin": 57.26
+    },
+    {
+     "t": "una",
+     "inicio": 57.26,
+     "fin": 57.42
+    },
+    {
+     "t": "dimisión",
+     "inicio": 57.42,
+     "fin": 57.86
+    },
+    {
+     "t": "ni",
+     "inicio": 57.86,
+     "fin": 58
+    },
+    {
+     "t": "con",
+     "inicio": 58,
+     "fin": 58.1
+    },
+    {
+     "t": "la",
+     "inicio": 58.1,
+     "fin": 58.2
+    },
+    {
+     "t": "asunción",
+     "inicio": 58.2,
+     "fin": 58.56
+    },
+    {
+     "t": "de",
+     "inicio": 58.56,
+     "fin": 58.68
+    },
+    {
+     "t": "una",
+     "inicio": 58.68,
+     "fin": 58.78
+    },
+    {
+     "t": "responsabilidad",
+     "inicio": 58.78,
+     "fin": 59.42
+    },
+    {
+     "t": "política,",
+     "inicio": 59.42,
+     "fin": 59.86
+    },
+    {
+     "t": "porque",
+     "inicio": 59.98,
+     "fin": 60.24
+    },
+    {
+     "t": "hay",
+     "inicio": 60.24,
+     "fin": 60.4
+    },
+    {
+     "t": "responsabilidades",
+     "inicio": 60.4,
+     "fin": 61.3
+    },
+    {
+     "t": "penales",
+     "inicio": 61.3,
+     "fin": 61.98
+    },
+    {
+     "t": "de",
+     "inicio": 61.98,
+     "fin": 62.32
+    },
+    {
+     "t": "las",
+     "inicio": 62.32,
+     "fin": 62.44
+    },
+    {
+     "t": "que",
+     "inicio": 62.44,
+     "fin": 62.58
+    },
+    {
+     "t": "hay",
+     "inicio": 62.58,
+     "fin": 62.68
+    },
+    {
+     "t": "un",
+     "inicio": 62.68,
+     "fin": 62.78
+    },
+    {
+     "t": "principal",
+     "inicio": 62.78,
+     "fin": 63.14
+    },
+    {
+     "t": "culpable,",
+     "inicio": 63.14,
+     "fin": 63.78
+    },
+    {
+     "t": "que",
+     "inicio": 64.06,
+     "fin": 64.22
+    },
+    {
+     "t": "es",
+     "inicio": 64.22,
+     "fin": 64.38
+    },
+    {
+     "t": "también",
+     "inicio": 64.38,
+     "fin": 64.6
+    },
+    {
+     "t": "Pedro",
+     "inicio": 64.6,
+     "fin": 64.9
+    },
+    {
+     "t": "Sánchez",
+     "inicio": 64.9,
+     "fin": 65.36
+    },
+    {
+     "t": "Castejón.",
+     "inicio": 65.36,
+     "fin": 66
+    },
+    {
+     "t": "Y",
+     "inicio": 66.2,
+     "fin": 66.22
+    },
+    {
+     "t": "eso",
+     "inicio": 66.22,
+     "fin": 66.34
+    },
+    {
+     "t": "había",
+     "inicio": 66.34,
+     "fin": 66.48
+    },
+    {
+     "t": "que",
+     "inicio": 66.48,
+     "fin": 66.66
+    },
+    {
+     "t": "decirlo",
+     "inicio": 66.66,
+     "fin": 67.04
+    },
+    {
+     "t": "con",
+     "inicio": 67.04,
+     "fin": 67.22
+    },
+    {
+     "t": "toda",
+     "inicio": 67.22,
+     "fin": 67.34
+    },
+    {
+     "t": "claridad.",
+     "inicio": 67.34,
+     "fin": 67.84
+    },
+    {
+     "t": "No",
+     "inicio": 68.1,
+     "fin": 68.2
+    },
+    {
+     "t": "todos",
+     "inicio": 68.2,
+     "fin": 68.44
+    },
+    {
+     "t": "somos",
+     "inicio": 68.44,
+     "fin": 68.7
+    },
+    {
+     "t": "iguales,",
+     "inicio": 68.7,
+     "fin": 69.22
+    },
+    {
+     "t": "claro",
+     "inicio": 69.3,
+     "fin": 69.42
+    },
+    {
+     "t": "que",
+     "inicio": 69.42,
+     "fin": 69.58
+    },
+    {
+     "t": "no,",
+     "inicio": 69.58,
+     "fin": 69.7
+    },
+    {
+     "t": "Pedro.",
+     "inicio": 69.76,
+     "fin": 69.9
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
