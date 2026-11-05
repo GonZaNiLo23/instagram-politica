@@ -53,6 +53,8 @@ import {MapaU, DatoU, AlcanceU, SeguridadU, PlazoU, MarcadorU, PastillasU, Resum
 import {REGISTRO_ALMINUTO} from './AlMinuto';
 import {REGISTRO_SERIE} from './Serie';
 import {REGISTRO_033} from './Casa';
+import {REGISTRO_037} from './Hipoteca';
+import {REGISTRO_035} from './Alquiler';
 import {REGISTRO_032} from './Gasolina';
 import {REGISTRO_034} from './Irpf';
 import {REGISTRO_031} from './Pension';
@@ -150,6 +152,8 @@ export const REGISTRO: Record<string, React.FC<any>> = {
   ...REGISTRO_ALMINUTO,
   ...REGISTRO_SERIE,
   ...REGISTRO_033,
+  ...REGISTRO_037,
+  ...REGISTRO_035,
   ...REGISTRO_032,
   ...REGISTRO_034,
   ...REGISTRO_031,

@@ -1,0 +1,720 @@
+{
+  "plantilla": "flash",
+  "duracion": 34.66,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 90,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "Hipoteca variable: +84 € al mes",
+            "y": 330,
+            "tamano": 110,
+            "en": -1
+          },
+          {
+            "tipo": "cuotaH",
+            "y": 900,
+            "de": 790.84,
+            "a": 790.84,
+            "sube": 0,
+            "dur": 0.01,
+            "golpe": 0
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.5,
+      "fondo": "crema",
+      "fuente": "Banco de España",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "+84 € al mes",
+          "y": 330,
+          "tamano": 130,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Hipoteca variable",
+          "y": 665,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO: 150.000 € · 25 años",
+          "y": 765,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "cuotaH",
+          "y": 960
+        }
+      ]
+    },
+    {
+      "inicio": 5.5,
+      "fin": 11.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "fichasH",
+          "y": 340,
+          "paso": 240,
+          "alto": 210,
+          "items": [
+            {
+              "icono": "importe",
+              "lineas": [
+                "150.000 €"
+              ],
+              "en": 0.56
+            },
+            {
+              "icono": "plazo",
+              "lineas": [
+                "25 años"
+              ],
+              "en": 2.28
+            },
+            {
+              "icono": "dif",
+              "lineas": [
+                "Euríbor +",
+                "0,75 puntos"
+              ],
+              "en": 3.56
+            }
+          ]
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Cuota fija mensual",
+          "y": 1090,
+          "en": 4.58,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 11.54,
+      "fin": 14.78,
+      "fondo": "crema",
+      "fuente": "Banco de España, 3-11-2025",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Euríbor 12 meses · octubre 2025",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "termoH",
+          "y": 900,
+          "a": 2.187,
+          "sube": 0.1,
+          "dur": 1.3,
+          "cifraEn": 1.42
+        }
+      ]
+    },
+    {
+      "inicio": 14.78,
+      "fin": 18.7,
+      "fondo": "crema",
+      "fuente": "Banco de España, 3-11-2026",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Euríbor 12 meses · octubre 2026",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "termoH",
+          "y": 900,
+          "de": 2.187,
+          "a": 3.239,
+          "sube": 0.4,
+          "dur": 1.4,
+          "cifraEn": 1.96,
+          "marca": 2.187
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "+1,052 puntos porcentuales",
+          "y": 540,
+          "en": 2.66,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 18.7,
+      "fin": 22.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "706,41 € → 790,84 € al mes",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasCuotaH",
+          "base": 1180,
+          "k": 0.62,
+          "difEn": 2.27
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 22.54,
+      "fin": 25.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "84,43 € × 12 = 1.013 €/año",
+          "y": 330,
+          "en": 0.1,
+          "tamano": 64
+        },
+        {
+          "tipo": "huchaH",
+          "y": 580,
+          "en": 0.6,
+          "paso": 0.12,
+          "cifraEn": 2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 25.02,
+      "fin": 27.79,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Tu cuota cambia en tu revisión",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Mira tu contrato",
+          "y": 500,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioH",
+          "y": 630,
+          "marca": 6,
+          "marcaEn": 1
+        }
+      ]
+    },
+    {
+      "inicio": 27.79,
+      "fin": 30.98,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿FIJA O VARIABLE?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 80
+        },
+        {
+          "tipo": "abSerie",
+          "a": "FIJA",
+          "b": "VARIABLE",
+          "y": 560,
+          "en": 0.35
+        }
+      ]
+    },
+    {
+      "inicio": 30.98,
+      "fin": 34.66,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿FIJA O VARIABLE?",
+          "tamano": 96,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "037-hipoteca-variable",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Hipoteca",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "t": "variable…",
+      "inicio": 0.8,
+      "fin": 1.44
+    },
+    {
+      "t": "unos",
+      "inicio": 1.52,
+      "fin": 1.84
+    },
+    {
+      "t": "ochenta",
+      "inicio": 1.92,
+      "fin": 2.24
+    },
+    {
+      "t": "y",
+      "inicio": 2.32,
+      "fin": 2.4
+    },
+    {
+      "t": "cuatro",
+      "inicio": 2.44,
+      "fin": 2.64
+    },
+    {
+      "t": "euros",
+      "inicio": 2.8,
+      "fin": 3.12
+    },
+    {
+      "t": "más",
+      "inicio": 3.2,
+      "fin": 3.36
+    },
+    {
+      "t": "al",
+      "inicio": 3.44,
+      "fin": 3.52
+    },
+    {
+      "t": "mes.",
+      "inicio": 3.6,
+      "fin": 3.92
+    },
+    {
+      "t": "¿Cómo",
+      "inicio": 4.24,
+      "fin": 4.4
+    },
+    {
+      "t": "sale",
+      "inicio": 4.48,
+      "fin": 4.64
+    },
+    {
+      "t": "la",
+      "inicio": 4.68,
+      "fin": 4.72
+    },
+    {
+      "t": "cuenta?",
+      "inicio": 4.8,
+      "fin": 5.2
+    },
+    {
+      "t": "Imagina",
+      "inicio": 5.6,
+      "fin": 6.08
+    },
+    {
+      "t": "ciento",
+      "inicio": 6.16,
+      "fin": 6.48
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 6.56,
+      "fin": 6.96
+    },
+    {
+      "t": "mil",
+      "inicio": 7.04,
+      "fin": 7.12
+    },
+    {
+      "t": "euros,",
+      "inicio": 7.2,
+      "fin": 7.84
+    },
+    {
+      "t": "veinticinco",
+      "inicio": 7.88,
+      "fin": 8.4
+    },
+    {
+      "t": "años,",
+      "inicio": 8.48,
+      "fin": 9.04
+    },
+    {
+      "t": "euríbor",
+      "inicio": 9.16,
+      "fin": 9.52
+    },
+    {
+      "t": "más",
+      "inicio": 9.6,
+      "fin": 9.84
+    },
+    {
+      "t": "cero",
+      "inicio": 9.893,
+      "fin": 10
+    },
+    {
+      "t": "coma",
+      "inicio": 10.08,
+      "fin": 10.32
+    },
+    {
+      "t": "setenta",
+      "inicio": 10.4,
+      "fin": 10.72
+    },
+    {
+      "t": "y",
+      "inicio": 10.8,
+      "fin": 10.88
+    },
+    {
+      "t": "cinco.",
+      "inicio": 10.92,
+      "fin": 11.6
+    },
+    {
+      "t": "Euríbor",
+      "inicio": 11.64,
+      "fin": 12
+    },
+    {
+      "t": "hace",
+      "inicio": 12.04,
+      "fin": 12.24
+    },
+    {
+      "t": "un",
+      "inicio": 12.28,
+      "fin": 12.32
+    },
+    {
+      "t": "año:",
+      "inicio": 12.4,
+      "fin": 12.88
+    },
+    {
+      "t": "dos",
+      "inicio": 12.96,
+      "fin": 13.04
+    },
+    {
+      "t": "coma",
+      "inicio": 13.2,
+      "fin": 13.36
+    },
+    {
+      "t": "uno",
+      "inicio": 13.6,
+      "fin": 13.68
+    },
+    {
+      "t": "ocho",
+      "inicio": 13.84,
+      "fin": 14
+    },
+    {
+      "t": "siete.",
+      "inicio": 14.16,
+      "fin": 14.8
+    },
+    {
+      "t": "Ahora,",
+      "inicio": 14.88,
+      "fin": 15.36
+    },
+    {
+      "t": "según",
+      "inicio": 15.44,
+      "fin": 15.6
+    },
+    {
+      "t": "el",
+      "inicio": 15.64,
+      "fin": 15.68
+    },
+    {
+      "t": "Banco",
+      "inicio": 15.76,
+      "fin": 15.92
+    },
+    {
+      "t": "de",
+      "inicio": 16,
+      "fin": 16.04
+    },
+    {
+      "t": "España:",
+      "inicio": 16.08,
+      "fin": 16.72
+    },
+    {
+      "t": "tres",
+      "inicio": 16.84,
+      "fin": 16.96
+    },
+    {
+      "t": "coma",
+      "inicio": 17.04,
+      "fin": 17.28
+    },
+    {
+      "t": "dos",
+      "inicio": 17.44,
+      "fin": 17.6
+    },
+    {
+      "t": "tres",
+      "inicio": 17.76,
+      "fin": 17.92
+    },
+    {
+      "t": "nueve.",
+      "inicio": 18,
+      "fin": 18.72
+    },
+    {
+      "t": "La",
+      "inicio": 18.8,
+      "fin": 18.88
+    },
+    {
+      "t": "cuota",
+      "inicio": 18.92,
+      "fin": 19.2
+    },
+    {
+      "t": "pasa",
+      "inicio": 19.28,
+      "fin": 19.44
+    },
+    {
+      "t": "de",
+      "inicio": 19.52,
+      "fin": 19.6
+    },
+    {
+      "t": "setecientos",
+      "inicio": 19.68,
+      "fin": 20.32
+    },
+    {
+      "t": "seis",
+      "inicio": 20.4,
+      "fin": 20.56
+    },
+    {
+      "t": "a",
+      "inicio": 20.8,
+      "fin": 20.96
+    },
+    {
+      "t": "casi",
+      "inicio": 21.067,
+      "fin": 21.28
+    },
+    {
+      "t": "setecientos",
+      "inicio": 21.36,
+      "fin": 22
+    },
+    {
+      "t": "noventa",
+      "inicio": 22.08,
+      "fin": 22.4
+    },
+    {
+      "t": "y",
+      "inicio": 22.48,
+      "fin": 22.56
+    },
+    {
+      "t": "uno.",
+      "inicio": 22.64,
+      "fin": 23.12
+    },
+    {
+      "t": "Al",
+      "inicio": 23.2,
+      "fin": 23.28
+    },
+    {
+      "t": "año,",
+      "inicio": 23.32,
+      "fin": 23.84
+    },
+    {
+      "t": "más",
+      "inicio": 23.88,
+      "fin": 24.08
+    },
+    {
+      "t": "de",
+      "inicio": 24.16,
+      "fin": 24.24
+    },
+    {
+      "t": "mil",
+      "inicio": 24.32,
+      "fin": 24.48
+    },
+    {
+      "t": "euros.",
+      "inicio": 24.56,
+      "fin": 25.28
+    },
+    {
+      "t": "Tu",
+      "inicio": 25.32,
+      "fin": 25.36
+    },
+    {
+      "t": "cuota",
+      "inicio": 25.44,
+      "fin": 25.76
+    },
+    {
+      "t": "solo",
+      "inicio": 25.8,
+      "fin": 26
+    },
+    {
+      "t": "cambia",
+      "inicio": 26.08,
+      "fin": 26.4
+    },
+    {
+      "t": "cuando",
+      "inicio": 26.48,
+      "fin": 26.72
+    },
+    {
+      "t": "toca",
+      "inicio": 26.8,
+      "fin": 26.96
+    },
+    {
+      "t": "revisar.",
+      "inicio": 27.04,
+      "fin": 27.84
+    },
+    {
+      "t": "¿Hipoteca",
+      "inicio": 27.893,
+      "fin": 28.32
+    },
+    {
+      "t": "fija",
+      "inicio": 28.4,
+      "fin": 28.72
+    },
+    {
+      "t": "o",
+      "inicio": 28.76,
+      "fin": 28.8
+    },
+    {
+      "t": "variable:",
+      "inicio": 28.88,
+      "fin": 29.68
+    },
+    {
+      "t": "cuál",
+      "inicio": 29.72,
+      "fin": 29.84
+    },
+    {
+      "t": "elegirías",
+      "inicio": 29.88,
+      "fin": 30.4
+    },
+    {
+      "t": "hoy?",
+      "inicio": 30.48,
+      "fin": 31.04
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 31.08,
+      "fin": 31.52
+    },
+    {
+      "t": "para",
+      "inicio": 31.6,
+      "fin": 31.76
+    },
+    {
+      "t": "estar",
+      "inicio": 31.88,
+      "fin": 32
+    },
+    {
+      "t": "informado.",
+      "inicio": 32.16,
+      "fin": 32.8
+    }
+  ]
+}

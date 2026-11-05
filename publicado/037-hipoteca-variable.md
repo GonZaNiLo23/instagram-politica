@@ -19,7 +19,7 @@ Ojo: es la cuota de una hipoteca calculada desde cero con cada euríbor. Una hip
 
 Fuentes: Banco de España, euríbor a un año de octubre de 2026 (nota del 3-11-2026) y de octubre de 2025 (nota del 3-11-2025); cálculo propio (EJEMPLO, sistema de amortización francés, 300 cuotas).
 
-Imagen de archivo: [autor, licencia: pendiente]. Música: "Investigations", Kevin MacLeod (incompetech.com) · CC BY 4.0
+Música: "Investigations", Kevin MacLeod (incompetech.com) · CC BY 4.0
 
 #hipoteca #euribor #economía #BancoDeEspaña #vivienda #España #ahorro
 

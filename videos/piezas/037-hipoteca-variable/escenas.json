@@ -1,0 +1,294 @@
+{
+  "plantilla": "flash",
+  "duracion": 34.66,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 90,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "Hipoteca variable: +84 € al mes",
+            "y": 330,
+            "tamano": 110,
+            "en": -1
+          },
+          {
+            "tipo": "cuotaH",
+            "y": 900,
+            "de": 790.84,
+            "a": 790.84,
+            "sube": 0,
+            "dur": 0.01,
+            "golpe": 0
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.5,
+      "fondo": "crema",
+      "fuente": "Banco de España",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "+84 € al mes",
+          "y": 330,
+          "tamano": 130,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Hipoteca variable",
+          "y": 665,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO: 150.000 € · 25 años",
+          "y": 765,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "cuotaH",
+          "y": 960
+        }
+      ]
+    },
+    {
+      "inicio": 5.5,
+      "fin": 11.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "fichasH",
+          "y": 340,
+          "paso": 240,
+          "alto": 210,
+          "items": [
+            {
+              "icono": "importe",
+              "lineas": [
+                "150.000 €"
+              ],
+              "en": 0.56
+            },
+            {
+              "icono": "plazo",
+              "lineas": [
+                "25 años"
+              ],
+              "en": 2.28
+            },
+            {
+              "icono": "dif",
+              "lineas": [
+                "Euríbor +",
+                "0,75 puntos"
+              ],
+              "en": 3.56
+            }
+          ]
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Cuota fija mensual",
+          "y": 1090,
+          "en": 4.58,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 11.54,
+      "fin": 14.78,
+      "fondo": "crema",
+      "fuente": "Banco de España, 3-11-2025",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Euríbor 12 meses · octubre 2025",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "termoH",
+          "y": 900,
+          "a": 2.187,
+          "sube": 0.1,
+          "dur": 1.3,
+          "cifraEn": 1.42
+        }
+      ]
+    },
+    {
+      "inicio": 14.78,
+      "fin": 18.7,
+      "fondo": "crema",
+      "fuente": "Banco de España, 3-11-2026",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Euríbor 12 meses · octubre 2026",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "termoH",
+          "y": 900,
+          "de": 2.187,
+          "a": 3.239,
+          "sube": 0.4,
+          "dur": 1.4,
+          "cifraEn": 1.96,
+          "marca": 2.187
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "+1,052 puntos porcentuales",
+          "y": 540,
+          "en": 2.66,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 18.7,
+      "fin": 22.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "706,41 € → 790,84 € al mes",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasCuotaH",
+          "base": 1180,
+          "k": 0.62,
+          "difEn": 2.27
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 22.54,
+      "fin": 25.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "84,43 € × 12 = 1.013 €/año",
+          "y": 330,
+          "en": 0.1,
+          "tamano": 64
+        },
+        {
+          "tipo": "huchaH",
+          "y": 580,
+          "en": 0.6,
+          "paso": 0.12,
+          "cifraEn": 2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 25.02,
+      "fin": 27.79,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Tu cuota cambia en tu revisión",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Mira tu contrato",
+          "y": 500,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioH",
+          "y": 630,
+          "marca": 6,
+          "marcaEn": 1
+        }
+      ]
+    },
+    {
+      "inicio": 27.79,
+      "fin": 30.98,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿FIJA O VARIABLE?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 80
+        },
+        {
+          "tipo": "abSerie",
+          "a": "FIJA",
+          "b": "VARIABLE",
+          "y": 560,
+          "en": 0.35
+        }
+      ]
+    },
+    {
+      "inicio": 30.98,
+      "fin": 34.66,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿FIJA O VARIABLE?",
+          "tamano": 96,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

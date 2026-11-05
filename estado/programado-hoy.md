@@ -23,3 +23,4 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 033-vivienda-vs-sueldos (v2) | Reel 35 s | Instagram (Meta) + TikTok | 2026-11-04 13:30 | revisiones/guiones/033-…-v2.md · revisiones/videos/033-…-v2.md (9/10) |
 | 031-pension-enero-27n (v2) | Reel 68 s | Instagram (Meta) + TikTok | 2026-11-05 13:30 | revisiones/guiones/031-…-v2.md (literales aplicados) · revisiones/videos/031-…-v2.md (9/10) |
 | 034-irpf-sin-deflactar (v2) | Reel 87 s | Instagram (Meta) + TikTok | 2026-11-05 19:00 | revisiones/guiones/034-…-v1.md (literales aplicados) · revisiones/videos/034-…-v2.md (9/10). Recomprobar si sale el IPC definitivo |
+| 037-hipoteca-variable | Reel 35 s | Instagram + TikTok (borrador) vía cola | 2026-11-06 13:30 | revisiones/guiones/037-…-v1.md (literales aplicados) · revisiones/videos/037-…-v1.md (9/10). Recomprobar euríbor si sale después de 1-12 |
