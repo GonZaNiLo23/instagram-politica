@@ -1,7517 +1,3086 @@
 {
- "generado": "2026-11-05T11:27:36.051Z",
- "total_detectados": 3,
+ "generado": "2026-11-05T13:14:46.768Z",
+ "total_detectados": 8,
  "candidatos": [
   {
-   "id": "ig-17985506801900259",
+   "id": "ig-17898301206417648",
+   "fuente": "instagram",
+   "cuenta": "@alviseperez",
+   "nombre": "Alvise Pérez",
+   "espacio": "afin",
+   "seguidores": 1424601,
+   "fecha": "2026-11-05T12:08:15+0000",
+   "horas": 1.1,
+   "me_gusta": 10872,
+   "comentarios": 358,
+   "viral": 733.6,
+   "enlace": "https://www.instagram.com/reel/DfW_hicggR_/",
+   "texto": "Como no pueden permitirse nunca un titular bueno sobre mí, volverán a tapar esta nueva victoria judicial con algún otro nuevo bulo o ataque. MAFIA O PATRIA. A POR ELLOS.",
+   "credito": "Vídeo: @alviseperez",
+   "duracion": 91.7,
+   "archivo": "ig-17898301206417648.mp4",
+   "frases": [
+    {
+     "inicio": 0.02,
+     "fin": 5.68,
+     "texto": "archivara el tribunal supremo acaba de archivar otra causa de todas las que tengo"
+    },
+    {
+     "inicio": 5.68,
+     "fin": 11.46,
+     "texto": "por la acusación popular del PSOE. En este caso la falsa causa por la PCR de"
+    },
+    {
+     "inicio": 11.46,
+     "fin": 16.78,
+     "texto": "Salvador Illa, cinco años y nueve meses de titulares de ataque de la fiscalía de"
+    },
+    {
+     "inicio": 16.78,
+     "fin": 20.58,
+     "texto": "ruedas de prensa de Illa y del PSC de comisiones rodatorias de Estados Unidos"
+    },
+    {
+     "inicio": 20.58,
+     "fin": 24.64,
+     "texto": "de la Policía Nacional analizando absolutamente todas mis cuentas para"
+    },
+    {
+     "inicio": 24.64,
+     "fin": 28.12,
+     "texto": "descubrir que era mentira que yo falsificara ningún documento en"
+    },
+    {
+     "inicio": 28.12,
+     "fin": 32.66,
+     "texto": "que yo injuriera a nadie y qué hacen para tapar esta nueva victoria pues publicar"
+    },
+    {
+     "inicio": 32.66,
+     "fin": 37.06,
+     "texto": "que me arreglarán la quinta petición de inmunidad por apoyar a los"
+    },
+    {
+     "inicio": 37.06,
+     "fin": 40.5,
+     "texto": "agricultores cuando le rompieron la cabeza de mi hermano lo recordaré y además"
+    },
+    {
+     "inicio": 40.5,
+     "fin": 44.68,
+     "texto": "tras seis meses en un cajón ayer fijó a Bajar y el PSOE se pusieron aquí en"
+    },
+    {
+     "inicio": 44.68,
+     "fin": 48.4,
+     "texto": "Europa de acuerdo para votar sobre mi inmunidad la última semana de"
+    },
+    {
+     "inicio": 48.4,
+     "fin": 52.46,
+     "texto": "campaña electoral para que todos los españoles lean falsos titulares contra"
+    },
+    {
+     "inicio": 52.46,
+     "fin": 56.1,
+     "texto": "mi justo antes de ir a votar porque censurarme de todos los medios no"
+    },
+    {
+     "inicio": 56.1,
+     "fin": 59.2,
+     "texto": "les falta cuando estoy ganando en firme todas las causas con las que les"
+    },
+    {
+     "inicio": 59.2,
+     "fin": 63.84,
+     "texto": "intentó perseguir metodos de justicia de todo sistema corrupción es partitotracia"
+    },
+    {
+     "inicio": 63.84,
+     "fin": 68.22,
+     "texto": "a este ritmo van a librarme de todas las causas cuando lleguemos a la"
+    },
+    {
+     "inicio": 68.22,
+     "fin": 72.02,
+     "texto": "presidencia del gobierno de España en fin el 29 de noviembre lo celebramos en"
+    },
+    {
+     "inicio": 72.02,
+     "fin": 77.36,
+     "texto": "las urnas para decirte una maldita vez mafia o patria para decirse acabó la"
+    },
+    {
+     "inicio": 77.36,
+     "fin": 82.74,
+     "texto": "fiesta y para decir todos juntos más a la ideología que España jamás"
+    },
+    {
+     "inicio": 82.74,
+     "fin": 87.64,
+     "texto": "será un país serio hasta que dejemos de usar la justicia para perseguir a los"
+    },
+    {
+     "inicio": 87.64,
+     "fin": 90.8,
+     "texto": "rivales políticos a por ellos y felicidades a todos"
+    }
+   ],
+   "palabras": [
+    {
+     "t": "archivara",
+     "inicio": 0.02,
+     "fin": 1.06
+    },
+    {
+     "t": "el",
+     "inicio": 1.06,
+     "fin": 1.62
+    },
+    {
+     "t": "tribunal",
+     "inicio": 1.62,
+     "fin": 2.04
+    },
+    {
+     "t": "supremo",
+     "inicio": 2.04,
+     "fin": 2.8
+    },
+    {
+     "t": "acaba",
+     "inicio": 2.8,
+     "fin": 3.2
+    },
+    {
+     "t": "de",
+     "inicio": 3.2,
+     "fin": 3.48
+    },
+    {
+     "t": "archivar",
+     "inicio": 3.48,
+     "fin": 3.92
+    },
+    {
+     "t": "otra",
+     "inicio": 3.92,
+     "fin": 4.12
+    },
+    {
+     "t": "causa",
+     "inicio": 4.12,
+     "fin": 4.48
+    },
+    {
+     "t": "de",
+     "inicio": 4.48,
+     "fin": 4.84
+    },
+    {
+     "t": "todas",
+     "inicio": 4.84,
+     "fin": 5.04
+    },
+    {
+     "t": "las",
+     "inicio": 5.04,
+     "fin": 5.24
+    },
+    {
+     "t": "que",
+     "inicio": 5.24,
+     "fin": 5.38
+    },
+    {
+     "t": "tengo",
+     "inicio": 5.38,
+     "fin": 5.68
+    },
+    {
+     "t": "por",
+     "inicio": 5.68,
+     "fin": 6.32
+    },
+    {
+     "t": "la",
+     "inicio": 6.32,
+     "fin": 6.46
+    },
+    {
+     "t": "acusación",
+     "inicio": 6.46,
+     "fin": 6.8
+    },
+    {
+     "t": "popular",
+     "inicio": 6.8,
+     "fin": 7.2
+    },
+    {
+     "t": "del",
+     "inicio": 7.2,
+     "fin": 7.4
+    },
+    {
+     "t": "PSOE.",
+     "inicio": 7.4,
+     "fin": 8.18
+    },
+    {
+     "t": "En",
+     "inicio": 8.18,
+     "fin": 8.42
+    },
+    {
+     "t": "este",
+     "inicio": 8.42,
+     "fin": 8.64
+    },
+    {
+     "t": "caso",
+     "inicio": 8.64,
+     "fin": 8.86
+    },
+    {
+     "t": "la",
+     "inicio": 8.86,
+     "fin": 9.04
+    },
+    {
+     "t": "falsa",
+     "inicio": 9.04,
+     "fin": 9.5
+    },
+    {
+     "t": "causa",
+     "inicio": 9.5,
+     "fin": 9.84
+    },
+    {
+     "t": "por",
+     "inicio": 9.84,
+     "fin": 10.18
+    },
+    {
+     "t": "la",
+     "inicio": 10.18,
+     "fin": 10.32
+    },
+    {
+     "t": "PCR",
+     "inicio": 10.32,
+     "fin": 10.66
+    },
+    {
+     "t": "de",
+     "inicio": 10.66,
+     "fin": 11.46
+    },
+    {
+     "t": "Salvador",
+     "inicio": 11.46,
+     "fin": 11.92
+    },
+    {
+     "t": "Illa,",
+     "inicio": 11.92,
+     "fin": 12.5
+    },
+    {
+     "t": "cinco",
+     "inicio": 12.64,
+     "fin": 12.94
+    },
+    {
+     "t": "años",
+     "inicio": 12.94,
+     "fin": 13.44
+    },
+    {
+     "t": "y",
+     "inicio": 13.44,
+     "fin": 14.12
+    },
+    {
+     "t": "nueve",
+     "inicio": 14.12,
+     "fin": 14.42
+    },
+    {
+     "t": "meses",
+     "inicio": 14.42,
+     "fin": 14.66
+    },
+    {
+     "t": "de",
+     "inicio": 14.66,
+     "fin": 14.86
+    },
+    {
+     "t": "titulares",
+     "inicio": 14.86,
+     "fin": 15.26
+    },
+    {
+     "t": "de",
+     "inicio": 15.26,
+     "fin": 15.56
+    },
+    {
+     "t": "ataque",
+     "inicio": 15.56,
+     "fin": 15.8
+    },
+    {
+     "t": "de",
+     "inicio": 15.8,
+     "fin": 16.04
+    },
+    {
+     "t": "la",
+     "inicio": 16.04,
+     "fin": 16.16
+    },
+    {
+     "t": "fiscalía",
+     "inicio": 16.16,
+     "fin": 16.64
+    },
+    {
+     "t": "de",
+     "inicio": 16.64,
+     "fin": 16.78
+    },
+    {
+     "t": "ruedas",
+     "inicio": 16.78,
+     "fin": 17.04
+    },
+    {
+     "t": "de",
+     "inicio": 17.04,
+     "fin": 17.2
+    },
+    {
+     "t": "prensa",
+     "inicio": 17.2,
+     "fin": 17.6
+    },
+    {
+     "t": "de",
+     "inicio": 17.6,
+     "fin": 17.72
+    },
+    {
+     "t": "Illa",
+     "inicio": 17.72,
+     "fin": 17.86
+    },
+    {
+     "t": "y",
+     "inicio": 17.86,
+     "fin": 18.02
+    },
+    {
+     "t": "del",
+     "inicio": 18.02,
+     "fin": 18.02
+    },
+    {
+     "t": "PSC",
+     "inicio": 18.02,
+     "fin": 18.42
+    },
+    {
+     "t": "de",
+     "inicio": 18.42,
+     "fin": 18.84
+    },
+    {
+     "t": "comisiones",
+     "inicio": 18.84,
+     "fin": 19.48
+    },
+    {
+     "t": "rodatorias",
+     "inicio": 19.48,
+     "fin": 20.02
+    },
+    {
+     "t": "de",
+     "inicio": 20.02,
+     "fin": 20.06
+    },
+    {
+     "t": "Estados",
+     "inicio": 20.06,
+     "fin": 20.24
+    },
+    {
+     "t": "Unidos",
+     "inicio": 20.24,
+     "fin": 20.58
+    },
+    {
+     "t": "de",
+     "inicio": 20.58,
+     "fin": 20.72
+    },
+    {
+     "t": "la",
+     "inicio": 20.72,
+     "fin": 20.8
+    },
+    {
+     "t": "Policía",
+     "inicio": 20.8,
+     "fin": 21.08
+    },
+    {
+     "t": "Nacional",
+     "inicio": 21.08,
+     "fin": 21.44
+    },
+    {
+     "t": "analizando",
+     "inicio": 21.44,
+     "fin": 22.4
+    },
+    {
+     "t": "absolutamente",
+     "inicio": 22.4,
+     "fin": 22.88
+    },
+    {
+     "t": "todas",
+     "inicio": 22.88,
+     "fin": 23.36
+    },
+    {
+     "t": "mis",
+     "inicio": 23.36,
+     "fin": 23.58
+    },
+    {
+     "t": "cuentas",
+     "inicio": 23.58,
+     "fin": 24.32
+    },
+    {
+     "t": "para",
+     "inicio": 24.32,
+     "fin": 24.64
+    },
+    {
+     "t": "descubrir",
+     "inicio": 24.64,
+     "fin": 25.06
+    },
+    {
+     "t": "que",
+     "inicio": 25.06,
+     "fin": 25.22
+    },
+    {
+     "t": "era",
+     "inicio": 25.22,
+     "fin": 25.34
+    },
+    {
+     "t": "mentira",
+     "inicio": 25.34,
+     "fin": 25.98
+    },
+    {
+     "t": "que",
+     "inicio": 25.98,
+     "fin": 26.4
+    },
+    {
+     "t": "yo",
+     "inicio": 26.4,
+     "fin": 26.52
+    },
+    {
+     "t": "falsificara",
+     "inicio": 26.52,
+     "fin": 27.18
+    },
+    {
+     "t": "ningún",
+     "inicio": 27.18,
+     "fin": 27.44
+    },
+    {
+     "t": "documento",
+     "inicio": 27.44,
+     "fin": 28.04
+    },
+    {
+     "t": "en",
+     "inicio": 28.04,
+     "fin": 28.12
+    },
+    {
+     "t": "que",
+     "inicio": 28.12,
+     "fin": 28.24
+    },
+    {
+     "t": "yo",
+     "inicio": 28.24,
+     "fin": 28.34
+    },
+    {
+     "t": "injuriera",
+     "inicio": 28.34,
+     "fin": 28.76
+    },
+    {
+     "t": "a",
+     "inicio": 28.76,
+     "fin": 29.18
+    },
+    {
+     "t": "nadie",
+     "inicio": 29.18,
+     "fin": 29.44
+    },
+    {
+     "t": "y",
+     "inicio": 29.44,
+     "fin": 30.12
+    },
+    {
+     "t": "qué",
+     "inicio": 30.12,
+     "fin": 30.26
+    },
+    {
+     "t": "hacen",
+     "inicio": 30.26,
+     "fin": 30.48
+    },
+    {
+     "t": "para",
+     "inicio": 30.48,
+     "fin": 31.12
+    },
+    {
+     "t": "tapar",
+     "inicio": 31.12,
+     "fin": 31.36
+    },
+    {
+     "t": "esta",
+     "inicio": 31.36,
+     "fin": 31.54
+    },
+    {
+     "t": "nueva",
+     "inicio": 31.54,
+     "fin": 31.68
+    },
+    {
+     "t": "victoria",
+     "inicio": 31.68,
+     "fin": 32.08
+    },
+    {
+     "t": "pues",
+     "inicio": 32.08,
+     "fin": 32.28
+    },
+    {
+     "t": "publicar",
+     "inicio": 32.28,
+     "fin": 32.66
+    },
+    {
+     "t": "que",
+     "inicio": 32.66,
+     "fin": 32.76
+    },
+    {
+     "t": "me",
+     "inicio": 32.76,
+     "fin": 32.86
+    },
+    {
+     "t": "arreglarán",
+     "inicio": 32.86,
+     "fin": 33.16
+    },
+    {
+     "t": "la",
+     "inicio": 33.16,
+     "fin": 33.28
+    },
+    {
+     "t": "quinta",
+     "inicio": 33.28,
+     "fin": 33.72
+    },
+    {
+     "t": "petición",
+     "inicio": 33.72,
+     "fin": 34.32
+    },
+    {
+     "t": "de",
+     "inicio": 34.32,
+     "fin": 34.56
+    },
+    {
+     "t": "inmunidad",
+     "inicio": 34.56,
+     "fin": 35.78
+    },
+    {
+     "t": "por",
+     "inicio": 35.78,
+     "fin": 36.48
+    },
+    {
+     "t": "apoyar",
+     "inicio": 36.48,
+     "fin": 36.84
+    },
+    {
+     "t": "a",
+     "inicio": 36.84,
+     "fin": 36.92
+    },
+    {
+     "t": "los",
+     "inicio": 36.92,
+     "fin": 37.06
+    },
+    {
+     "t": "agricultores",
+     "inicio": 37.06,
+     "fin": 37.58
+    },
+    {
+     "t": "cuando",
+     "inicio": 37.58,
+     "fin": 37.8
+    },
+    {
+     "t": "le",
+     "inicio": 37.8,
+     "fin": 37.98
+    },
+    {
+     "t": "rompieron",
+     "inicio": 37.98,
+     "fin": 38.42
+    },
+    {
+     "t": "la",
+     "inicio": 38.42,
+     "fin": 38.56
+    },
+    {
+     "t": "cabeza",
+     "inicio": 38.56,
+     "fin": 38.74
+    },
+    {
+     "t": "de",
+     "inicio": 38.74,
+     "fin": 38.96
+    },
+    {
+     "t": "mi",
+     "inicio": 38.96,
+     "fin": 39.04
+    },
+    {
+     "t": "hermano",
+     "inicio": 39.04,
+     "fin": 39.34
+    },
+    {
+     "t": "lo",
+     "inicio": 39.34,
+     "fin": 39.46
+    },
+    {
+     "t": "recordaré",
+     "inicio": 39.46,
+     "fin": 39.96
+    },
+    {
+     "t": "y",
+     "inicio": 39.96,
+     "fin": 40.28
+    },
+    {
+     "t": "además",
+     "inicio": 40.28,
+     "fin": 40.5
+    },
+    {
+     "t": "tras",
+     "inicio": 40.5,
+     "fin": 40.72
+    },
+    {
+     "t": "seis",
+     "inicio": 40.72,
+     "fin": 41.04
+    },
+    {
+     "t": "meses",
+     "inicio": 41.04,
+     "fin": 41.52
+    },
+    {
+     "t": "en",
+     "inicio": 41.52,
+     "fin": 41.76
+    },
+    {
+     "t": "un",
+     "inicio": 41.76,
+     "fin": 41.9
+    },
+    {
+     "t": "cajón",
+     "inicio": 41.9,
+     "fin": 42.32
+    },
+    {
+     "t": "ayer",
+     "inicio": 42.32,
+     "fin": 42.94
+    },
+    {
+     "t": "fijó",
+     "inicio": 42.94,
+     "fin": 43.3
+    },
+    {
+     "t": "a",
+     "inicio": 43.3,
+     "fin": 43.38
+    },
+    {
+     "t": "Bajar",
+     "inicio": 43.38,
+     "fin": 43.56
+    },
+    {
+     "t": "y",
+     "inicio": 43.56,
+     "fin": 43.64
+    },
+    {
+     "t": "el",
+     "inicio": 43.64,
+     "fin": 43.74
+    },
+    {
+     "t": "PSOE",
+     "inicio": 43.74,
+     "fin": 43.96
+    },
+    {
+     "t": "se",
+     "inicio": 43.96,
+     "fin": 44.08
+    },
+    {
+     "t": "pusieron",
+     "inicio": 44.08,
+     "fin": 44.32
+    },
+    {
+     "t": "aquí",
+     "inicio": 44.32,
+     "fin": 44.56
+    },
+    {
+     "t": "en",
+     "inicio": 44.56,
+     "fin": 44.68
+    },
+    {
+     "t": "Europa",
+     "inicio": 44.68,
+     "fin": 44.8
+    },
+    {
+     "t": "de",
+     "inicio": 44.8,
+     "fin": 45.06
+    },
+    {
+     "t": "acuerdo",
+     "inicio": 45.06,
+     "fin": 45.28
+    },
+    {
+     "t": "para",
+     "inicio": 45.28,
+     "fin": 45.88
+    },
+    {
+     "t": "votar",
+     "inicio": 45.88,
+     "fin": 46.18
+    },
+    {
+     "t": "sobre",
+     "inicio": 46.18,
+     "fin": 46.44
+    },
+    {
+     "t": "mi",
+     "inicio": 46.44,
+     "fin": 46.66
+    },
+    {
+     "t": "inmunidad",
+     "inicio": 46.66,
+     "fin": 47.18
+    },
+    {
+     "t": "la",
+     "inicio": 47.18,
+     "fin": 47.46
+    },
+    {
+     "t": "última",
+     "inicio": 47.46,
+     "fin": 47.8
+    },
+    {
+     "t": "semana",
+     "inicio": 47.8,
+     "fin": 48.22
+    },
+    {
+     "t": "de",
+     "inicio": 48.22,
+     "fin": 48.4
+    },
+    {
+     "t": "campaña",
+     "inicio": 48.4,
+     "fin": 48.76
+    },
+    {
+     "t": "electoral",
+     "inicio": 48.76,
+     "fin": 49.14
+    },
+    {
+     "t": "para",
+     "inicio": 49.14,
+     "fin": 49.7
+    },
+    {
+     "t": "que",
+     "inicio": 49.7,
+     "fin": 49.82
+    },
+    {
+     "t": "todos",
+     "inicio": 49.82,
+     "fin": 50.02
+    },
+    {
+     "t": "los",
+     "inicio": 50.02,
+     "fin": 50.22
+    },
+    {
+     "t": "españoles",
+     "inicio": 50.22,
+     "fin": 50.66
+    },
+    {
+     "t": "lean",
+     "inicio": 50.66,
+     "fin": 51.32
+    },
+    {
+     "t": "falsos",
+     "inicio": 51.32,
+     "fin": 51.68
+    },
+    {
+     "t": "titulares",
+     "inicio": 51.68,
+     "fin": 52.08
+    },
+    {
+     "t": "contra",
+     "inicio": 52.08,
+     "fin": 52.46
+    },
+    {
+     "t": "mi",
+     "inicio": 52.46,
+     "fin": 52.62
+    },
+    {
+     "t": "justo",
+     "inicio": 52.62,
+     "fin": 52.9
+    },
+    {
+     "t": "antes",
+     "inicio": 52.9,
+     "fin": 53.16
+    },
+    {
+     "t": "de",
+     "inicio": 53.16,
+     "fin": 53.34
+    },
+    {
+     "t": "ir",
+     "inicio": 53.34,
+     "fin": 53.42
+    },
+    {
+     "t": "a",
+     "inicio": 53.42,
+     "fin": 53.46
+    },
+    {
+     "t": "votar",
+     "inicio": 53.46,
+     "fin": 53.96
+    },
+    {
+     "t": "porque",
+     "inicio": 53.96,
+     "fin": 54.28
+    },
+    {
+     "t": "censurarme",
+     "inicio": 54.28,
+     "fin": 55.08
+    },
+    {
+     "t": "de",
+     "inicio": 55.08,
+     "fin": 55.3
+    },
+    {
+     "t": "todos",
+     "inicio": 55.3,
+     "fin": 55.5
+    },
+    {
+     "t": "los",
+     "inicio": 55.5,
+     "fin": 55.72
+    },
+    {
+     "t": "medios",
+     "inicio": 55.72,
+     "fin": 55.92
+    },
+    {
+     "t": "no",
+     "inicio": 55.92,
+     "fin": 56.1
+    },
+    {
+     "t": "les",
+     "inicio": 56.1,
+     "fin": 56.24
+    },
+    {
+     "t": "falta",
+     "inicio": 56.24,
+     "fin": 56.4
+    },
+    {
+     "t": "cuando",
+     "inicio": 56.4,
+     "fin": 56.58
+    },
+    {
+     "t": "estoy",
+     "inicio": 56.58,
+     "fin": 56.8
+    },
+    {
+     "t": "ganando",
+     "inicio": 56.8,
+     "fin": 57.14
+    },
+    {
+     "t": "en",
+     "inicio": 57.14,
+     "fin": 57.6
+    },
+    {
+     "t": "firme",
+     "inicio": 57.6,
+     "fin": 57.88
+    },
+    {
+     "t": "todas",
+     "inicio": 57.88,
+     "fin": 58.08
+    },
+    {
+     "t": "las",
+     "inicio": 58.08,
+     "fin": 58.32
+    },
+    {
+     "t": "causas",
+     "inicio": 58.32,
+     "fin": 58.68
+    },
+    {
+     "t": "con",
+     "inicio": 58.68,
+     "fin": 58.82
+    },
+    {
+     "t": "las",
+     "inicio": 58.82,
+     "fin": 58.94
+    },
+    {
+     "t": "que",
+     "inicio": 58.94,
+     "fin": 59.06
+    },
+    {
+     "t": "les",
+     "inicio": 59.06,
+     "fin": 59.2
+    },
+    {
+     "t": "intentó",
+     "inicio": 59.2,
+     "fin": 59.54
+    },
+    {
+     "t": "perseguir",
+     "inicio": 59.54,
+     "fin": 59.96
+    },
+    {
+     "t": "metodos",
+     "inicio": 59.96,
+     "fin": 60.22
+    },
+    {
+     "t": "de",
+     "inicio": 60.22,
+     "fin": 60.48
+    },
+    {
+     "t": "justicia",
+     "inicio": 60.48,
+     "fin": 60.62
+    },
+    {
+     "t": "de",
+     "inicio": 60.62,
+     "fin": 60.78
+    },
+    {
+     "t": "todo",
+     "inicio": 60.78,
+     "fin": 60.86
+    },
+    {
+     "t": "sistema",
+     "inicio": 60.86,
+     "fin": 61.38
+    },
+    {
+     "t": "corrupción",
+     "inicio": 61.38,
+     "fin": 62.48
+    },
+    {
+     "t": "es",
+     "inicio": 62.48,
+     "fin": 62.92
+    },
+    {
+     "t": "partitotracia",
+     "inicio": 62.92,
+     "fin": 63.84
+    },
+    {
+     "t": "a",
+     "inicio": 63.84,
+     "fin": 64.16
+    },
+    {
+     "t": "este",
+     "inicio": 64.16,
+     "fin": 64.28
+    },
+    {
+     "t": "ritmo",
+     "inicio": 64.28,
+     "fin": 64.58
+    },
+    {
+     "t": "van",
+     "inicio": 64.58,
+     "fin": 65.04
+    },
+    {
+     "t": "a",
+     "inicio": 65.04,
+     "fin": 65.3
+    },
+    {
+     "t": "librarme",
+     "inicio": 65.3,
+     "fin": 66.16
+    },
+    {
+     "t": "de",
+     "inicio": 66.16,
+     "fin": 66.3
+    },
+    {
+     "t": "todas",
+     "inicio": 66.3,
+     "fin": 66.42
+    },
+    {
+     "t": "las",
+     "inicio": 66.42,
+     "fin": 66.6
+    },
+    {
+     "t": "causas",
+     "inicio": 66.6,
+     "fin": 66.88
+    },
+    {
+     "t": "cuando",
+     "inicio": 66.88,
+     "fin": 67.06
+    },
+    {
+     "t": "lleguemos",
+     "inicio": 67.06,
+     "fin": 67.42
+    },
+    {
+     "t": "a",
+     "inicio": 67.42,
+     "fin": 68.12
+    },
+    {
+     "t": "la",
+     "inicio": 68.12,
+     "fin": 68.22
+    },
+    {
+     "t": "presidencia",
+     "inicio": 68.22,
+     "fin": 68.64
+    },
+    {
+     "t": "del",
+     "inicio": 68.64,
+     "fin": 68.8
+    },
+    {
+     "t": "gobierno",
+     "inicio": 68.8,
+     "fin": 68.94
+    },
+    {
+     "t": "de",
+     "inicio": 68.94,
+     "fin": 69.12
+    },
+    {
+     "t": "España",
+     "inicio": 69.12,
+     "fin": 69.38
+    },
+    {
+     "t": "en",
+     "inicio": 69.38,
+     "fin": 69.92
+    },
+    {
+     "t": "fin",
+     "inicio": 69.92,
+     "fin": 70.04
+    },
+    {
+     "t": "el",
+     "inicio": 70.04,
+     "fin": 70.68
+    },
+    {
+     "t": "29",
+     "inicio": 70.68,
+     "fin": 70.96
+    },
+    {
+     "t": "de",
+     "inicio": 70.96,
+     "fin": 71.18
+    },
+    {
+     "t": "noviembre",
+     "inicio": 71.18,
+     "fin": 71.4
+    },
+    {
+     "t": "lo",
+     "inicio": 71.4,
+     "fin": 71.52
+    },
+    {
+     "t": "celebramos",
+     "inicio": 71.52,
+     "fin": 71.9
+    },
+    {
+     "t": "en",
+     "inicio": 71.9,
+     "fin": 72.02
+    },
+    {
+     "t": "las",
+     "inicio": 72.02,
+     "fin": 72.14
+    },
+    {
+     "t": "urnas",
+     "inicio": 72.14,
+     "fin": 72.5
+    },
+    {
+     "t": "para",
+     "inicio": 72.5,
+     "fin": 72.96
+    },
+    {
+     "t": "decirte",
+     "inicio": 72.96,
+     "fin": 73.38
+    },
+    {
+     "t": "una",
+     "inicio": 73.38,
+     "fin": 73.52
+    },
+    {
+     "t": "maldita",
+     "inicio": 73.52,
+     "fin": 73.86
+    },
+    {
+     "t": "vez",
+     "inicio": 73.86,
+     "fin": 74.04
+    },
+    {
+     "t": "mafia",
+     "inicio": 74.04,
+     "fin": 74.56
+    },
+    {
+     "t": "o",
+     "inicio": 74.56,
+     "fin": 75.26
+    },
+    {
+     "t": "patria",
+     "inicio": 75.26,
+     "fin": 75.72
+    },
+    {
+     "t": "para",
+     "inicio": 75.72,
+     "fin": 76.26
+    },
+    {
+     "t": "decirse",
+     "inicio": 76.26,
+     "fin": 76.94
+    },
+    {
+     "t": "acabó",
+     "inicio": 76.94,
+     "fin": 77.24
+    },
+    {
+     "t": "la",
+     "inicio": 77.24,
+     "fin": 77.36
+    },
+    {
+     "t": "fiesta",
+     "inicio": 77.36,
+     "fin": 77.74
+    },
+    {
+     "t": "y",
+     "inicio": 77.74,
+     "fin": 78.24
+    },
+    {
+     "t": "para",
+     "inicio": 78.24,
+     "fin": 78.46
+    },
+    {
+     "t": "decir",
+     "inicio": 78.46,
+     "fin": 78.84
+    },
+    {
+     "t": "todos",
+     "inicio": 78.84,
+     "fin": 79.54
+    },
+    {
+     "t": "juntos",
+     "inicio": 79.54,
+     "fin": 80
+    },
+    {
+     "t": "más",
+     "inicio": 80,
+     "fin": 80.24
+    },
+    {
+     "t": "a",
+     "inicio": 80.24,
+     "fin": 80.3
+    },
+    {
+     "t": "la",
+     "inicio": 80.3,
+     "fin": 80.38
+    },
+    {
+     "t": "ideología",
+     "inicio": 80.38,
+     "fin": 80.8
+    },
+    {
+     "t": "que",
+     "inicio": 80.8,
+     "fin": 81.5
+    },
+    {
+     "t": "España",
+     "inicio": 81.5,
+     "fin": 81.94
+    },
+    {
+     "t": "jamás",
+     "inicio": 81.94,
+     "fin": 82.74
+    },
+    {
+     "t": "será",
+     "inicio": 82.74,
+     "fin": 82.92
+    },
+    {
+     "t": "un",
+     "inicio": 82.92,
+     "fin": 83.1
+    },
+    {
+     "t": "país",
+     "inicio": 83.1,
+     "fin": 83.26
+    },
+    {
+     "t": "serio",
+     "inicio": 83.26,
+     "fin": 83.62
+    },
+    {
+     "t": "hasta",
+     "inicio": 83.62,
+     "fin": 84.88
+    },
+    {
+     "t": "que",
+     "inicio": 84.88,
+     "fin": 85.02
+    },
+    {
+     "t": "dejemos",
+     "inicio": 85.02,
+     "fin": 85.28
+    },
+    {
+     "t": "de",
+     "inicio": 85.28,
+     "fin": 85.4
+    },
+    {
+     "t": "usar",
+     "inicio": 85.4,
+     "fin": 85.56
+    },
+    {
+     "t": "la",
+     "inicio": 85.56,
+     "fin": 85.7
+    },
+    {
+     "t": "justicia",
+     "inicio": 85.7,
+     "fin": 86.16
+    },
+    {
+     "t": "para",
+     "inicio": 86.16,
+     "fin": 86.38
+    },
+    {
+     "t": "perseguir",
+     "inicio": 86.38,
+     "fin": 87.34
+    },
+    {
+     "t": "a",
+     "inicio": 87.34,
+     "fin": 87.52
+    },
+    {
+     "t": "los",
+     "inicio": 87.52,
+     "fin": 87.64
+    },
+    {
+     "t": "rivales",
+     "inicio": 87.64,
+     "fin": 88.06
+    },
+    {
+     "t": "políticos",
+     "inicio": 88.06,
+     "fin": 88.56
+    },
+    {
+     "t": "a",
+     "inicio": 88.56,
+     "fin": 89.18
+    },
+    {
+     "t": "por",
+     "inicio": 89.18,
+     "fin": 89.34
+    },
+    {
+     "t": "ellos",
+     "inicio": 89.34,
+     "fin": 89.54
+    },
+    {
+     "t": "y",
+     "inicio": 89.54,
+     "fin": 89.98
+    },
+    {
+     "t": "felicidades",
+     "inicio": 89.98,
+     "fin": 90.46
+    },
+    {
+     "t": "a",
+     "inicio": 90.46,
+     "fin": 90.62
+    },
+    {
+     "t": "todos",
+     "inicio": 90.62,
+     "fin": 90.8
+    }
+   ],
+   "habla": true
+  },
+  {
+   "id": "ig-18646776862037440",
    "fuente": "instagram",
    "cuenta": "@vox_es",
    "nombre": "VOX 🇪🇸",
    "espacio": "afin",
-   "seguidores": 1245871,
-   "fecha": "2026-11-05T11:16:29+0000",
-   "horas": 0.2,
-   "me_gusta": 409,
-   "comentarios": 13,
-   "viral": 69.8,
-   "enlace": "https://www.instagram.com/reel/DfW5rPZuQXO/",
-   "texto": "¡IMPRESIONANTE ALBACETE!\n\nEs increíble que miles y miles de personas nos acompañen en una declaración a medios.\n\n¡España en pie para echar a Pedro Sánchez de La Moncloa!\n\n🇪🇸",
+   "seguidores": 1245929,
+   "fecha": "2026-11-05T12:38:49+0000",
+   "horas": 0.6,
+   "me_gusta": 808,
+   "comentarios": 12,
+   "viral": 111.4,
+   "enlace": "https://www.instagram.com/reel/DfXDK8ROnIZ/",
+   "texto": "¡GRACIAS ALBACETE!",
    "credito": "Vídeo: @vox_es",
-   "duracion": 10.9,
-   "archivo": "ig-17985506801900259.mp4",
+   "duracion": 14.3,
+   "archivo": "ig-18646776862037440.mp4",
    "frases": [],
    "palabras": [],
    "habla": false
   },
   {
-   "id": "moncloa-041126-sanchez-inauguracion-cumbre-iberoamericana",
-   "fuente": "moncloa",
-   "cuenta": "La Moncloa",
-   "espacio": "gobierno",
-   "fecha": "2026-11-05T11:27:36.051Z",
-   "viral": 50,
-   "enlace": "https://www.lamoncloa.gob.es/multimedia/videos/presidente/Paginas/2026/041126-sanchez-inauguracion-cumbre-iberoamericana.aspx",
-   "texto": "La Moncloa. Pedro Sánchez participa en la inauguración de la XXX Cumbre Iberoamericana | 04/11/2026 [Vídeos/Presidente]",
-   "credito": "Vídeo: La Moncloa",
-   "duracion": 497,
-   "archivo": "moncloa-041126-sanchez-inauguracion-cumbre-iberoamericana.mp4",
+   "id": "ig-18080047049421281",
+   "fuente": "instagram",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1245929,
+   "fecha": "2026-11-05T12:25:54+0000",
+   "horas": 0.8,
+   "me_gusta": 792,
+   "comentarios": 45,
+   "viral": 86.9,
+   "enlace": "https://www.instagram.com/reel/DfXBohcOPf5/",
+   "texto": "🔴 santi_abascal contesta a las manipulaciones constantes de TVE:\n\n“TVE lleva mucho tiempo manipulando las posiciones de VOX, mis propias palabras y cortando mis declaraciones de manera maliciosa.\n\nCuando las cosas cambien, haremos una televisión para todos, no una televisión ideológica al servicio de Pedro Sánchez”.",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 55.5,
+   "archivo": "ig-18080047049421281.mp4",
    "frases": [
     {
-     "inicio": 0.53,
-     "fin": 7.59,
-     "texto": "Majestades, jefas y jefes de Estado de Gobierno iberoamericanos, querido Antonio Gutiérrez,"
+     "inicio": 0,
+     "fin": 4.08,
+     "texto": "Pero, en esta respuesta, yo, en primer lugar, quiero manifestarle a usted todo el respeto,"
     },
     {
-     "inicio": 7.71,
-     "fin": 12.39,
-     "texto": "secretario general de Naciones Unidas, querido Antonio Acosta, presidente del Consejo Europeo."
+     "inicio": 4.18,
+     "fin": 9.06,
+     "texto": "porque tiene que hacer su trabajo y yo distingo absolutamente siempre entre los profesionales"
     },
     {
-     "inicio": 13.19,
-     "fin": 16.93,
-     "texto": "Representantes de organismos internacionales, presidente del Congreso de los Diputados,"
+     "inicio": 9.06,
+     "fin": 12.76,
+     "texto": "de los medios de comunicación que vienen aquí y entre las líneas editoriales de las"
     },
     {
-     "inicio": 17.07,
-     "fin": 21.63,
-     "texto": "presidente del Senado, presidente del Tribunal Constitucional, presidente también del"
+     "inicio": 12.76,
+     "fin": 13.32,
+     "texto": "cadenas."
     },
     {
-     "inicio": 21.63,
-     "fin": 27.31,
-     "texto": "Consejo General del Poder Judicial, vicepresidentas, ministros, ministras, embajadores, embajadoras"
+     "inicio": 13.52,
+     "fin": 18.56,
+     "texto": "Pero, televisión española en estos momentos y muy especialmente algunos programas, creo"
     },
     {
-     "inicio": 27.31,
-     "fin": 30.59,
-     "texto": "acreditados en España, presidenta de la Comunidad Autónoma de Madrid,"
+     "inicio": 18.56,
+     "fin": 19.98,
+     "texto": "que sean..."
     },
     {
-     "inicio": 31.15,
-     "fin": 36.23,
-     "texto": "alcalde de Madrid, autoridades, señores y señores, bienvenidos y bienvenidas a Madrid."
+     "inicio": 19.98,
+     "fin": 24.68,
+     "texto": "No, silencio, por favor, creo que se han convertido en los jefes de la campaña"
     },
     {
-     "inicio": 36.71,
-     "fin": 38.29,
-     "texto": "Bienvenidos y bienvenidas a España."
+     "inicio": 24.68,
+     "fin": 28.82,
+     "texto": "de Pedro Sánchez, hace ya mucho tiempo que están insistiendo en manipular las"
     },
     {
-     "inicio": 39.39,
-     "fin": 43.09,
-     "texto": "Para mí, como presidente del Gobierno, es un honor poder recibirles en esta ciudad"
+     "inicio": 28.82,
+     "fin": 34.16,
+     "texto": "posiciones de Vox, mis propias palabras, cortando mis declaraciones de manera maliciosa y por"
     },
     {
-     "inicio": 43.09,
-     "fin": 49.47,
-     "texto": "una de los muchos corazones por los que Latinoamérica, latidos,"
+     "inicio": 34.16,
+     "fin": 38.98,
+     "texto": "lo tanto, yo no puedo contestar al activismo, probablemente ahora nos están emitiendo en"
     },
     {
-     "inicio": 50.09,
-     "fin": 53.55,
-     "texto": "como hemos visto en el vídeo, de celebración en los momentos de alegría,"
+     "inicio": 38.98,
+     "fin": 42.82,
+     "texto": "directo y tengo que decirle a quien dirija ese programa, el que sea, que no sé cuál"
     },
     {
-     "inicio": 53.55,
-     "fin": 57.55,
-     "texto": "pero también de solidaridad en los momentos difíciles, en los momentos complejos."
+     "inicio": 42.82,
+     "fin": 47.26,
+     "texto": "es en este momento, que no están dando información, que están manipulando los españoles y"
     },
     {
-     "inicio": 57.73,
-     "fin": 62.45,
-     "texto": "Por eso, quiero agradecer de corazón, nuevamente, todas las muestras de cariño"
+     "inicio": 47.26,
+     "fin": 50.82,
+     "texto": "que cuando las cosas cambien, si los españoles quieren, pues haremos una televisión para"
     },
     {
-     "inicio": 62.45,
-     "fin": 66.55,
-     "texto": "que hemos recibido estos días tras el trágico accidente ferroviario de Urda,"
-    },
-    {
-     "inicio": 66.71,
-     "fin": 70.91,
-     "texto": "porque nuestro recuerdo sigue, por supuesto, estando con los fallecidos,"
-    },
-    {
-     "inicio": 71.13,
-     "fin": 74.47,
-     "texto": "con los heridos, con sus familiares y con sus seres queridos,"
-    },
-    {
-     "inicio": 74.77,
-     "fin": 78.77,
-     "texto": "y siempre lo va a estar y esta cumbre y todo lo bueno que de ella va a salir"
-    },
-    {
-     "inicio": 78.77,
-     "fin": 82.61,
-     "texto": "es un homenaje, un homenaje, perdón, a todos ellos y a todas ellas."
-    },
-    {
-     "inicio": 83.53,
-     "fin": 86.81,
-     "texto": "Señoras y señores, antes lo decía el secretario general,"
-    },
-    {
-     "inicio": 87.57,
-     "fin": 92.87,
-     "texto": "hace 35 años nuestros países se reunieron por primera vez en Guadalajara"
-    },
-    {
-     "inicio": 92.87,
-     "fin": 97.41,
-     "texto": "y lo hicieron con una convicción que creo que sigue plenamente vigente"
-    },
-    {
-     "inicio": 97.41,
-     "fin": 102.79,
-     "texto": "y es que tenemos mucho más que ganar trabajando juntos que caminando por separado."
-    },
-    {
-     "inicio": 103.49,
-     "fin": 109.03,
-     "texto": "Aquella cumbre no surgió de la nada, fue el resultado de décadas de intercambios,"
-    },
-    {
-     "inicio": 109.03,
-     "fin": 113.03,
-     "texto": "de vínculos humanos, de una conversación que nunca dejó de fluir"
-    },
-    {
-     "inicio": 113.03,
-     "fin": 115.49,
-     "texto": "entre las dos orillas del Atlántico."
-    },
-    {
-     "inicio": 116.15,
-     "fin": 119.63,
-     "texto": "Nuestro espacio cultural y lingüístico conecta a más de 700 millones"
-    },
-    {
-     "inicio": 119.63,
-     "fin": 122.81,
-     "texto": "de seres humanos a través del español, a través del portugués,"
-    },
-    {
-     "inicio": 123.35,
-     "fin": 127.19,
-     "texto": "sin olvidar, sin duda, alguna la riqueza de nuestras lenguas oficiales"
-    },
-    {
-     "inicio": 127.19,
-     "fin": 129.01,
-     "texto": "y también de las lenguas indígenas."
-    },
-    {
-     "inicio": 129.61,
-     "fin": 132.35,
-     "texto": "Somos, por tanto, una potencia cultural mundial."
-    },
-    {
-     "inicio": 133.25,
-     "fin": 136.45,
-     "texto": "Lo vemos en la pintura de Frida Kahlo o de Pablo Picasso,"
-    },
-    {
-     "inicio": 136.45,
-     "fin": 140.19,
-     "texto": "en la arquitectura de Oscar Niemeyer o de Antonio Gaudí,"
-    },
-    {
-     "inicio": 140.57,
-     "fin": 144.87,
-     "texto": "en nuestro Premio Nobel de Literatura de García Márquez o de José Salamago"
-    },
-    {
-     "inicio": 144.87,
-     "fin": 147.45,
-     "texto": "y, por supuesto, en la música de Rosalía, de Saquira,"
-    },
-    {
-     "inicio": 148.01,
-     "fin": 149.83,
-     "texto": "que hoy llenan estadios en todo el mundo."
-    },
-    {
-     "inicio": 150.55,
-     "fin": 153.65,
-     "texto": "Pero por encima de todo ello, somos una comunidad de valores"
-    },
-    {
-     "inicio": 153.65,
-     "fin": 157.81,
-     "texto": "y, si me lo permiten, también de afectos que prevalecen siempre"
-    },
-    {
-     "inicio": 157.81,
-     "fin": 162.21,
-     "texto": "por encima de cualquier coyuntura y también de cualquier diferencia."
-    },
-    {
-     "inicio": 162.71,
-     "fin": 166.27,
-     "texto": "Y las cumbres iberoamericanas son también la expresión del valor"
-    },
-    {
-     "inicio": 166.27,
-     "fin": 167.53,
-     "texto": "de esa comunidad."
-    },
-    {
-     "inicio": 168.03,
-     "fin": 171.41,
-     "texto": "Son mucho más que meros espacios de encuentro y de diálogo,"
-    },
-    {
-     "inicio": 171.65,
-     "fin": 175.21,
-     "texto": "que ya de por sí, esto en los tiempos que corren sería suficiente."
-    },
-    {
-     "inicio": 176.45,
-     "fin": 178.03,
-     "texto": "Como he dicho antes, son mucho más."
-    },
-    {
-     "inicio": 178.93,
-     "fin": 183.19,
-     "texto": "Las cumbres iberoamericanas son la expresión del valor de esa comunidad."
-    },
-    {
-     "inicio": 184.05,
-     "fin": 188.23,
-     "texto": "Son, por tanto, nuestros vínculos que se convierten en hechos"
-    },
-    {
-     "inicio": 188.23,
-     "fin": 191.55,
-     "texto": "y nuestra solidaridad en compromisos concretos."
-    },
-    {
-     "inicio": 192.05,
-     "fin": 194.35,
-     "texto": "Y hay un ejemplo que me gustaría rememorar"
-    },
-    {
-     "inicio": 194.35,
-     "fin": 197.41,
-     "texto": "en unas preves palabras de esta intervención."
-    },
-    {
-     "inicio": 197.69,
-     "fin": 200.33,
-     "texto": "Fue precisamente en este foro, en una cumbre iberoamericana,"
-    },
-    {
-     "inicio": 200.99,
-     "fin": 203.45,
-     "texto": "donde España adquirió el compromiso de donar"
-    },
-    {
-     "inicio": 203.45,
-     "fin": 206.37,
-     "texto": "una parte de su stock de vacunas frente a la COVID-19"
-    },
-    {
-     "inicio": 206.71,
-     "fin": 209.27,
-     "texto": "a los países hermanos de América Latina y del Caribe."
-    },
-    {
-     "inicio": 209.97,
-     "fin": 214.09,
-     "texto": "Ese es el valor real del sistema iberoamericano"
-    },
-    {
-     "inicio": 214.77,
-     "fin": 217.93,
-     "texto": "y del que esta cumbre es la pieza esencial."
-    },
-    {
-     "inicio": 218.89,
-     "fin": 221.87,
-     "texto": "Ahora ha llegado el momento de que ese vínculo cultural"
-    },
-    {
-     "inicio": 221.87,
-     "fin": 223.81,
-     "texto": "y emocional se traduzca también"
-    },
-    {
-     "inicio": 223.81,
-     "fin": 227.29,
-     "texto": "en una mayor influencia política, económica y diplomática"
-    },
-    {
-     "inicio": 227.29,
-     "fin": 229.09,
-     "texto": "que necesita, por supuesto, nuestra comunidad,"
-    },
-    {
-     "inicio": 229.19,
-     "fin": 231.63,
-     "texto": "pero yo creo que necesita especialmente nuestro mundo."
-    },
-    {
-     "inicio": 232.15,
-     "fin": 233.93,
-     "texto": "Porque, evidentemente, el mundo está cambiando,"
-    },
-    {
-     "inicio": 234.21,
-     "fin": 236.31,
-     "texto": "está en transformación y lo está haciendo"
-    },
-    {
-     "inicio": 236.31,
-     "fin": 238.39,
-     "texto": "a una velocidad extraordinaria."
-    },
-    {
-     "inicio": 238.49,
-     "fin": 240.85,
-     "texto": "Algunas veces cuesta asimilar todos los cambios"
-    },
-    {
-     "inicio": 240.85,
-     "fin": 243.37,
-     "texto": "tan intensos que estamos viviendo."
-    },
-    {
-     "inicio": 243.97,
-     "fin": 245.65,
-     "texto": "Vemos cómo se multiplican los conflictos."
-    },
-    {
-     "inicio": 245.65,
-     "fin": 248.31,
-     "texto": "Antes, Andrés, el secretario general ha hecho referencia a ello."
-    },
-    {
-     "inicio": 248.71,
-     "fin": 250.77,
-     "texto": "¿Cómo se cuestionan las reglas internacionales"
-    },
-    {
-     "inicio": 250.77,
-     "fin": 253.09,
-     "texto": "y cómo las grandes potencias compiten"
-    },
-    {
-     "inicio": 253.09,
-     "fin": 255.11,
-     "texto": "por los recursos, por la tecnología,"
-    },
-    {
-     "inicio": 255.49,
-     "fin": 257.27,
-     "texto": "en definitiva, por la influencia global?"
-    },
-    {
-     "inicio": 258.23,
-     "fin": 261.39,
-     "texto": "Vivimos un tiempo en el que demasiados países"
-    },
-    {
-     "inicio": 261.99,
-     "fin": 264.23,
-     "texto": "parecen haber llegado a la misma conclusión,"
-    },
-    {
-     "inicio": 264.83,
-     "fin": 266.07,
-     "texto": "desafortunada, pero es así."
-    },
-    {
-     "inicio": 266.81,
-     "fin": 268.91,
-     "texto": "Y es que para protegerse hay que cerrarse."
-    },
-    {
-     "inicio": 269.71,
-     "fin": 272.47,
-     "texto": "Cerrar fronteras, levantar barreras,"
-    },
-    {
-     "inicio": 273.01,
-     "fin": 274.43,
-     "texto": "reducir la cooperación,"
-    },
-    {
-     "inicio": 275.41,
-     "fin": 277.43,
-     "texto": "contemplar al resto del mundo como una amenaza,"
-    },
-    {
-     "inicio": 277.81,
-     "fin": 280.59,
-     "texto": "como un riesgo, en lugar de como una oportunidad,"
-    },
-    {
-     "inicio": 280.93,
-     "fin": 281.51,
-     "texto": "que es lo que es."
-    },
-    {
-     "inicio": 282.23,
-     "fin": 285.33,
-     "texto": "Pues bien, yo creo que debemos hacer exactamente lo contrario."
-    },
-    {
-     "inicio": 286.15,
-     "fin": 287.37,
-     "texto": "Frente a quienes se cierran,"
-    },
-    {
-     "inicio": 287.71,
-     "fin": 289.29,
-     "texto": "nosotros debemos abrirnos."
-    },
-    {
-     "inicio": 289.87,
-     "fin": 291.27,
-     "texto": "Frente a quienes levantan muros,"
-    },
-    {
-     "inicio": 291.55,
-     "fin": 293.73,
-     "texto": "nosotros debemos construir alianzas."
-    },
-    {
-     "inicio": 294.25,
-     "fin": 296.01,
-     "texto": "Y frente a los que alimentan la guerra,"
-    },
-    {
-     "inicio": 296.63,
-     "fin": 299.37,
-     "texto": "nosotros debemos ser sembradores de paz."
-    },
-    {
-     "inicio": 300.39,
-     "fin": 301.75,
-     "texto": "Europa tiene, por supuesto,"
-    },
-    {
-     "inicio": 301.93,
-     "fin": 304.09,
-     "texto": "que mirar más allá de sus fronteras,"
-    },
-    {
-     "inicio": 304.09,
-     "fin": 305.89,
-     "texto": "tiene que ampliar sus alianzas,"
-    },
-    {
-     "inicio": 306.17,
-     "fin": 307.69,
-     "texto": "tiene que hacer nuevos amigos"
-    },
-    {
-     "inicio": 307.69,
-     "fin": 309.89,
-     "texto": "y cuidar a los que ya tiene."
-    },
-    {
-     "inicio": 310.43,
-     "fin": 312.67,
-     "texto": "Y estoy convencido de que no existe"
-    },
-    {
-     "inicio": 312.67,
-     "fin": 314.33,
-     "texto": "ninguna otra región en el mundo,"
-    },
-    {
-     "inicio": 314.41,
-     "fin": 316.63,
-     "texto": "esto es algo que he compartido con el presidente del Consejo,"
-    },
-    {
-     "inicio": 316.79,
-     "fin": 317.99,
-     "texto": "con mi amigo Antonio Costa,"
-    },
-    {
-     "inicio": 318.63,
-     "fin": 320.95,
-     "texto": "con la que Europa tenga tantos motivos"
-    },
-    {
-     "inicio": 320.95,
-     "fin": 324.29,
-     "texto": "para entenderse como con la comunidad ciberamericana."
-    },
-    {
-     "inicio": 325.09,
-     "fin": 326.79,
-     "texto": "Por nuestra historia compartida, por supuesto,"
-    },
-    {
-     "inicio": 327.27,
-     "fin": 328.11,
-     "texto": "por nuestras lenguas,"
-    },
-    {
-     "inicio": 328.57,
-     "fin": 330.27,
-     "texto": "por nuestros vínculos humanos,"
-    },
-    {
-     "inicio": 330.71,
-     "fin": 332.67,
-     "texto": "económicos, culturales, afectivos,"
-    },
-    {
-     "inicio": 332.67,
-     "fin": 334.51,
-     "texto": "en definitiva, pero sobre todo,"
-    },
-    {
-     "inicio": 334.91,
-     "fin": 336.77,
-     "texto": "por los valores e intereses"
-    },
-    {
-     "inicio": 336.77,
-     "fin": 338.59,
-     "texto": "que podemos defender juntos y juntas."
-    },
-    {
-     "inicio": 338.93,
-     "fin": 340.57,
-     "texto": "La democracia, los derechos humanos,"
-    },
-    {
-     "inicio": 341.01,
-     "fin": 342.83,
-     "texto": "la paz, el desarrollo sostenible,"
-    },
-    {
-     "inicio": 343.39,
-     "fin": 345.09,
-     "texto": "un orden internacional basado en reglas"
-    },
-    {
-     "inicio": 345.09,
-     "fin": 346.53,
-     "texto": "y, en fin,"
-    },
-    {
-     "inicio": 346.87,
-     "fin": 348.65,
-     "texto": "una ley que sea la ley de todos"
-    },
-    {
-     "inicio": 348.65,
-     "fin": 350.15,
-     "texto": "y no la de más fuerte."
-    },
-    {
-     "inicio": 350.77,
-     "fin": 352.55,
-     "texto": "España lleva años trabajando"
-    },
-    {
-     "inicio": 352.55,
-     "fin": 355.09,
-     "texto": "para acercar Europa, América Latina"
-    },
-    {
-     "inicio": 355.09,
-     "fin": 355.61,
-     "texto": "y el Caribe."
-    },
-    {
-     "inicio": 356.05,
-     "fin": 357.85,
-     "texto": "Lo hicimos impulsando una nueva etapa"
-    },
-    {
-     "inicio": 357.85,
-     "fin": 360.07,
-     "texto": "en las relaciones entre la Unión Europea y la Celac"
-    },
-    {
-     "inicio": 360.07,
-     "fin": 361.25,
-     "texto": "que se plasmó precisamente"
-    },
-    {
-     "inicio": 361.25,
-     "fin": 363.41,
-     "texto": "la declaración conjunta de Santa Marta"
-    },
-    {
-     "inicio": 363.41,
-     "fin": 365.39,
-     "texto": "y también defendiendo el acuerdo"
-    },
-    {
-     "inicio": 365.39,
-     "fin": 367.43,
-     "texto": "entre la Unión Europea y el Mercosur."
-    },
-    {
-     "inicio": 367.73,
-     "fin": 369.53,
-     "texto": "Por fin, después de décadas y décadas"
-    },
-    {
-     "inicio": 369.97,
-     "fin": 371.65,
-     "texto": "se ha logrado, llamado"
-    },
-    {
-     "inicio": 371.65,
-     "fin": 374.09,
-     "texto": "a crear una de las mayores áreas"
-    },
-    {
-     "inicio": 374.87,
-     "fin": 375.71,
-     "texto": "comerciales del mundo"
-    },
-    {
-     "inicio": 375.71,
-     "fin": 377.47,
-     "texto": "promoviendo nuevas inversiones"
-    },
-    {
-     "inicio": 377.47,
-     "fin": 379.15,
-     "texto": "y una cooperación cada vez más estrecha."
-    },
-    {
-     "inicio": 379.73,
-     "fin": 381.83,
-     "texto": "Y vamos a seguir haciéndolo, estoy convencido de ello,"
-    },
-    {
-     "inicio": 382.19,
-     "fin": 383.99,
-     "texto": "porque una Europa más abierta"
-    },
-    {
-     "inicio": 383.99,
-     "fin": 385.37,
-     "texto": "a América Latina y al Caribe,"
-    },
-    {
-     "inicio": 385.53,
-     "fin": 387.45,
-     "texto": "sin duda alguna va a ser una Europa"
-    },
-    {
-     "inicio": 387.45,
-     "fin": 388.17,
-     "texto": "más fuerte."
-    },
-    {
-     "inicio": 388.71,
-     "fin": 390.91,
-     "texto": "Y también una América Latina y un Caribe"
-    },
-    {
-     "inicio": 391.3,
-     "fin": 392.33,
-     "texto": "más vinculada a Europa,"
-    },
-    {
-     "inicio": 392.91,
-     "fin": 395.49,
-     "texto": "yo creo que también será una América Latina"
-    },
-    {
-     "inicio": 395.49,
-     "fin": 397.45,
-     "texto": "y un Caribe con más oportunidades"
-    },
-    {
-     "inicio": 397.45,
-     "fin": 399.39,
-     "texto": "y con mayor capacidad de influencia."
-    },
-    {
-     "inicio": 399.75,
-     "fin": 401.31,
-     "texto": "Yo creo que ese es el espíritu"
-    },
-    {
-     "inicio": 401.31,
-     "fin": 402.57,
-     "texto": "de este espacio uberamericano"
-    },
-    {
-     "inicio": 402.57,
-     "fin": 405.85,
-     "texto": "que aquí nos congrega, ser el catalizador"
-    },
-    {
-     "inicio": 405.85,
-     "fin": 408.13,
-     "texto": "entre ambos lados del Atlántico."
-    },
-    {
-     "inicio": 408.55,
-     "fin": 409.77,
-     "texto": "El motor de una colaboración"
-    },
-    {
-     "inicio": 409.77,
-     "fin": 411.57,
-     "texto": "más estrecha entre América Latina, el Caribe"
-    },
-    {
-     "inicio": 411.57,
-     "fin": 413.85,
-     "texto": "y Europa en un momento en el que el mundo"
-    },
-    {
-     "inicio": 413.85,
-     "fin": 414.97,
-     "texto": "precisamente necesita"
-    },
-    {
-     "inicio": 414.97,
-     "fin": 416.47,
-     "texto": "que trabajemos juntos"
-    },
-    {
-     "inicio": 416.47,
-     "fin": 418.33,
-     "texto": "y hacemos nuestra voz."
-    },
-    {
-     "inicio": 418.91,
-     "fin": 421.05,
-     "texto": "Por eso, en fin, yo lo dejo ahí como reflexión"
-    },
-    {
-     "inicio": 421.05,
-     "fin": 422.85,
-     "texto": "un paso más allá, lo hemos visto"
-    },
-    {
-     "inicio": 422.85,
-     "fin": 424.63,
-     "texto": "por ejemplo en estos últimos tiempos,"
-    },
-    {
-     "inicio": 424.65,
-     "fin": 427.03,
-     "texto": "querido Antonio con Canadá,"
-    },
-    {
-     "inicio": 427.05,
-     "fin": 428.71,
-     "texto": "pero se ha dado un paso al frente"
-    },
-    {
-     "inicio": 428.71,
-     "fin": 431.41,
-     "texto": "para estrechar las relaciones entre la Unión Europea"
-    },
-    {
-     "inicio": 431.41,
-     "fin": 432.15,
-     "texto": "y Canadá."
-    },
-    {
-     "inicio": 432.37,
-     "fin": 434.65,
-     "texto": "Hoy quiero hacer una invitación"
-    },
-    {
-     "inicio": 434.65,
-     "fin": 436.61,
-     "texto": "a nuestros amigos y hermanos"
-    },
-    {
-     "inicio": 436.61,
-     "fin": 438.77,
-     "texto": "y hermanas de América Latina y el Caribe"
-    },
-    {
-     "inicio": 438.77,
-     "fin": 441.17,
-     "texto": "que a lo mejor sigan por qué no"
-    },
-    {
-     "inicio": 441.17,
-     "fin": 441.99,
-     "texto": "ese ejemplo."
-    },
-    {
-     "inicio": 441.99,
-     "fin": 444.41,
-     "texto": "Que América Latina y el Caribe"
-    },
-    {
-     "inicio": 444.41,
-     "fin": 446.07,
-     "texto": "estreche sus lazos con Europa"
-    },
-    {
-     "inicio": 446.07,
-     "fin": 448.11,
-     "texto": "que ambas regiones construyan"
-    },
-    {
-     "inicio": 448.11,
-     "fin": 450.25,
-     "texto": "una alianza más fuerte, más ambiciosa"
-    },
-    {
-     "inicio": 450.25,
-     "fin": 451.41,
-     "texto": "y por qué no decirlo también"
-    },
-    {
-     "inicio": 451.41,
-     "fin": 452.89,
-     "texto": "con mayor peso en el mundo."
-    },
-    {
-     "inicio": 453.49,
-     "fin": 455.53,
-     "texto": "Y quiero decirles para finalizar algo"
-    },
-    {
-     "inicio": 455.53,
-     "fin": 456.81,
-     "texto": "con total claridad."
-    },
-    {
-     "inicio": 457.11,
-     "fin": 460.13,
-     "texto": "España siempre va a estar ahí, siempre va a estar ahí."
-    },
-    {
-     "inicio": 460.65,
-     "fin": 462.25,
-     "texto": "Para abrirles las puertas de Europa"
-    },
-    {
-     "inicio": 462.25,
-     "fin": 464.09,
-     "texto": "junto con nuestros hermanos portugueses"
-    },
-    {
-     "inicio": 464.09,
-     "fin": 466.49,
-     "texto": "que siempre que llamen a ellas"
-    },
-    {
-     "inicio": 466.49,
-     "fin": 468.91,
-     "texto": "allí estará la Península Ibérica."
-    },
-    {
-     "inicio": 469.21,
-     "fin": 470.47,
-     "texto": "Porque nuestros pueblos"
-    },
-    {
-     "inicio": 470.47,
-     "fin": 471.49,
-     "texto": "llevan siglos"
-    },
-    {
-     "inicio": 472.17,
-     "fin": 473.95,
-     "texto": "tendiendo puentes a través del Atlántico"
-    },
-    {
-     "inicio": 474.27,
-     "fin": 475.93,
-     "texto": "y hoy nos corresponde construir"
-    },
-    {
-     "inicio": 476.25,
-     "fin": 478.25,
-     "texto": "los que necesitarán, como hemos visto"
-    },
-    {
-     "inicio": 478.25,
-     "fin": 480.03,
-     "texto": "también en estos dibujos"
-    },
-    {
-     "inicio": 480.03,
-     "fin": 481.59,
-     "texto": "las próximas generaciones."
-    },
-    {
-     "inicio": 482.15,
-     "fin": 483.83,
-     "texto": "No queremos un mundo de países"
-    },
-    {
-     "inicio": 483.83,
-     "fin": 485.29,
-     "texto": "cada vez más solos."
-    },
-    {
-     "inicio": 485.37,
-     "fin": 487.79,
-     "texto": "Queremos un mundo de países cada vez"
-    },
-    {
-     "inicio": 487.79,
-     "fin": 488.53,
-     "texto": "más unidos."
-    },
-    {
-     "inicio": 489.09,
-     "fin": 491.03,
-     "texto": "Y no se me ocurre un mejor lugar"
-    },
-    {
-     "inicio": 491.03,
-     "fin": 492.91,
-     "texto": "que esta comunidad ciberamericana"
-    },
-    {
-     "inicio": 492.91,
-     "fin": 494.59,
-     "texto": "para empezar a construirlo."
-    },
-    {
-     "inicio": 494.71,
-     "fin": 495.71,
-     "texto": "Nada más y muchas gracias."
+     "inicio": 50.82,
+     "fin": 54.18,
+     "texto": "todos, no una televisión ideológica al servicio de Pedro Sánchez."
     }
    ],
    "palabras": [
     {
-     "t": "Majestades,",
-     "inicio": 0.53,
-     "fin": 1.43
-    },
-    {
-     "t": "jefas",
-     "inicio": 2.23,
-     "fin": 2.61
-    },
-    {
-     "t": "y",
-     "inicio": 2.61,
-     "fin": 2.71
-    },
-    {
-     "t": "jefes",
-     "inicio": 2.71,
-     "fin": 3.19
-    },
-    {
-     "t": "de",
-     "inicio": 3.19,
-     "fin": 3.51
-    },
-    {
-     "t": "Estado",
-     "inicio": 3.51,
-     "fin": 3.93
-    },
-    {
-     "t": "de",
-     "inicio": 3.93,
-     "fin": 4.11
-    },
-    {
-     "t": "Gobierno",
-     "inicio": 4.11,
-     "fin": 4.51
-    },
-    {
-     "t": "iberoamericanos,",
-     "inicio": 4.51,
-     "fin": 5.81
-    },
-    {
-     "t": "querido",
-     "inicio": 6.41,
-     "fin": 6.73
-    },
-    {
-     "t": "Antonio",
-     "inicio": 6.73,
-     "fin": 7.15
-    },
-    {
-     "t": "Gutiérrez,",
-     "inicio": 7.15,
-     "fin": 7.59
-    },
-    {
-     "t": "secretario",
-     "inicio": 7.71,
-     "fin": 7.91
-    },
-    {
-     "t": "general",
-     "inicio": 7.91,
-     "fin": 8.17
-    },
-    {
-     "t": "de",
-     "inicio": 8.17,
-     "fin": 8.31
-    },
-    {
-     "t": "Naciones",
-     "inicio": 8.31,
-     "fin": 8.57
-    },
-    {
-     "t": "Unidas,",
-     "inicio": 8.57,
-     "fin": 8.97
-    },
-    {
-     "t": "querido",
-     "inicio": 9.67,
-     "fin": 9.91
-    },
-    {
-     "t": "Antonio",
-     "inicio": 9.91,
-     "fin": 10.31
-    },
-    {
-     "t": "Acosta,",
-     "inicio": 10.31,
-     "fin": 10.91
-    },
-    {
-     "t": "presidente",
-     "inicio": 11.11,
-     "fin": 11.29
-    },
-    {
-     "t": "del",
-     "inicio": 11.29,
-     "fin": 11.59
-    },
-    {
-     "t": "Consejo",
-     "inicio": 11.59,
-     "fin": 11.91
-    },
-    {
-     "t": "Europeo.",
-     "inicio": 11.91,
-     "fin": 12.39
-    },
-    {
-     "t": "Representantes",
-     "inicio": 13.19,
-     "fin": 13.73
-    },
-    {
-     "t": "de",
-     "inicio": 13.73,
-     "fin": 13.89
-    },
-    {
-     "t": "organismos",
-     "inicio": 13.89,
-     "fin": 14.27
-    },
-    {
-     "t": "internacionales,",
-     "inicio": 14.27,
-     "fin": 15.19
-    },
-    {
-     "t": "presidente",
-     "inicio": 15.37,
-     "fin": 15.53
-    },
-    {
-     "t": "del",
-     "inicio": 15.53,
-     "fin": 15.95
-    },
-    {
-     "t": "Congreso",
-     "inicio": 15.95,
-     "fin": 16.27
-    },
-    {
-     "t": "de",
-     "inicio": 16.27,
-     "fin": 16.41
-    },
-    {
-     "t": "los",
-     "inicio": 16.41,
-     "fin": 16.49
-    },
-    {
-     "t": "Diputados,",
-     "inicio": 16.49,
-     "fin": 16.93
-    },
-    {
-     "t": "presidente",
-     "inicio": 17.07,
-     "fin": 17.33
-    },
-    {
-     "t": "del",
-     "inicio": 17.33,
-     "fin": 17.63
-    },
-    {
-     "t": "Senado,",
-     "inicio": 17.63,
-     "fin": 17.99
-    },
-    {
-     "t": "presidente",
-     "inicio": 18.59,
-     "fin": 18.95
-    },
-    {
-     "t": "del",
-     "inicio": 18.95,
-     "fin": 19.17
-    },
-    {
-     "t": "Tribunal",
-     "inicio": 19.17,
-     "fin": 19.43
-    },
-    {
-     "t": "Constitucional,",
-     "inicio": 19.43,
-     "fin": 20.13
-    },
-    {
-     "t": "presidente",
-     "inicio": 20.63,
-     "fin": 21.01
-    },
-    {
-     "t": "también",
-     "inicio": 21.01,
-     "fin": 21.41
-    },
-    {
-     "t": "del",
-     "inicio": 21.41,
-     "fin": 21.63
-    },
-    {
-     "t": "Consejo",
-     "inicio": 21.63,
-     "fin": 21.97
-    },
-    {
-     "t": "General",
-     "inicio": 21.97,
-     "fin": 22.25
-    },
-    {
-     "t": "del",
-     "inicio": 22.25,
-     "fin": 22.43
-    },
-    {
-     "t": "Poder",
-     "inicio": 22.43,
-     "fin": 22.63
-    },
-    {
-     "t": "Judicial,",
-     "inicio": 22.63,
-     "fin": 23.13
-    },
-    {
-     "t": "vicepresidentas,",
-     "inicio": 23.73,
-     "fin": 24.41
-    },
-    {
-     "t": "ministros,",
-     "inicio": 24.53,
-     "fin": 24.83
-    },
-    {
-     "t": "ministras,",
-     "inicio": 24.97,
-     "fin": 25.37
-    },
-    {
-     "t": "embajadores,",
-     "inicio": 25.79,
-     "fin": 26.19
-    },
-    {
-     "t": "embajadoras",
-     "inicio": 26.35,
-     "fin": 27.31
-    },
-    {
-     "t": "acreditados",
-     "inicio": 27.31,
-     "fin": 27.95
+     "t": "Pero,",
+     "inicio": 0,
+     "fin": 0.12
     },
     {
      "t": "en",
-     "inicio": 27.95,
-     "fin": 28.11
-    },
-    {
-     "t": "España,",
-     "inicio": 28.11,
-     "fin": 28.37
-    },
-    {
-     "t": "presidenta",
-     "inicio": 28.75,
-     "fin": 29.23
-    },
-    {
-     "t": "de",
-     "inicio": 29.23,
-     "fin": 29.31
-    },
-    {
-     "t": "la",
-     "inicio": 29.31,
-     "fin": 29.37
-    },
-    {
-     "t": "Comunidad",
-     "inicio": 29.37,
-     "fin": 29.73
-    },
-    {
-     "t": "Autónoma",
-     "inicio": 29.73,
-     "fin": 30.19
-    },
-    {
-     "t": "de",
-     "inicio": 30.19,
-     "fin": 30.31
-    },
-    {
-     "t": "Madrid,",
-     "inicio": 30.31,
-     "fin": 30.59
-    },
-    {
-     "t": "alcalde",
-     "inicio": 31.15,
-     "fin": 31.61
-    },
-    {
-     "t": "de",
-     "inicio": 31.61,
-     "fin": 31.69
-    },
-    {
-     "t": "Madrid,",
-     "inicio": 31.69,
-     "fin": 31.93
-    },
-    {
-     "t": "autoridades,",
-     "inicio": 32.39,
-     "fin": 32.91
-    },
-    {
-     "t": "señores",
-     "inicio": 33.81,
-     "fin": 34.13
-    },
-    {
-     "t": "y",
-     "inicio": 34.13,
-     "fin": 34.27
-    },
-    {
-     "t": "señores,",
-     "inicio": 34.27,
-     "fin": 34.61
-    },
-    {
-     "t": "bienvenidos",
-     "inicio": 34.85,
-     "fin": 35.19
-    },
-    {
-     "t": "y",
-     "inicio": 35.19,
-     "fin": 35.45
-    },
-    {
-     "t": "bienvenidas",
-     "inicio": 35.45,
-     "fin": 35.87
-    },
-    {
-     "t": "a",
-     "inicio": 35.87,
-     "fin": 36.05
-    },
-    {
-     "t": "Madrid.",
-     "inicio": 36.05,
-     "fin": 36.23
-    },
-    {
-     "t": "Bienvenidos",
-     "inicio": 36.71,
-     "fin": 37.11
-    },
-    {
-     "t": "y",
-     "inicio": 37.11,
-     "fin": 37.53
-    },
-    {
-     "t": "bienvenidas",
-     "inicio": 37.53,
-     "fin": 37.95
-    },
-    {
-     "t": "a",
-     "inicio": 37.95,
-     "fin": 38.07
-    },
-    {
-     "t": "España.",
-     "inicio": 38.07,
-     "fin": 38.29
-    },
-    {
-     "t": "Para",
-     "inicio": 39.39,
-     "fin": 39.59
-    },
-    {
-     "t": "mí,",
-     "inicio": 39.59,
-     "fin": 39.75
-    },
-    {
-     "t": "como",
-     "inicio": 39.89,
-     "fin": 40.01
-    },
-    {
-     "t": "presidente",
-     "inicio": 40.01,
-     "fin": 40.25
-    },
-    {
-     "t": "del",
-     "inicio": 40.25,
-     "fin": 40.53
-    },
-    {
-     "t": "Gobierno,",
-     "inicio": 40.53,
-     "fin": 40.69
-    },
-    {
-     "t": "es",
-     "inicio": 40.93,
-     "fin": 40.95
-    },
-    {
-     "t": "un",
-     "inicio": 40.95,
-     "fin": 41.09
-    },
-    {
-     "t": "honor",
-     "inicio": 41.09,
-     "fin": 41.31
-    },
-    {
-     "t": "poder",
-     "inicio": 41.31,
-     "fin": 41.83
-    },
-    {
-     "t": "recibirles",
-     "inicio": 41.83,
-     "fin": 42.37
-    },
-    {
-     "t": "en",
-     "inicio": 42.37,
-     "fin": 42.49
+     "inicio": 0.22,
+     "fin": 0.7
     },
     {
      "t": "esta",
-     "inicio": 42.49,
-     "fin": 42.65
+     "inicio": 0.7,
+     "fin": 1.08
     },
     {
-     "t": "ciudad",
-     "inicio": 42.65,
-     "fin": 43.09
+     "t": "respuesta,",
+     "inicio": 1.08,
+     "fin": 1.4
     },
     {
-     "t": "una",
-     "inicio": 43.09,
-     "fin": 43.95
-    },
-    {
-     "t": "de",
-     "inicio": 43.95,
-     "fin": 44.99
-    },
-    {
-     "t": "los",
-     "inicio": 44.99,
-     "fin": 45.49
-    },
-    {
-     "t": "muchos",
-     "inicio": 45.49,
-     "fin": 46.35
-    },
-    {
-     "t": "corazones",
-     "inicio": 46.35,
-     "fin": 47.55
-    },
-    {
-     "t": "por",
-     "inicio": 47.55,
-     "fin": 47.77
-    },
-    {
-     "t": "los",
-     "inicio": 47.77,
-     "fin": 47.87
-    },
-    {
-     "t": "que",
-     "inicio": 47.87,
-     "fin": 47.99
-    },
-    {
-     "t": "Latinoamérica,",
-     "inicio": 47.99,
-     "fin": 49.05
-    },
-    {
-     "t": "latidos,",
-     "inicio": 49.13,
-     "fin": 49.47
-    },
-    {
-     "t": "como",
-     "inicio": 50.09,
-     "fin": 50.35
-    },
-    {
-     "t": "hemos",
-     "inicio": 50.35,
-     "fin": 50.53
-    },
-    {
-     "t": "visto",
-     "inicio": 50.53,
-     "fin": 50.75
+     "t": "yo,",
+     "inicio": 1.74,
+     "fin": 1.76
     },
     {
      "t": "en",
-     "inicio": 50.75,
-     "fin": 50.87
+     "inicio": 1.82,
+     "fin": 1.84
     },
     {
-     "t": "el",
-     "inicio": 50.87,
-     "fin": 50.97
+     "t": "primer",
+     "inicio": 1.84,
+     "fin": 2
     },
     {
-     "t": "vídeo,",
-     "inicio": 50.97,
-     "fin": 51.37
-    },
-    {
-     "t": "de",
-     "inicio": 51.61,
-     "fin": 51.65
-    },
-    {
-     "t": "celebración",
-     "inicio": 51.65,
-     "fin": 52.41
-    },
-    {
-     "t": "en",
-     "inicio": 52.41,
-     "fin": 52.57
-    },
-    {
-     "t": "los",
-     "inicio": 52.57,
-     "fin": 52.67
-    },
-    {
-     "t": "momentos",
-     "inicio": 52.67,
-     "fin": 52.95
-    },
-    {
-     "t": "de",
-     "inicio": 52.95,
-     "fin": 53.15
-    },
-    {
-     "t": "alegría,",
-     "inicio": 53.15,
-     "fin": 53.55
-    },
-    {
-     "t": "pero",
-     "inicio": 53.55,
-     "fin": 54.07
-    },
-    {
-     "t": "también",
-     "inicio": 54.07,
-     "fin": 54.45
-    },
-    {
-     "t": "de",
-     "inicio": 54.45,
-     "fin": 54.93
-    },
-    {
-     "t": "solidaridad",
-     "inicio": 54.93,
-     "fin": 55.45
-    },
-    {
-     "t": "en",
-     "inicio": 55.45,
-     "fin": 55.63
-    },
-    {
-     "t": "los",
-     "inicio": 55.63,
-     "fin": 55.71
-    },
-    {
-     "t": "momentos",
-     "inicio": 55.71,
-     "fin": 55.97
-    },
-    {
-     "t": "difíciles,",
-     "inicio": 55.97,
-     "fin": 56.59
-    },
-    {
-     "t": "en",
-     "inicio": 56.61,
-     "fin": 56.65
-    },
-    {
-     "t": "los",
-     "inicio": 56.65,
-     "fin": 56.73
-    },
-    {
-     "t": "momentos",
-     "inicio": 56.73,
-     "fin": 56.99
-    },
-    {
-     "t": "complejos.",
-     "inicio": 56.99,
-     "fin": 57.55
-    },
-    {
-     "t": "Por",
-     "inicio": 57.73,
-     "fin": 57.75
-    },
-    {
-     "t": "eso,",
-     "inicio": 57.75,
-     "fin": 57.93
+     "t": "lugar,",
+     "inicio": 2,
+     "fin": 2.16
     },
     {
      "t": "quiero",
-     "inicio": 58.41,
-     "fin": 58.65
+     "inicio": 2.28,
+     "fin": 2.34
     },
     {
-     "t": "agradecer",
-     "inicio": 58.65,
-     "fin": 59.31
+     "t": "manifestarle",
+     "inicio": 2.34,
+     "fin": 2.92
     },
     {
-     "t": "de",
-     "inicio": 59.31,
-     "fin": 59.47
+     "t": "a",
+     "inicio": 2.92,
+     "fin": 2.98
     },
     {
-     "t": "corazón,",
-     "inicio": 59.47,
-     "fin": 59.77
+     "t": "usted",
+     "inicio": 2.98,
+     "fin": 3.14
     },
     {
-     "t": "nuevamente,",
-     "inicio": 59.95,
-     "fin": 60.49
-    },
-    {
-     "t": "todas",
-     "inicio": 60.71,
-     "fin": 60.83
-    },
-    {
-     "t": "las",
-     "inicio": 60.83,
-     "fin": 61.11
-    },
-    {
-     "t": "muestras",
-     "inicio": 61.11,
-     "fin": 61.49
-    },
-    {
-     "t": "de",
-     "inicio": 61.49,
-     "fin": 62.09
-    },
-    {
-     "t": "cariño",
-     "inicio": 62.09,
-     "fin": 62.45
-    },
-    {
-     "t": "que",
-     "inicio": 62.45,
-     "fin": 62.63
-    },
-    {
-     "t": "hemos",
-     "inicio": 62.63,
-     "fin": 62.75
-    },
-    {
-     "t": "recibido",
-     "inicio": 62.75,
-     "fin": 63.15
-    },
-    {
-     "t": "estos",
-     "inicio": 63.15,
-     "fin": 63.31
-    },
-    {
-     "t": "días",
-     "inicio": 63.31,
-     "fin": 63.57
-    },
-    {
-     "t": "tras",
-     "inicio": 63.57,
-     "fin": 64.29
+     "t": "todo",
+     "inicio": 3.14,
+     "fin": 3.4
     },
     {
      "t": "el",
-     "inicio": 64.29,
-     "fin": 64.57
+     "inicio": 3.4,
+     "fin": 3.76
     },
     {
-     "t": "trágico",
-     "inicio": 64.57,
-     "fin": 64.99
-    },
-    {
-     "t": "accidente",
-     "inicio": 64.99,
-     "fin": 65.59
-    },
-    {
-     "t": "ferroviario",
-     "inicio": 65.59,
-     "fin": 66.05
-    },
-    {
-     "t": "de",
-     "inicio": 66.05,
-     "fin": 66.25
-    },
-    {
-     "t": "Urda,",
-     "inicio": 66.25,
-     "fin": 66.55
+     "t": "respeto,",
+     "inicio": 3.76,
+     "fin": 4.08
     },
     {
      "t": "porque",
-     "inicio": 66.71,
-     "fin": 67.37
+     "inicio": 4.18,
+     "fin": 4.24
     },
     {
-     "t": "nuestro",
-     "inicio": 67.37,
-     "fin": 67.55
-    },
-    {
-     "t": "recuerdo",
-     "inicio": 67.55,
-     "fin": 68.11
-    },
-    {
-     "t": "sigue,",
-     "inicio": 68.11,
-     "fin": 68.65
-    },
-    {
-     "t": "por",
-     "inicio": 68.73,
-     "fin": 68.87
-    },
-    {
-     "t": "supuesto,",
-     "inicio": 68.87,
-     "fin": 69.15
-    },
-    {
-     "t": "estando",
-     "inicio": 69.39,
-     "fin": 69.67
-    },
-    {
-     "t": "con",
-     "inicio": 69.67,
-     "fin": 70.29
-    },
-    {
-     "t": "los",
-     "inicio": 70.29,
-     "fin": 70.39
-    },
-    {
-     "t": "fallecidos,",
-     "inicio": 70.39,
-     "fin": 70.91
-    },
-    {
-     "t": "con",
-     "inicio": 71.13,
-     "fin": 71.17
-    },
-    {
-     "t": "los",
-     "inicio": 71.17,
-     "fin": 71.33
-    },
-    {
-     "t": "heridos,",
-     "inicio": 71.33,
-     "fin": 71.63
-    },
-    {
-     "t": "con",
-     "inicio": 72.07,
-     "fin": 72.31
-    },
-    {
-     "t": "sus",
-     "inicio": 72.31,
-     "fin": 72.49
-    },
-    {
-     "t": "familiares",
-     "inicio": 72.49,
-     "fin": 73.17
-    },
-    {
-     "t": "y",
-     "inicio": 73.17,
-     "fin": 73.69
-    },
-    {
-     "t": "con",
-     "inicio": 73.69,
-     "fin": 73.81
-    },
-    {
-     "t": "sus",
-     "inicio": 73.81,
-     "fin": 73.93
-    },
-    {
-     "t": "seres",
-     "inicio": 73.93,
-     "fin": 74.11
-    },
-    {
-     "t": "queridos,",
-     "inicio": 74.11,
-     "fin": 74.47
-    },
-    {
-     "t": "y",
-     "inicio": 74.77,
-     "fin": 74.95
-    },
-    {
-     "t": "siempre",
-     "inicio": 74.95,
-     "fin": 75.15
-    },
-    {
-     "t": "lo",
-     "inicio": 75.15,
-     "fin": 75.31
-    },
-    {
-     "t": "va",
-     "inicio": 75.31,
-     "fin": 75.41
-    },
-    {
-     "t": "a",
-     "inicio": 75.41,
-     "fin": 75.53
-    },
-    {
-     "t": "estar",
-     "inicio": 75.53,
-     "fin": 75.63
-    },
-    {
-     "t": "y",
-     "inicio": 75.63,
-     "fin": 76.21
-    },
-    {
-     "t": "esta",
-     "inicio": 76.21,
-     "fin": 76.37
-    },
-    {
-     "t": "cumbre",
-     "inicio": 76.37,
-     "fin": 76.71
-    },
-    {
-     "t": "y",
-     "inicio": 76.71,
-     "fin": 77.25
-    },
-    {
-     "t": "todo",
-     "inicio": 77.25,
-     "fin": 77.41
-    },
-    {
-     "t": "lo",
-     "inicio": 77.41,
-     "fin": 77.57
-    },
-    {
-     "t": "bueno",
-     "inicio": 77.57,
-     "fin": 77.77
+     "t": "tiene",
+     "inicio": 4.24,
+     "fin": 4.4
     },
     {
      "t": "que",
-     "inicio": 77.77,
-     "fin": 77.99
+     "inicio": 4.4,
+     "fin": 4.5
     },
     {
-     "t": "de",
-     "inicio": 77.99,
-     "fin": 78.11
-    },
-    {
-     "t": "ella",
-     "inicio": 78.11,
-     "fin": 78.27
-    },
-    {
-     "t": "va",
-     "inicio": 78.27,
-     "fin": 78.49
-    },
-    {
-     "t": "a",
-     "inicio": 78.49,
-     "fin": 78.57
-    },
-    {
-     "t": "salir",
-     "inicio": 78.57,
-     "fin": 78.77
-    },
-    {
-     "t": "es",
-     "inicio": 78.77,
-     "fin": 79.41
-    },
-    {
-     "t": "un",
-     "inicio": 79.41,
-     "fin": 79.67
-    },
-    {
-     "t": "homenaje,",
-     "inicio": 79.67,
-     "fin": 80.01
-    },
-    {
-     "t": "un",
-     "inicio": 80.01,
-     "fin": 80.35
-    },
-    {
-     "t": "homenaje,",
-     "inicio": 80.35,
-     "fin": 80.67
-    },
-    {
-     "t": "perdón,",
-     "inicio": 80.73,
-     "fin": 80.99
-    },
-    {
-     "t": "a",
-     "inicio": 81.37,
-     "fin": 81.47
-    },
-    {
-     "t": "todos",
-     "inicio": 81.47,
-     "fin": 81.63
-    },
-    {
-     "t": "ellos",
-     "inicio": 81.63,
-     "fin": 81.91
-    },
-    {
-     "t": "y",
-     "inicio": 81.91,
-     "fin": 82.11
-    },
-    {
-     "t": "a",
-     "inicio": 82.11,
-     "fin": 82.17
-    },
-    {
-     "t": "todas",
-     "inicio": 82.17,
-     "fin": 82.31
-    },
-    {
-     "t": "ellas.",
-     "inicio": 82.31,
-     "fin": 82.61
-    },
-    {
-     "t": "Señoras",
-     "inicio": 83.53,
-     "fin": 84.29
-    },
-    {
-     "t": "y",
-     "inicio": 84.29,
-     "fin": 84.37
-    },
-    {
-     "t": "señores,",
-     "inicio": 84.37,
-     "fin": 84.67
-    },
-    {
-     "t": "antes",
-     "inicio": 85.35,
-     "fin": 85.51
-    },
-    {
-     "t": "lo",
-     "inicio": 85.51,
-     "fin": 85.65
-    },
-    {
-     "t": "decía",
-     "inicio": 85.65,
-     "fin": 85.87
-    },
-    {
-     "t": "el",
-     "inicio": 85.87,
-     "fin": 86.09
-    },
-    {
-     "t": "secretario",
-     "inicio": 86.09,
-     "fin": 86.47
-    },
-    {
-     "t": "general,",
-     "inicio": 86.47,
-     "fin": 86.81
-    },
-    {
-     "t": "hace",
-     "inicio": 87.57,
-     "fin": 87.99
-    },
-    {
-     "t": "35",
-     "inicio": 87.99,
-     "fin": 88.43
-    },
-    {
-     "t": "años",
-     "inicio": 88.43,
-     "fin": 88.91
-    },
-    {
-     "t": "nuestros",
-     "inicio": 88.91,
-     "fin": 89.29
-    },
-    {
-     "t": "países",
-     "inicio": 89.29,
-     "fin": 89.79
-    },
-    {
-     "t": "se",
-     "inicio": 89.79,
-     "fin": 90.69
-    },
-    {
-     "t": "reunieron",
-     "inicio": 90.69,
-     "fin": 91.13
-    },
-    {
-     "t": "por",
-     "inicio": 91.13,
-     "fin": 91.35
-    },
-    {
-     "t": "primera",
-     "inicio": 91.35,
-     "fin": 91.63
-    },
-    {
-     "t": "vez",
-     "inicio": 91.63,
-     "fin": 91.97
-    },
-    {
-     "t": "en",
-     "inicio": 91.97,
-     "fin": 92.35
-    },
-    {
-     "t": "Guadalajara",
-     "inicio": 92.35,
-     "fin": 92.87
-    },
-    {
-     "t": "y",
-     "inicio": 92.87,
-     "fin": 93.77
-    },
-    {
-     "t": "lo",
-     "inicio": 93.77,
-     "fin": 93.85
-    },
-    {
-     "t": "hicieron",
-     "inicio": 93.85,
-     "fin": 94.09
-    },
-    {
-     "t": "con",
-     "inicio": 94.09,
-     "fin": 94.27
-    },
-    {
-     "t": "una",
-     "inicio": 94.27,
-     "fin": 94.41
-    },
-    {
-     "t": "convicción",
-     "inicio": 94.41,
-     "fin": 94.93
-    },
-    {
-     "t": "que",
-     "inicio": 94.93,
-     "fin": 95.51
-    },
-    {
-     "t": "creo",
-     "inicio": 95.51,
-     "fin": 95.67
-    },
-    {
-     "t": "que",
-     "inicio": 95.67,
-     "fin": 95.79
-    },
-    {
-     "t": "sigue",
-     "inicio": 95.79,
-     "fin": 96.05
-    },
-    {
-     "t": "plenamente",
-     "inicio": 96.05,
-     "fin": 96.93
-    },
-    {
-     "t": "vigente",
-     "inicio": 96.93,
-     "fin": 97.41
-    },
-    {
-     "t": "y",
-     "inicio": 97.41,
-     "fin": 98.21
-    },
-    {
-     "t": "es",
-     "inicio": 98.21,
-     "fin": 98.31
-    },
-    {
-     "t": "que",
-     "inicio": 98.31,
-     "fin": 98.39
-    },
-    {
-     "t": "tenemos",
-     "inicio": 98.39,
-     "fin": 98.77
-    },
-    {
-     "t": "mucho",
-     "inicio": 98.77,
-     "fin": 99.21
-    },
-    {
-     "t": "más",
-     "inicio": 99.21,
-     "fin": 99.47
-    },
-    {
-     "t": "que",
-     "inicio": 99.47,
-     "fin": 99.95
-    },
-    {
-     "t": "ganar",
-     "inicio": 99.95,
-     "fin": 100.23
-    },
-    {
-     "t": "trabajando",
-     "inicio": 100.23,
-     "fin": 100.61
-    },
-    {
-     "t": "juntos",
-     "inicio": 100.61,
-     "fin": 101.09
-    },
-    {
-     "t": "que",
-     "inicio": 101.09,
-     "fin": 101.71
-    },
-    {
-     "t": "caminando",
-     "inicio": 101.71,
-     "fin": 102.13
-    },
-    {
-     "t": "por",
-     "inicio": 102.13,
-     "fin": 102.33
-    },
-    {
-     "t": "separado.",
-     "inicio": 102.33,
-     "fin": 102.79
-    },
-    {
-     "t": "Aquella",
-     "inicio": 103.49,
-     "fin": 103.97
-    },
-    {
-     "t": "cumbre",
-     "inicio": 103.97,
-     "fin": 104.35
-    },
-    {
-     "t": "no",
-     "inicio": 104.35,
-     "fin": 104.77
-    },
-    {
-     "t": "surgió",
-     "inicio": 104.77,
-     "fin": 105.15
-    },
-    {
-     "t": "de",
-     "inicio": 105.15,
-     "fin": 105.27
-    },
-    {
-     "t": "la",
-     "inicio": 105.27,
-     "fin": 105.35
-    },
-    {
-     "t": "nada,",
-     "inicio": 105.35,
-     "fin": 105.57
-    },
-    {
-     "t": "fue",
-     "inicio": 105.89,
-     "fin": 106.31
-    },
-    {
-     "t": "el",
-     "inicio": 106.31,
-     "fin": 106.79
-    },
-    {
-     "t": "resultado",
-     "inicio": 106.79,
-     "fin": 107.13
-    },
-    {
-     "t": "de",
-     "inicio": 107.13,
-     "fin": 107.41
-    },
-    {
-     "t": "décadas",
-     "inicio": 107.41,
-     "fin": 107.83
-    },
-    {
-     "t": "de",
-     "inicio": 107.83,
-     "fin": 108.19
-    },
-    {
-     "t": "intercambios,",
-     "inicio": 108.19,
-     "fin": 109.03
-    },
-    {
-     "t": "de",
-     "inicio": 109.03,
-     "fin": 109.23
-    },
-    {
-     "t": "vínculos",
-     "inicio": 109.23,
-     "fin": 109.51
-    },
-    {
-     "t": "humanos,",
-     "inicio": 109.51,
-     "fin": 109.95
-    },
-    {
-     "t": "de",
-     "inicio": 110.43,
-     "fin": 110.67
-    },
-    {
-     "t": "una",
-     "inicio": 110.67,
-     "fin": 110.79
-    },
-    {
-     "t": "conversación",
-     "inicio": 110.79,
-     "fin": 111.39
-    },
-    {
-     "t": "que",
-     "inicio": 111.39,
-     "fin": 111.55
-    },
-    {
-     "t": "nunca",
-     "inicio": 111.55,
-     "fin": 111.73
-    },
-    {
-     "t": "dejó",
-     "inicio": 111.73,
-     "fin": 112.07
-    },
-    {
-     "t": "de",
-     "inicio": 112.07,
-     "fin": 112.15
-    },
-    {
-     "t": "fluir",
-     "inicio": 112.15,
-     "fin": 113.03
-    },
-    {
-     "t": "entre",
-     "inicio": 113.03,
-     "fin": 113.93
-    },
-    {
-     "t": "las",
-     "inicio": 113.93,
-     "fin": 114.33
-    },
-    {
-     "t": "dos",
-     "inicio": 114.33,
-     "fin": 114.45
-    },
-    {
-     "t": "orillas",
-     "inicio": 114.45,
-     "fin": 114.73
-    },
-    {
-     "t": "del",
-     "inicio": 114.73,
-     "fin": 114.95
-    },
-    {
-     "t": "Atlántico.",
-     "inicio": 114.95,
-     "fin": 115.49
-    },
-    {
-     "t": "Nuestro",
-     "inicio": 116.15,
-     "fin": 116.57
-    },
-    {
-     "t": "espacio",
-     "inicio": 116.57,
-     "fin": 116.93
-    },
-    {
-     "t": "cultural",
-     "inicio": 116.93,
-     "fin": 117.41
-    },
-    {
-     "t": "y",
-     "inicio": 117.41,
-     "fin": 117.53
-    },
-    {
-     "t": "lingüístico",
-     "inicio": 117.53,
-     "fin": 117.99
-    },
-    {
-     "t": "conecta",
-     "inicio": 117.99,
-     "fin": 118.45
-    },
-    {
-     "t": "a",
-     "inicio": 118.45,
-     "fin": 118.55
-    },
-    {
-     "t": "más",
-     "inicio": 118.55,
-     "fin": 118.67
-    },
-    {
-     "t": "de",
-     "inicio": 118.67,
-     "fin": 118.81
-    },
-    {
-     "t": "700",
-     "inicio": 118.81,
-     "fin": 119.09
-    },
-    {
-     "t": "millones",
-     "inicio": 119.09,
-     "fin": 119.63
-    },
-    {
-     "t": "de",
-     "inicio": 119.63,
-     "fin": 120.07
-    },
-    {
-     "t": "seres",
-     "inicio": 120.07,
-     "fin": 120.27
-    },
-    {
-     "t": "humanos",
-     "inicio": 120.27,
-     "fin": 120.65
-    },
-    {
-     "t": "a",
-     "inicio": 120.65,
-     "fin": 120.95
-    },
-    {
-     "t": "través",
-     "inicio": 120.95,
-     "fin": 121.15
-    },
-    {
-     "t": "del",
-     "inicio": 121.15,
-     "fin": 121.31
-    },
-    {
-     "t": "español,",
-     "inicio": 121.31,
-     "fin": 121.61
-    },
-    {
-     "t": "a",
-     "inicio": 121.83,
-     "fin": 121.85
-    },
-    {
-     "t": "través",
-     "inicio": 121.85,
-     "fin": 122.05
-    },
-    {
-     "t": "del",
-     "inicio": 122.05,
-     "fin": 122.25
-    },
-    {
-     "t": "portugués,",
-     "inicio": 122.25,
-     "fin": 122.81
-    },
-    {
-     "t": "sin",
-     "inicio": 123.35,
-     "fin": 123.53
-    },
-    {
-     "t": "olvidar,",
-     "inicio": 123.53,
-     "fin": 123.97
-    },
-    {
-     "t": "sin",
-     "inicio": 123.97,
-     "fin": 124.17
-    },
-    {
-     "t": "duda,",
-     "inicio": 124.17,
-     "fin": 124.33
-    },
-    {
-     "t": "alguna",
-     "inicio": 124.41,
-     "fin": 124.57
-    },
-    {
-     "t": "la",
-     "inicio": 124.57,
-     "fin": 124.75
-    },
-    {
-     "t": "riqueza",
-     "inicio": 124.75,
-     "fin": 125.19
-    },
-    {
-     "t": "de",
-     "inicio": 125.19,
-     "fin": 125.73
-    },
-    {
-     "t": "nuestras",
-     "inicio": 125.73,
-     "fin": 125.95
-    },
-    {
-     "t": "lenguas",
-     "inicio": 125.95,
-     "fin": 126.35
-    },
-    {
-     "t": "oficiales",
-     "inicio": 126.35,
-     "fin": 127.19
-    },
-    {
-     "t": "y",
-     "inicio": 127.19,
-     "fin": 127.31
-    },
-    {
-     "t": "también",
-     "inicio": 127.31,
-     "fin": 127.63
-    },
-    {
-     "t": "de",
-     "inicio": 127.63,
-     "fin": 128.01
-    },
-    {
-     "t": "las",
-     "inicio": 128.01,
-     "fin": 128.13
-    },
-    {
-     "t": "lenguas",
-     "inicio": 128.13,
-     "fin": 128.41
-    },
-    {
-     "t": "indígenas.",
-     "inicio": 128.41,
-     "fin": 129.01
-    },
-    {
-     "t": "Somos,",
-     "inicio": 129.61,
-     "fin": 130.11
-    },
-    {
-     "t": "por",
-     "inicio": 130.11,
-     "fin": 130.29
-    },
-    {
-     "t": "tanto,",
-     "inicio": 130.29,
-     "fin": 130.47
-    },
-    {
-     "t": "una",
-     "inicio": 130.57,
-     "fin": 130.69
-    },
-    {
-     "t": "potencia",
-     "inicio": 130.69,
-     "fin": 131.25
-    },
-    {
-     "t": "cultural",
-     "inicio": 131.25,
-     "fin": 131.89
-    },
-    {
-     "t": "mundial.",
-     "inicio": 131.89,
-     "fin": 132.35
-    },
-    {
-     "t": "Lo",
-     "inicio": 133.25,
-     "fin": 133.43
-    },
-    {
-     "t": "vemos",
-     "inicio": 133.43,
-     "fin": 133.63
-    },
-    {
-     "t": "en",
-     "inicio": 133.63,
-     "fin": 133.91
-    },
-    {
-     "t": "la",
-     "inicio": 133.91,
-     "fin": 134.05
-    },
-    {
-     "t": "pintura",
-     "inicio": 134.05,
-     "fin": 134.45
-    },
-    {
-     "t": "de",
-     "inicio": 134.45,
-     "fin": 134.63
-    },
-    {
-     "t": "Frida",
-     "inicio": 134.63,
-     "fin": 134.85
-    },
-    {
-     "t": "Kahlo",
-     "inicio": 134.85,
-     "fin": 135.21
-    },
-    {
-     "t": "o",
-     "inicio": 135.21,
-     "fin": 135.41
-    },
-    {
-     "t": "de",
-     "inicio": 135.41,
-     "fin": 135.55
-    },
-    {
-     "t": "Pablo",
-     "inicio": 135.55,
-     "fin": 136.07
-    },
-    {
-     "t": "Picasso,",
-     "inicio": 136.07,
-     "fin": 136.45
-    },
-    {
-     "t": "en",
-     "inicio": 136.45,
-     "fin": 137.17
-    },
-    {
-     "t": "la",
-     "inicio": 137.17,
-     "fin": 137.25
-    },
-    {
-     "t": "arquitectura",
-     "inicio": 137.25,
-     "fin": 137.75
-    },
-    {
-     "t": "de",
-     "inicio": 137.75,
-     "fin": 138.03
-    },
-    {
-     "t": "Oscar",
-     "inicio": 138.03,
-     "fin": 138.27
-    },
-    {
-     "t": "Niemeyer",
-     "inicio": 138.27,
-     "fin": 138.91
-    },
-    {
-     "t": "o",
-     "inicio": 138.91,
-     "fin": 139.23
-    },
-    {
-     "t": "de",
-     "inicio": 139.23,
-     "fin": 139.47
-    },
-    {
-     "t": "Antonio",
-     "inicio": 139.47,
-     "fin": 139.73
-    },
-    {
-     "t": "Gaudí,",
-     "inicio": 139.73,
-     "fin": 140.19
-    },
-    {
-     "t": "en",
-     "inicio": 140.57,
-     "fin": 140.85
-    },
-    {
-     "t": "nuestro",
-     "inicio": 140.85,
-     "fin": 141.13
-    },
-    {
-     "t": "Premio",
-     "inicio": 141.13,
-     "fin": 141.87
-    },
-    {
-     "t": "Nobel",
-     "inicio": 141.87,
-     "fin": 142.09
-    },
-    {
-     "t": "de",
-     "inicio": 142.09,
-     "fin": 142.25
-    },
-    {
-     "t": "Literatura",
-     "inicio": 142.25,
-     "fin": 142.67
-    },
-    {
-     "t": "de",
-     "inicio": 142.67,
-     "fin": 142.85
-    },
-    {
-     "t": "García",
-     "inicio": 142.85,
-     "fin": 143.17
-    },
-    {
-     "t": "Márquez",
-     "inicio": 143.17,
-     "fin": 143.55
-    },
-    {
-     "t": "o",
-     "inicio": 143.55,
-     "fin": 143.99
-    },
-    {
-     "t": "de",
-     "inicio": 143.99,
-     "fin": 144.17
-    },
-    {
-     "t": "José",
-     "inicio": 144.17,
-     "fin": 144.37
-    },
-    {
-     "t": "Salamago",
-     "inicio": 144.37,
-     "fin": 144.87
-    },
-    {
-     "t": "y,",
-     "inicio": 144.87,
-     "fin": 145.43
-    },
-    {
-     "t": "por",
-     "inicio": 145.47,
-     "fin": 145.53
-    },
-    {
-     "t": "supuesto,",
-     "inicio": 145.53,
-     "fin": 145.81
-    },
-    {
-     "t": "en",
-     "inicio": 145.95,
-     "fin": 145.97
-    },
-    {
-     "t": "la",
-     "inicio": 145.97,
-     "fin": 146.03
-    },
-    {
-     "t": "música",
-     "inicio": 146.03,
-     "fin": 146.25
-    },
-    {
-     "t": "de",
-     "inicio": 146.25,
-     "fin": 146.47
-    },
-    {
-     "t": "Rosalía,",
-     "inicio": 146.47,
-     "fin": 146.91
-    },
-    {
-     "t": "de",
-     "inicio": 147.07,
-     "fin": 147.09
-    },
-    {
-     "t": "Saquira,",
-     "inicio": 147.09,
-     "fin": 147.45
-    },
-    {
-     "t": "que",
-     "inicio": 148.01,
-     "fin": 148.05
-    },
-    {
-     "t": "hoy",
-     "inicio": 148.05,
-     "fin": 148.19
-    },
-    {
-     "t": "llenan",
-     "inicio": 148.19,
-     "fin": 148.45
-    },
-    {
-     "t": "estadios",
-     "inicio": 148.45,
-     "fin": 148.95
-    },
-    {
-     "t": "en",
-     "inicio": 148.95,
-     "fin": 149.35
-    },
-    {
-     "t": "todo",
-     "inicio": 149.35,
-     "fin": 149.45
-    },
-    {
-     "t": "el",
-     "inicio": 149.45,
-     "fin": 149.61
-    },
-    {
-     "t": "mundo.",
-     "inicio": 149.61,
-     "fin": 149.83
-    },
-    {
-     "t": "Pero",
-     "inicio": 150.55,
-     "fin": 150.71
-    },
-    {
-     "t": "por",
-     "inicio": 150.71,
-     "fin": 150.85
-    },
-    {
-     "t": "encima",
-     "inicio": 150.85,
-     "fin": 151.09
-    },
-    {
-     "t": "de",
-     "inicio": 151.09,
-     "fin": 151.29
-    },
-    {
-     "t": "todo",
-     "inicio": 151.29,
-     "fin": 151.47
-    },
-    {
-     "t": "ello,",
-     "inicio": 151.47,
-     "fin": 151.77
-    },
-    {
-     "t": "somos",
-     "inicio": 152.23,
-     "fin": 152.55
-    },
-    {
-     "t": "una",
-     "inicio": 152.55,
-     "fin": 152.79
-    },
-    {
-     "t": "comunidad",
-     "inicio": 152.79,
-     "fin": 153.15
-    },
-    {
-     "t": "de",
-     "inicio": 153.15,
-     "fin": 153.37
-    },
-    {
-     "t": "valores",
-     "inicio": 153.37,
-     "fin": 153.65
-    },
-    {
-     "t": "y,",
-     "inicio": 153.65,
-     "fin": 154.41
-    },
-    {
-     "t": "si",
-     "inicio": 154.45,
-     "fin": 154.57
-    },
-    {
-     "t": "me",
-     "inicio": 154.57,
-     "fin": 154.65
-    },
-    {
-     "t": "lo",
-     "inicio": 154.65,
-     "fin": 154.73
-    },
-    {
-     "t": "permiten,",
-     "inicio": 154.73,
-     "fin": 155.11
-    },
-    {
-     "t": "también",
-     "inicio": 155.37,
-     "fin": 155.37
-    },
-    {
-     "t": "de",
-     "inicio": 155.37,
-     "fin": 155.51
-    },
-    {
-     "t": "afectos",
-     "inicio": 155.51,
-     "fin": 156.03
-    },
-    {
-     "t": "que",
-     "inicio": 156.03,
-     "fin": 156.99
-    },
-    {
-     "t": "prevalecen",
-     "inicio": 156.99,
-     "fin": 157.45
-    },
-    {
-     "t": "siempre",
-     "inicio": 157.45,
-     "fin": 157.81
-    },
-    {
-     "t": "por",
-     "inicio": 157.81,
-     "fin": 158.59
-    },
-    {
-     "t": "encima",
-     "inicio": 158.59,
-     "fin": 158.83
-    },
-    {
-     "t": "de",
-     "inicio": 158.83,
-     "fin": 159.01
-    },
-    {
-     "t": "cualquier",
-     "inicio": 159.01,
-     "fin": 159.27
-    },
-    {
-     "t": "coyuntura",
-     "inicio": 159.27,
-     "fin": 159.93
-    },
-    {
-     "t": "y",
-     "inicio": 159.93,
-     "fin": 160.37
-    },
-    {
-     "t": "también",
-     "inicio": 160.37,
-     "fin": 160.73
-    },
-    {
-     "t": "de",
-     "inicio": 160.73,
-     "fin": 161.35
-    },
-    {
-     "t": "cualquier",
-     "inicio": 161.35,
-     "fin": 161.61
-    },
-    {
-     "t": "diferencia.",
-     "inicio": 161.61,
-     "fin": 162.21
-    },
-    {
-     "t": "Y",
-     "inicio": 162.71,
-     "fin": 162.99
-    },
-    {
-     "t": "las",
-     "inicio": 162.99,
-     "fin": 163.15
-    },
-    {
-     "t": "cumbres",
-     "inicio": 163.15,
-     "fin": 163.39
-    },
-    {
-     "t": "iberoamericanas",
-     "inicio": 163.39,
-     "fin": 164.27
-    },
-    {
-     "t": "son",
-     "inicio": 164.27,
-     "fin": 164.63
-    },
-    {
-     "t": "también",
-     "inicio": 164.63,
-     "fin": 165.13
-    },
-    {
-     "t": "la",
-     "inicio": 165.13,
-     "fin": 165.33
-    },
-    {
-     "t": "expresión",
-     "inicio": 165.33,
-     "fin": 165.83
-    },
-    {
-     "t": "del",
-     "inicio": 165.83,
-     "fin": 166.03
-    },
-    {
-     "t": "valor",
-     "inicio": 166.03,
-     "fin": 166.27
-    },
-    {
-     "t": "de",
-     "inicio": 166.27,
-     "fin": 166.93
-    },
-    {
-     "t": "esa",
-     "inicio": 166.93,
-     "fin": 167.07
-    },
-    {
-     "t": "comunidad.",
-     "inicio": 167.07,
-     "fin": 167.53
-    },
-    {
-     "t": "Son",
-     "inicio": 168.03,
-     "fin": 168.57
-    },
-    {
-     "t": "mucho",
-     "inicio": 168.57,
-     "fin": 168.79
-    },
-    {
-     "t": "más",
-     "inicio": 168.79,
-     "fin": 169.03
-    },
-    {
-     "t": "que",
-     "inicio": 169.03,
-     "fin": 169.45
-    },
-    {
-     "t": "meros",
-     "inicio": 169.45,
-     "fin": 169.67
-    },
-    {
-     "t": "espacios",
-     "inicio": 169.67,
-     "fin": 170.09
-    },
-    {
-     "t": "de",
-     "inicio": 170.09,
-     "fin": 170.25
-    },
-    {
-     "t": "encuentro",
-     "inicio": 170.25,
-     "fin": 170.85
-    },
-    {
-     "t": "y",
-     "inicio": 170.85,
-     "fin": 170.99
-    },
-    {
-     "t": "de",
-     "inicio": 170.99,
-     "fin": 171.09
-    },
-    {
-     "t": "diálogo,",
-     "inicio": 171.09,
-     "fin": 171.41
-    },
-    {
-     "t": "que",
-     "inicio": 171.65,
-     "fin": 171.71
-    },
-    {
-     "t": "ya",
-     "inicio": 171.71,
-     "fin": 171.83
-    },
-    {
-     "t": "de",
-     "inicio": 171.83,
-     "fin": 171.93
-    },
-    {
-     "t": "por",
-     "inicio": 171.93,
-     "fin": 172.05
-    },
-    {
-     "t": "sí,",
-     "inicio": 172.05,
-     "fin": 172.25
-    },
-    {
-     "t": "esto",
-     "inicio": 172.57,
-     "fin": 172.81
-    },
-    {
-     "t": "en",
-     "inicio": 172.81,
-     "fin": 173.05
-    },
-    {
-     "t": "los",
-     "inicio": 173.05,
-     "fin": 173.15
-    },
-    {
-     "t": "tiempos",
-     "inicio": 173.15,
-     "fin": 173.39
-    },
-    {
-     "t": "que",
-     "inicio": 173.39,
-     "fin": 173.51
-    },
-    {
-     "t": "corren",
-     "inicio": 173.51,
-     "fin": 173.87
-    },
-    {
-     "t": "sería",
-     "inicio": 173.87,
-     "fin": 174.43
-    },
-    {
-     "t": "suficiente.",
-     "inicio": 174.43,
-     "fin": 175.21
-    },
-    {
-     "t": "Como",
-     "inicio": 176.45,
-     "fin": 176.63
-    },
-    {
-     "t": "he",
-     "inicio": 176.63,
-     "fin": 176.73
-    },
-    {
-     "t": "dicho",
-     "inicio": 176.73,
-     "fin": 176.87
-    },
-    {
-     "t": "antes,",
-     "inicio": 176.87,
-     "fin": 177.13
-    },
-    {
-     "t": "son",
-     "inicio": 177.49,
-     "fin": 177.57
-    },
-    {
-     "t": "mucho",
-     "inicio": 177.57,
-     "fin": 177.83
-    },
-    {
-     "t": "más.",
-     "inicio": 177.83,
-     "fin": 178.03
-    },
-    {
-     "t": "Las",
-     "inicio": 178.93,
-     "fin": 179.09
-    },
-    {
-     "t": "cumbres",
-     "inicio": 179.09,
-     "fin": 179.39
-    },
-    {
-     "t": "iberoamericanas",
-     "inicio": 179.39,
-     "fin": 180.29
-    },
-    {
-     "t": "son",
-     "inicio": 180.29,
-     "fin": 180.63
-    },
-    {
-     "t": "la",
-     "inicio": 180.63,
-     "fin": 180.85
-    },
-    {
-     "t": "expresión",
-     "inicio": 180.85,
-     "fin": 181.55
-    },
-    {
-     "t": "del",
-     "inicio": 181.55,
-     "fin": 182.03
-    },
-    {
-     "t": "valor",
-     "inicio": 182.03,
-     "fin": 182.27
-    },
-    {
-     "t": "de",
-     "inicio": 182.27,
-     "fin": 182.47
-    },
-    {
-     "t": "esa",
-     "inicio": 182.47,
-     "fin": 182.67
-    },
-    {
-     "t": "comunidad.",
-     "inicio": 182.67,
-     "fin": 183.19
-    },
-    {
-     "t": "Son,",
-     "inicio": 184.05,
-     "fin": 184.61
-    },
-    {
-     "t": "por",
-     "inicio": 184.61,
-     "fin": 185.17
-    },
-    {
-     "t": "tanto,",
-     "inicio": 185.17,
-     "fin": 185.59
-    },
-    {
-     "t": "nuestros",
-     "inicio": 186.25,
-     "fin": 186.43
-    },
-    {
-     "t": "vínculos",
-     "inicio": 186.43,
-     "fin": 186.93
-    },
-    {
-     "t": "que",
-     "inicio": 186.93,
-     "fin": 187.23
-    },
-    {
-     "t": "se",
-     "inicio": 187.23,
-     "fin": 187.33
-    },
-    {
-     "t": "convierten",
-     "inicio": 187.33,
-     "fin": 187.73
-    },
-    {
-     "t": "en",
-     "inicio": 187.73,
-     "fin": 187.93
-    },
-    {
-     "t": "hechos",
-     "inicio": 187.93,
-     "fin": 188.23
-    },
-    {
-     "t": "y",
-     "inicio": 188.23,
-     "fin": 188.87
-    },
-    {
-     "t": "nuestra",
-     "inicio": 188.87,
-     "fin": 189.13
-    },
-    {
-     "t": "solidaridad",
-     "inicio": 189.13,
-     "fin": 189.81
-    },
-    {
-     "t": "en",
-     "inicio": 189.81,
-     "fin": 190.03
-    },
-    {
-     "t": "compromisos",
-     "inicio": 190.03,
-     "fin": 190.67
-    },
-    {
-     "t": "concretos.",
-     "inicio": 190.67,
-     "fin": 191.55
-    },
-    {
-     "t": "Y",
-     "inicio": 192.05,
-     "fin": 192.37
-    },
-    {
-     "t": "hay",
-     "inicio": 192.37,
-     "fin": 192.53
-    },
-    {
-     "t": "un",
-     "inicio": 192.53,
-     "fin": 192.91
-    },
-    {
-     "t": "ejemplo",
-     "inicio": 192.91,
-     "fin": 193.19
-    },
-    {
-     "t": "que",
-     "inicio": 193.19,
-     "fin": 193.35
-    },
-    {
-     "t": "me",
-     "inicio": 193.35,
-     "fin": 193.45
-    },
-    {
-     "t": "gustaría",
-     "inicio": 193.45,
-     "fin": 193.77
-    },
-    {
-     "t": "rememorar",
-     "inicio": 193.77,
-     "fin": 194.35
-    },
-    {
-     "t": "en",
-     "inicio": 194.35,
-     "fin": 194.73
-    },
-    {
-     "t": "unas",
-     "inicio": 194.73,
-     "fin": 194.95
-    },
-    {
-     "t": "preves",
-     "inicio": 194.95,
-     "fin": 195.59
-    },
-    {
-     "t": "palabras",
-     "inicio": 195.59,
-     "fin": 195.99
-    },
-    {
-     "t": "de",
-     "inicio": 195.99,
-     "fin": 196.69
-    },
-    {
-     "t": "esta",
-     "inicio": 196.69,
-     "fin": 196.83
-    },
-    {
-     "t": "intervención.",
-     "inicio": 196.83,
-     "fin": 197.41
-    },
-    {
-     "t": "Fue",
-     "inicio": 197.69,
-     "fin": 197.73
-    },
-    {
-     "t": "precisamente",
-     "inicio": 197.73,
-     "fin": 198.11
-    },
-    {
-     "t": "en",
-     "inicio": 198.11,
-     "fin": 198.35
-    },
-    {
-     "t": "este",
-     "inicio": 198.35,
-     "fin": 198.47
-    },
-    {
-     "t": "foro,",
-     "inicio": 198.47,
-     "fin": 199.09
-    },
-    {
-     "t": "en",
-     "inicio": 199.09,
-     "fin": 199.33
-    },
-    {
-     "t": "una",
-     "inicio": 199.33,
-     "fin": 199.45
-    },
-    {
-     "t": "cumbre",
-     "inicio": 199.45,
-     "fin": 199.73
-    },
-    {
-     "t": "iberoamericana,",
-     "inicio": 199.73,
-     "fin": 200.33
-    },
-    {
-     "t": "donde",
-     "inicio": 200.99,
-     "fin": 201.01
-    },
-    {
-     "t": "España",
-     "inicio": 201.01,
-     "fin": 201.37
-    },
-    {
-     "t": "adquirió",
-     "inicio": 201.37,
-     "fin": 201.91
-    },
-    {
-     "t": "el",
-     "inicio": 201.91,
-     "fin": 202.19
-    },
-    {
-     "t": "compromiso",
-     "inicio": 202.19,
-     "fin": 202.65
-    },
-    {
-     "t": "de",
-     "inicio": 202.65,
-     "fin": 202.85
-    },
-    {
-     "t": "donar",
-     "inicio": 202.85,
-     "fin": 203.45
-    },
-    {
-     "t": "una",
-     "inicio": 203.45,
-     "fin": 203.77
-    },
-    {
-     "t": "parte",
-     "inicio": 203.77,
-     "fin": 204.03
-    },
-    {
-     "t": "de",
-     "inicio": 204.03,
-     "fin": 204.23
+     "t": "hacer",
+     "inicio": 4.5,
+     "fin": 4.74
     },
     {
      "t": "su",
-     "inicio": 204.23,
-     "fin": 204.39
+     "inicio": 4.74,
+     "fin": 5.22
     },
     {
-     "t": "stock",
-     "inicio": 204.39,
-     "fin": 204.69
-    },
-    {
-     "t": "de",
-     "inicio": 204.69,
-     "fin": 204.89
-    },
-    {
-     "t": "vacunas",
-     "inicio": 204.89,
-     "fin": 205.33
-    },
-    {
-     "t": "frente",
-     "inicio": 205.33,
-     "fin": 205.53
-    },
-    {
-     "t": "a",
-     "inicio": 205.53,
-     "fin": 205.71
-    },
-    {
-     "t": "la",
-     "inicio": 205.71,
-     "fin": 205.77
-    },
-    {
-     "t": "COVID",
-     "inicio": 205.77,
-     "fin": 205.95
-    },
-    {
-     "t": "-19",
-     "inicio": 205.95,
-     "fin": 206.37
-    },
-    {
-     "t": "a",
-     "inicio": 206.71,
-     "fin": 207.03
-    },
-    {
-     "t": "los",
-     "inicio": 207.03,
-     "fin": 207.15
-    },
-    {
-     "t": "países",
-     "inicio": 207.15,
-     "fin": 207.41
-    },
-    {
-     "t": "hermanos",
-     "inicio": 207.41,
-     "fin": 207.91
-    },
-    {
-     "t": "de",
-     "inicio": 207.91,
-     "fin": 208.01
-    },
-    {
-     "t": "América",
-     "inicio": 208.01,
-     "fin": 208.25
-    },
-    {
-     "t": "Latina",
-     "inicio": 208.25,
-     "fin": 208.71
+     "t": "trabajo",
+     "inicio": 5.22,
+     "fin": 5.56
     },
     {
      "t": "y",
-     "inicio": 208.71,
-     "fin": 208.81
-    },
-    {
-     "t": "del",
-     "inicio": 208.81,
-     "fin": 208.93
-    },
-    {
-     "t": "Caribe.",
-     "inicio": 208.93,
-     "fin": 209.27
-    },
-    {
-     "t": "Ese",
-     "inicio": 209.97,
-     "fin": 210.61
-    },
-    {
-     "t": "es",
-     "inicio": 210.61,
-     "fin": 211.05
-    },
-    {
-     "t": "el",
-     "inicio": 211.05,
-     "fin": 211.17
-    },
-    {
-     "t": "valor",
-     "inicio": 211.17,
-     "fin": 211.35
-    },
-    {
-     "t": "real",
-     "inicio": 211.35,
-     "fin": 211.73
-    },
-    {
-     "t": "del",
-     "inicio": 211.73,
-     "fin": 212.61
-    },
-    {
-     "t": "sistema",
-     "inicio": 212.61,
-     "fin": 213.25
-    },
-    {
-     "t": "iberoamericano",
-     "inicio": 213.25,
-     "fin": 214.09
-    },
-    {
-     "t": "y",
-     "inicio": 214.77,
-     "fin": 215.09
-    },
-    {
-     "t": "del",
-     "inicio": 215.09,
-     "fin": 215.21
-    },
-    {
-     "t": "que",
-     "inicio": 215.21,
-     "fin": 215.39
-    },
-    {
-     "t": "esta",
-     "inicio": 215.39,
-     "fin": 215.81
-    },
-    {
-     "t": "cumbre",
-     "inicio": 215.81,
-     "fin": 216.19
-    },
-    {
-     "t": "es",
-     "inicio": 216.19,
-     "fin": 216.63
-    },
-    {
-     "t": "la",
-     "inicio": 216.63,
-     "fin": 217.25
-    },
-    {
-     "t": "pieza",
-     "inicio": 217.25,
-     "fin": 217.55
-    },
-    {
-     "t": "esencial.",
-     "inicio": 217.55,
-     "fin": 217.93
-    },
-    {
-     "t": "Ahora",
-     "inicio": 218.89,
-     "fin": 219.41
-    },
-    {
-     "t": "ha",
-     "inicio": 219.41,
-     "fin": 219.93
-    },
-    {
-     "t": "llegado",
-     "inicio": 219.93,
-     "fin": 220.17
-    },
-    {
-     "t": "el",
-     "inicio": 220.17,
-     "fin": 220.27
-    },
-    {
-     "t": "momento",
-     "inicio": 220.27,
-     "fin": 220.51
-    },
-    {
-     "t": "de",
-     "inicio": 220.51,
-     "fin": 220.71
-    },
-    {
-     "t": "que",
-     "inicio": 220.71,
-     "fin": 220.83
-    },
-    {
-     "t": "ese",
-     "inicio": 220.83,
-     "fin": 220.99
-    },
-    {
-     "t": "vínculo",
-     "inicio": 220.99,
-     "fin": 221.43
-    },
-    {
-     "t": "cultural",
-     "inicio": 221.43,
-     "fin": 221.87
-    },
-    {
-     "t": "y",
-     "inicio": 221.87,
-     "fin": 222.03
-    },
-    {
-     "t": "emocional",
-     "inicio": 222.03,
-     "fin": 222.41
-    },
-    {
-     "t": "se",
-     "inicio": 222.41,
-     "fin": 222.65
-    },
-    {
-     "t": "traduzca",
-     "inicio": 222.65,
-     "fin": 223.27
-    },
-    {
-     "t": "también",
-     "inicio": 223.27,
-     "fin": 223.81
-    },
-    {
-     "t": "en",
-     "inicio": 223.81,
-     "fin": 224.45
-    },
-    {
-     "t": "una",
-     "inicio": 224.45,
-     "fin": 224.57
-    },
-    {
-     "t": "mayor",
-     "inicio": 224.57,
-     "fin": 224.87
-    },
-    {
-     "t": "influencia",
-     "inicio": 224.87,
-     "fin": 225.81
-    },
-    {
-     "t": "política,",
-     "inicio": 225.81,
-     "fin": 226.15
-    },
-    {
-     "t": "económica",
-     "inicio": 226.41,
-     "fin": 226.73
-    },
-    {
-     "t": "y",
-     "inicio": 226.73,
-     "fin": 226.79
-    },
-    {
-     "t": "diplomática",
-     "inicio": 226.79,
-     "fin": 227.29
-    },
-    {
-     "t": "que",
-     "inicio": 227.29,
-     "fin": 227.61
-    },
-    {
-     "t": "necesita,",
-     "inicio": 227.61,
-     "fin": 227.95
-    },
-    {
-     "t": "por",
-     "inicio": 228.09,
-     "fin": 228.15
-    },
-    {
-     "t": "supuesto,",
-     "inicio": 228.15,
-     "fin": 228.43
-    },
-    {
-     "t": "nuestra",
-     "inicio": 228.53,
-     "fin": 228.67
-    },
-    {
-     "t": "comunidad,",
-     "inicio": 228.67,
-     "fin": 229.09
-    },
-    {
-     "t": "pero",
-     "inicio": 229.19,
-     "fin": 229.33
+     "inicio": 5.56,
+     "fin": 5.72
     },
     {
      "t": "yo",
-     "inicio": 229.33,
-     "fin": 229.45
+     "inicio": 5.72,
+     "fin": 5.82
     },
     {
-     "t": "creo",
-     "inicio": 229.45,
-     "fin": 229.63
+     "t": "distingo",
+     "inicio": 5.82,
+     "fin": 6.24
     },
     {
-     "t": "que",
-     "inicio": 229.63,
-     "fin": 229.73
+     "t": "absolutamente",
+     "inicio": 6.24,
+     "fin": 7.38
     },
     {
-     "t": "necesita",
-     "inicio": 229.73,
-     "fin": 230.19
-    },
-    {
-     "t": "especialmente",
-     "inicio": 230.19,
-     "fin": 230.71
-    },
-    {
-     "t": "nuestro",
-     "inicio": 230.71,
-     "fin": 231.15
-    },
-    {
-     "t": "mundo.",
-     "inicio": 231.15,
-     "fin": 231.63
-    },
-    {
-     "t": "Porque,",
-     "inicio": 232.15,
-     "fin": 232.45
-    },
-    {
-     "t": "evidentemente,",
-     "inicio": 232.47,
-     "fin": 232.89
-    },
-    {
-     "t": "el",
-     "inicio": 233.05,
-     "fin": 233.15
-    },
-    {
-     "t": "mundo",
-     "inicio": 233.15,
-     "fin": 233.25
-    },
-    {
-     "t": "está",
-     "inicio": 233.25,
-     "fin": 233.45
-    },
-    {
-     "t": "cambiando,",
-     "inicio": 233.45,
-     "fin": 233.93
-    },
-    {
-     "t": "está",
-     "inicio": 234.21,
-     "fin": 234.29
-    },
-    {
-     "t": "en",
-     "inicio": 234.29,
-     "fin": 234.45
-    },
-    {
-     "t": "transformación",
-     "inicio": 234.45,
-     "fin": 235.09
-    },
-    {
-     "t": "y",
-     "inicio": 235.09,
-     "fin": 235.83
-    },
-    {
-     "t": "lo",
-     "inicio": 235.83,
-     "fin": 235.93
-    },
-    {
-     "t": "está",
-     "inicio": 235.93,
-     "fin": 236.07
-    },
-    {
-     "t": "haciendo",
-     "inicio": 236.07,
-     "fin": 236.31
-    },
-    {
-     "t": "a",
-     "inicio": 236.31,
-     "fin": 236.51
-    },
-    {
-     "t": "una",
-     "inicio": 236.51,
-     "fin": 236.65
-    },
-    {
-     "t": "velocidad",
-     "inicio": 236.65,
-     "fin": 237.11
-    },
-    {
-     "t": "extraordinaria.",
-     "inicio": 237.11,
-     "fin": 238.39
-    },
-    {
-     "t": "Algunas",
-     "inicio": 238.49,
-     "fin": 238.69
-    },
-    {
-     "t": "veces",
-     "inicio": 238.69,
-     "fin": 238.89
-    },
-    {
-     "t": "cuesta",
-     "inicio": 238.89,
-     "fin": 239.37
-    },
-    {
-     "t": "asimilar",
-     "inicio": 239.37,
-     "fin": 239.97
-    },
-    {
-     "t": "todos",
-     "inicio": 239.97,
-     "fin": 240.25
-    },
-    {
-     "t": "los",
-     "inicio": 240.25,
-     "fin": 240.47
-    },
-    {
-     "t": "cambios",
-     "inicio": 240.47,
-     "fin": 240.85
-    },
-    {
-     "t": "tan",
-     "inicio": 240.85,
-     "fin": 241.61
-    },
-    {
-     "t": "intensos",
-     "inicio": 241.61,
-     "fin": 242.51
-    },
-    {
-     "t": "que",
-     "inicio": 242.51,
-     "fin": 242.65
-    },
-    {
-     "t": "estamos",
-     "inicio": 242.65,
-     "fin": 242.89
-    },
-    {
-     "t": "viviendo.",
-     "inicio": 242.89,
-     "fin": 243.37
-    },
-    {
-     "t": "Vemos",
-     "inicio": 243.97,
-     "fin": 244.19
-    },
-    {
-     "t": "cómo",
-     "inicio": 244.19,
-     "fin": 244.39
-    },
-    {
-     "t": "se",
-     "inicio": 244.39,
-     "fin": 244.53
-    },
-    {
-     "t": "multiplican",
-     "inicio": 244.53,
-     "fin": 245.03
-    },
-    {
-     "t": "los",
-     "inicio": 245.03,
-     "fin": 245.15
-    },
-    {
-     "t": "conflictos.",
-     "inicio": 245.15,
-     "fin": 245.65
-    },
-    {
-     "t": "Antes,",
-     "inicio": 245.65,
-     "fin": 246.13
-    },
-    {
-     "t": "Andrés,",
-     "inicio": 246.31,
-     "fin": 246.49
-    },
-    {
-     "t": "el",
-     "inicio": 246.65,
-     "fin": 246.83
-    },
-    {
-     "t": "secretario",
-     "inicio": 246.83,
-     "fin": 247.05
-    },
-    {
-     "t": "general",
-     "inicio": 247.05,
-     "fin": 247.31
-    },
-    {
-     "t": "ha",
-     "inicio": 247.31,
-     "fin": 247.43
-    },
-    {
-     "t": "hecho",
-     "inicio": 247.43,
-     "fin": 247.55
-    },
-    {
-     "t": "referencia",
-     "inicio": 247.55,
-     "fin": 247.99
-    },
-    {
-     "t": "a",
-     "inicio": 247.99,
-     "fin": 248.19
-    },
-    {
-     "t": "ello.",
-     "inicio": 248.19,
-     "fin": 248.31
-    },
-    {
-     "t": "¿Cómo",
-     "inicio": 248.71,
-     "fin": 248.81
-    },
-    {
-     "t": "se",
-     "inicio": 248.81,
-     "fin": 248.95
-    },
-    {
-     "t": "cuestionan",
-     "inicio": 248.95,
-     "fin": 249.43
-    },
-    {
-     "t": "las",
-     "inicio": 249.43,
-     "fin": 249.61
-    },
-    {
-     "t": "reglas",
-     "inicio": 249.61,
-     "fin": 249.83
-    },
-    {
-     "t": "internacionales",
-     "inicio": 249.83,
-     "fin": 250.77
-    },
-    {
-     "t": "y",
-     "inicio": 250.77,
-     "fin": 251.19
-    },
-    {
-     "t": "cómo",
-     "inicio": 251.19,
-     "fin": 251.35
-    },
-    {
-     "t": "las",
-     "inicio": 251.35,
-     "fin": 251.49
-    },
-    {
-     "t": "grandes",
-     "inicio": 251.49,
-     "fin": 251.67
-    },
-    {
-     "t": "potencias",
-     "inicio": 251.67,
-     "fin": 252.59
-    },
-    {
-     "t": "compiten",
-     "inicio": 252.59,
-     "fin": 253.09
-    },
-    {
-     "t": "por",
-     "inicio": 253.09,
-     "fin": 253.69
-    },
-    {
-     "t": "los",
-     "inicio": 253.69,
-     "fin": 253.81
-    },
-    {
-     "t": "recursos,",
-     "inicio": 253.81,
-     "fin": 254.21
-    },
-    {
-     "t": "por",
-     "inicio": 254.37,
-     "fin": 254.45
-    },
-    {
-     "t": "la",
-     "inicio": 254.45,
-     "fin": 254.57
-    },
-    {
-     "t": "tecnología,",
-     "inicio": 254.57,
-     "fin": 255.11
-    },
-    {
-     "t": "en",
-     "inicio": 255.49,
-     "fin": 255.63
-    },
-    {
-     "t": "definitiva,",
-     "inicio": 255.63,
-     "fin": 256.09
-    },
-    {
-     "t": "por",
-     "inicio": 256.17,
-     "fin": 256.25
-    },
-    {
-     "t": "la",
-     "inicio": 256.25,
-     "fin": 256.35
-    },
-    {
-     "t": "influencia",
-     "inicio": 256.35,
-     "fin": 256.83
-    },
-    {
-     "t": "global?",
-     "inicio": 256.83,
-     "fin": 257.27
-    },
-    {
-     "t": "Vivimos",
-     "inicio": 258.23,
-     "fin": 258.61
-    },
-    {
-     "t": "un",
-     "inicio": 258.61,
-     "fin": 258.89
-    },
-    {
-     "t": "tiempo",
-     "inicio": 258.89,
-     "fin": 259.17
-    },
-    {
-     "t": "en",
-     "inicio": 259.17,
-     "fin": 259.79
-    },
-    {
-     "t": "el",
-     "inicio": 259.79,
-     "fin": 259.91
-    },
-    {
-     "t": "que",
-     "inicio": 259.91,
-     "fin": 260.11
-    },
-    {
-     "t": "demasiados",
-     "inicio": 260.11,
-     "fin": 260.91
-    },
-    {
-     "t": "países",
-     "inicio": 260.91,
-     "fin": 261.39
-    },
-    {
-     "t": "parecen",
-     "inicio": 261.99,
-     "fin": 262.55
-    },
-    {
-     "t": "haber",
-     "inicio": 262.55,
-     "fin": 262.77
-    },
-    {
-     "t": "llegado",
-     "inicio": 262.77,
-     "fin": 263.25
-    },
-    {
-     "t": "a",
-     "inicio": 263.25,
-     "fin": 263.37
-    },
-    {
-     "t": "la",
-     "inicio": 263.37,
-     "fin": 263.37
-    },
-    {
-     "t": "misma",
-     "inicio": 263.37,
-     "fin": 263.55
-    },
-    {
-     "t": "conclusión,",
-     "inicio": 263.55,
-     "fin": 264.23
-    },
-    {
-     "t": "desafortunada,",
-     "inicio": 264.83,
-     "fin": 265.39
-    },
-    {
-     "t": "pero",
-     "inicio": 265.69,
-     "fin": 265.77
-    },
-    {
-     "t": "es",
-     "inicio": 265.77,
-     "fin": 265.89
-    },
-    {
-     "t": "así.",
-     "inicio": 265.89,
-     "fin": 266.07
-    },
-    {
-     "t": "Y",
-     "inicio": 266.81,
-     "fin": 266.95
-    },
-    {
-     "t": "es",
-     "inicio": 266.95,
-     "fin": 267.05
-    },
-    {
-     "t": "que",
-     "inicio": 267.05,
-     "fin": 267.13
-    },
-    {
-     "t": "para",
-     "inicio": 267.13,
-     "fin": 267.33
-    },
-    {
-     "t": "protegerse",
-     "inicio": 267.33,
-     "fin": 267.97
-    },
-    {
-     "t": "hay",
-     "inicio": 267.97,
-     "fin": 268.35
-    },
-    {
-     "t": "que",
-     "inicio": 268.35,
-     "fin": 268.45
-    },
-    {
-     "t": "cerrarse.",
-     "inicio": 268.45,
-     "fin": 268.91
-    },
-    {
-     "t": "Cerrar",
-     "inicio": 269.71,
-     "fin": 270.11
-    },
-    {
-     "t": "fronteras,",
-     "inicio": 270.11,
-     "fin": 270.71
-    },
-    {
-     "t": "levantar",
-     "inicio": 271.23,
-     "fin": 271.73
-    },
-    {
-     "t": "barreras,",
-     "inicio": 271.73,
-     "fin": 272.47
-    },
-    {
-     "t": "reducir",
-     "inicio": 273.01,
-     "fin": 273.51
-    },
-    {
-     "t": "la",
-     "inicio": 273.51,
-     "fin": 273.87
-    },
-    {
-     "t": "cooperación,",
-     "inicio": 273.87,
-     "fin": 274.43
-    },
-    {
-     "t": "contemplar",
-     "inicio": 275.41,
-     "fin": 275.85
-    },
-    {
-     "t": "al",
-     "inicio": 275.85,
-     "fin": 276.05
-    },
-    {
-     "t": "resto",
-     "inicio": 276.05,
-     "fin": 276.25
-    },
-    {
-     "t": "del",
-     "inicio": 276.25,
-     "fin": 276.43
-    },
-    {
-     "t": "mundo",
-     "inicio": 276.43,
-     "fin": 276.65
-    },
-    {
-     "t": "como",
-     "inicio": 276.65,
-     "fin": 276.87
-    },
-    {
-     "t": "una",
-     "inicio": 276.87,
-     "fin": 277.05
-    },
-    {
-     "t": "amenaza,",
-     "inicio": 277.05,
-     "fin": 277.43
-    },
-    {
-     "t": "como",
-     "inicio": 277.81,
-     "fin": 277.83
-    },
-    {
-     "t": "un",
-     "inicio": 277.83,
-     "fin": 277.95
-    },
-    {
-     "t": "riesgo,",
-     "inicio": 277.95,
-     "fin": 278.33
-    },
-    {
-     "t": "en",
-     "inicio": 278.69,
-     "fin": 278.91
-    },
-    {
-     "t": "lugar",
-     "inicio": 278.91,
-     "fin": 279.11
-    },
-    {
-     "t": "de",
-     "inicio": 279.11,
-     "fin": 279.35
-    },
-    {
-     "t": "como",
-     "inicio": 279.35,
-     "fin": 279.59
-    },
-    {
-     "t": "una",
-     "inicio": 279.59,
-     "fin": 279.99
-    },
-    {
-     "t": "oportunidad,",
-     "inicio": 279.99,
-     "fin": 280.59
-    },
-    {
-     "t": "que",
-     "inicio": 280.93,
-     "fin": 281.03
-    },
-    {
-     "t": "es",
-     "inicio": 281.03,
-     "fin": 281.13
-    },
-    {
-     "t": "lo",
-     "inicio": 281.13,
-     "fin": 281.23
-    },
-    {
-     "t": "que",
-     "inicio": 281.23,
-     "fin": 281.31
-    },
-    {
-     "t": "es.",
-     "inicio": 281.31,
-     "fin": 281.51
-    },
-    {
-     "t": "Pues",
-     "inicio": 282.23,
-     "fin": 282.33
-    },
-    {
-     "t": "bien,",
-     "inicio": 282.33,
-     "fin": 282.47
-    },
-    {
-     "t": "yo",
-     "inicio": 283.17,
-     "fin": 283.33
-    },
-    {
-     "t": "creo",
-     "inicio": 283.33,
-     "fin": 283.45
-    },
-    {
-     "t": "que",
-     "inicio": 283.45,
-     "fin": 283.55
-    },
-    {
-     "t": "debemos",
-     "inicio": 283.55,
-     "fin": 283.87
-    },
-    {
-     "t": "hacer",
-     "inicio": 283.87,
-     "fin": 284.31
-    },
-    {
-     "t": "exactamente",
-     "inicio": 284.31,
-     "fin": 284.75
-    },
-    {
-     "t": "lo",
-     "inicio": 284.75,
-     "fin": 284.93
-    },
-    {
-     "t": "contrario.",
-     "inicio": 284.93,
-     "fin": 285.33
-    },
-    {
-     "t": "Frente",
-     "inicio": 286.15,
-     "fin": 286.37
-    },
-    {
-     "t": "a",
-     "inicio": 286.37,
-     "fin": 286.53
-    },
-    {
-     "t": "quienes",
-     "inicio": 286.53,
-     "fin": 286.67
-    },
-    {
-     "t": "se",
-     "inicio": 286.67,
-     "fin": 286.95
-    },
-    {
-     "t": "cierran,",
-     "inicio": 286.95,
-     "fin": 287.37
-    },
-    {
-     "t": "nosotros",
-     "inicio": 287.71,
-     "fin": 288.13
-    },
-    {
-     "t": "debemos",
-     "inicio": 288.13,
-     "fin": 288.79
-    },
-    {
-     "t": "abrirnos.",
-     "inicio": 288.79,
-     "fin": 289.29
-    },
-    {
-     "t": "Frente",
-     "inicio": 289.87,
-     "fin": 290.09
-    },
-    {
-     "t": "a",
-     "inicio": 290.09,
-     "fin": 290.27
-    },
-    {
-     "t": "quienes",
-     "inicio": 290.27,
-     "fin": 290.35
-    },
-    {
-     "t": "levantan",
-     "inicio": 290.35,
-     "fin": 290.81
-    },
-    {
-     "t": "muros,",
-     "inicio": 290.81,
-     "fin": 291.27
-    },
-    {
-     "t": "nosotros",
-     "inicio": 291.55,
-     "fin": 291.73
-    },
-    {
-     "t": "debemos",
-     "inicio": 291.73,
-     "fin": 292.23
-    },
-    {
-     "t": "construir",
-     "inicio": 292.23,
-     "fin": 292.89
-    },
-    {
-     "t": "alianzas.",
-     "inicio": 292.89,
-     "fin": 293.73
-    },
-    {
-     "t": "Y",
-     "inicio": 294.25,
-     "fin": 294.39
-    },
-    {
-     "t": "frente",
-     "inicio": 294.39,
-     "fin": 294.55
-    },
-    {
-     "t": "a",
-     "inicio": 294.55,
-     "fin": 294.73
-    },
-    {
-     "t": "los",
-     "inicio": 294.73,
-     "fin": 294.85
-    },
-    {
-     "t": "que",
-     "inicio": 294.85,
-     "fin": 295.01
-    },
-    {
-     "t": "alimentan",
-     "inicio": 295.01,
-     "fin": 295.67
-    },
-    {
-     "t": "la",
-     "inicio": 295.67,
-     "fin": 295.81
-    },
-    {
-     "t": "guerra,",
-     "inicio": 295.81,
-     "fin": 296.01
-    },
-    {
-     "t": "nosotros",
-     "inicio": 296.63,
-     "fin": 296.85
-    },
-    {
-     "t": "debemos",
-     "inicio": 296.85,
-     "fin": 297.43
-    },
-    {
-     "t": "ser",
-     "inicio": 297.43,
-     "fin": 298.31
-    },
-    {
-     "t": "sembradores",
-     "inicio": 298.31,
-     "fin": 298.93
-    },
-    {
-     "t": "de",
-     "inicio": 298.93,
-     "fin": 299.19
-    },
-    {
-     "t": "paz.",
-     "inicio": 299.19,
-     "fin": 299.37
-    },
-    {
-     "t": "Europa",
-     "inicio": 300.39,
-     "fin": 300.83
-    },
-    {
-     "t": "tiene,",
-     "inicio": 300.83,
-     "fin": 301.27
-    },
-    {
-     "t": "por",
-     "inicio": 301.33,
-     "fin": 301.43
-    },
-    {
-     "t": "supuesto,",
-     "inicio": 301.43,
-     "fin": 301.75
-    },
-    {
-     "t": "que",
-     "inicio": 301.93,
-     "fin": 301.97
-    },
-    {
-     "t": "mirar",
-     "inicio": 301.97,
-     "fin": 302.31
-    },
-    {
-     "t": "más",
-     "inicio": 302.31,
-     "fin": 303.01
-    },
-    {
-     "t": "allá",
-     "inicio": 303.01,
-     "fin": 303.21
-    },
-    {
-     "t": "de",
-     "inicio": 303.21,
-     "fin": 303.35
-    },
-    {
-     "t": "sus",
-     "inicio": 303.35,
-     "fin": 303.49
-    },
-    {
-     "t": "fronteras,",
-     "inicio": 303.49,
-     "fin": 304.09
-    },
-    {
-     "t": "tiene",
-     "inicio": 304.09,
-     "fin": 304.61
-    },
-    {
-     "t": "que",
-     "inicio": 304.61,
-     "fin": 304.75
-    },
-    {
-     "t": "ampliar",
-     "inicio": 304.75,
-     "fin": 305.05
-    },
-    {
-     "t": "sus",
-     "inicio": 305.05,
-     "fin": 305.31
-    },
-    {
-     "t": "alianzas,",
-     "inicio": 305.31,
-     "fin": 305.89
-    },
-    {
-     "t": "tiene",
-     "inicio": 306.17,
-     "fin": 306.59
-    },
-    {
-     "t": "que",
-     "inicio": 306.59,
-     "fin": 306.71
-    },
-    {
-     "t": "hacer",
-     "inicio": 306.71,
-     "fin": 306.93
-    },
-    {
-     "t": "nuevos",
-     "inicio": 306.93,
-     "fin": 307.29
-    },
-    {
-     "t": "amigos",
-     "inicio": 307.29,
-     "fin": 307.69
-    },
-    {
-     "t": "y",
-     "inicio": 307.69,
-     "fin": 308.31
-    },
-    {
-     "t": "cuidar",
-     "inicio": 308.31,
-     "fin": 308.69
-    },
-    {
-     "t": "a",
-     "inicio": 308.69,
-     "fin": 309.23
-    },
-    {
-     "t": "los",
-     "inicio": 309.23,
-     "fin": 309.35
-    },
-    {
-     "t": "que",
-     "inicio": 309.35,
-     "fin": 309.45
-    },
-    {
-     "t": "ya",
-     "inicio": 309.45,
-     "fin": 309.61
-    },
-    {
-     "t": "tiene.",
-     "inicio": 309.61,
-     "fin": 309.89
-    },
-    {
-     "t": "Y",
-     "inicio": 310.43,
-     "fin": 310.65
-    },
-    {
-     "t": "estoy",
-     "inicio": 310.65,
-     "fin": 310.81
-    },
-    {
-     "t": "convencido",
-     "inicio": 310.81,
-     "fin": 311.37
-    },
-    {
-     "t": "de",
-     "inicio": 311.37,
-     "fin": 312.01
-    },
-    {
-     "t": "que",
-     "inicio": 312.01,
-     "fin": 312.09
-    },
-    {
-     "t": "no",
-     "inicio": 312.09,
-     "fin": 312.23
-    },
-    {
-     "t": "existe",
-     "inicio": 312.23,
-     "fin": 312.67
-    },
-    {
-     "t": "ninguna",
-     "inicio": 312.67,
-     "fin": 313.07
-    },
-    {
-     "t": "otra",
-     "inicio": 313.07,
-     "fin": 313.33
-    },
-    {
-     "t": "región",
-     "inicio": 313.33,
-     "fin": 313.73
-    },
-    {
-     "t": "en",
-     "inicio": 313.73,
-     "fin": 313.95
-    },
-    {
-     "t": "el",
-     "inicio": 313.95,
-     "fin": 314.07
-    },
-    {
-     "t": "mundo,",
-     "inicio": 314.07,
-     "fin": 314.33
-    },
-    {
-     "t": "esto",
-     "inicio": 314.41,
-     "fin": 314.55
-    },
-    {
-     "t": "es",
-     "inicio": 314.55,
-     "fin": 314.69
-    },
-    {
-     "t": "algo",
-     "inicio": 314.69,
-     "fin": 314.83
-    },
-    {
-     "t": "que",
-     "inicio": 314.83,
-     "fin": 314.99
-    },
-    {
-     "t": "he",
-     "inicio": 314.99,
-     "fin": 315.13
-    },
-    {
-     "t": "compartido",
-     "inicio": 315.13,
-     "fin": 315.47
-    },
-    {
-     "t": "con",
-     "inicio": 315.47,
-     "fin": 315.61
-    },
-    {
-     "t": "el",
-     "inicio": 315.61,
-     "fin": 315.73
-    },
-    {
-     "t": "presidente",
-     "inicio": 315.73,
-     "fin": 315.95
-    },
-    {
-     "t": "del",
-     "inicio": 315.95,
-     "fin": 316.23
-    },
-    {
-     "t": "Consejo,",
-     "inicio": 316.23,
-     "fin": 316.63
-    },
-    {
-     "t": "con",
-     "inicio": 316.79,
-     "fin": 316.81
-    },
-    {
-     "t": "mi",
-     "inicio": 316.81,
-     "fin": 316.95
-    },
-    {
-     "t": "amigo",
-     "inicio": 316.95,
-     "fin": 317.19
-    },
-    {
-     "t": "Antonio",
-     "inicio": 317.19,
-     "fin": 317.67
-    },
-    {
-     "t": "Costa,",
-     "inicio": 317.67,
-     "fin": 317.99
-    },
-    {
-     "t": "con",
-     "inicio": 318.63,
-     "fin": 318.79
-    },
-    {
-     "t": "la",
-     "inicio": 318.79,
-     "fin": 318.89
-    },
-    {
-     "t": "que",
-     "inicio": 318.89,
-     "fin": 319.01
-    },
-    {
-     "t": "Europa",
-     "inicio": 319.01,
-     "fin": 319.25
-    },
-    {
-     "t": "tenga",
-     "inicio": 319.25,
-     "fin": 319.73
-    },
-    {
-     "t": "tantos",
-     "inicio": 319.73,
-     "fin": 320.41
-    },
-    {
-     "t": "motivos",
-     "inicio": 320.41,
-     "fin": 320.95
-    },
-    {
-     "t": "para",
-     "inicio": 320.95,
-     "fin": 321.15
-    },
-    {
-     "t": "entenderse",
-     "inicio": 321.15,
-     "fin": 321.77
-    },
-    {
-     "t": "como",
-     "inicio": 321.77,
-     "fin": 322.35
-    },
-    {
-     "t": "con",
-     "inicio": 322.35,
-     "fin": 322.83
-    },
-    {
-     "t": "la",
-     "inicio": 322.83,
-     "fin": 323.19
-    },
-    {
-     "t": "comunidad",
-     "inicio": 323.19,
-     "fin": 323.59
-    },
-    {
-     "t": "ciberamericana.",
-     "inicio": 323.59,
-     "fin": 324.29
-    },
-    {
-     "t": "Por",
-     "inicio": 325.09,
-     "fin": 325.35
-    },
-    {
-     "t": "nuestra",
-     "inicio": 325.35,
-     "fin": 325.53
-    },
-    {
-     "t": "historia",
-     "inicio": 325.53,
-     "fin": 325.79
-    },
-    {
-     "t": "compartida,",
-     "inicio": 325.79,
-     "fin": 326.33
-    },
-    {
-     "t": "por",
-     "inicio": 326.43,
-     "fin": 326.49
-    },
-    {
-     "t": "supuesto,",
-     "inicio": 326.49,
-     "fin": 326.79
-    },
-    {
-     "t": "por",
-     "inicio": 327.27,
-     "fin": 327.43
-    },
-    {
-     "t": "nuestras",
-     "inicio": 327.43,
-     "fin": 327.63
-    },
-    {
-     "t": "lenguas,",
-     "inicio": 327.63,
-     "fin": 328.11
-    },
-    {
-     "t": "por",
-     "inicio": 328.57,
-     "fin": 328.61
-    },
-    {
-     "t": "nuestros",
-     "inicio": 328.61,
-     "fin": 328.83
-    },
-    {
-     "t": "vínculos",
-     "inicio": 328.83,
-     "fin": 329.41
-    },
-    {
-     "t": "humanos,",
-     "inicio": 329.41,
-     "fin": 330.27
-    },
-    {
-     "t": "económicos,",
-     "inicio": 330.71,
-     "fin": 331.21
-    },
-    {
-     "t": "culturales,",
-     "inicio": 331.33,
-     "fin": 332.17
-    },
-    {
-     "t": "afectivos,",
-     "inicio": 332.27,
-     "fin": 332.67
-    },
-    {
-     "t": "en",
-     "inicio": 332.67,
-     "fin": 332.85
-    },
-    {
-     "t": "definitiva,",
-     "inicio": 332.85,
-     "fin": 333.35
-    },
-    {
-     "t": "pero",
-     "inicio": 333.81,
-     "fin": 334.03
-    },
-    {
-     "t": "sobre",
-     "inicio": 334.03,
-     "fin": 334.23
-    },
-    {
-     "t": "todo,",
-     "inicio": 334.23,
-     "fin": 334.51
-    },
-    {
-     "t": "por",
-     "inicio": 334.91,
-     "fin": 335.25
-    },
-    {
-     "t": "los",
-     "inicio": 335.25,
-     "fin": 335.39
-    },
-    {
-     "t": "valores",
-     "inicio": 335.39,
-     "fin": 335.65
-    },
-    {
-     "t": "e",
-     "inicio": 335.65,
-     "fin": 336.13
-    },
-    {
-     "t": "intereses",
-     "inicio": 336.13,
-     "fin": 336.77
-    },
-    {
-     "t": "que",
-     "inicio": 336.77,
-     "fin": 336.95
-    },
-    {
-     "t": "podemos",
-     "inicio": 336.95,
-     "fin": 337.25
-    },
-    {
-     "t": "defender",
-     "inicio": 337.25,
-     "fin": 337.55
-    },
-    {
-     "t": "juntos",
-     "inicio": 337.55,
-     "fin": 337.97
-    },
-    {
-     "t": "y",
-     "inicio": 337.97,
-     "fin": 338.17
-    },
-    {
-     "t": "juntas.",
-     "inicio": 338.17,
-     "fin": 338.59
-    },
-    {
-     "t": "La",
-     "inicio": 338.93,
-     "fin": 339.01
-    },
-    {
-     "t": "democracia,",
-     "inicio": 339.01,
-     "fin": 339.51
-    },
-    {
-     "t": "los",
-     "inicio": 339.89,
-     "fin": 339.99
-    },
-    {
-     "t": "derechos",
-     "inicio": 339.99,
-     "fin": 340.15
-    },
-    {
-     "t": "humanos,",
-     "inicio": 340.15,
-     "fin": 340.57
-    },
-    {
-     "t": "la",
-     "inicio": 341.01,
-     "fin": 341.07
-    },
-    {
-     "t": "paz,",
-     "inicio": 341.07,
-     "fin": 341.27
-    },
-    {
-     "t": "el",
-     "inicio": 341.89,
-     "fin": 341.91
-    },
-    {
-     "t": "desarrollo",
-     "inicio": 341.91,
-     "fin": 342.25
-    },
-    {
-     "t": "sostenible,",
-     "inicio": 342.25,
-     "fin": 342.83
-    },
-    {
-     "t": "un",
-     "inicio": 343.39,
-     "fin": 343.49
-    },
-    {
-     "t": "orden",
-     "inicio": 343.49,
-     "fin": 343.67
-    },
-    {
-     "t": "internacional",
-     "inicio": 343.67,
-     "fin": 344.17
-    },
-    {
-     "t": "basado",
-     "inicio": 344.17,
-     "fin": 344.67
-    },
-    {
-     "t": "en",
-     "inicio": 344.67,
-     "fin": 344.81
-    },
-    {
-     "t": "reglas",
-     "inicio": 344.81,
-     "fin": 345.09
-    },
-    {
-     "t": "y,",
-     "inicio": 345.09,
-     "fin": 345.75
-    },
-    {
-     "t": "en",
-     "inicio": 345.87,
-     "fin": 346.43
-    },
-    {
-     "t": "fin,",
-     "inicio": 346.43,
-     "fin": 346.53
-    },
-    {
-     "t": "una",
-     "inicio": 346.87,
-     "fin": 346.99
-    },
-    {
-     "t": "ley",
-     "inicio": 346.99,
-     "fin": 347.25
-    },
-    {
-     "t": "que",
-     "inicio": 347.25,
-     "fin": 347.87
-    },
-    {
-     "t": "sea",
-     "inicio": 347.87,
-     "fin": 348.03
-    },
-    {
-     "t": "la",
-     "inicio": 348.03,
-     "fin": 348.17
-    },
-    {
-     "t": "ley",
-     "inicio": 348.17,
-     "fin": 348.31
-    },
-    {
-     "t": "de",
-     "inicio": 348.31,
-     "fin": 348.45
-    },
-    {
-     "t": "todos",
-     "inicio": 348.45,
-     "fin": 348.65
-    },
-    {
-     "t": "y",
-     "inicio": 348.65,
-     "fin": 349.05
-    },
-    {
-     "t": "no",
-     "inicio": 349.05,
-     "fin": 349.13
-    },
-    {
-     "t": "la",
-     "inicio": 349.13,
-     "fin": 349.23
-    },
-    {
-     "t": "de",
-     "inicio": 349.23,
-     "fin": 349.45
-    },
-    {
-     "t": "más",
-     "inicio": 349.45,
-     "fin": 349.85
-    },
-    {
-     "t": "fuerte.",
-     "inicio": 349.85,
-     "fin": 350.15
-    },
-    {
-     "t": "España",
-     "inicio": 350.77,
-     "fin": 351.15
-    },
-    {
-     "t": "lleva",
-     "inicio": 351.15,
-     "fin": 351.75
-    },
-    {
-     "t": "años",
-     "inicio": 351.75,
-     "fin": 352.03
-    },
-    {
-     "t": "trabajando",
-     "inicio": 352.03,
-     "fin": 352.55
-    },
-    {
-     "t": "para",
-     "inicio": 352.55,
-     "fin": 352.97
-    },
-    {
-     "t": "acercar",
-     "inicio": 352.97,
-     "fin": 353.37
-    },
-    {
-     "t": "Europa,",
-     "inicio": 353.37,
-     "fin": 353.97
-    },
-    {
-     "t": "América",
-     "inicio": 354.45,
-     "fin": 354.69
-    },
-    {
-     "t": "Latina",
-     "inicio": 354.69,
-     "fin": 355.09
-    },
-    {
-     "t": "y",
-     "inicio": 355.09,
-     "fin": 355.19
-    },
-    {
-     "t": "el",
-     "inicio": 355.19,
-     "fin": 355.31
-    },
-    {
-     "t": "Caribe.",
-     "inicio": 355.31,
-     "fin": 355.61
-    },
-    {
-     "t": "Lo",
-     "inicio": 356.05,
-     "fin": 356.25
-    },
-    {
-     "t": "hicimos",
-     "inicio": 356.25,
-     "fin": 356.49
-    },
-    {
-     "t": "impulsando",
-     "inicio": 356.49,
-     "fin": 357.09
-    },
-    {
-     "t": "una",
-     "inicio": 357.09,
-     "fin": 357.27
-    },
-    {
-     "t": "nueva",
-     "inicio": 357.27,
-     "fin": 357.47
-    },
-    {
-     "t": "etapa",
-     "inicio": 357.47,
-     "fin": 357.85
-    },
-    {
-     "t": "en",
-     "inicio": 357.85,
-     "fin": 358.31
-    },
-    {
-     "t": "las",
-     "inicio": 358.31,
-     "fin": 358.39
-    },
-    {
-     "t": "relaciones",
-     "inicio": 358.39,
-     "fin": 358.69
+     "t": "siempre",
+     "inicio": 7.38,
+     "fin": 7.96
     },
     {
      "t": "entre",
-     "inicio": 358.69,
-     "fin": 358.97
+     "inicio": 7.96,
+     "fin": 8.22
     },
     {
-     "t": "la",
-     "inicio": 358.97,
-     "fin": 359.09
+     "t": "los",
+     "inicio": 8.22,
+     "fin": 8.48
     },
     {
-     "t": "Unión",
-     "inicio": 359.09,
-     "fin": 359.21
+     "t": "profesionales",
+     "inicio": 8.48,
+     "fin": 9.06
     },
     {
-     "t": "Europea",
-     "inicio": 359.21,
-     "fin": 359.57
+     "t": "de",
+     "inicio": 9.06,
+     "fin": 9.12
     },
     {
-     "t": "y",
-     "inicio": 359.57,
-     "fin": 359.65
+     "t": "los",
+     "inicio": 9.12,
+     "fin": 9.22
     },
     {
-     "t": "la",
-     "inicio": 359.65,
-     "fin": 359.75
+     "t": "medios",
+     "inicio": 9.22,
+     "fin": 9.42
     },
     {
-     "t": "Celac",
-     "inicio": 359.75,
-     "fin": 360.07
+     "t": "de",
+     "inicio": 9.42,
+     "fin": 9.52
+    },
+    {
+     "t": "comunicación",
+     "inicio": 9.52,
+     "fin": 10.06
     },
     {
      "t": "que",
-     "inicio": 360.07,
-     "fin": 360.61
+     "inicio": 10.06,
+     "fin": 10.18
     },
     {
-     "t": "se",
-     "inicio": 360.61,
-     "fin": 360.67
-    },
-    {
-     "t": "plasmó",
-     "inicio": 360.67,
-     "fin": 361.01
-    },
-    {
-     "t": "precisamente",
-     "inicio": 361.01,
-     "fin": 361.25
-    },
-    {
-     "t": "la",
-     "inicio": 361.25,
-     "fin": 361.69
-    },
-    {
-     "t": "declaración",
-     "inicio": 361.69,
-     "fin": 362.15
-    },
-    {
-     "t": "conjunta",
-     "inicio": 362.15,
-     "fin": 362.67
-    },
-    {
-     "t": "de",
-     "inicio": 362.67,
-     "fin": 362.77
-    },
-    {
-     "t": "Santa",
-     "inicio": 362.77,
-     "fin": 362.91
-    },
-    {
-     "t": "Marta",
-     "inicio": 362.91,
-     "fin": 363.41
-    },
-    {
-     "t": "y",
-     "inicio": 363.41,
-     "fin": 364.07
-    },
-    {
-     "t": "también",
-     "inicio": 364.07,
-     "fin": 364.31
-    },
-    {
-     "t": "defendiendo",
-     "inicio": 364.31,
-     "fin": 364.81
-    },
-    {
-     "t": "el",
-     "inicio": 364.81,
-     "fin": 365.11
-    },
-    {
-     "t": "acuerdo",
-     "inicio": 365.11,
-     "fin": 365.39
-    },
-    {
-     "t": "entre",
-     "inicio": 365.39,
-     "fin": 365.75
-    },
-    {
-     "t": "la",
-     "inicio": 365.75,
-     "fin": 365.91
-    },
-    {
-     "t": "Unión",
-     "inicio": 365.91,
-     "fin": 366.11
-    },
-    {
-     "t": "Europea",
-     "inicio": 366.11,
-     "fin": 366.75
-    },
-    {
-     "t": "y",
-     "inicio": 366.75,
-     "fin": 366.91
-    },
-    {
-     "t": "el",
-     "inicio": 366.91,
-     "fin": 367.03
-    },
-    {
-     "t": "Mercosur.",
-     "inicio": 367.03,
-     "fin": 367.43
-    },
-    {
-     "t": "Por",
-     "inicio": 367.73,
-     "fin": 367.83
-    },
-    {
-     "t": "fin,",
-     "inicio": 367.83,
-     "fin": 368.05
-    },
-    {
-     "t": "después",
-     "inicio": 368.45,
-     "fin": 368.45
-    },
-    {
-     "t": "de",
-     "inicio": 368.45,
-     "fin": 368.65
-    },
-    {
-     "t": "décadas",
-     "inicio": 368.65,
-     "fin": 369.07
-    },
-    {
-     "t": "y",
-     "inicio": 369.07,
-     "fin": 369.23
-    },
-    {
-     "t": "décadas",
-     "inicio": 369.23,
-     "fin": 369.53
-    },
-    {
-     "t": "se",
-     "inicio": 369.97,
-     "fin": 370.25
-    },
-    {
-     "t": "ha",
-     "inicio": 370.25,
-     "fin": 370.33
-    },
-    {
-     "t": "logrado,",
-     "inicio": 370.33,
-     "fin": 370.77
-    },
-    {
-     "t": "llamado",
-     "inicio": 371.29,
-     "fin": 371.65
-    },
-    {
-     "t": "a",
-     "inicio": 371.65,
-     "fin": 372.25
-    },
-    {
-     "t": "crear",
-     "inicio": 372.25,
-     "fin": 372.59
-    },
-    {
-     "t": "una",
-     "inicio": 372.59,
-     "fin": 373.09
-    },
-    {
-     "t": "de",
-     "inicio": 373.09,
-     "fin": 373.21
-    },
-    {
-     "t": "las",
-     "inicio": 373.21,
-     "fin": 373.33
-    },
-    {
-     "t": "mayores",
-     "inicio": 373.33,
-     "fin": 373.77
-    },
-    {
-     "t": "áreas",
-     "inicio": 373.77,
-     "fin": 374.09
-    },
-    {
-     "t": "comerciales",
-     "inicio": 374.87,
-     "fin": 375.43
-    },
-    {
-     "t": "del",
-     "inicio": 375.43,
-     "fin": 375.53
-    },
-    {
-     "t": "mundo",
-     "inicio": 375.53,
-     "fin": 375.71
-    },
-    {
-     "t": "promoviendo",
-     "inicio": 375.71,
-     "fin": 376.29
-    },
-    {
-     "t": "nuevas",
-     "inicio": 376.29,
-     "fin": 376.91
-    },
-    {
-     "t": "inversiones",
-     "inicio": 376.91,
-     "fin": 377.47
-    },
-    {
-     "t": "y",
-     "inicio": 377.47,
-     "fin": 377.61
-    },
-    {
-     "t": "una",
-     "inicio": 377.61,
-     "fin": 377.73
-    },
-    {
-     "t": "cooperación",
-     "inicio": 377.73,
-     "fin": 378.17
-    },
-    {
-     "t": "cada",
-     "inicio": 378.17,
-     "fin": 378.31
-    },
-    {
-     "t": "vez",
-     "inicio": 378.31,
-     "fin": 378.53
-    },
-    {
-     "t": "más",
-     "inicio": 378.53,
-     "fin": 378.67
-    },
-    {
-     "t": "estrecha.",
-     "inicio": 378.67,
-     "fin": 379.15
-    },
-    {
-     "t": "Y",
-     "inicio": 379.73,
-     "fin": 379.95
-    },
-    {
-     "t": "vamos",
-     "inicio": 379.95,
-     "fin": 380.09
-    },
-    {
-     "t": "a",
-     "inicio": 380.09,
-     "fin": 380.23
-    },
-    {
-     "t": "seguir",
-     "inicio": 380.23,
-     "fin": 380.37
-    },
-    {
-     "t": "haciéndolo,",
-     "inicio": 380.37,
-     "fin": 380.79
-    },
-    {
-     "t": "estoy",
-     "inicio": 380.85,
-     "fin": 380.99
-    },
-    {
-     "t": "convencido",
-     "inicio": 380.99,
-     "fin": 381.33
-    },
-    {
-     "t": "de",
-     "inicio": 381.33,
-     "fin": 381.53
-    },
-    {
-     "t": "ello,",
-     "inicio": 381.53,
-     "fin": 381.83
-    },
-    {
-     "t": "porque",
-     "inicio": 382.19,
-     "fin": 382.53
-    },
-    {
-     "t": "una",
-     "inicio": 382.53,
-     "fin": 383.03
-    },
-    {
-     "t": "Europa",
-     "inicio": 383.03,
-     "fin": 383.27
-    },
-    {
-     "t": "más",
-     "inicio": 383.27,
-     "fin": 383.51
-    },
-    {
-     "t": "abierta",
-     "inicio": 383.51,
-     "fin": 383.99
-    },
-    {
-     "t": "a",
-     "inicio": 383.99,
-     "fin": 384.23
-    },
-    {
-     "t": "América",
-     "inicio": 384.23,
-     "fin": 384.45
-    },
-    {
-     "t": "Latina",
-     "inicio": 384.45,
-     "fin": 384.87
-    },
-    {
-     "t": "y",
-     "inicio": 384.87,
-     "fin": 384.97
-    },
-    {
-     "t": "al",
-     "inicio": 384.97,
-     "fin": 385.07
-    },
-    {
-     "t": "Caribe,",
-     "inicio": 385.07,
-     "fin": 385.37
-    },
-    {
-     "t": "sin",
-     "inicio": 385.53,
-     "fin": 386.03
-    },
-    {
-     "t": "duda",
-     "inicio": 386.03,
-     "fin": 386.21
-    },
-    {
-     "t": "alguna",
-     "inicio": 386.21,
-     "fin": 386.43
-    },
-    {
-     "t": "va",
-     "inicio": 386.43,
-     "fin": 386.57
-    },
-    {
-     "t": "a",
-     "inicio": 386.57,
-     "fin": 386.63
-    },
-    {
-     "t": "ser",
-     "inicio": 386.63,
-     "fin": 386.77
-    },
-    {
-     "t": "una",
-     "inicio": 386.77,
-     "fin": 387.17
-    },
-    {
-     "t": "Europa",
-     "inicio": 387.17,
-     "fin": 387.45
-    },
-    {
-     "t": "más",
-     "inicio": 387.45,
-     "fin": 387.85
-    },
-    {
-     "t": "fuerte.",
-     "inicio": 387.85,
-     "fin": 388.17
-    },
-    {
-     "t": "Y",
-     "inicio": 388.71,
-     "fin": 388.79
-    },
-    {
-     "t": "también",
-     "inicio": 388.79,
-     "fin": 389.01
-    },
-    {
-     "t": "una",
-     "inicio": 389.01,
-     "fin": 389.21
-    },
-    {
-     "t": "América",
-     "inicio": 389.21,
-     "fin": 390.11
-    },
-    {
-     "t": "Latina",
-     "inicio": 390.11,
-     "fin": 390.47
-    },
-    {
-     "t": "y",
-     "inicio": 390.47,
-     "fin": 390.59
-    },
-    {
-     "t": "un",
-     "inicio": 390.59,
-     "fin": 390.65
-    },
-    {
-     "t": "Caribe",
-     "inicio": 390.65,
-     "fin": 390.91
-    },
-    {
-     "t": "más",
-     "inicio": 391.3,
-     "fin": 391.53
-    },
-    {
-     "t": "vinculada",
-     "inicio": 391.53,
-     "fin": 392.01
-    },
-    {
-     "t": "a",
-     "inicio": 392.01,
-     "fin": 392.09
-    },
-    {
-     "t": "Europa,",
-     "inicio": 392.09,
-     "fin": 392.33
-    },
-    {
-     "t": "yo",
-     "inicio": 392.91,
-     "fin": 392.97
-    },
-    {
-     "t": "creo",
-     "inicio": 392.97,
-     "fin": 393.09
-    },
-    {
-     "t": "que",
-     "inicio": 393.09,
-     "fin": 393.17
-    },
-    {
-     "t": "también",
-     "inicio": 393.17,
-     "fin": 393.41
-    },
-    {
-     "t": "será",
-     "inicio": 393.41,
-     "fin": 393.63
-    },
-    {
-     "t": "una",
-     "inicio": 393.63,
-     "fin": 394.21
-    },
-    {
-     "t": "América",
-     "inicio": 394.21,
-     "fin": 394.47
-    },
-    {
-     "t": "Latina",
-     "inicio": 394.47,
-     "fin": 395.49
-    },
-    {
-     "t": "y",
-     "inicio": 395.49,
-     "fin": 395.61
-    },
-    {
-     "t": "un",
-     "inicio": 395.61,
-     "fin": 395.69
-    },
-    {
-     "t": "Caribe",
-     "inicio": 395.69,
-     "fin": 396.01
-    },
-    {
-     "t": "con",
-     "inicio": 396.01,
-     "fin": 396.65
-    },
-    {
-     "t": "más",
-     "inicio": 396.65,
-     "fin": 396.83
-    },
-    {
-     "t": "oportunidades",
-     "inicio": 396.83,
-     "fin": 397.45
-    },
-    {
-     "t": "y",
-     "inicio": 397.45,
-     "fin": 397.67
-    },
-    {
-     "t": "con",
-     "inicio": 397.67,
-     "fin": 397.83
-    },
-    {
-     "t": "mayor",
-     "inicio": 397.83,
-     "fin": 398.07
-    },
-    {
-     "t": "capacidad",
-     "inicio": 398.07,
-     "fin": 398.63
-    },
-    {
-     "t": "de",
-     "inicio": 398.63,
-     "fin": 398.87
-    },
-    {
-     "t": "influencia.",
-     "inicio": 398.87,
-     "fin": 399.39
-    },
-    {
-     "t": "Yo",
-     "inicio": 399.75,
-     "fin": 399.87
-    },
-    {
-     "t": "creo",
-     "inicio": 399.87,
-     "fin": 399.97
-    },
-    {
-     "t": "que",
-     "inicio": 399.97,
-     "fin": 400.05
-    },
-    {
-     "t": "ese",
-     "inicio": 400.05,
-     "fin": 400.15
-    },
-    {
-     "t": "es",
-     "inicio": 400.15,
-     "fin": 400.25
-    },
-    {
-     "t": "el",
-     "inicio": 400.25,
-     "fin": 400.35
-    },
-    {
-     "t": "espíritu",
-     "inicio": 400.35,
-     "fin": 401.31
-    },
-    {
-     "t": "de",
-     "inicio": 401.31,
-     "fin": 401.51
-    },
-    {
-     "t": "este",
-     "inicio": 401.51,
-     "fin": 401.63
-    },
-    {
-     "t": "espacio",
-     "inicio": 401.63,
-     "fin": 401.93
-    },
-    {
-     "t": "uberamericano",
-     "inicio": 401.93,
-     "fin": 402.57
-    },
-    {
-     "t": "que",
-     "inicio": 402.57,
-     "fin": 403.21
+     "t": "vienen",
+     "inicio": 10.18,
+     "fin": 10.34
     },
     {
      "t": "aquí",
-     "inicio": 403.21,
-     "fin": 403.39
+     "inicio": 10.34,
+     "fin": 10.64
     },
     {
-     "t": "nos",
-     "inicio": 403.39,
-     "fin": 403.59
-    },
-    {
-     "t": "congrega,",
-     "inicio": 403.59,
-     "fin": 404.13
-    },
-    {
-     "t": "ser",
-     "inicio": 404.27,
-     "fin": 404.47
-    },
-    {
-     "t": "el",
-     "inicio": 404.47,
-     "fin": 405.01
-    },
-    {
-     "t": "catalizador",
-     "inicio": 405.01,
-     "fin": 405.85
+     "t": "y",
+     "inicio": 10.64,
+     "fin": 11.18
     },
     {
      "t": "entre",
-     "inicio": 405.85,
-     "fin": 406.53
+     "inicio": 11.18,
+     "fin": 11.32
     },
     {
-     "t": "ambos",
-     "inicio": 406.53,
-     "fin": 406.87
+     "t": "las",
+     "inicio": 11.32,
+     "fin": 11.5
     },
     {
-     "t": "lados",
-     "inicio": 406.87,
-     "fin": 407.33
+     "t": "líneas",
+     "inicio": 11.5,
+     "fin": 11.8
     },
     {
-     "t": "del",
-     "inicio": 407.33,
-     "fin": 407.55
-    },
-    {
-     "t": "Atlántico.",
-     "inicio": 407.55,
-     "fin": 408.13
-    },
-    {
-     "t": "El",
-     "inicio": 408.55,
-     "fin": 408.73
-    },
-    {
-     "t": "motor",
-     "inicio": 408.73,
-     "fin": 408.93
+     "t": "editoriales",
+     "inicio": 11.8,
+     "fin": 12.42
     },
     {
      "t": "de",
-     "inicio": 408.93,
-     "fin": 409.09
+     "inicio": 12.42,
+     "fin": 12.52
     },
     {
-     "t": "una",
-     "inicio": 409.09,
-     "fin": 409.21
+     "t": "las",
+     "inicio": 12.52,
+     "fin": 12.76
     },
     {
-     "t": "colaboración",
-     "inicio": 409.21,
-     "fin": 409.77
+     "t": "cadenas.",
+     "inicio": 12.76,
+     "fin": 13.32
     },
     {
-     "t": "más",
-     "inicio": 409.77,
-     "fin": 409.97
+     "t": "Pero,",
+     "inicio": 13.52,
+     "fin": 13.72
     },
     {
-     "t": "estrecha",
-     "inicio": 409.97,
-     "fin": 410.37
+     "t": "televisión",
+     "inicio": 14.36,
+     "fin": 14.7
     },
     {
-     "t": "entre",
-     "inicio": 410.37,
-     "fin": 410.57
-    },
-    {
-     "t": "América",
-     "inicio": 410.57,
-     "fin": 410.83
-    },
-    {
-     "t": "Latina,",
-     "inicio": 410.83,
-     "fin": 411.23
-    },
-    {
-     "t": "el",
-     "inicio": 411.33,
-     "fin": 411.33
-    },
-    {
-     "t": "Caribe",
-     "inicio": 411.33,
-     "fin": 411.57
-    },
-    {
-     "t": "y",
-     "inicio": 411.57,
-     "fin": 411.69
-    },
-    {
-     "t": "Europa",
-     "inicio": 411.69,
-     "fin": 411.99
+     "t": "española",
+     "inicio": 14.7,
+     "fin": 15.16
     },
     {
      "t": "en",
-     "inicio": 411.99,
-     "fin": 412.75
-    },
-    {
-     "t": "un",
-     "inicio": 412.75,
-     "fin": 412.83
-    },
-    {
-     "t": "momento",
-     "inicio": 412.83,
-     "fin": 413.05
-    },
-    {
-     "t": "en",
-     "inicio": 413.05,
-     "fin": 413.25
-    },
-    {
-     "t": "el",
-     "inicio": 413.25,
-     "fin": 413.37
-    },
-    {
-     "t": "que",
-     "inicio": 413.37,
-     "fin": 413.49
-    },
-    {
-     "t": "el",
-     "inicio": 413.49,
-     "fin": 413.65
-    },
-    {
-     "t": "mundo",
-     "inicio": 413.65,
-     "fin": 413.85
-    },
-    {
-     "t": "precisamente",
-     "inicio": 413.85,
-     "fin": 414.33
-    },
-    {
-     "t": "necesita",
-     "inicio": 414.33,
-     "fin": 414.97
-    },
-    {
-     "t": "que",
-     "inicio": 414.97,
-     "fin": 415.67
-    },
-    {
-     "t": "trabajemos",
-     "inicio": 415.67,
-     "fin": 416.13
-    },
-    {
-     "t": "juntos",
-     "inicio": 416.13,
-     "fin": 416.47
-    },
-    {
-     "t": "y",
-     "inicio": 416.47,
-     "fin": 417.05
-    },
-    {
-     "t": "hacemos",
-     "inicio": 417.05,
-     "fin": 417.35
-    },
-    {
-     "t": "nuestra",
-     "inicio": 417.35,
-     "fin": 418.07
-    },
-    {
-     "t": "voz.",
-     "inicio": 418.07,
-     "fin": 418.33
-    },
-    {
-     "t": "Por",
-     "inicio": 418.91,
-     "fin": 418.93
-    },
-    {
-     "t": "eso,",
-     "inicio": 418.93,
-     "fin": 419.09
-    },
-    {
-     "t": "en",
-     "inicio": 419.49,
-     "fin": 419.61
-    },
-    {
-     "t": "fin,",
-     "inicio": 419.61,
-     "fin": 419.71
-    },
-    {
-     "t": "yo",
-     "inicio": 419.83,
-     "fin": 419.91
-    },
-    {
-     "t": "lo",
-     "inicio": 419.91,
-     "fin": 420.01
-    },
-    {
-     "t": "dejo",
-     "inicio": 420.01,
-     "fin": 420.21
-    },
-    {
-     "t": "ahí",
-     "inicio": 420.21,
-     "fin": 420.35
-    },
-    {
-     "t": "como",
-     "inicio": 420.35,
-     "fin": 420.51
-    },
-    {
-     "t": "reflexión",
-     "inicio": 420.51,
-     "fin": 421.05
-    },
-    {
-     "t": "un",
-     "inicio": 421.05,
-     "fin": 421.41
-    },
-    {
-     "t": "paso",
-     "inicio": 421.41,
-     "fin": 421.61
-    },
-    {
-     "t": "más",
-     "inicio": 421.61,
-     "fin": 421.83
-    },
-    {
-     "t": "allá,",
-     "inicio": 421.83,
-     "fin": 422.07
-    },
-    {
-     "t": "lo",
-     "inicio": 422.33,
-     "fin": 422.43
-    },
-    {
-     "t": "hemos",
-     "inicio": 422.43,
-     "fin": 422.59
-    },
-    {
-     "t": "visto",
-     "inicio": 422.59,
-     "fin": 422.85
-    },
-    {
-     "t": "por",
-     "inicio": 422.85,
-     "fin": 423.11
-    },
-    {
-     "t": "ejemplo",
-     "inicio": 423.11,
-     "fin": 423.39
-    },
-    {
-     "t": "en",
-     "inicio": 423.39,
-     "fin": 423.85
+     "inicio": 15.16,
+     "fin": 15.3
     },
     {
      "t": "estos",
-     "inicio": 423.85,
-     "fin": 423.99
+     "inicio": 15.3,
+     "fin": 15.52
     },
     {
-     "t": "últimos",
-     "inicio": 423.99,
-     "fin": 424.23
+     "t": "momentos",
+     "inicio": 15.52,
+     "fin": 15.92
     },
     {
-     "t": "tiempos,",
-     "inicio": 424.23,
-     "fin": 424.63
+     "t": "y",
+     "inicio": 15.92,
+     "fin": 16.16
     },
     {
-     "t": "querido",
-     "inicio": 424.65,
-     "fin": 425.17
+     "t": "muy",
+     "inicio": 16.16,
+     "fin": 16.26
     },
     {
-     "t": "Antonio",
-     "inicio": 425.17,
-     "fin": 425.47
+     "t": "especialmente",
+     "inicio": 16.26,
+     "fin": 16.54
     },
     {
-     "t": "con",
-     "inicio": 425.47,
-     "fin": 425.91
+     "t": "algunos",
+     "inicio": 16.54,
+     "fin": 17.08
     },
     {
-     "t": "Canadá,",
-     "inicio": 425.91,
-     "fin": 427.03
+     "t": "programas,",
+     "inicio": 17.08,
+     "fin": 18.22
     },
     {
-     "t": "pero",
-     "inicio": 427.05,
-     "fin": 427.29
+     "t": "creo",
+     "inicio": 18.36,
+     "fin": 18.56
+    },
+    {
+     "t": "que",
+     "inicio": 18.56,
+     "fin": 18.78
+    },
+    {
+     "t": "sean...",
+     "inicio": 18.78,
+     "fin": 19.98
+    },
+    {
+     "t": "No,",
+     "inicio": 19.98,
+     "fin": 20.4
+    },
+    {
+     "t": "silencio,",
+     "inicio": 20.5,
+     "fin": 20.78
+    },
+    {
+     "t": "por",
+     "inicio": 20.9,
+     "fin": 21.46
+    },
+    {
+     "t": "favor,",
+     "inicio": 21.46,
+     "fin": 21.68
+    },
+    {
+     "t": "creo",
+     "inicio": 21.92,
+     "fin": 22.36
+    },
+    {
+     "t": "que",
+     "inicio": 22.36,
+     "fin": 22.52
     },
     {
      "t": "se",
-     "inicio": 427.29,
-     "fin": 427.43
+     "inicio": 22.52,
+     "fin": 22.66
     },
     {
-     "t": "ha",
-     "inicio": 427.43,
-     "fin": 427.51
+     "t": "han",
+     "inicio": 22.66,
+     "fin": 22.74
     },
     {
-     "t": "dado",
-     "inicio": 427.51,
-     "fin": 427.65
-    },
-    {
-     "t": "un",
-     "inicio": 427.65,
-     "fin": 427.81
-    },
-    {
-     "t": "paso",
-     "inicio": 427.81,
-     "fin": 428.09
-    },
-    {
-     "t": "al",
-     "inicio": 428.09,
-     "fin": 428.51
-    },
-    {
-     "t": "frente",
-     "inicio": 428.51,
-     "fin": 428.71
-    },
-    {
-     "t": "para",
-     "inicio": 428.71,
-     "fin": 428.99
-    },
-    {
-     "t": "estrechar",
-     "inicio": 428.99,
-     "fin": 429.41
-    },
-    {
-     "t": "las",
-     "inicio": 429.41,
-     "fin": 429.59
-    },
-    {
-     "t": "relaciones",
-     "inicio": 429.59,
-     "fin": 429.97
-    },
-    {
-     "t": "entre",
-     "inicio": 429.97,
-     "fin": 430.29
-    },
-    {
-     "t": "la",
-     "inicio": 430.29,
-     "fin": 430.43
-    },
-    {
-     "t": "Unión",
-     "inicio": 430.43,
-     "fin": 430.57
-    },
-    {
-     "t": "Europea",
-     "inicio": 430.57,
-     "fin": 431.41
-    },
-    {
-     "t": "y",
-     "inicio": 431.41,
-     "fin": 431.57
-    },
-    {
-     "t": "Canadá.",
-     "inicio": 431.57,
-     "fin": 432.15
-    },
-    {
-     "t": "Hoy",
-     "inicio": 432.37,
-     "fin": 432.51
-    },
-    {
-     "t": "quiero",
-     "inicio": 432.51,
-     "fin": 433.49
-    },
-    {
-     "t": "hacer",
-     "inicio": 433.49,
-     "fin": 433.77
-    },
-    {
-     "t": "una",
-     "inicio": 433.77,
-     "fin": 434.17
-    },
-    {
-     "t": "invitación",
-     "inicio": 434.17,
-     "fin": 434.65
-    },
-    {
-     "t": "a",
-     "inicio": 434.65,
-     "fin": 434.97
-    },
-    {
-     "t": "nuestros",
-     "inicio": 434.97,
-     "fin": 435.11
-    },
-    {
-     "t": "amigos",
-     "inicio": 435.11,
-     "fin": 435.53
-    },
-    {
-     "t": "y",
-     "inicio": 435.53,
-     "fin": 436.11
-    },
-    {
-     "t": "hermanos",
-     "inicio": 436.11,
-     "fin": 436.61
-    },
-    {
-     "t": "y",
-     "inicio": 436.61,
-     "fin": 437.13
-    },
-    {
-     "t": "hermanas",
-     "inicio": 437.13,
-     "fin": 437.43
-    },
-    {
-     "t": "de",
-     "inicio": 437.43,
-     "fin": 437.61
-    },
-    {
-     "t": "América",
-     "inicio": 437.61,
-     "fin": 437.81
-    },
-    {
-     "t": "Latina",
-     "inicio": 437.81,
-     "fin": 438.23
-    },
-    {
-     "t": "y",
-     "inicio": 438.23,
-     "fin": 438.37
-    },
-    {
-     "t": "el",
-     "inicio": 438.37,
-     "fin": 438.47
-    },
-    {
-     "t": "Caribe",
-     "inicio": 438.47,
-     "fin": 438.77
-    },
-    {
-     "t": "que",
-     "inicio": 438.77,
-     "fin": 439.43
-    },
-    {
-     "t": "a",
-     "inicio": 439.43,
-     "fin": 439.47
-    },
-    {
-     "t": "lo",
-     "inicio": 439.47,
-     "fin": 439.51
-    },
-    {
-     "t": "mejor",
-     "inicio": 439.51,
-     "fin": 439.77
-    },
-    {
-     "t": "sigan",
-     "inicio": 439.77,
-     "fin": 440.65
-    },
-    {
-     "t": "por",
-     "inicio": 440.65,
-     "fin": 440.89
-    },
-    {
-     "t": "qué",
-     "inicio": 440.89,
-     "fin": 441.03
-    },
-    {
-     "t": "no",
-     "inicio": 441.03,
-     "fin": 441.17
-    },
-    {
-     "t": "ese",
-     "inicio": 441.17,
-     "fin": 441.63
-    },
-    {
-     "t": "ejemplo.",
-     "inicio": 441.63,
-     "fin": 441.99
-    },
-    {
-     "t": "Que",
-     "inicio": 441.99,
-     "fin": 442.69
-    },
-    {
-     "t": "América",
-     "inicio": 442.69,
-     "fin": 442.91
-    },
-    {
-     "t": "Latina",
-     "inicio": 442.91,
-     "fin": 443.39
-    },
-    {
-     "t": "y",
-     "inicio": 443.39,
-     "fin": 444.03
-    },
-    {
-     "t": "el",
-     "inicio": 444.03,
-     "fin": 444.13
-    },
-    {
-     "t": "Caribe",
-     "inicio": 444.13,
-     "fin": 444.41
-    },
-    {
-     "t": "estreche",
-     "inicio": 444.41,
-     "fin": 444.79
-    },
-    {
-     "t": "sus",
-     "inicio": 444.79,
-     "fin": 444.99
-    },
-    {
-     "t": "lazos",
-     "inicio": 444.99,
-     "fin": 445.37
-    },
-    {
-     "t": "con",
-     "inicio": 445.37,
-     "fin": 445.61
-    },
-    {
-     "t": "Europa",
-     "inicio": 445.61,
-     "fin": 446.07
-    },
-    {
-     "t": "que",
-     "inicio": 446.07,
-     "fin": 446.43
-    },
-    {
-     "t": "ambas",
-     "inicio": 446.43,
-     "fin": 446.65
-    },
-    {
-     "t": "regiones",
-     "inicio": 446.65,
-     "fin": 447.23
-    },
-    {
-     "t": "construyan",
-     "inicio": 447.23,
-     "fin": 448.11
-    },
-    {
-     "t": "una",
-     "inicio": 448.11,
-     "fin": 448.43
-    },
-    {
-     "t": "alianza",
-     "inicio": 448.43,
-     "fin": 448.75
-    },
-    {
-     "t": "más",
-     "inicio": 448.75,
-     "fin": 448.93
-    },
-    {
-     "t": "fuerte,",
-     "inicio": 448.93,
-     "fin": 449.15
-    },
-    {
-     "t": "más",
-     "inicio": 449.27,
-     "fin": 449.37
-    },
-    {
-     "t": "ambiciosa",
-     "inicio": 449.37,
-     "fin": 450.25
-    },
-    {
-     "t": "y",
-     "inicio": 450.25,
-     "fin": 450.39
-    },
-    {
-     "t": "por",
-     "inicio": 450.39,
-     "fin": 450.55
-    },
-    {
-     "t": "qué",
-     "inicio": 450.55,
-     "fin": 450.67
-    },
-    {
-     "t": "no",
-     "inicio": 450.67,
-     "fin": 450.75
-    },
-    {
-     "t": "decirlo",
-     "inicio": 450.75,
-     "fin": 451.13
-    },
-    {
-     "t": "también",
-     "inicio": 451.13,
-     "fin": 451.41
-    },
-    {
-     "t": "con",
-     "inicio": 451.41,
-     "fin": 451.83
-    },
-    {
-     "t": "mayor",
-     "inicio": 451.83,
-     "fin": 452.09
-    },
-    {
-     "t": "peso",
-     "inicio": 452.09,
-     "fin": 452.41
+     "t": "convertido",
+     "inicio": 22.74,
+     "fin": 23.28
     },
     {
      "t": "en",
-     "inicio": 452.41,
-     "fin": 452.55
-    },
-    {
-     "t": "el",
-     "inicio": 452.55,
-     "fin": 452.65
-    },
-    {
-     "t": "mundo.",
-     "inicio": 452.65,
-     "fin": 452.89
-    },
-    {
-     "t": "Y",
-     "inicio": 453.49,
-     "fin": 453.67
-    },
-    {
-     "t": "quiero",
-     "inicio": 453.67,
-     "fin": 453.83
-    },
-    {
-     "t": "decirles",
-     "inicio": 453.83,
-     "fin": 454.23
-    },
-    {
-     "t": "para",
-     "inicio": 454.23,
-     "fin": 454.41
-    },
-    {
-     "t": "finalizar",
-     "inicio": 454.41,
-     "fin": 455.23
-    },
-    {
-     "t": "algo",
-     "inicio": 455.23,
-     "fin": 455.53
-    },
-    {
-     "t": "con",
-     "inicio": 455.53,
-     "fin": 456.09
-    },
-    {
-     "t": "total",
-     "inicio": 456.09,
-     "fin": 456.35
-    },
-    {
-     "t": "claridad.",
-     "inicio": 456.35,
-     "fin": 456.81
-    },
-    {
-     "t": "España",
-     "inicio": 457.11,
-     "fin": 457.51
-    },
-    {
-     "t": "siempre",
-     "inicio": 457.51,
-     "fin": 457.97
-    },
-    {
-     "t": "va",
-     "inicio": 457.97,
-     "fin": 458.19
-    },
-    {
-     "t": "a",
-     "inicio": 458.19,
-     "fin": 458.31
-    },
-    {
-     "t": "estar",
-     "inicio": 458.31,
-     "fin": 458.31
-    },
-    {
-     "t": "ahí,",
-     "inicio": 458.31,
-     "fin": 458.51
-    },
-    {
-     "t": "siempre",
-     "inicio": 459.03,
-     "fin": 459.51
-    },
-    {
-     "t": "va",
-     "inicio": 459.51,
-     "fin": 459.77
-    },
-    {
-     "t": "a",
-     "inicio": 459.77,
-     "fin": 459.89
-    },
-    {
-     "t": "estar",
-     "inicio": 459.89,
-     "fin": 459.89
-    },
-    {
-     "t": "ahí.",
-     "inicio": 459.89,
-     "fin": 460.13
-    },
-    {
-     "t": "Para",
-     "inicio": 460.65,
-     "fin": 460.99
-    },
-    {
-     "t": "abrirles",
-     "inicio": 460.99,
-     "fin": 461.41
-    },
-    {
-     "t": "las",
-     "inicio": 461.41,
-     "fin": 461.55
-    },
-    {
-     "t": "puertas",
-     "inicio": 461.55,
-     "fin": 461.87
-    },
-    {
-     "t": "de",
-     "inicio": 461.87,
-     "fin": 462.01
-    },
-    {
-     "t": "Europa",
-     "inicio": 462.01,
-     "fin": 462.25
-    },
-    {
-     "t": "junto",
-     "inicio": 462.25,
-     "fin": 462.51
-    },
-    {
-     "t": "con",
-     "inicio": 462.51,
-     "fin": 462.77
-    },
-    {
-     "t": "nuestros",
-     "inicio": 462.77,
-     "fin": 462.99
-    },
-    {
-     "t": "hermanos",
-     "inicio": 462.99,
-     "fin": 463.47
-    },
-    {
-     "t": "portugueses",
-     "inicio": 463.47,
-     "fin": 464.09
-    },
-    {
-     "t": "que",
-     "inicio": 464.09,
-     "fin": 464.79
-    },
-    {
-     "t": "siempre",
-     "inicio": 464.79,
-     "fin": 465.15
-    },
-    {
-     "t": "que",
-     "inicio": 465.15,
-     "fin": 465.79
-    },
-    {
-     "t": "llamen",
-     "inicio": 465.79,
-     "fin": 466.09
-    },
-    {
-     "t": "a",
-     "inicio": 466.09,
-     "fin": 466.19
-    },
-    {
-     "t": "ellas",
-     "inicio": 466.19,
-     "fin": 466.49
-    },
-    {
-     "t": "allí",
-     "inicio": 466.49,
-     "fin": 467.11
-    },
-    {
-     "t": "estará",
-     "inicio": 467.11,
-     "fin": 467.85
-    },
-    {
-     "t": "la",
-     "inicio": 467.85,
-     "fin": 468.11
-    },
-    {
-     "t": "Península",
-     "inicio": 468.11,
-     "fin": 468.51
-    },
-    {
-     "t": "Ibérica.",
-     "inicio": 468.51,
-     "fin": 468.91
-    },
-    {
-     "t": "Porque",
-     "inicio": 469.21,
-     "fin": 469.61
-    },
-    {
-     "t": "nuestros",
-     "inicio": 469.61,
-     "fin": 469.99
-    },
-    {
-     "t": "pueblos",
-     "inicio": 469.99,
-     "fin": 470.47
-    },
-    {
-     "t": "llevan",
-     "inicio": 470.47,
-     "fin": 471.05
-    },
-    {
-     "t": "siglos",
-     "inicio": 471.05,
-     "fin": 471.49
-    },
-    {
-     "t": "tendiendo",
-     "inicio": 472.17,
-     "fin": 472.49
-    },
-    {
-     "t": "puentes",
-     "inicio": 472.49,
-     "fin": 472.85
-    },
-    {
-     "t": "a",
-     "inicio": 472.85,
-     "fin": 473.01
-    },
-    {
-     "t": "través",
-     "inicio": 473.01,
-     "fin": 473.25
-    },
-    {
-     "t": "del",
-     "inicio": 473.25,
-     "fin": 473.41
-    },
-    {
-     "t": "Atlántico",
-     "inicio": 473.41,
-     "fin": 473.95
-    },
-    {
-     "t": "y",
-     "inicio": 474.27,
-     "fin": 474.59
-    },
-    {
-     "t": "hoy",
-     "inicio": 474.59,
-     "fin": 474.75
-    },
-    {
-     "t": "nos",
-     "inicio": 474.75,
-     "fin": 475.05
-    },
-    {
-     "t": "corresponde",
-     "inicio": 475.05,
-     "fin": 475.57
-    },
-    {
-     "t": "construir",
-     "inicio": 475.57,
-     "fin": 475.93
+     "inicio": 23.28,
+     "fin": 23.56
     },
     {
      "t": "los",
-     "inicio": 476.25,
-     "fin": 476.57
+     "inicio": 23.56,
+     "fin": 23.84
+    },
+    {
+     "t": "jefes",
+     "inicio": 23.84,
+     "fin": 24.14
+    },
+    {
+     "t": "de",
+     "inicio": 24.14,
+     "fin": 24.2
+    },
+    {
+     "t": "la",
+     "inicio": 24.2,
+     "fin": 24.28
+    },
+    {
+     "t": "campaña",
+     "inicio": 24.28,
+     "fin": 24.68
+    },
+    {
+     "t": "de",
+     "inicio": 24.68,
+     "fin": 24.82
+    },
+    {
+     "t": "Pedro",
+     "inicio": 24.82,
+     "fin": 25.04
+    },
+    {
+     "t": "Sánchez,",
+     "inicio": 25.04,
+     "fin": 25.46
+    },
+    {
+     "t": "hace",
+     "inicio": 25.76,
+     "fin": 26.02
+    },
+    {
+     "t": "ya",
+     "inicio": 26.02,
+     "fin": 26.14
+    },
+    {
+     "t": "mucho",
+     "inicio": 26.14,
+     "fin": 26.3
+    },
+    {
+     "t": "tiempo",
+     "inicio": 26.3,
+     "fin": 26.6
     },
     {
      "t": "que",
-     "inicio": 476.57,
-     "fin": 476.73
+     "inicio": 26.6,
+     "fin": 26.88
     },
     {
-     "t": "necesitarán,",
-     "inicio": 476.73,
-     "fin": 477.51
+     "t": "están",
+     "inicio": 26.88,
+     "fin": 27.64
     },
     {
-     "t": "como",
-     "inicio": 477.51,
-     "fin": 477.77
-    },
-    {
-     "t": "hemos",
-     "inicio": 477.77,
-     "fin": 477.93
-    },
-    {
-     "t": "visto",
-     "inicio": 477.93,
-     "fin": 478.25
-    },
-    {
-     "t": "también",
-     "inicio": 478.25,
-     "fin": 478.59
+     "t": "insistiendo",
+     "inicio": 27.64,
+     "fin": 28.16
     },
     {
      "t": "en",
-     "inicio": 478.59,
-     "fin": 479.31
+     "inicio": 28.16,
+     "fin": 28.26
     },
     {
-     "t": "estos",
-     "inicio": 479.31,
-     "fin": 479.49
-    },
-    {
-     "t": "dibujos",
-     "inicio": 479.49,
-     "fin": 480.03
+     "t": "manipular",
+     "inicio": 28.26,
+     "fin": 28.64
     },
     {
      "t": "las",
-     "inicio": 480.03,
-     "fin": 480.57
+     "inicio": 28.64,
+     "fin": 28.82
     },
     {
-     "t": "próximas",
-     "inicio": 480.57,
-     "fin": 481.03
-    },
-    {
-     "t": "generaciones.",
-     "inicio": 481.03,
-     "fin": 481.59
-    },
-    {
-     "t": "No",
-     "inicio": 482.15,
-     "fin": 482.33
-    },
-    {
-     "t": "queremos",
-     "inicio": 482.33,
-     "fin": 482.65
-    },
-    {
-     "t": "un",
-     "inicio": 482.65,
-     "fin": 483.19
-    },
-    {
-     "t": "mundo",
-     "inicio": 483.19,
-     "fin": 483.35
+     "t": "posiciones",
+     "inicio": 28.82,
+     "fin": 29.28
     },
     {
      "t": "de",
-     "inicio": 483.35,
-     "fin": 483.51
+     "inicio": 29.28,
+     "fin": 29.44
     },
     {
-     "t": "países",
-     "inicio": 483.51,
-     "fin": 483.83
+     "t": "Vox,",
+     "inicio": 29.44,
+     "fin": 29.64
     },
     {
-     "t": "cada",
-     "inicio": 483.83,
-     "fin": 484.09
+     "t": "mis",
+     "inicio": 29.76,
+     "fin": 29.86
     },
     {
-     "t": "vez",
-     "inicio": 484.09,
-     "fin": 484.33
+     "t": "propias",
+     "inicio": 29.86,
+     "fin": 30.2
     },
     {
-     "t": "más",
-     "inicio": 484.33,
-     "fin": 484.49
+     "t": "palabras,",
+     "inicio": 30.2,
+     "fin": 30.56
     },
     {
-     "t": "solos.",
-     "inicio": 484.49,
-     "fin": 485.29
+     "t": "cortando",
+     "inicio": 30.76,
+     "fin": 31.2
     },
     {
-     "t": "Queremos",
-     "inicio": 485.37,
-     "fin": 485.69
+     "t": "mis",
+     "inicio": 31.2,
+     "fin": 31.36
     },
     {
-     "t": "un",
-     "inicio": 485.69,
-     "fin": 486.21
-    },
-    {
-     "t": "mundo",
-     "inicio": 486.21,
-     "fin": 486.37
+     "t": "declaraciones",
+     "inicio": 31.36,
+     "fin": 31.96
     },
     {
      "t": "de",
-     "inicio": 486.37,
-     "fin": 486.53
+     "inicio": 31.96,
+     "fin": 32.16
     },
     {
-     "t": "países",
-     "inicio": 486.53,
-     "fin": 486.87
+     "t": "manera",
+     "inicio": 32.16,
+     "fin": 32.38
     },
     {
-     "t": "cada",
-     "inicio": 486.87,
-     "fin": 487.51
-    },
-    {
-     "t": "vez",
-     "inicio": 487.51,
-     "fin": 487.79
-    },
-    {
-     "t": "más",
-     "inicio": 487.79,
-     "fin": 488.15
-    },
-    {
-     "t": "unidos.",
-     "inicio": 488.15,
-     "fin": 488.53
-    },
-    {
-     "t": "Y",
-     "inicio": 489.09,
-     "fin": 489.31
-    },
-    {
-     "t": "no",
-     "inicio": 489.31,
-     "fin": 489.37
-    },
-    {
-     "t": "se",
-     "inicio": 489.37,
-     "fin": 489.45
-    },
-    {
-     "t": "me",
-     "inicio": 489.45,
-     "fin": 489.57
-    },
-    {
-     "t": "ocurre",
-     "inicio": 489.57,
-     "fin": 489.89
-    },
-    {
-     "t": "un",
-     "inicio": 489.89,
-     "fin": 490.41
-    },
-    {
-     "t": "mejor",
-     "inicio": 490.41,
-     "fin": 490.63
-    },
-    {
-     "t": "lugar",
-     "inicio": 490.63,
-     "fin": 491.03
-    },
-    {
-     "t": "que",
-     "inicio": 491.03,
-     "fin": 491.59
-    },
-    {
-     "t": "esta",
-     "inicio": 491.59,
-     "fin": 491.81
-    },
-    {
-     "t": "comunidad",
-     "inicio": 491.81,
-     "fin": 492.17
-    },
-    {
-     "t": "ciberamericana",
-     "inicio": 492.17,
-     "fin": 492.91
-    },
-    {
-     "t": "para",
-     "inicio": 492.91,
-     "fin": 493.57
-    },
-    {
-     "t": "empezar",
-     "inicio": 493.57,
-     "fin": 493.81
-    },
-    {
-     "t": "a",
-     "inicio": 493.81,
-     "fin": 493.99
-    },
-    {
-     "t": "construirlo.",
-     "inicio": 493.99,
-     "fin": 494.59
-    },
-    {
-     "t": "Nada",
-     "inicio": 494.71,
-     "fin": 494.83
-    },
-    {
-     "t": "más",
-     "inicio": 494.83,
-     "fin": 495.07
+     "t": "maliciosa",
+     "inicio": 32.38,
+     "fin": 33.98
     },
     {
      "t": "y",
-     "inicio": 495.07,
-     "fin": 495.31
+     "inicio": 33.98,
+     "fin": 34.06
     },
     {
-     "t": "muchas",
-     "inicio": 495.31,
-     "fin": 495.47
+     "t": "por",
+     "inicio": 34.06,
+     "fin": 34.16
     },
     {
-     "t": "gracias.",
-     "inicio": 495.47,
-     "fin": 495.71
+     "t": "lo",
+     "inicio": 34.16,
+     "fin": 34.26
+    },
+    {
+     "t": "tanto,",
+     "inicio": 34.26,
+     "fin": 34.5
+    },
+    {
+     "t": "yo",
+     "inicio": 34.88,
+     "fin": 35.2
+    },
+    {
+     "t": "no",
+     "inicio": 35.2,
+     "fin": 35.3
+    },
+    {
+     "t": "puedo",
+     "inicio": 35.3,
+     "fin": 35.5
+    },
+    {
+     "t": "contestar",
+     "inicio": 35.5,
+     "fin": 36.26
+    },
+    {
+     "t": "al",
+     "inicio": 36.26,
+     "fin": 36.76
+    },
+    {
+     "t": "activismo,",
+     "inicio": 36.76,
+     "fin": 37.3
+    },
+    {
+     "t": "probablemente",
+     "inicio": 37.4,
+     "fin": 37.7
+    },
+    {
+     "t": "ahora",
+     "inicio": 37.7,
+     "fin": 37.76
+    },
+    {
+     "t": "nos",
+     "inicio": 37.76,
+     "fin": 37.94
+    },
+    {
+     "t": "están",
+     "inicio": 37.94,
+     "fin": 38.16
+    },
+    {
+     "t": "emitiendo",
+     "inicio": 38.16,
+     "fin": 38.72
+    },
+    {
+     "t": "en",
+     "inicio": 38.72,
+     "fin": 38.98
+    },
+    {
+     "t": "directo",
+     "inicio": 38.98,
+     "fin": 39.42
+    },
+    {
+     "t": "y",
+     "inicio": 39.42,
+     "fin": 39.48
+    },
+    {
+     "t": "tengo",
+     "inicio": 39.48,
+     "fin": 39.66
+    },
+    {
+     "t": "que",
+     "inicio": 39.66,
+     "fin": 39.78
+    },
+    {
+     "t": "decirle",
+     "inicio": 39.78,
+     "fin": 40.18
+    },
+    {
+     "t": "a",
+     "inicio": 40.18,
+     "fin": 40.26
+    },
+    {
+     "t": "quien",
+     "inicio": 40.26,
+     "fin": 40.42
+    },
+    {
+     "t": "dirija",
+     "inicio": 40.42,
+     "fin": 41.24
+    },
+    {
+     "t": "ese",
+     "inicio": 41.24,
+     "fin": 41.42
+    },
+    {
+     "t": "programa,",
+     "inicio": 41.42,
+     "fin": 41.86
+    },
+    {
+     "t": "el",
+     "inicio": 41.92,
+     "fin": 42.02
+    },
+    {
+     "t": "que",
+     "inicio": 42.02,
+     "fin": 42.12
+    },
+    {
+     "t": "sea,",
+     "inicio": 42.12,
+     "fin": 42.32
+    },
+    {
+     "t": "que",
+     "inicio": 42.42,
+     "fin": 42.46
+    },
+    {
+     "t": "no",
+     "inicio": 42.46,
+     "fin": 42.56
+    },
+    {
+     "t": "sé",
+     "inicio": 42.56,
+     "fin": 42.68
+    },
+    {
+     "t": "cuál",
+     "inicio": 42.68,
+     "fin": 42.82
+    },
+    {
+     "t": "es",
+     "inicio": 42.82,
+     "fin": 43.02
+    },
+    {
+     "t": "en",
+     "inicio": 43.02,
+     "fin": 43.62
+    },
+    {
+     "t": "este",
+     "inicio": 43.62,
+     "fin": 43.8
+    },
+    {
+     "t": "momento,",
+     "inicio": 43.8,
+     "fin": 44.12
+    },
+    {
+     "t": "que",
+     "inicio": 44.4,
+     "fin": 44.6
+    },
+    {
+     "t": "no",
+     "inicio": 44.6,
+     "fin": 44.72
+    },
+    {
+     "t": "están",
+     "inicio": 44.72,
+     "fin": 44.88
+    },
+    {
+     "t": "dando",
+     "inicio": 44.88,
+     "fin": 45.08
+    },
+    {
+     "t": "información,",
+     "inicio": 45.08,
+     "fin": 45.44
+    },
+    {
+     "t": "que",
+     "inicio": 45.72,
+     "fin": 45.8
+    },
+    {
+     "t": "están",
+     "inicio": 45.8,
+     "fin": 46
+    },
+    {
+     "t": "manipulando",
+     "inicio": 46,
+     "fin": 46.48
+    },
+    {
+     "t": "los",
+     "inicio": 46.48,
+     "fin": 46.6
+    },
+    {
+     "t": "españoles",
+     "inicio": 46.6,
+     "fin": 47.1
+    },
+    {
+     "t": "y",
+     "inicio": 47.1,
+     "fin": 47.26
+    },
+    {
+     "t": "que",
+     "inicio": 47.26,
+     "fin": 47.36
+    },
+    {
+     "t": "cuando",
+     "inicio": 47.36,
+     "fin": 47.6
+    },
+    {
+     "t": "las",
+     "inicio": 47.6,
+     "fin": 47.92
+    },
+    {
+     "t": "cosas",
+     "inicio": 47.92,
+     "fin": 48.06
+    },
+    {
+     "t": "cambien,",
+     "inicio": 48.06,
+     "fin": 48.44
+    },
+    {
+     "t": "si",
+     "inicio": 48.5,
+     "fin": 48.56
+    },
+    {
+     "t": "los",
+     "inicio": 48.56,
+     "fin": 48.66
+    },
+    {
+     "t": "españoles",
+     "inicio": 48.66,
+     "fin": 49.02
+    },
+    {
+     "t": "quieren,",
+     "inicio": 49.02,
+     "fin": 49.36
+    },
+    {
+     "t": "pues",
+     "inicio": 49.76,
+     "fin": 49.8
+    },
+    {
+     "t": "haremos",
+     "inicio": 49.8,
+     "fin": 50.06
+    },
+    {
+     "t": "una",
+     "inicio": 50.06,
+     "fin": 50.2
+    },
+    {
+     "t": "televisión",
+     "inicio": 50.2,
+     "fin": 50.66
+    },
+    {
+     "t": "para",
+     "inicio": 50.66,
+     "fin": 50.82
+    },
+    {
+     "t": "todos,",
+     "inicio": 50.82,
+     "fin": 51.06
+    },
+    {
+     "t": "no",
+     "inicio": 51.2,
+     "fin": 51.26
+    },
+    {
+     "t": "una",
+     "inicio": 51.26,
+     "fin": 51.4
+    },
+    {
+     "t": "televisión",
+     "inicio": 51.4,
+     "fin": 51.84
+    },
+    {
+     "t": "ideológica",
+     "inicio": 51.84,
+     "fin": 52.48
+    },
+    {
+     "t": "al",
+     "inicio": 52.48,
+     "fin": 53.04
+    },
+    {
+     "t": "servicio",
+     "inicio": 53.04,
+     "fin": 53.38
+    },
+    {
+     "t": "de",
+     "inicio": 53.38,
+     "fin": 53.62
+    },
+    {
+     "t": "Pedro",
+     "inicio": 53.62,
+     "fin": 53.8
+    },
+    {
+     "t": "Sánchez.",
+     "inicio": 53.8,
+     "fin": 54.18
+    }
+   ],
+   "habla": true
+  },
+  {
+   "id": "ig-18116118614024451",
+   "fuente": "instagram",
+   "cuenta": "@santi_abascal",
+   "nombre": "🇪🇸 Santiago Abascal 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1626538,
+   "fecha": "2026-11-05T12:12:52+0000",
+   "horas": 1,
+   "me_gusta": 961,
+   "comentarios": 14,
+   "viral": 58.9,
+   "enlace": "https://www.instagram.com/reel/DfXAB2rItGW/",
+   "texto": "¡Gracias Ciudad Real!\nHartos de la Mafia de Sánchez.\n#CiudadReal",
+   "credito": "Vídeo: @santi_abascal",
+   "duracion": 151.4,
+   "archivo": "ig-18116118614024451.mp4",
+   "frases": [
+    {
+     "inicio": 42.9,
+     "fin": 46.98,
+     "texto": "un peligro para las mujeres porque bajo su gobierno se han multiplicado por tres"
+    },
+    {
+     "inicio": 46.98,
+     "fin": 50.34,
+     "texto": "las violaciones en España, así que no tenemos ningún miedo a ningún debate y"
+    },
+    {
+     "inicio": 50.34,
+     "fin": 51.68,
+     "texto": "al contrario tenemos mucho que decir."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "un",
+     "inicio": 42.9,
+     "fin": 43.02
+    },
+    {
+     "t": "peligro",
+     "inicio": 43.02,
+     "fin": 43.36
+    },
+    {
+     "t": "para",
+     "inicio": 43.36,
+     "fin": 43.5
+    },
+    {
+     "t": "las",
+     "inicio": 43.5,
+     "fin": 43.64
+    },
+    {
+     "t": "mujeres",
+     "inicio": 43.64,
+     "fin": 43.96
+    },
+    {
+     "t": "porque",
+     "inicio": 43.96,
+     "fin": 44.36
+    },
+    {
+     "t": "bajo",
+     "inicio": 44.36,
+     "fin": 44.62
+    },
+    {
+     "t": "su",
+     "inicio": 44.62,
+     "fin": 44.82
+    },
+    {
+     "t": "gobierno",
+     "inicio": 44.82,
+     "fin": 45.1
+    },
+    {
+     "t": "se",
+     "inicio": 45.1,
+     "fin": 45.32
+    },
+    {
+     "t": "han",
+     "inicio": 45.32,
+     "fin": 45.4
+    },
+    {
+     "t": "multiplicado",
+     "inicio": 45.4,
+     "fin": 45.94
+    },
+    {
+     "t": "por",
+     "inicio": 45.94,
+     "fin": 46.74
+    },
+    {
+     "t": "tres",
+     "inicio": 46.74,
+     "fin": 46.98
+    },
+    {
+     "t": "las",
+     "inicio": 46.98,
+     "fin": 47.16
+    },
+    {
+     "t": "violaciones",
+     "inicio": 47.16,
+     "fin": 47.54
+    },
+    {
+     "t": "en",
+     "inicio": 47.54,
+     "fin": 47.74
+    },
+    {
+     "t": "España,",
+     "inicio": 47.74,
+     "fin": 48.02
+    },
+    {
+     "t": "así",
+     "inicio": 48.36,
+     "fin": 48.66
+    },
+    {
+     "t": "que",
+     "inicio": 48.66,
+     "fin": 48.76
+    },
+    {
+     "t": "no",
+     "inicio": 48.76,
+     "fin": 48.86
+    },
+    {
+     "t": "tenemos",
+     "inicio": 48.86,
+     "fin": 49.18
+    },
+    {
+     "t": "ningún",
+     "inicio": 49.18,
+     "fin": 49.38
+    },
+    {
+     "t": "miedo",
+     "inicio": 49.38,
+     "fin": 49.64
+    },
+    {
+     "t": "a",
+     "inicio": 49.64,
+     "fin": 49.74
+    },
+    {
+     "t": "ningún",
+     "inicio": 49.74,
+     "fin": 49.86
+    },
+    {
+     "t": "debate",
+     "inicio": 49.86,
+     "fin": 50.18
+    },
+    {
+     "t": "y",
+     "inicio": 50.18,
+     "fin": 50.34
+    },
+    {
+     "t": "al",
+     "inicio": 50.34,
+     "fin": 50.44
+    },
+    {
+     "t": "contrario",
+     "inicio": 50.44,
+     "fin": 50.66
+    },
+    {
+     "t": "tenemos",
+     "inicio": 50.66,
+     "fin": 51.04
+    },
+    {
+     "t": "mucho",
+     "inicio": 51.04,
+     "fin": 51.36
+    },
+    {
+     "t": "que",
+     "inicio": 51.36,
+     "fin": 51.52
+    },
+    {
+     "t": "decir.",
+     "inicio": 51.52,
+     "fin": 51.68
+    }
+   ],
+   "habla": true
+  },
+  {
+   "id": "ig-17943503811370388",
+   "fuente": "instagram",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1245929,
+   "fecha": "2026-11-05T12:08:55+0000",
+   "horas": 1.1,
+   "me_gusta": 325,
+   "comentarios": 17,
+   "viral": 26.2,
+   "enlace": "https://www.instagram.com/reel/DfW_tesu94R/",
+   "texto": "🔴 santi_abascal, sobre toda la corrupción que rodea a Sánchez:\n\n“Con la entrada de la UCO en Adif y la detención del ex chófer de Sánchez, parece muy claro que en el Ministerio de Transportes teníamos la zona cero de la corrupción en España”.",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 24.1,
+   "archivo": "ig-17943503811370388.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 4.6,
+     "texto": "porque parece muy claro, teniendo en cuenta también la entrada, hoy, de la UCO en Adiz."
+    },
+    {
+     "inicio": 5.36,
+     "fin": 12.32,
+     "texto": "Y la detención del ex-chófer de Pedro Sánchez es que el Ministerio de Transportes, con Ávalos,"
+    },
+    {
+     "inicio": 12.54,
+     "fin": 17.36,
+     "texto": "con Cóldo, con el chófer de Pedro Sánchez y con Óscar Puente, teníamos la zona cero"
+    },
+    {
+     "inicio": 17.36,
+     "fin": 22.08,
+     "texto": "de la corrupción en España. Yo creo que es algo gravísimo y que debería hacer"
+    },
+    {
+     "inicio": 22.08,
+     "fin": 23.64,
+     "texto": "a Pedro Sánchez dimitir inmediatamente."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "porque",
+     "inicio": 0,
+     "fin": 0.18
+    },
+    {
+     "t": "parece",
+     "inicio": 0.18,
+     "fin": 0.54
+    },
+    {
+     "t": "muy",
+     "inicio": 0.54,
+     "fin": 0.74
+    },
+    {
+     "t": "claro,",
+     "inicio": 0.74,
+     "fin": 1
+    },
+    {
+     "t": "teniendo",
+     "inicio": 1.08,
+     "fin": 1.34
+    },
+    {
+     "t": "en",
+     "inicio": 1.34,
+     "fin": 1.4
+    },
+    {
+     "t": "cuenta",
+     "inicio": 1.4,
+     "fin": 1.58
+    },
+    {
+     "t": "también",
+     "inicio": 1.58,
+     "fin": 1.88
+    },
+    {
+     "t": "la",
+     "inicio": 1.88,
+     "fin": 2
+    },
+    {
+     "t": "entrada,",
+     "inicio": 2,
+     "fin": 2.36
+    },
+    {
+     "t": "hoy,",
+     "inicio": 2.5,
+     "fin": 3.06
+    },
+    {
+     "t": "de",
+     "inicio": 3.14,
+     "fin": 3.18
+    },
+    {
+     "t": "la",
+     "inicio": 3.18,
+     "fin": 3.28
+    },
+    {
+     "t": "UCO",
+     "inicio": 3.28,
+     "fin": 3.58
+    },
+    {
+     "t": "en",
+     "inicio": 3.58,
+     "fin": 4.02
+    },
+    {
+     "t": "Adiz.",
+     "inicio": 4.02,
+     "fin": 4.6
+    },
+    {
+     "t": "Y",
+     "inicio": 5.36,
+     "fin": 5.84
+    },
+    {
+     "t": "la",
+     "inicio": 5.84,
+     "fin": 5.94
+    },
+    {
+     "t": "detención",
+     "inicio": 5.94,
+     "fin": 6.36
+    },
+    {
+     "t": "del",
+     "inicio": 6.36,
+     "fin": 6.82
+    },
+    {
+     "t": "ex",
+     "inicio": 6.82,
+     "fin": 7.08
+    },
+    {
+     "t": "-chófer",
+     "inicio": 7.08,
+     "fin": 7.42
+    },
+    {
+     "t": "de",
+     "inicio": 7.42,
+     "fin": 7.64
+    },
+    {
+     "t": "Pedro",
+     "inicio": 7.64,
+     "fin": 7.82
+    },
+    {
+     "t": "Sánchez",
+     "inicio": 7.82,
+     "fin": 8.3
+    },
+    {
+     "t": "es",
+     "inicio": 8.3,
+     "fin": 9.06
+    },
+    {
+     "t": "que",
+     "inicio": 9.06,
+     "fin": 9.24
+    },
+    {
+     "t": "el",
+     "inicio": 9.24,
+     "fin": 9.94
+    },
+    {
+     "t": "Ministerio",
+     "inicio": 9.94,
+     "fin": 10.34
+    },
+    {
+     "t": "de",
+     "inicio": 10.34,
+     "fin": 10.4
+    },
+    {
+     "t": "Transportes,",
+     "inicio": 10.4,
+     "fin": 11.18
+    },
+    {
+     "t": "con",
+     "inicio": 11.18,
+     "fin": 11.58
+    },
+    {
+     "t": "Ávalos,",
+     "inicio": 11.58,
+     "fin": 12.32
+    },
+    {
+     "t": "con",
+     "inicio": 12.54,
+     "fin": 12.64
+    },
+    {
+     "t": "Cóldo,",
+     "inicio": 12.64,
+     "fin": 13.24
+    },
+    {
+     "t": "con",
+     "inicio": 13.42,
+     "fin": 13.48
+    },
+    {
+     "t": "el",
+     "inicio": 13.48,
+     "fin": 13.8
+    },
+    {
+     "t": "chófer",
+     "inicio": 13.8,
+     "fin": 14.06
+    },
+    {
+     "t": "de",
+     "inicio": 14.06,
+     "fin": 14.18
+    },
+    {
+     "t": "Pedro",
+     "inicio": 14.18,
+     "fin": 14.36
+    },
+    {
+     "t": "Sánchez",
+     "inicio": 14.36,
+     "fin": 14.84
+    },
+    {
+     "t": "y",
+     "inicio": 14.84,
+     "fin": 15.34
+    },
+    {
+     "t": "con",
+     "inicio": 15.34,
+     "fin": 15.46
+    },
+    {
+     "t": "Óscar",
+     "inicio": 15.46,
+     "fin": 15.64
+    },
+    {
+     "t": "Puente,",
+     "inicio": 15.64,
+     "fin": 16.02
+    },
+    {
+     "t": "teníamos",
+     "inicio": 16.42,
+     "fin": 16.68
+    },
+    {
+     "t": "la",
+     "inicio": 16.68,
+     "fin": 16.88
+    },
+    {
+     "t": "zona",
+     "inicio": 16.88,
+     "fin": 17.06
+    },
+    {
+     "t": "cero",
+     "inicio": 17.06,
+     "fin": 17.36
+    },
+    {
+     "t": "de",
+     "inicio": 17.36,
+     "fin": 17.5
+    },
+    {
+     "t": "la",
+     "inicio": 17.5,
+     "fin": 17.66
+    },
+    {
+     "t": "corrupción",
+     "inicio": 17.66,
+     "fin": 18.8
+    },
+    {
+     "t": "en",
+     "inicio": 18.8,
+     "fin": 19.42
+    },
+    {
+     "t": "España.",
+     "inicio": 19.42,
+     "fin": 19.72
+    },
+    {
+     "t": "Yo",
+     "inicio": 19.88,
+     "fin": 19.94
+    },
+    {
+     "t": "creo",
+     "inicio": 19.94,
+     "fin": 20.08
+    },
+    {
+     "t": "que",
+     "inicio": 20.08,
+     "fin": 20.2
+    },
+    {
+     "t": "es",
+     "inicio": 20.2,
+     "fin": 20.34
+    },
+    {
+     "t": "algo",
+     "inicio": 20.34,
+     "fin": 20.52
+    },
+    {
+     "t": "gravísimo",
+     "inicio": 20.52,
+     "fin": 21.4
+    },
+    {
+     "t": "y",
+     "inicio": 21.4,
+     "fin": 21.54
+    },
+    {
+     "t": "que",
+     "inicio": 21.54,
+     "fin": 21.62
+    },
+    {
+     "t": "debería",
+     "inicio": 21.62,
+     "fin": 21.92
+    },
+    {
+     "t": "hacer",
+     "inicio": 21.92,
+     "fin": 22.08
+    },
+    {
+     "t": "a",
+     "inicio": 22.08,
+     "fin": 22.18
+    },
+    {
+     "t": "Pedro",
+     "inicio": 22.18,
+     "fin": 22.36
+    },
+    {
+     "t": "Sánchez",
+     "inicio": 22.36,
+     "fin": 22.7
+    },
+    {
+     "t": "dimitir",
+     "inicio": 22.7,
+     "fin": 23.1
+    },
+    {
+     "t": "inmediatamente.",
+     "inicio": 23.1,
+     "fin": 23.64
     }
    ],
    "habla": true
