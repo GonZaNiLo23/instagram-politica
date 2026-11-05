@@ -129,3 +129,7 @@
 - 2026-11-05 09:40 UTC · 2 · @santi_abascal ("No todos somos iguales", 70 s) · descartado: letanía de acusaciones no probadas (etarras, narcos y jueces, manos manchadas de sangre, responsabilidad penal de Sánchez); sin tramo limpio · sin publicación
 - 2026-11-05 11:40 UTC · 3 · La Moncloa (Sánchez, inauguración Cumbre Iberoamericana; tramo 258,23-299,37 s, subtítulos cotejados con la transcripción; omitido el saludo y el resto del discurso) · publicado am20261105-1127-sanchez-cumbre-iberoamericana
 - 2026-11-05 11:40 UTC · 1 · @vox_es (Albacete, declaración a medios, 10,9 s) · descartado: sin habla, solo imágenes de mitin
+- 2026-11-05 13:45 UTC · 2 · La Moncloa (Sánchez, sesión plenaria Cumbre Iberoamericana, 57 s) · descartado: mismo tema ya publicado a las 11:27 y transcripción con 1 sola frase
+- 2026-11-05 13:45 UTC · 2 · @vox_es (Abascal en Albacete, apagón y DANA, 281 s) · descartado: «responsables de los crímenes» y «culpables» son acusaciones no probadas; sin tramo limpio
+- 2026-11-05 13:45 UTC · 2 · @vox_es (Abascal, 26 M € Ceuta, 80 s) · descartado: cifra no contrastada y lenguaje de «invasores» sin tramo limpio
+- 2026-11-05 13:45 UTC · 1 · @santi_abascal (agradecimiento Albacete, 32 s) · descartado: sin habla, solo imágenes de mitin · sin publicación
