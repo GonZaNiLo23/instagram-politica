@@ -134,3 +134,4 @@
 - 2026-11-05 13:45 UTC · 2 · @vox_es (Abascal, 26 M € Ceuta, 80 s) · descartado: cifra no contrastada y lenguaje de «invasores» sin tramo limpio
 - 2026-11-05 13:45 UTC · 1 · @santi_abascal (agradecimiento Albacete, 32 s) · descartado: sin habla, solo imágenes de mitin · sin publicación
 - 2026-11-05 15:40 UTC · sin candidatos (radar generado 15:28 UTC, candidatos vacíos) · sin publicación
+- 2026-11-05 17:40 UTC · 1 · La Moncloa (Sánchez–Zelenski, encuentro, 17,7 s) · descartado: sin habla ni frases, solo imágenes · sin publicación
