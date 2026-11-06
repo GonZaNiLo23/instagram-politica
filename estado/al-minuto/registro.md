@@ -143,3 +143,7 @@
 - 2026-11-06 11:40 UTC · 2 · @gabrielrufian (Rufián, repetir mayoría de izquierdas y 'PP-Vox se cargan las pensiones', 70 s) · descartado: transcripción con muchos errores de Whisper, afirmaciones no contrastadas (recorte de pensiones) y sin tramo limpio · sin publicación
 - 2026-11-06 14:00 Madrid: sin candidatos (radar 13:29Z, total_detectados 0); sin publicación.
 - 2026-11-06 15:30 UTC · sin candidatos (radar generado 15:29 UTC, candidatos vacíos) · sin publicación
+- 2026-11-06 19:30 UTC · 1 · @vox_es (Granada, 2.500 dentro y 500 fuera, 13,6 s) · descartado: sin habla, solo imágenes de mitin
+- 2026-11-06 19:30 UTC · 1 · @vox_es (Granada, auditorio grita «Presidente», 15,3 s) · descartado: sin habla, solo imágenes de mitin
+- 2026-11-06 19:30 UTC · 2 · @santi_abascal (Teruel, «no somos responsables…», 55 s) · descartado: letanía sin hecho nuevo (como la de ayer), con «política de vivienda criminal», «muerte de españoles» e «invasión migratoria» sin tramo limpio
+- 2026-11-06 19:30 UTC · 2 · @vox_es (Granada, Abascal a los que no entraron, 238 s) · descartado: «mafia», «mafia siniestra» y «candidato de Marruecos» son acusaciones no probadas; transcripción con errores; sin tramo limpio · sin publicación
