@@ -140,3 +140,4 @@
 - 2026-11-05 19:40 UTC · 1 · @vox_es (Teruel, acto de Abascal, 17 s) · descartado: sin habla, solo imágenes de mitin · sin publicación
 - 2026-11-06 07:30 UTC · sin candidatos (radar generado 07:29 UTC, candidatos vacíos) · sin publicación
 - 2026-11-06 09:30 UTC · sin candidatos (radar generado 09:29 UTC, candidatos vacíos) · sin publicación
+- 2026-11-06 11:40 UTC · 2 · @gabrielrufian (Rufián, repetir mayoría de izquierdas y 'PP-Vox se cargan las pensiones', 70 s) · descartado: transcripción con muchos errores de Whisper, afirmaciones no contrastadas (recorte de pensiones) y sin tramo limpio · sin publicación
