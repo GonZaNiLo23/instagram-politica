@@ -141,3 +141,4 @@
 - 2026-11-06 07:30 UTC · sin candidatos (radar generado 07:29 UTC, candidatos vacíos) · sin publicación
 - 2026-11-06 09:30 UTC · sin candidatos (radar generado 09:29 UTC, candidatos vacíos) · sin publicación
 - 2026-11-06 11:40 UTC · 2 · @gabrielrufian (Rufián, repetir mayoría de izquierdas y 'PP-Vox se cargan las pensiones', 70 s) · descartado: transcripción con muchos errores de Whisper, afirmaciones no contrastadas (recorte de pensiones) y sin tramo limpio · sin publicación
+- 2026-11-06 14:00 Madrid: sin candidatos (radar 13:29Z, total_detectados 0); sin publicación.
