@@ -6,10 +6,10 @@
 | Formato | Estándar (60–90 s), informativo (sin opinión editorial) |
 | Duración objetivo | 82 s (226 ÷ 165 × 60 = 82,2 s) |
 | Palabras de voz | 226, contadas en el "Texto de voz limpio" final, con las cifras como se leen. Frase más larga: 15 palabras (máx. 15) |
-| Vigencia | URGENTE con dato vivo: publicar antes del 12-11. La fecha del 12-11 es "según la prensa" (la Mesa no la ha convocado, a 2026-11-05). Recomprobar el día de publicar; si se vota antes, rehacer bloques 3c y 5 con el resultado |
+| Vigencia | URGENTE con dato vivo: publicar antes del 12-11. La fecha del 12-11 es "según la prensa" (la Mesa no la ha convocado, a 2026-11-05; el 2026-11-07 congreso.es muestra una sesión el 12-11 pero no se ha podido confirmar que incluya el RDL 28/2026). Recomprobar el día de publicar; si se vota antes, rehacer bloques 3c y 5 con el resultado |
 | Portada | **¿TU ALQUILER SE RENUEVA SOLO?** (5 palabras) + contrato plano con flecha circular, dentro del recorte 4:5 (1080×1350) |
 | Versión | v2 |
-| Estado | borrador |
+| Estado | aprobado (literales aplicados) |
 
 ## Idea en una frase
 El decreto-ley 28/2026 cambiaría lo que pasa cuando acaba tu contrato de alquiler (de prórrogas anuales a prórrogas de cinco años mientras nadie avise), y que se aplique depende de una votación muy ajustada en la Diputación Permanente, según el recuento de la prensa.
@@ -45,7 +45,7 @@ Elegido: el 1 (5/5; empata con el 2, que es más críptico en silencio). Descart
 ## Texto de voz limpio
 Tu alquiler podría renovarse solo, cinco años más. Puede decidirlo un solo voto. Hoy, al cumplir cinco años, tu contrato se prorroga año a año, hasta tres más. El decreto lo cambia: cinco años más, y otros cinco, mientras nadie avise. Es el decreto ley veintiocho. El Gobierno lo aprobó el seis de octubre, tras tumbar el Congreso uno anterior. Con las Cortes disueltas, tiene que ratificarlo la Diputación Permanente. Si no lo ratifica, cae. Si lo ratifica, rige desde el quince de noviembre. Para no renovarte, el casero tendría que avisar con seis meses. Y pagarte, salvo excepciones, doce mensualidades como mínimo. Según la prensa, se vota el doce de noviembre. Según Público, a favor, treinta y cuatro votos. En contra, treinta y cinco, porque el PNV ha dicho que no. Si nada cambia, cae por un voto. El PNV dice que penaliza al pequeño propietario. Vox y Junts advierten de que habrá menos pisos en alquiler. El Gobierno defiende que el alquiler sube sobre todo al renovar. Los contratos de dos mil diecinueve a dos mil veintidós son el grupo más numeroso. Lo dice el decreto. Vencen entre dos mil veintisiete y dos mil treinta. Si cae, no se aplicará ni un día. ¿Cinco años más, sin firmar nada? Depende de un voto. ¿Prefieres prórroga larga automática o renegociar al vencer? Síguenos para estar informado.
 
-Recuento: v1 = 224; +2 (frase "Hoy, al cumplir cinco años…": 15 frente a 13) +1 (cierre: 6 frente a 5 palabras de la pregunta) = **227 palabras** ≈ 87,9 s a 155 pal/min (≈ 82 s a 165). Frase más larga: 15.
+Recuento: **226 palabras** (recontadas por el revisor v2) ≈ 82 s a 165 pal/min. Frase más larga: 15.
 
 > Pronunciación: "PNV" = "pe ene uve"; "Junts" = "yunts"; "Vox" = "boks". Pausa de 0,4 s antes de "Depende de un voto".
 
@@ -69,7 +69,7 @@ Fotos ya fichadas en la 005 (no se vuelven a mirar); indicar al generador que co
 | 3 | RDL 29/2026 es el otro decreto (tope del 2 %, prórroga extraordinaria de hasta dos años, en vigor desde el 8-10): no es el de la renovación automática (aclara la ficha del buscador, que los confundía) | BOE-A-2026-20823 (1) | https://www.boe.es/buscar/act.php?id=BOE-A-2026-20823 | 2026-11-04 |
 | 4 | El Congreso derogó el 2-10 los RDL anteriores (166 a favor y 184 en contra el de contratos); el Gobierno aprobó los nuevos el 6-10 | Pieza 005, filas 4 y 6 (Civio, Moncloa) (2/1) | https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/061026-sanchez-comparecencia-consejo-ministros.aspx | verificada en 005 (2026-10-20); no repetida |
 | 5 | Competencia: con las Cortes disueltas, la Diputación Permanente decide sobre los decretos-ley (arts. 78 y 86.2 CE) | Constitución, BOE (1) | https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229 | verificada en 005 |
-| 6 | Votación "prevé" el 12-11 (no convocada); composición de 69 miembros (PP 27, PSOE 25, Vox 6, Sumar 6, ERC, PNV, Junts, Bildu y Podemos 1 cada uno) | Moncloa.com con Europa Press, 17-10-2026 (3) | https://www.moncloa.com/2026/10/17/decretos-vivienda-congreso-12n-3450016/ | 2026-11-04 |
+| 6 | Votación "prevé" el 12-11 (sesión listada en congreso.es el 7-11, sin confirmar el orden del día); composición de 69 miembros (PP 27, PSOE 25, Vox 6, Sumar 6, ERC, PNV, Junts, Bildu y Podemos 1 cada uno) | Moncloa.com con Europa Press, 17-10-2026 (3) | https://www.moncloa.com/2026/10/17/decretos-vivienda-congreso-12n-3450016/ | 2026-11-04 |
 | 6b | Respaldo del 12-11: nota de EFE del 4-11 ("fuentes parlamentarias", "debatirá y votará … el próximo 12 de noviembre"); el plazo de 30 días hábiles vence hacia el 14-11 (elDiario.es: "aún no es oficial") | EFE vía Infobae (2) · elDiario.es (3) | https://www.infobae.com/espana/agencias/ | 2026-11-05 (revisor) |
 | 7 | Recuento del decreto de prórroga: 34 a favor y 35 en contra si el PNV vota no y el resto repite su voto (en esa fuente el segundo decreto es el de prórroga). Atribuido a Público. Moncloa.com dice "empate a 34", que no cuadra con su propia composición | Público (3) | https://www.publico.es/sociedad/entran-vigor-decretos-vivienda-todas-claves-diputacion-permanente.html | 2026-11-04 |
 | 8 | PNV: sí al primero, no al de prórrogas, "un parche" (portavoz Maribel Vaquero, 6-10); el motivo (penaliza al pequeño propietario) ya verificado en 005 | Infobae/Europa Press (2) · Naiz (3) | https://www.infobae.com/espana/agencias/2026/10/06/pnv-votara-a-favor-del-primer-decreto-de-vivienda-y-en-contra-del-segundo-de-prorroga-indefinida-de-alquileres/ | verificada en 005 (2026-10-20) |
@@ -78,13 +78,13 @@ Fotos ya fichadas en la 005 (no se vuelven a mirar); indicar al generador que co
 
 ## Pendiente de verificar
 - [VERIFICAR: composición actual de la Diputación Permanente (69 miembros; PSOE 25 según Moncloa.com y 24 más la presidenta según El Debate de 2024) y reparto 34–35. congreso.es muestra el órgano "sin constituir" y sin cifras; no hay primaria. Por eso el recuento va atribuido a Público y la voz dice "si nada cambia". Comprobar en el BOCG o el Congreso antes de publicar.]
-- [VERIFICAR: fecha del 12-11. Sin convocatoria oficial de la Mesa a 2026-11-04; la voz dice "según la prensa". Si se convoca, cambiar a "convocada el doce".]
+- [VERIFICAR: fecha del 12-11. congreso.es (2026-11-07) lista una sesión el 12-11 pero no se confirma que su orden del día incluya el RDL 28/2026; la voz dice "según la prensa". Solo si se confirma, aplicar la regla de convocatoria.]
 - Junts: sin cambio de postura hallado a 2026-11-05 (revisor). Recomprobar, con la fecha de la votación y la postura del PNV (Público 7-10: "aún no ha fijado definitivamente su postura"), el día de publicar; si la Mesa ya ha convocado, cambiar a "convocada el doce".
 
 ## Cambios en esta versión (v2)
 Obligatorios: (1) rótulo del bloque 4 y fuente 1 con la cita literal «el mayor volumen de contratos vigentes»; (2) bloque 2, voz y rótulo: "Hoy, al cumplir cinco años, tu contrato se prorroga año a año, hasta tres más" / HOY: A LOS 5 AÑOS, +1 HASTA 3; (3) rótulo 3b y post: inquilino, 2 meses, como hoy; (4) cierre: "¿Cinco años más, sin firmar nada? Depende de un voto." y rótulo ¿5 AÑOS MÁS? DEPENDE DE UN VOTO.
 Recomendados: (1) post con contratos ya firmados; (2) rótulo 3c fechado (Público 7-10, PNV 6-10) y fuente 6b de EFE; (3) PP, Vox y Junts votaron no el 2-10 en rótulo 3d y motivo del PP en el post.
-Palabras: 224 → 227 (≈ 87,9 s). [VERIFICAR] de Junts quitado.
+Palabras: 224 → 226 (≈ 82 s a 165 pal/min). [VERIFICAR] de Junts quitado.
 - Ficha del buscador: errores corregidos: el empate "34-34" no cuadra (con el PNV en contra es 34–35 y cae igualmente), y el decreto de la renovación automática es el RDL 28/2026 (no el de la prórroga de 2 años, que es el 29/2026 y ya está en vigor).
 
 ## Texto propuesto para el post

@@ -13,8 +13,8 @@ Si alquilas, esto te interesa: un decreto puede cambiar qué pasa cuando acaba t
 Hoy, tras los cinco años del contrato (siete si el casero es una empresa), se prorroga año a año, hasta tres años más. El Real Decreto-ley 28/2026 (BOE del 7 de octubre) lo cambiaría: la prórroga sería de cinco años (siete), una y otra vez, mientras ninguna parte avise.
 
 Qué cambiaría:
-· El casero tendría que avisar con 6 meses (hoy, 4) y, salvo excepciones (por ejemplo, si necesita la vivienda él o su familia), pagar al inquilino al menos 12 mensualidades. El inquilino avisaría con 2 meses.
-· Entraría en vigor el 15 de noviembre, solo si la Diputación Permanente lo convalida. Según la prensa, se vota el 12 de noviembre (la Mesa no lo había convocado a 4-11).
+· El casero tendría que avisar con 6 meses (hoy, 4) y, salvo excepciones (por ejemplo, si necesita la vivienda él o su familia), pagar al inquilino al menos 12 mensualidades. El inquilino seguiría avisando con 2 meses, como hoy.
+· Entraría en vigor el 15 de noviembre, solo si la Diputación Permanente lo convalida. Según la prensa (EFE, 4-11), se vota el 12 de noviembre (la Mesa no lo había convocado a 5-11).
 · Según Público, el recuento sería de 34 votos a favor y 35 en contra si el PNV vota no y el resto repite su voto.
 
 Qué dicen:
