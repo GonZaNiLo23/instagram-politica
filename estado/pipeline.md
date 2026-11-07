@@ -70,3 +70,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261104-1626-alvise-hermanos-musulmanes | Al minuto: Alvise, 'los Hermanos Musulmanes son una organización terrorista' | publicando (Al minuto horario) |
 | am20261104-1730-nngg-protestas-educacion | Al minuto: NNGG critica las protestas educativas en Madrid | publicando (Al minuto horario) |
 | am20261105-1127-sanchez-cumbre-iberoamericana | Al minuto: Sánchez inaugura la Cumbre Iberoamericana | publicando (Al minuto horario) |
+| am20261107-0526-abascal-derogar-legislacion | Al minuto: Abascal, derogar la legislación ideológica y emplaza al PP | publicando (Al minuto horario) |

@@ -147,3 +147,6 @@
 - 2026-11-06 19:30 UTC · 1 · @vox_es (Granada, auditorio grita «Presidente», 15,3 s) · descartado: sin habla, solo imágenes de mitin
 - 2026-11-06 19:30 UTC · 2 · @santi_abascal (Teruel, «no somos responsables…», 55 s) · descartado: letanía sin hecho nuevo (como la de ayer), con «política de vivienda criminal», «muerte de españoles» e «invasión migratoria» sin tramo limpio
 - 2026-11-06 19:30 UTC · 2 · @vox_es (Granada, Abascal a los que no entraron, 238 s) · descartado: «mafia», «mafia siniestra» y «candidato de Marruecos» son acusaciones no probadas; transcripción con errores; sin tramo limpio · sin publicación
+- 2026-11-07 05:40 UTC · 4 · @vox_es (Abascal: derogar legislación ideológica y emplaza al PP, tramo 0–33,92 s, subtítulos cotejados con la transcripción; Whisper: box→Vox, Utilista→PSOE según el texto del reel) · publicado am20261107-0526-abascal-derogar-legislacion
+- 2026-11-07 05:40 UTC · 1 · @vox_es (Granada, auditorio, 19 s) · descartado: sin habla
+- 2026-11-07 05:40 UTC · 3 · @vox_es ("No todos somos iguales", 41 s) · descartado: acusación de «manos manchadas de sangre» no probada · sin otra publicación
