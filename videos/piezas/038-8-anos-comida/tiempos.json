@@ -1,0 +1,613 @@
+{
+  "palabras": [
+    {
+      "t": "Comida:",
+      "inicio": 0,
+      "fin": 0.8
+    },
+    {
+      "t": "treinta",
+      "inicio": 0.88,
+      "fin": 1.12
+    },
+    {
+      "t": "y",
+      "inicio": 1.2,
+      "fin": 1.24
+    },
+    {
+      "t": "nueve",
+      "inicio": 1.28,
+      "fin": 1.44
+    },
+    {
+      "t": "por",
+      "inicio": 1.6,
+      "fin": 1.76
+    },
+    {
+      "t": "ciento",
+      "inicio": 1.84,
+      "fin": 2
+    },
+    {
+      "t": "más",
+      "inicio": 2.24,
+      "fin": 2.48
+    },
+    {
+      "t": "cara.",
+      "inicio": 2.52,
+      "fin": 3
+    },
+    {
+      "t": "¿Y",
+      "inicio": 3.2,
+      "fin": 3.28
+    },
+    {
+      "t": "tu",
+      "inicio": 3.36,
+      "fin": 3.44
+    },
+    {
+      "t": "sueldo?",
+      "inicio": 3.52,
+      "fin": 4.08
+    },
+    {
+      "t": "Los",
+      "inicio": 4.32,
+      "fin": 4.48
+    },
+    {
+      "t": "precios",
+      "inicio": 4.56,
+      "fin": 4.8
+    },
+    {
+      "t": "en",
+      "inicio": 4.88,
+      "fin": 4.96
+    },
+    {
+      "t": "general,",
+      "inicio": 5.04,
+      "fin": 5.6
+    },
+    {
+      "t": "un",
+      "inicio": 5.68,
+      "fin": 5.76
+    },
+    {
+      "t": "veintidós",
+      "inicio": 5.84,
+      "fin": 6.32
+    },
+    {
+      "t": "por",
+      "inicio": 6.48,
+      "fin": 6.56
+    },
+    {
+      "t": "ciento.",
+      "inicio": 6.64,
+      "fin": 7.04
+    },
+    {
+      "t": "Datos",
+      "inicio": 7.44,
+      "fin": 7.76
+    },
+    {
+      "t": "de",
+      "inicio": 7.8,
+      "fin": 7.84
+    },
+    {
+      "t": "Eurostat,",
+      "inicio": 8,
+      "fin": 8.64
+    },
+    {
+      "t": "de",
+      "inicio": 8.68,
+      "fin": 8.72
+    },
+    {
+      "t": "dos",
+      "inicio": 8.8,
+      "fin": 8.88
+    },
+    {
+      "t": "mil",
+      "inicio": 8.96,
+      "fin": 9.04
+    },
+    {
+      "t": "dieciocho",
+      "inicio": 9.12,
+      "fin": 9.64
+    },
+    {
+      "t": "a",
+      "inicio": 9.76,
+      "fin": 9.84
+    },
+    {
+      "t": "dos",
+      "inicio": 9.92,
+      "fin": 10
+    },
+    {
+      "t": "mil",
+      "inicio": 10.08,
+      "fin": 10.16
+    },
+    {
+      "t": "veinticinco.",
+      "inicio": 10.24,
+      "fin": 11.44
+    },
+    {
+      "t": "No",
+      "inicio": 11.48,
+      "fin": 11.52
+    },
+    {
+      "t": "es",
+      "inicio": 11.6,
+      "fin": 11.68
+    },
+    {
+      "t": "solo",
+      "inicio": 11.72,
+      "fin": 11.92
+    },
+    {
+      "t": "cosa",
+      "inicio": 12,
+      "fin": 12.24
+    },
+    {
+      "t": "de",
+      "inicio": 12.28,
+      "fin": 12.32
+    },
+    {
+      "t": "aquí.",
+      "inicio": 12.44,
+      "fin": 12.8
+    },
+    {
+      "t": "En",
+      "inicio": 12.96,
+      "fin": 13.04
+    },
+    {
+      "t": "la",
+      "inicio": 13.08,
+      "fin": 13.12
+    },
+    {
+      "t": "zona",
+      "inicio": 13.2,
+      "fin": 13.36
+    },
+    {
+      "t": "euro,",
+      "inicio": 13.44,
+      "fin": 13.787
+    },
+    {
+      "t": "la",
+      "inicio": 13.813,
+      "fin": 13.84
+    },
+    {
+      "t": "comida",
+      "inicio": 13.92,
+      "fin": 14.24
+    },
+    {
+      "t": "subió",
+      "inicio": 14.32,
+      "fin": 14.56
+    },
+    {
+      "t": "un",
+      "inicio": 14.64,
+      "fin": 14.72
+    },
+    {
+      "t": "treinta",
+      "inicio": 14.8,
+      "fin": 15.12
+    },
+    {
+      "t": "y",
+      "inicio": 15.2,
+      "fin": 15.28
+    },
+    {
+      "t": "seis",
+      "inicio": 15.32,
+      "fin": 15.44
+    },
+    {
+      "t": "por",
+      "inicio": 15.52,
+      "fin": 15.68
+    },
+    {
+      "t": "ciento.",
+      "inicio": 15.76,
+      "fin": 16.48
+    },
+    {
+      "t": "Con",
+      "inicio": 16.56,
+      "fin": 16.64
+    },
+    {
+      "t": "datos",
+      "inicio": 16.72,
+      "fin": 16.96
+    },
+    {
+      "t": "del",
+      "inicio": 17.04,
+      "fin": 17.12
+    },
+    {
+      "t": "INE,",
+      "inicio": 17.2,
+      "fin": 17.6
+    },
+    {
+      "t": "el",
+      "inicio": 17.64,
+      "fin": 17.68
+    },
+    {
+      "t": "coste",
+      "inicio": 17.76,
+      "fin": 18.04
+    },
+    {
+      "t": "salarial",
+      "inicio": 18.08,
+      "fin": 18.56
+    },
+    {
+      "t": "por",
+      "inicio": 18.64,
+      "fin": 18.72
+    },
+    {
+      "t": "trabajador",
+      "inicio": 18.8,
+      "fin": 19.28
+    },
+    {
+      "t": "subió",
+      "inicio": 19.36,
+      "fin": 19.6
+    },
+    {
+      "t": "un",
+      "inicio": 19.68,
+      "fin": 19.76
+    },
+    {
+      "t": "veinticuatro",
+      "inicio": 19.84,
+      "fin": 20.48
+    },
+    {
+      "t": "por",
+      "inicio": 20.56,
+      "fin": 20.72
+    },
+    {
+      "t": "ciento.",
+      "inicio": 20.76,
+      "fin": 21.52
+    },
+    {
+      "t": "Más",
+      "inicio": 21.56,
+      "fin": 21.68
+    },
+    {
+      "t": "que",
+      "inicio": 21.76,
+      "fin": 21.84
+    },
+    {
+      "t": "los",
+      "inicio": 21.88,
+      "fin": 21.92
+    },
+    {
+      "t": "precios,",
+      "inicio": 22,
+      "fin": 22.64
+    },
+    {
+      "t": "pero",
+      "inicio": 22.72,
+      "fin": 22.88
+    },
+    {
+      "t": "menos",
+      "inicio": 22.96,
+      "fin": 23.2
+    },
+    {
+      "t": "que",
+      "inicio": 23.28,
+      "fin": 23.36
+    },
+    {
+      "t": "la",
+      "inicio": 23.4,
+      "fin": 23.44
+    },
+    {
+      "t": "comida.",
+      "inicio": 23.52,
+      "fin": 24.16
+    },
+    {
+      "t": "En",
+      "inicio": 24.4,
+      "fin": 24.48
+    },
+    {
+      "t": "dos",
+      "inicio": 24.56,
+      "fin": 24.64
+    },
+    {
+      "t": "mil",
+      "inicio": 24.72,
+      "fin": 24.8
+    },
+    {
+      "t": "veintitrés",
+      "inicio": 24.88,
+      "fin": 25.28
+    },
+    {
+      "t": "y",
+      "inicio": 25.36,
+      "fin": 25.44
+    },
+    {
+      "t": "veinticuatro,",
+      "inicio": 25.493,
+      "fin": 26.24
+    },
+    {
+      "t": "el",
+      "inicio": 26.28,
+      "fin": 26.32
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 26.4,
+      "fin": 26.8
+    },
+    {
+      "t": "rebajó",
+      "inicio": 26.88,
+      "fin": 27.2
+    },
+    {
+      "t": "el",
+      "inicio": 27.28,
+      "fin": 27.36
+    },
+    {
+      "t": "IVA",
+      "inicio": 27.44,
+      "fin": 27.52
+    },
+    {
+      "t": "de",
+      "inicio": 27.6,
+      "fin": 27.64
+    },
+    {
+      "t": "los",
+      "inicio": 27.68,
+      "fin": 27.76
+    },
+    {
+      "t": "alimentos",
+      "inicio": 27.84,
+      "fin": 28.32
+    },
+    {
+      "t": "básicos.",
+      "inicio": 28.4,
+      "fin": 29.28
+    },
+    {
+      "t": "Hacienda",
+      "inicio": 29.36,
+      "fin": 29.76
+    },
+    {
+      "t": "la",
+      "inicio": 29.8,
+      "fin": 29.84
+    },
+    {
+      "t": "presentó",
+      "inicio": 29.92,
+      "fin": 30.32
+    },
+    {
+      "t": "como",
+      "inicio": 30.44,
+      "fin": 30.56
+    },
+    {
+      "t": "respuesta",
+      "inicio": 30.84,
+      "fin": 31.12
+    },
+    {
+      "t": "a",
+      "inicio": 31.16,
+      "fin": 31.2
+    },
+    {
+      "t": "la",
+      "inicio": 31.24,
+      "fin": 31.28
+    },
+    {
+      "t": "inflación",
+      "inicio": 31.36,
+      "fin": 31.76
+    },
+    {
+      "t": "por",
+      "inicio": 31.84,
+      "fin": 32
+    },
+    {
+      "t": "la",
+      "inicio": 32.04,
+      "fin": 32.08
+    },
+    {
+      "t": "guerra",
+      "inicio": 32.16,
+      "fin": 32.4
+    },
+    {
+      "t": "de",
+      "inicio": 32.44,
+      "fin": 32.48
+    },
+    {
+      "t": "Ucrania.",
+      "inicio": 32.52,
+      "fin": 33.36
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 33.44,
+      "fin": 34
+    },
+    {
+      "t": "es",
+      "inicio": 34.08,
+      "fin": 34.16
+    },
+    {
+      "t": "una",
+      "inicio": 34.24,
+      "fin": 34.4
+    },
+    {
+      "t": "media,",
+      "inicio": 34.48,
+      "fin": 35.04
+    },
+    {
+      "t": "no",
+      "inicio": 35.12,
+      "fin": 35.2
+    },
+    {
+      "t": "tu",
+      "inicio": 35.28,
+      "fin": 35.44
+    },
+    {
+      "t": "nómina.",
+      "inicio": 35.493,
+      "fin": 36.24
+    },
+    {
+      "t": "¿Tu",
+      "inicio": 36.293,
+      "fin": 36.4
+    },
+    {
+      "t": "sueldo",
+      "inicio": 36.44,
+      "fin": 36.72
+    },
+    {
+      "t": "ha",
+      "inicio": 36.76,
+      "fin": 36.8
+    },
+    {
+      "t": "subido",
+      "inicio": 36.88,
+      "fin": 37.28
+    },
+    {
+      "t": "más…",
+      "inicio": 37.413,
+      "fin": 37.92
+    },
+    {
+      "t": "o",
+      "inicio": 37.96,
+      "fin": 38
+    },
+    {
+      "t": "menos",
+      "inicio": 38.08,
+      "fin": 38.4
+    },
+    {
+      "t": "que",
+      "inicio": 38.44,
+      "fin": 38.48
+    },
+    {
+      "t": "tu",
+      "inicio": 38.56,
+      "fin": 38.64
+    },
+    {
+      "t": "compra?",
+      "inicio": 38.72,
+      "fin": 39.44
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 39.52,
+      "fin": 40
+    },
+    {
+      "t": "para",
+      "inicio": 40.08,
+      "fin": 40.24
+    },
+    {
+      "t": "estar",
+      "inicio": 40.36,
+      "fin": 40.48
+    },
+    {
+      "t": "informado.",
+      "inicio": 40.64,
+      "fin": 41.28
+    }
+  ],
+  "duracion": 41.247347,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

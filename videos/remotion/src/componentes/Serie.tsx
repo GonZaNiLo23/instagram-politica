@@ -136,13 +136,13 @@ export const TartaSerie: React.FC<{de: number; a: number; cx?: number; cy?: numb
 };
 
 /** Cifra enorme (valor) con subtexto (64 px) debajo. */
-export const CifraGrandeSerie: React.FC<{valor: string; sub?: string; y?: number; tam?: number; en?: number; hasta?: number}> = ({valor, sub, y = 330, tam = 210, en = 0, hasta}) => {
+export const CifraGrandeSerie: React.FC<{valor: string; sub?: string; y?: number; tam?: number; en?: number; hasta?: number; pill?: boolean}> = ({valor, sub, y = 330, tam = 210, en = 0, hasta, pill = false}) => {
   const {t} = usa();
   const s = useSalida(hasta);
   const k = ease(t, en, en + 0.4);
   return (
     <div style={{position: 'absolute', left: SEGURA.izq, top: y, opacity: k * s, transform: `scale(${0.85 + 0.15 * k})`, transformOrigin: 'left top'}}>
-      <div style={{fontFamily: F.titular, fontSize: tam, lineHeight: 1.05, color: C.tinta}}>{valor}</div>
+      <div style={{fontFamily: F.titular, fontSize: tam, lineHeight: 1.05, color: C.tinta}}>{pill ? <span style={{background: C.mostaza, padding: '0 22px', borderRadius: 18, marginLeft: -22}}>{valor}</span> : valor}</div>
       {sub ? <div style={{fontFamily: F.texto, fontWeight: 700, fontSize: 64, lineHeight: 1.2, color: C.tinta}}>{sub}</div> : null}
     </div>
   );
@@ -230,6 +230,106 @@ export const AbSerie: React.FC<{a: string; b: string; y?: number; en?: number; h
   return lienzo(<g>{fila('A', a, y, ka, C.teja, C.crema)}{fila('B', b, y + 124, kb, C.turquesa, C.crema)}</g>, s);
 };
 
+
+/**
+ * Barras verticales con eje en cero (038): varias barras con la misma escala (`max`), valor contado encima y etiqueta debajo.
+ * barras: {etiqueta, valor, color, en, dur, contorno (vacía en contorno con "?"), altoContorno, prefijo, sinValor}. Tiempos en segundos de la ESCENA.
+ * lineaRef: línea discontinua horizontal a la altura de `valor` (de x 60 a 960) desde `en`.
+ * flecha: flecha vertical sobre la barra `barra` desde su altura hasta `hasta` (valor) desde `en`.
+ * fragmenta: la barra `barra` se parte en `n` figuras de distinta altura a partir de `en`.
+ */
+const MULT = [0.5, 1.4, 0.85, 1.5, 0.35, 1.2, 0.75, 1.45, 0.6, 1.05];
+export const BarrasVSerie: React.FC<{
+  barras: {etiqueta: string; valor: number; color?: string; en: number; dur?: number; contorno?: boolean; altoContorno?: number; prefijo?: string; sinValor?: boolean; cx?: number}[];
+  max?: number; base?: number; hMax?: number; w?: number; centros?: number[]; tamEtiqueta?: number; hasta?: number;
+  lineaRef?: {valor: number; en: number; color?: string};
+  flecha?: {barra: number; hasta: number; en: number};
+  fragmenta?: {barra: number; en: number; n?: number};
+}> = ({barras, max = 39, base = 1060, hMax = 240, w = 200, centros, tamEtiqueta = 52, hasta, lineaRef, flecha, fragmenta}) => {
+  const {t} = usa();
+  const s = useSalida(hasta);
+  const cs = centros ?? (barras.length === 2 ? [300, 780] : [190, 540, 830]);
+  const alto = (v: number) => (v / max) * hMax;
+  const fr = fragmenta ? ease(t, fragmenta.en, fragmenta.en + 0.9) : 0;
+  return lienzo(
+    <g>
+      <line x1={SEGURA.izq} y1={base} x2={SEGURA.izq + SEGURA.ancho} y2={base} stroke={C.tinta} strokeWidth={6} strokeLinecap="round" />
+      {barras.map((b, i) => {
+        const cx = b.cx ?? cs[i];
+        const e = ease(t, b.en, b.en + 0.3);
+        const k = ease(t, b.en, b.en + (b.dur ?? 1.0));
+        const v = b.valor * k;
+        const h = alto(v);
+        const color = b.color ?? C.tinta;
+        const partida = fragmenta && fragmenta.barra === i && fr > 0;
+        const n = fragmenta?.n ?? 10;
+        const hc = b.altoContorno ?? hMax * 0.5;
+        return (
+          <g key={i} opacity={e} transform={`translate(0 ${(1 - e) * 30})`}>
+            {b.contorno ? (
+              <g>
+                <rect x={cx - w / 2} y={base - hc} width={w} height={hc} fill="none" stroke={C.tinta} strokeWidth={5} strokeDasharray="16 12" />
+                <text x={cx} y={base - hc / 2 + 36} textAnchor="middle" fontFamily={F.titular} fontSize={110} fill={C.mostaza} stroke={C.tinta} strokeWidth={4} paintOrder="stroke">?</text>
+              </g>
+            ) : partida ? (
+              <g>
+                {Array.from({length: n}).map((_, j) => {
+                  const sw = w / n;
+                  const hh = alto(b.valor) * (1 + (MULT[j % MULT.length] - 1) * fr);
+                  return <rect key={j} x={cx - w / 2 + j * sw + (sw * 0.1 * fr)} y={base - hh} width={sw * (1 - 0.2 * fr)} height={hh} fill={color} stroke={C.tinta} strokeWidth={3} />;
+                })}
+              </g>
+            ) : (
+              <rect x={cx - w / 2} y={base - h} width={w} height={h} fill={color} stroke={C.tinta} strokeWidth={5} />
+            )}
+            {!b.contorno && !b.sinValor && t >= b.en ? <text x={cx} y={base - (partida ? alto(b.valor) * 1.55 : h) - 22} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={64} fill={C.tinta}>{`${b.prefijo ?? '+'}${Math.round(v)} %`}</text> : null}
+            <text x={cx} y={base + 58} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={tamEtiqueta} fill={C.tinta}>{b.etiqueta}</text>
+          </g>
+        );
+      })}
+      {lineaRef ? (() => {
+        const e = ease(t, lineaRef.en, lineaRef.en + 0.5);
+        const y = base - alto(lineaRef.valor);
+        return <line x1={SEGURA.izq} y1={y} x2={SEGURA.izq + (SEGURA.ancho) * e} y2={y} stroke={lineaRef.color ?? C.teja} strokeWidth={6} strokeDasharray="18 12" />;
+      })() : null}
+      {flecha ? (() => {
+        const e = ease(t, flecha.en, flecha.en + 0.6);
+        const b = barras[flecha.barra];
+        const cx = b.cx ?? cs[flecha.barra];
+        const y0 = base - alto(b.valor) - 90, y1 = base - alto(flecha.hasta);
+        const y = y0 + (y1 - y0) * e;
+        return (
+          <g opacity={e > 0 ? 1 : 0}>
+            <path d={`M ${cx} ${y0} L ${cx} ${y + 4} M ${cx - 34} ${y + 44} L ${cx} ${y} L ${cx + 34} ${y + 44}`} fill="none" stroke={C.mostaza} strokeWidth={20} strokeLinecap="round" strokeLinejoin="round" />
+          </g>
+        );
+      })() : null}
+    </g>,
+    s,
+  );
+};
+
+/** Etiqueta de IVA vectorial (038): "IVA" + dos tipos; `fases`: [{en, a, b, anio}] cada una sustituye a la anterior desde `en` (s de la escena). */
+export const IvaSerie: React.FC<{fases: {en: number; a: string; b: string; anio: string}[]; x?: number; y?: number; hasta?: number}> = ({fases, x = 540, y = 540, hasta}) => {
+  const {t} = usa();
+  const s = useSalida(hasta);
+  const e = ease(t, fases[0].en, fases[0].en + 0.4);
+  let idx = 0;
+  fases.forEach((f, i) => { if (t >= f.en) idx = i; });
+  const f = fases[idx];
+  const cambio = idx > 0 ? ease(t, f.en, f.en + 0.3) : 1;
+  const w = 600, h = 250;
+  return lienzo(
+    <g transform={`translate(${x} ${y + (1 - e) * -80}) rotate(${-4 + Math.sin(t * 2) * 1.5})`} opacity={e}>
+      <path d={`M ${-w / 2} ${-h / 2} L ${w / 2 - 60} ${-h / 2} L ${w / 2} 0 L ${w / 2 - 60} ${h / 2} L ${-w / 2} ${h / 2} Z`} fill={C.mostaza} stroke={C.tinta} strokeWidth={8} strokeLinejoin="round" />
+      <circle cx={w / 2 - 70} cy={0} r={14} fill={C.crema} stroke={C.tinta} strokeWidth={5} />
+      <text x={-w / 2 + 30} y={-h / 2 + 62} fontFamily={F.titular} fontSize={56} fill={C.tinta}>IVA · {f.anio}</text>
+      <text x={-30} y={56} textAnchor="middle" fontFamily={F.titular} fontSize={88} fill={C.tinta} transform={`scale(${0.85 + 0.15 * cambio})`}>{f.a} / {f.b}</text>
+    </g>,
+    s,
+  );
+};
+
 /** Subrayado que barre de lado a lado (evita huecos de quietud en el cierre). */
 const BarridoSerie: React.FC = () => {
   const {t} = usa();
@@ -248,5 +348,5 @@ export const CierreSerie: React.FC<{siguiente: number | string; tamano?: number;
 
 export const REGISTRO_SERIE: Record<string, React.FC<any>> = {
   cifraSerie: CifraSerie, contadorSerie: ContadorSerie, barrasHSerie: BarrasHSerie, tartaSerie: TartaSerie, cifraGrandeSerie: CifraGrandeSerie,
-  fichaSerie: FichaSerie, empleoSerie: EmpleoSerie, barraFigurasSerie: BarraFigurasSerie, abSerie: AbSerie, cierreSerie: CierreSerie,
+  fichaSerie: FichaSerie, empleoSerie: EmpleoSerie, barraFigurasSerie: BarraFigurasSerie, abSerie: AbSerie, cierreSerie: CierreSerie, barrasVSerie: BarrasVSerie, ivaSerie: IvaSerie,
 };

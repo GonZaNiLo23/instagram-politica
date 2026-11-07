@@ -66,7 +66,7 @@ export const TiemposA: React.FC<{y: number; en?: number; hasta?: number; hoyEn: 
 /** Hemiciclo de 69 puntos: 34 a un lado, 34 al otro y un punto aparte (PNV) que cruza y deja 34 / 35. */
 export const VotosA: React.FC<{y: number; en?: number; hasta?: number; pnvEn: number; pnvDur?: number; etiquetaEn?: number}> = ({y, en = 0, hasta, pnvEn, pnvDur = 0.9, etiquetaEn = 0.4}) => {
   const t = useT();
-  const cx = 540;
+  const cx = 515;
   const filas = [{R: 420, n: 24}, {R: 340, n: 20}, {R: 260, n: 15}, {R: 180, n: 10}];
   const seats: {x: number; y: number; a: number}[] = [];
   filas.forEach((f) => {
@@ -78,7 +78,7 @@ export const VotosA: React.FC<{y: number; en?: number; hasta?: number; pnvEn: nu
   seats.sort((p, q) => q.a - p.a);
   const centro = seats[34];
   const q = interpolate(t, [pnvEn, pnvEn + pnvDur], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp', easing: Easing.inOut(Easing.cubic)});
-  const ini = {x: 330, y: y - 520};
+  const ini = {x: 330, y: y - 470};
   const px = ini.x + (centro.x - ini.x) * q;
   const py = ini.y + (centro.y - ini.y) * q - 90 * Math.sin(Math.PI * q);
   const llega = t >= pnvEn + pnvDur;

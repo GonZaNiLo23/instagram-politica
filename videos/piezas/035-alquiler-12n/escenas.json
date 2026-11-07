@@ -1,0 +1,668 @@
+{
+  "plantilla": "estandar",
+  "duracion": 88.99,
+  "portadaSegundo": 1.2,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "componentes": [
+          {
+            "tipo": "marca"
+          },
+          {
+            "tipo": "gancho",
+            "texto": "¿TU ALQUILER SE RENUEVA SOLO?",
+            "y": 420,
+            "tamano": 112,
+            "en": -1
+          },
+          {
+            "tipo": "contratoBucle",
+            "x": 540,
+            "y": 1130,
+            "tamano": 420,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 6,
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿TU ALQUILER SE RENUEVA SOLO?",
+          "y": 330,
+          "tamano": 96,
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Decreto-ley 28/2026 · si se convalida"
+          ],
+          "en": -1
+        },
+        {
+          "tipo": "contratoBucle",
+          "x": 290,
+          "y": 960,
+          "tamano": 300,
+          "en": -1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "mes": "AÑO",
+          "dia": "1",
+          "x": 780,
+          "y": 960,
+          "tamano": 270,
+          "en": -1,
+          "hasta": 2.3
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "mes": "AÑOS",
+          "dia": "5",
+          "x": 780,
+          "y": 960,
+          "tamano": 270,
+          "en": 2.3,
+          "animEn": 2.3
+        },
+        {
+          "tipo": "balanza",
+          "x": 540,
+          "y": 1040,
+          "escala": 0.55,
+          "en": 3.9,
+          "etiquetas": false
+        },
+        {
+          "tipo": "icono",
+          "nombre": "papeleta",
+          "x": 540,
+          "y": 700,
+          "tamano": 170,
+          "en": 4.8,
+          "mover": {
+            "x": 540,
+            "y": 940,
+            "en": 4.96,
+            "dur": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 6,
+      "fin": 17,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HOY: A LOS 5 AÑOS, +1 HASTA 3",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 5.6
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Art. 10.1 LAU · 7 años si el casero es empresa"
+          ],
+          "en": 0.1,
+          "hasta": 5.6
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DECRETO: +5 AÑOS, Y +5…",
+          "y": 330,
+          "en": 5.6,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL 28/2026 · mientras nadie avise"
+          ],
+          "en": 5.6
+        },
+        {
+          "tipo": "tiemposA",
+          "y": 560,
+          "en": 0.1,
+          "hoyEn": [
+            1.1,
+            3.3,
+            3.8,
+            4.3
+          ],
+          "topeEn": 4.9,
+          "filaDecEn": 5.6,
+          "decEn": [
+            6,
+            7.3,
+            8.6
+          ],
+          "puntosEn": 9.5
+        }
+      ]
+    },
+    {
+      "inicio": 17,
+      "fin": 23.6,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "RDL 28/2026",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 2.2
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "6 OCT: APROBADO DE NUEVO",
+          "y": 330,
+          "en": 2.2,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "F1.jpg",
+          "forma": "rect",
+          "x": 495,
+          "y": 700,
+          "ancho": 900,
+          "alto": 300,
+          "foco": "50% 62%",
+          "zoom": [
+            1.02,
+            1.12
+          ],
+          "dur": 6.6,
+          "en": 0.1
+        },
+        {
+          "tipo": "fechasV",
+          "y": 800,
+          "ranuras": 2,
+          "x0": 230,
+          "x1": 700,
+          "en": 0.9000000000000001,
+          "hitos": [
+            {
+              "dia": "2",
+              "mes": "OCT",
+              "en": 1.2000000000000002
+            },
+            {
+              "dia": "6",
+              "mes": "OCT",
+              "en": 3.5
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "BOE 7-10"
+          ],
+          "en": 4,
+          "y": 1045,
+          "x": 640,
+          "tamano": 64,
+          "angulo": -4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Foto: Antonio.velez · CC BY-SA 3.0 es · Wikimedia Commons",
+            "BOE 7-10-2026 · el Congreso derogó otro el 2-10"
+          ],
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 23.6,
+      "fin": 33.1,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LA DIPUTACIÓN PERMANENTE DEBE CONVALIDARLO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "CE, art. 78 y 86.2"
+          ],
+          "en": 0.1,
+          "hasta": 4.4
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SI NO, CAE",
+          "y": 330,
+          "en": 4.4,
+          "tamano": 64,
+          "hasta": 6.3
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SI SÍ: EN VIGOR 15 NOV",
+          "y": 330,
+          "en": 6.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Disp. final 2.ª RDL 28/2026"
+          ],
+          "en": 6.3
+        },
+        {
+          "tipo": "hemiciclo",
+          "y": 720,
+          "ancho": 700,
+          "leyenda": false,
+          "estatico": true,
+          "en": 0,
+          "grupos": [
+            {
+              "nombre": "Escaños",
+              "escanos": 350,
+              "color": "#14213D"
+            }
+          ],
+          "apagar": {
+            "en": 0.8,
+            "dur": 1.5,
+            "de": "#14213D",
+            "a": "#8D99AE"
+          },
+          "resalta": {
+            "desde": 140,
+            "cuenta": 69,
+            "color": "#F2B134",
+            "en": 0.8,
+            "dur": 0.9
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "cruzPiedra",
+          "x": 280,
+          "y": 1010,
+          "tamano": 200,
+          "en": 4.5,
+          "hasta": 6.3
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "mes": "NOV",
+          "dia": "15",
+          "x": 800,
+          "y": 1030,
+          "tamano": 200,
+          "en": 6.3999999999999995
+        }
+      ]
+    },
+    {
+      "inicio": 33.1,
+      "fin": 41.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CASERO: AVISO DE 6 MESES",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 2.55
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Hoy son 4"
+          ],
+          "en": 0.1,
+          "hasta": 2.55
+        },
+        {
+          "tipo": "icono",
+          "nombre": "relojArena",
+          "x": 300,
+          "y": 740,
+          "tamano": 340,
+          "en": 0.1,
+          "hasta": 2.55,
+          "animEn": 0.9,
+          "dur": 2.2,
+          "etiqueta": "6 meses"
+        },
+        {
+          "tipo": "icono",
+          "nombre": "relojArena",
+          "x": 760,
+          "y": 780,
+          "tamano": 230,
+          "en": 1.9,
+          "hasta": 2.55,
+          "etiqueta": "4"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "INDEMNIZACIÓN: DESDE 12 MENSUALIDADES",
+          "y": 330,
+          "en": 2.55,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Salvo excepciones: p. ej., si necesita el piso él o su familia · inquilino: 2 meses, como hoy"
+          ],
+          "en": 2.55
+        },
+        {
+          "tipo": "sobreBilletes",
+          "x": 400,
+          "y": 800,
+          "tamano": 420,
+          "en": 4
+        },
+        {
+          "tipo": "iconoA",
+          "nombre": "llave",
+          "x": 780,
+          "y": 760,
+          "tamano": 220,
+          "en": 4.9
+        },
+        {
+          "tipo": "pildora",
+          "texto": "excepciones",
+          "y": 980,
+          "en": 5.14
+        }
+      ]
+    },
+    {
+      "inicio": 41.3,
+      "fin": 54,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VOTACIÓN PREVISTA: 12 NOV, SEGÚN LA PRENSA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.6
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Sin convocar a 2026-11-05"
+          ],
+          "en": 0.1,
+          "hasta": 4.6
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "A FAVOR: 34 · EN CONTRA: 35",
+          "y": 330,
+          "en": 4.6,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Recuento de Público (7-10) si se repiten las posiciones · PNV: no, 6-10 · PSOE, Sumar, ERC, Bildu, Podemos / PP, Vox, Junts, PNV"
+          ],
+          "en": 4.6
+        },
+        {
+          "tipo": "votosA",
+          "y": 1080,
+          "en": 0,
+          "pnvEn": 8.8,
+          "pnvDur": 0.8,
+          "etiquetaEn": 8.2
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Votos en la Diputación Permanente (69)",
+          "y": 490,
+          "en": 4.6,
+          "tamano": 48
+        }
+      ]
+    },
+    {
+      "inicio": 54,
+      "fin": 64.9,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "QUÉ DICEN UNOS Y OTROS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PNV: PENALIZA AL PEQUEÑO PROPIETARIO",
+          "y": 420,
+          "en": 0.2,
+          "tamano": 64,
+          "hasta": 3.5
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "1 y 6-10-2026"
+          ],
+          "en": 0.2,
+          "hasta": 3.5
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "VOX Y JUNTS: MENOS PISOS EN ALQUILER",
+          "y": 420,
+          "en": 3.5,
+          "tamano": 64,
+          "hasta": 7.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Debate del 2-10-2026 · PP, Vox y Junts votaron no"
+          ],
+          "en": 3.5,
+          "hasta": 7.2
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "GOBIERNO: SUBE AL RENOVAR",
+          "y": 420,
+          "en": 7.2,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Preámbulo RDL 28/2026"
+          ],
+          "en": 7.2
+        },
+        {
+          "tipo": "iconoA",
+          "nombre": "casa",
+          "x": 205,
+          "y": 800,
+          "tamano": 240,
+          "en": 0.4
+        },
+        {
+          "tipo": "iconoA",
+          "nombre": "llave",
+          "x": 540,
+          "y": 800,
+          "tamano": 240,
+          "en": 3.7
+        },
+        {
+          "tipo": "iconoA",
+          "nombre": "contrato",
+          "x": 835,
+          "y": 800,
+          "tamano": 240,
+          "en": 7.5
+        }
+      ]
+    },
+    {
+      "inicio": 64.9,
+      "fin": 74.2,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CONTRATOS 2019–2022 → VENCEN 2027–2030",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Preámbulo del RDL 28/2026: «el mayor volumen de contratos vigentes»"
+          ],
+          "en": 0.2
+        },
+        {
+          "tipo": "bandasA",
+          "y": 650,
+          "en": 0.1,
+          "bandaEn": 0.5,
+          "mueveEn": 6.1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "lupaPlaca",
+          "x": 260,
+          "y": 990,
+          "tamano": 200,
+          "en": 1.1,
+          "mover": {
+            "x": 700,
+            "y": 990,
+            "en": 1.4,
+            "dur": 3.6
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 74.2,
+      "fin": 81.3,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SI CAE: NI UN DÍA APLICADO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 2.7
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿5 AÑOS MÁS? DEPENDE DE UN VOTO",
+          "y": 330,
+          "en": 2.7,
+          "tamano": 64
+        },
+        {
+          "tipo": "contratoBucle",
+          "x": 290,
+          "y": 850,
+          "tamano": 330,
+          "en": 0.1
+        },
+        {
+          "tipo": "balanza",
+          "x": 700,
+          "y": 900,
+          "escala": 0.62,
+          "en": 0.2,
+          "etiquetas": false
+        },
+        {
+          "tipo": "icono",
+          "nombre": "papeleta",
+          "x": 700,
+          "y": 640,
+          "tamano": 170,
+          "en": 2.8,
+          "mover": {
+            "x": 700,
+            "y": 800,
+            "en": 5.8,
+            "dur": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 81.3,
+      "fin": 85.2,
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿PRÓRROGA LARGA O RENEGOCIAR?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "PRÓRROGA LARGA",
+          "b": "RENEGOCIAR",
+          "y": 640,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 85.2,
+      "fin": 88.99,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿PRÓRROGA LARGA O RENEGOCIAR?",
+          "tamano": 84,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "plantilla": "flash",
+  "duracion": 43.15,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 3,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "¿Y TU SUELDO?",
+            "y": 520,
+            "tamano": 84,
+            "en": -1
+          },
+          {
+            "tipo": "cifraGrandeSerie",
+            "valor": "+39 %",
+            "sub": "COMIDA",
+            "y": 690,
+            "tam": 200,
+            "en": -1,
+            "pill": true
+          },
+          {
+            "tipo": "cifraGrandeSerie",
+            "valor": "+24 %",
+            "sub": "COSTE SALARIAL",
+            "y": 1000,
+            "tam": 200,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "2018 → 2025",
+            "y": 1310,
+            "en": -1,
+            "tamano": 64
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 3,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "COMIDA +39 %",
+          "y": 520,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2018 → 2025",
+          "y": 665,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Alimentos y bebidas sin alcohol · Eurostat",
+            "Cálculo propio con datos oficiales"
+          ],
+          "en": -1,
+          "tamano": 40
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 39,
+          "base": 1060,
+          "hMax": 240,
+          "centros": [
+            300,
+            780
+          ],
+          "barras": [
+            {
+              "etiqueta": "COMIDA",
+              "valor": 39,
+              "color": "#14213D",
+              "en": 0,
+              "dur": 1.5
+            },
+            {
+              "etiqueta": "¿SUELDO?",
+              "valor": 24,
+              "contorno": true,
+              "altoContorno": 130,
+              "en": 3.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 4.22,
+      "fin": 7.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PRECIOS EN GENERAL +22 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "IPCA, índice de precios armonizado de la UE",
+          "y": 500,
+          "en": 0.2,
+          "tamano": 48
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 39,
+          "base": 1060,
+          "hMax": 240,
+          "barras": [
+            {
+              "etiqueta": "COMIDA",
+              "valor": 39,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "etiqueta": "¿SUELDO?",
+              "valor": 24,
+              "contorno": true,
+              "altoContorno": 130,
+              "en": -1
+            },
+            {
+              "etiqueta": "PRECIOS",
+              "valor": 22,
+              "color": "#8D99AE",
+              "en": 0.05,
+              "dur": 1.2
+            }
+          ],
+          "lineaRef": {
+            "valor": 22,
+            "en": 1.3
+          }
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 700,
+          "y": 650,
+          "tamano": 80,
+          "desde": 60,
+          "en": 1.8
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio con datos oficiales"
+          ],
+          "en": 0.2,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 7.34,
+      "fin": 11.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EUROSTAT",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 96,
+          "pastilla": true
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Media anual 2018 y 2025",
+          "y": 500,
+          "en": 0.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "cifraGrandeSerie",
+          "valor": "2018 → 2025",
+          "y": 700,
+          "tam": 112,
+          "en": 0.6
+        }
+      ]
+    },
+    {
+      "inicio": 11.38,
+      "fin": 16.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "barrasHSerie",
+          "titulo": "COMIDA 2018–2025",
+          "max": 40,
+          "paso": 20,
+          "y0": 330,
+          "alto": 190,
+          "dur": 1,
+          "filas": [
+            {
+              "etiqueta": "ESPAÑA +39 %",
+              "valor": 39,
+              "color": "#14213D",
+              "en": 0.1
+            },
+            {
+              "etiqueta": "ZONA EURO +36 %",
+              "valor": 36,
+              "color": "#8D99AE",
+              "en": 1.82
+            }
+          ]
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Precios en general: ES +22 % · zona euro +24 %",
+          "y": 940,
+          "en": 2.1300000000000003,
+          "tamano": 48
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio con datos oficiales"
+          ],
+          "en": 0.2,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 16.46,
+      "fin": 24.3,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "COSTE SALARIAL POR TRABAJADOR +24 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2018: 1.919 € → 2025: 2.377 € al mes (media de los 4 trimestres)",
+          "y": 520,
+          "en": 0.2,
+          "tamano": 44
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 39,
+          "base": 1060,
+          "hMax": 240,
+          "barras": [
+            {
+              "etiqueta": "COMIDA",
+              "valor": 39,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "etiqueta": "SUELDO",
+              "valor": 24,
+              "color": "#F2B134",
+              "en": 2.6,
+              "dur": 1
+            },
+            {
+              "etiqueta": "PRECIOS",
+              "valor": 22,
+              "color": "#8D99AE",
+              "en": -1,
+              "dur": 0.01
+            }
+          ],
+          "lineaRef": {
+            "valor": 39,
+            "en": 5.1
+          },
+          "flecha": {
+            "barra": 1,
+            "hasta": 39,
+            "en": 6.5
+          }
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 760,
+          "y": 660,
+          "tamano": 80,
+          "desde": 60,
+          "reboteMax": 0,
+          "en": 4.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "INE, Encuesta Trimestral de Coste Laboral · cálculo propio"
+          ],
+          "en": 0.2,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 24.3,
+      "fin": 33.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "IVA DE ALIMENTOS BÁSICOS: REBAJA 2023–2024",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "ivaSerie",
+          "x": 540,
+          "y": 705,
+          "fases": [
+            {
+              "en": 0.3,
+              "a": "4 %",
+              "b": "10 %",
+              "anio": "2022"
+            },
+            {
+              "en": 1.06,
+              "a": "0 %",
+              "b": "5 %",
+              "anio": "2023–24"
+            },
+            {
+              "en": 7.2,
+              "a": "4 %",
+              "b": "10 %",
+              "anio": "2025"
+            }
+          ]
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "En 2025, vuelta al 4 % (aceite de oliva: 4 % fijo)",
+          "y": 855,
+          "en": 3.38,
+          "tamano": 44
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SEGÚN HACIENDA (25-6-2024): respuesta a la inflación por la invasión de Ucrania",
+          "y": 975,
+          "en": 4.359999999999999,
+          "tamano": 48
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Ministerio de Hacienda, nota del 25-6-2024"
+          ],
+          "en": 0.2,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 33.34,
+      "fin": 36.19,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NO ES TU SUELDO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Media de todos los trabajadores",
+          "y": 430,
+          "en": 0.25,
+          "tamano": 52
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 39,
+          "base": 1060,
+          "hMax": 240,
+          "barras": [
+            {
+              "etiqueta": "COMIDA",
+              "valor": 39,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "etiqueta": "SUELDO",
+              "valor": 24,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "etiqueta": "PRECIOS",
+              "valor": 22,
+              "color": "#8D99AE",
+              "en": -1,
+              "dur": 0.01
+            }
+          ],
+          "fragmenta": {
+            "barra": 1,
+            "en": 0.3,
+            "n": 10
+          }
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO MIDE"
+          ],
+          "x": 540,
+          "y": 620,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 72,
+          "en": 1.2
+        }
+      ]
+    },
+    {
+      "inicio": 36.19,
+      "fin": 39.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿TU SUELDO: MÁS O MENOS QUE TU COMPRA?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 39,
+          "base": 800,
+          "hMax": 150,
+          "tamEtiqueta": 44,
+          "barras": [
+            {
+              "etiqueta": "COMIDA",
+              "valor": 39,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "etiqueta": "SUELDO",
+              "valor": 24,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.01
+            }
+          ]
+        },
+        {
+          "tipo": "abSerie",
+          "a": "MÁS",
+          "b": "MENOS",
+          "y": 900,
+          "en": 0.7
+        }
+      ]
+    },
+    {
+      "inicio": 39.42,
+      "fin": 43.15,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 4
+        }
+      ]
+    }
+  ]
+}

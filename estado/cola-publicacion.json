@@ -244,5 +244,12 @@
     "hora": "2026-11-07T06:00:00.000Z",
     "estado": "pendiente",
     "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)"
+  },
+  {
+    "pieza": "038-8-anos-comida",
+    "version": "v2",
+    "hora": "2026-11-07T12:00:00+01:00",
+    "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/038-8-anos-comida-v1.md (literales aplicados) APROBADO · revisiones/videos/038-8-anos-comida-v2.md APROBADO test 9/10",
+    "estado": "pendiente"
   }
 ]
