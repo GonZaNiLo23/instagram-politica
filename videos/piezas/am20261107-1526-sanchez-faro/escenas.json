@@ -1,0 +1,90 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 17.5,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 14.0,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 14.0,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 14.0
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "SÁNCHEZ: «VAMOS A SEGUIR SIENDO EL FARO»",
+          "fecha": "7 NOV",
+          "credito": "Vídeo: @sanchezcastejon"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.1,
+              "texto": "Vamos a seguir siendo el faro,"
+            },
+            {
+              "inicio": 2.14,
+              "fin": 4.3,
+              "texto": "vamos a seguir inspirando al mundo"
+            },
+            {
+              "inicio": 4.4,
+              "fin": 5.5,
+              "texto": "porque esa es la fuerza de un gran país"
+            },
+            {
+              "inicio": 5.56,
+              "fin": 6.5,
+              "texto": "como es España,"
+            },
+            {
+              "inicio": 6.6,
+              "fin": 8.5,
+              "texto": "un país de esperanza que sabe"
+            },
+            {
+              "inicio": 8.56,
+              "fin": 10.1,
+              "texto": "que lo mejor siempre está por venir"
+            },
+            {
+              "inicio": 10.18,
+              "fin": 11.5,
+              "texto": "porque miramos hacia atrás"
+            },
+            {
+              "inicio": 11.52,
+              "fin": 14.0,
+              "texto": "y nos sentimos orgullosos de nuestra historia,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 14.0,
+      "fin": 17.5,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Sánchez presume de país «faro» y «esperanza»",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true
+}
