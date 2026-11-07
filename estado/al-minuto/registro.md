@@ -156,3 +156,4 @@
 - 2026-11-07 13:30 UTC · sin candidatos con frases (radar generado 13:27 UTC: @psoe 7,4 s sin habla; @vox_es Abascal/Adif sin transcripción) · sin publicación
 - 2026-11-07 15:40 UTC · 3 · @sanchezcastejon (Sánchez, «seguir siendo el faro», tramo 0–14 s; subtítulos cotejados con la transcripción; corregido «saben»→«sabe») · publicado am20261107-1526-sanchez-faro
 - 2026-11-07 15:40 UTC · 2 · @santi_abascal (Adif/bonus, 114 s) · descartado: «matar a más de 100 españoles», «mordidas» y «amigotes de Pedro Sánchez» son acusaciones no probadas; sin tramo limpio
+- 2026-11-07 17:40 UTC · sin candidatos (radar generado 17:27 UTC, candidatos vacíos) · sin publicación
