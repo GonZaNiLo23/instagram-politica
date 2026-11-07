@@ -1,0 +1,126 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 37.42,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 33.92,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 33.92,
+          "fundidoFin": 33.92
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL: DEROGAR LA LEGISLACIÓN IDEOLÓGICA",
+          "fecha": "7 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 1.9,
+              "texto": "Estamos dispuestos absolutamente a todo"
+            },
+            {
+              "inicio": 1.9,
+              "fin": 3.78,
+              "texto": "para echar este Gobierno y al día"
+            },
+            {
+              "inicio": 3.78,
+              "fin": 6,
+              "texto": "siguiente, que nadie tenga duda"
+            },
+            {
+              "inicio": 6,
+              "fin": 8.14,
+              "texto": "de que nuestra voluntad, la de Vox, es"
+            },
+            {
+              "inicio": 8.14,
+              "fin": 10.6,
+              "texto": "derogar toda la legislación ideológica"
+            },
+            {
+              "inicio": 10.6,
+              "fin": 13.08,
+              "texto": "de este Gobierno, pero no vamos a"
+            },
+            {
+              "inicio": 13.08,
+              "fin": 15.82,
+              "texto": "engañar a nadie: parte de la legislación"
+            },
+            {
+              "inicio": 15.82,
+              "fin": 19.38,
+              "texto": "que viene del Parlamento Europeo y fue"
+            },
+            {
+              "inicio": 19.38,
+              "fin": 21.2,
+              "texto": "pactada por el PP"
+            },
+            {
+              "inicio": 21.2,
+              "fin": 23.1,
+              "texto": "y por el PSOE."
+            },
+            {
+              "inicio": 23.1,
+              "fin": 25.8,
+              "texto": "No va a ser fácil, porque después"
+            },
+            {
+              "inicio": 25.8,
+              "fin": 28.5,
+              "texto": "de las elecciones habrá que preguntar al PP:"
+            },
+            {
+              "inicio": 28.5,
+              "fin": 31.26,
+              "texto": "¿apostáis por el cambio en España o"
+            },
+            {
+              "inicio": 31.26,
+              "fin": 33.92,
+              "texto": "por seguir como en Bruselas?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 33.92,
+      "fin": 37.42,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal emplaza al PP a elegir tras las elecciones",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261107-0526-abascal-derogar-legislacion",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
