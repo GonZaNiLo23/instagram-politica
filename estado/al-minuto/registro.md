@@ -157,3 +157,4 @@
 - 2026-11-07 15:40 UTC · 3 · @sanchezcastejon (Sánchez, «seguir siendo el faro», tramo 0–14 s; subtítulos cotejados con la transcripción; corregido «saben»→«sabe») · publicado am20261107-1526-sanchez-faro
 - 2026-11-07 15:40 UTC · 2 · @santi_abascal (Adif/bonus, 114 s) · descartado: «matar a más de 100 españoles», «mordidas» y «amigotes de Pedro Sánchez» son acusaciones no probadas; sin tramo limpio
 - 2026-11-07 17:40 UTC · sin candidatos (radar generado 17:27 UTC, candidatos vacíos) · sin publicación
+- 2026-11-07 19:30 UTC (publicación 20:00 Madrid): sin candidatos (radar devolvió 0 detectados). Sin publicación.
