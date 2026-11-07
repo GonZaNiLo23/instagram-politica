@@ -150,3 +150,4 @@
 - 2026-11-07 05:40 UTC · 4 · @vox_es (Abascal: derogar legislación ideológica y emplaza al PP, tramo 0–33,92 s, subtítulos cotejados con la transcripción; Whisper: box→Vox, Utilista→PSOE según el texto del reel) · publicado am20261107-0526-abascal-derogar-legislacion
 - 2026-11-07 05:40 UTC · 1 · @vox_es (Granada, auditorio, 19 s) · descartado: sin habla
 - 2026-11-07 05:40 UTC · 3 · @vox_es ("No todos somos iguales", 41 s) · descartado: acusación de «manos manchadas de sangre» no probada · sin otra publicación
+- 2026-11-07 07:30 UTC · sin candidatos (radar generado 07:27 UTC, candidatos vacíos) · sin publicación
