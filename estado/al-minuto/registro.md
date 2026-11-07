@@ -152,3 +152,4 @@
 - 2026-11-07 05:40 UTC · 3 · @vox_es ("No todos somos iguales", 41 s) · descartado: acusación de «manos manchadas de sangre» no probada · sin otra publicación
 - 2026-11-07 07:30 UTC · sin candidatos (radar generado 07:27 UTC, candidatos vacíos) · sin publicación
 - 2026-11-07 09:40 UTC · sin candidatos (radar generado 09:27 UTC, candidatos vacíos) · sin publicación
+- 2026-11-07 11:40 UTC · 2 · @santi_abascal (Granada, sanidad e "invasión migratoria", 67,7 s) · descartado: cifras no contrastadas (listas de espera +46 %, 4 millones, récord de seguros privados), "sinvergüenza" y "invasión" sin tramo limpio · sin publicación
