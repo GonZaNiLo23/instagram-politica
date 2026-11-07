@@ -1,5 +1,662 @@
 {
- "generado": "2026-11-07T17:27:22.545Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-07T17:46:29.982Z",
+ "total_detectados": 2,
+ "candidatos": [
+  {
+   "id": "ig-17990190846118062",
+   "fuente": "instagram",
+   "cuenta": "@psoe",
+   "nombre": "PSOE",
+   "espacio": "otros",
+   "seguidores": 264184,
+   "fecha": "2026-11-07T17:37:00+0000",
+   "horas": 0.2,
+   "me_gusta": 158,
+   "comentarios": 14,
+   "viral": 140.8,
+   "enlace": "https://www.instagram.com/reel/Dfcu3xggbiO/",
+   "texto": "Como ha pasado en Brasil y EE. UU., las urnas son la mejor respuesta frente a la derecha y la ultraderecha.\n\nFrente a sus recortes y sus motosierras: #LaFuerzaDeLaGente.",
+   "credito": "Vídeo: @psoe",
+   "duracion": 51.1,
+   "archivo": "ig-17990190846118062.mp4",
+   "frases": [
+    {
+     "inicio": 1.01,
+     "fin": 8.77,
+     "texto": "La derecha y la ultradreta trencan la convivencia, retallan derechos y nos hacen retrucedir."
+    },
+    {
+     "inicio": 9.91,
+     "fin": 12.11,
+     "texto": "Pero podemos derrotarlos a las urnas."
+    },
+    {
+     "inicio": 13.19,
+     "fin": 17.35,
+     "texto": "Cómo han hecho el Brasil. Cómo han hecho los Estados Unidos."
+    },
+    {
+     "inicio": 18.33,
+     "fin": 20.79,
+     "texto": "Porque compartimos una misma lluita."
+    },
+    {
+     "inicio": 21.69,
+     "fin": 23.73,
+     "texto": "Defendemos la paz y la democracia."
+    },
+    {
+     "inicio": 24.51,
+     "fin": 25.49,
+     "texto": "Garantimos derechos."
+    },
+    {
+     "inicio": 26.41,
+     "fin": 27.83,
+     "texto": "Mejoramos la vida de la gente."
+    },
+    {
+     "inicio": 29.07,
+     "fin": 32.23,
+     "texto": "El próximo 29 de noviembre, movilizemosnos."
+    },
+    {
+     "inicio": 33.07,
+     "fin": 35.37,
+     "texto": "Cataluña, tornaremos a ser decisivos."
+    },
+    {
+     "inicio": 35.93,
+     "fin": 37.29,
+     "texto": "Con la fuerza de los jóvenes."
+    },
+    {
+     "inicio": 38.01,
+     "fin": 39.21,
+     "texto": "Con la fuerza de los grandes."
+    },
+    {
+     "inicio": 39.69,
+     "fin": 41.19,
+     "texto": "Con la fuerza de las donas."
+    },
+    {
+     "inicio": 41.45,
+     "fin": 43.87,
+     "texto": "Con la fuerza de los trabajadores y trabajadoras."
+    },
+    {
+     "inicio": 44.05,
+     "fin": 46.01,
+     "texto": "Con la fuerza de un gran país."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "La",
+     "inicio": 1.01,
+     "fin": 1.53
+    },
+    {
+     "t": "derecha",
+     "inicio": 1.53,
+     "fin": 1.87
+    },
+    {
+     "t": "y",
+     "inicio": 1.87,
+     "fin": 1.99
+    },
+    {
+     "t": "la",
+     "inicio": 1.99,
+     "fin": 2.09
+    },
+    {
+     "t": "ultradreta",
+     "inicio": 2.09,
+     "fin": 2.71
+    },
+    {
+     "t": "trencan",
+     "inicio": 2.71,
+     "fin": 3.23
+    },
+    {
+     "t": "la",
+     "inicio": 3.23,
+     "fin": 3.41
+    },
+    {
+     "t": "convivencia,",
+     "inicio": 3.41,
+     "fin": 4.05
+    },
+    {
+     "t": "retallan",
+     "inicio": 4.49,
+     "fin": 5.97
+    },
+    {
+     "t": "derechos",
+     "inicio": 5.97,
+     "fin": 6.23
+    },
+    {
+     "t": "y",
+     "inicio": 6.23,
+     "fin": 7.73
+    },
+    {
+     "t": "nos",
+     "inicio": 7.73,
+     "fin": 7.93
+    },
+    {
+     "t": "hacen",
+     "inicio": 7.93,
+     "fin": 8.07
+    },
+    {
+     "t": "retrucedir.",
+     "inicio": 8.07,
+     "fin": 8.77
+    },
+    {
+     "t": "Pero",
+     "inicio": 9.91,
+     "fin": 10.59
+    },
+    {
+     "t": "podemos",
+     "inicio": 10.59,
+     "fin": 10.85
+    },
+    {
+     "t": "derrotarlos",
+     "inicio": 10.85,
+     "fin": 11.47
+    },
+    {
+     "t": "a",
+     "inicio": 11.47,
+     "fin": 11.65
+    },
+    {
+     "t": "las",
+     "inicio": 11.65,
+     "fin": 11.77
+    },
+    {
+     "t": "urnas.",
+     "inicio": 11.77,
+     "fin": 12.11
+    },
+    {
+     "t": "Cómo",
+     "inicio": 13.19,
+     "fin": 13.87
+    },
+    {
+     "t": "han",
+     "inicio": 13.87,
+     "fin": 14.01
+    },
+    {
+     "t": "hecho",
+     "inicio": 14.01,
+     "fin": 14.21
+    },
+    {
+     "t": "el",
+     "inicio": 14.21,
+     "fin": 14.41
+    },
+    {
+     "t": "Brasil.",
+     "inicio": 14.41,
+     "fin": 14.63
+    },
+    {
+     "t": "Cómo",
+     "inicio": 15.51,
+     "fin": 16.05
+    },
+    {
+     "t": "han",
+     "inicio": 16.05,
+     "fin": 16.21
+    },
+    {
+     "t": "hecho",
+     "inicio": 16.21,
+     "fin": 16.43
+    },
+    {
+     "t": "los",
+     "inicio": 16.43,
+     "fin": 16.67
+    },
+    {
+     "t": "Estados",
+     "inicio": 16.67,
+     "fin": 16.93
+    },
+    {
+     "t": "Unidos.",
+     "inicio": 16.93,
+     "fin": 17.35
+    },
+    {
+     "t": "Porque",
+     "inicio": 18.33,
+     "fin": 18.95
+    },
+    {
+     "t": "compartimos",
+     "inicio": 18.95,
+     "fin": 19.65
+    },
+    {
+     "t": "una",
+     "inicio": 19.65,
+     "fin": 19.95
+    },
+    {
+     "t": "misma",
+     "inicio": 19.95,
+     "fin": 20.27
+    },
+    {
+     "t": "lluita.",
+     "inicio": 20.27,
+     "fin": 20.79
+    },
+    {
+     "t": "Defendemos",
+     "inicio": 21.69,
+     "fin": 22.33
+    },
+    {
+     "t": "la",
+     "inicio": 22.33,
+     "fin": 22.49
+    },
+    {
+     "t": "paz",
+     "inicio": 22.49,
+     "fin": 22.71
+    },
+    {
+     "t": "y",
+     "inicio": 22.71,
+     "fin": 23.03
+    },
+    {
+     "t": "la",
+     "inicio": 23.03,
+     "fin": 23.11
+    },
+    {
+     "t": "democracia.",
+     "inicio": 23.11,
+     "fin": 23.73
+    },
+    {
+     "t": "Garantimos",
+     "inicio": 24.51,
+     "fin": 25.19
+    },
+    {
+     "t": "derechos.",
+     "inicio": 25.19,
+     "fin": 25.49
+    },
+    {
+     "t": "Mejoramos",
+     "inicio": 26.41,
+     "fin": 27.03
+    },
+    {
+     "t": "la",
+     "inicio": 27.03,
+     "fin": 27.17
+    },
+    {
+     "t": "vida",
+     "inicio": 27.17,
+     "fin": 27.37
+    },
+    {
+     "t": "de",
+     "inicio": 27.37,
+     "fin": 27.55
+    },
+    {
+     "t": "la",
+     "inicio": 27.55,
+     "fin": 27.63
+    },
+    {
+     "t": "gente.",
+     "inicio": 27.63,
+     "fin": 27.83
+    },
+    {
+     "t": "El",
+     "inicio": 29.07,
+     "fin": 29.55
+    },
+    {
+     "t": "próximo",
+     "inicio": 29.55,
+     "fin": 29.73
+    },
+    {
+     "t": "29",
+     "inicio": 29.73,
+     "fin": 30.33
+    },
+    {
+     "t": "de",
+     "inicio": 30.33,
+     "fin": 30.55
+    },
+    {
+     "t": "noviembre,",
+     "inicio": 30.55,
+     "fin": 30.97
+    },
+    {
+     "t": "movilizemosnos.",
+     "inicio": 31.27,
+     "fin": 32.23
+    },
+    {
+     "t": "Cataluña,",
+     "inicio": 33.07,
+     "fin": 33.55
+    },
+    {
+     "t": "tornaremos",
+     "inicio": 33.79,
+     "fin": 34.27
+    },
+    {
+     "t": "a",
+     "inicio": 34.27,
+     "fin": 34.45
+    },
+    {
+     "t": "ser",
+     "inicio": 34.45,
+     "fin": 34.55
+    },
+    {
+     "t": "decisivos.",
+     "inicio": 34.55,
+     "fin": 35.37
+    },
+    {
+     "t": "Con",
+     "inicio": 35.93,
+     "fin": 36.31
+    },
+    {
+     "t": "la",
+     "inicio": 36.31,
+     "fin": 36.45
+    },
+    {
+     "t": "fuerza",
+     "inicio": 36.45,
+     "fin": 36.71
+    },
+    {
+     "t": "de",
+     "inicio": 36.71,
+     "fin": 36.93
+    },
+    {
+     "t": "los",
+     "inicio": 36.93,
+     "fin": 37.05
+    },
+    {
+     "t": "jóvenes.",
+     "inicio": 37.05,
+     "fin": 37.29
+    },
+    {
+     "t": "Con",
+     "inicio": 38.01,
+     "fin": 38.21
+    },
+    {
+     "t": "la",
+     "inicio": 38.21,
+     "fin": 38.35
+    },
+    {
+     "t": "fuerza",
+     "inicio": 38.35,
+     "fin": 38.61
+    },
+    {
+     "t": "de",
+     "inicio": 38.61,
+     "fin": 38.85
+    },
+    {
+     "t": "los",
+     "inicio": 38.85,
+     "fin": 38.97
+    },
+    {
+     "t": "grandes.",
+     "inicio": 38.97,
+     "fin": 39.21
+    },
+    {
+     "t": "Con",
+     "inicio": 39.69,
+     "fin": 39.89
+    },
+    {
+     "t": "la",
+     "inicio": 39.89,
+     "fin": 40.03
+    },
+    {
+     "t": "fuerza",
+     "inicio": 40.03,
+     "fin": 40.31
+    },
+    {
+     "t": "de",
+     "inicio": 40.31,
+     "fin": 40.55
+    },
+    {
+     "t": "las",
+     "inicio": 40.55,
+     "fin": 40.71
+    },
+    {
+     "t": "donas.",
+     "inicio": 40.71,
+     "fin": 41.19
+    },
+    {
+     "t": "Con",
+     "inicio": 41.45,
+     "fin": 41.67
+    },
+    {
+     "t": "la",
+     "inicio": 41.67,
+     "fin": 41.79
+    },
+    {
+     "t": "fuerza",
+     "inicio": 41.79,
+     "fin": 42.05
+    },
+    {
+     "t": "de",
+     "inicio": 42.05,
+     "fin": 42.25
+    },
+    {
+     "t": "los",
+     "inicio": 42.25,
+     "fin": 42.37
+    },
+    {
+     "t": "trabajadores",
+     "inicio": 42.37,
+     "fin": 42.89
+    },
+    {
+     "t": "y",
+     "inicio": 42.89,
+     "fin": 43.05
+    },
+    {
+     "t": "trabajadoras.",
+     "inicio": 43.05,
+     "fin": 43.87
+    },
+    {
+     "t": "Con",
+     "inicio": 44.05,
+     "fin": 44.29
+    },
+    {
+     "t": "la",
+     "inicio": 44.29,
+     "fin": 44.43
+    },
+    {
+     "t": "fuerza",
+     "inicio": 44.43,
+     "fin": 44.83
+    },
+    {
+     "t": "de",
+     "inicio": 44.83,
+     "fin": 45.25
+    },
+    {
+     "t": "un",
+     "inicio": 45.25,
+     "fin": 45.39
+    },
+    {
+     "t": "gran",
+     "inicio": 45.39,
+     "fin": 45.63
+    },
+    {
+     "t": "país.",
+     "inicio": 45.63,
+     "fin": 46.01
+    }
+   ],
+   "habla": true
+  },
+  {
+   "id": "ig-18221338513357121",
+   "fuente": "instagram",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1247010,
+   "fecha": "2026-11-07T17:31:14+0000",
+   "horas": 0.3,
+   "me_gusta": 187,
+   "comentarios": 21,
+   "viral": 36.7,
+   "enlace": "https://www.instagram.com/reel/DfcuLVLuXxb/",
+   "texto": "Son una organización criminal.",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 46.5,
+   "archivo": "ig-18221338513357121.mp4",
+   "frases": [
+    {
+     "inicio": 0.21,
+     "fin": 6.01,
+     "texto": "Gracias, Óscar, por la dignidad que has demostrado en Política en los momentos."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "Gracias,",
+     "inicio": 0.21,
+     "fin": 1.01
+    },
+    {
+     "t": "Óscar,",
+     "inicio": 1.39,
+     "fin": 2.17
+    },
+    {
+     "t": "por",
+     "inicio": 2.39,
+     "fin": 2.53
+    },
+    {
+     "t": "la",
+     "inicio": 2.53,
+     "fin": 2.67
+    },
+    {
+     "t": "dignidad",
+     "inicio": 2.67,
+     "fin": 3.27
+    },
+    {
+     "t": "que",
+     "inicio": 3.27,
+     "fin": 3.45
+    },
+    {
+     "t": "has",
+     "inicio": 3.45,
+     "fin": 3.59
+    },
+    {
+     "t": "demostrado",
+     "inicio": 3.59,
+     "fin": 4.29
+    },
+    {
+     "t": "en",
+     "inicio": 4.29,
+     "fin": 4.45
+    },
+    {
+     "t": "Política",
+     "inicio": 4.45,
+     "fin": 5.19
+    },
+    {
+     "t": "en",
+     "inicio": 5.19,
+     "fin": 5.31
+    },
+    {
+     "t": "los",
+     "inicio": 5.31,
+     "fin": 5.41
+    },
+    {
+     "t": "momentos.",
+     "inicio": 5.41,
+     "fin": 6.01
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
