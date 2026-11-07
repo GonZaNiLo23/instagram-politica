@@ -153,3 +153,4 @@
 - 2026-11-07 07:30 UTC · sin candidatos (radar generado 07:27 UTC, candidatos vacíos) · sin publicación
 - 2026-11-07 09:40 UTC · sin candidatos (radar generado 09:27 UTC, candidatos vacíos) · sin publicación
 - 2026-11-07 11:40 UTC · 2 · @santi_abascal (Granada, sanidad e "invasión migratoria", 67,7 s) · descartado: cifras no contrastadas (listas de espera +46 %, 4 millones, récord de seguros privados), "sinvergüenza" y "invasión" sin tramo limpio · sin publicación
+- 2026-11-07 13:30 UTC · sin candidatos con frases (radar generado 13:27 UTC: @psoe 7,4 s sin habla; @vox_es Abascal/Adif sin transcripción) · sin publicación
