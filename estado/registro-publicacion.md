@@ -41,3 +41,5 @@
 - 2026-11-05T12:01:02.432Z · am20261105-1127-sanchez-cumbre-iberoamericana: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-06T12:30:45.782Z · 037-hipoteca-variable v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfZnD4-lXc7/
 - 2026-11-06T12:30:49.505Z · 037-hipoteca-variable: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-07T06:00:43.829Z · am20261107-0526-abascal-derogar-legislacion v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfbfOQ_jX94/
+- 2026-11-07T06:00:46.895Z · am20261107-0526-abascal-derogar-legislacion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
