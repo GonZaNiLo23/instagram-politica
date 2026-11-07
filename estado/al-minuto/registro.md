@@ -151,3 +151,4 @@
 - 2026-11-07 05:40 UTC · 1 · @vox_es (Granada, auditorio, 19 s) · descartado: sin habla
 - 2026-11-07 05:40 UTC · 3 · @vox_es ("No todos somos iguales", 41 s) · descartado: acusación de «manos manchadas de sangre» no probada · sin otra publicación
 - 2026-11-07 07:30 UTC · sin candidatos (radar generado 07:27 UTC, candidatos vacíos) · sin publicación
+- 2026-11-07 09:40 UTC · sin candidatos (radar generado 09:27 UTC, candidatos vacíos) · sin publicación
