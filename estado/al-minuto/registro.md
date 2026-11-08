@@ -159,3 +159,4 @@
 - 2026-11-07 17:40 UTC · sin candidatos (radar generado 17:27 UTC, candidatos vacíos) · sin publicación
 - 2026-11-07 19:30 UTC (publicación 20:00 Madrid): sin candidatos (radar devolvió 0 detectados). Sin publicación.
 - 2026-11-08 09:40 UTC · 4 · @psoe (Sánchez, «el partido aún no está ganado», tramo 0–27,4 s; subtítulos cotejados con la transcripción) · publicado am20261108-0926-sanchez-partido-no-ganado
+- 2026-11-08 11:30 UTC (publicación 12:00 Madrid): sin candidatos (radar generado 11:27 UTC, candidatos vacíos) · sin publicación
