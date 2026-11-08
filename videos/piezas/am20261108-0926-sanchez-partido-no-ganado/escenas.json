@@ -1,0 +1,120 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 30.9,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 27.4,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 27.4,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 27.4
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "SÁNCHEZ: «EL PARTIDO AÚN NO ESTÁ GANADO»",
+          "fecha": "8 NOV",
+          "credito": "Vídeo: @psoe"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 1.5,
+              "texto": "El partido lo vamos a ganar,"
+            },
+            {
+              "inicio": 1.54,
+              "fin": 2.9,
+              "texto": "pero aún no está ganado"
+            },
+            {
+              "inicio": 2.94,
+              "fin": 4.9,
+              "texto": "y para ganarlo necesitamos la movilización"
+            },
+            {
+              "inicio": 4.94,
+              "fin": 5.9,
+              "texto": "de la ciudadanía."
+            },
+            {
+              "inicio": 6.8,
+              "fin": 8.8,
+              "texto": "Es lo mismo que sucedió en Brasil"
+            },
+            {
+              "inicio": 8.9,
+              "fin": 10.9,
+              "texto": "y lo mismo que ha sucedido en Estados Unidos."
+            },
+            {
+              "inicio": 11.06,
+              "fin": 13.6,
+              "texto": "Cuando se moviliza la ciudadanía"
+            },
+            {
+              "inicio": 13.64,
+              "fin": 16.5,
+              "texto": "y participa con su voto"
+            },
+            {
+              "inicio": 16.54,
+              "fin": 17.9,
+              "texto": "del proceso democrático"
+            },
+            {
+              "inicio": 17.94,
+              "fin": 21.0,
+              "texto": "es cuando las fuerzas que apostamos"
+            },
+            {
+              "inicio": 21.06,
+              "fin": 22.9,
+              "texto": "por el avance, por la conquista"
+            },
+            {
+              "inicio": 22.94,
+              "fin": 23.9,
+              "texto": "de derechos sociales"
+            },
+            {
+              "inicio": 23.94,
+              "fin": 26.0,
+              "texto": "y no por la involución,"
+            },
+            {
+              "inicio": 26.04,
+              "fin": 27.4,
+              "texto": "las que salen ganadoras."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 27.4,
+      "fin": 30.9,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Sánchez pide movilizar el voto: «aún no está ganado»",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true
+}
