@@ -1,5 +1,27 @@
 {
- "generado": "2026-11-08T11:27:56.440Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-08T11:58:18.144Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-18170722081485150",
+   "fuente": "instagram",
+   "cuenta": "@partidopopular",
+   "nombre": "Partido Popular",
+   "espacio": "afin",
+   "seguidores": 249321,
+   "fecha": "2026-11-08T11:39:10+0000",
+   "horas": 0.3,
+   "me_gusta": 420,
+   "comentarios": 12,
+   "viral": 356.2,
+   "enlace": "https://www.instagram.com/reel/DfeqsTvt8fJ/",
+   "texto": "Llegada de anunezfeijoo a Málaga. \n\n¡Gracias por el recibimiento!",
+   "credito": "Vídeo: @partidopopular",
+   "duracion": 45.5,
+   "archivo": "ig-18170722081485150.mp4",
+   "frases": [],
+   "palabras": [],
+   "habla": false
+  }
+ ]
 }
