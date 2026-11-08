@@ -163,3 +163,4 @@
 - 2026-11-08 13:30 UTC · 3 · @psoe (Sánchez en Bilbao, «mayoría amplia y progresista», tramo 0–17,1 s; subtítulos cotejados con la transcripción; nota bajada por tema afín al de las 09:40 UTC) · publicado am20261108-1326-sanchez-mayoria-amplia
 - 2026-11-08 15:30 UTC (publicación 16:00 Madrid): sin candidatos (radar generado 15:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-08 17:30 UTC · 2 · @gabrielrufian (vivienda, «una familia, una casa», 109 s) · descartado: transcripción con muchos errores de Whisper (mezcla de catalán y castellano), sin tramo limpio y tema ya cubierto por Sánchez a las 13:30 UTC · sin publicación
+- 2026-11-08 20:00 (lanzada 19:26 UTC): radar respondió con 0 candidatos (total_detectados: "total_detectados": 0). Sin candidatos; no se publica.
