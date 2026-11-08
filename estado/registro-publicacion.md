@@ -49,3 +49,5 @@
 - 2026-11-07T16:00:47.583Z · am20261107-1526-sanchez-faro: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-08T10:00:42.183Z · am20261108-0926-sanchez-partido-no-ganado v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfefewRAIL0/
 - 2026-11-08T10:00:45.470Z · am20261108-0926-sanchez-partido-no-ganado: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-08T11:01:46.106Z · 035-alquiler-12n v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfemcKcD9ec/
+- 2026-11-08T11:01:49.124Z · 035-alquiler-12n: TikTok en la bandeja de borradores (falta publicarlo desde la app)
