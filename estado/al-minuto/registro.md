@@ -161,3 +161,4 @@
 - 2026-11-08 09:40 UTC · 4 · @psoe (Sánchez, «el partido aún no está ganado», tramo 0–27,4 s; subtítulos cotejados con la transcripción) · publicado am20261108-0926-sanchez-partido-no-ganado
 - 2026-11-08 11:30 UTC (publicación 12:00 Madrid): sin candidatos (radar generado 11:27 UTC, candidatos vacíos) · sin publicación
 - 2026-11-08 13:30 UTC · 3 · @psoe (Sánchez en Bilbao, «mayoría amplia y progresista», tramo 0–17,1 s; subtítulos cotejados con la transcripción; nota bajada por tema afín al de las 09:40 UTC) · publicado am20261108-1326-sanchez-mayoria-amplia
+- 2026-11-08 15:30 UTC (publicación 16:00 Madrid): sin candidatos (radar generado 15:28 UTC, candidatos vacíos) · sin publicación
