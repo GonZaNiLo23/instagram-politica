@@ -284,5 +284,12 @@
     "hora": "2026-11-08T19:00:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/036-8-anos-lista-espera-v2.md (literales aplicados) APROBADO · revisiones/videos/036-8-anos-lista-espera-v2.md CAMBIOS 9/10, solape cerrado en v3 y comprobado en fotograma por el coordinador",
     "estado": "pendiente"
+  },
+  {
+    "pieza": "am20261108-0926-sanchez-partido-no-ganado",
+    "version": "v1",
+    "hora": "2026-11-08T10:00:00.000Z",
+    "estado": "pendiente",
+    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)"
   }
 ]
