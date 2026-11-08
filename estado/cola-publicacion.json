@@ -277,5 +277,12 @@
     "hora": "2026-11-08T12:00:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/035-alquiler-12n-v2.md (literales aplicados) APROBADO · revisiones/videos/035-alquiler-12n-v1.md APROBADO test 9/10",
     "estado": "pendiente"
+  },
+  {
+    "pieza": "036-8-anos-lista-espera",
+    "version": "v3",
+    "hora": "2026-11-08T19:00:00+01:00",
+    "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/036-8-anos-lista-espera-v2.md (literales aplicados) APROBADO · revisiones/videos/036-8-anos-lista-espera-v2.md CAMBIOS 9/10, solape cerrado en v3 y comprobado en fotograma por el coordinador",
+    "estado": "pendiente"
   }
 ]

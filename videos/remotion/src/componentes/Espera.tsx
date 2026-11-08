@@ -129,7 +129,7 @@ export const colorDias = (d: number) => mezcla(C.mostaza, C.tinta, (d - MIN_D) /
  */
 export const MapaCcaa: React.FC<{
   x?: number; y?: number; esc?: number; en?: number; modo?: 'uno' | 'dias'; tono?: string; valores?: Record<string, number>; pintaEn?: number;
-  globos?: {ccaa: string; texto: string; dx: number; dy: number; en: number; tam?: number}[];
+  globos?: {ccaa: string; texto: string | string[]; dx: number; dy: number; en: number; tam?: number}[];
   flechas?: {desde: string[]; caja: {x: number; y: number; w: number; h: number; lineas: string[]; tam?: number}; en: number};
   leyenda?: {y: number; en: number; media: number; x?: number; w?: number};
   canarias?: boolean; hasta?: number;
@@ -205,14 +205,16 @@ export const MapaCcaa: React.FC<{
         const [bx, by] = centro(g.ccaa);
         const cx = sx(bx), cy = sy(by);
         const tam = g.tam ?? 64;
-        const wTxt = g.texto.length * tam * 0.62 + 44;
+        const ls = Array.isArray(g.texto) ? g.texto : [g.texto];
+        const wTxt = Math.max(...ls.map((l) => l.length)) * tam * 0.62 + 44;
+        const hTxt = ls.length * tam * 1.15 + 16;
         const gx = cx + g.dx, gy = cy + g.dy;
         return (
           <g key={i} opacity={e} transform={`translate(0 ${(1 - e) * 16})`}>
             <line x1={cx} y1={cy} x2={gx} y2={gy} stroke={C.tinta} strokeWidth={6} />
             <circle cx={cx} cy={cy} r={10} fill={C.crema} stroke={C.tinta} strokeWidth={5} />
-            <rect x={gx - wTxt / 2} y={gy - tam * 0.75} width={wTxt} height={tam * 1.3} rx={18} fill={C.tinta} />
-            <text x={gx} y={gy + tam * 0.25} textAnchor="middle" fontFamily={F.titular} fontSize={tam} fill={C.crema}>{g.texto}</text>
+            <rect x={gx - wTxt / 2} y={gy - hTxt / 2} width={wTxt} height={hTxt} rx={18} fill={C.tinta} />
+            {ls.map((l, j) => <text key={j} x={gx} y={gy - hTxt / 2 + tam * 0.9 + 6 + j * tam * 1.15} textAnchor="middle" fontFamily={F.titular} fontSize={tam} fill={C.crema}>{l}</text>)}
           </g>
         );
       })}
@@ -224,10 +226,10 @@ export const MapaCcaa: React.FC<{
           <g opacity={e}>
             <defs><linearGradient id="grad-esp"><stop offset="0" stopColor={C.mostaza} /><stop offset="1" stopColor={C.tinta} /></linearGradient></defs>
             <rect x={lx} y={ly} width={lw} height={34} rx={8} fill="url(#grad-esp)" stroke={C.tinta} strokeWidth={4} />
-            <text x={pos(MIN_D)} y={ly + 82} textAnchor="start" fontFamily={F.cifra} fontWeight={700} fontSize={48} fill={C.tinta}>50</text>
-            <text x={pos(173)} y={ly + 82} textAnchor="end" fontFamily={F.cifra} fontWeight={700} fontSize={48} fill={C.tinta}>173</text>
-            <line x1={pos(leyenda.media)} y1={ly - 14} x2={pos(leyenda.media)} y2={ly + 48} stroke={C.teja} strokeWidth={8} />
-            <text x={pos(leyenda.media)} y={ly + 96} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={44} fill={C.tinta}>{`Media nacional: ${leyenda.media}`}</text>
+            <text x={lx - 14} y={ly + 30} textAnchor="end" fontFamily={F.cifra} fontWeight={700} fontSize={48} fill={C.tinta}>50</text>
+            <text x={lx + lw + 14} y={ly + 30} textAnchor="start" fontFamily={F.cifra} fontWeight={700} fontSize={48} fill={C.tinta}>173</text>
+            <line x1={pos(leyenda.media)} y1={ly - 12} x2={pos(leyenda.media)} y2={ly + 46} stroke={C.teja} strokeWidth={8} />
+            <text x={pos(leyenda.media)} y={ly + 92} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={44} fill={C.tinta}>{`Media nacional: ${leyenda.media}`}</text>
           </g>
         );
       })() : null}

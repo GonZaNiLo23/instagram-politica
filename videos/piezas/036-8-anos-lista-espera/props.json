@@ -4,7 +4,7 @@
   "portadaSegundo": 1.5,
   "marca": "@loquepasaenunminuto",
   "subSinHuerfanas": true,
-  "subDy": 45,
+  "subDy": 80,
   "musica": {
     "pista": "investigations.mp3",
     "volumen": -16
@@ -84,10 +84,10 @@
             300,
             780
           ],
-          "w": 220,
-          "tile": 44,
-          "base": 1090,
-          "hMax": 250,
+          "w": 230,
+          "tile": 46,
+          "base": 1130,
+          "hMax": 330,
           "crece": {
             "en": 0.3,
             "dur": 1.6
@@ -125,8 +125,8 @@
           ],
           "w": 260,
           "tile": 52,
-          "base": 1090,
-          "hMax": 290,
+          "base": 1140,
+          "hMax": 380,
           "crece": {
             "en": -1,
             "dur": 0.01
@@ -143,7 +143,7 @@
             "Se compara con 31-12-2018: junio de 2018 no es comparable (rotura de serie)"
           ],
           "en": 1,
-          "tamano": 40
+          "tamano": 36
         }
       ]
     },
@@ -154,7 +154,7 @@
       "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "ESPERA MEDIA: 129 → 122 DÍAS",
+          "texto": "ESPERA MEDIA: 129 → 122 DÍAS",
           "y": 330,
           "en": 0.05,
           "tamano": 64
@@ -169,8 +169,8 @@
         {
           "tipo": "barrasVSerie",
           "max": 129,
-          "base": 1040,
-          "hMax": 280,
+          "base": 1120,
+          "hMax": 400,
           "tamEtiqueta": 56,
           "barras": [
             {
@@ -180,7 +180,7 @@
               "prefijo": "",
               "sufijo": "",
               "en": 1.0899999999999999,
-              "dur": 1
+              "dur": 0.6
             },
             {
               "etiqueta": "2025",
@@ -189,16 +189,16 @@
               "prefijo": "",
               "sufijo": "",
               "en": 2.81,
-              "dur": 1
+              "dur": 0.6
             }
           ]
         },
         {
           "tipo": "sello",
           "valor": "DATO",
-          "x": 560,
-          "y": 600,
-          "tamano": 76,
+          "x": 540,
+          "y": 830,
+          "tamano": 56,
           "desde": 60,
           "reboteMax": 0,
           "en": 3.81
@@ -209,8 +209,7 @@
             "Espera media = días que llevan en lista los pacientes pendientes"
           ],
           "en": 0.4,
-          "tamano": 40,
-          "y": 1090
+          "tamano": 40
         }
       ]
     },
@@ -222,8 +221,8 @@
         {
           "tipo": "barrasVSerie",
           "max": 129,
-          "base": 1040,
-          "hMax": 280,
+          "base": 1120,
+          "hMax": 400,
           "tamEtiqueta": 56,
           "barras": [
             {
@@ -244,17 +243,12 @@
               "en": -1,
               "dur": 0.01
             }
-          ],
-          "flecha": {
-            "barra": 1,
-            "hasta": 122,
-            "en": 0.1
-          }
+          ]
         },
         {
           "tipo": "cifraGrandeSerie",
           "valor": "−7 DÍAS",
-          "y": 380,
+          "y": 400,
           "tam": 190,
           "en": 0,
           "pill": true
@@ -283,9 +277,9 @@
         {
           "tipo": "mapaCcaa",
           "modo": "uno",
-          "x": 190,
-          "y": 620,
-          "esc": 0.33,
+          "x": 160,
+          "y": 600,
+          "esc": 0.37,
           "en": 0,
           "flechas": {
             "desde": [
@@ -296,9 +290,9 @@
             ],
             "en": 3.58,
             "caja": {
-              "x": 600,
-              "y": 1005,
-              "w": 360,
+              "x": 590,
+              "y": 1010,
+              "w": 340,
               "h": 120,
               "lineas": [
                 "MINISTERIO",
@@ -325,18 +319,26 @@
         {
           "tipo": "rotulo",
           "texto": "(31-12-2025)",
-          "y": 485,
+          "y": 490,
           "en": 0.2,
           "tamano": 52
         },
         {
+          "tipo": "rotulo",
+          "texto": "Resto de comunidades: sin mostrar",
+          "y": 552,
+          "en": 0.1,
+          "tamano": 34
+        },
+        {
           "tipo": "mapaCcaa",
           "modo": "dias",
-          "x": 190,
-          "y": 580,
-          "esc": 0.33,
+          "x": 210,
+          "y": 655,
+          "esc": 0.31,
           "en": -1,
           "pintaEn": 0.1,
+          "canarias": true,
           "valores": {
             "Madrid": 50,
             "Cataluña": 142,
@@ -345,30 +347,41 @@
           "globos": [
             {
               "ccaa": "Madrid",
-              "texto": "Madrid 50",
-              "dx": -130,
-              "dy": -110,
-              "en": 3.7
+              "texto": [
+                "Madrid",
+                "50"
+              ],
+              "dx": -90,
+              "dy": -150,
+              "en": 3.6
             },
             {
               "ccaa": "Cataluña",
-              "texto": "Cataluña 142",
-              "dx": -60,
-              "dy": -150,
-              "en": 5.38
+              "texto": [
+                "Cataluña",
+                "142"
+              ],
+              "dx": -20,
+              "dy": 160,
+              "en": 5.28
             },
             {
               "ccaa": "Andalucía",
-              "texto": "Andalucía 173",
-              "dx": -10,
-              "dy": 110,
-              "en": 7.54
+              "texto": [
+                "Andalucía",
+                "173"
+              ],
+              "dx": -140,
+              "dy": -110,
+              "en": 7.44
             }
           ],
           "leyenda": {
-            "y": 1050,
+            "y": 1124,
             "en": 0.6,
-            "media": 122
+            "media": 122,
+            "x": 250,
+            "w": 520
           }
         },
         {
@@ -376,9 +389,8 @@
           "lineas": [
             "Cada comunidad aplica sus criterios de cómputo"
           ],
-          "en": 7.74,
-          "tamano": 40,
-          "y": 1210
+          "en": 5.28,
+          "tamano": 40
         }
       ]
     },
@@ -395,21 +407,20 @@
           "tamano": 64
         },
         {
+          "tipo": "mapaCcaa",
+          "modo": "uno",
+          "x": 160,
+          "y": 760,
+          "esc": 0.37,
+          "en": 0.1,
+          "tono": "#C9CED8"
+        },
+        {
           "tipo": "abSerie",
           "a": "TU COMUNIDAD",
           "b": "EL ESTADO",
-          "y": 640,
+          "y": 740,
           "en": 0.7
-        },
-        {
-          "tipo": "mapaCcaa",
-          "modo": "uno",
-          "x": 330,
-          "y": 960,
-          "esc": 0.2,
-          "en": 0.2,
-          "tono": "#B4BBC8",
-          "canarias": false
         }
       ]
     },
