@@ -1,0 +1,85 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 20.6,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 17.1,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 17.1,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 17.1
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "SÁNCHEZ PIDE «UNA MAYORÍA AMPLIA Y PROGRESISTA»",
+          "fecha": "8 NOV",
+          "credito": "Vídeo: @psoe"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.9,
+              "texto": "Yo os digo, si queréis que lleguemos"
+            },
+            {
+              "inicio": 2.94,
+              "fin": 6.3,
+              "texto": "más lejos y antes en las conquistas sociales,"
+            },
+            {
+              "inicio": 6.64,
+              "fin": 8.5,
+              "texto": "sobre todo en materia de vivienda,"
+            },
+            {
+              "inicio": 8.96,
+              "fin": 10.8,
+              "texto": "yo no pido una mayoría simple,"
+            },
+            {
+              "inicio": 11.06,
+              "fin": 13.5,
+              "texto": "pido una mayoría amplia y progresista"
+            },
+            {
+              "inicio": 13.54,
+              "fin": 15.3,
+              "texto": "en el próximo Parlamento para llegar"
+            },
+            {
+              "inicio": 15.34,
+              "fin": 17.1,
+              "texto": "antes y más lejos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 17.1,
+      "fin": 20.6,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Sánchez pide «una mayoría amplia y progresista»",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ]
+}
