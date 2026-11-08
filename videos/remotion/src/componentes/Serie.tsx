@@ -240,7 +240,7 @@ export const AbSerie: React.FC<{a: string; b: string; y?: number; en?: number; h
  */
 const MULT = [0.5, 1.4, 0.85, 1.5, 0.35, 1.2, 0.75, 1.45, 0.6, 1.05];
 export const BarrasVSerie: React.FC<{
-  barras: {etiqueta: string; valor: number; color?: string; en: number; dur?: number; contorno?: boolean; altoContorno?: number; prefijo?: string; sinValor?: boolean; cx?: number}[];
+  barras: {etiqueta: string; valor: number; color?: string; en: number; dur?: number; contorno?: boolean; altoContorno?: number; prefijo?: string; sufijo?: string; sinValor?: boolean; cx?: number}[];
   max?: number; base?: number; hMax?: number; w?: number; centros?: number[]; tamEtiqueta?: number; hasta?: number;
   lineaRef?: {valor: number; en: number; color?: string};
   flecha?: {barra: number; hasta: number; en: number};
@@ -282,7 +282,7 @@ export const BarrasVSerie: React.FC<{
             ) : (
               <rect x={cx - w / 2} y={base - h} width={w} height={h} fill={color} stroke={C.tinta} strokeWidth={5} />
             )}
-            {!b.contorno && !b.sinValor && t >= b.en ? <text x={cx} y={base - (partida ? alto(b.valor) * 1.55 : h) - 22} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={64} fill={C.tinta}>{`${b.prefijo ?? '+'}${Math.round(v)} %`}</text> : null}
+            {!b.contorno && !b.sinValor && t >= b.en ? <text x={cx} y={base - (partida ? alto(b.valor) * 1.55 : h) - 22} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={64} fill={C.tinta}>{`${b.prefijo ?? '+'}${Math.round(v)}${b.sufijo ?? " %"}`}</text> : null}
             <text x={cx} y={base + 58} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={tamEtiqueta} fill={C.tinta}>{b.etiqueta}</text>
           </g>
         );

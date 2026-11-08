@@ -1,0 +1,945 @@
+{
+  "plantilla": "flash",
+  "duracion": 43.07,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 2,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "185.000 PACIENTES MÁS EN LISTA",
+            "y": 520,
+            "tamano": 92,
+            "en": -1
+          },
+          {
+            "tipo": "columnasEspera",
+            "a": 668288,
+            "b": 853740,
+            "x": [
+              300,
+              780
+            ],
+            "w": 270,
+            "tile": 56,
+            "base": 1250,
+            "hMax": 400,
+            "crece": {
+              "en": -1,
+              "dur": 0.01
+            },
+            "extraEn": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 2,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "+185.000 EN LISTA",
+          "y": 500,
+          "tamano": 124,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2018 → 2025",
+          "y": 780,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "columnasEspera",
+          "a": 668288,
+          "b": 853740,
+          "x": [
+            300,
+            780
+          ],
+          "w": 220,
+          "tile": 44,
+          "base": 1090,
+          "hMax": 250,
+          "crece": {
+            "en": 0.3,
+            "dur": 1.6
+          },
+          "extraEn": 1.9
+        }
+      ]
+    },
+    {
+      "inicio": 5.62,
+      "fin": 13.93,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PACIENTES EN LISTA: 668.288 → 853.740",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "31-12-2018 y 31-12-2025 · Ministerio de Sanidad",
+          "y": 540,
+          "en": 0.3,
+          "tamano": 44
+        },
+        {
+          "tipo": "columnasEspera",
+          "a": 668288,
+          "b": 853740,
+          "x": [
+            300,
+            780
+          ],
+          "w": 260,
+          "tile": 52,
+          "base": 1090,
+          "hMax": 290,
+          "crece": {
+            "en": -1,
+            "dur": 0.01
+          },
+          "extraEn": -1,
+          "valores": {
+            "enA": 1.76,
+            "enB": 6.04
+          }
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Se compara con 31-12-2018: junio de 2018 no es comparable (rotura de serie)"
+          ],
+          "en": 1,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 13.93,
+      "fin": 18.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ESPERA MEDIA: 129 → 122 DÍAS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Más de 6 meses: 20,0 % → 21,6 %",
+          "y": 530,
+          "en": 0.8899999999999999,
+          "tamano": 52
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 129,
+          "base": 1040,
+          "hMax": 280,
+          "tamEtiqueta": 56,
+          "barras": [
+            {
+              "etiqueta": "2018",
+              "valor": 129,
+              "color": "#14213D",
+              "prefijo": "",
+              "sufijo": "",
+              "en": 1.0899999999999999,
+              "dur": 1
+            },
+            {
+              "etiqueta": "2025",
+              "valor": 122,
+              "color": "#F2B134",
+              "prefijo": "",
+              "sufijo": "",
+              "en": 2.81,
+              "dur": 1
+            }
+          ]
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 560,
+          "y": 600,
+          "tamano": 76,
+          "desde": 60,
+          "reboteMax": 0,
+          "en": 3.81
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Espera media = días que llevan en lista los pacientes pendientes"
+          ],
+          "en": 0.4,
+          "tamano": 40,
+          "y": 1090
+        }
+      ]
+    },
+    {
+      "inicio": 18.46,
+      "fin": 19.98,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "barrasVSerie",
+          "max": 129,
+          "base": 1040,
+          "hMax": 280,
+          "tamEtiqueta": 56,
+          "barras": [
+            {
+              "etiqueta": "2018",
+              "valor": 129,
+              "color": "#14213D",
+              "prefijo": "",
+              "sufijo": "",
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "etiqueta": "2025",
+              "valor": 122,
+              "color": "#F2B134",
+              "prefijo": "",
+              "sufijo": "",
+              "en": -1,
+              "dur": 0.01
+            }
+          ],
+          "flecha": {
+            "barra": 1,
+            "hasta": 122,
+            "en": 0.1
+          }
+        },
+        {
+          "tipo": "cifraGrandeSerie",
+          "valor": "−7 DÍAS",
+          "y": 380,
+          "tam": 190,
+          "en": 0,
+          "pill": true
+        }
+      ]
+    },
+    {
+      "inicio": 19.98,
+      "fin": 25.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LAS GESTIONAN LAS COMUNIDADES",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Sanidad recopila sus datos",
+          "y": 530,
+          "en": 3.23,
+          "tamano": 52
+        },
+        {
+          "tipo": "mapaCcaa",
+          "modo": "uno",
+          "x": 190,
+          "y": 620,
+          "esc": 0.33,
+          "en": 0,
+          "flechas": {
+            "desde": [
+              "Galicia",
+              "Andalucía",
+              "Cataluña",
+              "Madrid"
+            ],
+            "en": 3.58,
+            "caja": {
+              "x": 600,
+              "y": 1005,
+              "w": 360,
+              "h": 120,
+              "lineas": [
+                "MINISTERIO",
+                "DE SANIDAD"
+              ],
+              "tam": 44
+            }
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 25.5,
+      "fin": 35.37,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ESPERA MEDIA POR COMUNIDAD",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "(31-12-2025)",
+          "y": 485,
+          "en": 0.2,
+          "tamano": 52
+        },
+        {
+          "tipo": "mapaCcaa",
+          "modo": "dias",
+          "x": 190,
+          "y": 580,
+          "esc": 0.33,
+          "en": -1,
+          "pintaEn": 0.1,
+          "valores": {
+            "Madrid": 50,
+            "Cataluña": 142,
+            "Andalucía": 173
+          },
+          "globos": [
+            {
+              "ccaa": "Madrid",
+              "texto": "Madrid 50",
+              "dx": -130,
+              "dy": -110,
+              "en": 3.7
+            },
+            {
+              "ccaa": "Cataluña",
+              "texto": "Cataluña 142",
+              "dx": -60,
+              "dy": -150,
+              "en": 5.38
+            },
+            {
+              "ccaa": "Andalucía",
+              "texto": "Andalucía 173",
+              "dx": -10,
+              "dy": 110,
+              "en": 7.54
+            }
+          ],
+          "leyenda": {
+            "y": 1050,
+            "en": 0.6,
+            "media": 122
+          }
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cada comunidad aplica sus criterios de cómputo"
+          ],
+          "en": 7.74,
+          "tamano": 40,
+          "y": 1210
+        }
+      ]
+    },
+    {
+      "inicio": 35.37,
+      "fin": 39.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿TU COMUNIDAD O EL ESTADO?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "TU COMUNIDAD",
+          "b": "EL ESTADO",
+          "y": 640,
+          "en": 0.7
+        },
+        {
+          "tipo": "mapaCcaa",
+          "modo": "uno",
+          "x": 330,
+          "y": 960,
+          "esc": 0.2,
+          "en": 0.2,
+          "tono": "#B4BBC8",
+          "canarias": false
+        }
+      ]
+    },
+    {
+      "inicio": 39.26,
+      "fin": 43.07,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 3
+        }
+      ]
+    }
+  ],
+  "id": "036-8-anos-lista-espera",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "¿Esperas",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "t": "una",
+      "inicio": 0.48,
+      "fin": 0.56
+    },
+    {
+      "t": "operación?",
+      "inicio": 0.68,
+      "fin": 1.2
+    },
+    {
+      "t": "Hay",
+      "inicio": 1.68,
+      "fin": 1.92
+    },
+    {
+      "t": "ciento",
+      "inicio": 2,
+      "fin": 2.24
+    },
+    {
+      "t": "ochenta",
+      "inicio": 2.32,
+      "fin": 2.64
+    },
+    {
+      "t": "y",
+      "inicio": 2.68,
+      "fin": 2.72
+    },
+    {
+      "t": "cinco",
+      "inicio": 2.76,
+      "fin": 2.88
+    },
+    {
+      "t": "mil",
+      "inicio": 3.04,
+      "fin": 3.12
+    },
+    {
+      "t": "pacientes",
+      "inicio": 3.2,
+      "fin": 3.6
+    },
+    {
+      "t": "más",
+      "inicio": 3.68,
+      "fin": 3.92
+    },
+    {
+      "t": "que",
+      "inicio": 3.96,
+      "fin": 4
+    },
+    {
+      "t": "en",
+      "inicio": 4.08,
+      "fin": 4.16
+    },
+    {
+      "t": "dos",
+      "inicio": 4.24,
+      "fin": 4.32
+    },
+    {
+      "t": "mil",
+      "inicio": 4.48,
+      "fin": 4.56
+    },
+    {
+      "t": "dieciocho.",
+      "inicio": 4.64,
+      "fin": 5.68
+    },
+    {
+      "t": "A",
+      "inicio": 5.72,
+      "fin": 5.76
+    },
+    {
+      "t": "finales",
+      "inicio": 5.84,
+      "fin": 6.16
+    },
+    {
+      "t": "de",
+      "inicio": 6.2,
+      "fin": 6.24
+    },
+    {
+      "t": "dos",
+      "inicio": 6.32,
+      "fin": 6.4
+    },
+    {
+      "t": "mil",
+      "inicio": 6.48,
+      "fin": 6.56
+    },
+    {
+      "t": "dieciocho",
+      "inicio": 6.64,
+      "fin": 7.04
+    },
+    {
+      "t": "esperaban",
+      "inicio": 7.12,
+      "fin": 7.6
+    },
+    {
+      "t": "seiscientos",
+      "inicio": 7.68,
+      "fin": 8.32
+    },
+    {
+      "t": "sesenta",
+      "inicio": 8.4,
+      "fin": 8.72
+    },
+    {
+      "t": "y",
+      "inicio": 8.76,
+      "fin": 8.8
+    },
+    {
+      "t": "ocho",
+      "inicio": 8.88,
+      "fin": 8.96
+    },
+    {
+      "t": "mil.",
+      "inicio": 9.04,
+      "fin": 9.68
+    },
+    {
+      "t": "A",
+      "inicio": 9.72,
+      "fin": 9.76
+    },
+    {
+      "t": "finales",
+      "inicio": 9.84,
+      "fin": 10.16
+    },
+    {
+      "t": "de",
+      "inicio": 10.2,
+      "fin": 10.24
+    },
+    {
+      "t": "dos",
+      "inicio": 10.32,
+      "fin": 10.4
+    },
+    {
+      "t": "mil",
+      "inicio": 10.48,
+      "fin": 10.56
+    },
+    {
+      "t": "veinticinco,",
+      "inicio": 10.6,
+      "fin": 11.52
+    },
+    {
+      "t": "más",
+      "inicio": 11.56,
+      "fin": 11.68
+    },
+    {
+      "t": "de",
+      "inicio": 11.76,
+      "fin": 11.84
+    },
+    {
+      "t": "ochocientos",
+      "inicio": 11.96,
+      "fin": 12.64
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 12.693,
+      "fin": 12.96
+    },
+    {
+      "t": "y",
+      "inicio": 13.04,
+      "fin": 13.12
+    },
+    {
+      "t": "tres",
+      "inicio": 13.2,
+      "fin": 13.28
+    },
+    {
+      "t": "mil.",
+      "inicio": 13.36,
+      "fin": 14
+    },
+    {
+      "t": "¿Y",
+      "inicio": 14.027,
+      "fin": 14.08
+    },
+    {
+      "t": "los",
+      "inicio": 14.16,
+      "fin": 14.24
+    },
+    {
+      "t": "días?",
+      "inicio": 14.32,
+      "fin": 14.88
+    },
+    {
+      "t": "Ciento",
+      "inicio": 15.12,
+      "fin": 15.36
+    },
+    {
+      "t": "veintinueve",
+      "inicio": 15.44,
+      "fin": 15.88
+    },
+    {
+      "t": "entonces,",
+      "inicio": 15.92,
+      "fin": 16.8
+    },
+    {
+      "t": "ciento",
+      "inicio": 16.84,
+      "fin": 17.12
+    },
+    {
+      "t": "veintidós",
+      "inicio": 17.2,
+      "fin": 17.52
+    },
+    {
+      "t": "ahora.",
+      "inicio": 17.68,
+      "fin": 18.28
+    },
+    {
+      "t": "Siete",
+      "inicio": 18.56,
+      "fin": 18.8
+    },
+    {
+      "t": "días",
+      "inicio": 18.88,
+      "fin": 19.2
+    },
+    {
+      "t": "menos.",
+      "inicio": 19.28,
+      "fin": 19.68
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 20.08,
+      "fin": 20.72
+    },
+    {
+      "t": "las",
+      "inicio": 20.8,
+      "fin": 20.96
+    },
+    {
+      "t": "listas",
+      "inicio": 21.08,
+      "fin": 21.44
+    },
+    {
+      "t": "las",
+      "inicio": 21.52,
+      "fin": 21.6
+    },
+    {
+      "t": "gestionan",
+      "inicio": 21.68,
+      "fin": 22.16
+    },
+    {
+      "t": "las",
+      "inicio": 22.24,
+      "fin": 22.32
+    },
+    {
+      "t": "comunidades.",
+      "inicio": 22.4,
+      "fin": 23.12
+    },
+    {
+      "t": "El",
+      "inicio": 23.36,
+      "fin": 23.44
+    },
+    {
+      "t": "ministerio",
+      "inicio": 23.52,
+      "fin": 24
+    },
+    {
+      "t": "recopila",
+      "inicio": 24.08,
+      "fin": 24.56
+    },
+    {
+      "t": "sus",
+      "inicio": 24.64,
+      "fin": 24.72
+    },
+    {
+      "t": "datos.",
+      "inicio": 24.8,
+      "fin": 25.4
+    },
+    {
+      "t": "Varían",
+      "inicio": 25.6,
+      "fin": 25.92
+    },
+    {
+      "t": "mucho",
+      "inicio": 25.96,
+      "fin": 26.16
+    },
+    {
+      "t": "por",
+      "inicio": 26.24,
+      "fin": 26.32
+    },
+    {
+      "t": "comunidad.",
+      "inicio": 26.4,
+      "fin": 27.12
+    },
+    {
+      "t": "A",
+      "inicio": 27.28,
+      "fin": 27.36
+    },
+    {
+      "t": "finales",
+      "inicio": 27.44,
+      "fin": 27.76
+    },
+    {
+      "t": "de",
+      "inicio": 27.8,
+      "fin": 27.84
+    },
+    {
+      "t": "dos",
+      "inicio": 27.92,
+      "fin": 28
+    },
+    {
+      "t": "mil",
+      "inicio": 28.08,
+      "fin": 28.16
+    },
+    {
+      "t": "veinticinco:",
+      "inicio": 28.2,
+      "fin": 29.12
+    },
+    {
+      "t": "Madrid,",
+      "inicio": 29.2,
+      "fin": 29.68
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 29.72,
+      "fin": 30.16
+    },
+    {
+      "t": "días.",
+      "inicio": 30.24,
+      "fin": 30.76
+    },
+    {
+      "t": "Cataluña,",
+      "inicio": 30.88,
+      "fin": 31.52
+    },
+    {
+      "t": "ciento",
+      "inicio": 31.6,
+      "fin": 31.84
+    },
+    {
+      "t": "cuarenta",
+      "inicio": 32,
+      "fin": 32.28
+    },
+    {
+      "t": "y",
+      "inicio": 32.32,
+      "fin": 32.4
+    },
+    {
+      "t": "dos.",
+      "inicio": 32.48,
+      "fin": 32.96
+    },
+    {
+      "t": "Andalucía,",
+      "inicio": 33.04,
+      "fin": 33.76
+    },
+    {
+      "t": "ciento",
+      "inicio": 33.84,
+      "fin": 34.16
+    },
+    {
+      "t": "setenta",
+      "inicio": 34.24,
+      "fin": 34.56
+    },
+    {
+      "t": "y",
+      "inicio": 34.6,
+      "fin": 34.64
+    },
+    {
+      "t": "tres.",
+      "inicio": 34.72,
+      "fin": 35.44
+    },
+    {
+      "t": "¿Quién",
+      "inicio": 35.467,
+      "fin": 35.6
+    },
+    {
+      "t": "debería",
+      "inicio": 35.68,
+      "fin": 36
+    },
+    {
+      "t": "reducir",
+      "inicio": 36.08,
+      "fin": 36.48
+    },
+    {
+      "t": "la",
+      "inicio": 36.52,
+      "fin": 36.56
+    },
+    {
+      "t": "espera:",
+      "inicio": 36.64,
+      "fin": 37.28
+    },
+    {
+      "t": "tu",
+      "inicio": 37.32,
+      "fin": 37.36
+    },
+    {
+      "t": "comunidad",
+      "inicio": 37.44,
+      "fin": 38
+    },
+    {
+      "t": "o",
+      "inicio": 38.16,
+      "fin": 38.24
+    },
+    {
+      "t": "el",
+      "inicio": 38.28,
+      "fin": 38.32
+    },
+    {
+      "t": "Estado?",
+      "inicio": 38.4,
+      "fin": 38.88
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 39.36,
+      "fin": 39.84
+    },
+    {
+      "t": "para",
+      "inicio": 39.92,
+      "fin": 40.08
+    },
+    {
+      "t": "estar",
+      "inicio": 40.2,
+      "fin": 40.32
+    },
+    {
+      "t": "informado.",
+      "inicio": 40.4,
+      "fin": 41.12
+    }
+  ]
+}
