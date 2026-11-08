@@ -1,5 +1,27 @@
 {
- "generado": "2026-11-08T19:28:12.383Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-08T22:08:21.959Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-18054755522811897",
+   "fuente": "instagram",
+   "cuenta": "@partidopopular",
+   "nombre": "Partido Popular",
+   "espacio": "afin",
+   "seguidores": 249459,
+   "fecha": "2026-11-08T21:18:52+0000",
+   "horas": 0.8,
+   "me_gusta": 709,
+   "comentarios": 18,
+   "viral": 362,
+   "enlace": "https://www.instagram.com/reel/DfftAFIN1gF/",
+   "texto": "Resumen del mitin hoy en Málaga.\n\n¡Seguimos!",
+   "credito": "Vídeo: @partidopopular",
+   "duracion": 60.9,
+   "archivo": "ig-18054755522811897.mp4",
+   "frases": [],
+   "palabras": [],
+   "habla": false
+  }
+ ]
 }
