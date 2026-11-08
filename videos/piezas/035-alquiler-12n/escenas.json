@@ -4,6 +4,10 @@
   "portadaSegundo": 1.2,
   "marca": "@loquepasaenunminuto",
   "subSinHuerfanas": true,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
   "portada": {
     "escenas": [
       {
@@ -420,7 +424,7 @@
         {
           "tipo": "notas",
           "lineas": [
-            "Sin convocar a 2026-11-05"
+            "Convocada: orden del día en congreso.es (8-11-2026)"
           ],
           "en": 0.1,
           "hasta": 4.6

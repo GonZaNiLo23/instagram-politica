@@ -99,7 +99,7 @@ W('Hoy', 6); W('Es', 17); W('Con', 23.7); W('Para', 33.2); W('Según', 41.3); W(
   const p2 = 45.9;
   esc(a, B3d, {}, [
     rot('VOTACIÓN PREVISTA: 12 NOV, SEGÚN LA PRENSA', 330, 0.05, {hasta: R(p2)}),
-    nota(['Sin convocar a 2026-11-05'], 0.1, R(p2)),
+    nota(['Convocada: orden del día en congreso.es (8-11-2026)'], 0.1, R(p2)),
     rot('A FAVOR: 34 · EN CONTRA: 35', 330, R(p2)),
     nota(['Recuento de Público (7-10) si se repiten las posiciones · PNV: no, 6-10 · PSOE, Sumar, ERC, Bildu, Podemos / PP, Vox, Junts, PNV'], R(p2)),
     {tipo: 'votosA', y: 1080, en: 0, pnvEn: R(50.1), pnvDur: 0.8, etiquetaEn: R(49.5)},
@@ -166,6 +166,6 @@ const portada = {escenas: [{inicio: 0, fin: 3, fondo: 'crema', componentes: [
   {tipo: 'contratoBucle', x: 540, y: 1130, tamano: 420, en: -1},
 ]}]};
 
-const out = {plantilla: 'estandar', duracion: DUR, portadaSegundo: 1.2, marca: '@loquepasaenunminuto', subSinHuerfanas: true, portada, escenas: ESC};
+const out = {plantilla: 'estandar', duracion: DUR, portadaSegundo: 1.2, marca: '@loquepasaenunminuto', subSinHuerfanas: true, musica: {pista: 'wallpaper.mp3', volumen: -16}, portada, escenas: ESC};
 fs.writeFileSync(path.join(dir, 'escenas.json'), JSON.stringify(out, null, 2));
 console.log('escenas:', ESC.length, 'duración', DUR, 'voz', T.duracion.toFixed(2));

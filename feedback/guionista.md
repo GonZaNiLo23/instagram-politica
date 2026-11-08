@@ -9,7 +9,7 @@ Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 4. **Comprobaciones pendientes**: la versión principal es siempre la ya verificada; la que depende de comprobar algo va como opcional, con la condición escrita.
 5. **Datos y mitos**: define qué afirmación es mito y cuál dato; cada sello solo sobre lo refutado o probado; clasifica cada caso (probado, presunto, incidente, delito común).
 6. **Fechas futuras**: no apoyes gancho ni giro en una fecha no convocada oficialmente; usa el hecho firme (plazo legal) y la fecha de prensa como secundaria, "según la prensa". Lo que depende de que alguien apruebe algo (decreto, convalidación, Gobierno en funciones) no va en futuro afirmativo: "la ley manda" ≠ "subirá en enero"; busca el precedente (031). Mejor un cálculo propio con datos oficiales que una estimación de prensa.
-7. **Instituciones y estudios**: recoge también lo que la fuente reconoce a favor, respeta sus condiciones y lee el resumen completo.
+7. **Instituciones y estudios**: recoge también lo que la fuente reconoce a favor, respeta sus condiciones y lee el resumen completo. Si comparas territorios con datos que agrega un ministerio (listas de espera, etc.), copia el aviso de la fuente sobre cómo cuenta cada uno ("cada comunidad aplica sus criterios de cómputo") en un rótulo y en el post, sin parafrasearlo a la baja (036).
 8. **Condenas e investigaciones**: atribúyelas a personas con su cargo, nunca al partido; sin sentencia firme, "presunto" + estado procesal, sin esposas ni mazo; nombra a todos o a ninguno; con detenidos, las consecuencias legales van con su condición ("si es declarado responsable").
 9. **Posturas**: antes de rebatir, da el motivo principal y la propuesta de cada parte, tal como la formulan; todas las partes con su motivo y con la fecha de la cita. Antes de poner "sin confirmar" o "según aliados" a un hecho que matiza a una parte, búscalo en medios de nivel 2 (cronologías tipo Poder360, Reuters): si está, va como hecho.
 10. **Votaciones**: fuente = Diario de Sesiones (resultado definitivo); nada de enciclopedias; comprueba con la imagen los números del OCR.
@@ -38,6 +38,12 @@ Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 (Ya incorporadas a la guía de estilo y la plantilla, ver Histórico: recuento real de palabras y tiempos por bloque, frases de ≤ 15 palabras, dato vivo con "a fecha de" y fuentes concretas con fecha, campo Portada.)
 
 ## Reglas activas
+
+### 2026-11-08 · 036-8-anos-lista-espera (v3) · revisor-guion
+- Ocurrencias: +1 regla 7 y +1 regla 16 (cita del pie de Sanidad recortada sin […]).
+- Problema: el bloque comparaba comunidades (Madrid 50, Andalucía 173) y el post parafraseaba el aviso de Sanidad como "responsable de que sean fieles". Así se perdía la mitad que importa: «y de aplicar criterios de cómputo».
+- Regla para el futuro: cuando compares territorios con datos agregados por un ministerio, lleva su aviso literal sobre los criterios de cómputo a un rótulo y al post.
+- Ejemplo: post "cada administración es responsable de que sean fieles" → "es responsable de la veracidad de los datos y de aplicar sus criterios de cómputo"; rótulo "Cada comunidad aplica sus criterios de cómputo".
 
 ### 2026-11-05 · 035-alquiler-12n (v2) · revisor-guion
 - Problema (regla 31, nueva): en la v2, el cierre corregido estaba en el texto limpio y en el rótulo, pero la columna de voz de la tabla de bloques mantenía la frase vieja ("¿Se renueva tu alquiler solo?"). El rótulo, la ficha y el post seguían diciendo "a 2026-11-04".
