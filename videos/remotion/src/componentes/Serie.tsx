@@ -43,8 +43,8 @@ export const CifraSerie: React.FC<{n: number | string; serie?: string; y?: numbe
  */
 export const ContadorSerie: React.FC<{
   valA: number; valB: number; etiqA?: string; etiqB?: string; base?: number; hMax?: number; w?: number; xA?: number; xB?: number;
-  cuentaEn?: number; cuentaDur?: number; signo?: number; valores?: boolean; etiquetas?: boolean; hasta?: number; etiqBYa?: boolean;
-}> = ({etiqBYa = false, valA, valB, etiqA = '2018', etiqB = '2025', base = 1040, hMax = 270, w = 280, xA = 120, xB = 600, cuentaEn = 0, cuentaDur = 3, signo, valores = true, etiquetas = true, hasta}) => {
+  cuentaEn?: number; cuentaDur?: number; signo?: number; valores?: boolean; etiquetas?: boolean; hasta?: number; etiqBYa?: boolean; dec?: boolean; valBFin?: boolean; marca?: {valor: number; texto: string; en: number};
+}> = ({dec = false, valBFin = false, marca, etiqBYa = false, valA, valB, etiqA = '2018', etiqB = '2025', base = 1040, hMax = 270, w = 280, xA = 120, xB = 600, cuentaEn = 0, cuentaDur = 3, signo, valores = true, etiquetas = true, hasta}) => {
   const {t} = usa();
   const s = useSalida(hasta);
   const k = ease(t, cuentaEn, cuentaEn + cuentaDur);
@@ -55,16 +55,24 @@ export const ContadorSerie: React.FC<{
   const vaiven = Math.sin(t * 2.4) * 4;
   const sg = signo === undefined ? 0 : ease(t, signo, signo + 0.4);
   const hLlena = (valB / valB) * hMax;
+  const fmt = (n: number) => (dec ? n.toFixed(1).replace(".", ",") : miles(n));
+  const mk = marca ? ease(t, marca.en, marca.en + 0.5) : 0;
   return lienzo(
     <g transform={`translate(0 ${vaiven})`}>
       <line x1={xA - 40} y1={base} x2={xB + w + 40} y2={base} stroke={C.tinta} strokeWidth={6} strokeLinecap="round" />
       <rect x={xA} y={base - hA} width={w} height={hA} fill={C.tinta} />
-      {valores ? <text x={xA + w / 2} y={base - hA - 20} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={64} fill={C.tinta}>{miles(valA)}</text> : null}
+      {valores ? <text x={xA + w / 2} y={base - hA - 20} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={64} fill={C.tinta}>{fmt(valA)}</text> : null}
       <rect x={xB} y={base - hLlena} width={w} height={hLlena} fill="none" stroke={C.tinta} strokeWidth={5} strokeDasharray="16 12" />
       <rect x={xB} y={base - hB} width={w} height={hB} fill={C.mostaza} stroke={C.tinta} strokeWidth={5} />
-      {valores && t >= cuentaEn ? <text x={xB + w / 2} y={base - Math.max(hB, hA) - 20} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={64} fill={C.tinta}>{miles(v)}</text> : null}
+      {valores && t >= cuentaEn && (!valBFin || fin) ? <text x={xB + w / 2} y={base - Math.max(hB, hA) - 20} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={64} fill={C.tinta}>{fmt(v)}</text> : null}
       {etiquetas ? <text x={xA + w / 2} y={base + 76} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={64} fill={C.tinta}>{etiqA}</text> : null}
       {etiquetas && (fin || etiqBYa) ? <text x={xB + w / 2} y={base + 76} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={64} fill={C.tinta}>{etiqB}</text> : null}
+      {marca && mk > 0 ? (
+        <g opacity={mk}>
+          <line x1={xA - 40} y1={base - (marca.valor / valB) * hMax} x2={xA - 40 + (xB + w + 80 - xA) * mk} y2={base - (marca.valor / valB) * hMax} stroke={C.teja} strokeWidth={6} strokeDasharray="18 12" />
+          <text x={xA + w + 20} y={base - (marca.valor / valB) * hMax - 14} fontFamily={F.cifra} fontWeight={700} fontSize={56} fill={C.teja}>{marca.texto}</text>
+        </g>
+      ) : null}
       {sg > 0 ? (
         <g transform={`translate(${(xA + w + xB) / 2} ${base - hLlena * 0.55}) scale(${sg})`}>
           <circle r={56} fill={C.tinta} />
@@ -240,7 +248,7 @@ export const AbSerie: React.FC<{a: string; b: string; y?: number; en?: number; h
  */
 const MULT = [0.5, 1.4, 0.85, 1.5, 0.35, 1.2, 0.75, 1.45, 0.6, 1.05];
 export const BarrasVSerie: React.FC<{
-  barras: {etiqueta: string; valor: number; color?: string; en: number; dur?: number; contorno?: boolean; altoContorno?: number; prefijo?: string; sufijo?: string; sinValor?: boolean; cx?: number}[];
+  barras: {etiqueta: string; valor: number; color?: string; en: number; dur?: number; contorno?: boolean; altoContorno?: number; prefijo?: string; sufijo?: string; sinValor?: boolean; cx?: number; dec?: boolean}[];
   max?: number; base?: number; hMax?: number; w?: number; centros?: number[]; tamEtiqueta?: number; hasta?: number;
   lineaRef?: {valor: number; en: number; color?: string};
   flecha?: {barra: number; hasta: number; en: number};
@@ -282,7 +290,7 @@ export const BarrasVSerie: React.FC<{
             ) : (
               <rect x={cx - w / 2} y={base - h} width={w} height={h} fill={color} stroke={C.tinta} strokeWidth={5} />
             )}
-            {!b.contorno && !b.sinValor && t >= b.en ? <text x={cx} y={base - (partida ? alto(b.valor) * 1.55 : h) - 22} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={64} fill={C.tinta}>{`${b.prefijo ?? '+'}${Math.round(v)}${b.sufijo ?? " %"}`}</text> : null}
+            {!b.contorno && !b.sinValor && t >= b.en ? <text x={cx} y={base - (partida ? alto(b.valor) * 1.55 : h) - 22} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={64} fill={C.tinta}>{`${b.prefijo ?? '+'}${b.dec ? v.toFixed(1).replace(".", ",") : Math.round(v)}${b.sufijo ?? " %"}`}</text> : null}
             <text x={cx} y={base + 58} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={tamEtiqueta} fill={C.tinta}>{b.etiqueta}</text>
           </g>
         );
@@ -331,6 +339,34 @@ export const IvaSerie: React.FC<{fases: {en: number; a: string; b: string; anio:
 };
 
 /** Subrayado que barre de lado a lado (evita huecos de quietud en el cierre). */
+/** Lupa y lista de comprobación (iconos de 260 px) para 'más supervisión'. */
+export const SupervisionSerie: React.FC<{y?: number; en?: number; hasta?: number}> = ({y = 900, en = 0, hasta}) => {
+  const {t} = usa();
+  const s = useSalida(hasta);
+  const k = ease(t, en, en + 0.5);
+  const k2 = ease(t, en + 0.4, en + 0.9);
+  const vaiven = Math.sin(t * 2.4) * 6;
+  return lienzo(
+    <g transform={`translate(0 ${vaiven})`}>
+      <g transform={`translate(300 ${y}) scale(${k})`} opacity={k}>
+        <circle cx={-20} cy={-20} r={110} fill="none" stroke={C.tinta} strokeWidth={26} />
+        <line x1={60} y1={60} x2={150} y2={150} stroke={C.tinta} strokeWidth={36} strokeLinecap="round" />
+        <circle cx={-20} cy={-20} r={80} fill={C.mostaza} opacity={0.35} />
+      </g>
+      <g transform={`translate(740 ${y}) scale(${k2})`} opacity={k2}>
+        <rect x={-110} y={-140} width={220} height={280} rx={20} fill={C.crema} stroke={C.tinta} strokeWidth={10} />
+        {[-70, -5, 60].map((yy, i) => (
+          <g key={i}>
+            <path d={`M -80 ${yy} l 18 18 l 34 -36`} fill="none" stroke={C.mostaza} strokeWidth={14} strokeLinecap="round" strokeLinejoin="round" />
+            <line x1={-10} y1={yy} x2={80} y2={yy} stroke={C.tinta} strokeWidth={12} strokeLinecap="round" />
+          </g>
+        ))}
+      </g>
+    </g>,
+    s,
+  );
+};
+
 const BarridoSerie: React.FC = () => {
   const {t} = usa();
   const k = ease(t, 0.3, 0.9);
@@ -348,5 +384,5 @@ export const CierreSerie: React.FC<{siguiente: number | string; tamano?: number;
 
 export const REGISTRO_SERIE: Record<string, React.FC<any>> = {
   cifraSerie: CifraSerie, contadorSerie: ContadorSerie, barrasHSerie: BarrasHSerie, tartaSerie: TartaSerie, cifraGrandeSerie: CifraGrandeSerie,
-  fichaSerie: FichaSerie, empleoSerie: EmpleoSerie, barraFigurasSerie: BarraFigurasSerie, abSerie: AbSerie, cierreSerie: CierreSerie, barrasVSerie: BarrasVSerie, ivaSerie: IvaSerie,
+  fichaSerie: FichaSerie, empleoSerie: EmpleoSerie, barraFigurasSerie: BarraFigurasSerie, abSerie: AbSerie, cierreSerie: CierreSerie, barrasVSerie: BarrasVSerie, ivaSerie: IvaSerie, supervisionSerie: SupervisionSerie,
 };

@@ -1,0 +1,420 @@
+{
+  "plantilla": "flash",
+  "duracion": 44.17,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 4,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "8,5 H DE BAJA AL MES",
+            "y": 520,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "contadorSerie",
+            "valA": 5.2,
+            "valB": 8.5,
+            "etiqA": "2T-2018",
+            "etiqB": "2T-2026",
+            "dec": true,
+            "xA": 110,
+            "xB": 590,
+            "w": 260,
+            "base": 1150,
+            "hMax": 270,
+            "etiqBYa": true,
+            "cuentaEn": -5,
+            "cuentaDur": 1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 4,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "8,5 H DE BAJA AL MES",
+          "y": 520,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "por trabajador, de media · 2T-2026 · INE",
+          "y": 790,
+          "en": -1,
+          "tamano": 48
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 5.2,
+          "valB": 8.5,
+          "etiqA": "2T-2018",
+          "etiqB": "2T-2026",
+          "dec": true,
+          "xA": 110,
+          "xB": 590,
+          "w": 260,
+          "base": 1100,
+          "hMax": 230,
+          "etiqBYa": true,
+          "valores": false,
+          "cuentaEn": 0.3,
+          "cuentaDur": 1
+        }
+      ]
+    },
+    {
+      "inicio": 4.22,
+      "fin": 6.94,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2T-2018: 5,2 H",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2T-2026: 8,5 H",
+          "y": 420,
+          "en": 1.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 5.2,
+          "valB": 8.5,
+          "etiqA": "2T-2018",
+          "etiqB": "2T-2026",
+          "dec": true,
+          "xA": 110,
+          "xB": 590,
+          "w": 260,
+          "base": 1100,
+          "hMax": 230,
+          "etiqBYa": true,
+          "valBFin": true,
+          "cuentaEn": 1.3,
+          "cuentaDur": 0.6
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 230,
+          "y": 560,
+          "tamano": 80,
+          "desde": 60,
+          "reboteMax": 0,
+          "en": 1.9
+        }
+      ]
+    },
+    {
+      "inicio": 6.94,
+      "fin": 12.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MÁS DE UNA JORNADA DE 8 H",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "cifraGrandeSerie",
+          "valor": "+63 %",
+          "y": 470,
+          "tam": 150,
+          "en": 2.4400000000000004
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "(cálculo propio: 8,5 ÷ 5,2)"
+          ],
+          "en": 3.62,
+          "tamano": 40
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 5.2,
+          "valB": 8.5,
+          "etiqA": "2T-2018",
+          "etiqB": "2T-2026",
+          "dec": true,
+          "xA": 110,
+          "xB": 590,
+          "w": 260,
+          "base": 1100,
+          "hMax": 230,
+          "etiqBYa": true,
+          "cuentaEn": -5,
+          "cuentaDur": 1,
+          "marca": {
+            "valor": 8,
+            "texto": "8 H",
+            "en": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 12.62,
+      "fin": 20.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HORAS NO TRABAJADAS POR BAJA MÉDICA (IT)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "INE · Encuesta Trimestral de Coste Laboral · industria, construcción y servicios",
+          "y": 520,
+          "en": 1,
+          "tamano": 48
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Horas/trabajador·mes · 2T con 2T",
+          "y": 740,
+          "en": 2.6,
+          "tamano": 48
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 5.2,
+          "valB": 8.5,
+          "etiqA": "2T-2018",
+          "etiqB": "2T-2026",
+          "dec": true,
+          "xA": 110,
+          "xB": 590,
+          "w": 260,
+          "base": 1085,
+          "hMax": 180,
+          "etiqBYa": true,
+          "cuentaEn": -5,
+          "cuentaDur": 1
+        }
+      ]
+    },
+    {
+      "inicio": 20.54,
+      "fin": 30.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "AIReF (4-2-2026): BAJAS COMUNES POR 1.000 AFILIADOS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "OTRA MEDIDA: CASOS, NO HORAS",
+          "y": 575,
+          "en": 0.6,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2017: 21,4 → 2024: 33,9 (+58,4 %)",
+          "y": 770,
+          "en": 4.76,
+          "tamano": 48
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 33.9,
+          "base": 1090,
+          "hMax": 190,
+          "w": 220,
+          "centros": [
+            300,
+            780
+          ],
+          "tamEtiqueta": 56,
+          "barras": [
+            {
+              "etiqueta": "2017",
+              "valor": 21.4,
+              "color": "#8D99AE",
+              "en": 1.9,
+              "dur": 0.8,
+              "sinValor": true
+            },
+            {
+              "etiqueta": "2024",
+              "valor": 33.9,
+              "color": "#14213D",
+              "en": 4.859999999999999,
+              "dur": 1,
+              "sinValor": true
+            }
+          ]
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 230,
+          "y": 850,
+          "tamano": 80,
+          "desde": 60,
+          "reboteMax": 0,
+          "en": 7.54
+        }
+      ]
+    },
+    {
+      "inicio": 30.46,
+      "fin": 33.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "AIReF: MÁS SUPERVISIÓN DE LA PRESTACIÓN",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "supervisionSerie",
+          "y": 860,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 33.66,
+      "fin": 37.37,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NO DICE LOS MOTIVOS · NO PRUEBA ABUSO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 5.2,
+          "valB": 8.5,
+          "etiqA": "2T-2018",
+          "etiqB": "2T-2026",
+          "dec": true,
+          "xA": 110,
+          "xB": 590,
+          "w": 260,
+          "base": 1100,
+          "hMax": 180,
+          "etiqBYa": true,
+          "cuentaEn": -5,
+          "cuentaDur": 1
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO MIDE",
+            "MOTIVOS"
+          ],
+          "x": 540,
+          "y": 610,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 72,
+          "en": 0.9
+        }
+      ]
+    },
+    {
+      "inicio": 37.37,
+      "fin": 40.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿MÁS CONTROL O COMO ESTÁ?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 5.2,
+          "valB": 8.5,
+          "etiqA": "2T-2018",
+          "etiqB": "2T-2026",
+          "dec": true,
+          "xA": 110,
+          "xB": 590,
+          "w": 260,
+          "base": 800,
+          "hMax": 200,
+          "etiqBYa": true,
+          "cuentaEn": -5,
+          "cuentaDur": 1,
+          "valores": false,
+          "etiquetas": false
+        },
+        {
+          "tipo": "abSerie",
+          "a": "MÁS CONTROL",
+          "b": "COMO ESTÁ",
+          "y": 880,
+          "en": 0.7
+        }
+      ]
+    },
+    {
+      "inicio": 40.5,
+      "fin": 44.17,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "palabras": [
+    {
+      "t": "Ocho",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "t": "horas",
+      "inicio": 0.32,
+      "fin": 0.64
+    },
+    {
+      "t": "y",
+      "inicio": 0.693,
+      "fin": 0.747
+    },
+    {
+      "t": "media",
+      "inicio": 0.8,
+      "fin": 1.04
+    },
+    {
+      "t": "de",
+      "inicio": 1.12,
+      "fin": 1.2
+    },
+    {
+      "t": "baja",
+      "inicio": 1.24,
+      "fin": 1.44
+    },
+    {
+      "t": "al",
+      "inicio": 1.52,
+      "fin": 1.6
+    },
+    {
+      "t": "mes.",
+      "inicio": 1.68,
+      "fin": 2.16
+    },
+    {
+      "t": "Por",
+      "inicio": 2.32,
+      "fin": 2.48
+    },
+    {
+      "t": "trabajador,",
+      "inicio": 2.56,
+      "fin": 3.36
+    },
+    {
+      "t": "de",
+      "inicio": 3.44,
+      "fin": 3.52
+    },
+    {
+      "t": "media.",
+      "inicio": 3.72,
+      "fin": 4.12
+    },
+    {
+      "t": "En",
+      "inicio": 4.32,
+      "fin": 4.4
+    },
+    {
+      "t": "dos",
+      "inicio": 4.48,
+      "fin": 4.56
+    },
+    {
+      "t": "mil",
+      "inicio": 4.64,
+      "fin": 4.72
+    },
+    {
+      "t": "dieciocho",
+      "inicio": 4.8,
+      "fin": 5.32
+    },
+    {
+      "t": "eran",
+      "inicio": 5.44,
+      "fin": 5.76
+    },
+    {
+      "t": "cinco",
+      "inicio": 5.84,
+      "fin": 6.08
+    },
+    {
+      "t": "con",
+      "inicio": 6.16,
+      "fin": 6.4
+    },
+    {
+      "t": "dos.",
+      "inicio": 6.52,
+      "fin": 6.72
+    },
+    {
+      "t": "Es",
+      "inicio": 7.04,
+      "fin": 7.12
+    },
+    {
+      "t": "más",
+      "inicio": 7.2,
+      "fin": 7.28
+    },
+    {
+      "t": "de",
+      "inicio": 7.36,
+      "fin": 7.44
+    },
+    {
+      "t": "una",
+      "inicio": 7.52,
+      "fin": 7.6
+    },
+    {
+      "t": "jornada",
+      "inicio": 7.68,
+      "fin": 8.08
+    },
+    {
+      "t": "entera",
+      "inicio": 8.24,
+      "fin": 8.48
+    },
+    {
+      "t": "de",
+      "inicio": 8.56,
+      "fin": 8.64
+    },
+    {
+      "t": "ocho",
+      "inicio": 8.72,
+      "fin": 8.88
+    },
+    {
+      "t": "horas.",
+      "inicio": 8.96,
+      "fin": 9.36
+    },
+    {
+      "t": "Un",
+      "inicio": 9.68,
+      "fin": 9.84
+    },
+    {
+      "t": "sesenta",
+      "inicio": 9.92,
+      "fin": 10.32
+    },
+    {
+      "t": "y",
+      "inicio": 10.4,
+      "fin": 10.48
+    },
+    {
+      "t": "tres",
+      "inicio": 10.56,
+      "fin": 10.64
+    },
+    {
+      "t": "por",
+      "inicio": 10.8,
+      "fin": 10.88
+    },
+    {
+      "t": "ciento",
+      "inicio": 10.96,
+      "fin": 11.2
+    },
+    {
+      "t": "más",
+      "inicio": 11.36,
+      "fin": 11.52
+    },
+    {
+      "t": "que",
+      "inicio": 11.56,
+      "fin": 11.6
+    },
+    {
+      "t": "entonces.",
+      "inicio": 11.68,
+      "fin": 12.48
+    },
+    {
+      "t": "Son",
+      "inicio": 12.72,
+      "fin": 12.88
+    },
+    {
+      "t": "horas",
+      "inicio": 12.96,
+      "fin": 13.2
+    },
+    {
+      "t": "no",
+      "inicio": 13.36,
+      "fin": 13.44
+    },
+    {
+      "t": "trabajadas",
+      "inicio": 13.52,
+      "fin": 14.08
+    },
+    {
+      "t": "por",
+      "inicio": 14.16,
+      "fin": 14.24
+    },
+    {
+      "t": "baja",
+      "inicio": 14.32,
+      "fin": 14.48
+    },
+    {
+      "t": "médica,",
+      "inicio": 14.56,
+      "fin": 15.04
+    },
+    {
+      "t": "según",
+      "inicio": 15.12,
+      "fin": 15.36
+    },
+    {
+      "t": "el",
+      "inicio": 15.4,
+      "fin": 15.44
+    },
+    {
+      "t": "íne.",
+      "inicio": 15.52,
+      "fin": 16
+    },
+    {
+      "t": "Compara",
+      "inicio": 16.24,
+      "fin": 16.56
+    },
+    {
+      "t": "el",
+      "inicio": 16.6,
+      "fin": 16.64
+    },
+    {
+      "t": "segundo",
+      "inicio": 16.72,
+      "fin": 17.04
+    },
+    {
+      "t": "trimestre",
+      "inicio": 17.12,
+      "fin": 17.52
+    },
+    {
+      "t": "de",
+      "inicio": 17.6,
+      "fin": 17.68
+    },
+    {
+      "t": "dos",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "t": "mil",
+      "inicio": 17.92,
+      "fin": 18
+    },
+    {
+      "t": "dieciocho",
+      "inicio": 18.08,
+      "fin": 18.6
+    },
+    {
+      "t": "con",
+      "inicio": 18.72,
+      "fin": 18.88
+    },
+    {
+      "t": "el",
+      "inicio": 18.92,
+      "fin": 18.96
+    },
+    {
+      "t": "de",
+      "inicio": 19.04,
+      "fin": 19.12
+    },
+    {
+      "t": "dos",
+      "inicio": 19.2,
+      "fin": 19.28
+    },
+    {
+      "t": "mil",
+      "inicio": 19.36,
+      "fin": 19.44
+    },
+    {
+      "t": "veintiséis.",
+      "inicio": 19.52,
+      "fin": 20.56
+    },
+    {
+      "t": "La",
+      "inicio": 20.64,
+      "fin": 20.72
+    },
+    {
+      "t": "AIReF",
+      "inicio": 20.76,
+      "fin": 21.04
+    },
+    {
+      "t": "midió",
+      "inicio": 21.12,
+      "fin": 21.413
+    },
+    {
+      "t": "en",
+      "inicio": 21.467,
+      "fin": 21.52
+    },
+    {
+      "t": "febrero",
+      "inicio": 21.56,
+      "fin": 21.92
+    },
+    {
+      "t": "otra",
+      "inicio": 22.08,
+      "fin": 22.32
+    },
+    {
+      "t": "cosa:",
+      "inicio": 22.4,
+      "fin": 23.04
+    },
+    {
+      "t": "bajas",
+      "inicio": 23.12,
+      "fin": 23.44
+    },
+    {
+      "t": "comunes",
+      "inicio": 23.52,
+      "fin": 23.84
+    },
+    {
+      "t": "por",
+      "inicio": 23.92,
+      "fin": 24
+    },
+    {
+      "t": "cada",
+      "inicio": 24.08,
+      "fin": 24.24
+    },
+    {
+      "t": "mil",
+      "inicio": 24.4,
+      "fin": 24.56
+    },
+    {
+      "t": "afiliados.",
+      "inicio": 24.64,
+      "fin": 25.4
+    },
+    {
+      "t": "Entre",
+      "inicio": 25.6,
+      "fin": 25.84
+    },
+    {
+      "t": "dos",
+      "inicio": 25.92,
+      "fin": 26
+    },
+    {
+      "t": "mil",
+      "inicio": 26.08,
+      "fin": 26.16
+    },
+    {
+      "t": "diecisiete",
+      "inicio": 26.24,
+      "fin": 26.72
+    },
+    {
+      "t": "y",
+      "inicio": 26.8,
+      "fin": 26.84
+    },
+    {
+      "t": "dos",
+      "inicio": 26.88,
+      "fin": 26.96
+    },
+    {
+      "t": "mil",
+      "inicio": 27.04,
+      "fin": 27.12
+    },
+    {
+      "t": "veinticuatro,",
+      "inicio": 27.2,
+      "fin": 28
+    },
+    {
+      "t": "subieron",
+      "inicio": 28.08,
+      "fin": 28.4
+    },
+    {
+      "t": "casi",
+      "inicio": 28.48,
+      "fin": 28.72
+    },
+    {
+      "t": "un",
+      "inicio": 28.8,
+      "fin": 28.88
+    },
+    {
+      "t": "sesenta",
+      "inicio": 28.96,
+      "fin": 29.44
+    },
+    {
+      "t": "por",
+      "inicio": 29.52,
+      "fin": 29.68
+    },
+    {
+      "t": "ciento.",
+      "inicio": 29.72,
+      "fin": 30.48
+    },
+    {
+      "t": "Y",
+      "inicio": 30.56,
+      "fin": 30.6
+    },
+    {
+      "t": "recomienda",
+      "inicio": 30.64,
+      "fin": 31.12
+    },
+    {
+      "t": "reforzar",
+      "inicio": 31.2,
+      "fin": 31.68
+    },
+    {
+      "t": "la",
+      "inicio": 31.72,
+      "fin": 31.76
+    },
+    {
+      "t": "supervisión",
+      "inicio": 31.84,
+      "fin": 32.4
+    },
+    {
+      "t": "de",
+      "inicio": 32.44,
+      "fin": 32.48
+    },
+    {
+      "t": "la",
+      "inicio": 32.56,
+      "fin": 32.6
+    },
+    {
+      "t": "prestación.",
+      "inicio": 32.64,
+      "fin": 33.68
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 33.76,
+      "fin": 34.32
+    },
+    {
+      "t": "la",
+      "inicio": 34.36,
+      "fin": 34.4
+    },
+    {
+      "t": "cifra",
+      "inicio": 34.48,
+      "fin": 34.8
+    },
+    {
+      "t": "no",
+      "inicio": 34.96,
+      "fin": 35.04
+    },
+    {
+      "t": "dice",
+      "inicio": 35.12,
+      "fin": 35.36
+    },
+    {
+      "t": "por",
+      "inicio": 35.44,
+      "fin": 35.6
+    },
+    {
+      "t": "qué,",
+      "inicio": 35.68,
+      "fin": 36.08
+    },
+    {
+      "t": "ni",
+      "inicio": 36.16,
+      "fin": 36.24
+    },
+    {
+      "t": "si",
+      "inicio": 36.32,
+      "fin": 36.4
+    },
+    {
+      "t": "hay",
+      "inicio": 36.48,
+      "fin": 36.56
+    },
+    {
+      "t": "abuso.",
+      "inicio": 36.64,
+      "fin": 37.44
+    },
+    {
+      "t": "¿Más",
+      "inicio": 37.467,
+      "fin": 37.6
+    },
+    {
+      "t": "control",
+      "inicio": 37.68,
+      "fin": 38
+    },
+    {
+      "t": "de",
+      "inicio": 38.04,
+      "fin": 38.08
+    },
+    {
+      "t": "las",
+      "inicio": 38.16,
+      "fin": 38.24
+    },
+    {
+      "t": "bajas…",
+      "inicio": 38.32,
+      "fin": 39.04
+    },
+    {
+      "t": "o",
+      "inicio": 39.08,
+      "fin": 39.12
+    },
+    {
+      "t": "dejarlo",
+      "inicio": 39.2,
+      "fin": 39.6
+    },
+    {
+      "t": "como",
+      "inicio": 39.68,
+      "fin": 39.76
+    },
+    {
+      "t": "está?",
+      "inicio": 39.88,
+      "fin": 40.56
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 40.6,
+      "fin": 41.12
+    },
+    {
+      "t": "para",
+      "inicio": 41.2,
+      "fin": 41.28
+    },
+    {
+      "t": "estar",
+      "inicio": 41.4,
+      "fin": 41.52
+    },
+    {
+      "t": "informado.",
+      "inicio": 41.68,
+      "fin": 42.32
+    }
+  ],
+  "duracion": 42.266122,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

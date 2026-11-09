@@ -64,3 +64,4 @@
 - [subida] Antes de cerrar, `ls videos/renders/subida | grep NNN`: 031 y 034 no tenían copia < 10 MB. Para ver pausas con select 0,001 usa `-ss` tras `-i` (no antes) o los pts salen desfasados. (2026-11-03)
 - [031/034 v2] Vuelta de recolocación: tira fps=2 crop 550–1450 de la escena cambiada + 1 hoja 7x4/7x5 basta; el sello DATO con rotación se confirma con crop a resolución completa (900x300) en reposo. 'Contador directo' = mira 0,1 s en la entrada. (2026-11-03)
 - [035] Pieza de 89 s: comprobar.mjs + 1 hoja 8x5 (fps=1/2.5, 216 px, drawbox x=192) + 1 tira de 2 recortes bastan; los LITERAL declarados por el generador (crédito, nota nueva) se aceptan. Una nota larga con fecha "8-11-2026" parte la fecha en 2 líneas. (2026-11-08)
+- [039] Pieza de serie "cifra": hoja 6x3 (fps=1/2.5, 216 px) basta; el sello DATO tapa etiquetas de valor/notas de la línea siguiente (mira escenas con sello `en` tardío). (039, 2026-11-09)
