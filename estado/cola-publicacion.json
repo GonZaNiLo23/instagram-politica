@@ -321,5 +321,12 @@
     "hora": "2026-11-09T13:30:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/039-8-anos-bajas-v1.md (literales aplicados) APROBADO · revisiones/videos/039-8-anos-bajas-v1.md CAMBIOS 8/10, 2 sellos movidos en v2 y comprobados en fotograma por el coordinador",
     "estado": "pendiente"
+  },
+  {
+    "pieza": "am20261109-0926-sanchez-hachazos",
+    "version": "v1",
+    "hora": "2026-11-09T10:00:00.000Z",
+    "estado": "pendiente",
+    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)"
   }
 ]

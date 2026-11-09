@@ -24,3 +24,4 @@
 - 2026-11-07T15:32:57Z · am20261107-1526-sanchez-faro v1 · OK · ffprobe: h264 1080x1920 @30/1 · 17.56 s (objetivo 17.5 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-08T09:33:10Z · am20261108-0926-sanchez-partido-no-ganado v1 · OK · ffprobe: h264 1080x1920 @30/1 · 31.00 s (objetivo 30.9 s) -> OK Volumen integrado: -14.2 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-08T13:33:08Z · am20261108-1326-sanchez-mayoria-amplia v1 · OK · ffprobe: h264 1080x1920 @30/1 · 20.70 s (objetivo 20.6 s) -> OK Volumen integrado: -14.3 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-09T09:34:16Z · am20261109-0926-sanchez-hachazos v1 · OK · ffprobe: h264 1080x1920 @30/1 · 24.20 s (objetivo 24.1 s) -> OK Volumen integrado: -14.2 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
