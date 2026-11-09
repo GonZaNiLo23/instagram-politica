@@ -55,3 +55,5 @@
 - 2026-11-08T14:00:51.790Z · am20261108-1326-sanchez-mayoria-amplia: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-08T18:01:05.277Z · 036-8-anos-lista-espera v3: PUBLICADA en Instagram https://www.instagram.com/reel/DffWazFDpiT/
 - 2026-11-08T18:01:12.820Z · 036-8-anos-lista-espera: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-09T10:00:43.197Z · am20261109-0926-sanchez-hachazos v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfhERt2D6oe/
+- 2026-11-09T10:00:44.582Z · am20261109-0926-sanchez-hachazos: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
