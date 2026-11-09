@@ -164,3 +164,5 @@
 - 2026-11-08 15:30 UTC (publicación 16:00 Madrid): sin candidatos (radar generado 15:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-08 17:30 UTC · 2 · @gabrielrufian (vivienda, «una familia, una casa», 109 s) · descartado: transcripción con muchos errores de Whisper (mezcla de catalán y castellano), sin tramo limpio y tema ya cubierto por Sánchez a las 13:30 UTC · sin publicación
 - 2026-11-08 20:00 (lanzada 19:26 UTC): radar respondió con 0 candidatos (total_detectados: "total_detectados": 0). Sin candidatos; no se publica.
+- 2026-11-09 09:40 UTC · 3 · @sanchezcastejon (Sánchez, «hachazos para todos, pelotazos para unos pocos», tramo 67,3–87,9 s; subtítulos cotejados con la transcripción; no se nombra a ningún partido porque él no lo hace) · publicado am20261109-0926-sanchez-hachazos
+- 2026-11-09 09:40 UTC · 2 · @gabrielrufian (resumen debate 2Cat, 85 s) · descartado: sin texto que oriente, previsible mezcla catalán/castellano en Whisper, sin tramo limpio

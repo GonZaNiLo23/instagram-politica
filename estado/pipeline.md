@@ -78,3 +78,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261107-1526-sanchez-faro | Al minuto: Sánchez, «vamos a seguir siendo el faro» | publicando (Al minuto horario) |
 | am20261108-0926-sanchez-partido-no-ganado | Al minuto: Sánchez, «el partido aún no está ganado» | publicando (Al minuto horario) |
 | am20261108-1326-sanchez-mayoria-amplia | Al minuto: Sánchez pide «una mayoría amplia y progresista» | publicando (Al minuto horario) |
+| am20261109-0926-sanchez-hachazos | Al minuto: Sánchez: «Hachazos para todos, pelotazos para unos pocos» | publicando (Al minuto horario) |

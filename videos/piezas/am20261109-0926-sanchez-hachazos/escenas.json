@@ -1,0 +1,90 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 24.1,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 20.6,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 20.6,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 20.6
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "SÁNCHEZ: «HACHAZOS PARA TODOS, PELOTAZOS PARA UNOS POCOS»",
+          "fecha": "9 NOV",
+          "credito": "Vídeo: @sanchezcastejon"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 3.1,
+              "texto": "Hay quienes presumen de tijeras, de motosierras,"
+            },
+            {
+              "inicio": 3.22,
+              "fin": 5.6,
+              "texto": "prometen recortes, privatizaciones, sacrificios,"
+            },
+            {
+              "inicio": 6.26,
+              "fin": 8.7,
+              "texto": "hachazos para todos, pelotazos para unos pocos."
+            },
+            {
+              "inicio": 8.94,
+              "fin": 10.9,
+              "texto": "Y ya sabemos quién paga la cuenta."
+            },
+            {
+              "inicio": 11.36,
+              "fin": 13.3,
+              "texto": "La pagan los trabajadores y los autónomos"
+            },
+            {
+              "inicio": 13.34,
+              "fin": 14.4,
+              "texto": "que no llegan a fin de mes,"
+            },
+            {
+              "inicio": 14.5,
+              "fin": 17.05,
+              "texto": "quienes pasan meses en una lista de espera\npara poder operarse"
+            },
+            {
+              "inicio": 17.1,
+              "fin": 20.6,
+              "texto": "y quienes viven con miedo de no llegar\na tener una pensión digna."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 20.6,
+      "fin": 24.1,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Sánchez: «Hachazos para todos, pelotazos para unos pocos»",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ]
+}
