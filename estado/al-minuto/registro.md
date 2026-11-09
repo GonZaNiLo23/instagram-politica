@@ -168,3 +168,4 @@
 - 2026-11-09 09:40 UTC · 2 · @gabrielrufian (resumen debate 2Cat, 85 s) · descartado: sin texto que oriente, previsible mezcla catalán/castellano en Whisper, sin tramo limpio
 - 2026-11-09 15:30 UTC (publicación 17:00 Madrid): sin candidatos (radar generado 15:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-09 18:00 Madrid: sin candidatos (único candidato @psoe sin frases/transcripción) — sin publicación
+- 2026-11-09 19:30 UTC (publicación 20:00): sin candidatos (radar devolvió 0 detectados); sin publicación.
