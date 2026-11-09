@@ -25,6 +25,8 @@ Ideas que no dependen de la actualidad. El buscador de temas añade aquí las bu
 - [ ] (2026-10-27) Cláusula de salvaguarda en una rebaja fiscal: cómo funciona el IPC-umbral del 15 % del RDL 25/2026 (ahora recogido en la propuesta 7 de 2026-11-01, carrusel, pendiente de verificar el IVA de la luz)
 - [ ] (2026-11-01) Quién paga el IRPF de la inflación: deflactar la tarifa, qué piden Sumar y los inspectores de Hacienda y qué dice el compromiso del Gobierno con Bruselas (propuesta 5 de 2026-11-01; si no entra esta semana, queda aquí; abrir el Informe de Progreso Anual)
 - [ ] (2026-11-01) Cómo se calcula la subida de pensiones (media del IPC de 12 meses, ley 21/2021) y qué pasa con máximas y mínimas con Presupuestos prorrogados (propuesta 1 de 2026-11-01; repetir en diciembre con el dato definitivo del 15-12)
+- [ ] (2026-11-09) Comparador de programas del 29-N en 60 s (vivienda, impuestos, jornada, energía): los programas completos de PP y PSOE aún no están publicados; esperar a que lo estén y usar el documento de cada partido, no resúmenes (Forbes del 5-10 y DatosClaros como pista; cálculo propio del ahorro en IRPF por hijo, a declarar como tal)
+- [ ] (2026-11-09) Límite de gasto electoral por partido en las generales (LOREG art. 175; cifra de 2026 pendiente de la orden de Interior tras la convocatoria; no localizada) · publicar desde el 13-11
 
 ## 💡 Curiosidades
 - [ ] Los leones del Congreso: de dónde salió su bronce (ahora propuesta 8 de 2026-10-21)
@@ -40,7 +42,7 @@ Ideas que no dependen de la actualidad. El buscador de temas añade aquí las bu
 - [ ] (2026-10-19) Despenalizar las injurias a la Corona: dos décadas de intentos (art. 491 CP) · requiere comprobar el estado actual en congreso.es
 - [ ] (2026-10-21) 25-oct-1979: referéndum del Estatuto de Guernica (participación 58,8 %, 831.839 síes según CEPC); falta el dato del Estatut de Cataluña y el motivo (verificar en Interior)
 - [ ] (2026-10-27) 19-nov-1933: primera vez que votan las mujeres en unas generales en toda España (aniversario 93; dialnet.unirioja.es). Cuidado con la versión viral: Clara Campoamor defendió el voto femenino; Victoria Kent y Margarita Nelken dudaron. Falta verificar cuántas diputadas salieron en 1933 (Congreso) · publicar 17–19 nov
-- [ ] (2026-10-27) 9-N-1989: el Muro de Berlín y el "inmediatamente" de Schabowski (ahora propuesta 8 de 2026-10-27, flash)
+- [ ] (2026-10-27) 9-N-1989: el Muro de Berlín y el "inmediatamente" de Schabowski (ahora propuesta 4 de 2026-11-09, flash URGENTE; si no sale el 9-11, vale como atemporal con fuente primaria de Bundesarchiv)
 
 ## 📊 Datos y mitos
 - [ ] ¿Cuánto cobra de verdad un diputado?
@@ -48,10 +50,11 @@ Ideas que no dependen de la actualidad. El buscador de temas añade aquí las bu
 - [x] ¿El voto en blanco favorece a los grandes? → propuesta 13 de 2026-10-21
 - [ ] ¿Se puede "perder" el voto por correo? (cubierto por la pieza 008)
 - [ ] (2026-10-19) "Votar 1-1-1 en el Senado perjudica a un partido": el bulo recurrente (Maldita 2019 y 2023); integrado en la propuesta 15 de 2026-10-21
-- [ ] (2026-10-19) ¿Qué hace la cifra de "mínimo histórico" del déficit y la deuda? Comprobar con Banco de España/AIReF cuando haya Presupuestos. (2026-11-01: la deuda bajó del 100 % del PIB en julio, primera vez desde feb-2020, a la vez que el importe sigue cerca de máximos, 1,744 billones; Banco de España vía Europa Press, verificar; da una pieza "dos cifras que chocan" cuando salga el dato de agosto/septiembre)
+- [ ] (2026-10-19) ¿Qué hace la cifra de "mínimo histórico" del déficit y la deuda? Comprobar con Banco de España/AIReF cuando haya Presupuestos. (2026-11-09: la deuda fue el 99,7 % del PIB en agosto con 1,750 billones, según el Banco de España; ahora propuesta 3 de 2026-11-09, flash; el dato de septiembre sale hacia el 17–21-11)
 - [ ] (2026-10-21) Cuánto de lo que pagas por un litro de gasolina son impuestos (Boletín Petrolero de la UE + decreto de la rebaja; ahora conectado con la propuesta 2 de 2026-11-01)
-- [ ] (2026-10-27) "Paro más bajo desde 2007": ¿se compara bien? Paro registrado en septiembre de 2026 = 2.379.505 (cifra más baja para ese mes desde 2007) frente a la EPA del 3T (10,18 %). Depende de la serie; verificar en el SEPE y el INE
+- [ ] (2026-10-27) "Paro más bajo desde 2007": ¿se compara bien? Paro registrado en septiembre de 2026 = 2.379.505 (cifra más baja para ese mes desde 2007) frente a la EPA del 3T (10,18 %). Depende de la serie; verificar en el SEPE y el INE. (2026-11-09: octubre subió a 2.422.633, +43.128, según El Salto con datos del Ministerio de Trabajo; mismo gráfico sirve para la propuesta 2 de 2026-11-09)
 - [ ] (2026-10-27) Inflación de España frente a la zona euro, mes a mes (Eurostat: 4-nov flash de octubre, 17-nov definitivo; calendario por confirmar) · material para una pieza de seguimiento de la propuesta 1 de 2026-10-27. (2026-11-01: Moncloa.com cita brecha de 1,2 puntos con la zona euro en octubre, sin fuente primaria; Eurostat no se abre. INE definitivo de octubre: 13-nov)
+- [ ] (2026-11-09) Regularización extraordinaria: solicitudes, permisos provisionales, resoluciones y afiliados (cuatro cifras distintas que la prensa mezcla); pedir a Inclusión el balance oficial de resoluciones, que no consta publicado (propuesta 2 de 2026-11-09)
 
 ## 🙋 Preguntas de seguidores
 (Añadir con fecha y enlace al comentario.)
