@@ -167,3 +167,4 @@
 - 2026-11-09 09:40 UTC · 3 · @sanchezcastejon (Sánchez, «hachazos para todos, pelotazos para unos pocos», tramo 67,3–87,9 s; subtítulos cotejados con la transcripción; no se nombra a ningún partido porque él no lo hace) · publicado am20261109-0926-sanchez-hachazos
 - 2026-11-09 09:40 UTC · 2 · @gabrielrufian (resumen debate 2Cat, 85 s) · descartado: sin texto que oriente, previsible mezcla catalán/castellano en Whisper, sin tramo limpio
 - 2026-11-09 15:30 UTC (publicación 17:00 Madrid): sin candidatos (radar generado 15:28 UTC, candidatos vacíos) · sin publicación
+- 2026-11-09 18:00 Madrid: sin candidatos (único candidato @psoe sin frases/transcripción) — sin publicación
