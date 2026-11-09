@@ -46,6 +46,7 @@ No leas informes ni carpetas de otras piezas salvo para copiar un patrón concre
 - **Aprendidas de las revisiones (incorporadas el 2026-10-31 por repetirse ≥ 3 veces; ver estado/cambios-agentes.md):**
   - **Contadores con etiqueta desde el primer fotograma de la cuenta** (013, 023, 030): nunca una cifra intermedia sin etiqueta ni con la etiqueta de un dato oficial; si la cifra final no puede llevar su etiqueta desde el principio, el contador no se usa.
   - **No se entrega con avisos de LECTURA de comprobar.mjs** (022, 023, 010, 005, 006, 008, 028): ≥ 1 s por cada 3 palabras de rótulo o nota; si la voz es más corta, el rótulo entra antes o se queda en la escena siguiente; cada definición, en la escena de lo que define.
+  - **Sellos, notas y ganchos dentro de x ≤ 960 e y ≤ 1490, también en el rebote** (incorporada el 2026-11-09; reincide en 031-v1, 034-v1 y 039-v1, regla 4 del feedback): antes de entregar, saca el fotograma de máximo rebote de cada sello y el de entrada de cada nota con `drawbox` en x = 960 e y = 1490; si algo cruza la línea o tapa una cifra o etiqueta, se mueve antes de pasar a revisión.
   - **Tercio inferior lleno** (015, 028, 030): el bloque de contenido baja hasta y ≈ 1250 (iconos ≥ 240 px), con ≥ 40 px de aire sobre la franja de subtítulos; antes de entregar, mira un fotograma por escena.
 
 ## Uso eficiente de tokens (misma calidad)
