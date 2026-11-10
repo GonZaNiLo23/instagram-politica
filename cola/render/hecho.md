@@ -27,3 +27,4 @@
 - 2026-11-09T09:34:16Z · am20261109-0926-sanchez-hachazos v1 · OK · ffprobe: h264 1080x1920 @30/1 · 24.20 s (objetivo 24.1 s) -> OK Volumen integrado: -14.2 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-10T07:47:18Z · am20261110-0740-abascal-machismo-importado v1 · OK · ffprobe: h264 1080x1920 @30/1 · 18.60 s (objetivo 18.46 s) -> OK Volumen integrado: -14.3 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-10T13:48:53Z · am20261110-1326-abascal-huelga-general v1 · OK · ffprobe: h264 1080x1920 @30/1 · 20.20 s (objetivo 20.1 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-10T15:44:44Z · am20261110-1526-moncloa-decretos-sociales v1 · OK · ffprobe: h264 1080x1920 @30/1 · 38.50 s (objetivo 38.4 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
