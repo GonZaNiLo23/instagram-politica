@@ -185,3 +185,4 @@
 - 2026-11-10 15:30 UTC · 2 · @vox_es (remigración, 131 s) · descartado: largo, sin tramo limpio
 - 2026-11-10 15:30 UTC · 2 · @gabrielrufian (sercatalunya, 84 s) · descartado: catalán/castellano, sin tramo limpio
 - 2026-11-10 17:26 UTC: radar sin respuesta (20 min); sin publicación.
+- 2026-11-10 ~19:30 UTC (publicación 20:00 Madrid): sin candidatos (radar devolvió 0 detectados). Sin publicación.
