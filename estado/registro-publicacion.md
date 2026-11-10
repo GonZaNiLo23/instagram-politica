@@ -63,3 +63,5 @@
 - 2026-11-10T08:00:52.481Z · am20261110-0740-abascal-machismo-importado: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-10T14:00:44.418Z · am20261110-1326-abascal-huelga-general v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfkEibxgfcI/
 - 2026-11-10T14:00:47.327Z · am20261110-1326-abascal-huelga-general: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-10T16:01:02.017Z · am20261110-1526-moncloa-decretos-sociales v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfkSRWdgDP0/
+- 2026-11-10T16:01:05.677Z · am20261110-1526-moncloa-decretos-sociales: TikTok en la bandeja de borradores (falta publicarlo desde la app)
