@@ -173,3 +173,4 @@
 - 2026-11-10 07:40 UTC · 3 · @vox_es (bandera de Ceuta, 131 s) · descartado: «invasión» sin tramo limpio, un solo envío por hora
 - 2026-11-10 07:40 UTC · 2 · @vox_es (Marruecos/Broncano, 81 s) · descartado: contiene datos de créditos no contrastados
 - 2026-11-10 07:40 UTC · 2 · @vox_es (remigración, 148 s) · descartado: largo, sin tramo limpio
+- 2026-11-10 08:30 UTC (publicación 10:00 Madrid): sin candidatos (radar generado 08:37 UTC, candidatos vacíos) · sin publicación
