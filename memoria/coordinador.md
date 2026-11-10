@@ -40,3 +40,4 @@
 - [nube, 2026-11-08] Rutina de claude.ai: red igual (proxy rechaza ine/boe/commons). La producción la hace produccion.yml (~05:30 UTC); esta rutina solo comprueba, informa y sale. Huecos 8-11 (12:00, 19:00) y 9-11 13:30 vacíos; 035 lista para vídeo.
 - [nube, 2026-11-08] Con red completa: guion→render→revisión de 2 piezas cupo en ~25 min; las vueltas de revisor-video por solapes pequeños se cierran con encargo cerrado + fotograma del coordinador.
 - [nube, 2026-11-09] Rutina claude.ai: red igual (sin conexión a ine/boe/europapress/commons). Comprobar, informar y salir. Huecos 9-11 13:30 y 10-11 (13:30, 19:00) para produccion.yml.
+- [nube, 2026-11-10] Rutina claude.ai: red igual (sin conexión). Comprobar, informar y salir. Huecos 10 y 11-11 para produccion.yml (040 con guion aprobado).
