@@ -1,0 +1,115 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 38.4,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 34.9,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 34.9,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 34.9
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "EL GOBIERNO APRUEBA DOS DECRETOS SOCIALES",
+          "fecha": "10 NOV",
+          "credito": "Vídeo: La Moncloa · 10-11-2026"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0.12,
+              "fin": 1.88,
+              "texto": "Este martes quiero destacarles en primer lugar"
+            },
+            {
+              "inicio": 1.88,
+              "fin": 5.04,
+              "texto": "dos acuerdos muy importantes aprobados hoy en Consejo de Ministros"
+            },
+            {
+              "inicio": 5.04,
+              "fin": 6.26,
+              "texto": "en materia de Protección Social."
+            },
+            {
+              "inicio": 6.88,
+              "fin": 8.64,
+              "texto": "Por un lado hemos aprobado un real decreto ley"
+            },
+            {
+              "inicio": 8.64,
+              "fin": 12.98,
+              "texto": "para el reconocimiento y la protección a las familias monomarentales"
+            },
+            {
+              "inicio": 12.98,
+              "fin": 15.56,
+              "texto": "y el refuerzo de su protección social."
+            },
+            {
+              "inicio": 15.78,
+              "fin": 18.32,
+              "texto": "Y por otro lado, también hemos aprobado un real decreto ley"
+            },
+            {
+              "inicio": 18.32,
+              "fin": 21.3,
+              "texto": "para reforzar el sistema para la autonomía"
+            },
+            {
+              "inicio": 21.3,
+              "fin": 24.28,
+              "texto": "y atención a la dependencia con más financiación"
+            },
+            {
+              "inicio": 24.28,
+              "fin": 26.92,
+              "texto": "y una reducción de tres meses del plazo máximo"
+            },
+            {
+              "inicio": 26.92,
+              "fin": 29.9,
+              "texto": "para resolver el reconocimiento de prestaciones."
+            },
+            {
+              "inicio": 30.4,
+              "fin": 31.76,
+              "texto": "El nivel acordado de financiación"
+            },
+            {
+              "inicio": 31.76,
+              "fin": 34.84,
+              "texto": "contará con una aportación de 904 millones de euros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 34.9,
+      "fin": 38.4,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "El Gobierno aprueba decretos para familias monomarentales y dependencia",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ]
+}

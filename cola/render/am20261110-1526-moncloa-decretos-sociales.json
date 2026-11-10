@@ -1,0 +1,11 @@
+{
+  "pieza": "am20261110-1526-moncloa-decretos-sociales",
+  "version": "v1",
+  "publicar": true,
+  "clip": {
+    "asset": "moncloa-101126-rueda-prensa-ministros.mp4",
+    "tramos": "82.1-97.8,105.9-125.1",
+    "modo": "recorte",
+    "foco": 0.5
+  }
+}

@@ -81,3 +81,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261109-0926-sanchez-hachazos | Al minuto: Sánchez: «Hachazos para todos, pelotazos para unos pocos» | publicando (Al minuto horario) |
 | am20261110-0740-abascal-machismo-importado | Al minuto: Abascal a Broncano, «el principal machismo es el importado» | publicando (Al minuto horario) |
 | am20261110-1326-abascal-huelga-general | Al minuto: Abascal critica la huelga general | publicando (Al minuto horario) |
+| am20261110-1526-moncloa-decretos-sociales | Al minuto: el Gobierno aprueba decretos sociales (monomarentales y dependencia) | publicando (Al minuto horario) |

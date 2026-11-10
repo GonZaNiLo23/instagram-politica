@@ -179,3 +179,8 @@
 - 2026-11-10 13:30 UTC (publicación 14:00 Madrid) · 3 · @vox_es (Abascal, huelga general, tramos 0–12,0 y 41,6–46,18 s; subtítulos cotejados con la transcripción; Whisper «emperado»→«empeorado»; opinión atribuida, sin acusaciones de delito) · publicado am20261110-1326-abascal-huelga-general
 - 2026-11-10 13:30 UTC · 2 · @vox_es (Ley de Nietos, 65 s) · descartado: cifra de «900 personas» y acusación de «trampa» no contrastadas
 - 2026-11-10 13:30 UTC · 2 · @santi_abascal (trastienda Broncano) / @vox_es (Broncano) · descartado: sin frase clara y tema ya publicado a las 07:40 UTC; un envío por hora
+- 2026-11-10 15:30 UTC (publicación 16:00 Madrid) · 3 · La Moncloa (rueda de prensa Consejo de Ministros, decretos monomarentales y dependencia, tramos 82,1–97,8 y 105,9–125,1 s; subtítulos cotejados con la transcripción; Whisper «autación»→«aportación»; solo hechos anunciados por el Gobierno) · publicado am20261110-1526-moncloa-decretos-sociales
+- 2026-11-10 15:30 UTC · 3 · @vox_es (servicios públicos, Abascal, 56 s) · descartado: «los han destruido»/«enemigo público» sin tramo limpio de opinión; un envío por hora
+- 2026-11-10 15:30 UTC · 2 · @vox_es (Ceuta, «comprado por Marruecos») · descartado: acusación no probada
+- 2026-11-10 15:30 UTC · 2 · @vox_es (remigración, 131 s) · descartado: largo, sin tramo limpio
+- 2026-11-10 15:30 UTC · 2 · @gabrielrufian (sercatalunya, 84 s) · descartado: catalán/castellano, sin tramo limpio
