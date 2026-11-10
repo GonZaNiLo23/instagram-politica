@@ -1,0 +1,80 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 20.1,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 16.6,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 16.6,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 16.6
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL CRITICA LA HUELGA GENERAL",
+          "fecha": "10 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0.2,
+              "fin": 3.4,
+              "texto": "Esta convocatoria me parece un insulto a los españoles,"
+            },
+            {
+              "inicio": 3.4,
+              "fin": 5.6,
+              "texto": "después de ocho años de Gobierno,"
+            },
+            {
+              "inicio": 6.2,
+              "fin": 9.8,
+              "texto": "en los que las condiciones materiales de los españoles"
+            },
+            {
+              "inicio": 9.8,
+              "fin": 12.0,
+              "texto": "han empeorado drásticamente,"
+            },
+            {
+              "inicio": 12.05,
+              "fin": 14.9,
+              "texto": "estos sindicatos actúan únicamente al servicio del Gobierno,"
+            },
+            {
+              "inicio": 14.9,
+              "fin": 16.6,
+              "texto": "al servicio de Pedro Sánchez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 16.6,
+      "fin": 20.1,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal critica la huelga general y a los sindicatos que la convocan",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ]
+}

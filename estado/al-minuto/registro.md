@@ -176,3 +176,6 @@
 - 2026-11-10 08:30 UTC (publicación 10:00 Madrid): sin candidatos (radar generado 08:37 UTC, candidatos vacíos) · sin publicación
 - 2026-11-10 09:30 UTC (publicación 10:00 Madrid): sin candidatos (radar generado 09:38 UTC, candidatos vacíos) · sin publicación
 - 2026-11-10 11:3x UTC (publicación 12:00 Madrid): sin candidatos (radar devolvió 0) → sin publicación
+- 2026-11-10 13:30 UTC (publicación 14:00 Madrid) · 3 · @vox_es (Abascal, huelga general, tramos 0–12,0 y 41,6–46,18 s; subtítulos cotejados con la transcripción; Whisper «emperado»→«empeorado»; opinión atribuida, sin acusaciones de delito) · publicado am20261110-1326-abascal-huelga-general
+- 2026-11-10 13:30 UTC · 2 · @vox_es (Ley de Nietos, 65 s) · descartado: cifra de «900 personas» y acusación de «trampa» no contrastadas
+- 2026-11-10 13:30 UTC · 2 · @santi_abascal (trastienda Broncano) / @vox_es (Broncano) · descartado: sin frase clara y tema ya publicado a las 07:40 UTC; un envío por hora
