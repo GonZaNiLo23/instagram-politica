@@ -169,3 +169,7 @@
 - 2026-11-09 15:30 UTC (publicación 17:00 Madrid): sin candidatos (radar generado 15:28 UTC, candidatos vacíos) · sin publicación
 - 2026-11-09 18:00 Madrid: sin candidatos (único candidato @psoe sin frases/transcripción) — sin publicación
 - 2026-11-09 19:30 UTC (publicación 20:00): sin candidatos (radar devolvió 0 detectados); sin publicación.
+- 2026-11-10 07:40 UTC · 3 · @vox_es (Abascal-Broncano, machismo importado, tramo 18,24–33,2 s; subtítulos cotejados con la transcripción; Whisper «nos respetan»→«no respetan»; opinión atribuida) · publicado am20261110-0740-abascal-machismo-importado
+- 2026-11-10 07:40 UTC · 3 · @vox_es (bandera de Ceuta, 131 s) · descartado: «invasión» sin tramo limpio, un solo envío por hora
+- 2026-11-10 07:40 UTC · 2 · @vox_es (Marruecos/Broncano, 81 s) · descartado: contiene datos de créditos no contrastados
+- 2026-11-10 07:40 UTC · 2 · @vox_es (remigración, 148 s) · descartado: largo, sin tramo limpio

@@ -1,0 +1,101 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 18.46,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 14.96,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 14.96,
+     "fundidoFin": 14.96
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL RESPONDE A BRONCANO SOBRE MACHISMO",
+     "fecha": "10 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 1.3,
+       "texto": "Yo creo que la frivolización"
+      },
+      {
+       "inicio": 1.3,
+       "fin": 2.26,
+       "texto": "está en el planteamiento que me haces"
+      },
+      {
+       "inicio": 2.26,
+       "fin": 4.3,
+       "texto": "cuando el principal machismo en España"
+      },
+      {
+       "inicio": 4.3,
+       "fin": 5.46,
+       "texto": "es el machismo importado"
+      },
+      {
+       "inicio": 5.46,
+       "fin": 6.85,
+       "texto": "de aquellos que no respetan a las mujeres."
+      },
+      {
+       "inicio": 6.88,
+       "fin": 8.4,
+       "texto": "Y a la vez queremos criminalizar"
+      },
+      {
+       "inicio": 8.4,
+       "fin": 9.62,
+       "texto": "a nuestro propio pueblo"
+      },
+      {
+       "inicio": 9.62,
+       "fin": 11.3,
+       "texto": "que a los españoles, que en general,"
+      },
+      {
+       "inicio": 11.3,
+       "fin": 12.98,
+       "texto": "y salvo excepciones,"
+      },
+      {
+       "inicio": 13.48,
+       "fin": 14.96,
+       "texto": "son personas que respetan a la mujer."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 14.96,
+   "fin": 18.46,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal: el principal machismo en España es el importado",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}
