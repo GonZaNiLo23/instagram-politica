@@ -1,5 +1,27 @@
 {
- "generado": "2026-11-10T19:29:36.302Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-10T20:50:43.215Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-18481927120115112",
+   "fuente": "instagram",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1256022,
+   "fecha": "2026-11-10T19:37:13+0000",
+   "horas": 1.2,
+   "me_gusta": 2059,
+   "comentarios": 44,
+   "viral": 139.5,
+   "enlace": "https://www.instagram.com/reel/Dfkq3jABR3C/",
+   "texto": "¡Ni una silla libre para recibir a santi_abascal en GERONA!\n\nHay muchas ganas de cambio. Hay muchas ganas de VOX.\n\n🇪🇸💪",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 19.5,
+   "archivo": "ig-18481927120115112.mp4",
+   "frases": [],
+   "palabras": [],
+   "habla": false
+  }
+ ]
 }
