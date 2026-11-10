@@ -59,3 +59,5 @@
 - 2026-11-09T10:00:44.582Z · am20261109-0926-sanchez-hachazos: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-09T13:59:20.934Z · 039-8-anos-bajas v2: PUBLICADA en Instagram https://www.instagram.com/reel/DfhfjlFERkZ/
 - 2026-11-09T13:59:25.413Z · 039-8-anos-bajas: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-10T08:00:49.176Z · am20261110-0740-abascal-machismo-importado v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfjbWFQilzN/
+- 2026-11-10T08:00:52.481Z · am20261110-0740-abascal-machismo-importado: TikTok en la bandeja de borradores (falta publicarlo desde la app)
