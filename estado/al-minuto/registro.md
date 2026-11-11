@@ -190,3 +190,4 @@
 - 2026-11-11 05:30 UTC · 3 · @vox_es (Abascal-Broncano, 108 s) · descartado: «pactado con los asesinos» sin tramo limpio; un envío por hora
 - 2026-11-11 05:30 UTC · 2 · @vox_es (Garriga, Gerona) · descartado: sin frase clara
 - 2026-11-11 05:30 UTC · 1 · @vox_es (Gerona, sin voz) · descartado: sin habla
+- 2026-11-11 07:30 UTC (publicación 08:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
