@@ -195,3 +195,4 @@
 - 2026-11-11 13:30 UTC (publicación 14:00 Madrid) · 3 · @alviseperez (se ofrece a sustituir a Abascal en el programa de Évole, tramos 0–11,7 y 32,88–43,02 s; subtítulos cotejados con la transcripción; Whisper «Wilde»→«Évole»; opinión/oferta atribuida, sin acusaciones; único candidato) · publicado am20261111-1330-alvise-sustituir-abascal
 - 2026-11-11 15:27Z (publicación 16:00): radar sin respuesta tras 20 min; no se publica.
 - 2026-11-11 17:27 UTC (publicación 18:00 Madrid) · 2 · @santi_abascal (Llagostera, 62 s) · descartado: casi sin habla (7 palabras, Whisper dudoso), no se entiende sin contexto; sin publicación
+- 2026-11-11 19:29 UTC (publicación 20:00 Madrid) · 1 · @vox_es (recibimiento a Abascal en Tarragona, 11 s) · descartado: sin habla, sin frase; sin publicación
