@@ -1,5 +1,1139 @@
 {
- "generado": "2026-11-11T12:45:52.096Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-11T13:28:42.856Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-17992774787867109",
+   "fuente": "instagram",
+   "cuenta": "@alviseperez",
+   "nombre": "Alvise Pérez",
+   "espacio": "afin",
+   "seguidores": 1429446,
+   "fecha": "2026-11-11T12:49:27+0000",
+   "horas": 0.7,
+   "me_gusta": 15946,
+   "comentarios": 1413,
+   "viral": 2006.8,
+   "enlace": "https://www.instagram.com/reel/Dfmg4jAA2o3/",
+   "texto": "Anímese, jordiwild8; solo queremos expresar nuestras ideas en libertad en los mismos lugares que el resto de candidatos.",
+   "credito": "Vídeo: @alviseperez",
+   "duracion": 67.3,
+   "archivo": "ig-17992774787867109.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 6.52,
+     "texto": "Bueno, anuncio oficial. Voy a sustituir a Santiago Abascal en el programa de Jordi Wilde de momento, ¿no?"
+    },
+    {
+     "inicio": 6.6,
+     "fin": 11.7,
+     "texto": "Porque Santiago ha cancelado, ha necesitado un comunicado de cinco puntos para explicarlo, es respetable."
+    },
+    {
+     "inicio": 12.88,
+     "fin": 19.06,
+     "texto": "Y como está injusto, porque a él le invitan en todos lados y se permiten encima rechazar entrevistas con los mayores influencers de España,"
+    },
+    {
+     "inicio": 19.6,
+     "fin": 24.68,
+     "texto": "pues yo entiendo que Jordi Wilde va a invitar a quien llevan durante tantos años censurando."
+    },
+    {
+     "inicio": 24.8,
+     "fin": 28.08,
+     "texto": "Jordi, en octubre, no había silla para mí, o sea, eran cuatro candidatos."
+    },
+    {
+     "inicio": 28.08,
+     "fin": 31.94,
+     "texto": "Ahora son tres, te sobra una. Has invitado incluso Ada Colau. Ada Colau."
+    },
+    {
+     "inicio": 32.88,
+     "fin": 38.84,
+     "texto": "Eso sí, si voy, Jordi, que creo que es lo sensato, tengo mis condiciones, que son ninguna."
+    },
+    {
+     "inicio": 39.66,
+     "fin": 43.02,
+     "texto": "Pregúntame lo que quieras, corta lo que quieras, que vengan tus dos verificadores,"
+    },
+    {
+     "inicio": 43.12,
+     "fin": 45.54,
+     "texto": "como si me traes a veinte verificadores a una pastoria neutral."
+    },
+    {
+     "inicio": 46.22,
+     "fin": 49.68,
+     "texto": "Además, el papel me lo sé bastante porque yo era el que le escribía los discursos a Santiago Abascal."
+    },
+    {
+     "inicio": 50.5,
+     "fin": 56.34,
+     "texto": "Estoy ahora mismo en Bogotá por otro asunto de urgencia, pero si me invitás oficialmente al debate,"
+    },
+    {
+     "inicio": 56.34,
+     "fin": 62.34,
+     "texto": "me recorro los miles de kilómetros que nos separan y lo que tardan en recorrer mesos ocho mil kilómetros,"
+    },
+    {
+     "inicio": 62.4,
+     "fin": 64.28,
+     "texto": "estoy del al puerto directo de tu estudio."
+    },
+    {
+     "inicio": 64.78,
+     "fin": 66.6,
+     "texto": "¿Te atreves Jordi? Un abrazo."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "Bueno,",
+     "inicio": 0,
+     "fin": 0.34
+    },
+    {
+     "t": "anuncio",
+     "inicio": 0.5,
+     "fin": 0.9
+    },
+    {
+     "t": "oficial.",
+     "inicio": 0.9,
+     "fin": 1.6
+    },
+    {
+     "t": "Voy",
+     "inicio": 1.78,
+     "fin": 1.9
+    },
+    {
+     "t": "a",
+     "inicio": 1.9,
+     "fin": 2.06
+    },
+    {
+     "t": "sustituir",
+     "inicio": 2.06,
+     "fin": 2.66
+    },
+    {
+     "t": "a",
+     "inicio": 2.66,
+     "fin": 2.78
+    },
+    {
+     "t": "Santiago",
+     "inicio": 2.78,
+     "fin": 3.12
+    },
+    {
+     "t": "Abascal",
+     "inicio": 3.12,
+     "fin": 3.58
+    },
+    {
+     "t": "en",
+     "inicio": 3.58,
+     "fin": 3.78
+    },
+    {
+     "t": "el",
+     "inicio": 3.78,
+     "fin": 3.9
+    },
+    {
+     "t": "programa",
+     "inicio": 3.9,
+     "fin": 4.18
+    },
+    {
+     "t": "de",
+     "inicio": 4.18,
+     "fin": 4.38
+    },
+    {
+     "t": "Jordi",
+     "inicio": 4.38,
+     "fin": 4.78
+    },
+    {
+     "t": "Wilde",
+     "inicio": 4.78,
+     "fin": 5.66
+    },
+    {
+     "t": "de",
+     "inicio": 5.66,
+     "fin": 5.7
+    },
+    {
+     "t": "momento,",
+     "inicio": 5.7,
+     "fin": 6.26
+    },
+    {
+     "t": "¿no?",
+     "inicio": 6.44,
+     "fin": 6.52
+    },
+    {
+     "t": "Porque",
+     "inicio": 6.6,
+     "fin": 6.76
+    },
+    {
+     "t": "Santiago",
+     "inicio": 6.76,
+     "fin": 7.02
+    },
+    {
+     "t": "ha",
+     "inicio": 7.02,
+     "fin": 7.16
+    },
+    {
+     "t": "cancelado,",
+     "inicio": 7.16,
+     "fin": 7.68
+    },
+    {
+     "t": "ha",
+     "inicio": 8.1,
+     "fin": 8.2
+    },
+    {
+     "t": "necesitado",
+     "inicio": 8.2,
+     "fin": 8.58
+    },
+    {
+     "t": "un",
+     "inicio": 8.58,
+     "fin": 8.62
+    },
+    {
+     "t": "comunicado",
+     "inicio": 8.62,
+     "fin": 8.94
+    },
+    {
+     "t": "de",
+     "inicio": 8.94,
+     "fin": 9.08
+    },
+    {
+     "t": "cinco",
+     "inicio": 9.08,
+     "fin": 9.26
+    },
+    {
+     "t": "puntos",
+     "inicio": 9.26,
+     "fin": 9.62
+    },
+    {
+     "t": "para",
+     "inicio": 9.62,
+     "fin": 9.98
+    },
+    {
+     "t": "explicarlo,",
+     "inicio": 9.98,
+     "fin": 10.92
+    },
+    {
+     "t": "es",
+     "inicio": 11.08,
+     "fin": 11.22
+    },
+    {
+     "t": "respetable.",
+     "inicio": 11.22,
+     "fin": 11.7
+    },
+    {
+     "t": "Y",
+     "inicio": 12.88,
+     "fin": 13.28
+    },
+    {
+     "t": "como",
+     "inicio": 13.28,
+     "fin": 13.46
+    },
+    {
+     "t": "está",
+     "inicio": 13.46,
+     "fin": 13.7
+    },
+    {
+     "t": "injusto,",
+     "inicio": 13.7,
+     "fin": 14.88
+    },
+    {
+     "t": "porque",
+     "inicio": 14.88,
+     "fin": 15.16
+    },
+    {
+     "t": "a",
+     "inicio": 15.16,
+     "fin": 15.24
+    },
+    {
+     "t": "él",
+     "inicio": 15.24,
+     "fin": 15.3
+    },
+    {
+     "t": "le",
+     "inicio": 15.3,
+     "fin": 15.38
+    },
+    {
+     "t": "invitan",
+     "inicio": 15.38,
+     "fin": 15.66
+    },
+    {
+     "t": "en",
+     "inicio": 15.66,
+     "fin": 15.8
+    },
+    {
+     "t": "todos",
+     "inicio": 15.8,
+     "fin": 15.94
+    },
+    {
+     "t": "lados",
+     "inicio": 15.94,
+     "fin": 16.22
+    },
+    {
+     "t": "y",
+     "inicio": 16.22,
+     "fin": 16.34
+    },
+    {
+     "t": "se",
+     "inicio": 16.34,
+     "fin": 16.4
+    },
+    {
+     "t": "permiten",
+     "inicio": 16.4,
+     "fin": 16.74
+    },
+    {
+     "t": "encima",
+     "inicio": 16.74,
+     "fin": 16.96
+    },
+    {
+     "t": "rechazar",
+     "inicio": 16.96,
+     "fin": 17.32
+    },
+    {
+     "t": "entrevistas",
+     "inicio": 17.32,
+     "fin": 17.84
+    },
+    {
+     "t": "con",
+     "inicio": 17.84,
+     "fin": 18
+    },
+    {
+     "t": "los",
+     "inicio": 18,
+     "fin": 18.08
+    },
+    {
+     "t": "mayores",
+     "inicio": 18.08,
+     "fin": 18.3
+    },
+    {
+     "t": "influencers",
+     "inicio": 18.3,
+     "fin": 18.64
+    },
+    {
+     "t": "de",
+     "inicio": 18.64,
+     "fin": 18.8
+    },
+    {
+     "t": "España,",
+     "inicio": 18.8,
+     "fin": 19.06
+    },
+    {
+     "t": "pues",
+     "inicio": 19.6,
+     "fin": 19.62
+    },
+    {
+     "t": "yo",
+     "inicio": 19.62,
+     "fin": 19.8
+    },
+    {
+     "t": "entiendo",
+     "inicio": 19.8,
+     "fin": 20.18
+    },
+    {
+     "t": "que",
+     "inicio": 20.18,
+     "fin": 20.32
+    },
+    {
+     "t": "Jordi",
+     "inicio": 20.32,
+     "fin": 20.64
+    },
+    {
+     "t": "Wilde",
+     "inicio": 20.64,
+     "fin": 21.26
+    },
+    {
+     "t": "va",
+     "inicio": 21.26,
+     "fin": 21.42
+    },
+    {
+     "t": "a",
+     "inicio": 21.42,
+     "fin": 21.52
+    },
+    {
+     "t": "invitar",
+     "inicio": 21.52,
+     "fin": 21.92
+    },
+    {
+     "t": "a",
+     "inicio": 21.92,
+     "fin": 22.48
+    },
+    {
+     "t": "quien",
+     "inicio": 22.48,
+     "fin": 22.64
+    },
+    {
+     "t": "llevan",
+     "inicio": 22.64,
+     "fin": 23.04
+    },
+    {
+     "t": "durante",
+     "inicio": 23.04,
+     "fin": 23.4
+    },
+    {
+     "t": "tantos",
+     "inicio": 23.4,
+     "fin": 24.02
+    },
+    {
+     "t": "años",
+     "inicio": 24.02,
+     "fin": 24.22
+    },
+    {
+     "t": "censurando.",
+     "inicio": 24.22,
+     "fin": 24.68
+    },
+    {
+     "t": "Jordi,",
+     "inicio": 24.8,
+     "fin": 25.04
+    },
+    {
+     "t": "en",
+     "inicio": 25.08,
+     "fin": 25.14
+    },
+    {
+     "t": "octubre,",
+     "inicio": 25.14,
+     "fin": 25.58
+    },
+    {
+     "t": "no",
+     "inicio": 25.98,
+     "fin": 26.06
+    },
+    {
+     "t": "había",
+     "inicio": 26.06,
+     "fin": 26.2
+    },
+    {
+     "t": "silla",
+     "inicio": 26.2,
+     "fin": 26.4
+    },
+    {
+     "t": "para",
+     "inicio": 26.4,
+     "fin": 26.62
+    },
+    {
+     "t": "mí,",
+     "inicio": 26.62,
+     "fin": 26.82
+    },
+    {
+     "t": "o",
+     "inicio": 27,
+     "fin": 27.06
+    },
+    {
+     "t": "sea,",
+     "inicio": 27.06,
+     "fin": 27.16
+    },
+    {
+     "t": "eran",
+     "inicio": 27.24,
+     "fin": 27.34
+    },
+    {
+     "t": "cuatro",
+     "inicio": 27.34,
+     "fin": 27.5
+    },
+    {
+     "t": "candidatos.",
+     "inicio": 27.5,
+     "fin": 28.08
+    },
+    {
+     "t": "Ahora",
+     "inicio": 28.08,
+     "fin": 28.26
+    },
+    {
+     "t": "son",
+     "inicio": 28.26,
+     "fin": 28.44
+    },
+    {
+     "t": "tres,",
+     "inicio": 28.44,
+     "fin": 28.68
+    },
+    {
+     "t": "te",
+     "inicio": 28.82,
+     "fin": 28.84
+    },
+    {
+     "t": "sobra",
+     "inicio": 28.84,
+     "fin": 29.08
+    },
+    {
+     "t": "una.",
+     "inicio": 29.08,
+     "fin": 29.32
+    },
+    {
+     "t": "Has",
+     "inicio": 29.62,
+     "fin": 29.82
+    },
+    {
+     "t": "invitado",
+     "inicio": 29.82,
+     "fin": 30.08
+    },
+    {
+     "t": "incluso",
+     "inicio": 30.08,
+     "fin": 30.38
+    },
+    {
+     "t": "Ada",
+     "inicio": 30.38,
+     "fin": 30.6
+    },
+    {
+     "t": "Colau.",
+     "inicio": 30.6,
+     "fin": 30.98
+    },
+    {
+     "t": "Ada",
+     "inicio": 31.18,
+     "fin": 31.46
+    },
+    {
+     "t": "Colau.",
+     "inicio": 31.46,
+     "fin": 31.94
+    },
+    {
+     "t": "Eso",
+     "inicio": 32.88,
+     "fin": 33.28
+    },
+    {
+     "t": "sí,",
+     "inicio": 33.28,
+     "fin": 33.48
+    },
+    {
+     "t": "si",
+     "inicio": 33.84,
+     "fin": 34.04
+    },
+    {
+     "t": "voy,",
+     "inicio": 34.04,
+     "fin": 34.26
+    },
+    {
+     "t": "Jordi,",
+     "inicio": 34.8,
+     "fin": 35.22
+    },
+    {
+     "t": "que",
+     "inicio": 35.32,
+     "fin": 35.34
+    },
+    {
+     "t": "creo",
+     "inicio": 35.34,
+     "fin": 35.54
+    },
+    {
+     "t": "que",
+     "inicio": 35.54,
+     "fin": 35.6
+    },
+    {
+     "t": "es",
+     "inicio": 35.6,
+     "fin": 35.7
+    },
+    {
+     "t": "lo",
+     "inicio": 35.7,
+     "fin": 35.76
+    },
+    {
+     "t": "sensato,",
+     "inicio": 35.76,
+     "fin": 36.2
+    },
+    {
+     "t": "tengo",
+     "inicio": 36.62,
+     "fin": 36.86
+    },
+    {
+     "t": "mis",
+     "inicio": 36.86,
+     "fin": 37
+    },
+    {
+     "t": "condiciones,",
+     "inicio": 37,
+     "fin": 37.48
+    },
+    {
+     "t": "que",
+     "inicio": 37.78,
+     "fin": 37.86
+    },
+    {
+     "t": "son",
+     "inicio": 37.86,
+     "fin": 38.04
+    },
+    {
+     "t": "ninguna.",
+     "inicio": 38.04,
+     "fin": 38.84
+    },
+    {
+     "t": "Pregúntame",
+     "inicio": 39.66,
+     "fin": 40.06
+    },
+    {
+     "t": "lo",
+     "inicio": 40.06,
+     "fin": 40.2
+    },
+    {
+     "t": "que",
+     "inicio": 40.2,
+     "fin": 40.3
+    },
+    {
+     "t": "quieras,",
+     "inicio": 40.3,
+     "fin": 40.66
+    },
+    {
+     "t": "corta",
+     "inicio": 40.74,
+     "fin": 41.06
+    },
+    {
+     "t": "lo",
+     "inicio": 41.06,
+     "fin": 41.16
+    },
+    {
+     "t": "que",
+     "inicio": 41.16,
+     "fin": 41.3
+    },
+    {
+     "t": "quieras,",
+     "inicio": 41.3,
+     "fin": 41.72
+    },
+    {
+     "t": "que",
+     "inicio": 41.8,
+     "fin": 41.9
+    },
+    {
+     "t": "vengan",
+     "inicio": 41.9,
+     "fin": 42.16
+    },
+    {
+     "t": "tus",
+     "inicio": 42.16,
+     "fin": 42.32
+    },
+    {
+     "t": "dos",
+     "inicio": 42.32,
+     "fin": 42.48
+    },
+    {
+     "t": "verificadores,",
+     "inicio": 42.48,
+     "fin": 43.02
+    },
+    {
+     "t": "como",
+     "inicio": 43.12,
+     "fin": 43.28
+    },
+    {
+     "t": "si",
+     "inicio": 43.28,
+     "fin": 43.42
+    },
+    {
+     "t": "me",
+     "inicio": 43.42,
+     "fin": 43.56
+    },
+    {
+     "t": "traes",
+     "inicio": 43.56,
+     "fin": 43.76
+    },
+    {
+     "t": "a",
+     "inicio": 43.76,
+     "fin": 43.88
+    },
+    {
+     "t": "veinte",
+     "inicio": 43.88,
+     "fin": 44.14
+    },
+    {
+     "t": "verificadores",
+     "inicio": 44.14,
+     "fin": 44.74
+    },
+    {
+     "t": "a",
+     "inicio": 44.74,
+     "fin": 44.86
+    },
+    {
+     "t": "una",
+     "inicio": 44.86,
+     "fin": 44.9
+    },
+    {
+     "t": "pastoria",
+     "inicio": 44.9,
+     "fin": 45.22
+    },
+    {
+     "t": "neutral.",
+     "inicio": 45.22,
+     "fin": 45.54
+    },
+    {
+     "t": "Además,",
+     "inicio": 46.22,
+     "fin": 46.48
+    },
+    {
+     "t": "el",
+     "inicio": 46.6,
+     "fin": 46.66
+    },
+    {
+     "t": "papel",
+     "inicio": 46.66,
+     "fin": 46.84
+    },
+    {
+     "t": "me",
+     "inicio": 46.84,
+     "fin": 47.04
+    },
+    {
+     "t": "lo",
+     "inicio": 47.04,
+     "fin": 47.16
+    },
+    {
+     "t": "sé",
+     "inicio": 47.16,
+     "fin": 47.3
+    },
+    {
+     "t": "bastante",
+     "inicio": 47.3,
+     "fin": 47.68
+    },
+    {
+     "t": "porque",
+     "inicio": 47.68,
+     "fin": 47.94
+    },
+    {
+     "t": "yo",
+     "inicio": 47.94,
+     "fin": 48.12
+    },
+    {
+     "t": "era",
+     "inicio": 48.12,
+     "fin": 48.26
+    },
+    {
+     "t": "el",
+     "inicio": 48.26,
+     "fin": 48.34
+    },
+    {
+     "t": "que",
+     "inicio": 48.34,
+     "fin": 48.42
+    },
+    {
+     "t": "le",
+     "inicio": 48.42,
+     "fin": 48.48
+    },
+    {
+     "t": "escribía",
+     "inicio": 48.48,
+     "fin": 48.72
+    },
+    {
+     "t": "los",
+     "inicio": 48.72,
+     "fin": 48.82
+    },
+    {
+     "t": "discursos",
+     "inicio": 48.82,
+     "fin": 49.16
+    },
+    {
+     "t": "a",
+     "inicio": 49.16,
+     "fin": 49.28
+    },
+    {
+     "t": "Santiago",
+     "inicio": 49.28,
+     "fin": 49.42
+    },
+    {
+     "t": "Abascal.",
+     "inicio": 49.42,
+     "fin": 49.68
+    },
+    {
+     "t": "Estoy",
+     "inicio": 50.5,
+     "fin": 50.72
+    },
+    {
+     "t": "ahora",
+     "inicio": 50.72,
+     "fin": 50.82
+    },
+    {
+     "t": "mismo",
+     "inicio": 50.82,
+     "fin": 51
+    },
+    {
+     "t": "en",
+     "inicio": 51,
+     "fin": 51.12
+    },
+    {
+     "t": "Bogotá",
+     "inicio": 51.12,
+     "fin": 51.56
+    },
+    {
+     "t": "por",
+     "inicio": 51.56,
+     "fin": 51.92
+    },
+    {
+     "t": "otro",
+     "inicio": 51.92,
+     "fin": 52.04
+    },
+    {
+     "t": "asunto",
+     "inicio": 52.04,
+     "fin": 52.32
+    },
+    {
+     "t": "de",
+     "inicio": 52.32,
+     "fin": 52.42
+    },
+    {
+     "t": "urgencia,",
+     "inicio": 52.42,
+     "fin": 52.92
+    },
+    {
+     "t": "pero",
+     "inicio": 52.94,
+     "fin": 53.12
+    },
+    {
+     "t": "si",
+     "inicio": 53.12,
+     "fin": 53.28
+    },
+    {
+     "t": "me",
+     "inicio": 53.28,
+     "fin": 53.4
+    },
+    {
+     "t": "invitás",
+     "inicio": 53.4,
+     "fin": 54
+    },
+    {
+     "t": "oficialmente",
+     "inicio": 54,
+     "fin": 55.14
+    },
+    {
+     "t": "al",
+     "inicio": 55.14,
+     "fin": 55.86
+    },
+    {
+     "t": "debate,",
+     "inicio": 55.86,
+     "fin": 56.34
+    },
+    {
+     "t": "me",
+     "inicio": 56.34,
+     "fin": 57
+    },
+    {
+     "t": "recorro",
+     "inicio": 57,
+     "fin": 57.56
+    },
+    {
+     "t": "los",
+     "inicio": 57.56,
+     "fin": 58
+    },
+    {
+     "t": "miles",
+     "inicio": 58,
+     "fin": 58.24
+    },
+    {
+     "t": "de",
+     "inicio": 58.24,
+     "fin": 58.44
+    },
+    {
+     "t": "kilómetros",
+     "inicio": 58.44,
+     "fin": 58.94
+    },
+    {
+     "t": "que",
+     "inicio": 58.94,
+     "fin": 59.16
+    },
+    {
+     "t": "nos",
+     "inicio": 59.16,
+     "fin": 59.3
+    },
+    {
+     "t": "separan",
+     "inicio": 59.3,
+     "fin": 59.88
+    },
+    {
+     "t": "y",
+     "inicio": 59.88,
+     "fin": 60.16
+    },
+    {
+     "t": "lo",
+     "inicio": 60.16,
+     "fin": 60.64
+    },
+    {
+     "t": "que",
+     "inicio": 60.64,
+     "fin": 60.74
+    },
+    {
+     "t": "tardan",
+     "inicio": 60.74,
+     "fin": 61.06
+    },
+    {
+     "t": "en",
+     "inicio": 61.06,
+     "fin": 61.14
+    },
+    {
+     "t": "recorrer",
+     "inicio": 61.14,
+     "fin": 61.34
+    },
+    {
+     "t": "mesos",
+     "inicio": 61.34,
+     "fin": 61.56
+    },
+    {
+     "t": "ocho",
+     "inicio": 61.56,
+     "fin": 61.76
+    },
+    {
+     "t": "mil",
+     "inicio": 61.76,
+     "fin": 61.86
+    },
+    {
+     "t": "kilómetros,",
+     "inicio": 61.86,
+     "fin": 62.34
+    },
+    {
+     "t": "estoy",
+     "inicio": 62.4,
+     "fin": 62.86
+    },
+    {
+     "t": "del",
+     "inicio": 62.86,
+     "fin": 63.06
+    },
+    {
+     "t": "al",
+     "inicio": 63.06,
+     "fin": 63.14
+    },
+    {
+     "t": "puerto",
+     "inicio": 63.14,
+     "fin": 63.48
+    },
+    {
+     "t": "directo",
+     "inicio": 63.48,
+     "fin": 63.8
+    },
+    {
+     "t": "de",
+     "inicio": 63.8,
+     "fin": 63.88
+    },
+    {
+     "t": "tu",
+     "inicio": 63.88,
+     "fin": 63.94
+    },
+    {
+     "t": "estudio.",
+     "inicio": 63.94,
+     "fin": 64.28
+    },
+    {
+     "t": "¿Te",
+     "inicio": 64.78,
+     "fin": 64.92
+    },
+    {
+     "t": "atreves",
+     "inicio": 64.92,
+     "fin": 65.16
+    },
+    {
+     "t": "Jordi?",
+     "inicio": 65.16,
+     "fin": 65.5
+    },
+    {
+     "t": "Un",
+     "inicio": 66.04,
+     "fin": 66.22
+    },
+    {
+     "t": "abrazo.",
+     "inicio": 66.22,
+     "fin": 66.6
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
