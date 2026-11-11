@@ -1,74 +1,27 @@
 {
- "generado": "2026-11-11T17:31:37.206Z",
+ "generado": "2026-11-11T19:28:50.252Z",
  "total_detectados": 1,
  "candidatos": [
   {
-   "id": "ig-17978154363157003",
+   "id": "ig-18167298589494182",
    "fuente": "instagram",
-   "cuenta": "@santi_abascal",
-   "nombre": "🇪🇸 Santiago Abascal 🇪🇸",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
    "espacio": "afin",
-   "seguidores": 1674039,
-   "fecha": "2026-11-11T16:47:24+0000",
-   "horas": 0.7,
-   "me_gusta": 15339,
-   "comentarios": 1266,
-   "viral": 1448.5,
-   "enlace": "https://www.instagram.com/reel/Dfm8LjZIlhi/",
-   "texto": "Unos pocos atacando e insultando. Unas chicas sonrientes pidiendo una foto y gritando ¡Viva España!\nCataluña es mucho más que los que gritan. 🇪🇸\n#Llagostera\n#",
-   "credito": "Vídeo: @santi_abascal",
-   "duracion": 61.9,
-   "archivo": "ig-17978154363157003.mp4",
-   "frases": [
-    {
-     "inicio": 1.24,
-     "fin": 14.37,
-     "texto": "Aquí el público de Broncalo"
-    },
-    {
-     "inicio": 39.58,
-     "fin": 41.52,
-     "texto": "¡Viva España!"
-    }
-   ],
-   "palabras": [
-    {
-     "t": "Aquí",
-     "inicio": 1.24,
-     "fin": 2.32
-    },
-    {
-     "t": "el",
-     "inicio": 13.01,
-     "fin": 13.15
-    },
-    {
-     "t": "público",
-     "inicio": 13.15,
-     "fin": 13.41
-    },
-    {
-     "t": "de",
-     "inicio": 13.41,
-     "fin": 13.65
-    },
-    {
-     "t": "Broncalo",
-     "inicio": 13.65,
-     "fin": 14.37
-    },
-    {
-     "t": "¡Viva",
-     "inicio": 39.58,
-     "fin": 40.66
-    },
-    {
-     "t": "España!",
-     "inicio": 40.66,
-     "fin": 41.52
-    }
-   ],
-   "habla": true
+   "seguidores": 1261181,
+   "fecha": "2026-11-11T19:12:57+0000",
+   "horas": 0.3,
+   "me_gusta": 603,
+   "comentarios": 97,
+   "viral": 126.4,
+   "enlace": "https://www.instagram.com/reel/DfnM9HSBnhF/",
+   "texto": "Así comienza otro acto de VOX en TARRAGONA...\n\n¡Recibiendo a santi_abascal por todo lo alto!\n\n👏👏👏",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 10.9,
+   "archivo": "ig-18167298589494182.mp4",
+   "frases": [],
+   "palabras": [],
+   "habla": false
   }
  ]
 }
