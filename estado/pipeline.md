@@ -49,6 +49,8 @@ Lo mantiene el coordinador. Una fila por pieza.
 
 **2026-11-02 (nocturna en la nube):** 5.ª noche sin red (403 a ine, boe, europapress, Commons, hacienda). Nada producido. 2-11 y 3-11 sin cubrir. Informe en estado/informe-produccion-2026-11-02.md.
 
+**2026-11-11 (nocturna en la nube):** red igual (sin conexión). produccion.yml no producía desde el 9-11 15:28Z: tareas/produccion-nube.md pasó a CRLF y el encargo llegaba vacío. Corregido el archivo (LF); falta blindar el flujo (sin permiso workflow aquí). Huecos 11 y 12-11 para produccion.yml. Informe en estado/informe-produccion-2026-11-11.md.
+
 **Ritmo (confirmado el 2026-10-25):** 2 publicaciones al día (13:30 y 19:00; fin de semana 12:00 y 19:00); máximo 3 solo con urgente y con 3–4 h de separación. Reels + carruseles. 2026-10-20: en marcha propuestas nuevas (buscador), render final 006, vídeo 007, guiones 005 y 008 sin opinión.
 
 **Estados:** propuesto · elegido · guion-borrador · guion-revision · guion-aprobado · video-render · video-revision · listo · programado · publicado · descartado

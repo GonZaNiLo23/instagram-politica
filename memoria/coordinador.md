@@ -41,3 +41,4 @@
 - [nube, 2026-11-08] Con red completa: guion→render→revisión de 2 piezas cupo en ~25 min; las vueltas de revisor-video por solapes pequeños se cierran con encargo cerrado + fotograma del coordinador.
 - [nube, 2026-11-09] Rutina claude.ai: red igual (sin conexión a ine/boe/europapress/commons). Comprobar, informar y salir. Huecos 9-11 13:30 y 10-11 (13:30, 19:00) para produccion.yml.
 - [nube, 2026-11-10] Rutina claude.ai: red igual (sin conexión). Comprobar, informar y salir. Huecos 10 y 11-11 para produccion.yml (040 con guion aprobado).
+- [nube, 2026-11-11] Si produccion.yml acaba en "success" en pocos minutos sin piezas, mira el log: el 10-11 Claude recibió el encargo vacío porque tareas/produccion-nube.md pasó a CRLF (commit del radar) y el sed de `---` no casaba. Arreglado volviendo el archivo a LF; el flujo sigue sin blindar (esta rutina no puede subir .github/workflows).
