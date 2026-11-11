@@ -1,0 +1,380 @@
+{
+  "plantilla": "flash",
+  "duracion": 39.04,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 90,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "RÉCORD DE AFILIADOS… MÁS PARADOS",
+            "y": 330,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "barrasVSerie",
+            "max": 100,
+            "base": 1150,
+            "hMax": 260,
+            "tamEtiqueta": 56,
+            "centros": [
+              300,
+              720
+            ],
+            "barras": [
+              {
+                "etiqueta": "AFILIADOS",
+                "valor": 100,
+                "color": "#2A9D8F",
+                "sinValor": true,
+                "en": -1,
+                "dur": 0.01
+              },
+              {
+                "etiqueta": "PARADOS",
+                "valor": 60,
+                "color": "#E07B39",
+                "sinValor": true,
+                "en": -1,
+                "dur": 0.01
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.74,
+      "fondo": "crema",
+      "fuente": "Seguridad Social y Trabajo, 4-11-2026",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "RÉCORD DE AFILIADOS",
+          "y": 330,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "MÁS PARADOS",
+          "y": 610,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 100,
+          "base": 1150,
+          "hMax": 260,
+          "tamEtiqueta": 56,
+          "centros": [
+            300,
+            720
+          ],
+          "barras": [
+            {
+              "etiqueta": "AFILIADOS",
+              "valor": 100,
+              "color": "#2A9D8F",
+              "sinValor": true,
+              "en": -1,
+              "dur": 1.2
+            },
+            {
+              "etiqueta": "PARADOS",
+              "valor": 60,
+              "color": "#E07B39",
+              "sinValor": true,
+              "en": -1,
+              "dur": 1.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 3.74,
+      "fin": 11.18,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "AFILIADOS +186.612 (media mensual)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PARADO REGISTRADO +43.128 (−21.133 en un año)",
+          "y": 500,
+          "en": 3.76,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 186612,
+          "base": 1150,
+          "hMax": 300,
+          "tamEtiqueta": 56,
+          "centros": [
+            300,
+            720
+          ],
+          "barras": [
+            {
+              "etiqueta": "AFILIADOS",
+              "valor": 186612,
+              "color": "#2A9D8F",
+              "sinValor": true,
+              "en": -1,
+              "dur": 0.8
+            },
+            {
+              "etiqueta": "PARADOS",
+              "valor": 43128,
+              "color": "#E07B39",
+              "sinValor": true,
+              "en": 3.86,
+              "dur": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 11.18,
+      "fin": 14.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "AFILIADO = EN ALTA EN LA SEGURIDAD SOCIAL",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaSS",
+          "y": 700,
+          "tam": 560,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 14.46,
+      "fin": 18.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PARADO REGISTRADO = PARADO INSCRITO EN EL SERVICIO DE EMPLEO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "ventanillaP",
+          "y": 720,
+          "tam": 560,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 18.86,
+      "fin": 24.94,
+      "fondo": "crema",
+      "fuente": "Seguridad Social",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "490.586 AFILIADOS EN ALTA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Regularización · fin de octubre",
+          "y": 500,
+          "en": 0.30000000000000004,
+          "tamano": 64
+        },
+        {
+          "tipo": "embudoR",
+          "y": 700,
+          "tiers": [
+            {
+              "valor": 1174978,
+              "en": 99,
+              "color": "#2A9D8F"
+            },
+            {
+              "valor": 557410,
+              "en": 99,
+              "color": "#2A9D8F"
+            },
+            {
+              "valor": 490586,
+              "en": 0.5,
+              "color": "#2A9D8F"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 24.94,
+      "fin": 28.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1.174.978 SOLICITUDES (plazo cerrado el 30-6)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "embudoR",
+          "y": 700,
+          "tiers": [
+            {
+              "valor": 1174978,
+              "en": 0.88,
+              "color": "#E07B39"
+            },
+            {
+              "valor": 557410,
+              "en": 99,
+              "color": "#2A9D8F"
+            },
+            {
+              "valor": 490586,
+              "en": -1,
+              "color": "#2A9D8F"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 28.58,
+      "fin": 32.59,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "557.410 EN ALTA ALGÚN DÍA DESDE ABRIL",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Tres cifras, tres cosas",
+          "y": 570,
+          "en": 2.1799999999999997,
+          "tamano": 64
+        },
+        {
+          "tipo": "embudoR",
+          "y": 700,
+          "tiers": [
+            {
+              "valor": 1174978,
+              "en": -1,
+              "color": "#E07B39"
+            },
+            {
+              "valor": 557410,
+              "en": 0.44000000000000006,
+              "color": "#2A9D8F"
+            },
+            {
+              "valor": 490586,
+              "en": -1,
+              "color": "#2A9D8F"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 32.59,
+      "fin": 35.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿PARO REGISTRADO O AFILIADOS?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 80
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 100,
+          "base": 1150,
+          "hMax": 360,
+          "tamEtiqueta": 56,
+          "centros": [
+            300,
+            720
+          ],
+          "barras": [
+            {
+              "etiqueta": "AFILIADOS",
+              "valor": 100,
+              "color": "#2A9D8F",
+              "sinValor": true,
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "etiqueta": "PARADOS",
+              "valor": 60,
+              "color": "#E07B39",
+              "sinValor": true,
+              "en": -1,
+              "dur": 0.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 35.86,
+      "fin": 39.04,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿PARO REGISTRADO O AFILIADOS?",
+          "tamano": 72,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}
