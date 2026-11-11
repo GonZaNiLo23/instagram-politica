@@ -186,3 +186,7 @@
 - 2026-11-10 15:30 UTC · 2 · @gabrielrufian (sercatalunya, 84 s) · descartado: catalán/castellano, sin tramo limpio
 - 2026-11-10 17:26 UTC: radar sin respuesta (20 min); sin publicación.
 - 2026-11-10 ~19:30 UTC (publicación 20:00 Madrid): sin candidatos (radar devolvió 0 detectados). Sin publicación.
+- 2026-11-11 05:30 UTC (publicación 06:00 Madrid) · 4 · @partidopopular (negligencia continuada Adamuz/Toledo, tramos 0–10,78 y 45,46–53,76 s; subtítulos cotejados con la transcripción; Whisper «Adabuz»→«Adamuz»; opinión atribuida al PP, sin cifras de documentos) · publicado am20261111-0526-pp-negligencia-adamuz
+- 2026-11-11 05:30 UTC · 3 · @vox_es (Abascal-Broncano, 108 s) · descartado: «pactado con los asesinos» sin tramo limpio; un envío por hora
+- 2026-11-11 05:30 UTC · 2 · @vox_es (Garriga, Gerona) · descartado: sin frase clara
+- 2026-11-11 05:30 UTC · 1 · @vox_es (Gerona, sin voz) · descartado: sin habla

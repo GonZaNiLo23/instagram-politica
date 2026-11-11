@@ -84,3 +84,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261110-0740-abascal-machismo-importado | Al minuto: Abascal a Broncano, «el principal machismo es el importado» | publicando (Al minuto horario) |
 | am20261110-1326-abascal-huelga-general | Al minuto: Abascal critica la huelga general | publicando (Al minuto horario) |
 | am20261110-1526-moncloa-decretos-sociales | Al minuto: el Gobierno aprueba decretos sociales (monomarentales y dependencia) | publicando (Al minuto horario) |
+| am20261111-0526-pp-negligencia-adamuz | Al minuto: el PP denuncia «negligencia continuada» en Adamuz | publicando (Al minuto horario) |

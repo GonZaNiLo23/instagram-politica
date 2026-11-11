@@ -1,0 +1,70 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 22.6,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 19.1,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 19.1,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 19.1
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "EL PP DENUNCIA «NEGLIGENCIA CONTINUADA» EN ADAMUZ",
+          "fecha": "11 NOV",
+          "credito": "Vídeo: @partidopopular"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0.2,
+              "fin": 5.0,
+              "texto": "Estamos personados en Adamuz y en el último\naccidente en Toledo"
+            },
+            {
+              "inicio": 5.52,
+              "fin": 10.7,
+              "texto": "y en nuestra opinión esto no es un accidente,\nes una negligencia continuada."
+            },
+            {
+              "inicio": 10.9,
+              "fin": 15.2,
+              "texto": "Vamos a ir hasta el final, vamos a defender\na los que no pueden hablar,"
+            },
+            {
+              "inicio": 15.5,
+              "fin": 19.0,
+              "texto": "que son los muertos y las víctimas,\npor supuesto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 19.1,
+      "fin": 22.6,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "El PP lleva Adamuz y Toledo a los tribunales",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true
+}
