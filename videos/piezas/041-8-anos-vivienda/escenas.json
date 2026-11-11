@@ -1,0 +1,529 @@
+{
+  "plantilla": "flash",
+  "duracion": 43.61,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 80,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 2,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "COMPRAR CASA +52 %",
+            "y": 520,
+            "tamano": 112,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "¿Y EN EUROPA? UE +41 %",
+            "y": 800,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "lineasSerie",
+            "max": 60,
+            "base": 1250,
+            "hMax": 400,
+            "x0": 130,
+            "x1": 830,
+            "series": [
+              {
+                "nombre": "ESPAÑA",
+                "final": 52,
+                "color": "#14213D",
+                "en": -1,
+                "dur": 0.01
+              },
+              {
+                "nombre": "UE",
+                "final": 41,
+                "color": "#8DA0B8",
+                "en": -1,
+                "dur": 0.01,
+                "pos": "abajo"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 2,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "COMPRAR CASA +52 %",
+          "y": 470,
+          "tamano": 112,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "precio de la vivienda · 2018 → 2025 · Eurostat",
+          "y": 710,
+          "en": -1,
+          "tamano": 40
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 60,
+          "base": 1170,
+          "hMax": 340,
+          "x0": 130,
+          "x1": 830,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 52,
+              "color": "#14213D",
+              "en": 0,
+              "dur": 2.2
+            }
+          ]
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿UE?",
+          "y": 830,
+          "en": 3.1799999999999997,
+          "tamano": 110,
+          "x": 80,
+          "color": "#F2B134"
+        }
+      ]
+    },
+    {
+      "inicio": 4.22,
+      "fin": 7.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "UE +41 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ESPAÑA +52 %",
+          "y": 430,
+          "en": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 60,
+          "base": 1170,
+          "hMax": 560,
+          "x0": 130,
+          "x1": 830,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 52,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "nombre": "UE",
+              "final": 41,
+              "color": "#8DA0B8",
+              "en": 0.1,
+              "dur": 1.8,
+              "pos": "abajo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 7.26,
+      "fin": 11.06,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EUROSTAT",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 52
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ESPAÑA 118,6 → 180,6 · UE 114,8 → 161,9",
+          "y": 440,
+          "en": 0.3,
+          "tamano": 44
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 60,
+          "base": 1170,
+          "hMax": 560,
+          "x0": 130,
+          "x1": 830,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 52,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "nombre": "UE",
+              "final": 41,
+              "color": "#8DA0B8",
+              "en": -1,
+              "dur": 0.01,
+              "pos": "abajo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 11.06,
+      "fin": 16.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ÚLTIMO AÑO: +12,2 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2T-2026 frente a 2T-2025",
+          "y": 440,
+          "en": 0.1,
+          "tamano": 44
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Todas las comunidades suben",
+          "y": 540,
+          "en": 1.2,
+          "tamano": 44
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 60,
+          "base": 1170,
+          "hMax": 560,
+          "x0": 130,
+          "x1": 830,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 52,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "nombre": "UE",
+              "final": 41,
+              "color": "#8DA0B8",
+              "en": -1,
+              "dur": 0.01,
+              "pos": "abajo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 16.1,
+      "fin": 18.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "COSTE SALARIAL POR TRABAJADOR +24 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "INE, ETCL · cálculo propio",
+          "y": 530,
+          "en": 0.3,
+          "tamano": 44
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 60,
+          "base": 1170,
+          "hMax": 560,
+          "x0": 130,
+          "x1": 830,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 52,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.01
+            },
+            {
+              "nombre": "UE",
+              "final": 41,
+              "color": "#8DA0B8",
+              "en": -1,
+              "dur": 0.01,
+              "pos": "abajo"
+            },
+            {
+              "nombre": "COSTE SALARIAL",
+              "final": 24,
+              "color": "#F2B134",
+              "en": 0.3,
+              "dur": 1.8,
+              "pos": "abajo",
+              "tam": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 18.62,
+      "fin": 22.25,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ALQUILER (IPC) +11,8 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2018 → 2025 · Eurostat",
+          "y": 430,
+          "en": 0.2,
+          "tamano": 44
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 52,
+          "base": 1170,
+          "hMax": 480,
+          "tamEtiqueta": 44,
+          "w": 180,
+          "centros": [
+            190,
+            510,
+            800
+          ],
+          "barras": [
+            {
+              "etiqueta": "VIVIENDA",
+              "valor": 52,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.01,
+              "prefijo": "+",
+              "sufijo": " %"
+            },
+            {
+              "etiqueta": "ALQUILER",
+              "valor": 11.8,
+              "color": "#F2B134",
+              "en": 0.2,
+              "dur": 1,
+              "prefijo": "+",
+              "sufijo": " %",
+              "dec": true
+            },
+            {
+              "etiqueta": "ZONA EURO",
+              "valor": 14.8,
+              "color": "#8DA0B8",
+              "en": 1,
+              "dur": 1,
+              "prefijo": "+",
+              "sufijo": " %",
+              "dec": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 22.25,
+      "fin": 25.78,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CONTRATOS EN VIGOR, NO SOLO NUEVOS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "contratosSerie",
+          "y": 900,
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 25.78,
+      "fin": 30.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SUELO Y VIVIENDA: COMUNIDADES Y AYUNTAMIENTOS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ESTADO: LEYES Y AYUDAS",
+          "y": 560,
+          "en": 1.2,
+          "tamano": 52
+        },
+        {
+          "tipo": "mapaCcaa",
+          "modo": "uno",
+          "x": 130,
+          "y": 760,
+          "esc": 0.42,
+          "en": 0.1,
+          "tono": "#C9CED8"
+        }
+      ]
+    },
+    {
+      "inicio": 30.54,
+      "fin": 35.98,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LEY DE VIVIENDA (2023)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SEGÚN SU PREÁMBULO: FACILITAR EL ACCESO",
+          "y": 430,
+          "en": 2.3,
+          "tamano": 56
+        },
+        {
+          "tipo": "fichaSerie",
+          "filas": [
+            "BOE, Ley 12/2023"
+          ],
+          "y": 800,
+          "en": 0.3,
+          "tam": 56
+        }
+      ]
+    },
+    {
+      "inicio": 35.98,
+      "fin": 38.51,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NO ES TU ESFUERZO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraFigurasSerie",
+          "y": 960,
+          "en": 0.1,
+          "divide": 1
+        },
+        {
+          "tipo": "sello",
+          "valor": "NO MIDE",
+          "x": 400,
+          "y": 560,
+          "tamano": 72,
+          "desde": 40,
+          "reboteMax": 0,
+          "en": 0.4
+        }
+      ]
+    },
+    {
+      "inicio": 38.51,
+      "fin": 41.55,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿MÁS DIFÍCIL: COMPRAR O ALQUILAR?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "COMPRAR",
+          "b": "ALQUILAR",
+          "y": 840,
+          "en": 0.7
+        }
+      ]
+    },
+    {
+      "inicio": 41.55,
+      "fin": 43.61,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 3
+        }
+      ]
+    }
+  ]
+}

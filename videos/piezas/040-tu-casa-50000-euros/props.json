@@ -1,0 +1,1707 @@
+{
+  "plantilla": "estandar",
+  "duracion": 81.62,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 90,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "HASTA 50.000 € SIN INTERESES",
+            "y": 330,
+            "tamano": 110,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "HOY: NADIE PUEDE PEDIRLOS",
+            "y": 620,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "foto",
+            "src": "f2.jpg",
+            "forma": "rect",
+            "x": 500,
+            "y": 1000,
+            "ancho": 880,
+            "alto": 440,
+            "foco": "50% 30%",
+            "zoom": [
+              1.02,
+              1.02
+            ],
+            "dur": 0.01,
+            "en": -1,
+            "credito": "FDV · CC BY-SA 3.0 · Wikimedia Commons"
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "HASTA 50.000 € SIN INTERESES",
+          "y": 330,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HOY: NADIE PUEDE PEDIRLOS",
+          "y": 830,
+          "en": 1,
+          "tamano": 64
+        },
+        {
+          "tipo": "chequeT",
+          "y": 945,
+          "esc": 0.7
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO",
+            "SOLICITABLE"
+          ],
+          "y": 1000,
+          "x": 470,
+          "tamano": 64,
+          "en": 1.4,
+          "angulo": -4,
+          "desde": 200
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Para primera vivienda habitual con hipoteca · Art. 19 RDL 29/2026"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 5.34,
+      "fin": 11.7,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "TU CASA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 96,
+          "hasta": 2.6100000000000003
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EL MENOR:",
+          "y": 330,
+          "en": 2.66,
+          "tamano": 72
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "20 % DEL VALOR O 50.000 €",
+          "y": 420,
+          "en": 3.2399999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "menorT",
+          "y": 700,
+          "enA": 3.2399999999999998,
+          "enB": 4.720000000000001,
+          "enMenor": 6
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Art. 19.3 RDL 29/2026"
+          ],
+          "en": 2.66
+        }
+      ]
+    },
+    {
+      "inicio": 11.7,
+      "fin": 15.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "0 % · SIN COMISIONES · SE DEVUELVE",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "interesT",
+          "y": 640,
+          "enCero": 0.1,
+          "enSin": 1.1,
+          "enDevuelve": 2.04
+        }
+      ]
+    },
+    {
+      "inicio": 15.62,
+      "fin": 17.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ART. 19 · RDL 29/2026",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "f1.jpg",
+          "forma": "rect",
+          "x": 500,
+          "y": 790,
+          "ancho": 880,
+          "alto": 460,
+          "foco": "50% 30%",
+          "zoom": [
+            1.04,
+            1.16
+          ],
+          "dur": 1.8,
+          "en": 0.1,
+          "credito": "Antonio.velez · CC BY-SA 3.0 es · Wikimedia Commons"
+        }
+      ]
+    },
+    {
+      "inicio": 17.42,
+      "fin": 24.78,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ART. 19 · RDL 29/2026",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.49
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "6 OCT: APROBADO",
+          "y": 330,
+          "en": 1.54,
+          "tamano": 64,
+          "hasta": 3.77
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2 OCT: CAE EL RDL 26/2026",
+          "y": 330,
+          "en": 3.82,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineaTiempo",
+          "y": 850,
+          "hitos": [
+            {
+              "etiqueta": "2 OCT",
+              "detalle": "DEROGADO",
+              "en": 4.42
+            },
+            {
+              "etiqueta": "6 OCT",
+              "detalle": "BOE 7-10",
+              "en": 2.52
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "BOE 7-10 (RDL 29/2026) · BOE-A-2026-20526: derogación del 26/2026 el 2-10 · Art. 19.1 del 26/2026 ya creaba «TU CASA»"
+          ],
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 24.78,
+      "fin": 35.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿POR QUÉ NO PUEDES PEDIRLO?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.7200000000000002
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "FALTA UN ACUERDO DEL CONSEJO DE MINISTROS",
+          "y": 330,
+          "en": 1.77,
+          "tamano": 64,
+          "hasta": 9.01
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ACUERDO: NO CONSTA",
+          "y": 330,
+          "en": 9.06,
+          "tamano": 64
+        },
+        {
+          "tipo": "listaT",
+          "y": 620,
+          "paso": 0,
+          "items": [
+            {
+              "texto": [
+                "Decreto aprobado"
+              ],
+              "estado": "ok",
+              "en": 0.38
+            },
+            {
+              "texto": [
+                "Acuerdo del",
+                "Consejo de",
+                "Ministros"
+              ],
+              "estado": "no",
+              "en": 2.18,
+              "parpadea": true
+            },
+            {
+              "texto": [
+                "ICO abre solicitud"
+              ],
+              "estado": "no",
+              "en": 9.06
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Art. 19.5: objeto, beneficiarios, límites, características e importe inicial"
+          ],
+          "en": 4.26,
+          "hasta": 8.01
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Revisado el 11-11-2026 en BOE, Congreso y prensa"
+          ],
+          "en": 8.06
+        }
+      ]
+    },
+    {
+      "inicio": 35.58,
+      "fin": 48.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LAS CORTES, DISUELTAS: DECIDE LA DIPUTACIÓN PERMANENTE",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.53
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "VOTACIÓN: JUEVES 12 NOV",
+          "y": 330,
+          "en": 4.58,
+          "tamano": 64,
+          "hasta": 6.7700000000000005
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SI NO SE CONVALIDA: CAE",
+          "y": 330,
+          "en": 6.82,
+          "tamano": 64,
+          "hasta": 9.889999999999999
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SI SE CONVALIDA: FALTA EL ACUERDO",
+          "y": 330,
+          "en": 9.94,
+          "tamano": 64
+        },
+        {
+          "tipo": "diputT",
+          "y": 650,
+          "enApaga": 0.8,
+          "enFlechas": 6.82,
+          "enSi": 9.94
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "CE, arts. 78 y 86.2"
+          ],
+          "en": 0.2,
+          "hasta": 4.53
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Orden del día, Diputación Permanente, sesión n.º 10 · Congreso"
+          ],
+          "en": 4.58
+        }
+      ]
+    },
+    {
+      "inicio": 48.46,
+      "fin": 58.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HOY SÍ: AVAL ICO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 2.6100000000000003
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "NO ES DINERO: GARANTÍA PARCIAL DE LA HIPOTECA",
+          "y": 330,
+          "en": 2.66,
+          "tamano": 64,
+          "hasta": 5.97
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "≤ 35 AÑOS O FAMILIAS CON MENORES",
+          "y": 330,
+          "en": 6.02,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetasT",
+          "y": 700,
+          "enA": 0.2,
+          "enB": 1.46,
+          "enLuz": 1.52
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "«El plazo para formalizar… finalizará el 31 de diciembre de 2027» · ICO"
+          ],
+          "en": 0.2,
+          "hasta": 4.6
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cubre hasta el 20 % del préstamo, o el 25 % con certificado energético D o mejor"
+          ],
+          "en": 4.6
+        }
+      ]
+    },
+    {
+      "inicio": 58.5,
+      "fin": 60.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "TU CASA TIENE UNA CONDICIÓN",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "f2.jpg",
+          "forma": "rect",
+          "x": 500,
+          "y": 790,
+          "ancho": 880,
+          "alto": 440,
+          "foco": "50% 30%",
+          "zoom": [
+            1.02,
+            1.12
+          ],
+          "dur": 1.96,
+          "en": 0.1,
+          "credito": "FDV · CC BY-SA 3.0 · Wikimedia Commons"
+        }
+      ]
+    },
+    {
+      "inicio": 60.46,
+      "fin": 69.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PRECIO MÁXIMO DE VENTA, PERMANENTE",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.9699999999999998
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "VENTAS POSTERIORES:",
+          "y": 330,
+          "en": 4.02,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PRECIO DE COMPRA + IPC, COMO MÁXIMO",
+          "y": 420,
+          "en": 5.28,
+          "tamano": 64
+        },
+        {
+          "tipo": "topeT",
+          "y": 680,
+          "enCandado": 0.66,
+          "enTope": 4.22
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Art. 19.13 «quedarán sujetas permanentemente a un precio máximo de transmisión»"
+          ],
+          "en": 0.1,
+          "hasta": 3.9699999999999998
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Se inscribe en el Registro de la Propiedad · puede sumarse el valor de ciertas rehabilitaciones"
+          ],
+          "en": 4.02
+        }
+      ]
+    },
+    {
+      "inicio": 69.46,
+      "fin": 73.06,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EN EL BOE, NO EN TU BANCO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "chequeT",
+          "y": 780,
+          "zoom": false,
+          "esc": 0.8
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO",
+            "SOLICITABLE"
+          ],
+          "y": 1030,
+          "x": 470,
+          "tamano": 64,
+          "en": 2.5,
+          "angulo": -4,
+          "desde": 300
+        }
+      ]
+    },
+    {
+      "inicio": 73.06,
+      "fin": 78.41,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿PRECIO MÁXIMO A CAMBIO DE 50.000 €?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "botonesT",
+          "y": 760,
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 78.41,
+      "fin": 81.62,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿PRECIO MÁXIMO A CAMBIO DE 50.000 €?",
+          "tamano": 72,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "040-tu-casa-50000-euros",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Hasta",
+      "inicio": 0,
+      "fin": 0.2
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 0.24,
+      "fin": 0.752
+    },
+    {
+      "t": "mil",
+      "inicio": 0.8,
+      "fin": 0.987
+    },
+    {
+      "t": "euros",
+      "inicio": 1.04,
+      "fin": 1.3
+    },
+    {
+      "t": "sin",
+      "inicio": 1.36,
+      "fin": 1.493
+    },
+    {
+      "t": "intereses",
+      "inicio": 1.52,
+      "fin": 2.02
+    },
+    {
+      "t": "para",
+      "inicio": 2.08,
+      "fin": 2.24
+    },
+    {
+      "t": "tu",
+      "inicio": 2.32,
+      "fin": 2.48
+    },
+    {
+      "t": "casa…",
+      "inicio": 2.613,
+      "fin": 3.28
+    },
+    {
+      "t": "Hoy",
+      "inicio": 3.32,
+      "fin": 3.52
+    },
+    {
+      "t": "nadie",
+      "inicio": 3.84,
+      "fin": 4.16
+    },
+    {
+      "t": "puede",
+      "inicio": 4.32,
+      "fin": 4.56
+    },
+    {
+      "t": "pedirlos.",
+      "inicio": 4.64,
+      "fin": 5.28
+    },
+    {
+      "t": "Se",
+      "inicio": 5.44,
+      "fin": 5.52
+    },
+    {
+      "t": "llama",
+      "inicio": 5.6,
+      "fin": 5.84
+    },
+    {
+      "t": "Tu",
+      "inicio": 6.08,
+      "fin": 6.16
+    },
+    {
+      "t": "Casa.",
+      "inicio": 6.24,
+      "fin": 6.84
+    },
+    {
+      "t": "Prestan",
+      "inicio": 7.04,
+      "fin": 7.44
+    },
+    {
+      "t": "lo",
+      "inicio": 7.48,
+      "fin": 7.52
+    },
+    {
+      "t": "que",
+      "inicio": 7.6,
+      "fin": 7.68
+    },
+    {
+      "t": "sea",
+      "inicio": 7.8,
+      "fin": 7.92
+    },
+    {
+      "t": "menor:",
+      "inicio": 8,
+      "fin": 8.48
+    },
+    {
+      "t": "el",
+      "inicio": 8.56,
+      "fin": 8.64
+    },
+    {
+      "t": "veinte",
+      "inicio": 8.68,
+      "fin": 8.88
+    },
+    {
+      "t": "por",
+      "inicio": 8.96,
+      "fin": 9.04
+    },
+    {
+      "t": "ciento",
+      "inicio": 9.12,
+      "fin": 9.28
+    },
+    {
+      "t": "del",
+      "inicio": 9.36,
+      "fin": 9.44
+    },
+    {
+      "t": "valor",
+      "inicio": 9.52,
+      "fin": 9.84
+    },
+    {
+      "t": "o",
+      "inicio": 10,
+      "fin": 10.08
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 10.16,
+      "fin": 10.72
+    },
+    {
+      "t": "mil",
+      "inicio": 10.8,
+      "fin": 10.96
+    },
+    {
+      "t": "euros.",
+      "inicio": 11.04,
+      "fin": 11.76
+    },
+    {
+      "t": "Cero",
+      "inicio": 11.8,
+      "fin": 11.92
+    },
+    {
+      "t": "interés,",
+      "inicio": 12,
+      "fin": 12.72
+    },
+    {
+      "t": "sin",
+      "inicio": 12.8,
+      "fin": 12.88
+    },
+    {
+      "t": "comisiones,",
+      "inicio": 12.96,
+      "fin": 13.76
+    },
+    {
+      "t": "pero",
+      "inicio": 13.84,
+      "fin": 14
+    },
+    {
+      "t": "hay",
+      "inicio": 14.24,
+      "fin": 14.4
+    },
+    {
+      "t": "que",
+      "inicio": 14.48,
+      "fin": 14.56
+    },
+    {
+      "t": "devolverlo.",
+      "inicio": 14.64,
+      "fin": 15.6
+    },
+    {
+      "t": "Está",
+      "inicio": 15.72,
+      "fin": 15.88
+    },
+    {
+      "t": "en",
+      "inicio": 15.92,
+      "fin": 16
+    },
+    {
+      "t": "el",
+      "inicio": 16.04,
+      "fin": 16.08
+    },
+    {
+      "t": "artículo",
+      "inicio": 16.16,
+      "fin": 16.56
+    },
+    {
+      "t": "diecinueve",
+      "inicio": 16.64,
+      "fin": 17.04
+    },
+    {
+      "t": "del",
+      "inicio": 17.12,
+      "fin": 17.28
+    },
+    {
+      "t": "decreto",
+      "inicio": 17.36,
+      "fin": 17.76
+    },
+    {
+      "t": "ley",
+      "inicio": 17.84,
+      "fin": 17.92
+    },
+    {
+      "t": "veintinueve.",
+      "inicio": 17.96,
+      "fin": 18.88
+    },
+    {
+      "t": "El",
+      "inicio": 18.96,
+      "fin": 19
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 19.04,
+      "fin": 19.44
+    },
+    {
+      "t": "lo",
+      "inicio": 19.52,
+      "fin": 19.6
+    },
+    {
+      "t": "aprobó",
+      "inicio": 19.68,
+      "fin": 20
+    },
+    {
+      "t": "el",
+      "inicio": 20.04,
+      "fin": 20.08
+    },
+    {
+      "t": "seis",
+      "inicio": 20.24,
+      "fin": 20.36
+    },
+    {
+      "t": "de",
+      "inicio": 20.4,
+      "fin": 20.48
+    },
+    {
+      "t": "octubre.",
+      "inicio": 20.6,
+      "fin": 21.2
+    },
+    {
+      "t": "El",
+      "inicio": 21.24,
+      "fin": 21.28
+    },
+    {
+      "t": "Congreso",
+      "inicio": 21.36,
+      "fin": 21.76
+    },
+    {
+      "t": "había",
+      "inicio": 21.84,
+      "fin": 22
+    },
+    {
+      "t": "tumbado",
+      "inicio": 22.08,
+      "fin": 22.4
+    },
+    {
+      "t": "antes",
+      "inicio": 22.6,
+      "fin": 22.8
+    },
+    {
+      "t": "otro",
+      "inicio": 22.88,
+      "fin": 23.04
+    },
+    {
+      "t": "que",
+      "inicio": 23.12,
+      "fin": 23.28
+    },
+    {
+      "t": "también",
+      "inicio": 23.36,
+      "fin": 23.68
+    },
+    {
+      "t": "lo",
+      "inicio": 23.72,
+      "fin": 23.76
+    },
+    {
+      "t": "incluía.",
+      "inicio": 23.84,
+      "fin": 24.4
+    },
+    {
+      "t": "¿Por",
+      "inicio": 24.88,
+      "fin": 24.96
+    },
+    {
+      "t": "qué",
+      "inicio": 25.04,
+      "fin": 25.12
+    },
+    {
+      "t": "no",
+      "inicio": 25.16,
+      "fin": 25.2
+    },
+    {
+      "t": "puedes",
+      "inicio": 25.28,
+      "fin": 25.52
+    },
+    {
+      "t": "pedirlo?",
+      "inicio": 25.6,
+      "fin": 26
+    },
+    {
+      "t": "Falta",
+      "inicio": 26.4,
+      "fin": 26.72
+    },
+    {
+      "t": "un",
+      "inicio": 26.8,
+      "fin": 26.88
+    },
+    {
+      "t": "acuerdo",
+      "inicio": 26.96,
+      "fin": 27.28
+    },
+    {
+      "t": "del",
+      "inicio": 27.36,
+      "fin": 27.44
+    },
+    {
+      "t": "Consejo",
+      "inicio": 27.52,
+      "fin": 27.92
+    },
+    {
+      "t": "de",
+      "inicio": 27.96,
+      "fin": 28
+    },
+    {
+      "t": "Ministros.",
+      "inicio": 28.08,
+      "fin": 28.84
+    },
+    {
+      "t": "Según",
+      "inicio": 29.04,
+      "fin": 29.28
+    },
+    {
+      "t": "el",
+      "inicio": 29.32,
+      "fin": 29.36
+    },
+    {
+      "t": "artículo,",
+      "inicio": 29.44,
+      "fin": 30
+    },
+    {
+      "t": "concretará",
+      "inicio": 30.08,
+      "fin": 30.56
+    },
+    {
+      "t": "beneficiarios,",
+      "inicio": 30.64,
+      "fin": 31.68
+    },
+    {
+      "t": "límites",
+      "inicio": 31.76,
+      "fin": 32.24
+    },
+    {
+      "t": "e",
+      "inicio": 32.32,
+      "fin": 32.4
+    },
+    {
+      "t": "importe",
+      "inicio": 32.48,
+      "fin": 32.88
+    },
+    {
+      "t": "inicial.",
+      "inicio": 32.96,
+      "fin": 33.44
+    },
+    {
+      "t": "No",
+      "inicio": 33.84,
+      "fin": 33.92
+    },
+    {
+      "t": "consta",
+      "inicio": 34,
+      "fin": 34.36
+    },
+    {
+      "t": "que",
+      "inicio": 34.4,
+      "fin": 34.48
+    },
+    {
+      "t": "esté",
+      "inicio": 34.56,
+      "fin": 34.72
+    },
+    {
+      "t": "aprobado.",
+      "inicio": 34.8,
+      "fin": 35.36
+    },
+    {
+      "t": "Con",
+      "inicio": 35.68,
+      "fin": 35.76
+    },
+    {
+      "t": "las",
+      "inicio": 35.84,
+      "fin": 35.92
+    },
+    {
+      "t": "Cortes",
+      "inicio": 36,
+      "fin": 36.32
+    },
+    {
+      "t": "disueltas,",
+      "inicio": 36.4,
+      "fin": 36.96
+    },
+    {
+      "t": "tiene",
+      "inicio": 37,
+      "fin": 37.2
+    },
+    {
+      "t": "que",
+      "inicio": 37.28,
+      "fin": 37.36
+    },
+    {
+      "t": "convalidar",
+      "inicio": 37.44,
+      "fin": 37.84
+    },
+    {
+      "t": "el",
+      "inicio": 37.92,
+      "fin": 37.96
+    },
+    {
+      "t": "decreto",
+      "inicio": 38,
+      "fin": 38.4
+    },
+    {
+      "t": "la",
+      "inicio": 38.48,
+      "fin": 38.56
+    },
+    {
+      "t": "Diputación",
+      "inicio": 38.6,
+      "fin": 39.12
+    },
+    {
+      "t": "Permanente.",
+      "inicio": 39.2,
+      "fin": 39.84
+    },
+    {
+      "t": "Lo",
+      "inicio": 40.16,
+      "fin": 40.24
+    },
+    {
+      "t": "vota",
+      "inicio": 40.32,
+      "fin": 40.56
+    },
+    {
+      "t": "el",
+      "inicio": 40.6,
+      "fin": 40.64
+    },
+    {
+      "t": "jueves",
+      "inicio": 40.72,
+      "fin": 41.04
+    },
+    {
+      "t": "doce",
+      "inicio": 41.2,
+      "fin": 41.44
+    },
+    {
+      "t": "de",
+      "inicio": 41.52,
+      "fin": 41.56
+    },
+    {
+      "t": "noviembre.",
+      "inicio": 41.6,
+      "fin": 42.24
+    },
+    {
+      "t": "Si",
+      "inicio": 42.4,
+      "fin": 42.48
+    },
+    {
+      "t": "no",
+      "inicio": 42.56,
+      "fin": 42.64
+    },
+    {
+      "t": "lo",
+      "inicio": 42.68,
+      "fin": 42.72
+    },
+    {
+      "t": "convalida,",
+      "inicio": 42.8,
+      "fin": 43.52
+    },
+    {
+      "t": "cae,",
+      "inicio": 43.68,
+      "fin": 44.08
+    },
+    {
+      "t": "y",
+      "inicio": 44.12,
+      "fin": 44.16
+    },
+    {
+      "t": "el",
+      "inicio": 44.2,
+      "fin": 44.24
+    },
+    {
+      "t": "préstamo",
+      "inicio": 44.32,
+      "fin": 44.72
+    },
+    {
+      "t": "con",
+      "inicio": 44.8,
+      "fin": 44.88
+    },
+    {
+      "t": "él.",
+      "inicio": 44.96,
+      "fin": 45.12
+    },
+    {
+      "t": "Y",
+      "inicio": 45.52,
+      "fin": 45.547
+    },
+    {
+      "t": "aunque",
+      "inicio": 45.573,
+      "fin": 45.76
+    },
+    {
+      "t": "lo",
+      "inicio": 45.8,
+      "fin": 45.84
+    },
+    {
+      "t": "convalide,",
+      "inicio": 45.92,
+      "fin": 46.56
+    },
+    {
+      "t": "seguirá",
+      "inicio": 46.64,
+      "fin": 46.96
+    },
+    {
+      "t": "faltando",
+      "inicio": 47.04,
+      "fin": 47.44
+    },
+    {
+      "t": "ese",
+      "inicio": 47.56,
+      "fin": 47.68
+    },
+    {
+      "t": "acuerdo.",
+      "inicio": 47.76,
+      "fin": 48.16
+    },
+    {
+      "t": "Lo",
+      "inicio": 48.56,
+      "fin": 48.64
+    },
+    {
+      "t": "que",
+      "inicio": 48.68,
+      "fin": 48.72
+    },
+    {
+      "t": "sí",
+      "inicio": 48.8,
+      "fin": 48.88
+    },
+    {
+      "t": "existe",
+      "inicio": 48.96,
+      "fin": 49.36
+    },
+    {
+      "t": "hoy",
+      "inicio": 49.4,
+      "fin": 49.68
+    },
+    {
+      "t": "es",
+      "inicio": 49.76,
+      "fin": 49.84
+    },
+    {
+      "t": "el",
+      "inicio": 49.92,
+      "fin": 50
+    },
+    {
+      "t": "aval",
+      "inicio": 50.08,
+      "fin": 50.24
+    },
+    {
+      "t": "del",
+      "inicio": 50.32,
+      "fin": 50.4
+    },
+    {
+      "t": "ICO.",
+      "inicio": 50.48,
+      "fin": 50.8
+    },
+    {
+      "t": "No",
+      "inicio": 51.12,
+      "fin": 51.2
+    },
+    {
+      "t": "te",
+      "inicio": 51.28,
+      "fin": 51.36
+    },
+    {
+      "t": "da",
+      "inicio": 51.4,
+      "fin": 51.44
+    },
+    {
+      "t": "dinero:",
+      "inicio": 51.52,
+      "fin": 52.16
+    },
+    {
+      "t": "garantiza",
+      "inicio": 52.24,
+      "fin": 52.8
+    },
+    {
+      "t": "una",
+      "inicio": 52.88,
+      "fin": 52.96
+    },
+    {
+      "t": "parte",
+      "inicio": 53.04,
+      "fin": 53.32
+    },
+    {
+      "t": "de",
+      "inicio": 53.36,
+      "fin": 53.44
+    },
+    {
+      "t": "tu",
+      "inicio": 53.52,
+      "fin": 53.56
+    },
+    {
+      "t": "hipoteca.",
+      "inicio": 53.6,
+      "fin": 54.16
+    },
+    {
+      "t": "Es",
+      "inicio": 54.48,
+      "fin": 54.56
+    },
+    {
+      "t": "para",
+      "inicio": 54.64,
+      "fin": 54.8
+    },
+    {
+      "t": "jóvenes",
+      "inicio": 54.88,
+      "fin": 55.2
+    },
+    {
+      "t": "de",
+      "inicio": 55.28,
+      "fin": 55.36
+    },
+    {
+      "t": "hasta",
+      "inicio": 55.44,
+      "fin": 55.6
+    },
+    {
+      "t": "treinta",
+      "inicio": 55.68,
+      "fin": 55.92
+    },
+    {
+      "t": "y",
+      "inicio": 55.96,
+      "fin": 56
+    },
+    {
+      "t": "cinco",
+      "inicio": 56.08,
+      "fin": 56.24
+    },
+    {
+      "t": "años",
+      "inicio": 56.4,
+      "fin": 56.72
+    },
+    {
+      "t": "o",
+      "inicio": 56.8,
+      "fin": 56.88
+    },
+    {
+      "t": "familias",
+      "inicio": 56.96,
+      "fin": 57.44
+    },
+    {
+      "t": "con",
+      "inicio": 57.52,
+      "fin": 57.6
+    },
+    {
+      "t": "menores…",
+      "inicio": 57.68,
+      "fin": 58.56
+    },
+    {
+      "t": "Tu",
+      "inicio": 58.6,
+      "fin": 58.64
+    },
+    {
+      "t": "Casa",
+      "inicio": 58.72,
+      "fin": 59.04
+    },
+    {
+      "t": "tiene",
+      "inicio": 59.12,
+      "fin": 59.36
+    },
+    {
+      "t": "una",
+      "inicio": 59.44,
+      "fin": 59.6
+    },
+    {
+      "t": "condición.",
+      "inicio": 59.68,
+      "fin": 60.24
+    },
+    {
+      "t": "La",
+      "inicio": 60.56,
+      "fin": 60.64
+    },
+    {
+      "t": "casa",
+      "inicio": 60.72,
+      "fin": 61.04
+    },
+    {
+      "t": "queda",
+      "inicio": 61.12,
+      "fin": 61.36
+    },
+    {
+      "t": "sujeta",
+      "inicio": 61.4,
+      "fin": 61.76
+    },
+    {
+      "t": "de",
+      "inicio": 61.84,
+      "fin": 61.92
+    },
+    {
+      "t": "forma",
+      "inicio": 62,
+      "fin": 62.24
+    },
+    {
+      "t": "permanente",
+      "inicio": 62.32,
+      "fin": 62.96
+    },
+    {
+      "t": "a",
+      "inicio": 63,
+      "fin": 63.04
+    },
+    {
+      "t": "un",
+      "inicio": 63.12,
+      "fin": 63.2
+    },
+    {
+      "t": "precio",
+      "inicio": 63.28,
+      "fin": 63.6
+    },
+    {
+      "t": "máximo.",
+      "inicio": 63.64,
+      "fin": 64.4
+    },
+    {
+      "t": "En",
+      "inicio": 64.48,
+      "fin": 64.56
+    },
+    {
+      "t": "las",
+      "inicio": 64.6,
+      "fin": 64.64
+    },
+    {
+      "t": "ventas",
+      "inicio": 64.72,
+      "fin": 65.04
+    },
+    {
+      "t": "posteriores,",
+      "inicio": 65.2,
+      "fin": 65.76
+    },
+    {
+      "t": "como",
+      "inicio": 65.84,
+      "fin": 65.92
+    },
+    {
+      "t": "máximo,",
+      "inicio": 66,
+      "fin": 66.64
+    },
+    {
+      "t": "el",
+      "inicio": 66.72,
+      "fin": 66.88
+    },
+    {
+      "t": "precio",
+      "inicio": 67,
+      "fin": 67.12
+    },
+    {
+      "t": "de",
+      "inicio": 67.2,
+      "fin": 67.28
+    },
+    {
+      "t": "compra",
+      "inicio": 67.36,
+      "fin": 67.6
+    },
+    {
+      "t": "actualizado",
+      "inicio": 67.76,
+      "fin": 68.24
+    },
+    {
+      "t": "con",
+      "inicio": 68.32,
+      "fin": 68.4
+    },
+    {
+      "t": "la",
+      "inicio": 68.44,
+      "fin": 68.48
+    },
+    {
+      "t": "inflación.",
+      "inicio": 68.56,
+      "fin": 69.52
+    },
+    {
+      "t": "Hoy,",
+      "inicio": 69.56,
+      "fin": 69.867
+    },
+    {
+      "t": "el",
+      "inicio": 69.893,
+      "fin": 69.92
+    },
+    {
+      "t": "préstamo",
+      "inicio": 70.08,
+      "fin": 70.48
+    },
+    {
+      "t": "está",
+      "inicio": 70.56,
+      "fin": 70.72
+    },
+    {
+      "t": "en",
+      "inicio": 70.76,
+      "fin": 70.8
+    },
+    {
+      "t": "el",
+      "inicio": 70.84,
+      "fin": 70.88
+    },
+    {
+      "t": "BOE,",
+      "inicio": 70.96,
+      "fin": 71.44
+    },
+    {
+      "t": "pero",
+      "inicio": 71.52,
+      "fin": 71.68
+    },
+    {
+      "t": "no",
+      "inicio": 71.76,
+      "fin": 71.84
+    },
+    {
+      "t": "se",
+      "inicio": 71.92,
+      "fin": 72.08
+    },
+    {
+      "t": "puede",
+      "inicio": 72.16,
+      "fin": 72.4
+    },
+    {
+      "t": "pedir.",
+      "inicio": 72.48,
+      "fin": 73.12
+    },
+    {
+      "t": "¿Aceptarías",
+      "inicio": 73.16,
+      "fin": 73.84
+    },
+    {
+      "t": "un",
+      "inicio": 73.92,
+      "fin": 74
+    },
+    {
+      "t": "precio",
+      "inicio": 74.16,
+      "fin": 74.32
+    },
+    {
+      "t": "máximo",
+      "inicio": 74.373,
+      "fin": 74.72
+    },
+    {
+      "t": "de",
+      "inicio": 74.76,
+      "fin": 74.8
+    },
+    {
+      "t": "venta",
+      "inicio": 74.88,
+      "fin": 75.2
+    },
+    {
+      "t": "a",
+      "inicio": 75.36,
+      "fin": 75.44
+    },
+    {
+      "t": "cambio",
+      "inicio": 75.52,
+      "fin": 75.76
+    },
+    {
+      "t": "de",
+      "inicio": 75.84,
+      "fin": 76
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 76.04,
+      "fin": 76.48
+    },
+    {
+      "t": "mil",
+      "inicio": 76.64,
+      "fin": 76.72
+    },
+    {
+      "t": "euros",
+      "inicio": 76.8,
+      "fin": 77.12
+    },
+    {
+      "t": "sin",
+      "inicio": 77.2,
+      "fin": 77.28
+    },
+    {
+      "t": "intereses?",
+      "inicio": 77.44,
+      "fin": 78.48
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 78.507,
+      "fin": 78.96
+    },
+    {
+      "t": "para",
+      "inicio": 79.04,
+      "fin": 79.12
+    },
+    {
+      "t": "estar",
+      "inicio": 79.24,
+      "fin": 79.36
+    },
+    {
+      "t": "informado.",
+      "inicio": 79.44,
+      "fin": 80.16
+    }
+  ]
+}

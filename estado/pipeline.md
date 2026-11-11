@@ -85,3 +85,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261110-1326-abascal-huelga-general | Al minuto: Abascal critica la huelga general | publicando (Al minuto horario) |
 | am20261110-1526-moncloa-decretos-sociales | Al minuto: el Gobierno aprueba decretos sociales (monomarentales y dependencia) | publicando (Al minuto horario) |
 | am20261111-0526-pp-negligencia-adamuz | Al minuto: el PP denuncia «negligencia continuada» en Adamuz | publicando (Al minuto horario) |
+| 041 | 8-anos-vivienda | 💶 Economía · serie 8 años | Flash | programado | 1 | 3 | 2026-11-11 13:30 (cola, aprobación permanente) | v3 APROBADO 9/10 |
