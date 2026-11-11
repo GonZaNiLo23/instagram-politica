@@ -202,10 +202,10 @@ export const DiputT: React.FC<{y?: number; enApaga?: number; enFlechas?: number;
       <g opacity={kr} transform={`translate(0 ${20 * (1 - kr)})`}>
         <path d="M610,350 q130,10 220,80" fill="none" stroke={C.tinta} strokeWidth={12} strokeLinecap="round" />
         <polygon points="800,404 856,402 830,452" fill={C.tinta} />
-        <g transform="translate(740 520)">
-          <rect x={-190} y={-60} width={380} height={120} rx={26} fill={C.crema} stroke={C.tinta} strokeWidth={8} />
-          <text x={0} y={-6} textAnchor="middle" fontFamily={F.titular} fontSize={64} fill={C.tinta}>ACUERDO</text>
-          <g opacity={ks} transform={`translate(0 ${ (1 - ks) * -20})`}><circle cx={176} cy={-60} r={36} fill={C.teja} stroke={C.tinta} strokeWidth={6} /><g stroke={C.crema} strokeWidth={10} strokeLinecap="round"><line x1={163} y1={-73} x2={189} y2={-47} /><line x1={189} y1={-73} x2={163} y2={-47} /></g></g>
+        <g transform="translate(720 520)">
+          <rect x={-215} y={-60} width={430} height={120} rx={26} fill={C.crema} stroke={C.tinta} strokeWidth={8} />
+          <text x={-12} y={14} textAnchor="middle" fontFamily={F.titular} fontSize={58} fill={C.tinta}>ACUERDO</text>
+          <g opacity={ks} transform={`translate(0 ${ (1 - ks) * -20})`}><circle cx={190} cy={-78} r={36} fill={C.teja} stroke={C.tinta} strokeWidth={6} /><g stroke={C.crema} strokeWidth={10} strokeLinecap="round"><line x1={177} y1={-91} x2={203} y2={-65} /><line x1={203} y1={-91} x2={177} y2={-65} /></g></g>
         </g>
       </g>
     </g>,

@@ -24,9 +24,9 @@ const b1 = 0, b2 = S(13), b2c = S(32), b2b = S(40), b3a = S(67), b3b = S(93), b3
 // 1 · Gancho
 esc(b1, b2, {fondo: 'crema'}, [
   {tipo: 'gancho', texto: `HASTA 50.000${NB}€ SIN${NB}INTERESES`, y: 330, tamano: 110, en: -1},
-  rot(`HOY: NADIE PUEDE PEDIRLOS`, 830, 1.0),
-  {tipo: 'chequeT', y: 945, esc: 0.7},
-  {tipo: 'selloTexto', lineas: ['NO', 'SOLICITABLE'], y: 1000, x: 470, tamano: 64, en: 1.4, angulo: -4, desde: 200},
+  rot(`HOY: NADIE PUEDE PEDIRLOS`, 700, 1.0),
+  {tipo: 'chequeT', y: 835, esc: 0.8},
+  {tipo: 'selloTexto', lineas: ['NO SOLICITABLE'], y: 1095, x: 520, tamano: 50, en: 1.4, angulo: -4, desde: 100},
   nota([`Para primera vivienda habitual con hipoteca · Art. 19 RDL 29/2026`], 0.3),
 ]);
 // 2 · Primera prueba (Tu Casa / el menor)
@@ -77,7 +77,7 @@ esc(b3b, b3c, {fondo: 'crema'}, [
   rot(`VOTACIÓN: JUEVES 12 NOV`, 330, rel(b3b, 105), {hasta: rel(b3b, 112) - 0.05}),
   rot(`SI NO SE CONVALIDA: CAE`, 330, rel(b3b, 112), {hasta: rel(b3b, 122) - 0.05}),
   rot(`SI SE CONVALIDA: FALTA EL ACUERDO`, 330, rel(b3b, 122)),
-  {tipo: 'diputT', y: 650, enApaga: 0.8, enFlechas: rel(b3b, 112), enSi: rel(b3b, 122)},
+  {tipo: 'diputT', y: 590, enApaga: 0.8, enFlechas: rel(b3b, 112), enSi: rel(b3b, 122)},
   nota(['CE, arts. 78 y 86.2'], 0.2, rel(b3b, 105) - 0.05),
   nota(['Orden del día, Diputación Permanente, sesión n.º 10 · Congreso'], rel(b3b, 105)),
 ]);
@@ -108,7 +108,7 @@ esc(b4d, b5, {fondo: 'crema'}, [
 esc(b5, b5b, {fondo: 'crema'}, [
   rot(`EN EL BOE, NO EN TU BANCO`, 330, 0.05),
   {tipo: 'chequeT', y: 780, zoom: false, esc: 0.8},
-  {tipo: 'selloTexto', lineas: ['NO', 'SOLICITABLE'], y: 1030, x: 470, tamano: 64, en: rel(b5, 203) - 0.2, angulo: -4, desde: 300},
+  {tipo: 'selloTexto', lineas: ['NO SOLICITABLE'], y: 1075, x: 540, tamano: 46, en: rel(b5, 203) - 0.2, angulo: -4, desde: 60},
 ]);
 // 5 · Pregunta A/B
 esc(b5b, b6, {fondo: 'crema'}, [

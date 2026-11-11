@@ -68,27 +68,26 @@
         {
           "tipo": "rotulo",
           "texto": "HOY: NADIE PUEDE PEDIRLOS",
-          "y": 830,
+          "y": 700,
           "en": 1,
           "tamano": 64
         },
         {
           "tipo": "chequeT",
-          "y": 945,
-          "esc": 0.7
+          "y": 835,
+          "esc": 0.8
         },
         {
           "tipo": "selloTexto",
           "lineas": [
-            "NO",
-            "SOLICITABLE"
+            "NO SOLICITABLE"
           ],
-          "y": 1000,
-          "x": 470,
-          "tamano": 64,
+          "y": 1095,
+          "x": 520,
+          "tamano": 50,
           "en": 1.4,
           "angulo": -4,
-          "desde": 200
+          "desde": 100
         },
         {
           "tipo": "notas",
@@ -361,7 +360,7 @@
         },
         {
           "tipo": "diputT",
-          "y": 650,
+          "y": 590,
           "enApaga": 0.8,
           "enFlechas": 6.82,
           "enSi": 9.94
@@ -537,15 +536,14 @@
         {
           "tipo": "selloTexto",
           "lineas": [
-            "NO",
-            "SOLICITABLE"
+            "NO SOLICITABLE"
           ],
-          "y": 1030,
-          "x": 470,
-          "tamano": 64,
+          "y": 1075,
+          "x": 540,
+          "tamano": 46,
           "en": 2.5,
           "angulo": -4,
-          "desde": 300
+          "desde": 60
         }
       ]
     },
