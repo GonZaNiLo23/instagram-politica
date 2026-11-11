@@ -1,5 +1,834 @@
 {
- "generado": "2026-11-11T07:30:30.830Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-11T11:30:01.138Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-18135830773739297",
+   "fuente": "instagram",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1258688,
+   "fecha": "2026-11-11T10:25:24+0000",
+   "horas": 1.1,
+   "me_gusta": 2411,
+   "comentarios": 79,
+   "viral": 189.5,
+   "enlace": "https://www.instagram.com/reel/DfmQrySOVfw/",
+   "texto": "🔴 jorge_buxade sobre la entrevista de Broncano a Abascal:\n\n“RTVE tiene secuestrados 40 minutos de entrevista y se niega a entregarlos a VOX y a publicarlos en su página web. \n\nSon 40 minutos donde había preguntas relativas a inmigración, sanidad y política energética. Han inclumplido los pactos previos”.",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 50.8,
+   "archivo": "ig-18135830773739297.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 3.92,
+     "texto": "La televisión española tiene secuestrada 40 minutos de entrevista,"
+    },
+    {
+     "inicio": 4.34,
+     "fin": 6.12,
+     "texto": "que se niegan a entregar a Vox"
+    },
+    {
+     "inicio": 6.12,
+     "fin": 9.16,
+     "texto": "y que se niegan ni siquiera a publicarlo en su página web."
+    },
+    {
+     "inicio": 9.64,
+     "fin": 13.7,
+     "texto": "Si tú has hecho alguna entrevista que dura 120 minutos,"
+    },
+    {
+     "inicio": 13.92,
+     "fin": 16.42,
+     "texto": "secuestras 40 minutos, decides lo que editas,"
+    },
+    {
+     "inicio": 16.54,
+     "fin": 18.62,
+     "texto": "decides cómo lo ditas y publicas eso."
+    },
+    {
+     "inicio": 19.36,
+     "fin": 23.84,
+     "texto": "Ese es el gran problema y es un gravísimo asunto de democracia"
+    },
+    {
+     "inicio": 23.84,
+     "fin": 25.1,
+     "texto": "en medio de un periodo electoral"
+    },
+    {
+     "inicio": 25.1,
+     "fin": 28.24,
+     "texto": "y creo que es inaudito en la historia del periodismo español."
+    },
+    {
+     "inicio": 28.24,
+     "fin": 30.74,
+     "texto": "¿Pues sabe, pero es que han echado de menos algo en concreto"
+    },
+    {
+     "inicio": 30.74,
+     "fin": 32.96,
+     "texto": "que fuera importante y que no se emitiera?"
+    },
+    {
+     "inicio": 33.92,
+     "fin": 37.26,
+     "texto": "Pues son 40 minutos donde había preguntas relativas"
+    },
+    {
+     "inicio": 37.26,
+     "fin": 40.74,
+     "texto": "a la emigración, a la sanidad, a la política energética."
+    },
+    {
+     "inicio": 40.96,
+     "fin": 42.46,
+     "texto": "40 minutos de entrevista."
+    },
+    {
+     "inicio": 42.58,
+     "fin": 45.2,
+     "texto": "Es como hacer una entrevista y no publicarla."
+    },
+    {
+     "inicio": 46.22,
+     "fin": 48.94,
+     "texto": "Esa es la cuestión y se había, por supuesto,"
+    },
+    {
+     "inicio": 49.14,
+     "fin": 50.42,
+     "texto": "incumpliendo los factos previos."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "La",
+     "inicio": 0,
+     "fin": 0.26
+    },
+    {
+     "t": "televisión",
+     "inicio": 0.26,
+     "fin": 0.48
+    },
+    {
+     "t": "española",
+     "inicio": 0.48,
+     "fin": 0.86
+    },
+    {
+     "t": "tiene",
+     "inicio": 0.86,
+     "fin": 1.1
+    },
+    {
+     "t": "secuestrada",
+     "inicio": 1.1,
+     "fin": 2.02
+    },
+    {
+     "t": "40",
+     "inicio": 2.02,
+     "fin": 2.74
+    },
+    {
+     "t": "minutos",
+     "inicio": 2.74,
+     "fin": 3.34
+    },
+    {
+     "t": "de",
+     "inicio": 3.34,
+     "fin": 3.48
+    },
+    {
+     "t": "entrevista,",
+     "inicio": 3.48,
+     "fin": 3.92
+    },
+    {
+     "t": "que",
+     "inicio": 4.34,
+     "fin": 4.36
+    },
+    {
+     "t": "se",
+     "inicio": 4.36,
+     "fin": 4.5
+    },
+    {
+     "t": "niegan",
+     "inicio": 4.5,
+     "fin": 4.8
+    },
+    {
+     "t": "a",
+     "inicio": 4.8,
+     "fin": 4.96
+    },
+    {
+     "t": "entregar",
+     "inicio": 4.96,
+     "fin": 5.3
+    },
+    {
+     "t": "a",
+     "inicio": 5.3,
+     "fin": 5.86
+    },
+    {
+     "t": "Vox",
+     "inicio": 5.86,
+     "fin": 6.12
+    },
+    {
+     "t": "y",
+     "inicio": 6.12,
+     "fin": 6.38
+    },
+    {
+     "t": "que",
+     "inicio": 6.38,
+     "fin": 6.5
+    },
+    {
+     "t": "se",
+     "inicio": 6.5,
+     "fin": 6.64
+    },
+    {
+     "t": "niegan",
+     "inicio": 6.64,
+     "fin": 6.92
+    },
+    {
+     "t": "ni",
+     "inicio": 6.92,
+     "fin": 7.44
+    },
+    {
+     "t": "siquiera",
+     "inicio": 7.44,
+     "fin": 7.76
+    },
+    {
+     "t": "a",
+     "inicio": 7.76,
+     "fin": 7.94
+    },
+    {
+     "t": "publicarlo",
+     "inicio": 7.94,
+     "fin": 8.38
+    },
+    {
+     "t": "en",
+     "inicio": 8.38,
+     "fin": 8.5
+    },
+    {
+     "t": "su",
+     "inicio": 8.5,
+     "fin": 8.58
+    },
+    {
+     "t": "página",
+     "inicio": 8.58,
+     "fin": 8.82
+    },
+    {
+     "t": "web.",
+     "inicio": 8.82,
+     "fin": 9.16
+    },
+    {
+     "t": "Si",
+     "inicio": 9.64,
+     "fin": 10.16
+    },
+    {
+     "t": "tú",
+     "inicio": 10.16,
+     "fin": 10.26
+    },
+    {
+     "t": "has",
+     "inicio": 10.26,
+     "fin": 10.38
+    },
+    {
+     "t": "hecho",
+     "inicio": 10.38,
+     "fin": 10.54
+    },
+    {
+     "t": "alguna",
+     "inicio": 10.54,
+     "fin": 10.84
+    },
+    {
+     "t": "entrevista",
+     "inicio": 10.84,
+     "fin": 11.5
+    },
+    {
+     "t": "que",
+     "inicio": 11.5,
+     "fin": 11.68
+    },
+    {
+     "t": "dura",
+     "inicio": 11.68,
+     "fin": 11.86
+    },
+    {
+     "t": "120",
+     "inicio": 11.86,
+     "fin": 13.06
+    },
+    {
+     "t": "minutos,",
+     "inicio": 13.06,
+     "fin": 13.7
+    },
+    {
+     "t": "secuestras",
+     "inicio": 13.92,
+     "fin": 14.48
+    },
+    {
+     "t": "40",
+     "inicio": 14.48,
+     "fin": 14.7
+    },
+    {
+     "t": "minutos,",
+     "inicio": 14.7,
+     "fin": 15.22
+    },
+    {
+     "t": "decides",
+     "inicio": 15.36,
+     "fin": 15.7
+    },
+    {
+     "t": "lo",
+     "inicio": 15.7,
+     "fin": 15.96
+    },
+    {
+     "t": "que",
+     "inicio": 15.96,
+     "fin": 16.08
+    },
+    {
+     "t": "editas,",
+     "inicio": 16.08,
+     "fin": 16.42
+    },
+    {
+     "t": "decides",
+     "inicio": 16.54,
+     "fin": 16.78
+    },
+    {
+     "t": "cómo",
+     "inicio": 16.78,
+     "fin": 17.12
+    },
+    {
+     "t": "lo",
+     "inicio": 17.12,
+     "fin": 17.28
+    },
+    {
+     "t": "ditas",
+     "inicio": 17.28,
+     "fin": 17.7
+    },
+    {
+     "t": "y",
+     "inicio": 17.7,
+     "fin": 17.96
+    },
+    {
+     "t": "publicas",
+     "inicio": 17.96,
+     "fin": 18.4
+    },
+    {
+     "t": "eso.",
+     "inicio": 18.4,
+     "fin": 18.62
+    },
+    {
+     "t": "Ese",
+     "inicio": 19.36,
+     "fin": 19.62
+    },
+    {
+     "t": "es",
+     "inicio": 19.62,
+     "fin": 19.78
+    },
+    {
+     "t": "el",
+     "inicio": 19.78,
+     "fin": 19.92
+    },
+    {
+     "t": "gran",
+     "inicio": 19.92,
+     "fin": 20.1
+    },
+    {
+     "t": "problema",
+     "inicio": 20.1,
+     "fin": 20.88
+    },
+    {
+     "t": "y",
+     "inicio": 20.88,
+     "fin": 21.04
+    },
+    {
+     "t": "es",
+     "inicio": 21.04,
+     "fin": 21.14
+    },
+    {
+     "t": "un",
+     "inicio": 21.14,
+     "fin": 21.2
+    },
+    {
+     "t": "gravísimo",
+     "inicio": 21.2,
+     "fin": 21.6
+    },
+    {
+     "t": "asunto",
+     "inicio": 21.6,
+     "fin": 22.82
+    },
+    {
+     "t": "de",
+     "inicio": 22.82,
+     "fin": 22.92
+    },
+    {
+     "t": "democracia",
+     "inicio": 22.92,
+     "fin": 23.84
+    },
+    {
+     "t": "en",
+     "inicio": 23.84,
+     "fin": 24.02
+    },
+    {
+     "t": "medio",
+     "inicio": 24.02,
+     "fin": 24.2
+    },
+    {
+     "t": "de",
+     "inicio": 24.2,
+     "fin": 24.34
+    },
+    {
+     "t": "un",
+     "inicio": 24.34,
+     "fin": 24.44
+    },
+    {
+     "t": "periodo",
+     "inicio": 24.44,
+     "fin": 24.72
+    },
+    {
+     "t": "electoral",
+     "inicio": 24.72,
+     "fin": 25.1
+    },
+    {
+     "t": "y",
+     "inicio": 25.1,
+     "fin": 25.26
+    },
+    {
+     "t": "creo",
+     "inicio": 25.26,
+     "fin": 25.4
+    },
+    {
+     "t": "que",
+     "inicio": 25.4,
+     "fin": 25.48
+    },
+    {
+     "t": "es",
+     "inicio": 25.48,
+     "fin": 25.64
+    },
+    {
+     "t": "inaudito",
+     "inicio": 25.64,
+     "fin": 26.6
+    },
+    {
+     "t": "en",
+     "inicio": 26.6,
+     "fin": 26.92
+    },
+    {
+     "t": "la",
+     "inicio": 26.92,
+     "fin": 27
+    },
+    {
+     "t": "historia",
+     "inicio": 27,
+     "fin": 27.28
+    },
+    {
+     "t": "del",
+     "inicio": 27.28,
+     "fin": 27.54
+    },
+    {
+     "t": "periodismo",
+     "inicio": 27.54,
+     "fin": 27.96
+    },
+    {
+     "t": "español.",
+     "inicio": 27.96,
+     "fin": 28.24
+    },
+    {
+     "t": "¿Pues",
+     "inicio": 28.24,
+     "fin": 28.48
+    },
+    {
+     "t": "sabe,",
+     "inicio": 28.48,
+     "fin": 28.6
+    },
+    {
+     "t": "pero",
+     "inicio": 28.7,
+     "fin": 28.78
+    },
+    {
+     "t": "es",
+     "inicio": 28.78,
+     "fin": 28.88
+    },
+    {
+     "t": "que",
+     "inicio": 28.88,
+     "fin": 28.92
+    },
+    {
+     "t": "han",
+     "inicio": 28.92,
+     "fin": 29
+    },
+    {
+     "t": "echado",
+     "inicio": 29,
+     "fin": 29.26
+    },
+    {
+     "t": "de",
+     "inicio": 29.26,
+     "fin": 29.38
+    },
+    {
+     "t": "menos",
+     "inicio": 29.38,
+     "fin": 29.58
+    },
+    {
+     "t": "algo",
+     "inicio": 29.58,
+     "fin": 29.98
+    },
+    {
+     "t": "en",
+     "inicio": 29.98,
+     "fin": 30.16
+    },
+    {
+     "t": "concreto",
+     "inicio": 30.16,
+     "fin": 30.74
+    },
+    {
+     "t": "que",
+     "inicio": 30.74,
+     "fin": 30.9
+    },
+    {
+     "t": "fuera",
+     "inicio": 30.9,
+     "fin": 31.1
+    },
+    {
+     "t": "importante",
+     "inicio": 31.1,
+     "fin": 31.72
+    },
+    {
+     "t": "y",
+     "inicio": 31.72,
+     "fin": 32.08
+    },
+    {
+     "t": "que",
+     "inicio": 32.08,
+     "fin": 32.2
+    },
+    {
+     "t": "no",
+     "inicio": 32.2,
+     "fin": 32.34
+    },
+    {
+     "t": "se",
+     "inicio": 32.34,
+     "fin": 32.52
+    },
+    {
+     "t": "emitiera?",
+     "inicio": 32.52,
+     "fin": 32.96
+    },
+    {
+     "t": "Pues",
+     "inicio": 33.92,
+     "fin": 34.04
+    },
+    {
+     "t": "son",
+     "inicio": 34.04,
+     "fin": 34.16
+    },
+    {
+     "t": "40",
+     "inicio": 34.16,
+     "fin": 34.38
+    },
+    {
+     "t": "minutos",
+     "inicio": 34.38,
+     "fin": 34.84
+    },
+    {
+     "t": "donde",
+     "inicio": 34.84,
+     "fin": 35.18
+    },
+    {
+     "t": "había",
+     "inicio": 35.18,
+     "fin": 35.92
+    },
+    {
+     "t": "preguntas",
+     "inicio": 35.92,
+     "fin": 36.42
+    },
+    {
+     "t": "relativas",
+     "inicio": 36.42,
+     "fin": 37.26
+    },
+    {
+     "t": "a",
+     "inicio": 37.26,
+     "fin": 37.36
+    },
+    {
+     "t": "la",
+     "inicio": 37.36,
+     "fin": 37.42
+    },
+    {
+     "t": "emigración,",
+     "inicio": 37.42,
+     "fin": 37.94
+    },
+    {
+     "t": "a",
+     "inicio": 38.12,
+     "fin": 38.14
+    },
+    {
+     "t": "la",
+     "inicio": 38.14,
+     "fin": 38.18
+    },
+    {
+     "t": "sanidad,",
+     "inicio": 38.18,
+     "fin": 38.82
+    },
+    {
+     "t": "a",
+     "inicio": 38.94,
+     "fin": 39
+    },
+    {
+     "t": "la",
+     "inicio": 39,
+     "fin": 39.1
+    },
+    {
+     "t": "política",
+     "inicio": 39.1,
+     "fin": 39.5
+    },
+    {
+     "t": "energética.",
+     "inicio": 39.5,
+     "fin": 40.74
+    },
+    {
+     "t": "40",
+     "inicio": 40.96,
+     "fin": 41.28
+    },
+    {
+     "t": "minutos",
+     "inicio": 41.28,
+     "fin": 41.82
+    },
+    {
+     "t": "de",
+     "inicio": 41.82,
+     "fin": 42.02
+    },
+    {
+     "t": "entrevista.",
+     "inicio": 42.02,
+     "fin": 42.46
+    },
+    {
+     "t": "Es",
+     "inicio": 42.58,
+     "fin": 42.7
+    },
+    {
+     "t": "como",
+     "inicio": 42.7,
+     "fin": 42.98
+    },
+    {
+     "t": "hacer",
+     "inicio": 42.98,
+     "fin": 43.48
+    },
+    {
+     "t": "una",
+     "inicio": 43.48,
+     "fin": 43.66
+    },
+    {
+     "t": "entrevista",
+     "inicio": 43.66,
+     "fin": 44.16
+    },
+    {
+     "t": "y",
+     "inicio": 44.16,
+     "fin": 44.56
+    },
+    {
+     "t": "no",
+     "inicio": 44.56,
+     "fin": 44.66
+    },
+    {
+     "t": "publicarla.",
+     "inicio": 44.66,
+     "fin": 45.2
+    },
+    {
+     "t": "Esa",
+     "inicio": 46.22,
+     "fin": 46.52
+    },
+    {
+     "t": "es",
+     "inicio": 46.52,
+     "fin": 46.56
+    },
+    {
+     "t": "la",
+     "inicio": 46.56,
+     "fin": 46.64
+    },
+    {
+     "t": "cuestión",
+     "inicio": 46.64,
+     "fin": 46.94
+    },
+    {
+     "t": "y",
+     "inicio": 46.94,
+     "fin": 47.18
+    },
+    {
+     "t": "se",
+     "inicio": 47.18,
+     "fin": 47.32
+    },
+    {
+     "t": "había,",
+     "inicio": 47.32,
+     "fin": 47.52
+    },
+    {
+     "t": "por",
+     "inicio": 48.16,
+     "fin": 48.72
+    },
+    {
+     "t": "supuesto,",
+     "inicio": 48.72,
+     "fin": 48.94
+    },
+    {
+     "t": "incumpliendo",
+     "inicio": 49.14,
+     "fin": 49.58
+    },
+    {
+     "t": "los",
+     "inicio": 49.58,
+     "fin": 49.76
+    },
+    {
+     "t": "factos",
+     "inicio": 49.76,
+     "fin": 50.1
+    },
+    {
+     "t": "previos.",
+     "inicio": 50.1,
+     "fin": 50.42
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
