@@ -192,3 +192,4 @@
 - 2026-11-11 05:30 UTC · 1 · @vox_es (Gerona, sin voz) · descartado: sin habla
 - 2026-11-11 07:30 UTC (publicación 08:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
 - 2026-11-11 11:30 UTC (publicación 12:00 Madrid) · 4 · @vox_es (Buxadé, RTVE retiene 40 min de entrevista a Abascal, tramos 0–9,3 y 19,3–28,3 s; subtítulos cotejados con la transcripción; opinión atribuida; omitida la frase sobre pactos incumplidos, no verificable) · publicado am20261111-1128-buxade-rtve-entrevista
+- 2026-11-11 13:30 UTC (publicación 14:00 Madrid) · 3 · @alviseperez (se ofrece a sustituir a Abascal en el programa de Évole, tramos 0–11,7 y 32,88–43,02 s; subtítulos cotejados con la transcripción; Whisper «Wilde»→«Évole»; opinión/oferta atribuida, sin acusaciones; único candidato) · publicado am20261111-1330-alvise-sustituir-abascal

@@ -87,3 +87,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261111-0526-pp-negligencia-adamuz | Al minuto: el PP denuncia «negligencia continuada» en Adamuz | publicando (Al minuto horario) |
 | 041 | 8-anos-vivienda | 💶 Economía · serie 8 años | Flash | programado | 1 | 3 | 2026-11-11 13:30 (cola, aprobación permanente) | v3 APROBADO 9/10 |
 | am20261111-1128-buxade-rtve-entrevista | Al minuto: Buxadé denuncia que RTVE retiene 40 minutos de la entrevista a Abascal | publicando (Al minuto horario) |
+| am20261111-1330-alvise-sustituir-abascal | Al minuto: Alvise se ofrece a sustituir a Abascal en el programa de Évole | publicando (Al minuto horario) |
