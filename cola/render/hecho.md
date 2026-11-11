@@ -30,3 +30,4 @@
 - 2026-11-10T15:44:44Z · am20261110-1526-moncloa-decretos-sociales v1 · OK · ffprobe: h264 1080x1920 @30/1 · 38.50 s (objetivo 38.4 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-11T05:33:25Z · am20261111-0526-pp-negligencia-adamuz v1 · OK · ffprobe: h264 1080x1920 @30/1 · 22.70 s (objetivo 22.6 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-11T11:35:02Z · am20261111-1128-buxade-rtve-entrevista v1 · OK · ffprobe: h264 1080x1920 @30/1 · 21.90 s (objetivo 21.8 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-11T13:37:39Z · am20261111-1330-alvise-sustituir-abascal v1 · OK · ffprobe: h264 1080x1920 @30/1 · 25.40 s (objetivo 25.3 s) -> OK Volumen integrado: -14.5 LUFS (objetivo -14; con voz provisional en silencio no aplica) 

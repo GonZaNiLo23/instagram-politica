@@ -1,0 +1,95 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 25.3,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 21.8,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 21.8,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 21.8
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ALVISE SE OFRECE A SUSTITUIR A ABASCAL",
+          "fecha": "11 NOV",
+          "credito": "Vídeo: @alviseperez"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 3.5,
+              "texto": "Bueno, anuncio oficial. Voy a sustituir\na Santiago Abascal"
+            },
+            {
+              "inicio": 3.58,
+              "fin": 6.5,
+              "texto": "en el programa de Jordi Évole\nde momento, ¿no?"
+            },
+            {
+              "inicio": 6.6,
+              "fin": 8.94,
+              "texto": "Porque Santiago ha cancelado,\nha necesitado un comunicado"
+            },
+            {
+              "inicio": 8.98,
+              "fin": 11.7,
+              "texto": "de cinco puntos para explicarlo,\nes respetable."
+            },
+            {
+              "inicio": 11.75,
+              "fin": 15.1,
+              "texto": "Eso sí, si voy, Jordi,\nque creo que es lo sensato,"
+            },
+            {
+              "inicio": 15.44,
+              "fin": 17.66,
+              "texto": "tengo mis condiciones,\nque son ninguna."
+            },
+            {
+              "inicio": 18.48,
+              "fin": 20.52,
+              "texto": "Pregúntame lo que quieras,\ncorta lo que quieras,"
+            },
+            {
+              "inicio": 20.62,
+              "fin": 21.8,
+              "texto": "que vengan tus dos verificadores"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 21.8,
+      "fin": 25.3,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Alvise se ofrece a ir al debate que Abascal canceló",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261111-1330-alvise-sustituir-abascal",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
