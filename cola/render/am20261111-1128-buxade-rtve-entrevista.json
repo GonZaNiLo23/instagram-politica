@@ -1,0 +1,11 @@
+{
+  "pieza": "am20261111-1128-buxade-rtve-entrevista",
+  "version": "v1",
+  "publicar": true,
+  "clip": {
+    "asset": "ig-18135830773739297.mp4",
+    "tramos": "0-9.3,19.3-28.3",
+    "modo": "recorte",
+    "foco": 0.5
+  }
+}

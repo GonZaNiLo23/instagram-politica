@@ -1,0 +1,80 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 21.8,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 18.3,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 18.3,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 18.3
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "BUXADÉ: RTVE «SECUESTRA» 40 MINUTOS DE ABASCAL",
+          "fecha": "11 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0.1,
+              "fin": 3.9,
+              "texto": "La televisión española tiene secuestrada\n40 minutos de entrevista,"
+            },
+            {
+              "inicio": 4.3,
+              "fin": 6.1,
+              "texto": "que se niegan a entregar a Vox"
+            },
+            {
+              "inicio": 6.2,
+              "fin": 9.2,
+              "texto": "y que se niegan ni siquiera a publicarlo\nen su página web."
+            },
+            {
+              "inicio": 9.4,
+              "fin": 13.8,
+              "texto": "Ese es el gran problema y es un gravísimo\nasunto de democracia"
+            },
+            {
+              "inicio": 13.9,
+              "fin": 15.1,
+              "texto": "en medio de un periodo electoral"
+            },
+            {
+              "inicio": 15.2,
+              "fin": 18.2,
+              "texto": "y creo que es inaudito en la historia\ndel periodismo español."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 18.3,
+      "fin": 21.8,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Vox acusa a RTVE de retener 40 minutos de entrevista",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true
+}
