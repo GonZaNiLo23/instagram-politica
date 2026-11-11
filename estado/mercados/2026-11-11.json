@@ -1,0 +1,106 @@
+{
+  "fecha": "2026-11-11",
+  "generado": "2026-11-11 02:12",
+  "fuente": "Yahoo Finance (API de gráficos)",
+  "activos": [
+    {
+      "id": "ibex",
+      "nombre": "IBEX 35",
+      "simbolo": "^IBEX",
+      "zona": "España",
+      "dia": "2026-11-09",
+      "cierre": 19742.5,
+      "anterior": 19369.5,
+      "variacion": 1.93,
+      "cerrado": "no hay sesión el 2026-11-11: último cierre 2026-11-09",
+      "horaMercado": "2026-11-10 17:35"
+    },
+    {
+      "id": "stoxx",
+      "nombre": "Euro Stoxx 50",
+      "simbolo": "^STOXX50E",
+      "zona": "Europa",
+      "dia": "2026-11-09",
+      "cierre": 6290.45,
+      "anterior": 6170.49,
+      "variacion": 1.94,
+      "cerrado": "no hay sesión el 2026-11-11: último cierre 2026-11-09",
+      "horaMercado": "2026-11-10 18:00"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "simbolo": "^GSPC",
+      "zona": "EE. UU.",
+      "dia": "2026-11-10",
+      "cierre": 7520.93,
+      "anterior": 7549.94,
+      "variacion": -0.38,
+      "cerrado": "no hay sesión el 2026-11-11: último cierre 2026-11-10",
+      "horaMercado": "2026-11-10 23:00"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "simbolo": "^DJI",
+      "zona": "EE. UU.",
+      "dia": "2026-11-10",
+      "cierre": 52231.89,
+      "anterior": 52389.75,
+      "variacion": -0.3,
+      "cerrado": "no hay sesión el 2026-11-11: último cierre 2026-11-10",
+      "horaMercado": "2026-11-10 23:00"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq",
+      "simbolo": "^IXIC",
+      "zona": "EE. UU.",
+      "dia": "2026-11-10",
+      "cierre": 25065.88,
+      "anterior": 25253.14,
+      "variacion": -0.74,
+      "cerrado": "no hay sesión el 2026-11-11: último cierre 2026-11-10",
+      "horaMercado": "2026-11-10 23:15"
+    },
+    {
+      "id": "eurusd",
+      "nombre": "Euro/dólar",
+      "simbolo": "EURUSD=X",
+      "zona": "Divisas",
+      "decimales": 4,
+      "dia": "2026-11-11",
+      "cierre": 1.1167,
+      "anterior": 1.1222,
+      "variacion": -0.49,
+      "cerrado": "sí",
+      "horaMercado": "2026-11-11 02:12"
+    },
+    {
+      "id": "brent",
+      "nombre": "Brent",
+      "simbolo": "BZ=F",
+      "zona": "Materias primas",
+      "unidad": "$",
+      "dia": "2026-11-11",
+      "cierre": 92.11,
+      "anterior": 92.57,
+      "variacion": -0.5,
+      "cerrado": "sí",
+      "horaMercado": "2026-11-11 02:02"
+    },
+    {
+      "id": "bitcoin",
+      "nombre": "Bitcoin",
+      "simbolo": "BTC-USD",
+      "zona": "Cripto",
+      "unidad": "$",
+      "dia": "2026-11-11",
+      "cierre": 73309.44,
+      "anterior": 75223.15,
+      "variacion": -2.54,
+      "cerrado": "sí",
+      "horaMercado": "2026-11-11 02:12"
+    }
+  ]
+}
