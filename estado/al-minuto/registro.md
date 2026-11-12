@@ -203,3 +203,6 @@
 - 2026-11-12 13:30 UTC · 3 · @vox_es (UCO/Igualdad, Abascal «no está en la Moncloa», 16 s) · descartado: insinuación de delito no probada; un envío por hora
 - 2026-11-12 13:30 UTC · 3 · @vox_es (votantes socialistas, 56 s) · descartado: un envío por hora
 - 2026-11-12 13:30 UTC · 2 · @vox_es (Logroño 16 s; calle y periodistas 50 s) · descartado: sin frase clara / un envío por hora
+- 2026-11-12 15:30 UTC (publicación 16:00 Madrid) · 2 · @partidopopular (pulseras antimaltrato, 74 s) · descartado: montaje de voces distintas, sin tramo limpio ni atribución clara; titular de la Fiscalía Europea no verificable en el clip
+- 2026-11-12 15:30 UTC · 2 · @vox_es (Abascal, 44% de extracomunitarios sin cotizar, 17 s) · descartado: cifra no contrastada; viral bajo (12,9)
+- 2026-11-12 15:30 UTC · 1 · @santi_abascal (Logroño, 26 s) · descartado: sin habla. Sin publicación.
