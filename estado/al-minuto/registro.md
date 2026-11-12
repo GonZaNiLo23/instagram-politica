@@ -199,3 +199,7 @@
 - 2026-11-12 05:30 UTC (publicación 06:00 Madrid): sin candidatos (radar generado 05:28 UTC, 0 detectados); sin publicación.
 - 2026-11-12 07:30 UTC (publicación 08:00 Madrid): sin candidatos (radar generado 07:28 UTC, 0 detectados); sin publicación.
 - 2026-11-12 09:30 UTC (publicación 10:00 Madrid): sin candidatos (radar generado 09:28 UTC, 0 detectados); sin publicación.
+- 2026-11-12 13:30 UTC (publicación 14:00 Madrid) · 4 · @vox_es (Abascal-Jordi Wild, no acude a la entrevista, tramo 4,1–37,5 s; subtítulos cotejados con la transcripción; Whisper «portavo»→«portavoz»; opinión/decisión atribuida, sin acusaciones; viral 1130) · publicado am20261112-1326-abascal-cancela-wild
+- 2026-11-12 13:30 UTC · 3 · @vox_es (UCO/Igualdad, Abascal «no está en la Moncloa», 16 s) · descartado: insinuación de delito no probada; un envío por hora
+- 2026-11-12 13:30 UTC · 3 · @vox_es (votantes socialistas, 56 s) · descartado: un envío por hora
+- 2026-11-12 13:30 UTC · 2 · @vox_es (Logroño 16 s; calle y periodistas 50 s) · descartado: sin frase clara / un envío por hora
