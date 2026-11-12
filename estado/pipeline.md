@@ -51,6 +51,8 @@ Lo mantiene el coordinador. Una fila por pieza.
 
 **2026-11-11 (nocturna en la nube):** red igual (sin conexión). produccion.yml no producía desde el 9-11 15:28Z: tareas/produccion-nube.md pasó a CRLF y el encargo llegaba vacío. Corregido el archivo (LF); falta blindar el flujo (sin permiso workflow aquí). Huecos 11 y 12-11 para produccion.yml. Informe en estado/informe-produccion-2026-11-11.md.
 
+**2026-11-12 (nocturna en la nube):** red igual (sin conexión). Huecos 12 y 13-11 vacíos para produccion.yml: 043 (vídeo preparado, falta render) y 044 (guion aprobado) cubren el 12-11. Informe en estado/informe-produccion-2026-11-12.md.
+
 **Ritmo (confirmado el 2026-10-25):** 2 publicaciones al día (13:30 y 19:00; fin de semana 12:00 y 19:00); máximo 3 solo con urgente y con 3–4 h de separación. Reels + carruseles. 2026-10-20: en marcha propuestas nuevas (buscador), render final 006, vídeo 007, guiones 005 y 008 sin opinión.
 
 **Estados:** propuesto · elegido · guion-borrador · guion-revision · guion-aprobado · video-render · video-revision · listo · programado · publicado · descartado
@@ -88,3 +90,6 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 041 | 8-anos-vivienda | 💶 Economía · serie 8 años | Flash | programado | 1 | 3 | 2026-11-11 13:30 (cola, aprobación permanente) | v3 APROBADO 9/10 |
 | am20261111-1128-buxade-rtve-entrevista | Al minuto: Buxadé denuncia que RTVE retiene 40 minutos de la entrevista a Abascal | publicando (Al minuto horario) |
 | am20261111-1330-alvise-sustituir-abascal | Al minuto: Alvise se ofrece a sustituir a Abascal en el programa de Évole | publicando (Al minuto horario) |
+| 042 | 8-anos-presion-fiscal | 💶 Economía · serie 8 años | Flash | guion-borrador | 0 | 0 | — | 2026-11-11 (produccion.yml): a medias, falta verificar Eurostat |
+| 043 | regularizados-cotizan | 💶 Economía | Estándar | video-render | 1 | 0 | hueco 2026-11-12 | Guion v1 CAMBIOS (literales aplicados) → aprobado; escenas, voz y tiempos preparados; falta render + revisor-video |
+| 044 | deuda-bajo-100 | 💶 Economía | Estándar | guion-aprobado | 1 | 0 | hueco 2026-11-12/13 | Guion v1 CAMBIOS (literales aplicados) → aprobado; sin vídeo |
