@@ -77,3 +77,5 @@
 - 2026-11-11T18:01:08.621Z · 040-tu-casa-50000-euros: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-12T12:31:06.816Z · 043-regularizados-cotizan v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfpD1lhAnrT/
 - 2026-11-12T12:31:09.189Z · 043-regularizados-cotizan: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-12T14:01:01.545Z · am20261112-1326-abascal-cancela-wild v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfpOIPwFcq2/
+- 2026-11-12T14:01:05.617Z · am20261112-1326-abascal-cancela-wild: TikTok en la bandeja de borradores (falta publicarlo desde la app)
