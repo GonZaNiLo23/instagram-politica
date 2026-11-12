@@ -25,3 +25,5 @@ Música: ver videos/musica/LICENCIAS.md (pilar Economía).
 #Economía #DeudaPública #BancoDeEspaña #PIB #España
 
 👉 Síguenos para estar informado
+
+Foto: Sanva1959, CC BY-SA 3.0 es, Wikimedia Commons. Música: investigations (ver licencias).

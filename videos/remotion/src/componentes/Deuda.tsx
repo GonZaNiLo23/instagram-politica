@@ -47,19 +47,19 @@ export const FlechasD: React.FC<{y?: number; en?: number; esc?: number; choque?:
 };
 
 /** Dos tarjetas de cifra (golpe, sin cuenta): cifra grande + etiqueta + flecha. Cada tarjeta tiene su `en`. */
-export const DuoD: React.FC<{y?: number; paso?: number; enA?: number; enB?: number; hasta?: number}> = ({y = 340, paso = 270, enA = 0.1, enB = 1.2, hasta}) => {
+export const DuoD: React.FC<{y?: number; paso?: number; enA?: number; enB?: number; hasta?: number}> = ({y = 380, paso = 360, enA = 0.1, enB = 1.2, hasta}) => {
   const {t} = usa();
   const s = useSalida(hasta);
   const tarjeta = (i: number, en: number, cifra: string, etq: string, dir: 1 | -1, color: string) => {
     const k = ease(t, en, en + 0.35, true);
-    const bal = Math.sin((t - en) * 3.4) * 5 * (dir === 1 ? 1 : -1);
+    const bal = Math.sin((t - en) * 3.4) * 16 * (dir === 1 ? 1 : -1);
     const g = 1 + 0.05 * Math.sin(Math.min(1, (t - en) / 0.35) * Math.PI);
     return (
-      <g key={i} transform={`translate(0 ${i * paso}) translate(480 100) scale(${(0.6 + 0.4 * k) * g}) translate(-480 -100)`} opacity={t >= en ? Math.min(1, k * 2) : 0}>
-        <rect x={90} y={0} width={780} height={230} rx={28} fill={C.tinta} />
-        <text x={130} y={125} fontFamily={F.cifra} fontWeight={700} fontSize={112} fill={C.crema}>{cifra}</text>
-        <text x={130} y={200} fontFamily={F.texto} fontWeight={700} fontSize={64} fill={C.crema}>{etq}</text>
-        <g transform={`translate(790 ${115 + bal}) scale(0.5)`}><Flecha dir={dir} color={color} /></g>
+      <g key={i} transform={`translate(0 ${i * paso + Math.sin((t - en) * 2.6 + i) * 7}) translate(480 150) scale(${(0.6 + 0.4 * k) * g}) translate(-480 -150)`} opacity={t >= en ? Math.min(1, k * 2) : 0}>
+        <rect x={90} y={0} width={780} height={300} rx={28} fill={C.tinta} />
+        <text x={130} y={150} fontFamily={F.cifra} fontWeight={700} fontSize={140} fill={C.crema}>{cifra}</text>
+        <text x={130} y={250} fontFamily={F.texto} fontWeight={700} fontSize={64} fill={C.crema}>{etq}</text>
+        <g transform={`translate(770 ${120 + bal}) scale(0.55)`}><Flecha dir={dir} color={color} /></g>
       </g>
     );
   };
@@ -73,11 +73,12 @@ export const DuoD: React.FC<{y?: number; paso?: number; enA?: number; enB?: numb
 };
 
 /** Ejemplo sin cifras: nómina que crece más rápido que la casa con hipoteca. Etiquetas de 64 px. */
-export const SueldoCasaD: React.FC<{y?: number; en?: number; hasta?: number}> = ({y = 700, en = 0.2, hasta}) => {
+export const SueldoCasaD: React.FC<{y?: number; en?: number; creceEn?: number; hasta?: number}> = ({y = 700, en = 0.2, creceEn, hasta}) => {
   const {t} = usa();
   const s = useSalida(hasta);
   const k = ease(t, en, en + 0.4, true);
-  const crece = ease(t, en + 1.3, en + 3.6);
+  const c0 = creceEn ?? en + 1.3;
+  const crece = ease(t, c0, c0 + 2.6);
   const sueldo = 1 + 0.55 * crece;
   const casa = 1 + 0.12 * crece;
   const bal = Math.sin(t * 3) * 6;
@@ -113,10 +114,10 @@ export const SeparanD: React.FC<{y?: number; en?: number; enB?: number; hasta?: 
   const s = useSalida(hasta);
   const a = ease(t, en, en + 1.8);
   const b = ease(t, enB, enB + 1.6);
-  const x0 = 110, x1 = 780, y0 = 190;
+  const x0 = 110, x1 = 690, y0 = 240;
   const lx = (k: number) => x0 + (x1 - x0) * k;
-  const ya = y0 - 140 * a;
-  const yb = y0 + 140 * b;
+  const ya = y0 - 170 * a;
+  const yb = y0 + 170 * b;
   return lienzo(
     <g transform={`translate(0 ${y})`}>
       <line x1={x0} y1={y0} x2={x1 + 60} y2={y0} stroke={C.piedra} strokeWidth={5} strokeDasharray="14 12" />

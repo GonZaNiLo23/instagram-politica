@@ -431,5 +431,12 @@
     "hora": "2026-11-12T13:30:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/043-regularizados-cotizan-v1.md APROBADO · revisiones/videos/043-regularizados-cotizan-v1.md APROBADO test 9/10",
     "estado": "pendiente"
+  },
+  {
+    "pieza": "044-deuda-bajo-100",
+    "version": "v1",
+    "hora": "2026-11-12T19:00:00+01:00",
+    "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/044-deuda-bajo-100-v1.md APROBADO · revisiones/videos/044-deuda-bajo-100-v1.md APROBADO test 9/10",
+    "estado": "pendiente"
   }
 ]

@@ -91,7 +91,7 @@
     },
     {
       "inicio": 12.3,
-      "fin": 15.26,
+      "fin": 19.18,
       "fondo": "crema",
       "componentes": [
         {
@@ -100,20 +100,6 @@
           "y": 330,
           "en": 0.05,
           "tamano": 64
-        }
-      ]
-    },
-    {
-      "inicio": 15.26,
-      "fin": 19.18,
-      "fondo": "crema",
-      "componentes": [
-        {
-          "tipo": "rotulo",
-          "texto": "PIB = LO QUE PRODUCE EL PAÍS EN UN AÑO",
-          "y": 330,
-          "en": -1,
-          "tamano": 64
         },
         {
           "tipo": "ejemploP"
@@ -121,7 +107,8 @@
         {
           "tipo": "sueldoCasaD",
           "y": 800,
-          "en": 0.2
+          "en": 0.3,
+          "creceEn": 2.96
         }
       ]
     },
@@ -139,7 +126,7 @@
         },
         {
           "tipo": "separanD",
-          "y": 800,
+          "y": 770,
           "en": 1.1199999999999999,
           "enB": 5.2
         },
@@ -173,7 +160,7 @@
         },
         {
           "tipo": "separanD",
-          "y": 800,
+          "y": 770,
           "en": -5,
           "enB": 1.8099999999999998
         },
@@ -202,7 +189,7 @@
           "tipo": "foto",
           "src": "bde.jpg",
           "x": 500,
-          "y": 745,
+          "y": 725,
           "ancho": 880,
           "alto": 290,
           "foco": "55% 45%",
@@ -211,22 +198,18 @@
             1.12
           ],
           "dur": 4.2,
-          "en": 0.3
+          "en": 0.3,
+          "notas": [
+            "Estimación del Banco de España (avance)"
+          ],
+          "credito": "Foto: Sanva1959, CC BY-SA 3.0 es, Wikimedia Commons"
         },
         {
           "tipo": "bandaD",
-          "y": 960,
+          "y": 940,
           "en": 0.5,
           "paso": 0.1,
           "ultimoEn": 1.5999999999999999
-        },
-        {
-          "tipo": "notas",
-          "lineas": [
-            "Estimación del Banco de España (avance)",
-            "Foto: Sanva1959, CC BY-SA 3.0 es, Wikimedia Commons"
-          ],
-          "en": 0.3
         }
       ]
     },
