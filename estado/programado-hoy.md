@@ -33,3 +33,4 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 043-regularizados-cotizan | Reel 39 s | Instagram + TikTok () vía cola | 2026-11-12 13:30 | revisiones/guiones/043-…-v1.md · revisiones/videos/043-…-v1.md (9/10). Recomprobar cifras SS 4-11 |
 | 044-deuda-bajo-100 | Reel 39 s | Instagram + TikTok vía cola | 2026-11-12 19:00 | revisiones/guiones/044-…-v1.md · revisiones/videos/044-…-v1.md (9/10). Recomprobar deuda Banco de España |
 | 042-8-anos-presion-fiscal | Reel 40 s | Instagram + TikTok (borrador) vía cola | 2026-11-13 13:30 | revisiones/guiones/042-…-v1.md · revisiones/videos/042-…-v1.md (9/10) |
+| 046-8-anos-paro-juvenil | Reel 41 s | Instagram + TikTok (borrador) vía cola | 2026-11-13 19:00 | revisiones/guiones/046-…-v2.md · revisiones/videos/046-…-v1.md (9/10). Recomprobar Eurostat si sale octubre |

@@ -39,8 +39,8 @@
           {
             "tipo": "barrasVSerie",
             "max": 34.3,
-            "base": 1150,
-            "hMax": 250,
+            "base": 1110,
+            "hMax": 190,
             "w": 200,
             "centros": [
               300,
@@ -62,7 +62,7 @@
                 "valor": 0,
                 "en": -1,
                 "contorno": true,
-                "altoContorno": 150
+                "altoContorno": 120
               }
             ]
           }
@@ -98,8 +98,8 @@
         {
           "tipo": "barrasVSerie",
           "max": 34.3,
-          "base": 1150,
-          "hMax": 250,
+          "base": 1110,
+          "hMax": 190,
           "w": 200,
           "centros": [
             300,
@@ -122,7 +122,7 @@
               "valor": 0,
               "en": -0.88,
               "contorno": true,
-              "altoContorno": 150
+              "altoContorno": 120
             }
           ]
         }
@@ -146,6 +146,14 @@
           "y": 640,
           "en": 5.06,
           "tamano": 64
+        },
+        {
+          "tipo": "barraFigurasSerie",
+          "n": 10,
+          "y": 960,
+          "en": 0.8,
+          "divide": 99,
+          "hasta": 5.16
         },
         {
           "tipo": "cifraGrandeSerie",
@@ -183,7 +191,9 @@
           "flecha": {
             "barra": 0,
             "hasta": 24.9,
-            "en": 3.06
+            "en": 3.06,
+            "dx": 240,
+            "dy0": 0
           },
           "barras": [
             {
@@ -251,8 +261,8 @@
         {
           "tipo": "barrasVSerie",
           "max": 34.3,
-          "base": 1150,
-          "hMax": 220,
+          "base": 1050,
+          "hMax": 200,
           "w": 200,
           "centros": [
             540
@@ -288,7 +298,7 @@
         {
           "tipo": "barrasVSerie",
           "max": 34.3,
-          "base": 1150,
+          "base": 1050,
           "hMax": 270,
           "w": 200,
           "centros": [
@@ -355,7 +365,9 @@
           "flecha": {
             "barra": 0,
             "hasta": 9.7,
-            "en": 3.12
+            "en": 3.12,
+            "dx": 240,
+            "dy0": 0
           },
           "barras": [
             {
@@ -429,8 +441,8 @@
         },
         {
           "tipo": "abSerie",
-          "a": "MEJORA SUFICIENTE",
-          "b": "AÚN LEJOS DE EUROPA",
+          "a": "SUFICIENTE",
+          "b": "AÚN LEJOS",
           "y": 700,
           "en": 0.5
         }

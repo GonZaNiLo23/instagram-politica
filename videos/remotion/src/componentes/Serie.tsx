@@ -251,7 +251,7 @@ export const BarrasVSerie: React.FC<{
   barras: {etiqueta: string; valor: number; color?: string; en: number; dur?: number; contorno?: boolean; altoContorno?: number; prefijo?: string; sufijo?: string; sinValor?: boolean; cx?: number; dec?: boolean}[];
   max?: number; base?: number; hMax?: number; w?: number; centros?: number[]; tamEtiqueta?: number; hasta?: number;
   lineaRef?: {valor: number; en: number; color?: string};
-  flecha?: {barra: number; hasta: number; en: number};
+  flecha?: {barra: number; hasta: number; en: number; dx?: number; dy0?: number};
   fragmenta?: {barra: number; en: number; n?: number};
   vivo?: boolean;
 }> = ({barras, max = 39, base = 1060, hMax = 240, w = 200, centros, tamEtiqueta = 52, hasta, lineaRef, flecha, fragmenta, vivo = false}) => {
@@ -304,8 +304,8 @@ export const BarrasVSerie: React.FC<{
       {flecha ? (() => {
         const e = ease(t, flecha.en, flecha.en + 0.6);
         const b = barras[flecha.barra];
-        const cx = b.cx ?? cs[flecha.barra];
-        const y0 = base - alto(b.valor) - 90, y1 = base - alto(flecha.hasta);
+        const cx = (b.cx ?? cs[flecha.barra]) + (flecha.dx ?? 0);
+        const y0 = base - alto(b.valor) + (flecha.dy0 ?? -90), y1 = base - alto(flecha.hasta);
         const y = y0 + (y1 - y0) * e;
         return (
           <g opacity={e > 0 ? 1 : 0}>

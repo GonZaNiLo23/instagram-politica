@@ -44,3 +44,4 @@
 - [nube, 2026-11-12] Rutina claude.ai: red igual. Comprobar, informar y salir. 043 (vídeo preparado) y 044 (guion aprobado) listos para produccion.yml; filas 042–044 añadidas al tablero (faltaban).
 - [nube, 2026-11-11] Si produccion.yml acaba en "success" en pocos minutos sin piezas, mira el log: el 10-11 Claude recibió el encargo vacío porque tareas/produccion-nube.md pasó a CRLF (commit del radar) y el sed de `---` no casaba. Arreglado volviendo el archivo a LF; el flujo sigue sin blindar (esta rutina no puede subir .github/workflows).
 - [nube, 2026-11-12] produccion.yml: 043/044 con guion aprobado + generador-video + revisor-video cupo en ~15 min; el generador no relanza voz si voz.mp3 existe (ahorra créditos).
+- 2026-11-12: la API JSON de Eurostat sí abre desde la nube (cerró dato 2018 en 1 curl); cambios literales los apliqué yo sin segunda vuelta; reservar 2 piezas en curso evitó topes.
