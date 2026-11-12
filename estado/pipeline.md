@@ -96,3 +96,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 045 | debates-academia-tv | 🔴 Actualidad · Cómo funciona | Estándar | guion-borrador | 0 | 0 | — | 2026-11-12: A MEDIAS. Premisa superada (el 9-11 PSOE y PP acuerdan que organice la Academia de TV; fechas 16-N y 26-N sin confirmar). Ver nota en guiones/borradores/045-debates-academia-tv.md |
 | 046 | 8-anos-paro-juvenil | 💶 Economía · serie 8 años (Cifra 7, equilibrio) | Flash | programado | 1 | 1 | 2026-11-13 19:00 (cola) | v1 APROBADO 9/10 |
 | am20261112-1326-abascal-cancela-wild | Al minuto: Abascal cancela su entrevista con Jordi Wild | publicando (Al minuto horario) |
+| am20261112-1727-sanchez-decreto-vivienda | Al minuto: Sánchez defiende su decreto de vivienda | publicando (Al minuto horario) |

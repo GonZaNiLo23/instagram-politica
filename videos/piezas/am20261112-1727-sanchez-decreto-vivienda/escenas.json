@@ -1,0 +1,135 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 40.38,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "sinVoz": true,
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 36.88,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "fundidoFin": 36.88,
+     "zoom": [
+      1,
+      1.04
+     ],
+     "dur": 36.88
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "SÁNCHEZ DEFIENDE SU DECRETO DE VIVIENDA",
+     "fecha": "12 NOV",
+     "credito": "Vídeo: @sanchezcastejon"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.0,
+       "fin": 1.27,
+       "texto": "Hoy se ha convalidado"
+      },
+      {
+       "inicio": 1.27,
+       "fin": 2.62,
+       "texto": "el real decreto ley de vivienda"
+      },
+      {
+       "inicio": 2.62,
+       "fin": 4.17,
+       "texto": "y en eso consiste la política"
+      },
+      {
+       "inicio": 4.17,
+       "fin": 6.76,
+       "texto": "en hacer la vida más fácil"
+      },
+      {
+       "inicio": 6.76,
+       "fin": 9.26,
+       "texto": "y dar más seguridad a las familias."
+      },
+      {
+       "inicio": 9.8,
+       "fin": 11.98,
+       "texto": "50.000 euros, sin intereses,"
+      },
+      {
+       "inicio": 12.16,
+       "fin": 13.96,
+       "texto": "para ayudarte a comprar tu primera vivienda,"
+      },
+      {
+       "inicio": 15.04,
+       "fin": 17.2,
+       "texto": "desgravaciones en el IRPF para inquilinos,"
+      },
+      {
+       "inicio": 17.96,
+       "fin": 19.5,
+       "texto": "incentivos a los pequeños propietarios"
+      },
+      {
+       "inicio": 19.5,
+       "fin": 21.27,
+       "texto": "que bajen los alquileres"
+      },
+      {
+       "inicio": 21.27,
+       "fin": 23.34,
+       "texto": "y penalizaciones a quienes lo suban,"
+      },
+      {
+       "inicio": 24.2,
+       "fin": 26.56,
+       "texto": "suspensión de los desahucios de personas vulnerables,"
+      },
+      {
+       "inicio": 27.28,
+       "fin": 28.57,
+       "texto": "prórroga de dos años"
+      },
+      {
+       "inicio": 28.57,
+       "fin": 29.7,
+       "texto": "para los alquileres vigentes"
+      },
+      {
+       "inicio": 29.7,
+       "fin": 33.02,
+       "texto": "en las mismas condiciones y sin subidas abusivas,"
+      },
+      {
+       "inicio": 33.8,
+       "fin": 35.17,
+       "texto": "freno a los fondos buitre"
+      },
+      {
+       "inicio": 35.17,
+       "fin": 36.88,
+       "texto": "que compran viviendas para especular"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 36.88,
+   "fin": 40.38,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "El Gobierno convalida su decreto de vivienda",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ]
+}

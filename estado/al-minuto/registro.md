@@ -206,3 +206,6 @@
 - 2026-11-12 15:30 UTC (publicación 16:00 Madrid) · 2 · @partidopopular (pulseras antimaltrato, 74 s) · descartado: montaje de voces distintas, sin tramo limpio ni atribución clara; titular de la Fiscalía Europea no verificable en el clip
 - 2026-11-12 15:30 UTC · 2 · @vox_es (Abascal, 44% de extracomunitarios sin cotizar, 17 s) · descartado: cifra no contrastada; viral bajo (12,9)
 - 2026-11-12 15:30 UTC · 1 · @santi_abascal (Logroño, 26 s) · descartado: sin habla. Sin publicación.
+- 2026-11-12 17:30 UTC (publicación 18:00 Madrid) · 4 · @sanchezcastejon (decreto de vivienda convalidado, tramo 0,43–37,31 s; subtítulos cotejados con la transcripción; Whisper «desgrabaciones»→«desgravaciones»; medidas anunciadas por el Gobierno, opinión en la descripción sin acusaciones; viral 202) · publicado am20261112-1727-sanchez-decreto-vivienda
+- 2026-11-12 17:30 UTC · 3 · @vox_es (Garriga, huelga general, 122 s) · descartado: acusaciones de «instigadores»/«invasores» no probadas, sin tramo limpio; un envío por hora
+- 2026-11-12 17:30 UTC · 1 · La Moncloa (llamada Sánchez–Sheinbaum, 16 s) · descartado: sin habla
