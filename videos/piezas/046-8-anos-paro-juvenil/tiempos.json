@@ -1,0 +1,518 @@
+{
+  "palabras": [
+    {
+      "t": "Paro",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "t": "juvenil:",
+      "inicio": 0.32,
+      "fin": 1.12
+    },
+    {
+      "t": "treinta",
+      "inicio": 1.16,
+      "fin": 1.36
+    },
+    {
+      "t": "y",
+      "inicio": 1.44,
+      "fin": 1.52
+    },
+    {
+      "t": "cuatro",
+      "inicio": 1.6,
+      "fin": 1.76
+    },
+    {
+      "t": "coma",
+      "inicio": 1.92,
+      "fin": 2.08
+    },
+    {
+      "t": "tres",
+      "inicio": 2.24,
+      "fin": 2.32
+    },
+    {
+      "t": "por",
+      "inicio": 2.48,
+      "fin": 2.56
+    },
+    {
+      "t": "ciento.",
+      "inicio": 2.64,
+      "fin": 3.04
+    },
+    {
+      "t": "¿Y",
+      "inicio": 3.44,
+      "fin": 3.52
+    },
+    {
+      "t": "hoy?",
+      "inicio": 3.6,
+      "fin": 4.08
+    },
+    {
+      "t": "Lo",
+      "inicio": 4.32,
+      "fin": 4.4
+    },
+    {
+      "t": "mide",
+      "inicio": 4.44,
+      "fin": 4.64
+    },
+    {
+      "t": "Eurostat:",
+      "inicio": 4.8,
+      "fin": 5.6
+    },
+    {
+      "t": "menores",
+      "inicio": 5.68,
+      "fin": 6
+    },
+    {
+      "t": "de",
+      "inicio": 6.04,
+      "fin": 6.08
+    },
+    {
+      "t": "veinticinco",
+      "inicio": 6.12,
+      "fin": 6.64
+    },
+    {
+      "t": "años",
+      "inicio": 6.72,
+      "fin": 6.96
+    },
+    {
+      "t": "sin",
+      "inicio": 7.04,
+      "fin": 7.12
+    },
+    {
+      "t": "empleo,",
+      "inicio": 7.2,
+      "fin": 7.76
+    },
+    {
+      "t": "entre",
+      "inicio": 7.92,
+      "fin": 8.08
+    },
+    {
+      "t": "quienes",
+      "inicio": 8.16,
+      "fin": 8.4
+    },
+    {
+      "t": "buscan",
+      "inicio": 8.48,
+      "fin": 8.72
+    },
+    {
+      "t": "trabajo.",
+      "inicio": 8.8,
+      "fin": 9.48
+    },
+    {
+      "t": "Desde",
+      "inicio": 9.68,
+      "fin": 9.92
+    },
+    {
+      "t": "dos",
+      "inicio": 10,
+      "fin": 10.08
+    },
+    {
+      "t": "mil",
+      "inicio": 10.16,
+      "fin": 10.24
+    },
+    {
+      "t": "veintiuno,",
+      "inicio": 10.28,
+      "fin": 10.88
+    },
+    {
+      "t": "con",
+      "inicio": 10.96,
+      "fin": 11.04
+    },
+    {
+      "t": "definición",
+      "inicio": 11.12,
+      "fin": 11.52
+    },
+    {
+      "t": "distinta.",
+      "inicio": 11.6,
+      "fin": 12.16
+    },
+    {
+      "t": "En",
+      "inicio": 12.48,
+      "fin": 12.56
+    },
+    {
+      "t": "dos",
+      "inicio": 12.64,
+      "fin": 12.72
+    },
+    {
+      "t": "mil",
+      "inicio": 12.8,
+      "fin": 12.88
+    },
+    {
+      "t": "veinticinco,",
+      "inicio": 12.92,
+      "fin": 13.76
+    },
+    {
+      "t": "veinticuatro",
+      "inicio": 13.8,
+      "fin": 14.4
+    },
+    {
+      "t": "coma",
+      "inicio": 14.56,
+      "fin": 14.64
+    },
+    {
+      "t": "nueve.",
+      "inicio": 14.8,
+      "fin": 15.2
+    },
+    {
+      "t": "Casi",
+      "inicio": 15.44,
+      "fin": 15.68
+    },
+    {
+      "t": "diez",
+      "inicio": 15.76,
+      "fin": 16
+    },
+    {
+      "t": "puntos",
+      "inicio": 16.08,
+      "fin": 16.4
+    },
+    {
+      "t": "menos:",
+      "inicio": 16.48,
+      "fin": 17.04
+    },
+    {
+      "t": "ha",
+      "inicio": 17.08,
+      "fin": 17.12
+    },
+    {
+      "t": "mejorado",
+      "inicio": 17.2,
+      "fin": 17.6
+    },
+    {
+      "t": "mucho.",
+      "inicio": 17.64,
+      "fin": 18
+    },
+    {
+      "t": "El",
+      "inicio": 18.4,
+      "fin": 18.48
+    },
+    {
+      "t": "último",
+      "inicio": 18.56,
+      "fin": 18.8
+    },
+    {
+      "t": "dato",
+      "inicio": 18.88,
+      "fin": 19.04
+    },
+    {
+      "t": "mensual,",
+      "inicio": 19.12,
+      "fin": 19.76
+    },
+    {
+      "t": "septiembre",
+      "inicio": 19.8,
+      "fin": 20.32
+    },
+    {
+      "t": "de",
+      "inicio": 20.36,
+      "fin": 20.4
+    },
+    {
+      "t": "dos",
+      "inicio": 20.48,
+      "fin": 20.56
+    },
+    {
+      "t": "mil",
+      "inicio": 20.72,
+      "fin": 20.76
+    },
+    {
+      "t": "veintiséis:",
+      "inicio": 20.8,
+      "fin": 21.76
+    },
+    {
+      "t": "veintidós",
+      "inicio": 21.8,
+      "fin": 22.24
+    },
+    {
+      "t": "coma",
+      "inicio": 22.4,
+      "fin": 22.56
+    },
+    {
+      "t": "ocho.",
+      "inicio": 22.64,
+      "fin": 23.12
+    },
+    {
+      "t": "Pero",
+      "inicio": 23.36,
+      "fin": 23.52
+    },
+    {
+      "t": "Europa",
+      "inicio": 23.6,
+      "fin": 23.92
+    },
+    {
+      "t": "está",
+      "inicio": 24.08,
+      "fin": 24.32
+    },
+    {
+      "t": "en",
+      "inicio": 24.4,
+      "fin": 24.48
+    },
+    {
+      "t": "quince",
+      "inicio": 24.56,
+      "fin": 24.8
+    },
+    {
+      "t": "coma",
+      "inicio": 24.96,
+      "fin": 25.04
+    },
+    {
+      "t": "dos.",
+      "inicio": 25.12,
+      "fin": 25.76
+    },
+    {
+      "t": "La",
+      "inicio": 25.8,
+      "fin": 25.84
+    },
+    {
+      "t": "brecha",
+      "inicio": 25.92,
+      "fin": 26.16
+    },
+    {
+      "t": "era",
+      "inicio": 26.24,
+      "fin": 26.4
+    },
+    {
+      "t": "de",
+      "inicio": 26.48,
+      "fin": 26.56
+    },
+    {
+      "t": "diecisiete",
+      "inicio": 26.68,
+      "fin": 27.12
+    },
+    {
+      "t": "coma",
+      "inicio": 27.28,
+      "fin": 27.36
+    },
+    {
+      "t": "seis",
+      "inicio": 27.52,
+      "fin": 27.68
+    },
+    {
+      "t": "puntos",
+      "inicio": 27.76,
+      "fin": 28.08
+    },
+    {
+      "t": "y",
+      "inicio": 28.4,
+      "fin": 28.44
+    },
+    {
+      "t": "ahora",
+      "inicio": 28.48,
+      "fin": 28.72
+    },
+    {
+      "t": "es",
+      "inicio": 28.8,
+      "fin": 28.88
+    },
+    {
+      "t": "de",
+      "inicio": 28.96,
+      "fin": 29.04
+    },
+    {
+      "t": "nueve",
+      "inicio": 29.12,
+      "fin": 29.36
+    },
+    {
+      "t": "coma",
+      "inicio": 29.44,
+      "fin": 29.6
+    },
+    {
+      "t": "siete.",
+      "inicio": 29.68,
+      "fin": 30.4
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 30.48,
+      "fin": 31.04
+    },
+    {
+      "t": "no",
+      "inicio": 31.12,
+      "fin": 31.2
+    },
+    {
+      "t": "cuenta",
+      "inicio": 31.28,
+      "fin": 31.6
+    },
+    {
+      "t": "a",
+      "inicio": 31.64,
+      "fin": 31.68
+    },
+    {
+      "t": "quienes",
+      "inicio": 31.76,
+      "fin": 32
+    },
+    {
+      "t": "no",
+      "inicio": 32.16,
+      "fin": 32.24
+    },
+    {
+      "t": "buscan",
+      "inicio": 32.32,
+      "fin": 32.56
+    },
+    {
+      "t": "trabajo,",
+      "inicio": 32.64,
+      "fin": 33.12
+    },
+    {
+      "t": "como",
+      "inicio": 33.24,
+      "fin": 33.36
+    },
+    {
+      "t": "muchos",
+      "inicio": 33.48,
+      "fin": 33.68
+    },
+    {
+      "t": "que",
+      "inicio": 33.72,
+      "fin": 33.76
+    },
+    {
+      "t": "estudian.",
+      "inicio": 33.88,
+      "fin": 34.72
+    },
+    {
+      "t": "¿Mejora",
+      "inicio": 34.76,
+      "fin": 35.04
+    },
+    {
+      "t": "suficiente",
+      "inicio": 35.12,
+      "fin": 35.76
+    },
+    {
+      "t": "o",
+      "inicio": 35.92,
+      "fin": 36
+    },
+    {
+      "t": "aún",
+      "inicio": 36.04,
+      "fin": 36.24
+    },
+    {
+      "t": "lejos",
+      "inicio": 36.36,
+      "fin": 36.64
+    },
+    {
+      "t": "de",
+      "inicio": 36.68,
+      "fin": 36.72
+    },
+    {
+      "t": "Europa?",
+      "inicio": 36.76,
+      "fin": 37.52
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 37.6,
+      "fin": 38.08
+    },
+    {
+      "t": "para",
+      "inicio": 38.16,
+      "fin": 38.24
+    },
+    {
+      "t": "estar",
+      "inicio": 38.36,
+      "fin": 38.48
+    },
+    {
+      "t": "informado.",
+      "inicio": 38.64,
+      "fin": 39.28
+    }
+  ],
+  "duracion": 39.235918,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

@@ -93,3 +93,5 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 042 | 8-anos-presion-fiscal | 💶 Economía · serie 8 años | Flash | guion-aprobado | 1 | 0 | — | 2026-11-12: cifras 2018 verificadas; CAMBIOS literales aplicados; pasa a vídeo (hueco 13-11 13:30) |
 | 043 | regularizados-cotizan | 💶 Economía | Estándar | programado | 1 | 1 | 2026-11-12 13:30 (cola) | v1 APROBADO 9/10 |
 | 044 | deuda-bajo-100 | 💶 Economía | Estándar | programado | 1 | 1 | 2026-11-12 19:00 (cola) | v1 APROBADO 9/10 |
+| 045 | debates-academia-tv | 🔴 Actualidad · Cómo funciona | Estándar | guion-borrador | 0 | 0 | — | 2026-11-12: A MEDIAS. Premisa superada (el 9-11 PSOE y PP acuerdan que organice la Academia de TV; fechas 16-N y 26-N sin confirmar). Ver nota en guiones/borradores/045-debates-academia-tv.md |
+| 046 | 8-anos-paro-juvenil | 💶 Economía · serie 8 años (Cifra 7, equilibrio) | Flash | guion-borrador | 0 | 0 | 2026-11-13 19:00 (previsto) | 2026-11-12: cifras verificadas en API de Eurostat (une_rt_a/une_rt_m); pendiente revisor-guion y vídeo |

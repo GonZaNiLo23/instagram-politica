@@ -1,0 +1,508 @@
+{
+  "plantilla": "flash",
+  "duracion": 40.09,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 3,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "IMPUESTOS 38,1 % DEL PIB",
+            "y": 470,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "2018: 35,2 % · UE 40,7 %",
+            "y": 790,
+            "en": -1,
+            "tamano": 48
+          },
+          {
+            "tipo": "contadorSerie",
+            "valA": 35.2,
+            "valB": 38.1,
+            "etiqA": "2018",
+            "etiqB": "2025",
+            "dec": true,
+            "xA": 110,
+            "xB": 590,
+            "w": 260,
+            "base": 1150,
+            "hMax": 270,
+            "etiqBYa": true,
+            "cuentaEn": -5,
+            "cuentaDur": 1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 3,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "IMPUESTOS 38,1 % DEL PIB",
+          "y": 470,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "impuestos y cotizaciones · 2025 · Eurostat",
+          "y": 790,
+          "en": -1,
+          "tamano": 44
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 35.2,
+          "valB": 38.1,
+          "etiqA": "2018",
+          "etiqB": "2025",
+          "dec": true,
+          "xA": 110,
+          "xB": 590,
+          "w": 260,
+          "base": 1120,
+          "hMax": 240,
+          "etiqBYa": true,
+          "valores": false,
+          "cuentaEn": 0.3,
+          "cuentaDur": 1
+        }
+      ]
+    },
+    {
+      "inicio": 4.58,
+      "fin": 6.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2018: 35,2 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2025: 38,1 %",
+          "y": 420,
+          "en": 1,
+          "tamano": 64
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 35.2,
+          "valB": 38.1,
+          "etiqA": "2018",
+          "etiqB": "2025",
+          "dec": true,
+          "xA": 110,
+          "xB": 590,
+          "w": 260,
+          "base": 1100,
+          "hMax": 230,
+          "etiqBYa": true,
+          "valBFin": true,
+          "cuentaEn": -5,
+          "cuentaDur": 1
+        },
+        {
+          "tipo": "sello",
+          "valor": "DATO",
+          "x": 230,
+          "y": 560,
+          "tamano": 80,
+          "desde": 60,
+          "reboteMax": 0,
+          "en": 0.9
+        }
+      ]
+    },
+    {
+      "inicio": 6.42,
+      "fin": 10.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EUROSTAT · IMPUESTOS + COTIZACIONES",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 56
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "% del PIB · datos de 29-10-2026",
+          "y": 520,
+          "en": 1,
+          "tamano": 48
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 35.2,
+          "valB": 38.1,
+          "etiqA": "2018",
+          "etiqB": "2025",
+          "dec": true,
+          "xA": 110,
+          "xB": 590,
+          "w": 260,
+          "base": 1100,
+          "hMax": 230,
+          "etiqBYa": true,
+          "cuentaEn": -5,
+          "cuentaDur": 1
+        }
+      ]
+    },
+    {
+      "inicio": 10.42,
+      "fin": 14.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "UE: 41,1 % → 40,7 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "max": 50,
+          "paso": 10,
+          "y0": 480,
+          "alto": 140,
+          "dur": 0.7,
+          "tamano": 56,
+          "filas": [
+            {
+              "etiqueta": "ES 2018: 35,2 %",
+              "valor": 35.2,
+              "color": "#14213D",
+              "en": 0.1
+            },
+            {
+              "etiqueta": "ES 2025: 38,1 %",
+              "valor": 38.1,
+              "color": "#14213D",
+              "en": 0.4
+            },
+            {
+              "etiqueta": "UE 2018: 41,1 %",
+              "valor": 41.1,
+              "color": "#8D99AE",
+              "en": 1.9
+            },
+            {
+              "etiqueta": "UE 2025: 40,7 %",
+              "valor": 40.7,
+              "color": "#F2B134",
+              "en": 3.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 14.86,
+      "fin": 18.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "BRECHA CON LA UE (2025)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "cifraGrandeSerie",
+          "valor": "2,6 PUNTOS",
+          "y": 470,
+          "tam": 128,
+          "en": 1.72
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "40,7 − 38,1 · cálculo propio"
+          ],
+          "en": 2.02,
+          "tamano": 40
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 41.1,
+          "base": 1100,
+          "hMax": 300,
+          "w": 200,
+          "centros": [
+            300,
+            780
+          ],
+          "tamEtiqueta": 48,
+          "barras": [
+            {
+              "etiqueta": "ESPAÑA",
+              "valor": 38.1,
+              "color": "#14213D",
+              "en": 0.1,
+              "dur": 0.5,
+              "dec": true,
+              "prefijo": ""
+            },
+            {
+              "etiqueta": "UE",
+              "valor": 40.7,
+              "color": "#F2B134",
+              "en": 0.3,
+              "dur": 0.5,
+              "dec": true,
+              "prefijo": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 18.42,
+      "fin": 22.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2024: 37,2 % → 2025: 38,1 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 56
+        },
+        {
+          "tipo": "cifraGrandeSerie",
+          "valor": "+0,9 PUNTOS",
+          "y": 470,
+          "tam": 110,
+          "en": 2.4400000000000004
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 38.1,
+          "base": 1100,
+          "hMax": 300,
+          "w": 200,
+          "centros": [
+            300,
+            780
+          ],
+          "tamEtiqueta": 48,
+          "barras": [
+            {
+              "etiqueta": "2024",
+              "valor": 37.2,
+              "color": "#8D99AE",
+              "en": 0.1,
+              "dur": 0.6,
+              "dec": true,
+              "prefijo": ""
+            },
+            {
+              "etiqueta": "2025",
+              "valor": 38.1,
+              "color": "#F2B134",
+              "en": 1.9,
+              "dur": 0.7,
+              "dec": true,
+              "prefijo": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 22.38,
+      "fin": 25.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ENTRE LAS MAYORES SUBIDAS DE LA UE",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 56
+        },
+        {
+          "tipo": "fichaSerie",
+          "filas": [
+            "Alemania",
+            "Malta",
+            "España",
+            "Francia"
+          ],
+          "y": 640,
+          "paso": 0.55,
+          "tam": 72,
+          "en": 0.7
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Eurostat · 2025"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 25.58,
+      "fin": 29.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NO ES LO QUE PAGAS TÚ",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Mide recaudación total sobre el PIB",
+          "y": 440,
+          "en": 0.9,
+          "tamano": 48
+        },
+        {
+          "tipo": "barraFigurasSerie",
+          "n": 10,
+          "y": 880,
+          "en": 0.5,
+          "divide": 1.5
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO MIDE"
+          ],
+          "x": 540,
+          "y": 640,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 80,
+          "en": 1.3
+        }
+      ]
+    },
+    {
+      "inicio": 29.58,
+      "fin": 34.03,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "barrasHSerie",
+          "titulo": "DEL TOTAL (2025)",
+          "max": 60,
+          "paso": 20,
+          "y0": 330,
+          "alto": 190,
+          "dur": 0.9,
+          "filas": [
+            {
+              "etiqueta": "Estado central: 42,7 %",
+              "valor": 42.7,
+              "color": "#F2B134",
+              "en": 0.3
+            },
+            {
+              "etiqueta": "Comunidades: 16,6 %",
+              "valor": 16.6,
+              "color": "#8D99AE",
+              "en": 3.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 34.03,
+      "fin": 36.49,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿MENOS IMPUESTOS O MÁS SERVICIOS?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 56
+        },
+        {
+          "tipo": "contadorSerie",
+          "valA": 35.2,
+          "valB": 38.1,
+          "etiqA": "2018",
+          "etiqB": "2025",
+          "dec": true,
+          "xA": 110,
+          "xB": 590,
+          "w": 260,
+          "base": 800,
+          "hMax": 200,
+          "etiqBYa": true,
+          "cuentaEn": -5,
+          "cuentaDur": 1,
+          "valores": false,
+          "etiquetas": false
+        },
+        {
+          "tipo": "abSerie",
+          "a": "MENOS IMPUESTOS",
+          "b": "MÁS SERVICIOS",
+          "y": 880,
+          "en": 0.7
+        }
+      ]
+    },
+    {
+      "inicio": 36.49,
+      "fin": 40.09,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 4
+        }
+      ]
+    }
+  ]
+}
