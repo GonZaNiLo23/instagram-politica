@@ -79,3 +79,7 @@
 - 2026-11-12T12:31:09.189Z · 043-regularizados-cotizan: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-12T14:01:01.545Z · am20261112-1326-abascal-cancela-wild v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfpOIPwFcq2/
 - 2026-11-12T14:01:05.617Z · am20261112-1326-abascal-cancela-wild: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-12T18:01:25.959Z · 044-deuda-bajo-100 v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfpprUDkyJj/
+- 2026-11-12T18:01:28.748Z · 044-deuda-bajo-100: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-12T18:02:14.041Z · am20261112-1727-sanchez-decreto-vivienda v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfppwL3k6eq/
+- 2026-11-12T18:02:17.137Z · am20261112-1727-sanchez-decreto-vivienda: TikTok en la bandeja de borradores (falta publicarlo desde la app)
