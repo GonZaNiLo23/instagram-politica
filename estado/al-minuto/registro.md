@@ -197,3 +197,4 @@
 - 2026-11-11 17:27 UTC (publicación 18:00 Madrid) · 2 · @santi_abascal (Llagostera, 62 s) · descartado: casi sin habla (7 palabras, Whisper dudoso), no se entiende sin contexto; sin publicación
 - 2026-11-11 19:29 UTC (publicación 20:00 Madrid) · 1 · @vox_es (recibimiento a Abascal en Tarragona, 11 s) · descartado: sin habla, sin frase; sin publicación
 - 2026-11-12 05:30 UTC (publicación 06:00 Madrid): sin candidatos (radar generado 05:28 UTC, 0 detectados); sin publicación.
+- 2026-11-12 07:30 UTC (publicación 08:00 Madrid): sin candidatos (radar generado 07:28 UTC, 0 detectados); sin publicación.
