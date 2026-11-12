@@ -209,3 +209,8 @@
 - 2026-11-12 17:30 UTC (publicación 18:00 Madrid) · 4 · @sanchezcastejon (decreto de vivienda convalidado, tramo 0,43–37,31 s; subtítulos cotejados con la transcripción; Whisper «desgrabaciones»→«desgravaciones»; medidas anunciadas por el Gobierno, opinión en la descripción sin acusaciones; viral 202) · publicado am20261112-1727-sanchez-decreto-vivienda
 - 2026-11-12 17:30 UTC · 3 · @vox_es (Garriga, huelga general, 122 s) · descartado: acusaciones de «instigadores»/«invasores» no probadas, sin tramo limpio; un envío por hora
 - 2026-11-12 17:30 UTC · 1 · La Moncloa (llamada Sánchez–Sheinbaum, 16 s) · descartado: sin habla
+- 2026-11-12 19:30 UTC (publicación 20:00 Madrid) · 3 · @sanchezcastejon (violencia digital contra mujeres, tramo 0–24,26 s; subtítulos cotejados con la transcripción; atribuido a Sánchez, sin acusaciones; viral 341) · publicado am20261112-1926-sanchez-violencia-digital
+- 2026-11-12 19:30 UTC · 2 · @vox_es (Meer, sindicatos «amarillos», 70 s) · descartado: cifras no contrastadas, sin tramo limpio; viral bajo
+- 2026-11-12 19:30 UTC · 2 · @vox_es (Meer, vivienda, 60 s) · descartado: mismo tema publicado hace 2 h; viral bajo
+- 2026-11-12 19:30 UTC · 1 · @partidopopular (rap «Primeras reacciones») · descartado: música/sin frase política
+- 2026-11-12 19:30 UTC · 1 · @vox_es (Huesca, 11 s) · descartado: sin habla
