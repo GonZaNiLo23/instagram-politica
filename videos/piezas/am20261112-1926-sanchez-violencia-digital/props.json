@@ -1,0 +1,100 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 27.76,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 24.26,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 24.26,
+          "fundidoFin": 24.26
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "SÁNCHEZ PIDE UNA RED SIN VIOLENCIA DIGITAL",
+          "fecha": "12 NOV",
+          "credito": "Vídeo: @sanchezcastejon"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.04,
+              "texto": "Tu éxito, si me permites que te tute,"
+            },
+            {
+              "inicio": 2.04,
+              "fin": 5.36,
+              "texto": "nos recuerda que internet debe ser un espacio en el que las mujeres"
+            },
+            {
+              "inicio": 5.92,
+              "fin": 7.68,
+              "texto": "puedan crear, puedan participar,"
+            },
+            {
+              "inicio": 8.46,
+              "fin": 10.7,
+              "texto": "desarrollar su talento con libertad."
+            },
+            {
+              "inicio": 10.88,
+              "fin": 13.6,
+              "texto": "No basta con que las mujeres lleguen a estos espacios,"
+            },
+            {
+              "inicio": 14.18,
+              "fin": 16.32,
+              "texto": "creo que entre todos tenemos que garantizar"
+            },
+            {
+              "inicio": 16.32,
+              "fin": 19.18,
+              "texto": "que puedan permanecer en ellos sin violencia digital,"
+            },
+            {
+              "inicio": 19.54,
+              "fin": 21.4,
+              "texto": "sin acosos, sin amenazas,"
+            },
+            {
+              "inicio": 21.52,
+              "fin": 24.26,
+              "texto": "que por desgracia sufrís y mucho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 24.26,
+      "fin": 27.76,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Sánchez pide garantizar que las mujeres no sufran acoso en internet",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261112-1926-sanchez-violencia-digital",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
