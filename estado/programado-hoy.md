@@ -32,3 +32,4 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 040-tu-casa-50000-euros (v3) | Reel 82 s | Instagram + TikTok (borrador) vía cola | 2026-11-11 19:00 | revisiones/guiones/040-…-v1.md (recomprobado 11-11) · revisiones/videos/040-…-v3.md (9/10). Caduca tras la votación del 12-11 |
 | 043-regularizados-cotizan | Reel 39 s | Instagram + TikTok () vía cola | 2026-11-12 13:30 | revisiones/guiones/043-…-v1.md · revisiones/videos/043-…-v1.md (9/10). Recomprobar cifras SS 4-11 |
 | 044-deuda-bajo-100 | Reel 39 s | Instagram + TikTok vía cola | 2026-11-12 19:00 | revisiones/guiones/044-…-v1.md · revisiones/videos/044-…-v1.md (9/10). Recomprobar deuda Banco de España |
+| 042-8-anos-presion-fiscal | Reel 40 s | Instagram + TikTok (borrador) vía cola | 2026-11-13 13:30 | revisiones/guiones/042-…-v1.md · revisiones/videos/042-…-v1.md (9/10) |

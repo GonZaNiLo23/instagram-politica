@@ -90,7 +90,7 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 041 | 8-anos-vivienda | 💶 Economía · serie 8 años | Flash | programado | 1 | 3 | 2026-11-11 13:30 (cola, aprobación permanente) | v3 APROBADO 9/10 |
 | am20261111-1128-buxade-rtve-entrevista | Al minuto: Buxadé denuncia que RTVE retiene 40 minutos de la entrevista a Abascal | publicando (Al minuto horario) |
 | am20261111-1330-alvise-sustituir-abascal | Al minuto: Alvise se ofrece a sustituir a Abascal en el programa de Évole | publicando (Al minuto horario) |
-| 042 | 8-anos-presion-fiscal | 💶 Economía · serie 8 años | Flash | guion-aprobado | 1 | 0 | — | 2026-11-12: cifras 2018 verificadas; CAMBIOS literales aplicados; pasa a vídeo (hueco 13-11 13:30) |
+| 042 | 8-anos-presion-fiscal | 💶 Economía · serie 8 años | Flash | programado | 1 | 1 | 2026-11-13 13:30 (cola) | v1 APROBADO 9/10 |
 | 043 | regularizados-cotizan | 💶 Economía | Estándar | programado | 1 | 1 | 2026-11-12 13:30 (cola) | v1 APROBADO 9/10 |
 | 044 | deuda-bajo-100 | 💶 Economía | Estándar | programado | 1 | 1 | 2026-11-12 19:00 (cola) | v1 APROBADO 9/10 |
 | 045 | debates-academia-tv | 🔴 Actualidad · Cómo funciona | Estándar | guion-borrador | 0 | 0 | — | 2026-11-12: A MEDIAS. Premisa superada (el 9-11 PSOE y PP acuerdan que organice la Academia de TV; fechas 16-N y 26-N sin confirmar). Ver nota en guiones/borradores/045-debates-academia-tv.md |

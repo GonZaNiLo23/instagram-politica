@@ -1,0 +1,452 @@
+{
+  "plantilla": "flash",
+  "duracion": 41.14,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 7,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "PARO JUVENIL 34,3 %",
+            "y": 470,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "MEDIA ANUAL 2018",
+            "y": 740,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "barrasVSerie",
+            "max": 34.3,
+            "base": 1150,
+            "hMax": 250,
+            "w": 200,
+            "centros": [
+              300,
+              780
+            ],
+            "tamEtiqueta": 64,
+            "barras": [
+              {
+                "etiqueta": "2018",
+                "valor": 34.3,
+                "color": "#14213D",
+                "en": -1,
+                "dur": 1,
+                "dec": true,
+                "prefijo": ""
+              },
+              {
+                "etiqueta": "¿Y hoy?",
+                "valor": 0,
+                "en": -1,
+                "contorno": true,
+                "altoContorno": 150
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 7,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "PARO JUVENIL 34,3 %",
+          "y": 470,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MEDIA ANUAL 2018",
+          "y": 740,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 34.3,
+          "base": 1150,
+          "hMax": 250,
+          "w": 200,
+          "centros": [
+            300,
+            780
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "barras": [
+            {
+              "etiqueta": "2018",
+              "valor": 34.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 1,
+              "dec": true,
+              "prefijo": ""
+            },
+            {
+              "etiqueta": "¿Y hoy?",
+              "valor": 0,
+              "en": -0.88,
+              "contorno": true,
+              "altoContorno": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 4.22,
+      "fin": 12.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EUROSTAT · <25 años · % de la población activa",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Definición distinta desde 2021 (marca de Eurostat)",
+          "y": 640,
+          "en": 5.06,
+          "tamano": 64
+        },
+        {
+          "tipo": "cifraGrandeSerie",
+          "valor": "2021",
+          "y": 960,
+          "tam": 170,
+          "en": 5.26
+        }
+      ]
+    },
+    {
+      "inicio": 12.38,
+      "fin": 18.3,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2025: 24,9 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 34.3,
+          "base": 1030,
+          "hMax": 270,
+          "w": 200,
+          "centros": [
+            300,
+            780
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "flecha": {
+            "barra": 0,
+            "hasta": 24.9,
+            "en": 3.06
+          },
+          "barras": [
+            {
+              "etiqueta": "2018",
+              "valor": 34.3,
+              "color": "#14213D",
+              "en": 0.1,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            },
+            {
+              "etiqueta": "2025",
+              "valor": 24.9,
+              "color": "#F2B134",
+              "en": 1.22,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "MEJORA"
+          ],
+          "x": 540,
+          "y": 470,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 80,
+          "en": 4.5
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RESTA: 9,4 PUNTOS (cálculo propio)",
+            "definición distinta desde 2021"
+          ],
+          "en": 2.56,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 18.3,
+      "fin": 23.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SEPT. 2026: 22,8 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "dato mensual desestacionalizado, no comparable con la media anual",
+          "y": 440,
+          "en": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 34.3,
+          "base": 1150,
+          "hMax": 220,
+          "w": 200,
+          "centros": [
+            540
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "barras": [
+            {
+              "etiqueta": "SEPT. 2026",
+              "valor": 22.8,
+              "color": "#F2B134",
+              "en": 3.3,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 23.26,
+      "fin": 25.7,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "UE 2025: 15,2 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 34.3,
+          "base": 1150,
+          "hMax": 270,
+          "w": 200,
+          "centros": [
+            300,
+            780
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "barras": [
+            {
+              "etiqueta": "ESPAÑA",
+              "valor": 24.9,
+              "color": "#14213D",
+              "en": 0.1,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            },
+            {
+              "etiqueta": "UE",
+              "valor": 15.2,
+              "color": "#F2B134",
+              "en": 1.1,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 25.7,
+      "fin": 30.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "BRECHA: 17,6 → 9,7 PUNTOS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "cálculo propio"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 17.6,
+          "base": 1050,
+          "hMax": 330,
+          "w": 200,
+          "centros": [
+            300,
+            780
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "flecha": {
+            "barra": 0,
+            "hasta": 9.7,
+            "en": 3.12
+          },
+          "barras": [
+            {
+              "etiqueta": "2018",
+              "valor": 17.6,
+              "color": "#14213D",
+              "en": 0.1,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "2025",
+              "valor": 9.7,
+              "color": "#F2B134",
+              "en": 3.02,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": "",
+              "sufijo": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 30.38,
+      "fin": 34.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NO MIDE: INACTIVOS (no buscan empleo)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraFigurasSerie",
+          "n": 10,
+          "y": 940,
+          "en": 0.5,
+          "divide": 1.5
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NO MIDE"
+          ],
+          "x": 540,
+          "y": 690,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 80,
+          "en": 1
+        }
+      ]
+    },
+    {
+      "inicio": 34.66,
+      "fin": 37.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿SUFICIENTE?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "MEJORA SUFICIENTE",
+          "b": "AÚN LEJOS DE EUROPA",
+          "y": 700,
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 37.5,
+      "fin": 41.14,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 8
+        }
+      ]
+    }
+  ]
+}
