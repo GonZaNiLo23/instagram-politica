@@ -75,3 +75,5 @@
 - 2026-11-11T14:00:50.368Z · am20261111-1330-alvise-sustituir-abascal: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-11T18:01:04.978Z · 040-tu-casa-50000-euros v3: PUBLICADA en Instagram https://www.instagram.com/reel/DfnEzX9Dr8P/
 - 2026-11-11T18:01:08.621Z · 040-tu-casa-50000-euros: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-12T12:31:06.816Z · 043-regularizados-cotizan v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfpD1lhAnrT/
+- 2026-11-12T12:31:09.189Z · 043-regularizados-cotizan: TikTok en la bandeja de borradores (falta publicarlo desde la app)
