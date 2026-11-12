@@ -105,7 +105,8 @@
               "en": -1,
               "dur": 1.2
             }
-          ]
+          ],
+          "vivo": true
         }
       ]
     },
@@ -195,7 +196,8 @@
           "tipo": "ventanillaP",
           "y": 720,
           "tam": 560,
-          "en": 0.3
+          "en": 0.3,
+          "vivo": true
         }
       ]
     },

@@ -1,0 +1,268 @@
+{
+  "plantilla": "estandar",
+  "duracion": 38.58,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 90,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "BAJA LA DEUDA ↓",
+            "y": 330,
+            "tamano": 118,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "SUBE LA DEUDA ↑",
+            "y": 600,
+            "tamano": 118,
+            "en": -1
+          },
+          {
+            "tipo": "flechasD",
+            "y": 1060,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.7,
+      "fondo": "crema",
+      "fuente": "Banco de España, agosto 2026",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "BAJA LA DEUDA ↓",
+          "y": 330,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "SUBE LA DEUDA ↑",
+          "y": 590,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "flechasD",
+          "y": 1010,
+          "en": 0
+        }
+      ]
+    },
+    {
+      "inicio": 4.7,
+      "fin": 12.3,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "duoD",
+          "y": 340,
+          "paso": 270,
+          "enA": 0.88,
+          "enB": 3.84
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Deuda de las Administraciones Públicas (PDE), agosto 2026"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 12.3,
+      "fin": 15.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PIB = LO QUE PRODUCE EL PAÍS EN UN AÑO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 15.26,
+      "fin": 19.18,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PIB = LO QUE PRODUCE EL PAÍS EN UN AÑO",
+          "y": 330,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "sueldoCasaD",
+          "y": 800,
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 19.18,
+      "fin": 22.57,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DEUDA EN EUROS +2,9 % (interanual)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "separanD",
+          "y": 800,
+          "en": 1.1199999999999999,
+          "enB": 5.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Agosto 2026 frente a agosto 2025"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 22.57,
+      "fin": 26.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DEUDA EN EUROS +2,9 % (interanual)",
+          "y": 330,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "% DEL PIB −3,1 PUNTOS (interanual)",
+          "y": 520,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "separanD",
+          "y": 800,
+          "en": -5,
+          "enB": 1.8099999999999998
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Agosto 2026 frente a agosto 2025"
+          ],
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 26.62,
+      "fin": 31.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "BAJO 100 %: PRIMERA VEZ DESDE FEB-2020",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "foto",
+          "src": "bde.jpg",
+          "x": 500,
+          "y": 745,
+          "ancho": 880,
+          "alto": 290,
+          "foco": "55% 45%",
+          "zoom": [
+            1.02,
+            1.12
+          ],
+          "dur": 4.2,
+          "en": 0.3
+        },
+        {
+          "tipo": "bandaD",
+          "y": 960,
+          "en": 0.5,
+          "paso": 0.1,
+          "ultimoEn": 1.5999999999999999
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Estimación del Banco de España (avance)",
+            "Foto: Sanva1959, CC BY-SA 3.0 es, Wikimedia Commons"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 31.02,
+      "fin": 34.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿EUROS O % DEL PIB?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 80
+        },
+        {
+          "tipo": "flechasD",
+          "y": 880,
+          "en": 0.2,
+          "choque": true
+        }
+      ]
+    },
+    {
+      "inicio": 34.9,
+      "fin": 38.58,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿EUROS O % DEL PIB?",
+          "tamano": 96,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

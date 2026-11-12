@@ -29,7 +29,7 @@ const barras = (max, hMax, valores, en, dur, extra = {}) => ({
 esc(0, b2, {fondo: 'crema', fuente: 'Seguridad Social y Trabajo, 4-11-2026'}, [
   {tipo: 'gancho', texto: `RÉCORD DE${NB}AFILIADOS`, y: 330, tamano: 110, en: -1},
   {tipo: 'gancho', texto: `MÁS${NB}PARADOS`, y: 610, tamano: 110, en: -1},
-  barras(100, 260, [100, 60], [-1, -1], 1.2),
+  barras(100, 260, [100, 60], [-1, -1], 1.2, {vivo: true}),
 ]);
 // 2 · Primera prueba (las barras siguen durante "No miden lo mismo")
 esc(b2, b2b, {fondo: 'crema'}, [
@@ -44,7 +44,7 @@ esc(b2b, b3, {fondo: 'crema'}, [
 ]);
 esc(b3, b4, {fondo: 'crema'}, [
   rot(`PARADO REGISTRADO = PARADO INSCRITO EN${NB}EL${NB}SERVICIO${NB}DE${NB}EMPLEO`, 330, 0.05),
-  {tipo: 'ventanillaP', y: 720, tam: 560, en: 0.3},
+  {tipo: 'ventanillaP', y: 720, tam: 560, en: 0.3, vivo: true},
 ]);
 // 4 · Regularización
 esc(b4, b5, {fondo: 'crema', fuente: 'Seguridad Social'}, [

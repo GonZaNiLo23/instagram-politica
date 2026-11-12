@@ -253,14 +253,15 @@ export const BarrasVSerie: React.FC<{
   lineaRef?: {valor: number; en: number; color?: string};
   flecha?: {barra: number; hasta: number; en: number};
   fragmenta?: {barra: number; en: number; n?: number};
-}> = ({barras, max = 39, base = 1060, hMax = 240, w = 200, centros, tamEtiqueta = 52, hasta, lineaRef, flecha, fragmenta}) => {
+  vivo?: boolean;
+}> = ({barras, max = 39, base = 1060, hMax = 240, w = 200, centros, tamEtiqueta = 52, hasta, lineaRef, flecha, fragmenta, vivo = false}) => {
   const {t} = usa();
   const s = useSalida(hasta);
   const cs = centros ?? (barras.length === 2 ? [300, 780] : [190, 540, 830]);
   const alto = (v: number) => (v / max) * hMax;
   const fr = fragmenta ? ease(t, fragmenta.en, fragmenta.en + 0.9) : 0;
   return lienzo(
-    <g>
+    <g transform={`translate(0 ${vivo ? Math.sin(t * 2.4) * 8 : 0})`}>
       <line x1={SEGURA.izq} y1={base} x2={SEGURA.izq + SEGURA.ancho} y2={base} stroke={C.tinta} strokeWidth={6} strokeLinecap="round" />
       {barras.map((b, i) => {
         const cx = b.cx ?? cs[i];

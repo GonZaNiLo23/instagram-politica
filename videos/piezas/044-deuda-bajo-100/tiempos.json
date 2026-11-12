@@ -1,0 +1,538 @@
+{
+  "palabras": [
+    {
+      "t": "Baja",
+      "inicio": 0,
+      "fin": 0.32
+    },
+    {
+      "t": "la",
+      "inicio": 0.36,
+      "fin": 0.4
+    },
+    {
+      "t": "deuda…",
+      "inicio": 0.48,
+      "fin": 1.36
+    },
+    {
+      "t": "y",
+      "inicio": 1.48,
+      "fin": 1.6
+    },
+    {
+      "t": "sube",
+      "inicio": 1.76,
+      "fin": 2
+    },
+    {
+      "t": "la",
+      "inicio": 2.04,
+      "fin": 2.08
+    },
+    {
+      "t": "deuda.",
+      "inicio": 2.16,
+      "fin": 2.56
+    },
+    {
+      "t": "Las",
+      "inicio": 2.96,
+      "fin": 3.12
+    },
+    {
+      "t": "dos",
+      "inicio": 3.2,
+      "fin": 3.28
+    },
+    {
+      "t": "cosas",
+      "inicio": 3.36,
+      "fin": 3.6
+    },
+    {
+      "t": "son",
+      "inicio": 3.68,
+      "fin": 3.76
+    },
+    {
+      "t": "ciertas.",
+      "inicio": 3.84,
+      "fin": 4.4
+    },
+    {
+      "t": "Agosto:",
+      "inicio": 4.8,
+      "fin": 5.6
+    },
+    {
+      "t": "noventa",
+      "inicio": 5.68,
+      "fin": 6
+    },
+    {
+      "t": "y",
+      "inicio": 6.04,
+      "fin": 6.08
+    },
+    {
+      "t": "nueve",
+      "inicio": 6.12,
+      "fin": 6.24
+    },
+    {
+      "t": "coma",
+      "inicio": 6.4,
+      "fin": 6.48
+    },
+    {
+      "t": "siete",
+      "inicio": 6.64,
+      "fin": 6.88
+    },
+    {
+      "t": "por",
+      "inicio": 6.96,
+      "fin": 7.12
+    },
+    {
+      "t": "ciento",
+      "inicio": 7.2,
+      "fin": 7.44
+    },
+    {
+      "t": "del",
+      "inicio": 7.52,
+      "fin": 7.6
+    },
+    {
+      "t": "PIB…",
+      "inicio": 7.76,
+      "fin": 8.24
+    },
+    {
+      "t": "Y",
+      "inicio": 8.64,
+      "fin": 8.72
+    },
+    {
+      "t": "un",
+      "inicio": 8.8,
+      "fin": 8.88
+    },
+    {
+      "t": "billón",
+      "inicio": 8.96,
+      "fin": 9.28
+    },
+    {
+      "t": "setecientos",
+      "inicio": 9.44,
+      "fin": 10.08
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 10.16,
+      "fin": 10.56
+    },
+    {
+      "t": "mil",
+      "inicio": 10.72,
+      "fin": 10.8
+    },
+    {
+      "t": "millones",
+      "inicio": 10.96,
+      "fin": 11.36
+    },
+    {
+      "t": "de",
+      "inicio": 11.44,
+      "fin": 11.48
+    },
+    {
+      "t": "euros.",
+      "inicio": 11.52,
+      "fin": 12.2
+    },
+    {
+      "t": "El",
+      "inicio": 12.4,
+      "fin": 12.48
+    },
+    {
+      "t": "PIB",
+      "inicio": 12.56,
+      "fin": 12.96
+    },
+    {
+      "t": "es",
+      "inicio": 13.12,
+      "fin": 13.28
+    },
+    {
+      "t": "lo",
+      "inicio": 13.32,
+      "fin": 13.36
+    },
+    {
+      "t": "que",
+      "inicio": 13.44,
+      "fin": 13.48
+    },
+    {
+      "t": "produce",
+      "inicio": 13.52,
+      "fin": 13.92
+    },
+    {
+      "t": "el",
+      "inicio": 13.96,
+      "fin": 14
+    },
+    {
+      "t": "país",
+      "inicio": 14.08,
+      "fin": 14.32
+    },
+    {
+      "t": "en",
+      "inicio": 14.4,
+      "fin": 14.48
+    },
+    {
+      "t": "un",
+      "inicio": 14.52,
+      "fin": 14.56
+    },
+    {
+      "t": "año.",
+      "inicio": 14.64,
+      "fin": 14.96
+    },
+    {
+      "t": "Si",
+      "inicio": 15.36,
+      "fin": 15.44
+    },
+    {
+      "t": "tu",
+      "inicio": 15.52,
+      "fin": 15.6
+    },
+    {
+      "t": "sueldo",
+      "inicio": 15.64,
+      "fin": 15.92
+    },
+    {
+      "t": "sube",
+      "inicio": 16.04,
+      "fin": 16.24
+    },
+    {
+      "t": "más",
+      "inicio": 16.32,
+      "fin": 16.48
+    },
+    {
+      "t": "que",
+      "inicio": 16.56,
+      "fin": 16.64
+    },
+    {
+      "t": "tu",
+      "inicio": 16.68,
+      "fin": 16.72
+    },
+    {
+      "t": "hipoteca,",
+      "inicio": 16.8,
+      "fin": 17.52
+    },
+    {
+      "t": "esa",
+      "inicio": 17.64,
+      "fin": 17.76
+    },
+    {
+      "t": "deuda",
+      "inicio": 17.84,
+      "fin": 18.08
+    },
+    {
+      "t": "pesa",
+      "inicio": 18.16,
+      "fin": 18.4
+    },
+    {
+      "t": "menos.",
+      "inicio": 18.52,
+      "fin": 18.88
+    },
+    {
+      "t": "En",
+      "inicio": 19.28,
+      "fin": 19.36
+    },
+    {
+      "t": "un",
+      "inicio": 19.44,
+      "fin": 19.52
+    },
+    {
+      "t": "año,",
+      "inicio": 19.56,
+      "fin": 19.92
+    },
+    {
+      "t": "la",
+      "inicio": 19.96,
+      "fin": 20
+    },
+    {
+      "t": "deuda",
+      "inicio": 20.08,
+      "fin": 20.32
+    },
+    {
+      "t": "subió",
+      "inicio": 20.4,
+      "fin": 20.64
+    },
+    {
+      "t": "un",
+      "inicio": 20.72,
+      "fin": 20.8
+    },
+    {
+      "t": "dos",
+      "inicio": 20.88,
+      "fin": 21.04
+    },
+    {
+      "t": "coma",
+      "inicio": 21.2,
+      "fin": 21.28
+    },
+    {
+      "t": "nueve",
+      "inicio": 21.44,
+      "fin": 21.6
+    },
+    {
+      "t": "por",
+      "inicio": 21.68,
+      "fin": 21.76
+    },
+    {
+      "t": "ciento.",
+      "inicio": 21.92,
+      "fin": 22.64
+    },
+    {
+      "t": "Pero",
+      "inicio": 22.667,
+      "fin": 22.72
+    },
+    {
+      "t": "el",
+      "inicio": 22.8,
+      "fin": 22.88
+    },
+    {
+      "t": "porcentaje",
+      "inicio": 22.96,
+      "fin": 23.44
+    },
+    {
+      "t": "sobre",
+      "inicio": 23.48,
+      "fin": 23.68
+    },
+    {
+      "t": "el",
+      "inicio": 23.72,
+      "fin": 23.76
+    },
+    {
+      "t": "PIB",
+      "inicio": 23.84,
+      "fin": 24.16
+    },
+    {
+      "t": "bajó",
+      "inicio": 24.48,
+      "fin": 24.72
+    },
+    {
+      "t": "tres",
+      "inicio": 24.88,
+      "fin": 25.12
+    },
+    {
+      "t": "coma",
+      "inicio": 25.28,
+      "fin": 25.44
+    },
+    {
+      "t": "uno",
+      "inicio": 25.52,
+      "fin": 25.6
+    },
+    {
+      "t": "puntos.",
+      "inicio": 25.76,
+      "fin": 26.64
+    },
+    {
+      "t": "Desde",
+      "inicio": 26.72,
+      "fin": 26.88
+    },
+    {
+      "t": "febrero",
+      "inicio": 26.96,
+      "fin": 27.28
+    },
+    {
+      "t": "de",
+      "inicio": 27.36,
+      "fin": 27.44
+    },
+    {
+      "t": "dos",
+      "inicio": 27.52,
+      "fin": 27.6
+    },
+    {
+      "t": "mil",
+      "inicio": 27.68,
+      "fin": 27.76
+    },
+    {
+      "t": "veinte",
+      "inicio": 27.84,
+      "fin": 28.08
+    },
+    {
+      "t": "no",
+      "inicio": 28.32,
+      "fin": 28.4
+    },
+    {
+      "t": "bajaba",
+      "inicio": 28.48,
+      "fin": 28.8
+    },
+    {
+      "t": "de",
+      "inicio": 28.88,
+      "fin": 28.96
+    },
+    {
+      "t": "cien,",
+      "inicio": 29,
+      "fin": 29.44
+    },
+    {
+      "t": "estima",
+      "inicio": 29.56,
+      "fin": 29.84
+    },
+    {
+      "t": "el",
+      "inicio": 29.88,
+      "fin": 29.92
+    },
+    {
+      "t": "Banco",
+      "inicio": 29.96,
+      "fin": 30.16
+    },
+    {
+      "t": "de",
+      "inicio": 30.24,
+      "fin": 30.28
+    },
+    {
+      "t": "España.",
+      "inicio": 30.32,
+      "fin": 30.92
+    },
+    {
+      "t": "¿Qué",
+      "inicio": 31.12,
+      "fin": 31.2
+    },
+    {
+      "t": "cifra",
+      "inicio": 31.28,
+      "fin": 31.52
+    },
+    {
+      "t": "te",
+      "inicio": 31.56,
+      "fin": 31.6
+    },
+    {
+      "t": "importa",
+      "inicio": 31.68,
+      "fin": 32
+    },
+    {
+      "t": "más:",
+      "inicio": 32.04,
+      "fin": 32.64
+    },
+    {
+      "t": "euros",
+      "inicio": 32.68,
+      "fin": 33.12
+    },
+    {
+      "t": "o",
+      "inicio": 33.28,
+      "fin": 33.32
+    },
+    {
+      "t": "porcentaje",
+      "inicio": 33.36,
+      "fin": 33.92
+    },
+    {
+      "t": "del",
+      "inicio": 34,
+      "fin": 34.08
+    },
+    {
+      "t": "PIB?",
+      "inicio": 34.16,
+      "fin": 34.96
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 35,
+      "fin": 35.44
+    },
+    {
+      "t": "para",
+      "inicio": 35.52,
+      "fin": 35.68
+    },
+    {
+      "t": "estar",
+      "inicio": 35.8,
+      "fin": 35.92
+    },
+    {
+      "t": "informado.",
+      "inicio": 36.08,
+      "fin": 36.72
+    }
+  ],
+  "duracion": 36.675918,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

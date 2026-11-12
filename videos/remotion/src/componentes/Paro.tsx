@@ -109,11 +109,13 @@ export const CasasP: React.FC<{y: number; en?: number; n?: number; paso?: number
 };
 
 /** Ventanilla de oficina de empleo con carné de demandante. x = centro. */
-export const VentanillaP: React.FC<{x?: number; y: number; tam?: number; en?: number}> = ({x = 540, y, tam = 300, en = 0}) => {
+export const VentanillaP: React.FC<{x?: number; y: number; tam?: number; en?: number; vivo?: boolean}> = ({x = 540, y, tam = 300, en = 0, vivo = false}) => {
+  const fr = useCurrentFrame();
+  const bal = vivo ? Math.sin(fr / 30 * 2.4) * 9 : 0;
   const p = useEntrada(en);
   const q = useEntrada(en + 0.5);
   return (
-    <svg style={{position: 'absolute', left: x - tam / 2, top: y, opacity: Math.min(p, 1)}} width={tam} height={tam * 0.8} viewBox="0 0 300 240">
+    <svg style={{position: 'absolute', left: x - tam / 2, top: y + bal, opacity: Math.min(p, 1)}} width={tam} height={tam * 0.8} viewBox="0 0 300 240">
       <rect x="10" y="10" width="280" height="150" rx="14" fill={C.crema} stroke={C.tinta} strokeWidth="9" />
       <rect x="40" y="40" width="220" height="90" fill={C.turquesa} opacity="0.35" /><circle cx="150" cy="70" r="16" fill={C.tinta} /><path d="M118 130 V100 Q118 86 150 86 Q182 86 182 100 V130 Z" fill={C.tinta} />
       <rect x="0" y="150" width="300" height="26" rx="8" fill={C.tinta} />
