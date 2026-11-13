@@ -215,3 +215,4 @@
 - 2026-11-12 19:30 UTC · 1 · @partidopopular (rap «Primeras reacciones») · descartado: música/sin frase política
 - 2026-11-12 19:30 UTC · 1 · @vox_es (Huesca, 11 s) · descartado: sin habla
 - 2026-11-13 07:30 UTC (publicación 08:00 Madrid): sin candidatos (radar generado 07:29 UTC, 0 detectados); sin publicación.
+- 2026-11-13 09:30 UTC (publicación 10:00 Madrid): sin candidatos (radar generado 09:28 UTC, 0 detectados); sin publicación.
