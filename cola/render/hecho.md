@@ -34,3 +34,4 @@
 - 2026-11-12T13:37:51Z · am20261112-1326-abascal-cancela-wild v1 · OK · ffprobe: h264 1080x1920 @30/1 · 37.00 s (objetivo 36.9 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-12T17:37:05Z · am20261112-1727-sanchez-decreto-vivienda v1 · OK · ffprobe: h264 1080x1920 @30/1 · 40.50 s (objetivo 40.38 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-12T19:35:21Z · am20261112-1926-sanchez-violencia-digital v1 · OK · ffprobe: h264 1080x1920 @30/1 · 27.90 s (objetivo 27.76 s) -> OK Volumen integrado: -14.4 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-13T14:56:53Z · am20261113-1448-abascal-movilizacion v1 · OK · ffprobe: h264 1080x1920 @30/1 · 19.70 s (objetivo 19.6 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
