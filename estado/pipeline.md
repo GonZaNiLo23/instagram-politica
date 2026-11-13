@@ -101,3 +101,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261113-1448-abascal-movilizacion | Al minuto: Abascal convoca a una gran movilización | publicando (Al minuto horario) |
 | 047 | 8-anos-pensiones | 📊 Datos · serie 8 años | Flash | programado | 1 | 1 | 2026-11-14 12:00 (cola) | v1 APROBADO 9/10 |
 | 048 | 8-anos-productividad | 📊 Datos · serie 8 años | Flash | programado | 1 | 2 | 2026-11-14 19:00 (cola) | v2 comprobada por coordinador |
+| am20261113-1648-abascal-prioridad-nacional | Al minuto: Abascal, prioridad nacional | publicando (Al minuto horario) |

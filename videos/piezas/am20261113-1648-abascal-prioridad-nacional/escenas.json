@@ -1,0 +1,85 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 20.6,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 17.1,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "fundidoFin": 17.1,
+     "zoom": [
+      1,
+      1.04
+     ],
+     "dur": 17.1
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL: LOS RECURSOS, PARA LOS NUESTROS",
+     "fecha": "13 NOV",
+     "credito": "Vídeo: @santi_abascal"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.1,
+       "fin": 2.7,
+       "texto": "Lo que no puede ser es que todo aquello\nque pagan los españoles"
+      },
+      {
+       "inicio": 2.75,
+       "fin": 5.0,
+       "texto": "sea para todos, porque hay\nrecursos limitados."
+      },
+      {
+       "inicio": 5.3,
+       "fin": 7.75,
+       "texto": "Y si hay recursos limitados,\nlos recursos limitados son para los nuestros."
+      },
+      {
+       "inicio": 7.9,
+       "fin": 10.8,
+       "texto": "Y que son los que, de verdad,\nnecesitan ayuda."
+      },
+      {
+       "inicio": 11.0,
+       "fin": 12.3,
+       "texto": "Eso es prioridad nacional."
+      },
+      {
+       "inicio": 12.6,
+       "fin": 14.4,
+       "texto": "Eso es defender a tu propio pueblo."
+      },
+      {
+       "inicio": 14.9,
+       "fin": 17.0,
+       "texto": "Yo tengo el compromiso de hacerlo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 17.1,
+   "fin": 20.6,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal pide dar prioridad a los españoles con dificultades",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}
