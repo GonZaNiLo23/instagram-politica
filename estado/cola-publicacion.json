@@ -463,7 +463,8 @@
     "version": "v1",
     "hora": "2026-11-13T19:00:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/046-8-anos-paro-juvenil-v2.md APROBADO · revisiones/videos/046-8-anos-paro-juvenil-v1.md APROBADO test 9/10",
-    "estado": "pendiente"
+    "estado": "error",
+    "error": "Error: Subida de 046-8-anos-paro-juvenil-v1.mp4 fallida: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"{\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"The ig container is not in the status to upload a video\\\"}}\"}}"
   },
   {
     "pieza": "am20261112-1326-abascal-cancela-wild",
