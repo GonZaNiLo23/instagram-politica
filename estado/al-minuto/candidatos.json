@@ -1,5 +1,393 @@
 {
- "generado": "2026-11-13T09:28:09.867Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-13T13:09:17.313Z",
+ "total_detectados": 3,
+ "candidatos": [
+  {
+   "id": "ig-18181618387432196",
+   "fuente": "instagram",
+   "cuenta": "@psoe",
+   "nombre": "PSOE",
+   "espacio": "otros",
+   "seguidores": 272615,
+   "fecha": "2026-11-13T12:34:34+0000",
+   "horas": 0.6,
+   "me_gusta": 2122,
+   "comentarios": 268,
+   "viral": 1684.8,
+   "enlace": "https://www.instagram.com/reel/DfrpBpwAumx/",
+   "texto": "El inglés, mal. Las matemáticas, peor.",
+   "credito": "Vídeo: @psoe",
+   "duracion": 68.8,
+   "archivo": "ig-18181618387432196.mp4",
+   "frases": [
+    {
+     "inicio": 0.4,
+     "fin": 3.28,
+     "texto": "Yo le digo a los españoles, les hago una pregunta."
+    },
+    {
+     "inicio": 4.04,
+     "fin": 6.94,
+     "texto": "¿Viven mejor en el año 2026 que el año 2018?"
+    },
+    {
+     "inicio": 64.3,
+     "fin": 67.02,
+     "texto": "¿Viven mejor en el año 2026 que el año 2018?"
+    }
+   ],
+   "palabras": [
+    {
+     "t": "Yo",
+     "inicio": 0.4,
+     "fin": 0.88
+    },
+    {
+     "t": "le",
+     "inicio": 0.88,
+     "fin": 0.98
+    },
+    {
+     "t": "digo",
+     "inicio": 0.98,
+     "fin": 1.12
+    },
+    {
+     "t": "a",
+     "inicio": 1.12,
+     "fin": 1.2
+    },
+    {
+     "t": "los",
+     "inicio": 1.2,
+     "fin": 1.32
+    },
+    {
+     "t": "españoles,",
+     "inicio": 1.32,
+     "fin": 1.86
+    },
+    {
+     "t": "les",
+     "inicio": 2.18,
+     "fin": 2.36
+    },
+    {
+     "t": "hago",
+     "inicio": 2.36,
+     "fin": 2.52
+    },
+    {
+     "t": "una",
+     "inicio": 2.52,
+     "fin": 2.86
+    },
+    {
+     "t": "pregunta.",
+     "inicio": 2.86,
+     "fin": 3.28
+    },
+    {
+     "t": "¿Viven",
+     "inicio": 4.04,
+     "fin": 4.44
+    },
+    {
+     "t": "mejor",
+     "inicio": 4.44,
+     "fin": 4.76
+    },
+    {
+     "t": "en",
+     "inicio": 4.76,
+     "fin": 4.96
+    },
+    {
+     "t": "el",
+     "inicio": 4.96,
+     "fin": 5.06
+    },
+    {
+     "t": "año",
+     "inicio": 5.06,
+     "fin": 5.22
+    },
+    {
+     "t": "2026",
+     "inicio": 5.22,
+     "fin": 5.9
+    },
+    {
+     "t": "que",
+     "inicio": 5.9,
+     "fin": 6.06
+    },
+    {
+     "t": "el",
+     "inicio": 6.06,
+     "fin": 6.16
+    },
+    {
+     "t": "año",
+     "inicio": 6.16,
+     "fin": 6.32
+    },
+    {
+     "t": "2018?",
+     "inicio": 6.32,
+     "fin": 6.94
+    },
+    {
+     "t": "¿Viven",
+     "inicio": 64.3,
+     "fin": 64.64
+    },
+    {
+     "t": "mejor",
+     "inicio": 64.64,
+     "fin": 64.98
+    },
+    {
+     "t": "en",
+     "inicio": 64.98,
+     "fin": 65.16
+    },
+    {
+     "t": "el",
+     "inicio": 65.16,
+     "fin": 65.26
+    },
+    {
+     "t": "año",
+     "inicio": 65.26,
+     "fin": 65.46
+    },
+    {
+     "t": "2026",
+     "inicio": 65.46,
+     "fin": 66.12
+    },
+    {
+     "t": "que",
+     "inicio": 66.12,
+     "fin": 66.28
+    },
+    {
+     "t": "el",
+     "inicio": 66.28,
+     "fin": 66.38
+    },
+    {
+     "t": "año",
+     "inicio": 66.38,
+     "fin": 66.52
+    },
+    {
+     "t": "2018?",
+     "inicio": 66.52,
+     "fin": 67.02
+    }
+   ],
+   "habla": true
+  },
+  {
+   "id": "ig-18120786082998212",
+   "fuente": "instagram",
+   "cuenta": "@sanchezcastejon",
+   "nombre": "Pedro Sánchez",
+   "espacio": "otros",
+   "seguidores": 2347353,
+   "fecha": "2026-11-13T11:03:58+0000",
+   "horas": 2.1,
+   "me_gusta": 30510,
+   "comentarios": 1911,
+   "viral": 700.2,
+   "enlace": "https://www.instagram.com/reel/DfrelVwqdGK/",
+   "texto": "💼 Hoy estreno cartera, _manusanchez_",
+   "credito": "Vídeo: @sanchezcastejon",
+   "duracion": 16.9,
+   "archivo": "ig-18120786082998212.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 4.32,
+     "texto": "Buenos días, Manu, pues ya de regreso de Sevilla, aquí en Madrid, al Consejo de Ministros"
+    },
+    {
+     "inicio": 4.32,
+     "fin": 8,
+     "texto": "Extraordinario que tenemos y he encantado con la cartera que me has dado."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "Buenos",
+     "inicio": 0,
+     "fin": 0.26
+    },
+    {
+     "t": "días,",
+     "inicio": 0.26,
+     "fin": 0.46
+    },
+    {
+     "t": "Manu,",
+     "inicio": 0.6,
+     "fin": 0.8
+    },
+    {
+     "t": "pues",
+     "inicio": 0.98,
+     "fin": 0.98
+    },
+    {
+     "t": "ya",
+     "inicio": 0.98,
+     "fin": 1.1
+    },
+    {
+     "t": "de",
+     "inicio": 1.1,
+     "fin": 1.26
+    },
+    {
+     "t": "regreso",
+     "inicio": 1.26,
+     "fin": 1.68
+    },
+    {
+     "t": "de",
+     "inicio": 1.68,
+     "fin": 1.82
+    },
+    {
+     "t": "Sevilla,",
+     "inicio": 1.82,
+     "fin": 2.28
+    },
+    {
+     "t": "aquí",
+     "inicio": 2.32,
+     "fin": 2.42
+    },
+    {
+     "t": "en",
+     "inicio": 2.42,
+     "fin": 2.5
+    },
+    {
+     "t": "Madrid,",
+     "inicio": 2.5,
+     "fin": 2.78
+    },
+    {
+     "t": "al",
+     "inicio": 3,
+     "fin": 3.2
+    },
+    {
+     "t": "Consejo",
+     "inicio": 3.2,
+     "fin": 3.86
+    },
+    {
+     "t": "de",
+     "inicio": 3.86,
+     "fin": 3.94
+    },
+    {
+     "t": "Ministros",
+     "inicio": 3.94,
+     "fin": 4.32
+    },
+    {
+     "t": "Extraordinario",
+     "inicio": 4.32,
+     "fin": 4.96
+    },
+    {
+     "t": "que",
+     "inicio": 4.96,
+     "fin": 5.1
+    },
+    {
+     "t": "tenemos",
+     "inicio": 5.1,
+     "fin": 5.42
+    },
+    {
+     "t": "y",
+     "inicio": 5.42,
+     "fin": 6.42
+    },
+    {
+     "t": "he",
+     "inicio": 6.42,
+     "fin": 6.52
+    },
+    {
+     "t": "encantado",
+     "inicio": 6.52,
+     "fin": 6.9
+    },
+    {
+     "t": "con",
+     "inicio": 6.9,
+     "fin": 7.04
+    },
+    {
+     "t": "la",
+     "inicio": 7.04,
+     "fin": 7.16
+    },
+    {
+     "t": "cartera",
+     "inicio": 7.16,
+     "fin": 7.48
+    },
+    {
+     "t": "que",
+     "inicio": 7.48,
+     "fin": 7.62
+    },
+    {
+     "t": "me",
+     "inicio": 7.62,
+     "fin": 7.74
+    },
+    {
+     "t": "has",
+     "inicio": 7.74,
+     "fin": 7.86
+    },
+    {
+     "t": "dado.",
+     "inicio": 7.86,
+     "fin": 8
+    }
+   ],
+   "habla": true
+  },
+  {
+   "id": "ig-18030139733919512",
+   "fuente": "instagram",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1265582,
+   "fecha": "2026-11-13T12:53:12+0000",
+   "horas": 0.3,
+   "me_gusta": 1466,
+   "comentarios": 40,
+   "viral": 244.3,
+   "enlace": "https://www.instagram.com/reel/Dfrq9XPO2Vm/",
+   "texto": "¡GRACIAS TOLEDO! \n\nEl 29 de noviembre vamos a demostrar la fuerza del SENTIDO COMÚN con santi_abascal a la cabeza 💪🇪🇸 \n\n¡VOTA VOX!",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 23.7,
+   "archivo": "ig-18030139733919512.mp4",
+   "frases": [],
+   "palabras": [],
+   "habla": false
+  }
+ ]
 }
