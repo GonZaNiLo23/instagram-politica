@@ -85,3 +85,5 @@
 - 2026-11-12T18:02:17.137Z · am20261112-1727-sanchez-decreto-vivienda: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-12T20:00:46.452Z · am20261112-1926-sanchez-violencia-digital v1: PUBLICADA en Instagram https://www.instagram.com/reel/Dfp3VVgjwQ8/
 - 2026-11-12T20:00:48.082Z · am20261112-1926-sanchez-violencia-digital: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-13T13:10:39.831Z · 042-8-anos-presion-fiscal v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfrtKtwkcP5/
+- 2026-11-13T13:10:41.344Z · 042-8-anos-presion-fiscal: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
