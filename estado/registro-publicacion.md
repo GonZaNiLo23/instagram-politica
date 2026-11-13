@@ -87,3 +87,5 @@
 - 2026-11-12T20:00:48.082Z · am20261112-1926-sanchez-violencia-digital: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-13T13:10:39.831Z · 042-8-anos-presion-fiscal v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfrtKtwkcP5/
 - 2026-11-13T13:10:41.344Z · 042-8-anos-presion-fiscal: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-13T15:00:39.922Z · am20261113-1448-abascal-movilizacion v1: PUBLICADA en Instagram https://www.instagram.com/reel/Dfr5ylhD8OY/
+- 2026-11-13T15:00:43.967Z · am20261113-1448-abascal-movilizacion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
