@@ -216,3 +216,7 @@
 - 2026-11-12 19:30 UTC · 1 · @vox_es (Huesca, 11 s) · descartado: sin habla
 - 2026-11-13 07:30 UTC (publicación 08:00 Madrid): sin candidatos (radar generado 07:29 UTC, 0 detectados); sin publicación.
 - 2026-11-13 09:30 UTC (publicación 10:00 Madrid): sin candidatos (radar generado 09:28 UTC, 0 detectados); sin publicación.
+- 2026-11-13 14:48 UTC (publicación 16:00 Madrid) · 4 · @vox_es (Abascal Toledo, «gran movilización puede pasar por encima de cualquier intento de trampa y de violencia», tramo 102,0–118,1 s; subtítulos cotejados con la transcripción; opinión atribuida, sin acusación de delito concreta; viral 72,8) · publicado am20261113-1448-abascal-movilizacion
+- 2026-11-13 14:48 UTC · 3 · @vox_es (Abascal, Sánchez y Marlaska deben dimitir por la huelga, 36 s) · descartado: acusación de violencia de piquetes sin tramo limpio y un envío por hora; viral bajo (21,5)
+- 2026-11-13 14:48 UTC · 3 · @vox_es (Abascal, UCO/Moncloa, 16 s) · descartado: insinuación de delito no probada
+- 2026-11-13 14:48 UTC · 1 · @vox_es («Gracias Toledo», 20 s) · descartado: sin frase política

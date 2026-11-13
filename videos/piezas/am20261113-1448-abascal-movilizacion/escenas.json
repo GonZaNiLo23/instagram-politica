@@ -1,0 +1,80 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 19.6,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 16.1,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "fundidoFin": 16.1,
+     "zoom": [
+      1,
+      1.04
+     ],
+     "dur": 16.1
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL CONVOCA A UNA GRAN MOVILIZACIÓN",
+     "fecha": "13 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.1,
+       "fin": 3.3,
+       "texto": "Pero dan igual las trampas, la violencia\ny los intentos de intimidación"
+      },
+      {
+       "inicio": 3.4,
+       "fin": 6.95,
+       "texto": "porque estoy absolutamente convencido\nde que una gran movilización"
+      },
+      {
+       "inicio": 7.0,
+       "fin": 10.15,
+       "texto": "de los españoles puede pasar por encima\nde cualquier intento de trampa"
+      },
+      {
+       "inicio": 10.2,
+       "fin": 11.2,
+       "texto": "y de cualquier violencia"
+      },
+      {
+       "inicio": 11.25,
+       "fin": 14.35,
+       "texto": "y eso es a lo que nosotros queremos\nen el inicio de esta campaña"
+      },
+      {
+       "inicio": 14.4,
+       "fin": 15.97,
+       "texto": "convocar a todos los españoles"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 16.1,
+   "fin": 19.6,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal pide movilización masiva en Toledo",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}
