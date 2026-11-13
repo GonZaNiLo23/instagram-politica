@@ -89,3 +89,5 @@
 - 2026-11-13T13:10:41.344Z · 042-8-anos-presion-fiscal: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-13T15:00:39.922Z · am20261113-1448-abascal-movilizacion v1: PUBLICADA en Instagram https://www.instagram.com/reel/Dfr5ylhD8OY/
 - 2026-11-13T15:00:43.967Z · am20261113-1448-abascal-movilizacion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-13T17:01:01.047Z · am20261113-1648-abascal-prioridad-nacional v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfsHhahDJIm/
+- 2026-11-13T17:01:02.427Z · am20261113-1648-abascal-prioridad-nacional: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
