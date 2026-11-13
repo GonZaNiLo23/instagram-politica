@@ -1,0 +1,312 @@
+{
+  "plantilla": "flash",
+  "duracion": 33.38,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 8,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "UNA HORA RINDE +2,2 %",
+            "y": 470,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "España, 2018 → 2025 · Eurostat",
+            "y": 740,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "relojSerie",
+            "cx": 330,
+            "cy": 990,
+            "r": 140,
+            "cajas": true
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 8,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "UNA HORA RINDE +2,2 %",
+          "y": 470,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "España, 2018 → 2025 · Eurostat",
+          "y": 740,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "relojSerie",
+          "cx": 330,
+          "cy": 990,
+          "r": 140,
+          "cajas": true
+        }
+      ]
+    },
+    {
+      "inicio": 4.46,
+      "fin": 9.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PRODUCTIVIDAD = PRODUCCIÓN POR HORA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "volumen real, 2015 = 100",
+          "y": 540,
+          "en": 1.56,
+          "tamano": 64
+        },
+        {
+          "tipo": "relojSerie",
+          "cx": 330,
+          "cy": 900,
+          "r": 120,
+          "cajas": true
+        }
+      ]
+    },
+    {
+      "inicio": 9.34,
+      "fin": 14.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ESPAÑA: 101,0 → 103,3",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 5,
+          "base": 1100,
+          "hMax": 400,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 2.2,
+              "color": "#14213D",
+              "en": 0.4,
+              "dec": true,
+              "dur": 1.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 14.22,
+      "fin": 19.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2025: provisional",
+          "y": 330,
+          "en": 1.28,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MÁXIMO DE LA SERIE (1995–2025)",
+          "y": 450,
+          "en": 3.24,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 5,
+          "base": 1100,
+          "hMax": 400,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 2.2,
+              "color": "#14213D",
+              "en": -5,
+              "dec": true
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "MEJORA"
+          ],
+          "x": 440,
+          "y": 660,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 80,
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 19.58,
+      "fin": 23.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "UE: 103,0 → 107,4",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 5,
+          "base": 1100,
+          "hMax": 400,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 2.2,
+              "color": "#14213D",
+              "en": -5,
+              "dec": true,
+              "pos": "abajo"
+            },
+            {
+              "nombre": "UE",
+              "final": 4.3,
+              "color": "#F2B134",
+              "en": 0.5,
+              "dec": true,
+              "dur": 1.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 23.26,
+      "fin": 27.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "No compara euros por hora",
+          "y": 330,
+          "en": 2.2600000000000002,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 5,
+          "base": 1100,
+          "hMax": 400,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 2.2,
+              "color": "#14213D",
+              "en": -5,
+              "dec": true,
+              "pos": "abajo"
+            },
+            {
+              "nombre": "UE",
+              "final": 4.3,
+              "color": "#F2B134",
+              "en": -5,
+              "dec": true
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "ÍNDICE,",
+            "NO NIVEL"
+          ],
+          "x": 440,
+          "y": 520,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 80,
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 27.34,
+      "fin": 29.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿LO NOTAS EN TU TRABAJO?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "SÍ",
+          "b": "NO",
+          "y": 700,
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 29.58,
+      "fin": 33.38,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 9
+        }
+      ]
+    }
+  ]
+}

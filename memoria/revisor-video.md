@@ -70,3 +70,4 @@
 - [040 v3] Vuelta de un solo bloqueante: comprobar.mjs + ffprobe/loudnorm + 1 tira fps=2 (crop 250–1250, 360 px, drawbox x=960) + crop 900–1600 para holgura caja–subtítulo bastan. (040, 2026-11-11)
 - [043] Pieza "flash" con embudoR/barrasVSerie: control/control-N.png (6 fotogramas) + comprobar.mjs + 1 tira del cierre bastan; sin renders/subida en nube. (043, 2026-11-12)
 - [044] Pieza 'flash' deuda con flechasD/duoD/separanD: control/control-N.png (6) + comprobar.mjs + 3 crops puntuales bastan; mira etiqueta de cada línea en gráficos de dos series. (044, 2026-11-12)
+- [047] Pieza 'cifra' barrasVSerie: control/control-N.png (6) + comprobar.mjs + ffprobe/loudnorm + 1 tira bastan; 3 llamadas en total. (047, 2026-11-13)

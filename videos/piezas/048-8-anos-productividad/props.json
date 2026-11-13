@@ -1,0 +1,743 @@
+{
+  "plantilla": "flash",
+  "duracion": 33.38,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 8,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "UNA HORA RINDE +2,2 %",
+            "y": 470,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "España, 2018 → 2025 · Eurostat",
+            "y": 740,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "relojSerie",
+            "cx": 330,
+            "cy": 990,
+            "r": 140,
+            "cajas": true
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 8,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "UNA HORA RINDE +2,2 %",
+          "y": 470,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "España, 2018 → 2025 · Eurostat",
+          "y": 740,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "relojSerie",
+          "cx": 330,
+          "cy": 990,
+          "r": 140,
+          "cajas": true
+        }
+      ]
+    },
+    {
+      "inicio": 4.46,
+      "fin": 9.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PRODUCTIVIDAD = PRODUCCIÓN POR HORA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "volumen real, 2015 = 100",
+          "y": 540,
+          "en": 1.56,
+          "tamano": 64
+        },
+        {
+          "tipo": "relojSerie",
+          "cx": 330,
+          "cy": 900,
+          "r": 120,
+          "cajas": true
+        }
+      ]
+    },
+    {
+      "inicio": 9.34,
+      "fin": 14.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ESPAÑA: 101,0 → 103,3",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 5,
+          "base": 1100,
+          "hMax": 400,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 2.2,
+              "color": "#14213D",
+              "en": 0.4,
+              "dec": true,
+              "dur": 1.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 14.22,
+      "fin": 19.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2025: provisional",
+          "y": 330,
+          "en": 1.28,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MÁXIMO DE LA SERIE (1995–2025)",
+          "y": 450,
+          "en": 3.24,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 5,
+          "base": 1100,
+          "hMax": 400,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 2.2,
+              "color": "#14213D",
+              "en": -5,
+              "dec": true
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "MEJORA"
+          ],
+          "x": 440,
+          "y": 660,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 80,
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 19.58,
+      "fin": 23.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "UE: 103,0 → 107,4",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 5,
+          "base": 1100,
+          "hMax": 400,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 2.2,
+              "color": "#14213D",
+              "en": -5,
+              "dec": true,
+              "pos": "abajo"
+            },
+            {
+              "nombre": "UE",
+              "final": 4.3,
+              "color": "#F2B134",
+              "en": 0.5,
+              "dec": true,
+              "dur": 1.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 23.26,
+      "fin": 27.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "No compara euros por hora",
+          "y": 330,
+          "en": 2.2600000000000002,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 5,
+          "base": 1100,
+          "hMax": 400,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 2.2,
+              "color": "#14213D",
+              "en": -5,
+              "dec": true,
+              "pos": "abajo"
+            },
+            {
+              "nombre": "UE",
+              "final": 4.3,
+              "color": "#F2B134",
+              "en": -5,
+              "dec": true
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "ÍNDICE,",
+            "NO NIVEL"
+          ],
+          "x": 440,
+          "y": 520,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 80,
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 27.34,
+      "fin": 29.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿LO NOTAS EN TU TRABAJO?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "SÍ",
+          "b": "NO",
+          "y": 700,
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 29.58,
+      "fin": 33.38,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 9
+        }
+      ]
+    }
+  ],
+  "id": "048-8-anos-productividad",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Siete",
+      "inicio": 0,
+      "fin": 0.32
+    },
+    {
+      "t": "años:",
+      "inicio": 0.4,
+      "fin": 1.2
+    },
+    {
+      "t": "cada",
+      "inicio": 1.28,
+      "fin": 1.44
+    },
+    {
+      "t": "hora,",
+      "inicio": 1.56,
+      "fin": 1.92
+    },
+    {
+      "t": "dos",
+      "inicio": 2,
+      "fin": 2.16
+    },
+    {
+      "t": "coma",
+      "inicio": 2.24,
+      "fin": 2.4
+    },
+    {
+      "t": "dos",
+      "inicio": 2.48,
+      "fin": 2.64
+    },
+    {
+      "t": "más.",
+      "inicio": 2.72,
+      "fin": 3.12
+    },
+    {
+      "t": "¿Y",
+      "inicio": 3.52,
+      "fin": 3.6
+    },
+    {
+      "t": "Europa?",
+      "inicio": 3.68,
+      "fin": 4.32
+    },
+    {
+      "t": "Es",
+      "inicio": 4.56,
+      "fin": 4.72
+    },
+    {
+      "t": "la",
+      "inicio": 4.8,
+      "fin": 4.88
+    },
+    {
+      "t": "productividad:",
+      "inicio": 4.96,
+      "fin": 6
+    },
+    {
+      "t": "lo",
+      "inicio": 6.04,
+      "fin": 6.08
+    },
+    {
+      "t": "que",
+      "inicio": 6.16,
+      "fin": 6.24
+    },
+    {
+      "t": "produce",
+      "inicio": 6.32,
+      "fin": 6.72
+    },
+    {
+      "t": "una",
+      "inicio": 6.8,
+      "fin": 6.96
+    },
+    {
+      "t": "hora",
+      "inicio": 7.04,
+      "fin": 7.2
+    },
+    {
+      "t": "de",
+      "inicio": 7.24,
+      "fin": 7.28
+    },
+    {
+      "t": "trabajo,",
+      "inicio": 7.36,
+      "fin": 8
+    },
+    {
+      "t": "ya",
+      "inicio": 8.08,
+      "fin": 8.16
+    },
+    {
+      "t": "sin",
+      "inicio": 8.24,
+      "fin": 8.32
+    },
+    {
+      "t": "inflación.",
+      "inicio": 8.4,
+      "fin": 8.96
+    },
+    {
+      "t": "De",
+      "inicio": 9.44,
+      "fin": 9.52
+    },
+    {
+      "t": "dos",
+      "inicio": 9.6,
+      "fin": 9.68
+    },
+    {
+      "t": "mil",
+      "inicio": 9.76,
+      "fin": 9.84
+    },
+    {
+      "t": "dieciocho",
+      "inicio": 9.96,
+      "fin": 10.32
+    },
+    {
+      "t": "a",
+      "inicio": 10.4,
+      "fin": 10.48
+    },
+    {
+      "t": "dos",
+      "inicio": 10.52,
+      "fin": 10.56
+    },
+    {
+      "t": "mil",
+      "inicio": 10.72,
+      "fin": 10.76
+    },
+    {
+      "t": "veinticinco,",
+      "inicio": 10.8,
+      "fin": 11.52
+    },
+    {
+      "t": "en",
+      "inicio": 11.68,
+      "fin": 11.76
+    },
+    {
+      "t": "España,",
+      "inicio": 11.88,
+      "fin": 12.293
+    },
+    {
+      "t": "sube",
+      "inicio": 12.347,
+      "fin": 12.48
+    },
+    {
+      "t": "dos",
+      "inicio": 12.64,
+      "fin": 12.8
+    },
+    {
+      "t": "coma",
+      "inicio": 12.96,
+      "fin": 13.12
+    },
+    {
+      "t": "dos",
+      "inicio": 13.2,
+      "fin": 13.28
+    },
+    {
+      "t": "por",
+      "inicio": 13.44,
+      "fin": 13.52
+    },
+    {
+      "t": "ciento.",
+      "inicio": 13.6,
+      "fin": 14
+    },
+    {
+      "t": "Mejora.",
+      "inicio": 14.32,
+      "fin": 15
+    },
+    {
+      "t": "El",
+      "inicio": 15.2,
+      "fin": 15.28
+    },
+    {
+      "t": "de",
+      "inicio": 15.36,
+      "fin": 15.44
+    },
+    {
+      "t": "dos",
+      "inicio": 15.52,
+      "fin": 15.6
+    },
+    {
+      "t": "mil",
+      "inicio": 15.68,
+      "fin": 15.76
+    },
+    {
+      "t": "veinticinco,",
+      "inicio": 15.8,
+      "fin": 16.56
+    },
+    {
+      "t": "aún",
+      "inicio": 16.64,
+      "fin": 16.8
+    },
+    {
+      "t": "provisional,",
+      "inicio": 16.88,
+      "fin": 17.68
+    },
+    {
+      "t": "es",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "t": "el",
+      "inicio": 17.92,
+      "fin": 18
+    },
+    {
+      "t": "más",
+      "inicio": 18.08,
+      "fin": 18.32
+    },
+    {
+      "t": "alto",
+      "inicio": 18.44,
+      "fin": 18.56
+    },
+    {
+      "t": "de",
+      "inicio": 18.64,
+      "fin": 18.72
+    },
+    {
+      "t": "la",
+      "inicio": 18.76,
+      "fin": 18.8
+    },
+    {
+      "t": "serie.",
+      "inicio": 18.88,
+      "fin": 19.28
+    },
+    {
+      "t": "La",
+      "inicio": 19.68,
+      "fin": 19.84
+    },
+    {
+      "t": "UE,",
+      "inicio": 19.92,
+      "fin": 20.32
+    },
+    {
+      "t": "en",
+      "inicio": 20.36,
+      "fin": 20.4
+    },
+    {
+      "t": "cambio,",
+      "inicio": 20.48,
+      "fin": 21.04
+    },
+    {
+      "t": "sube",
+      "inicio": 21.12,
+      "fin": 21.28
+    },
+    {
+      "t": "cuatro",
+      "inicio": 21.44,
+      "fin": 21.68
+    },
+    {
+      "t": "coma",
+      "inicio": 21.84,
+      "fin": 22
+    },
+    {
+      "t": "tres",
+      "inicio": 22.08,
+      "fin": 22.24
+    },
+    {
+      "t": "por",
+      "inicio": 22.32,
+      "fin": 22.48
+    },
+    {
+      "t": "ciento.",
+      "inicio": 22.52,
+      "fin": 23.28
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 23.36,
+      "fin": 23.84
+    },
+    {
+      "t": "son",
+      "inicio": 23.96,
+      "fin": 24.08
+    },
+    {
+      "t": "índices,",
+      "inicio": 24.12,
+      "fin": 24.8
+    },
+    {
+      "t": "no",
+      "inicio": 24.84,
+      "fin": 24.88
+    },
+    {
+      "t": "niveles;",
+      "inicio": 24.96,
+      "fin": 25.76
+    },
+    {
+      "t": "no",
+      "inicio": 25.8,
+      "fin": 25.84
+    },
+    {
+      "t": "dicen",
+      "inicio": 25.92,
+      "fin": 26.16
+    },
+    {
+      "t": "quién",
+      "inicio": 26.24,
+      "fin": 26.48
+    },
+    {
+      "t": "produce",
+      "inicio": 26.56,
+      "fin": 26.96
+    },
+    {
+      "t": "más",
+      "inicio": 27.04,
+      "fin": 27.2
+    },
+    {
+      "t": "por",
+      "inicio": 27.28,
+      "fin": 27.36
+    },
+    {
+      "t": "hora.",
+      "inicio": 27.44,
+      "fin": 27.68
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 28.08,
+      "fin": 28.16
+    },
+    {
+      "t": "notas",
+      "inicio": 28.24,
+      "fin": 28.48
+    },
+    {
+      "t": "en",
+      "inicio": 28.56,
+      "fin": 28.64
+    },
+    {
+      "t": "tu",
+      "inicio": 28.68,
+      "fin": 28.72
+    },
+    {
+      "t": "trabajo?",
+      "inicio": 28.8,
+      "fin": 29.44
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 29.68,
+      "fin": 30.16
+    },
+    {
+      "t": "para",
+      "inicio": 30.24,
+      "fin": 30.4
+    },
+    {
+      "t": "estar",
+      "inicio": 30.52,
+      "fin": 30.64
+    },
+    {
+      "t": "informado.",
+      "inicio": 30.72,
+      "fin": 31.52
+    }
+  ]
+}

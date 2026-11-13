@@ -19,7 +19,7 @@ const lienzo = (children: React.ReactNode, s: number) => (
   </div>
 );
 
-type SerieL = {nombre: string; final: number; color: string; en: number; dur?: number; pos?: 'arriba' | 'abajo'; tam?: number};
+type SerieL = {nombre: string; final: number; color: string; en: number; dur?: number; pos?: 'arriba' | 'abajo'; tam?: number; dec?: boolean};
 
 export const LineasSerie: React.FC<{series: SerieL[]; max?: number; base?: number; hMax?: number; x0?: number; x1?: number; hasta?: number; anios?: boolean}> = ({series, max = 60, base = 1100, hMax = 400, x0 = 130, x1 = 850, hasta, anios = true}) => {
   const {t} = usa();
@@ -38,7 +38,7 @@ export const LineasSerie: React.FC<{series: SerieL[]; max?: number; base?: numbe
         const e = ease(t, sr.en, sr.en + 0.3);
         const xe = x0 + (x1 - x0) * k;
         const ye = base - (sr.final * k / max) * hMax;
-        const v = (sr.final * k).toFixed(0);
+        const v = sr.dec ? (sr.final * k).toFixed(1).replace('.', ',') : (sr.final * k).toFixed(0);
         const tam = sr.tam ?? 52;
         const ly0 = sr.pos === 'abajo' ? ye + tam + 24 : ye - 30;
         const ly = sr.pos === 'abajo' ? Math.min(ly0, base - 20) : ly0;
@@ -53,6 +53,33 @@ export const LineasSerie: React.FC<{series: SerieL[]; max?: number; base?: numbe
           </g>
         );
       })}
+    </g>,
+    s,
+  );
+};
+
+export const RelojSerie: React.FC<{cx?: number; cy?: number; r?: number; cajas?: boolean; hasta?: number}> = ({cx = 330, cy = 1000, r = 120, cajas = false, hasta}) => {
+  const {t} = usa();
+  const s = useSalida(hasta);
+  const ang = (t * 240) % 360;
+  return lienzo(
+    <g>
+      <circle cx={cx} cy={cy} r={r} fill={C.crema} stroke={C.tinta} strokeWidth={10} />
+      <path d={`M ${cx} ${cy} L ${cx} ${cy - r + 10} A ${r - 10} ${r - 10} 0 ${ang > 180 ? 1 : 0} 1 ${cx + (r - 10) * Math.sin(ang * Math.PI / 180)} ${cy - (r - 10) * Math.cos(ang * Math.PI / 180)} Z`} fill={C.mostaza} opacity={0.55} />
+      {Array.from({length: 12}).map((_, i) => <line key={i} x1={cx} y1={cy - r + 12} x2={cx} y2={cy - r + 28} stroke={C.tinta} strokeWidth={6} strokeLinecap="round" transform={`rotate(${i * 30} ${cx} ${cy})`} />)}
+      <line x1={cx} y1={cy} x2={cx} y2={cy - r * 0.55} stroke={C.tinta} strokeWidth={10} strokeLinecap="round" transform={`rotate(${ang / 12} ${cx} ${cy})`} />
+      <line x1={cx} y1={cy} x2={cx} y2={cy - r * 0.8} stroke={C.mostaza} strokeWidth={8} strokeLinecap="round" transform={`rotate(${ang} ${cx} ${cy})`} />
+      <circle cx={cx} cy={cy} r={11} fill={C.tinta} />
+      {cajas ? (
+        <>
+          <line x1={cx + r + 20} y1={cy + r - 10} x2={930} y2={cy + r - 10} stroke={C.tinta} strokeWidth={6} strokeLinecap="round" />
+          {[0, 1, 2].map((i) => {
+            const k = (t * 0.7 + i / 3) % 1;
+            const x = cx + r + 40 + k * (930 - cx - r - 120);
+            return <rect key={i} x={x} y={cy + r - 80} width={70} height={70} fill={C.mostaza} stroke={C.tinta} strokeWidth={5} opacity={Math.min(1, k * 6)} />;
+          })}
+        </>
+      ) : null}
     </g>,
     s,
   );
@@ -87,4 +114,4 @@ export const ContratosSerie: React.FC<{cols?: number; filas?: number; nuevos?: n
   );
 };
 
-export const REGISTRO_041: Record<string, React.FC<any>> = {lineasSerie: LineasSerie, contratosSerie: ContratosSerie};
+export const REGISTRO_041: Record<string, React.FC<any>> = {lineasSerie: LineasSerie, relojSerie: RelojSerie, contratosSerie: ContratosSerie};

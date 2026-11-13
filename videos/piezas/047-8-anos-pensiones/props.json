@@ -1,0 +1,681 @@
+{
+  "plantilla": "flash",
+  "duracion": 28.1,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 8,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "ESPAÑA 10,4 % · UE 10,6 %",
+            "y": 505,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "GASTO PÚBLICO EN VEJEZ · % DEL PIB · 2024",
+            "y": 760,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "barrasVSerie",
+            "max": 12,
+            "base": 1120,
+            "hMax": 130,
+            "w": 200,
+            "centros": [
+              300,
+              780
+            ],
+            "tamEtiqueta": 64,
+            "vivo": true,
+            "barras": [
+              {
+                "etiqueta": "ESPAÑA",
+                "valor": 10.4,
+                "color": "#14213D",
+                "en": -1,
+                "dur": 0.05,
+                "dec": true,
+                "prefijo": ""
+              },
+              {
+                "etiqueta": "UE",
+                "valor": 10.6,
+                "color": "#F2B134",
+                "en": -1,
+                "dur": 0.05,
+                "dec": true,
+                "prefijo": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 8,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "ESPAÑA 10,4 % · UE 10,6 %",
+          "y": 505,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "GASTO PÚBLICO EN VEJEZ · % DEL PIB · 2024",
+          "y": 760,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 12,
+          "base": 1120,
+          "hMax": 130,
+          "w": 200,
+          "centros": [
+            300,
+            780
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "barras": [
+            {
+              "etiqueta": "ESPAÑA",
+              "valor": 10.4,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            },
+            {
+              "etiqueta": "UE",
+              "valor": 10.6,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 5.34,
+      "fin": 8.94,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EUROSTAT · COFOG 10.2 VEJEZ",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "fichaSerie",
+          "filas": [
+            "SIN VIUDEDAD",
+            "NI INCAPACIDAD"
+          ],
+          "y": 700,
+          "en": 2.18,
+          "paso": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 8.94,
+      "fin": 13.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2018: 9,3 % · UE 10,3 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 12,
+          "base": 1050,
+          "hMax": 270,
+          "w": 200,
+          "centros": [
+            300,
+            780
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "barras": [
+            {
+              "etiqueta": "ESPAÑA",
+              "valor": 9.3,
+              "color": "#14213D",
+              "en": 1.82,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            },
+            {
+              "etiqueta": "UE",
+              "valor": 10.3,
+              "color": "#F2B134",
+              "en": 3.6599999999999997,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 13.9,
+      "fin": 17.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2024: 10,4 % · UE 10,6 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 12,
+          "base": 1050,
+          "hMax": 270,
+          "w": 200,
+          "centros": [
+            300,
+            780
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "barras": [
+            {
+              "etiqueta": "ESPAÑA",
+              "valor": 10.4,
+              "color": "#14213D",
+              "en": 1.18,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            },
+            {
+              "etiqueta": "UE",
+              "valor": 10.6,
+              "color": "#F2B134",
+              "en": 2.54,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "DISTANCIA: 1,0 → 0,2 PUNTOS (cálculo propio)"
+          ],
+          "en": 1,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 17.74,
+      "fin": 20.97,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ESPAÑA 2024: PROVISIONAL",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 12,
+          "base": 1050,
+          "hMax": 270,
+          "w": 200,
+          "centros": [
+            540
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "barras": [
+            {
+              "etiqueta": "2024",
+              "valor": 10.4,
+              "color": "#F2B134",
+              "en": 0.1,
+              "dur": 0.05,
+              "dec": true,
+              "prefijo": ""
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "PROVISIONAL"
+          ],
+          "x": 380,
+          "y": 560,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 80,
+          "en": 0.7
+        }
+      ]
+    },
+    {
+      "inicio": 20.97,
+      "fin": 24.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿IMPUESTOS O COTIZACIONES?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "IMPUESTOS",
+          "b": "COTIZACIONES",
+          "y": 700,
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 24.38,
+      "fin": 28.1,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 9
+        }
+      ]
+    }
+  ],
+  "id": "047-8-anos-pensiones",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "¿España",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "t": "gasta",
+      "inicio": 0.52,
+      "fin": 0.8
+    },
+    {
+      "t": "en",
+      "inicio": 0.84,
+      "fin": 0.88
+    },
+    {
+      "t": "vejez",
+      "inicio": 0.96,
+      "fin": 1.44
+    },
+    {
+      "t": "más",
+      "inicio": 1.48,
+      "fin": 1.68
+    },
+    {
+      "t": "que",
+      "inicio": 1.76,
+      "fin": 1.84
+    },
+    {
+      "t": "la",
+      "inicio": 1.88,
+      "fin": 1.92
+    },
+    {
+      "t": "UE?",
+      "inicio": 2,
+      "fin": 2.64
+    },
+    {
+      "t": "No.",
+      "inicio": 2.8,
+      "fin": 3.24
+    },
+    {
+      "t": "Sobre",
+      "inicio": 3.44,
+      "fin": 3.68
+    },
+    {
+      "t": "el",
+      "inicio": 3.72,
+      "fin": 3.76
+    },
+    {
+      "t": "PIB,",
+      "inicio": 3.84,
+      "fin": 4.36
+    },
+    {
+      "t": "casi",
+      "inicio": 4.48,
+      "fin": 4.72
+    },
+    {
+      "t": "igual.",
+      "inicio": 4.8,
+      "fin": 5.2
+    },
+    {
+      "t": "Cuenta",
+      "inicio": 5.44,
+      "fin": 5.68
+    },
+    {
+      "t": "jubilaciones",
+      "inicio": 5.76,
+      "fin": 6.48
+    },
+    {
+      "t": "y",
+      "inicio": 6.507,
+      "fin": 6.533
+    },
+    {
+      "t": "cuidados",
+      "inicio": 6.56,
+      "fin": 7.04
+    },
+    {
+      "t": "a",
+      "inicio": 7.067,
+      "fin": 7.093
+    },
+    {
+      "t": "mayores;",
+      "inicio": 7.12,
+      "fin": 7.84
+    },
+    {
+      "t": "no",
+      "inicio": 7.92,
+      "fin": 8
+    },
+    {
+      "t": "viudedad.",
+      "inicio": 8.08,
+      "fin": 8.96
+    },
+    {
+      "t": "En",
+      "inicio": 9.04,
+      "fin": 9.12
+    },
+    {
+      "t": "dos",
+      "inicio": 9.2,
+      "fin": 9.28
+    },
+    {
+      "t": "mil",
+      "inicio": 9.36,
+      "fin": 9.4
+    },
+    {
+      "t": "dieciocho,",
+      "inicio": 9.44,
+      "fin": 10.16
+    },
+    {
+      "t": "España,",
+      "inicio": 10.32,
+      "fin": 10.88
+    },
+    {
+      "t": "nueve",
+      "inicio": 10.96,
+      "fin": 11.12
+    },
+    {
+      "t": "coma",
+      "inicio": 11.2,
+      "fin": 11.36
+    },
+    {
+      "t": "tres;",
+      "inicio": 11.44,
+      "fin": 12
+    },
+    {
+      "t": "la",
+      "inicio": 12.08,
+      "fin": 12.16
+    },
+    {
+      "t": "UE,",
+      "inicio": 12.24,
+      "fin": 12.72
+    },
+    {
+      "t": "diez",
+      "inicio": 12.8,
+      "fin": 12.96
+    },
+    {
+      "t": "coma",
+      "inicio": 13.04,
+      "fin": 13.2
+    },
+    {
+      "t": "tres.",
+      "inicio": 13.28,
+      "fin": 13.92
+    },
+    {
+      "t": "En",
+      "inicio": 14,
+      "fin": 14.08
+    },
+    {
+      "t": "dos",
+      "inicio": 14.12,
+      "fin": 14.16
+    },
+    {
+      "t": "mil",
+      "inicio": 14.24,
+      "fin": 14.32
+    },
+    {
+      "t": "veinticuatro,",
+      "inicio": 14.4,
+      "fin": 15.2
+    },
+    {
+      "t": "diez",
+      "inicio": 15.28,
+      "fin": 15.44
+    },
+    {
+      "t": "coma",
+      "inicio": 15.52,
+      "fin": 15.6
+    },
+    {
+      "t": "cuatro",
+      "inicio": 15.76,
+      "fin": 16
+    },
+    {
+      "t": "frente",
+      "inicio": 16.16,
+      "fin": 16.48
+    },
+    {
+      "t": "a",
+      "inicio": 16.52,
+      "fin": 16.56
+    },
+    {
+      "t": "diez",
+      "inicio": 16.64,
+      "fin": 16.8
+    },
+    {
+      "t": "coma",
+      "inicio": 16.88,
+      "fin": 16.96
+    },
+    {
+      "t": "seis.",
+      "inicio": 17.12,
+      "fin": 17.76
+    },
+    {
+      "t": "El",
+      "inicio": 17.84,
+      "fin": 17.92
+    },
+    {
+      "t": "dato",
+      "inicio": 18,
+      "fin": 18.08
+    },
+    {
+      "t": "español",
+      "inicio": 18.16,
+      "fin": 18.56
+    },
+    {
+      "t": "de",
+      "inicio": 18.6,
+      "fin": 18.64
+    },
+    {
+      "t": "dos",
+      "inicio": 18.72,
+      "fin": 18.8
+    },
+    {
+      "t": "mil",
+      "inicio": 18.88,
+      "fin": 18.96
+    },
+    {
+      "t": "veinticuatro",
+      "inicio": 19,
+      "fin": 19.52
+    },
+    {
+      "t": "es",
+      "inicio": 19.76,
+      "fin": 19.92
+    },
+    {
+      "t": "provisional.",
+      "inicio": 20,
+      "fin": 21.04
+    },
+    {
+      "t": "¿Quién",
+      "inicio": 21.067,
+      "fin": 21.2
+    },
+    {
+      "t": "debería",
+      "inicio": 21.28,
+      "fin": 21.6
+    },
+    {
+      "t": "pagarlo:",
+      "inicio": 21.68,
+      "fin": 22.32
+    },
+    {
+      "t": "impuestos",
+      "inicio": 22.44,
+      "fin": 23.04
+    },
+    {
+      "t": "o",
+      "inicio": 23.12,
+      "fin": 23.16
+    },
+    {
+      "t": "cotizaciones?",
+      "inicio": 23.2,
+      "fin": 24.4
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 24.48,
+      "fin": 24.96
+    },
+    {
+      "t": "para",
+      "inicio": 25.04,
+      "fin": 25.2
+    },
+    {
+      "t": "estar",
+      "inicio": 25.32,
+      "fin": 25.44
+    },
+    {
+      "t": "informado.",
+      "inicio": 25.6,
+      "fin": 26.24
+    }
+  ]
+}

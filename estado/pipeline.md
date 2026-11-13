@@ -98,3 +98,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261112-1326-abascal-cancela-wild | Al minuto: Abascal cancela su entrevista con Jordi Wild | publicando (Al minuto horario) |
 | am20261112-1727-sanchez-decreto-vivienda | Al minuto: Sánchez defiende su decreto de vivienda | publicando (Al minuto horario) |
 | am20261112-1926-sanchez-violencia-digital | Al minuto: Sánchez pide una red sin violencia digital | publicando (Al minuto horario) |
+| 047 | 8-anos-pensiones | 📊 Datos · serie 8 años | Flash | programado | 1 | 1 | 2026-11-14 12:00 (cola) | v1 APROBADO 9/10 |
