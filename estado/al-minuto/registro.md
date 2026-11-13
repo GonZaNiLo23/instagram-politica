@@ -214,3 +214,4 @@
 - 2026-11-12 19:30 UTC · 2 · @vox_es (Meer, vivienda, 60 s) · descartado: mismo tema publicado hace 2 h; viral bajo
 - 2026-11-12 19:30 UTC · 1 · @partidopopular (rap «Primeras reacciones») · descartado: música/sin frase política
 - 2026-11-12 19:30 UTC · 1 · @vox_es (Huesca, 11 s) · descartado: sin habla
+- 2026-11-13 07:30 UTC (publicación 08:00 Madrid): sin candidatos (radar generado 07:29 UTC, 0 detectados); sin publicación.
