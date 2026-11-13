@@ -32,12 +32,18 @@ Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 26. **Balance de víctimas en directo**: solo la última cifra oficial, con su organismo y la hora de la fuente. Las no oficiales, como "cifras más altas, sin confirmar". Nada que insinúe causa o fallo.
 27. **Desenlace de los hechos pasados**: busca cómo terminó cada hecho (detenidos, cifra final, huelga desconvocada, informe final) y cuéntalo si cambia la lectura, con el tiempo verbal de hoy. En sucesos con víctimas, el balance no va junto al nombre de un político en el gancho ni en la portada sin el estado de la investigación al lado ("causa sin cerrar").
 26. **Sucesos con balance abierto**: solo la última cifra oficial (organismo + hora tal como la trae la fuente); las cifras no oficiales no se dan ("cifras más altas, sin confirmar"); nada que insinúe causa o fallo; juzgado, sistemas o plazos sin fuente, como regla general o fuera.
-29. **Series largas ("8 años en cifras")**: antes de comparar dos años, abre también el corte siguiente al de partida y busca "rotura de serie", "cambio de metodología" o "nueva base"; si la hay, compara desde el primer dato homogéneo y dilo en el post. No uses como base un mínimo o un máximo de la serie sin decirlo; el "ahora" es el último dato publicado (036).
+29. **Series largas ("8 años en cifras")**: antes de comparar dos años, abre también el corte siguiente al de partida y busca "rotura de serie", "cambio de metodología" o "nueva base"; si la hay, compara desde el primer dato homogéneo y dilo en el post. No uses como base un mínimo o un máximo de la serie sin decirlo; el "ahora" es el último dato publicado (036). "El más alto desde X" = el último valor igual o superior fue en X: pide la serie entera a la fuente (en la API de Eurostat, sinceTimePeriod bajo) y, si es el máximo absoluto, "el más alto de la serie (inicio–fin)"; el gancho dice el periodo en voz ("siete años"), no solo en el rótulo (048).
 30. **"Hoy" frente a "lo que cambia"**: lee el artículo vigente y el nuevo lado a lado; cada punto de "qué cambiaría" tiene que ser distinto del vigente (lo que no cambia, "como hoy"); el "hoy" no se simplifica hasta que sea falso (prórroga del art. 9 ≠ prórroga del 10); el gancho y el cierre se refieren solo a lo que cambia (035).
 31. **Cambios de una vuelta**: aplica cada corrección en todos los sitios donde sale la frase (tabla de bloques, texto limpio, rótulo, ganchos, post) y búscala con Grep antes de entregar; actualiza las fechas "a AAAA-MM-DD" de los datos vivos (035 v2).
 (Ya incorporadas a la guía de estilo y la plantilla, ver Histórico: recuento real de palabras y tiempos por bloque, frases de ≤ 15 palabras, dato vivo con "a fecha de" y fuentes concretas con fecha, campo Portada.)
 
 ## Reglas activas
+
+### 2026-11-13 · 048-8-anos-productividad (v1) · revisor-guion
+- Ocurrencias: +1 regla 29 (series largas)
+- Problema: la voz y el rótulo decían que 2025 es "el más alto desde 2015", pero 2015 = 100 y 2025 = 103,25 es el máximo de toda la serie, que empieza en 1995. Además, el gancho "dos coma dos por ciento más" no decía en cuánto tiempo, y sonaba a una subida anual.
+- Regla para el futuro: "máximo desde X" solo si en X hubo un valor igual o superior; consulta la serie desde su inicio. El periodo de la variación va en la voz del gancho.
+- Ejemplo: "el más alto desde dos mil quince" → "el más alto de la serie" + rótulo "MÁXIMO DE LA SERIE (1995–2025)"; "Cada hora trabajada: dos coma dos por ciento más" → "Siete años: cada hora, dos coma dos más".
 
 ### 2026-11-11 · 044-deuda-bajo-100 (v1) · revisor-guion
 - Ocurrencias: +1 regla 12 (los matices se mantienen en la voz).

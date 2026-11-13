@@ -70,4 +70,6 @@
 
 - [deuda, Banco de España] Notas mensuales abren con WebFetch: bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/notas-banco-espana/deuda-aapp-agosto26.html (también julio26, junio26, diciembre25; variantes sin "notas-banco-espana" también). Agosto 99,7 % / 1.750 mm (+2,9 %); julio "habría descendido por debajo del 100 % por primera vez desde febrero de 2020"; avance de septiembre el 17-11. Junio: 101,5 % en la nota y 101,4 % en el título. Eurostat sigue bloqueado: sin 2018. (044, 2026-11-11)
 
+- [productividad, Eurostat] En la nube del 13-11-2026 la API de Eurostat SÍ abrió con WebFetch: nama_10_lp_ulc (na_item=RLPR_HW, unit=I15, sinceTimePeriod=2015) da la serie entera ES/UE. Prueba siempre antes de dar por bloqueada. (048, 2026-11-13)
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)
