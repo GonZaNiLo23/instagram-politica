@@ -1,5 +1,249 @@
 {
- "generado": "2026-11-13T19:28:24.198Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-13T20:30:58.906Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-18127031044917725",
+   "fuente": "instagram",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1266234,
+   "fecha": "2026-11-13T20:30:09+0000",
+   "horas": 0,
+   "me_gusta": 12,
+   "comentarios": 0,
+   "viral": 1.9,
+   "enlace": "https://www.instagram.com/reel/DfsfbjohSK-/",
+   "texto": "🔴 santi_abascal agradece el apoyo y el respaldo de los miles de españoles que han llenado la Plaza de Colón en el gran acto de inicio de campaña.\n\n¡GRACIAS POR SEGUIR AHÍ!",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 18.1,
+   "archivo": "ig-18127031044917725.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 7.68,
+     "texto": "a todos las gracias más sinceras y más emocionadas. No sólo por estar aquí, más bien porque"
+    },
+    {
+     "inicio": 7.68,
+     "fin": 14.2,
+     "texto": "se haréis aquí después de tanto tiempo respaldándonos, alentándonos, llevándonos en volandas."
+    },
+    {
+     "inicio": 15,
+     "fin": 17.92,
+     "texto": "Y yo quiero deciros que si después de tanto tiempo hemos llegado"
+    }
+   ],
+   "palabras": [
+    {
+     "t": "a",
+     "inicio": 0,
+     "fin": 0.18
+    },
+    {
+     "t": "todos",
+     "inicio": 0.18,
+     "fin": 0.4
+    },
+    {
+     "t": "las",
+     "inicio": 0.4,
+     "fin": 0.62
+    },
+    {
+     "t": "gracias",
+     "inicio": 0.62,
+     "fin": 1
+    },
+    {
+     "t": "más",
+     "inicio": 1,
+     "fin": 2.22
+    },
+    {
+     "t": "sinceras",
+     "inicio": 2.22,
+     "fin": 2.8
+    },
+    {
+     "t": "y",
+     "inicio": 2.8,
+     "fin": 2.9
+    },
+    {
+     "t": "más",
+     "inicio": 2.9,
+     "fin": 3.04
+    },
+    {
+     "t": "emocionadas.",
+     "inicio": 3.04,
+     "fin": 3.66
+    },
+    {
+     "t": "No",
+     "inicio": 4.66,
+     "fin": 4.7
+    },
+    {
+     "t": "sólo",
+     "inicio": 4.7,
+     "fin": 4.88
+    },
+    {
+     "t": "por",
+     "inicio": 4.88,
+     "fin": 5.08
+    },
+    {
+     "t": "estar",
+     "inicio": 5.08,
+     "fin": 5.26
+    },
+    {
+     "t": "aquí,",
+     "inicio": 5.26,
+     "fin": 5.54
+    },
+    {
+     "t": "más",
+     "inicio": 6.2,
+     "fin": 6.36
+    },
+    {
+     "t": "bien",
+     "inicio": 6.36,
+     "fin": 6.62
+    },
+    {
+     "t": "porque",
+     "inicio": 6.62,
+     "fin": 7.68
+    },
+    {
+     "t": "se",
+     "inicio": 7.68,
+     "fin": 7.9
+    },
+    {
+     "t": "haréis",
+     "inicio": 7.9,
+     "fin": 8.14
+    },
+    {
+     "t": "aquí",
+     "inicio": 8.14,
+     "fin": 8.42
+    },
+    {
+     "t": "después",
+     "inicio": 8.42,
+     "fin": 8.76
+    },
+    {
+     "t": "de",
+     "inicio": 8.76,
+     "fin": 8.98
+    },
+    {
+     "t": "tanto",
+     "inicio": 8.98,
+     "fin": 9.16
+    },
+    {
+     "t": "tiempo",
+     "inicio": 9.16,
+     "fin": 9.58
+    },
+    {
+     "t": "respaldándonos,",
+     "inicio": 9.58,
+     "fin": 11.36
+    },
+    {
+     "t": "alentándonos,",
+     "inicio": 11.68,
+     "fin": 12.82
+    },
+    {
+     "t": "llevándonos",
+     "inicio": 12.92,
+     "fin": 13.42
+    },
+    {
+     "t": "en",
+     "inicio": 13.42,
+     "fin": 13.62
+    },
+    {
+     "t": "volandas.",
+     "inicio": 13.62,
+     "fin": 14.2
+    },
+    {
+     "t": "Y",
+     "inicio": 15,
+     "fin": 15.06
+    },
+    {
+     "t": "yo",
+     "inicio": 15.06,
+     "fin": 15.16
+    },
+    {
+     "t": "quiero",
+     "inicio": 15.16,
+     "fin": 15.42
+    },
+    {
+     "t": "deciros",
+     "inicio": 15.42,
+     "fin": 15.92
+    },
+    {
+     "t": "que",
+     "inicio": 15.92,
+     "fin": 16.08
+    },
+    {
+     "t": "si",
+     "inicio": 16.08,
+     "fin": 16.28
+    },
+    {
+     "t": "después",
+     "inicio": 16.28,
+     "fin": 16.78
+    },
+    {
+     "t": "de",
+     "inicio": 16.78,
+     "fin": 16.9
+    },
+    {
+     "t": "tanto",
+     "inicio": 16.9,
+     "fin": 17.1
+    },
+    {
+     "t": "tiempo",
+     "inicio": 17.1,
+     "fin": 17.4
+    },
+    {
+     "t": "hemos",
+     "inicio": 17.4,
+     "fin": 17.58
+    },
+    {
+     "t": "llegado",
+     "inicio": 17.58,
+     "fin": 17.92
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
