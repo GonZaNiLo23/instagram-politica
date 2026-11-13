@@ -71,3 +71,4 @@
 - [043] Pieza "flash" con embudoR/barrasVSerie: control/control-N.png (6 fotogramas) + comprobar.mjs + 1 tira del cierre bastan; sin renders/subida en nube. (043, 2026-11-12)
 - [044] Pieza 'flash' deuda con flechasD/duoD/separanD: control/control-N.png (6) + comprobar.mjs + 3 crops puntuales bastan; mira etiqueta de cada línea en gráficos de dos series. (044, 2026-11-12)
 - [047] Pieza 'cifra' barrasVSerie: control/control-N.png (6) + comprobar.mjs + ffprobe/loudnorm + 1 tira bastan; 3 llamadas en total. (047, 2026-11-13)
+- [048] Pieza 'cifra' lineas España/UE: control-N.png (6) + comprobar.mjs + loudnorm; la etiqueta de la línea de España queda cruzada por la línea UE. (048, 2026-11-13)

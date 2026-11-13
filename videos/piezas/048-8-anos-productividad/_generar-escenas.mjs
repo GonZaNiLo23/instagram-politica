@@ -17,15 +17,15 @@ const nota = (lineas, en = 0.2) => ({tipo: 'notas', lineas, en, tamano: 40});
 const NB = ' ';
 const N = 8;
 const TINTA = '#14213D', MOST = '#F2B134';
-const LIN = {max: 5, base: 1100, hMax: 400};
+const LIN = {max: 5, base: 1100, hMax: 460};
 const ES = (en = -5, o = {}) => ({nombre: 'ESPAÑA', final: 2.2, color: TINTA, en, dec: true, ...o});
 const UE = (en, o = {}) => ({nombre: 'UE', final: 4.3, color: MOST, en, dec: true, ...o});
 
 const gancho = [
   {tipo: 'cifraSerie', n: N, en: -1},
   {tipo: 'gancho', texto: `UNA HORA RINDE +2,2${NB}%`, y: 470, tamano: 104, en: -1},
-  rot(`España, 2018 → 2025 · Eurostat`, 740, -1),
-  {tipo: 'relojSerie', cx: 330, cy: 990, r: 140, cajas: true},
+  rot(`España, 2018 → 2025 · Eurostat`, 715, -1),
+  {tipo: 'relojSerie', cx: 330, cy: 1020, r: 120, cajas: true},
 ];
 
 // 1 · Gancho (palabra 10 "Es" -> escena 2)
@@ -56,14 +56,14 @@ esc(b3, b4, {fondo: 'crema'}, [
 const b5 = S(64);
 esc(b4, b5, {fondo: 'crema'}, [
   rot(`UE: 103,0 → 107,4`, 330, 0.05),
-  {tipo: 'lineasSerie', ...LIN, series: [ES(-5, {pos: 'abajo'}), UE(0.5, {dur: 1.8})]},
+  {tipo: 'lineasSerie', ...LIN, series: [ES(-5, {pos: 'abajo', ldy: 70}), UE(0.5, {dur: 1.8})]},
 ]);
 // 6 · Ojo
 const b6 = S(75);
 esc(b5, b6, {fondo: 'crema'}, [
   rot(`No compara euros por${NB}hora`, 330, rel(b5, 70) - 0.4),
-  {tipo: 'lineasSerie', ...LIN, series: [ES(-5, {pos: 'abajo'}), UE(-5)]},
-  {tipo: 'selloTexto', lineas: ['ÍNDICE,', 'NO NIVEL'], x: 440, y: 520, desde: 40, angulo: -5, tamano: 80, en: 0.05},
+  {tipo: 'lineasSerie', ...LIN, series: [ES(-5, {pos: 'abajo', ldy: 70}), UE(-5)]},
+  {tipo: 'selloTexto', lineas: ['ÍNDICE,', 'NO NIVEL'], x: 360, y: 430, desde: 40, angulo: -5, tamano: 80, en: 0.05},
 ]);
 // 7a · Pregunta A/B
 const b7 = S(81);

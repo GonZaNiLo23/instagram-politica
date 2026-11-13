@@ -46,3 +46,4 @@
 - [nube, 2026-11-12] produccion.yml: 043/044 con guion aprobado + generador-video + revisor-video cupo en ~15 min; el generador no relanza voz si voz.mp3 existe (ahorra créditos).
 - 2026-11-12: la API JSON de Eurostat sí abre desde la nube (cerró dato 2018 en 1 curl); cambios literales los apliqué yo sin segunda vuelta; reservar 2 piezas en curso evitó topes.
 - [nube, 2026-11-13] Rutina claude.ai: red igual (curl 000 a todo, Eurostat incluido). Comprobar, informar y salir. Huecos 14 y 15-11 para produccion.yml.
+- [nube, 2026-11-13] Con red completa, 2 guiones+2 vídeos en ~35 min; cambios de gancho de revisor-guion mejor devolverlos al guionista con el informe (trae el texto); solape de un solo rótulo: lo cierro yo mirando un fotograma.

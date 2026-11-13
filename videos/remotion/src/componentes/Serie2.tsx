@@ -19,7 +19,7 @@ const lienzo = (children: React.ReactNode, s: number) => (
   </div>
 );
 
-type SerieL = {nombre: string; final: number; color: string; en: number; dur?: number; pos?: 'arriba' | 'abajo'; tam?: number; dec?: boolean};
+type SerieL = {nombre: string; final: number; color: string; en: number; dur?: number; pos?: 'arriba' | 'abajo'; ldy?: number; tam?: number; dec?: boolean};
 
 export const LineasSerie: React.FC<{series: SerieL[]; max?: number; base?: number; hMax?: number; x0?: number; x1?: number; hasta?: number; anios?: boolean}> = ({series, max = 60, base = 1100, hMax = 400, x0 = 130, x1 = 850, hasta, anios = true}) => {
   const {t} = usa();
@@ -40,7 +40,7 @@ export const LineasSerie: React.FC<{series: SerieL[]; max?: number; base?: numbe
         const ye = base - (sr.final * k / max) * hMax;
         const v = sr.dec ? (sr.final * k).toFixed(1).replace('.', ',') : (sr.final * k).toFixed(0);
         const tam = sr.tam ?? 52;
-        const ly0 = sr.pos === 'abajo' ? ye + tam + 24 : ye - 30;
+        const ly0 = sr.pos === 'abajo' ? ye + tam + 24 + (sr.ldy ?? 0) : ye - 30;
         const ly = sr.pos === 'abajo' ? Math.min(ly0, base - 20) : ly0;
         const ew = ease(k, 0.4, 0.55);
         const anc = (sr.nombre.length + 8) * tam * 0.58;

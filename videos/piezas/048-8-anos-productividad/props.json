@@ -32,15 +32,15 @@
           {
             "tipo": "rotulo",
             "texto": "España, 2018 → 2025 · Eurostat",
-            "y": 740,
+            "y": 715,
             "en": -1,
             "tamano": 64
           },
           {
             "tipo": "relojSerie",
             "cx": 330,
-            "cy": 990,
-            "r": 140,
+            "cy": 1020,
+            "r": 120,
             "cajas": true
           }
         ]
@@ -68,15 +68,15 @@
         {
           "tipo": "rotulo",
           "texto": "España, 2018 → 2025 · Eurostat",
-          "y": 740,
+          "y": 715,
           "en": -1,
           "tamano": 64
         },
         {
           "tipo": "relojSerie",
           "cx": 330,
-          "cy": 990,
-          "r": 140,
+          "cy": 1020,
+          "r": 120,
           "cajas": true
         }
       ]
@@ -125,7 +125,7 @@
           "tipo": "lineasSerie",
           "max": 5,
           "base": 1100,
-          "hMax": 400,
+          "hMax": 460,
           "series": [
             {
               "nombre": "ESPAÑA",
@@ -162,7 +162,7 @@
           "tipo": "lineasSerie",
           "max": 5,
           "base": 1100,
-          "hMax": 400,
+          "hMax": 460,
           "series": [
             {
               "nombre": "ESPAÑA",
@@ -203,7 +203,7 @@
           "tipo": "lineasSerie",
           "max": 5,
           "base": 1100,
-          "hMax": 400,
+          "hMax": 460,
           "series": [
             {
               "nombre": "ESPAÑA",
@@ -211,7 +211,8 @@
               "color": "#14213D",
               "en": -5,
               "dec": true,
-              "pos": "abajo"
+              "pos": "abajo",
+              "ldy": 70
             },
             {
               "nombre": "UE",
@@ -241,7 +242,7 @@
           "tipo": "lineasSerie",
           "max": 5,
           "base": 1100,
-          "hMax": 400,
+          "hMax": 460,
           "series": [
             {
               "nombre": "ESPAÑA",
@@ -249,7 +250,8 @@
               "color": "#14213D",
               "en": -5,
               "dec": true,
-              "pos": "abajo"
+              "pos": "abajo",
+              "ldy": 70
             },
             {
               "nombre": "UE",
@@ -266,8 +268,8 @@
             "ÍNDICE,",
             "NO NIVEL"
           ],
-          "x": 440,
-          "y": 520,
+          "x": 360,
+          "y": 430,
           "desde": 40,
           "angulo": -5,
           "tamano": 80,
