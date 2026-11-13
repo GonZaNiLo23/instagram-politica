@@ -221,3 +221,4 @@
 - 2026-11-13 14:48 UTC · 3 · @vox_es (Abascal, UCO/Moncloa, 16 s) · descartado: insinuación de delito no probada
 - 2026-11-13 14:48 UTC · 1 · @vox_es («Gracias Toledo», 20 s) · descartado: sin frase política
 - 2026-11-13 16:40 UTC (publicación 18:00 Madrid) · 3 · @santi_abascal (prioridad nacional, tramos 0–7,8 y 59,86–69,2 s; subtítulos cotejados con la transcripción; omitida la afirmación sobre la partida en Ceuta, no verificable; opinión atribuida, sin acusaciones; viral 86,8; único candidato) · publicado am20261113-1648-abascal-prioridad-nacional
+- 2026-11-13 17:30 UTC (publicación 18:00 Madrid): sin candidatos (radar generado 17:28 UTC, 0 detectados; las 18:00 ya cubiertas por am20261113-1648-abascal-prioridad-nacional); sin publicación.
