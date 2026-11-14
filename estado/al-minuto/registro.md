@@ -236,3 +236,7 @@
 - 2026-11-14 11:28 UTC · 3 · @santi_abascal (violaciones/inmigración, 82 s) · descartado: acusación no probada, sin tramo limpio; un envío por hora
 - 2026-11-14 11:28 UTC · 2 · @vox_es (Camino de Almería, 17 s) · descartado: sin habla
 - 2026-11-14 11:28 UTC · 1 · @gabrielrufian (66 s) · descartado: viral 0,4, sin hecho noticioso
+- 2026-11-14 13:30 UTC (publicación 14:00 Madrid) · 4 · @psoe (llamada a 75 % de participación y 176 escaños, tramo 18,41–36,13 s; subtítulos cotejados con la transcripción, «Gravaros»→«Grabaros»; no se atribuye a una persona concreta, solo a la cuenta; viral 518) · publicado am20261114-1325-psoe-mayoria-progresista
+- 2026-11-14 13:30 UTC · 3 · @sanchezcastejon (mitin Palma, anécdota, 43 s) · descartado: sin hecho noticioso y un envío por hora; viral 42,6
+- 2026-11-14 13:30 UTC · 2 · @vox_es (Almería, 17,6 s y 15,1 s) · descartado: sin habla/sin frase política
+- 2026-11-14 13:30 UTC · 2 · @santi_abascal (Toledo, 103 s) · descartado: viral 2,2; ya cubierto
