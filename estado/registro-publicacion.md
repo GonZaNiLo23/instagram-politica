@@ -94,3 +94,5 @@
 - 2026-11-13T18:01:10.200Z · 046-8-anos-paro-juvenil: ERROR al publicar: Error: Subida de 046-8-anos-paro-juvenil-v1.mp4 fallida: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"{\"success\":false,\"error\":{\"message\":\"The ig container is not in the status to upload a video\"}}"}}
 - 2026-11-14T06:01:01.017Z · am20261114-0526-abascal-repatriacion v1: PUBLICADA en Instagram https://www.instagram.com/reel/Dftgyc_geD7/
 - 2026-11-14T06:01:05.337Z · am20261114-0526-abascal-repatriacion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-14T11:00:49.579Z · 047-8-anos-pensiones v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfuDH_AkzQu/
+- 2026-11-14T11:00:52.504Z · 047-8-anos-pensiones: TikTok en la bandeja de borradores (falta publicarlo desde la app)
