@@ -1,0 +1,80 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 18.4,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 14.9,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "fundidoFin": 14.9,
+     "zoom": [
+      1,
+      1.04
+     ],
+     "dur": 14.9
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL: EL 29 DE NOVIEMBRE, «HAGÁMOSLO»",
+     "fecha": "14 NOV",
+     "credito": "Vídeo: @santi_abascal"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.05,
+       "fin": 3.6,
+       "texto": "Somos herederos de una patria\nque merece la pena,"
+      },
+      {
+       "inicio": 3.7,
+       "fin": 6.2,
+       "texto": "y lo que tenemos que hacer\nel 29 de noviembre"
+      },
+      {
+       "inicio": 6.2,
+       "fin": 9.4,
+       "texto": "es muy poquito al lado de\nlo que hicieron nuestros abuelos."
+      },
+      {
+       "inicio": 9.45,
+       "fin": 11.2,
+       "texto": "Hagámoslo de una vez por todas."
+      },
+      {
+       "inicio": 11.3,
+       "fin": 13.9,
+       "texto": "Recuperemos la unidad de nuestra patria\ny la libertad."
+      },
+      {
+       "inicio": 14.0,
+       "fin": 14.85,
+       "texto": "Adelante, españoles."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 14.9,
+   "fin": 18.4,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal pide actuar el 29 de noviembre",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

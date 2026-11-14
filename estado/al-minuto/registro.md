@@ -232,3 +232,7 @@
 - 2026-11-14 09:30 UTC (publicación 10:00 Madrid) · 2 · @santi_abascal (spot «Vota Vox», 30 s) · descartado: publicidad electoral sin hecho noticioso; afirmaciones («invasión», «dignidad pisoteada en Ceuta») no verificables
 - 2026-11-14 09:30 UTC · 2 · @sanchezcastejon (spot «Pregúntale a Teresa», 134 s) · descartado: publicidad de campaña con narración y ficción, sin tramo limpio
 - 2026-11-14 09:30 UTC · 1 · @psoe (Pamplona, 20 s) · descartado: sin habla. Sin publicación.
+- 2026-11-14 11:28 UTC (publicación 12:00 Madrid) · 3 · @santi_abascal (29 de noviembre, tramo 54,24–69,14 s; subtítulos cotejados con la transcripción, «a la odio»→«al lado de»; opinión atribuida, sin acusación; viral 33,6) · publicado am20261114-1128-abascal-29-noviembre
+- 2026-11-14 11:28 UTC · 3 · @santi_abascal (violaciones/inmigración, 82 s) · descartado: acusación no probada, sin tramo limpio; un envío por hora
+- 2026-11-14 11:28 UTC · 2 · @vox_es (Camino de Almería, 17 s) · descartado: sin habla
+- 2026-11-14 11:28 UTC · 1 · @gabrielrufian (66 s) · descartado: viral 0,4, sin hecho noticioso
