@@ -250,3 +250,4 @@
 - 2026-11-14 17:30 UTC · 3 · @vox_es (Abascal, sanidad, 100 s) · descartado: ya cubierto (am20261114-1526)
 - 2026-11-14 17:30 UTC · 2 · @psoe (¿Quién dijo la frase?, 44 s) · descartado: juego sin hecho noticioso
 - 2026-11-14 17:30 UTC · 1 · @vox_es (ruta Vera, 59 s) · descartado: sin hecho noticioso
+- 2026-11-14 19:30 UTC (publicación 20:00 Madrid) · 2 · @nngg_es (cronología Marruecos/Sáhara/Ceuta/Pegasus, 155 s) · descartado: viral 0 (recién publicado), explicador largo con insinuaciones causales no probadas (Ceuta/CNI/cese González-Laya/Pegasus), sin tramo limpio de 15–40 s; único candidato. Sin publicación.
