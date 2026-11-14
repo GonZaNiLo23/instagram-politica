@@ -240,3 +240,8 @@
 - 2026-11-14 13:30 UTC · 3 · @sanchezcastejon (mitin Palma, anécdota, 43 s) · descartado: sin hecho noticioso y un envío por hora; viral 42,6
 - 2026-11-14 13:30 UTC · 2 · @vox_es (Almería, 17,6 s y 15,1 s) · descartado: sin habla/sin frase política
 - 2026-11-14 13:30 UTC · 2 · @santi_abascal (Toledo, 103 s) · descartado: viral 2,2; ya cubierto
+- 2026-11-14 15:30 UTC (publicación 16:00 Madrid) · 3 · @vox_es (Abascal, sanidad, tramo 0–22,2 s; subtítulos cotejados con la transcripción, «regusos»→«recursos»; opinión atribuida, sin acusación de delito; viral 41,2) · publicado am20261114-1526-abascal-sanidad
+- 2026-11-14 15:30 UTC · 3 · @isabeldiazayuso (garrapata/sanchismo, 56 s) · descartado: lenguaje deshumanizador («chupando la sangre», «acabar desde la cabeza») y transcripción dudosa; viral alto (810) pero riesgo editorial
+- 2026-11-14 15:30 UTC · 3 · @vox_es (Abascal, clases medias, 76 s) · descartado: sin tramo limpio y un envío por hora
+- 2026-11-14 15:30 UTC · 2 · @santi_abascal (Colón, 72 s) · descartado: sin frase clara; ya cubierto
+- 2026-11-14 15:30 UTC · 2 · @santi_abascal (Gracias Almería, 30 s) · descartado: sin hecho noticioso

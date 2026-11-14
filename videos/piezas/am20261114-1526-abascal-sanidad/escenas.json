@@ -1,0 +1,75 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 25.7,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 22.2,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 22.2,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 22.2
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL DENUNCIA EL DETERIORO DE LA SANIDAD",
+          "fecha": "14 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 4.1,
+              "texto": "Han destruido la red hospitalaria\ny los españoles padecen listas de espera"
+            },
+            {
+              "inicio": 4.1,
+              "fin": 8.9,
+              "texto": "y los médicos no están bien reconocidos\nni las enfermeras y tienen que irse de España"
+            },
+            {
+              "inicio": 8.9,
+              "fin": 13.7,
+              "texto": "hasta tal punto que ahora exportamos\nmédicos, enfermeras y enfermeros"
+            },
+            {
+              "inicio": 13.7,
+              "fin": 18.2,
+              "texto": "formados aquí en nuestro país con muchos\nrecursos públicos e importamos pacientes"
+            },
+            {
+              "inicio": 18.2,
+              "fin": 22.2,
+              "texto": "porque han dicho que la sanidad de los\nespañoles es para el universo entero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 22.2,
+      "fin": 25.7,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal critica el estado de la sanidad pública",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true
+}

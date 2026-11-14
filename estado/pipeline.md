@@ -107,3 +107,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261114-0526-abascal-repatriacion | Al minuto: Abascal, repatriación | publicando (Al minuto horario) |
 | 050 | 8-anos-inmigracion-irregular | 📊 Datos · serie 8 años | Flash | programado | 2 | 2 | 2026-11-15 19:00 (cola) | v2 APROBADO 9/10 |
 | 049 | 8-anos-estancamiento | 📊 Datos · serie 8 años | Flash | programado | 2 | 2 | 2026-11-15 12:00 (cola) | v2 APROBADO 9/10 |
+| am20261114-1526-abascal-sanidad | Al minuto: Abascal, sanidad | publicando (Al minuto horario) |
