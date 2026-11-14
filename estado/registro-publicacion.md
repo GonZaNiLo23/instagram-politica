@@ -96,3 +96,5 @@
 - 2026-11-14T06:01:05.337Z · am20261114-0526-abascal-repatriacion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-14T11:00:49.579Z · 047-8-anos-pensiones v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfuDH_AkzQu/
 - 2026-11-14T11:00:52.504Z · 047-8-anos-pensiones: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-14T12:01:06.460Z · am20261114-1128-abascal-29-noviembre v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfuJ_R6CnJy/
+- 2026-11-14T12:01:08.238Z · am20261114-1128-abascal-29-noviembre: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
