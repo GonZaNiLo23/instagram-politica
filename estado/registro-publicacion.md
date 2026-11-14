@@ -92,3 +92,5 @@
 - 2026-11-13T17:01:01.047Z · am20261113-1648-abascal-prioridad-nacional v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfsHhahDJIm/
 - 2026-11-13T17:01:02.427Z · am20261113-1648-abascal-prioridad-nacional: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-13T18:01:10.200Z · 046-8-anos-paro-juvenil: ERROR al publicar: Error: Subida de 046-8-anos-paro-juvenil-v1.mp4 fallida: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"{\"success\":false,\"error\":{\"message\":\"The ig container is not in the status to upload a video\"}}"}}
+- 2026-11-14T06:01:01.017Z · am20261114-0526-abascal-repatriacion v1: PUBLICADA en Instagram https://www.instagram.com/reel/Dftgyc_geD7/
+- 2026-11-14T06:01:05.337Z · am20261114-0526-abascal-repatriacion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
