@@ -1,0 +1,90 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 21.22,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 17.72,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 17.72,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 17.72
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "EL PSOE PIDE UNA MAYORÍA ABSOLUTA PROGRESISTA",
+          "fecha": "14 NOV",
+          "credito": "Vídeo: @psoe"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.32,
+              "texto": "Grabaros estas dos cifras:"
+            },
+            {
+              "inicio": 2.9,
+              "fin": 5.5,
+              "texto": "75 y 176."
+            },
+            {
+              "inicio": 5.86,
+              "fin": 8.24,
+              "texto": "75 % de participación"
+            },
+            {
+              "inicio": 8.24,
+              "fin": 11.86,
+              "texto": "para lograr 176 escaños,"
+            },
+            {
+              "inicio": 11.86,
+              "fin": 14.4,
+              "texto": "es decir, una mayoría absoluta\nprogresista"
+            },
+            {
+              "inicio": 14.4,
+              "fin": 16.82,
+              "texto": "que nos permita llegar antes\ny más lejos"
+            },
+            {
+              "inicio": 16.82,
+              "fin": 17.72,
+              "texto": "en avances sociales."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 17.72,
+      "fin": 21.22,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "El PSOE pide 75 % de participación para sumar 176 escaños",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261114-1325-psoe-mayoria-progresista",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
