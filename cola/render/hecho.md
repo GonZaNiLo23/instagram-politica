@@ -37,3 +37,4 @@
 - 2026-11-13T14:56:53Z · am20261113-1448-abascal-movilizacion v1 · OK · ffprobe: h264 1080x1920 @30/1 · 19.70 s (objetivo 19.6 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-13T16:47:04Z · am20261113-1648-abascal-prioridad-nacional v1 · OK · ffprobe: h264 1080x1920 @30/1 · 20.70 s (objetivo 20.6 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-14T05:39:43Z · am20261114-0526-abascal-repatriacion v1 · OK · ffprobe: h264 1080x1920 @30/1 · 31.74 s (objetivo 31.7 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-14T11:34:25Z · am20261114-1128-abascal-29-noviembre v1 · OK · ffprobe: h264 1080x1920 @30/1 · 18.45 s (objetivo 18.4 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
