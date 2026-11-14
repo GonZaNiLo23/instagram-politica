@@ -515,7 +515,11 @@
     "version": "v2",
     "hora": "2026-11-14T19:00:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/048-8-anos-productividad-v1.md APROBADO (literales aplicados) · revisiones/videos/048-8-anos-productividad-v1.md CAMBIOS, v2 cerrada y comprobada por el coordinador (solape resuelto) test 9/10",
-    "estado": "pendiente"
+    "estado": "publicado",
+    "id": "18132637801694831",
+    "enlace": "https://www.instagram.com/reel/DfuzL5AE3xG/",
+    "publicado_en": "2026-11-14T18:00:47.712Z",
+    "tiktok_estado": "error"
   },
   {
     "pieza": "am20261113-1448-abascal-movilizacion",
@@ -601,7 +605,11 @@
     "pieza": "am20261114-1728-abascal-broncano",
     "version": "v1",
     "hora": "2026-11-14T18:00:00.000Z",
-    "estado": "pendiente",
-    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)"
+    "estado": "publicado",
+    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)",
+    "id": "17912119008571647",
+    "enlace": "https://www.instagram.com/reel/DfuzREQktLM/",
+    "publicado_en": "2026-11-14T18:01:23.924Z",
+    "tiktok_estado": "error"
   }
 ]

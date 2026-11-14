@@ -102,3 +102,7 @@
 - 2026-11-14T14:00:45.949Z · am20261114-1325-psoe-mayoria-progresista: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-14T16:00:43.427Z · am20261114-1526-abascal-sanidad v1: PUBLICADA en Instagram https://www.instagram.com/reel/Dfulcv3DVM1/
 - 2026-11-14T16:00:45.478Z · am20261114-1526-abascal-sanidad: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-14T18:00:47.712Z · 048-8-anos-productividad v2: PUBLICADA en Instagram https://www.instagram.com/reel/DfuzL5AE3xG/
+- 2026-11-14T18:00:49.582Z · 048-8-anos-productividad: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-14T18:01:23.924Z · am20261114-1728-abascal-broncano v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfuzREQktLM/
+- 2026-11-14T18:01:25.543Z · am20261114-1728-abascal-broncano: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
