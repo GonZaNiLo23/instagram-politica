@@ -40,3 +40,4 @@
 - 2026-11-14T11:34:25Z · am20261114-1128-abascal-29-noviembre v1 · OK · ffprobe: h264 1080x1920 @30/1 · 18.45 s (objetivo 18.4 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-14T13:40:14Z · am20261114-1325-psoe-mayoria-progresista v1 · OK · ffprobe: h264 1080x1920 @30/1 · 21.30 s (objetivo 21.22 s) -> OK Volumen integrado: -13.7 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-14T15:34:42Z · am20261114-1526-abascal-sanidad v1 · OK · ffprobe: h264 1080x1920 @30/1 · 25.80 s (objetivo 25.7 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-14T17:35:34Z · am20261114-1728-abascal-broncano v1 · OK · ffprobe: h264 1080x1920 @30/1 · 29.90 s (objetivo 29.84 s) -> OK Volumen integrado: -15.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 

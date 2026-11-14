@@ -1,0 +1,111 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 29.84,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 26.34,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 26.34,
+          "fundidoFin": 26.34
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL CRITICA SU ENTREVISTA CON BRONCANO",
+          "fecha": "14 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 1.78,
+              "texto": "La extrema izquierda no perdona que nos den voz."
+            },
+            {
+              "inicio": 2.48,
+              "fin": 4.5,
+              "texto": "Probablemente una parte de los seguidores"
+            },
+            {
+              "inicio": 4.5,
+              "fin": 6.56,
+              "texto": "de este programa son de esa ideología"
+            },
+            {
+              "inicio": 6.56,
+              "fin": 8.1,
+              "texto": "y consideraban que el programa"
+            },
+            {
+              "inicio": 8.1,
+              "fin": 9.6,
+              "texto": "tenía que servir para liquidarme."
+            },
+            {
+              "inicio": 10.32,
+              "fin": 13.9,
+              "texto": "Y, por lo tanto, enseguida en los primeros compases aquello se convirtió"
+            },
+            {
+              "inicio": 14.14,
+              "fin": 17.28,
+              "texto": "en una cosa muy distinta de la que estaba planteado."
+            },
+            {
+              "inicio": 17.4,
+              "fin": 18.4,
+              "texto": "Para mí no fue cómoda."
+            },
+            {
+              "inicio": 18.4,
+              "fin": 20.76,
+              "texto": "Hay muchas personas que dicen que bien, que tranquilo estabas."
+            },
+            {
+              "inicio": 20.96,
+              "fin": 24.6,
+              "texto": "Bueno, no estaba tranquilo, yo estaba incómodo en primer lugar"
+            },
+            {
+              "inicio": 24.6,
+              "fin": 26.34,
+              "texto": "porque sentí que se me había engañado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 26.34,
+      "fin": 29.84,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal dice que se sintió engañado en La Revuelta",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261114-1728-abascal-broncano",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
