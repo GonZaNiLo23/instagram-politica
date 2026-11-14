@@ -245,3 +245,8 @@
 - 2026-11-14 15:30 UTC · 3 · @vox_es (Abascal, clases medias, 76 s) · descartado: sin tramo limpio y un envío por hora
 - 2026-11-14 15:30 UTC · 2 · @santi_abascal (Colón, 72 s) · descartado: sin frase clara; ya cubierto
 - 2026-11-14 15:30 UTC · 2 · @santi_abascal (Gracias Almería, 30 s) · descartado: sin hecho noticioso
+- 2026-11-14 17:30 UTC (publicación 18:00 Madrid) · 4 · @vox_es (Abascal sobre su entrevista en La Revuelta, tramo 61,66–88,0 s; subtítulos cotejados con la transcripción; opinión atribuida, sin acusación de delito; viral 230) · publicado am20261114-1728-abascal-broncano
+- 2026-11-14 17:30 UTC · 3 · @vox_es (Abascal, fondos públicos/«traidor», 119 s) · descartado: sin tramo limpio y un envío por hora; viral 78
+- 2026-11-14 17:30 UTC · 3 · @vox_es (Abascal, sanidad, 100 s) · descartado: ya cubierto (am20261114-1526)
+- 2026-11-14 17:30 UTC · 2 · @psoe (¿Quién dijo la frase?, 44 s) · descartado: juego sin hecho noticioso
+- 2026-11-14 17:30 UTC · 1 · @vox_es (ruta Vera, 59 s) · descartado: sin hecho noticioso
