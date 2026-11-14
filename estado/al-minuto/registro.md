@@ -229,3 +229,6 @@
 - 2026-11-14 05:30 UTC · 2 · @alviseperez (condecoración Colombia, 106 s) · descartado: autobombo, sin tramo político claro; viral bajo
 - 2026-11-14 05:30 UTC · 1 · @vox_es (Colón, 25 s) · descartado: sin habla
 - 2026-11-14 07:30 UTC (publicación 08:00 Madrid): sin candidatos (radar generado 07:28 UTC, 0 detectados); sin publicación.
+- 2026-11-14 09:30 UTC (publicación 10:00 Madrid) · 2 · @santi_abascal (spot «Vota Vox», 30 s) · descartado: publicidad electoral sin hecho noticioso; afirmaciones («invasión», «dignidad pisoteada en Ceuta») no verificables
+- 2026-11-14 09:30 UTC · 2 · @sanchezcastejon (spot «Pregúntale a Teresa», 134 s) · descartado: publicidad de campaña con narración y ficción, sin tramo limpio
+- 2026-11-14 09:30 UTC · 1 · @psoe (Pamplona, 20 s) · descartado: sin habla. Sin publicación.
