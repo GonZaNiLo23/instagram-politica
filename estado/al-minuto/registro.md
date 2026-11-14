@@ -223,3 +223,8 @@
 - 2026-11-13 16:40 UTC (publicación 18:00 Madrid) · 3 · @santi_abascal (prioridad nacional, tramos 0–7,8 y 59,86–69,2 s; subtítulos cotejados con la transcripción; omitida la afirmación sobre la partida en Ceuta, no verificable; opinión atribuida, sin acusaciones; viral 86,8; único candidato) · publicado am20261113-1648-abascal-prioridad-nacional
 - 2026-11-13 17:30 UTC (publicación 18:00 Madrid): sin candidatos (radar generado 17:28 UTC, 0 detectados; las 18:00 ya cubiertas por am20261113-1648-abascal-prioridad-nacional); sin publicación.
 - 2026-11-13 19:35 UTC (publicación 20:00 Madrid): sin candidatos (radar generado 19:28 UTC, 0 detectados); sin publicación.
+- 2026-11-14 05:30 UTC (publicación 06:00 Madrid) · 4 · @vox_es (Abascal, repatriación/deportación/remigración, tramo 0–28,21 s; subtítulos cotejados con la transcripción, «ilegales»→«ilegalmente» según el texto del origen; propuestas atribuidas, sin acusaciones; viral 58,5) · publicado am20261114-0526-abascal-repatriacion
+- 2026-11-14 05:30 UTC · 3 · @partidopopular (Cuerpo/Pacto de Toledo, 10 s) · descartado: transcripción repetida/dudosa y un envío por hora
+- 2026-11-14 05:30 UTC · 3 · @vox_es (Abascal, violadores/Irene Montero, 82 s) · descartado: acusación no probada, sin tramo limpio
+- 2026-11-14 05:30 UTC · 2 · @alviseperez (condecoración Colombia, 106 s) · descartado: autobombo, sin tramo político claro; viral bajo
+- 2026-11-14 05:30 UTC · 1 · @vox_es (Colón, 25 s) · descartado: sin habla
