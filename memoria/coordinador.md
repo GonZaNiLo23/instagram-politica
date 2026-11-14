@@ -50,3 +50,4 @@
 - 2026-11-13: antes de encargar nada, haz git pull y mira la cola: otro ejecutor había cubierto los huecos y se duplicó trabajo (guion 047, vídeo 048).
 - [nube, 2026-11-14] Rutina claude.ai: red igual (curl 000). Comprobar, informar y salir. 046 falló en IG (container not in status to upload): avisado. Huecos 15 y 16-11 para produccion.yml.
 - 2026-11-14: guion con cifras de Eurostat: usar la tabla con decimales actualizada (nama_10_pc), no la resumen; el revisor lo cazó en v1. Conflictos de rebase en cola/pipeline: conservar ambas entradas.
+- 2026-11-14: antes de encargar, comprobar la cola: 14 y 15-11 ya cubiertos, salida en 2 min sin gastar subagentes.
