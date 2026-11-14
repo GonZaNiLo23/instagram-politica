@@ -228,3 +228,4 @@
 - 2026-11-14 05:30 UTC · 3 · @vox_es (Abascal, violadores/Irene Montero, 82 s) · descartado: acusación no probada, sin tramo limpio
 - 2026-11-14 05:30 UTC · 2 · @alviseperez (condecoración Colombia, 106 s) · descartado: autobombo, sin tramo político claro; viral bajo
 - 2026-11-14 05:30 UTC · 1 · @vox_es (Colón, 25 s) · descartado: sin habla
+- 2026-11-14 07:30 UTC (publicación 08:00 Madrid): sin candidatos (radar generado 07:28 UTC, 0 detectados); sin publicación.
