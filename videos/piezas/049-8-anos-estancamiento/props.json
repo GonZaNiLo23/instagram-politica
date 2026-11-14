@@ -1,0 +1,880 @@
+{
+  "plantilla": "flash",
+  "duracion": 36.06,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 9,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "PIB POR HABITANTE",
+            "y": 500,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "gancho",
+            "texto": "ESPAÑA / UE",
+            "y": 590,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "Eurostat",
+            "y": 750,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "pibSerie",
+            "base": 1120,
+            "hMax": 280,
+            "anios": false,
+            "refTam": 0,
+            "en": -5,
+            "i0": [
+              0,
+              0
+            ],
+            "i1": [
+              11,
+              11
+            ],
+            "etiquetas": [
+              3,
+              4,
+              11
+            ],
+            "flechas": [
+              {
+                "desde": 3,
+                "en": 0.2,
+                "dur": 1.4,
+                "etiqueta": "2017"
+              },
+              {
+                "desde": 4,
+                "en": 4.54,
+                "dur": 1.4,
+                "etiqueta": "2018"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 7.2,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 9,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PIB POR HABITANTE",
+          "y": 500,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "gancho",
+          "texto": "ESPAÑA / UE",
+          "y": 590,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Eurostat",
+          "y": 750,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1120,
+          "hMax": 280,
+          "anios": false,
+          "refTam": 0,
+          "en": -5,
+          "i0": [
+            0,
+            0
+          ],
+          "i1": [
+            11,
+            11
+          ],
+          "etiquetas": [
+            3,
+            4,
+            11
+          ],
+          "flechas": [
+            {
+              "desde": 3,
+              "en": 0.2,
+              "dur": 1.4,
+              "etiqueta": "2017"
+            },
+            {
+              "desde": 4,
+              "en": 4.54,
+              "dur": 1.4,
+              "etiqueta": "2018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 7.2,
+      "fin": 10.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PIB POR HABITANTE, EN PODER DE COMPRA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": -5,
+          "i0": [
+            0,
+            0
+          ],
+          "i1": [
+            11,
+            11
+          ],
+          "flechas": [],
+          "provisional": true
+        }
+      ]
+    },
+    {
+      "inicio": 10.1,
+      "fin": 13.06,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2017: 92,3",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": 0.1,
+          "dur": 0.6,
+          "i0": [
+            3,
+            3
+          ],
+          "i1": [
+            3,
+            3
+          ],
+          "etiquetas": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 13.06,
+      "fin": 15.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2018: 90,8",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": 0.1,
+          "dur": 1.2,
+          "i0": [
+            3,
+            3
+          ],
+          "i1": [
+            3,
+            4
+          ],
+          "etiquetas": [
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 15.86,
+      "fin": 19.78,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2025: 91,4 (provisional)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Eurostat, nama_10_pc (11-11-2026)"
+          ],
+          "en": 1.6,
+          "tamano": 40
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": 0.2,
+          "dur": 2.2,
+          "i0": [
+            3,
+            0
+          ],
+          "i1": [
+            4,
+            11
+          ],
+          "etiquetas": [
+            3,
+            4,
+            6,
+            11
+          ],
+          "marca2020": 1.2
+        }
+      ]
+    },
+    {
+      "inicio": 19.78,
+      "fin": 25.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DESDE 2017: −0,9 (92,3 → 91,4)",
+          "y": 330,
+          "en": -0.19999999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DESDE 2018: +0,6 (90,8 → 91,4)",
+          "y": 495,
+          "en": 2.8000000000000003,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": -5,
+          "i0": [
+            0,
+            0
+          ],
+          "i1": [
+            11,
+            11
+          ],
+          "etiquetas": [
+            3,
+            4,
+            6,
+            11
+          ],
+          "marca2020": -1,
+          "flechas": [
+            {
+              "desde": 3,
+              "en": 0.66,
+              "dur": 1.4
+            },
+            {
+              "desde": 4,
+              "en": 3.62,
+              "dur": 1.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 25.86,
+      "fin": 29.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Recuperó 2020; aún por debajo de 2017",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": -5,
+          "i0": [
+            0,
+            0
+          ],
+          "i1": [
+            11,
+            11
+          ],
+          "etiquetas": [
+            3,
+            4,
+            6,
+            11
+          ],
+          "marca2020": -1,
+          "flechas": [
+            {
+              "desde": 3,
+              "en": -5
+            },
+            {
+              "desde": 4,
+              "en": -5
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "AMBAS CIERTAS"
+          ],
+          "x": 430,
+          "y": 545,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 64,
+          "en": 1.0799999999999998
+        }
+      ]
+    },
+    {
+      "inicio": 29.46,
+      "fin": 32.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿UN AÑO O LA SERIE ENTERA?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "UN AÑO",
+          "b": "LA SERIE",
+          "y": 700,
+          "en": 0.6
+        }
+      ]
+    },
+    {
+      "inicio": 32.38,
+      "fin": 36.06,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 10
+        }
+      ]
+    }
+  ],
+  "id": "049-8-anos-estancamiento",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Elige",
+      "inicio": 0,
+      "fin": 0.32
+    },
+    {
+      "t": "dos",
+      "inicio": 0.4,
+      "fin": 0.587
+    },
+    {
+      "t": "mil",
+      "inicio": 0.64,
+      "fin": 0.773
+    },
+    {
+      "t": "diecisiete:",
+      "inicio": 0.8,
+      "fin": 1.44
+    },
+    {
+      "t": "España",
+      "inicio": 1.92,
+      "fin": 2.48
+    },
+    {
+      "t": "se",
+      "inicio": 2.56,
+      "fin": 2.64
+    },
+    {
+      "t": "aleja",
+      "inicio": 2.72,
+      "fin": 3.04
+    },
+    {
+      "t": "de",
+      "inicio": 3.08,
+      "fin": 3.12
+    },
+    {
+      "t": "la",
+      "inicio": 3.2,
+      "fin": 3.24
+    },
+    {
+      "t": "media",
+      "inicio": 3.28,
+      "fin": 3.6
+    },
+    {
+      "t": "europea.",
+      "inicio": 3.64,
+      "fin": 4.4
+    },
+    {
+      "t": "Elige",
+      "inicio": 4.64,
+      "fin": 5.04
+    },
+    {
+      "t": "dos",
+      "inicio": 5.12,
+      "fin": 5.28
+    },
+    {
+      "t": "mil",
+      "inicio": 5.36,
+      "fin": 5.44
+    },
+    {
+      "t": "dieciocho:",
+      "inicio": 5.52,
+      "fin": 6.48
+    },
+    {
+      "t": "se",
+      "inicio": 6.56,
+      "fin": 6.64
+    },
+    {
+      "t": "acerca.",
+      "inicio": 6.8,
+      "fin": 7.2
+    },
+    {
+      "t": "En",
+      "inicio": 10.2,
+      "fin": 10.28
+    },
+    {
+      "t": "dos",
+      "inicio": 10.36,
+      "fin": 10.44
+    },
+    {
+      "t": "mil",
+      "inicio": 10.52,
+      "fin": 10.6
+    },
+    {
+      "t": "diecisiete,",
+      "inicio": 10.68,
+      "fin": 11.32
+    },
+    {
+      "t": "noventa",
+      "inicio": 11.48,
+      "fin": 11.8
+    },
+    {
+      "t": "y",
+      "inicio": 11.88,
+      "fin": 11.92
+    },
+    {
+      "t": "dos",
+      "inicio": 11.96,
+      "fin": 12.04
+    },
+    {
+      "t": "coma",
+      "inicio": 12.2,
+      "fin": 12.28
+    },
+    {
+      "t": "tres.",
+      "inicio": 12.44,
+      "fin": 13.08
+    },
+    {
+      "t": "En",
+      "inicio": 13.16,
+      "fin": 13.24
+    },
+    {
+      "t": "dos",
+      "inicio": 13.28,
+      "fin": 13.32
+    },
+    {
+      "t": "mil",
+      "inicio": 13.4,
+      "fin": 13.48
+    },
+    {
+      "t": "dieciocho,",
+      "inicio": 13.56,
+      "fin": 14.2
+    },
+    {
+      "t": "noventa",
+      "inicio": 14.36,
+      "fin": 14.76
+    },
+    {
+      "t": "coma",
+      "inicio": 14.92,
+      "fin": 15.08
+    },
+    {
+      "t": "ocho.",
+      "inicio": 15.24,
+      "fin": 15.68
+    },
+    {
+      "t": "En",
+      "inicio": 15.96,
+      "fin": 16.04
+    },
+    {
+      "t": "dos",
+      "inicio": 16.12,
+      "fin": 16.2
+    },
+    {
+      "t": "mil",
+      "inicio": 16.28,
+      "fin": 16.36
+    },
+    {
+      "t": "veinticinco,",
+      "inicio": 16.4,
+      "fin": 17.04
+    },
+    {
+      "t": "provisional:",
+      "inicio": 17.16,
+      "fin": 18.12
+    },
+    {
+      "t": "noventa",
+      "inicio": 18.16,
+      "fin": 18.44
+    },
+    {
+      "t": "y",
+      "inicio": 18.52,
+      "fin": 18.6
+    },
+    {
+      "t": "uno",
+      "inicio": 18.68,
+      "fin": 18.76
+    },
+    {
+      "t": "coma",
+      "inicio": 18.84,
+      "fin": 19
+    },
+    {
+      "t": "cuatro.",
+      "inicio": 19.08,
+      "fin": 19.8
+    },
+    {
+      "t": "Desde",
+      "inicio": 19.88,
+      "fin": 20.12
+    },
+    {
+      "t": "dos",
+      "inicio": 20.2,
+      "fin": 20.28
+    },
+    {
+      "t": "mil",
+      "inicio": 20.36,
+      "fin": 20.4
+    },
+    {
+      "t": "diecisiete,",
+      "inicio": 20.44,
+      "fin": 21.12
+    },
+    {
+      "t": "baja",
+      "inicio": 21.24,
+      "fin": 21.48
+    },
+    {
+      "t": "casi",
+      "inicio": 21.56,
+      "fin": 21.88
+    },
+    {
+      "t": "un",
+      "inicio": 21.96,
+      "fin": 22.04
+    },
+    {
+      "t": "punto.",
+      "inicio": 22.08,
+      "fin": 22.76
+    },
+    {
+      "t": "Desde",
+      "inicio": 22.88,
+      "fin": 23
+    },
+    {
+      "t": "dos",
+      "inicio": 23.08,
+      "fin": 23.16
+    },
+    {
+      "t": "mil",
+      "inicio": 23.24,
+      "fin": 23.32
+    },
+    {
+      "t": "dieciocho,",
+      "inicio": 23.4,
+      "fin": 24.12
+    },
+    {
+      "t": "sube",
+      "inicio": 24.2,
+      "fin": 24.36
+    },
+    {
+      "t": "algo",
+      "inicio": 24.52,
+      "fin": 24.76
+    },
+    {
+      "t": "más",
+      "inicio": 24.84,
+      "fin": 25
+    },
+    {
+      "t": "de",
+      "inicio": 25.04,
+      "fin": 25.08
+    },
+    {
+      "t": "medio.",
+      "inicio": 25.16,
+      "fin": 25.88
+    },
+    {
+      "t": "Las",
+      "inicio": 25.96,
+      "fin": 26.04
+    },
+    {
+      "t": "dos",
+      "inicio": 26.12,
+      "fin": 26.2
+    },
+    {
+      "t": "lecturas",
+      "inicio": 26.28,
+      "fin": 26.76
+    },
+    {
+      "t": "son",
+      "inicio": 26.88,
+      "fin": 27
+    },
+    {
+      "t": "ciertas,",
+      "inicio": 27.04,
+      "fin": 27.72
+    },
+    {
+      "t": "pero",
+      "inicio": 27.8,
+      "fin": 27.92
+    },
+    {
+      "t": "ninguna",
+      "inicio": 27.96,
+      "fin": 28.36
+    },
+    {
+      "t": "lo",
+      "inicio": 28.44,
+      "fin": 28.52
+    },
+    {
+      "t": "cuenta",
+      "inicio": 28.63,
+      "fin": 28.84
+    },
+    {
+      "t": "todo.",
+      "inicio": 29,
+      "fin": 29.36
+    },
+    {
+      "t": "¿Te",
+      "inicio": 29.56,
+      "fin": 29.64
+    },
+    {
+      "t": "fías",
+      "inicio": 29.72,
+      "fin": 29.96
+    },
+    {
+      "t": "más",
+      "inicio": 30.04,
+      "fin": 30.12
+    },
+    {
+      "t": "de",
+      "inicio": 30.16,
+      "fin": 30.2
+    },
+    {
+      "t": "un",
+      "inicio": 30.28,
+      "fin": 30.32
+    },
+    {
+      "t": "año",
+      "inicio": 30.36,
+      "fin": 30.52
+    },
+    {
+      "t": "base",
+      "inicio": 30.76,
+      "fin": 31
+    },
+    {
+      "t": "o",
+      "inicio": 31.04,
+      "fin": 31.08
+    },
+    {
+      "t": "de",
+      "inicio": 31.16,
+      "fin": 31.24
+    },
+    {
+      "t": "la",
+      "inicio": 31.28,
+      "fin": 31.32
+    },
+    {
+      "t": "serie",
+      "inicio": 31.4,
+      "fin": 31.64
+    },
+    {
+      "t": "entera?",
+      "inicio": 31.8,
+      "fin": 32.44
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 32.48,
+      "fin": 33
+    },
+    {
+      "t": "para",
+      "inicio": 33.08,
+      "fin": 33.16
+    },
+    {
+      "t": "estar",
+      "inicio": 33.28,
+      "fin": 33.4
+    },
+    {
+      "t": "informado.",
+      "inicio": 33.56,
+      "fin": 34.2
+    }
+  ]
+}

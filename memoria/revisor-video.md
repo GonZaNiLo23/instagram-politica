@@ -72,3 +72,5 @@
 - [044] Pieza 'flash' deuda con flechasD/duoD/separanD: control/control-N.png (6) + comprobar.mjs + 3 crops puntuales bastan; mira etiqueta de cada línea en gráficos de dos series. (044, 2026-11-12)
 - [047] Pieza 'cifra' barrasVSerie: control/control-N.png (6) + comprobar.mjs + ffprobe/loudnorm + 1 tira bastan; 3 llamadas en total. (047, 2026-11-13)
 - [048] Pieza 'cifra' lineas España/UE: control-N.png (6) + comprobar.mjs + loudnorm; la etiqueta de la línea de España queda cruzada por la línea UE. (048, 2026-11-13)
+- [049] Pieza 'cifra' lineas con nota de rotura de serie: la nota (3 líneas, x 140–430) pisa etiquetas 90,8 y 82,2; comprobar.mjs no lo detecta. control-N.png (6) + comprobar.mjs + loudnorm bastan. (049, 2026-11-14)
+- [050 v2] Pieza 'cifra' Ceuta: control-N.png (2, 4, 5) + comprobar.mjs + loudnorm + node de escenas bastan; escenas.json trae componentes[] (rotulo/en), no campos planos. Tercio inferior vacío persiste. (050, 2026-11-14)

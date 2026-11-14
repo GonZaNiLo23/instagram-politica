@@ -72,4 +72,8 @@
 
 - [productividad, Eurostat] En la nube del 13-11-2026 la API de Eurostat SÍ abrió con WebFetch: nama_10_lp_ulc (na_item=RLPR_HW, unit=I15, sinceTimePeriod=2015) da la serie entera ES/UE. Prueba siempre antes de dar por bloqueada. (048, 2026-11-13)
 
+- [PIB per cápita PPS, Eurostat] La API abrió con WebFetch el 14-11-2026: tec00114 (geo=ES&geo=EU27_2020&sinceTimePeriod=2000) solo da enteros y arranca en 2014; no admite lang ni time sueltos (400). Los decimales de El Español (92,57/91,59) no están en Eurostat: solo atribuidos. (049, 2026-11-14)
+
+- [Ceuta/inmigración, Interior y Frontex] interior.gob.es (balances PDF y notas) da 403 a WebFetch, también con la URL exacta del PDF (el patrón sale con WebSearch allowed_domains ["interior.gob.es"]). Sí abren: Frontex (frontex.europa.eu/media-centre/news/news-release/…, primaria, avisa de que excluye Ceuta 30-31 jul), Moncloa (transcripción de Sánchez 3-9, notas de Interior en lamoncloa.gob.es) y Euronews/RTVC para los totales de Interior. (050, 2026-11-14)
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)

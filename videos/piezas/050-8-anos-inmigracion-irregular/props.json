@@ -1,0 +1,692 @@
+{
+  "plantilla": "flash",
+  "duracion": 33.61,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 10,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "ENTRARON EN CEUTA",
+            "y": 500,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "contadorCeuta",
+            "x": 60,
+            "y": 880,
+            "tam": 130,
+            "grisEn": 2.5
+          },
+          {
+            "tipo": "mapaCeuta",
+            "x": 650,
+            "y": 800,
+            "sc": 0.8,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "Cifra del presidente, 3-9",
+            "y": 1040,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "hay estimaciones mayores",
+            "y": 1110,
+            "en": -1,
+            "tamano": 64
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 10,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "ENTRARON EN CEUTA",
+          "y": 500,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "contadorCeuta",
+          "x": 60,
+          "y": 880,
+          "tam": 130,
+          "grisEn": 2.5
+        },
+        {
+          "tipo": "mapaCeuta",
+          "x": 650,
+          "y": 800,
+          "sc": 0.8,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Cifra del presidente, 3-9",
+          "y": 1040,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "hay estimaciones mayores",
+          "y": 1110,
+          "en": -1,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 5.34,
+      "fin": 9.72,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Informe de Interior (31-7)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "\"no incluyen cifras del día 30 y 31 de julio\"",
+          "y": 500,
+          "en": 0.7,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioCeuta",
+          "y": 930,
+          "en": 0.3,
+          "fuera": 3.38
+        }
+      ]
+    },
+    {
+      "inicio": 9.72,
+      "fin": 13.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Interior, informes de agosto: \"análisis específico\"",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "informeCeuta",
+          "y": 790,
+          "en": 0.2,
+          "resalta": 1.46
+        },
+        {
+          "tipo": "huecoCeuta",
+          "texto": "30–31 julio",
+          "y": 1090,
+          "ancho": 880,
+          "alto": 110,
+          "en": 0.5,
+          "xEn": 1.88
+        }
+      ]
+    },
+    {
+      "inicio": 13.26,
+      "fin": 17.18,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Frontex = agencia UE de fronteras",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "huecoCeuta",
+          "texto": "Frontex: 30–31 julio",
+          "y": 640,
+          "ancho": 880,
+          "alto": 130,
+          "en": 0.3,
+          "xEn": 2.5
+        },
+        {
+          "tipo": "mapaCeuta",
+          "x": 360,
+          "y": 900,
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 17.18,
+      "fin": 20.94,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Sánchez (3-9):",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "\"más del 90 %\"",
+          "y": 430,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "volvió en 72 h",
+          "y": 540,
+          "en": 1.9599999999999997,
+          "tamano": 64
+        },
+        {
+          "tipo": "barra90Ceuta",
+          "y": 800,
+          "en": 0.88,
+          "vuelta": 2.5599999999999996
+        }
+      ]
+    },
+    {
+      "inicio": 20.94,
+      "fin": 26.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Frontex, 13-11: sin el 30–31 de julio",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Interior a 31-10: sin esos días (según Euronews)",
+          "y": 560,
+          "en": 2.4,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillaXCeuta",
+          "filas": [
+            "Frontex 13-11",
+            "Interior 31-10 (Euronews)"
+          ],
+          "y": 920,
+          "en": 0.3,
+          "paso": 1.5
+        }
+      ]
+    },
+    {
+      "inicio": 26.62,
+      "fin": 29.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Se suman… o van aparte?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "SUMAN",
+          "b": "APARTE",
+          "y": 780,
+          "en": 0.7
+        }
+      ]
+    },
+    {
+      "inicio": 29.74,
+      "fin": 33.61,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 11
+        }
+      ]
+    }
+  ],
+  "id": "050-8-anos-inmigracion-irregular",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Unas",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "t": "setenta",
+      "inicio": 0.32,
+      "fin": 0.64
+    },
+    {
+      "t": "mil",
+      "inicio": 0.72,
+      "fin": 0.88
+    },
+    {
+      "t": "personas",
+      "inicio": 1.04,
+      "fin": 1.36
+    },
+    {
+      "t": "entraron",
+      "inicio": 1.44,
+      "fin": 1.92
+    },
+    {
+      "t": "en",
+      "inicio": 1.96,
+      "fin": 2
+    },
+    {
+      "t": "Ceuta.",
+      "inicio": 2.08,
+      "fin": 2.48
+    },
+    {
+      "t": "Los",
+      "inicio": 2.8,
+      "fin": 2.96
+    },
+    {
+      "t": "balances",
+      "inicio": 3.16,
+      "fin": 3.36
+    },
+    {
+      "t": "oficiales",
+      "inicio": 3.44,
+      "fin": 4
+    },
+    {
+      "t": "no",
+      "inicio": 4.24,
+      "fin": 4.32
+    },
+    {
+      "t": "las",
+      "inicio": 4.44,
+      "fin": 4.56
+    },
+    {
+      "t": "suman.",
+      "inicio": 4.64,
+      "fin": 5.2
+    },
+    {
+      "t": "Interior",
+      "inicio": 5.44,
+      "fin": 5.92
+    },
+    {
+      "t": "lo",
+      "inicio": 5.96,
+      "fin": 6
+    },
+    {
+      "t": "avisa:",
+      "inicio": 6.08,
+      "fin": 6.8
+    },
+    {
+      "t": "no",
+      "inicio": 6.88,
+      "fin": 6.96
+    },
+    {
+      "t": "incluye",
+      "inicio": 7.08,
+      "fin": 7.36
+    },
+    {
+      "t": "el",
+      "inicio": 7.44,
+      "fin": 7.52
+    },
+    {
+      "t": "treinta",
+      "inicio": 7.6,
+      "fin": 7.92
+    },
+    {
+      "t": "y",
+      "inicio": 8,
+      "fin": 8.08
+    },
+    {
+      "t": "treinta",
+      "inicio": 8.16,
+      "fin": 8.4
+    },
+    {
+      "t": "y",
+      "inicio": 8.44,
+      "fin": 8.48
+    },
+    {
+      "t": "uno",
+      "inicio": 8.56,
+      "fin": 8.64
+    },
+    {
+      "t": "de",
+      "inicio": 8.72,
+      "fin": 8.76
+    },
+    {
+      "t": "julio.",
+      "inicio": 8.8,
+      "fin": 9.36
+    },
+    {
+      "t": "Esos",
+      "inicio": 9.52,
+      "fin": 9.76
+    },
+    {
+      "t": "dos",
+      "inicio": 9.84,
+      "fin": 9.92
+    },
+    {
+      "t": "días",
+      "inicio": 10,
+      "fin": 10.24
+    },
+    {
+      "t": "requieren,",
+      "inicio": 10.36,
+      "fin": 10.88
+    },
+    {
+      "t": "dice,",
+      "inicio": 11.04,
+      "fin": 11.44
+    },
+    {
+      "t": "un",
+      "inicio": 11.48,
+      "fin": 11.52
+    },
+    {
+      "t": "análisis",
+      "inicio": 11.6,
+      "fin": 12.16
+    },
+    {
+      "t": "específico.",
+      "inicio": 12.24,
+      "fin": 12.96
+    },
+    {
+      "t": "Frontex,",
+      "inicio": 13.36,
+      "fin": 14
+    },
+    {
+      "t": "la",
+      "inicio": 14.04,
+      "fin": 14.08
+    },
+    {
+      "t": "agencia",
+      "inicio": 14.16,
+      "fin": 14.48
+    },
+    {
+      "t": "europea",
+      "inicio": 14.56,
+      "fin": 14.88
+    },
+    {
+      "t": "de",
+      "inicio": 14.92,
+      "fin": 14.96
+    },
+    {
+      "t": "fronteras,",
+      "inicio": 15.04,
+      "fin": 15.68
+    },
+    {
+      "t": "tampoco",
+      "inicio": 15.76,
+      "fin": 16.24
+    },
+    {
+      "t": "los",
+      "inicio": 16.32,
+      "fin": 16.4
+    },
+    {
+      "t": "cuenta.",
+      "inicio": 16.48,
+      "fin": 16.88
+    },
+    {
+      "t": "Sánchez:",
+      "inicio": 17.28,
+      "fin": 18.08
+    },
+    {
+      "t": "más",
+      "inicio": 18.16,
+      "fin": 18.32
+    },
+    {
+      "t": "del",
+      "inicio": 18.4,
+      "fin": 18.48
+    },
+    {
+      "t": "noventa",
+      "inicio": 18.56,
+      "fin": 18.8
+    },
+    {
+      "t": "por",
+      "inicio": 18.88,
+      "fin": 19.04
+    },
+    {
+      "t": "ciento",
+      "inicio": 19.08,
+      "fin": 19.36
+    },
+    {
+      "t": "volvió",
+      "inicio": 19.44,
+      "fin": 19.76
+    },
+    {
+      "t": "en",
+      "inicio": 19.84,
+      "fin": 19.92
+    },
+    {
+      "t": "tres",
+      "inicio": 20.04,
+      "fin": 20.16
+    },
+    {
+      "t": "días.",
+      "inicio": 20.24,
+      "fin": 20.64
+    },
+    {
+      "t": "Frontex:",
+      "inicio": 21.04,
+      "fin": 21.84
+    },
+    {
+      "t": "probablemente",
+      "inicio": 21.92,
+      "fin": 22.56
+    },
+    {
+      "t": "no",
+      "inicio": 22.72,
+      "fin": 22.8
+    },
+    {
+      "t": "habrá",
+      "inicio": 22.88,
+      "fin": 23.04
+    },
+    {
+      "t": "un",
+      "inicio": 23.12,
+      "fin": 23.2
+    },
+    {
+      "t": "total",
+      "inicio": 23.36,
+      "fin": 23.52
+    },
+    {
+      "t": "definitivo.",
+      "inicio": 23.6,
+      "fin": 24.32
+    },
+    {
+      "t": "La",
+      "inicio": 24.48,
+      "fin": 24.56
+    },
+    {
+      "t": "mayoría",
+      "inicio": 24.64,
+      "fin": 24.96
+    },
+    {
+      "t": "volvió",
+      "inicio": 25.04,
+      "fin": 25.36
+    },
+    {
+      "t": "sin",
+      "inicio": 25.44,
+      "fin": 25.6
+    },
+    {
+      "t": "registrarse.",
+      "inicio": 25.8,
+      "fin": 26.52
+    },
+    {
+      "t": "¿Se",
+      "inicio": 26.72,
+      "fin": 26.88
+    },
+    {
+      "t": "suman",
+      "inicio": 26.96,
+      "fin": 27.2
+    },
+    {
+      "t": "al",
+      "inicio": 27.24,
+      "fin": 27.28
+    },
+    {
+      "t": "balance",
+      "inicio": 27.36,
+      "fin": 27.68
+    },
+    {
+      "t": "del",
+      "inicio": 27.76,
+      "fin": 27.84
+    },
+    {
+      "t": "año…",
+      "inicio": 27.92,
+      "fin": 28.48
+    },
+    {
+      "t": "o",
+      "inicio": 28.52,
+      "fin": 28.56
+    },
+    {
+      "t": "van",
+      "inicio": 28.64,
+      "fin": 28.8
+    },
+    {
+      "t": "aparte?",
+      "inicio": 28.88,
+      "fin": 29.56
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 29.84,
+      "fin": 30.4
+    },
+    {
+      "t": "para",
+      "inicio": 30.48,
+      "fin": 30.56
+    },
+    {
+      "t": "estar",
+      "inicio": 30.64,
+      "fin": 30.88
+    },
+    {
+      "t": "informado.",
+      "inicio": 31.04,
+      "fin": 31.76
+    }
+  ]
+}

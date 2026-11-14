@@ -1,0 +1,444 @@
+{
+  "plantilla": "flash",
+  "duracion": 36.06,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 9,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "PIB POR HABITANTE",
+            "y": 500,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "gancho",
+            "texto": "ESPAÑA / UE",
+            "y": 590,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "Eurostat",
+            "y": 750,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "pibSerie",
+            "base": 1120,
+            "hMax": 280,
+            "anios": false,
+            "refTam": 0,
+            "en": -5,
+            "i0": [
+              0,
+              0
+            ],
+            "i1": [
+              11,
+              11
+            ],
+            "etiquetas": [
+              3,
+              4,
+              11
+            ],
+            "flechas": [
+              {
+                "desde": 3,
+                "en": 0.2,
+                "dur": 1.4,
+                "etiqueta": "2017"
+              },
+              {
+                "desde": 4,
+                "en": 4.54,
+                "dur": 1.4,
+                "etiqueta": "2018"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 7.2,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 9,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PIB POR HABITANTE",
+          "y": 500,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "gancho",
+          "texto": "ESPAÑA / UE",
+          "y": 590,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Eurostat",
+          "y": 750,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1120,
+          "hMax": 280,
+          "anios": false,
+          "refTam": 0,
+          "en": -5,
+          "i0": [
+            0,
+            0
+          ],
+          "i1": [
+            11,
+            11
+          ],
+          "etiquetas": [
+            3,
+            4,
+            11
+          ],
+          "flechas": [
+            {
+              "desde": 3,
+              "en": 0.2,
+              "dur": 1.4,
+              "etiqueta": "2017"
+            },
+            {
+              "desde": 4,
+              "en": 4.54,
+              "dur": 1.4,
+              "etiqueta": "2018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 7.2,
+      "fin": 10.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PIB POR HABITANTE, EN PODER DE COMPRA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": -5,
+          "i0": [
+            0,
+            0
+          ],
+          "i1": [
+            11,
+            11
+          ],
+          "flechas": [],
+          "provisional": true
+        }
+      ]
+    },
+    {
+      "inicio": 10.1,
+      "fin": 13.06,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2017: 92,3",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": 0.1,
+          "dur": 0.6,
+          "i0": [
+            3,
+            3
+          ],
+          "i1": [
+            3,
+            3
+          ],
+          "etiquetas": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 13.06,
+      "fin": 15.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2018: 90,8",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": 0.1,
+          "dur": 1.2,
+          "i0": [
+            3,
+            3
+          ],
+          "i1": [
+            3,
+            4
+          ],
+          "etiquetas": [
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 15.86,
+      "fin": 19.78,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2025: 91,4 (provisional)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Eurostat, nama_10_pc (11-11-2026)"
+          ],
+          "en": 1.6,
+          "tamano": 40
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": 0.2,
+          "dur": 2.2,
+          "i0": [
+            3,
+            0
+          ],
+          "i1": [
+            4,
+            11
+          ],
+          "etiquetas": [
+            3,
+            4,
+            6,
+            11
+          ],
+          "marca2020": 1.2
+        }
+      ]
+    },
+    {
+      "inicio": 19.78,
+      "fin": 25.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DESDE 2017: −0,9 (92,3 → 91,4)",
+          "y": 330,
+          "en": -0.19999999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DESDE 2018: +0,6 (90,8 → 91,4)",
+          "y": 495,
+          "en": 2.8000000000000003,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": -5,
+          "i0": [
+            0,
+            0
+          ],
+          "i1": [
+            11,
+            11
+          ],
+          "etiquetas": [
+            3,
+            4,
+            6,
+            11
+          ],
+          "marca2020": -1,
+          "flechas": [
+            {
+              "desde": 3,
+              "en": 0.66,
+              "dur": 1.4
+            },
+            {
+              "desde": 4,
+              "en": 3.62,
+              "dur": 1.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 25.86,
+      "fin": 29.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Recuperó 2020; aún por debajo de 2017",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "pibSerie",
+          "base": 1100,
+          "hMax": 380,
+          "refDerecha": true,
+          "en": -5,
+          "i0": [
+            0,
+            0
+          ],
+          "i1": [
+            11,
+            11
+          ],
+          "etiquetas": [
+            3,
+            4,
+            6,
+            11
+          ],
+          "marca2020": -1,
+          "flechas": [
+            {
+              "desde": 3,
+              "en": -5
+            },
+            {
+              "desde": 4,
+              "en": -5
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "AMBAS CIERTAS"
+          ],
+          "x": 430,
+          "y": 545,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 64,
+          "en": 1.0799999999999998
+        }
+      ]
+    },
+    {
+      "inicio": 29.46,
+      "fin": 32.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿UN AÑO O LA SERIE ENTERA?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "UN AÑO",
+          "b": "LA SERIE",
+          "y": 700,
+          "en": 0.6
+        }
+      ]
+    },
+    {
+      "inicio": 32.38,
+      "fin": 36.06,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 10
+        }
+      ]
+    }
+  ]
+}

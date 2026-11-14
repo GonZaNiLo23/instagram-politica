@@ -55,6 +55,8 @@ import {REGISTRO_ALMINUTO} from './AlMinuto';
 import {REGISTRO_SERIE} from './Serie';
 import {REGISTRO_ESPERA} from './Espera';
 import {REGISTRO_041} from './Serie2';
+import {REGISTRO_049} from './Pib';
+import {REGISTRO_050} from './Ceuta';
 import {REGISTRO_033} from './Casa';
 import {REGISTRO_037} from './Hipoteca';
 import {REGISTRO_044} from './Deuda';
@@ -159,6 +161,8 @@ export const REGISTRO: Record<string, React.FC<any>> = {
   ...REGISTRO_SERIE,
   ...REGISTRO_ESPERA,
   ...REGISTRO_041,
+  ...REGISTRO_049,
+  ...REGISTRO_050,
   ...REGISTRO_033,
   ...REGISTRO_040,
   ...REGISTRO_037,

@@ -36,3 +36,4 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 046-8-anos-paro-juvenil | Reel 41 s | Instagram + TikTok (borrador) vía cola | 2026-11-13 19:00 | revisiones/guiones/046-…-v2.md · revisiones/videos/046-…-v1.md (9/10). Recomprobar Eurostat si sale octubre |
 | 047-8-anos-pensiones | Reel 28 s | Instagram + TikTok (borrador) vía cola | 2026-11-14 12:00 | revisiones/guiones/047-…-v1.md (literales aplicados) · revisiones/videos/047-…-v1.md (9/10). Recomprobar Eurostat COFOG |
 | 048-8-anos-productividad (v2) | Reel 33 s | Instagram + TikTok (borrador) vía cola | 2026-11-14 19:00 | revisiones/guiones/048-…-v1.md (literales aplicados) · revisiones/videos/048-…-v1.md (v2 comprobada por el coordinador). Recomprobar Eurostat 2025 provisional |
+| 050 | 8-anos-inmigracion-irregular | 📊 Datos · serie 8 años | Flash | programado | 2 | 2 | 2026-11-15 19:00 (cola; TikTok: ) | v2 APROBADO 9/10; recomprobar Interior el 15-11 |
