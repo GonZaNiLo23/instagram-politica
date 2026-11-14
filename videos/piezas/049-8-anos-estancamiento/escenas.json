@@ -158,7 +158,7 @@
       "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "PIB POR HABITANTE, EN PODER DE COMPRA",
+          "texto": "PIB POR HABITANTE, EN PODER DE COMPRA",
           "y": 330,
           "en": 0.05,
           "tamano": 64
@@ -301,14 +301,14 @@
       "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "DESDE 2017: −0,9 (92,3 → 91,4)",
+          "texto": "DESDE 2017: −0,9 (92,3 → 91,4)",
           "y": 330,
           "en": -0.19999999999999998,
           "tamano": 64
         },
         {
           "tipo": "rotulo",
-          "texto": "DESDE 2018: +0,6 (90,8 → 91,4)",
+          "texto": "DESDE 2018: +0,6 (90,8 → 91,4)",
           "y": 495,
           "en": 2.8000000000000003,
           "tamano": 64
@@ -356,7 +356,7 @@
       "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "Recuperó 2020; aún por debajo de 2017",
+          "texto": "Recuperó 2020; aún por debajo de 2017",
           "y": 330,
           "en": 0.05,
           "tamano": 64
@@ -414,7 +414,7 @@
       "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "¿UN AÑO O LA SERIE ENTERA?",
+          "texto": "¿UN AÑO O LA SERIE ENTERA?",
           "y": 330,
           "en": 0.05,
           "tamano": 64

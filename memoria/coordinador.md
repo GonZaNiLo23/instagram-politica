@@ -49,3 +49,4 @@
 - [nube, 2026-11-13] Con red completa, 2 guiones+2 vídeos en ~35 min; cambios de gancho de revisor-guion mejor devolverlos al guionista con el informe (trae el texto); solape de un solo rótulo: lo cierro yo mirando un fotograma.
 - 2026-11-13: antes de encargar nada, haz git pull y mira la cola: otro ejecutor había cubierto los huecos y se duplicó trabajo (guion 047, vídeo 048).
 - [nube, 2026-11-14] Rutina claude.ai: red igual (curl 000). Comprobar, informar y salir. 046 falló en IG (container not in status to upload): avisado. Huecos 15 y 16-11 para produccion.yml.
+- 2026-11-14: guion con cifras de Eurostat: usar la tabla con decimales actualizada (nama_10_pc), no la resumen; el revisor lo cazó en v1. Conflictos de rebase en cola/pipeline: conservar ambas entradas.

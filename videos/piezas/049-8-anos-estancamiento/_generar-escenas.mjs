@@ -14,7 +14,7 @@ const ESC = [];
 const esc = (a, b, extra, componentes) => ESC.push({inicio: a, fin: b, ...extra, componentes});
 const rot = (texto, y, en = 0.05, o = {}) => ({tipo: 'rotulo', texto, y, en, tamano: 64, ...o});
 const nota = (lineas, en = 0.2) => ({tipo: 'notas', lineas, en, tamano: 40});
-const NB = ' ';
+const NB = ' ';
 const N = 9;
 const G = {base: 1120, hMax: 280, anios: false, refTam: 0};
 const P = {base: 1100, hMax: 380, refDerecha: true};
