@@ -1,0 +1,91 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 31.7,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 28.2,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 28.2,
+          "fundidoFin": 28.2
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL PROPONE REPATRIAR Y DEPORTAR",
+          "fecha": "14 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 3.4,
+              "texto": "Basta la invasión. Al que entra ilegalmente,"
+            },
+            {
+              "inicio": 3.4,
+              "fin": 7.3,
+              "texto": "hay que decirle que tiene que volver\npor donde ha venido."
+            },
+            {
+              "inicio": 8.05,
+              "fin": 11.7,
+              "texto": "Repatriación de los que entran ilegalmente.\nNo va a haber regularizaciones"
+            },
+            {
+              "inicio": 11.7,
+              "fin": 15.5,
+              "texto": "porque no vamos a lanzar el mensaje\nde que en España cabe toda África"
+            },
+            {
+              "inicio": 15.5,
+              "fin": 18.2,
+              "texto": "o de que en Europa\ncabe toda África."
+            },
+            {
+              "inicio": 19.03,
+              "fin": 23.3,
+              "texto": "Deportación de los delincuentes, de los\nvioladores, de los asesinos y de los ladrones."
+            },
+            {
+              "inicio": 23.37,
+              "fin": 28.2,
+              "texto": "No los queremos ni en nuestras calles\nni en nuestras cárceles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 28.2,
+      "fin": 31.7,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal propone repatriar, deportar y «remigrar»",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261114-0526-abascal-repatriacion",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
