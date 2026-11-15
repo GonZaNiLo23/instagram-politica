@@ -1,0 +1,130 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 31.12,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 27.62,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 27.62,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 27.62
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "GARRIGA PIDE A LOS JÓVENES DESBORDAR LAS URNAS",
+          "fecha": "15 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.1,
+              "texto": "Me quiero dirigir especialmente a los jóvenes"
+            },
+            {
+              "inicio": 2.1,
+              "fin": 4.28,
+              "texto": "que vais a votar el próximo 29 de noviembre."
+            },
+            {
+              "inicio": 4.54,
+              "fin": 6.6,
+              "texto": "Aquellos que habéis oído muchas veces en casa"
+            },
+            {
+              "inicio": 6.6,
+              "fin": 8.5,
+              "texto": "que os esforcéis, que trabajéis, que estudiéis,"
+            },
+            {
+              "inicio": 8.98,
+              "fin": 10.6,
+              "texto": "porque entonces tendréis un trabajo estable"
+            },
+            {
+              "inicio": 10.6,
+              "fin": 12.66,
+              "texto": "y un salario digno."
+            },
+            {
+              "inicio": 12.86,
+              "fin": 14.52,
+              "texto": "Os quiero decir que vosotros sabéis"
+            },
+            {
+              "inicio": 14.52,
+              "fin": 16.4,
+              "texto": "las dificultades que tenéis hoy en día."
+            },
+            {
+              "inicio": 16.56,
+              "fin": 17.82,
+              "texto": "No podéis hacer una vivienda digna,"
+            },
+            {
+              "inicio": 17.82,
+              "fin": 18.82,
+              "texto": "tenéis que compartir piso,"
+            },
+            {
+              "inicio": 18.82,
+              "fin": 20.26,
+              "texto": "después de estudiar mucho"
+            },
+            {
+              "inicio": 20.26,
+              "fin": 21.12,
+              "texto": "tenéis trabajos precarios"
+            },
+            {
+              "inicio": 21.12,
+              "fin": 22.94,
+              "texto": "y sueldos que os impiden formar una familia."
+            },
+            {
+              "inicio": 23.18,
+              "fin": 25.36,
+              "texto": "Eso se puede cambiar el próximo 29 de noviembre"
+            },
+            {
+              "inicio": 25.36,
+              "fin": 27.62,
+              "texto": "si desbordamos las urnas con el sentido común."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 27.62,
+      "fin": 31.12,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Vox apela al voto joven el 29-N",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261115-1730-garriga-jovenes",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
