@@ -109,3 +109,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 049 | 8-anos-estancamiento | 📊 Datos · serie 8 años | Flash | programado | 2 | 2 | 2026-11-15 12:00 (cola) | v2 APROBADO 9/10 |
 | am20261114-1526-abascal-sanidad | Al minuto: Abascal, sanidad | publicando (Al minuto horario) |
 | am20261114-1728-abascal-broncano | Al minuto: Abascal, entrevista La Revuelta | publicando (Al minuto horario) |
+| 051 | ipc-comida | 📊 Datos | Flash | programado | 1 | 2 | 2026-11-16 13:30 (cola) | v2 APROBADO 9/10 |
