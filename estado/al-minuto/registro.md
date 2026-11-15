@@ -260,3 +260,8 @@
 - 2026-11-15 15:30 UTC · 2 · @vox_es (impuesto a los ricos, 78 s) · descartado: sin tramo limpio; viral 40
 - 2026-11-15 15:30 UTC · 2 · @gabrielrufian (catalán, 55 s) · descartado: sin hecho noticioso
 - 2026-11-15 15:30 UTC · 1 · @vox_es (himno, 37 s) · descartado: sin habla
+- 2026-11-15 17:30 UTC (publicación 18:00 Madrid) · 3 · @vox_es (Garriga a los jóvenes, tramos 0–18,82 y 20,64–29,44 s, omitido «alquilaros un patinete» por transcripción dudosa; subtítulos cotejados, «una bien da digna»→«una vivienda digna»; opinión atribuida, sin acusación de delito; viral 20,6) · publicado am20261115-1730-garriga-jovenes
+- 2026-11-15 17:30 UTC · 3 · @alviseperez (autoinvitación al Congreso, 43 s) · descartado: «meter en prisión» a Sánchez (acusación no probada) y tono de bronca con insultos; viral 812,7
+- 2026-11-15 17:30 UTC · 3 · @sanchezcastejon (llamada a movilizarse, 59 s) · descartado: un envío por hora; viral 131,6
+- 2026-11-15 17:30 UTC · 3 · @vox_es (Abascal, elecciones 29-N, 24 s) · descartado: un envío por hora; viral 22,9
+- 2026-11-15 17:30 UTC · 2 · @vox_es (Cornellà, 22 s) · descartado: sin habla
