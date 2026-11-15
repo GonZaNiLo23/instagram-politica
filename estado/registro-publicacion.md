@@ -108,3 +108,5 @@
 - 2026-11-14T18:01:25.543Z · am20261114-1728-abascal-broncano: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-15T11:01:03.650Z · 049-8-anos-estancamiento v2: PUBLICADA en Instagram https://www.instagram.com/reel/Dfwn7G_j_Up/
 - 2026-11-15T11:01:06.397Z · 049-8-anos-estancamiento: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-15T12:00:41.164Z · am20261115-1126-abascal-penas-violadores v1: PUBLICADA en Instagram https://www.instagram.com/reel/Dfwux2AEdz_/
+- 2026-11-15T12:00:44.308Z · am20261115-1126-abascal-penas-violadores: TikTok en la bandeja de borradores (falta publicarlo desde la app)
