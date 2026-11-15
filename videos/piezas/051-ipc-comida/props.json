@@ -1,0 +1,680 @@
+{
+  "plantilla": "flash",
+  "duracion": 28.06,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "INFLACIÓN 4,9 %",
+            "y": 330,
+            "tamano": 110,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "COMIDA 2,4 %",
+            "y": 460,
+            "tamano": 110,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "Tasa anual · octubre 2026 · INE",
+            "y": 620,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "barrasHSerie",
+            "filas": [
+              {
+                "etiqueta": "INFLACIÓN 4,9 %",
+                "valor": 4.9,
+                "color": "#14213D",
+                "en": -1
+              },
+              {
+                "etiqueta": "COMIDA 2,4 %",
+                "valor": 2.4,
+                "color": "#F2B134",
+                "en": 0.1
+              }
+            ],
+            "max": 12,
+            "paso": 4,
+            "y0": 700,
+            "alto": 150,
+            "x0": 110,
+            "largo": 760,
+            "dur": 0.9,
+            "tamano": 64
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 6.3,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "INFLACIÓN 4,9 %",
+          "y": 330,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "COMIDA 2,4 %",
+          "y": 460,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Tasa anual · octubre 2026 · INE",
+          "y": 620,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "filas": [
+            {
+              "etiqueta": "INFLACIÓN 4,9 %",
+              "valor": 4.9,
+              "color": "#14213D",
+              "en": -1
+            },
+            {
+              "etiqueta": "COMIDA 2,4 %",
+              "valor": 2.4,
+              "color": "#F2B134",
+              "en": 0.1
+            }
+          ],
+          "max": 12,
+          "paso": 4,
+          "y0": 700,
+          "alto": 150,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "¿QUÉ SUBE?"
+          ],
+          "x": 430,
+          "y": 1090,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 80,
+          "en": 4.99
+        }
+      ]
+    },
+    {
+      "inicio": 6.3,
+      "fin": 10.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Tasa anual de cada grupo (INE, 13-11)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "filas": [
+            {
+              "etiqueta": "INFLACIÓN 4,9 %",
+              "valor": 4.9,
+              "color": "#14213D",
+              "en": -1
+            },
+            {
+              "etiqueta": "COMIDA 2,4 %",
+              "valor": 2.4,
+              "color": "#F2B134",
+              "en": -1
+            },
+            {
+              "etiqueta": "VIVIENDA 7,6 %",
+              "valor": 7.6,
+              "color": "#C8553D",
+              "en": 0
+            },
+            {
+              "etiqueta": "TRANSPORTE 10,3 %",
+              "valor": 10.3,
+              "color": "#C8553D",
+              "en": 2.28
+            }
+          ],
+          "max": 12,
+          "paso": 4,
+          "y0": 540,
+          "alto": 130,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 10.62,
+      "fin": 15.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VIVIENDA: LA SUBIDA DEL GAS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Más que en octubre de 2025 (INE)"
+          ],
+          "en": 0.9,
+          "tamano": 40
+        },
+        {
+          "tipo": "filaIneG",
+          "y": 600,
+          "x": 120,
+          "sube": true,
+          "iconos": [
+            "gas"
+          ],
+          "en": 0.2
+        },
+        {
+          "tipo": "barrasHSerie",
+          "filas": [
+            {
+              "etiqueta": "VIVIENDA 7,6 %",
+              "valor": 7.6,
+              "color": "#C8553D",
+              "en": -1
+            }
+          ],
+          "max": 12,
+          "paso": 4,
+          "y0": 900,
+          "alto": 150,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 15.54,
+      "fin": 19.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SUBYACENTE 3,1 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Sin energía ni alimentos no elaborados",
+          "y": 450,
+          "en": -0.12,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "filas": [
+            {
+              "etiqueta": "INFLACIÓN 4,9 %",
+              "valor": 4.9,
+              "color": "#14213D",
+              "en": -1
+            },
+            {
+              "etiqueta": "SUBYACENTE 3,1 %",
+              "valor": 3.1,
+              "color": "#F2B134",
+              "en": 2.88
+            }
+          ],
+          "max": 12,
+          "paso": 4,
+          "y0": 700,
+          "alto": 150,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 19.66,
+      "fin": 21.97,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SUBYACENTE 3,1 %",
+          "y": 330,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "filas": [
+            {
+              "etiqueta": "INFLACIÓN 4,9 %",
+              "valor": 4.9,
+              "color": "#14213D",
+              "en": -1
+            },
+            {
+              "etiqueta": "SUBYACENTE 3,1 %",
+              "valor": 3.1,
+              "color": "#F2B134",
+              "en": -1
+            }
+          ],
+          "max": 12,
+          "paso": 4,
+          "y0": 700,
+          "alto": 150,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 21.97,
+      "fin": 24.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿COMIDA O VIVIENDA?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "COMIDA",
+          "b": "VIVIENDA",
+          "y": 700,
+          "en": 0.4
+        }
+      ]
+    },
+    {
+      "inicio": 24.38,
+      "fin": 28.06,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿COMIDA O VIVIENDA?",
+          "tamano": 80,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "051-ipc-comida",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Inflación",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "t": "anual,",
+      "inicio": 0.56,
+      "fin": 1.12
+    },
+    {
+      "t": "cuatro",
+      "inicio": 1.2,
+      "fin": 1.44
+    },
+    {
+      "t": "coma",
+      "inicio": 1.6,
+      "fin": 1.68
+    },
+    {
+      "t": "nueve",
+      "inicio": 1.84,
+      "fin": 2
+    },
+    {
+      "t": "por",
+      "inicio": 2.12,
+      "fin": 2.24
+    },
+    {
+      "t": "ciento.",
+      "inicio": 2.32,
+      "fin": 3.04
+    },
+    {
+      "t": "Comida,",
+      "inicio": 3.12,
+      "fin": 3.68
+    },
+    {
+      "t": "dos",
+      "inicio": 3.76,
+      "fin": 3.84
+    },
+    {
+      "t": "coma",
+      "inicio": 4,
+      "fin": 4.08
+    },
+    {
+      "t": "cuatro.",
+      "inicio": 4.24,
+      "fin": 4.76
+    },
+    {
+      "t": "¿Qué",
+      "inicio": 5.04,
+      "fin": 5.12
+    },
+    {
+      "t": "sube",
+      "inicio": 5.2,
+      "fin": 5.413
+    },
+    {
+      "t": "entonces?",
+      "inicio": 5.467,
+      "fin": 6.32
+    },
+    {
+      "t": "Vivienda,",
+      "inicio": 6.4,
+      "fin": 7.12
+    },
+    {
+      "t": "siete",
+      "inicio": 7.16,
+      "fin": 7.36
+    },
+    {
+      "t": "coma",
+      "inicio": 7.52,
+      "fin": 7.6
+    },
+    {
+      "t": "seis.",
+      "inicio": 7.76,
+      "fin": 8.4
+    },
+    {
+      "t": "Transporte,",
+      "inicio": 8.68,
+      "fin": 9.28
+    },
+    {
+      "t": "diez",
+      "inicio": 9.36,
+      "fin": 9.52
+    },
+    {
+      "t": "coma",
+      "inicio": 9.6,
+      "fin": 9.76
+    },
+    {
+      "t": "tres.",
+      "inicio": 9.84,
+      "fin": 10.64
+    },
+    {
+      "t": "En",
+      "inicio": 10.72,
+      "fin": 10.8
+    },
+    {
+      "t": "vivienda,",
+      "inicio": 10.88,
+      "fin": 11.44
+    },
+    {
+      "t": "el",
+      "inicio": 11.48,
+      "fin": 11.52
+    },
+    {
+      "t": "INE",
+      "inicio": 11.6,
+      "fin": 11.76
+    },
+    {
+      "t": "destaca",
+      "inicio": 11.84,
+      "fin": 12.24
+    },
+    {
+      "t": "la",
+      "inicio": 12.28,
+      "fin": 12.32
+    },
+    {
+      "t": "subida",
+      "inicio": 12.4,
+      "fin": 12.72
+    },
+    {
+      "t": "del",
+      "inicio": 12.8,
+      "fin": 12.88
+    },
+    {
+      "t": "gas.",
+      "inicio": 12.96,
+      "fin": 13.6
+    },
+    {
+      "t": "Y",
+      "inicio": 14.64,
+      "fin": 14.68
+    },
+    {
+      "t": "la",
+      "inicio": 14.72,
+      "fin": 14.76
+    },
+    {
+      "t": "subyacente,",
+      "inicio": 14.84,
+      "fin": 15.64
+    },
+    {
+      "t": "sin",
+      "inicio": 15.72,
+      "fin": 15.8
+    },
+    {
+      "t": "energía",
+      "inicio": 15.92,
+      "fin": 16.36
+    },
+    {
+      "t": "ni",
+      "inicio": 16.44,
+      "fin": 16.48
+    },
+    {
+      "t": "alimentos",
+      "inicio": 16.52,
+      "fin": 17
+    },
+    {
+      "t": "no",
+      "inicio": 17.08,
+      "fin": 17.16
+    },
+    {
+      "t": "elaborados,",
+      "inicio": 17.2,
+      "fin": 17.96
+    },
+    {
+      "t": "queda",
+      "inicio": 18.08,
+      "fin": 18.2
+    },
+    {
+      "t": "en",
+      "inicio": 18.32,
+      "fin": 18.44
+    },
+    {
+      "t": "tres",
+      "inicio": 18.52,
+      "fin": 18.6
+    },
+    {
+      "t": "coma",
+      "inicio": 18.76,
+      "fin": 18.92
+    },
+    {
+      "t": "uno.",
+      "inicio": 19,
+      "fin": 19.72
+    },
+    {
+      "t": "Tu",
+      "inicio": 19.76,
+      "fin": 19.8
+    },
+    {
+      "t": "inflación",
+      "inicio": 19.84,
+      "fin": 20.28
+    },
+    {
+      "t": "depende",
+      "inicio": 20.44,
+      "fin": 20.68
+    },
+    {
+      "t": "de",
+      "inicio": 20.76,
+      "fin": 20.84
+    },
+    {
+      "t": "en",
+      "inicio": 20.92,
+      "fin": 21
+    },
+    {
+      "t": "qué",
+      "inicio": 21.08,
+      "fin": 21.16
+    },
+    {
+      "t": "gastas.",
+      "inicio": 21.24,
+      "fin": 22.04
+    },
+    {
+      "t": "¿Gastas",
+      "inicio": 22.07,
+      "fin": 22.36
+    },
+    {
+      "t": "más",
+      "inicio": 22.44,
+      "fin": 22.6
+    },
+    {
+      "t": "en",
+      "inicio": 22.68,
+      "fin": 22.76
+    },
+    {
+      "t": "comida",
+      "inicio": 22.84,
+      "fin": 23.16
+    },
+    {
+      "t": "o",
+      "inicio": 23.32,
+      "fin": 23.4
+    },
+    {
+      "t": "en",
+      "inicio": 23.44,
+      "fin": 23.48
+    },
+    {
+      "t": "vivienda?",
+      "inicio": 23.56,
+      "fin": 24.44
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 24.48,
+      "fin": 24.92
+    },
+    {
+      "t": "para",
+      "inicio": 25,
+      "fin": 25.16
+    },
+    {
+      "t": "estar",
+      "inicio": 25.28,
+      "fin": 25.4
+    },
+    {
+      "t": "informado.",
+      "inicio": 25.56,
+      "fin": 26.2
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "palabras": [
+    {
+      "t": "Inflación",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "t": "anual,",
+      "inicio": 0.56,
+      "fin": 1.12
+    },
+    {
+      "t": "cuatro",
+      "inicio": 1.2,
+      "fin": 1.44
+    },
+    {
+      "t": "coma",
+      "inicio": 1.6,
+      "fin": 1.68
+    },
+    {
+      "t": "nueve",
+      "inicio": 1.84,
+      "fin": 2
+    },
+    {
+      "t": "por",
+      "inicio": 2.12,
+      "fin": 2.24
+    },
+    {
+      "t": "ciento.",
+      "inicio": 2.32,
+      "fin": 3.04
+    },
+    {
+      "t": "Comida,",
+      "inicio": 3.12,
+      "fin": 3.68
+    },
+    {
+      "t": "dos",
+      "inicio": 3.76,
+      "fin": 3.84
+    },
+    {
+      "t": "coma",
+      "inicio": 4,
+      "fin": 4.08
+    },
+    {
+      "t": "cuatro.",
+      "inicio": 4.24,
+      "fin": 4.76
+    },
+    {
+      "t": "¿Qué",
+      "inicio": 5.04,
+      "fin": 5.12
+    },
+    {
+      "t": "sube",
+      "inicio": 5.2,
+      "fin": 5.413
+    },
+    {
+      "t": "entonces?",
+      "inicio": 5.467,
+      "fin": 6.32
+    },
+    {
+      "t": "Vivienda,",
+      "inicio": 6.4,
+      "fin": 7.12
+    },
+    {
+      "t": "siete",
+      "inicio": 7.16,
+      "fin": 7.36
+    },
+    {
+      "t": "coma",
+      "inicio": 7.52,
+      "fin": 7.6
+    },
+    {
+      "t": "seis.",
+      "inicio": 7.76,
+      "fin": 8.4
+    },
+    {
+      "t": "Transporte,",
+      "inicio": 8.68,
+      "fin": 9.28
+    },
+    {
+      "t": "diez",
+      "inicio": 9.36,
+      "fin": 9.52
+    },
+    {
+      "t": "coma",
+      "inicio": 9.6,
+      "fin": 9.76
+    },
+    {
+      "t": "tres.",
+      "inicio": 9.84,
+      "fin": 10.64
+    },
+    {
+      "t": "En",
+      "inicio": 10.72,
+      "fin": 10.8
+    },
+    {
+      "t": "vivienda,",
+      "inicio": 10.88,
+      "fin": 11.44
+    },
+    {
+      "t": "el",
+      "inicio": 11.48,
+      "fin": 11.52
+    },
+    {
+      "t": "INE",
+      "inicio": 11.6,
+      "fin": 11.76
+    },
+    {
+      "t": "destaca",
+      "inicio": 11.84,
+      "fin": 12.24
+    },
+    {
+      "t": "la",
+      "inicio": 12.28,
+      "fin": 12.32
+    },
+    {
+      "t": "subida",
+      "inicio": 12.4,
+      "fin": 12.72
+    },
+    {
+      "t": "del",
+      "inicio": 12.8,
+      "fin": 12.88
+    },
+    {
+      "t": "gas.",
+      "inicio": 12.96,
+      "fin": 13.6
+    },
+    {
+      "t": "Y",
+      "inicio": 13.64,
+      "fin": 13.68
+    },
+    {
+      "t": "la",
+      "inicio": 13.72,
+      "fin": 13.76
+    },
+    {
+      "t": "subyacente,",
+      "inicio": 13.84,
+      "fin": 14.64
+    },
+    {
+      "t": "sin",
+      "inicio": 14.72,
+      "fin": 14.8
+    },
+    {
+      "t": "energía",
+      "inicio": 14.92,
+      "fin": 15.36
+    },
+    {
+      "t": "ni",
+      "inicio": 15.44,
+      "fin": 15.48
+    },
+    {
+      "t": "alimentos",
+      "inicio": 15.52,
+      "fin": 16
+    },
+    {
+      "t": "no",
+      "inicio": 16.08,
+      "fin": 16.16
+    },
+    {
+      "t": "elaborados,",
+      "inicio": 16.2,
+      "fin": 16.96
+    },
+    {
+      "t": "queda",
+      "inicio": 17.08,
+      "fin": 17.2
+    },
+    {
+      "t": "en",
+      "inicio": 17.32,
+      "fin": 17.44
+    },
+    {
+      "t": "tres",
+      "inicio": 17.52,
+      "fin": 17.6
+    },
+    {
+      "t": "coma",
+      "inicio": 17.76,
+      "fin": 17.92
+    },
+    {
+      "t": "uno.",
+      "inicio": 18,
+      "fin": 18.72
+    },
+    {
+      "t": "Tu",
+      "inicio": 18.76,
+      "fin": 18.8
+    },
+    {
+      "t": "inflación",
+      "inicio": 18.84,
+      "fin": 19.28
+    },
+    {
+      "t": "depende",
+      "inicio": 19.44,
+      "fin": 19.68
+    },
+    {
+      "t": "de",
+      "inicio": 19.76,
+      "fin": 19.84
+    },
+    {
+      "t": "en",
+      "inicio": 19.92,
+      "fin": 20
+    },
+    {
+      "t": "qué",
+      "inicio": 20.08,
+      "fin": 20.16
+    },
+    {
+      "t": "gastas.",
+      "inicio": 20.24,
+      "fin": 21.04
+    },
+    {
+      "t": "¿Gastas",
+      "inicio": 21.067,
+      "fin": 21.36
+    },
+    {
+      "t": "más",
+      "inicio": 21.44,
+      "fin": 21.6
+    },
+    {
+      "t": "en",
+      "inicio": 21.68,
+      "fin": 21.76
+    },
+    {
+      "t": "comida",
+      "inicio": 21.84,
+      "fin": 22.16
+    },
+    {
+      "t": "o",
+      "inicio": 22.32,
+      "fin": 22.4
+    },
+    {
+      "t": "en",
+      "inicio": 22.44,
+      "fin": 22.48
+    },
+    {
+      "t": "vivienda?",
+      "inicio": 22.56,
+      "fin": 23.44
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 23.48,
+      "fin": 23.92
+    },
+    {
+      "t": "para",
+      "inicio": 24,
+      "fin": 24.16
+    },
+    {
+      "t": "estar",
+      "inicio": 24.28,
+      "fin": 24.4
+    },
+    {
+      "t": "informado.",
+      "inicio": 24.56,
+      "fin": 25.2
+    }
+  ],
+  "duracion": 25.155918,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}
