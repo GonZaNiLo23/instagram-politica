@@ -30,7 +30,7 @@ const urn = (x, y, tamano, en) => ({tipo: 'icono', nombre: 'urnaSin', x, y, tama
 const dib = (nombre, x, y, tamano, en, o = {}) => ({tipo: 'dib', nombre, x, y, tamano, en, ...o});
 
 // 1 · Gancho
-const b1 = S(13), cambio = 2.1;
+const b1 = r(S(13) + 0.3), cambio = 2.1;
 const gancho = [
   {tipo: 'gancho', texto: `TE ACEPTAN EL VOTO POR${NB}CORREO`, y: 330, tamano: 110, en: -1, hasta: cambio},
   {tipo: 'gancho', texto: `YA NO VOTAS EN TU${NB}MESA`, y: 330, tamano: 110, en: cambio},
@@ -43,7 +43,7 @@ esc(0, b1, {fondo: 'crema', fuente: 'Interior, 20-10-2026'}, gancho);
 // 2 · Plazo
 const b2 = S(27);
 esc(b1, b2, {fondo: 'crema'}, [
-  rot(`PLAZO: JUEVES${NB}19-11`, 330, 0.05),
+  rot(`PLAZO: JUEVES${NB}19\u201111`, 330, 0.05),
   {tipo: 'calendarioX', mes: 'NOVIEMBRE', primer: 6, dias: 30, y: 420, cw: 98, ch: 56, aro: {d: 19, en: rel(b1, 21) - 0.2}, en: 0.3},
   {tipo: 'casillaX', texto: '1', x: 260, y: 1030, w: 190, h: 100, desde: 0, en: rel(b1, 24)},
   {tipo: 'casillaX', texto: '2', x: 540, y: 1030, w: 190, h: 100, desde: 0, en: rel(b1, 24)},
@@ -54,10 +54,10 @@ esc(b1, b2, {fondo: 'crema'}, [
 // 3a · Fecha 1
 const b3 = S(65);
 esc(b2, b3, {fondo: 'crema'}, [
-  rot(`1 · PEDIRLO HASTA EL${NB}19-11`, 330, 0.05),
+  rot(`1 · PEDIRLO HASTA EL${NB}19\u201111`, 330, 0.05),
   rot(`EN CORREOS O EN SU${NB}WEB`, 520, 0.05, {hasta: rel(b2, 42) - 0.15}),
   rot(`ONLINE: DNI ELECTRÓNICO O${NB}CERTIFICADO`, 520, rel(b2, 42) - 0.1, {hasta: rel(b2, 52) - 0.15}),
-  rot(`DOCUMENTACIÓN: DESDE EL${NB}9-11`, 520, rel(b2, 52) - 0.1),
+  rot(`DOCUMENTACIÓN: DESDE EL${NB}9\u201111`, 520, rel(b2, 52) - 0.1),
   dib('oficina', 540, 880, 330, rel(b2, 33) - 0.1, {hasta: rel(b2, 42) - 0.15}),
   dib('portatil', 300, 880, 300, rel(b2, 42) - 0.1, {hasta: rel(b2, 52) - 0.15}),
   dib('dni', 700, 880, 300, rel(b2, 46), {hasta: rel(b2, 52) - 0.15}),
@@ -69,10 +69,10 @@ esc(b2, b3, {fondo: 'crema'}, [
 // 3b · Fecha 2
 const b4 = S(124);
 esc(b3, b4, {fondo: 'crema'}, [
-  rot(`2 · ENVIARLO HASTA EL${NB}25-11`, 330, 0.05),
+  rot(`2 · ENVIARLO HASTA EL${NB}25\u201111`, 330, 0.05),
   rot(`CERTIFICADO Y${NB}GRATIS`, 520, rel(b3, 71) - 0.2, {hasta: rel(b3, 87) - 0.15}),
   {tipo: 'calendarioX', mes: 'NOVIEMBRE', primer: 6, dias: 30, y: 640, cw: 90, ch: 52, rellenos: [{d0: 19, d1: 25, en: rel(b3, 66), paso: 0.3}], aro: {d: 25, en: rel(b3, 76) - 0.3}, en: 0.2, hasta: rel(b3, 87) - 0.15},
-  {tipo: 'selloTexto', lineas: ['CERTIFICADO'], x: 420, y: 1080, tamano: 56, angulo: -4, en: rel(b3, 71) + 0.3, desde: 40, hasta: rel(b3, 87) - 0.15},
+  {tipo: 'selloTexto', lineas: ['CERTIFICADO'], x: 640, y: 1050, tamano: 56, angulo: -4, en: rel(b3, 71) + 0.3, desde: 40, hasta: rel(b3, 87) - 0.15},
   rot(`EN CORREOS, CON TU${NB}DNI`, 520, rel(b3, 87) - 0.1, {hasta: rel(b3, 102) - 0.15}),
   dib('persona', 300, 900, 300, rel(b3, 87) - 0.1, {forma: 'cuadrado', hasta: rel(b3, 102) - 0.15}),
   dib('dni', 690, 900, 280, rel(b3, 93), {hasta: rel(b3, 102) - 0.15}),
@@ -88,7 +88,7 @@ esc(b3, b4, {fondo: 'crema'}, [
 // 3c · Fecha 3
 const b5 = S(133);
 esc(b4, b5, {fondo: 'crema'}, [
-  rot(`3 · DOMINGO 29-11: MESA CERRADA PARA${NB}TI`, 330, 0.05),
+  rot(`3 · DOMINGO 29\u201111: MESA CERRADA PARA${NB}TI`, 330, 0.05),
   urn(700, 900, 340, 0.3),
   {tipo: 'candadoMostaza', x: 700, y: 900, tamano: 200, en: rel(b4, 128) - 0.3},
   dib('persona', 180, 900, 280, 0.3, {mover: {x: 360, y: 900, en: rel(b4, 126), dur: 1.2}}),
@@ -110,9 +110,9 @@ esc(b5, b6, {fondo: 'crema', fuente: 'Interior, 20-10-2026'}, [
 // 5a · Resumen
 const b7 = S(163);
 esc(b6, b7, {fondo: 'crema'}, [
-  rot(`PEDIR${NB}19-11`, 330, 0.05),
-  rot(`ENVIAR HASTA${NB}25-11`, 450, rel(b6, 154) - 0.1),
-  rot(`29-11: MESA${NB}CERRADA`, 570, rel(b6, 158) - 0.1),
+  rot(`PEDIR${NB}19\u201111`, 330, 0.05),
+  rot(`ENVIAR HASTA${NB}25\u201111`, 450, rel(b6, 154) - 0.1),
+  rot(`29\u201111: MESA${NB}CERRADA`, 570, rel(b6, 158) - 0.1),
   dib('sobre', 300, 960, 280, 0.3),
   urn(720, 960, 300, rel(b6, 158) - 0.1),
 ]);

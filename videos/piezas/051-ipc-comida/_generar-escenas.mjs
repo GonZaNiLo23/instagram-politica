@@ -23,8 +23,8 @@ const COM = (en) => f(`COMIDA 2,4${NB}%`, 2.4, MOST, en);
 const gancho = [
   {tipo: 'gancho', texto: `INFLACIÓN 4,9${NB}%`, y: 320, tamano: 110, en: -1},
   {tipo: 'gancho', texto: `COMIDA 2,4${NB}%`, y: 570, tamano: 110, en: -1},
-  rot(`Tasa anual · octubre 2026 · INE`, 700, -1),
-  H([INF(-1), COM(0.1)], 860, 120),
+  rot(`Tasa anual · octubre${NB}2026 · INE`, 690, -1),
+  H([INF(-1), COM(0.1)], 920, 130),
   nota(['Comida = alimentos y bebidas sin alcohol'], -1),
   {tipo: 'selloTexto', lineas: ['?'], x: 760, y: 850, desde: 40, angulo: -5, tamano: 150, en: rel(0, 11) - 0.05},
 ];
@@ -46,19 +46,19 @@ const b4 = S(45);
 esc(b3, b4, {fondo: 'crema'}, [
   rot(`SUBYACENTE 3,1${NB}%`, 330, 0.05),
   rot(`Sin energía ni alimentos no${NB}elaborados`, 450, rel(b3, 34) - 0.3),
-  H([INF(-1), f(`SUBYACENTE 3,1${NB}%`, 3.1, MOST, rel(b3, 42) - 0.1)], 760, 160),
+  H([INF(-1), f(`SUBYACENTE 3,1${NB}%`, 3.1, MOST, rel(b3, 36) - 0.1)], 600, 160),
 ]);
 const b5 = S(52);
 esc(b4, b5, {fondo: 'crema'}, [
   rot('Tu inflación depende de en qué gastas'.slice(0,0)+'SUBYACENTE 3,1 %', 330, -1),
-  H([INF(-1), f('SUBYACENTE 3,1 %', 3.1, MOST, -1)], 760, 160),
+  H([INF(-1), f('SUBYACENTE 3,1 %', 3.1, MOST, -1)], 600, 160),
 ]);
 const b6 = S(59);
 esc(b5, b6, {fondo: 'crema'}, [
   rot('¿COMIDA O VIVIENDA?', 330, 0.05),
   {tipo: 'abSerie', a: 'COMIDA', b: 'VIVIENDA', y: 700, en: 0.4},
 ]);
-esc(b6, DUR, {fondo: 'mostaza', sinSubtitulos: true}, [{tipo: 'cierre', frase: '¿COMIDA O VIVIENDA?', tamano: 80, pulso: true}]);
+esc(b6, DUR, {fondo: 'mostaza', sinSubtitulos: true}, [{tipo: 'cierre', frase: '¿COMIDA O VIVIENDA?', cta: 'siguenos', tamano: 80, pulso: true}]);
 const portada = {escenas: [{inicio: 0, fin: 3, fondo: 'crema', sinMarca: true, componentes: gancho.slice(0, 4)}]};
 const out = {plantilla: 'flash', duracion: DUR, portadaSegundo: 1.5, marca: '@loquepasaenunminuto', subSinHuerfanas: true, subDy: 45, musica: {pista: 'investigations.mp3', volumen: -16}, portada, escenas: ESC};
 fs.writeFileSync(path.join(dir, 'escenas.json'), JSON.stringify(out, null, 2));

@@ -33,8 +33,8 @@
           },
           {
             "tipo": "rotulo",
-            "texto": "Tasa anual · octubre 2026 · INE",
-            "y": 700,
+            "texto": "Tasa anual · octubre 2026 · INE",
+            "y": 690,
             "en": -1,
             "tamano": 64
           },
@@ -57,8 +57,8 @@
             ],
             "max": 12,
             "paso": 4,
-            "y0": 860,
-            "alto": 120,
+            "y0": 920,
+            "alto": 130,
             "x0": 110,
             "largo": 760,
             "dur": 0.9,
@@ -90,8 +90,8 @@
         },
         {
           "tipo": "rotulo",
-          "texto": "Tasa anual · octubre 2026 · INE",
-          "y": 700,
+          "texto": "Tasa anual · octubre 2026 · INE",
+          "y": 690,
           "en": -1,
           "tamano": 64
         },
@@ -114,8 +114,8 @@
           ],
           "max": 12,
           "paso": 4,
-          "y0": 860,
-          "alto": 120,
+          "y0": 920,
+          "alto": 130,
           "x0": 110,
           "largo": 760,
           "dur": 0.9,
@@ -280,12 +280,12 @@
               "etiqueta": "SUBYACENTE 3,1 %",
               "valor": 3.1,
               "color": "#F2B134",
-              "en": 2.88
+              "en": 0.8
             }
           ],
           "max": 12,
           "paso": 4,
-          "y0": 760,
+          "y0": 600,
           "alto": 160,
           "x0": 110,
           "largo": 760,
@@ -325,7 +325,7 @@
           ],
           "max": 12,
           "paso": 4,
-          "y0": 760,
+          "y0": 600,
           "alto": 160,
           "x0": 110,
           "largo": 760,
@@ -364,6 +364,7 @@
         {
           "tipo": "cierre",
           "frase": "¿COMIDA O VIVIENDA?",
+          "cta": "siguenos",
           "tamano": 80,
           "pulso": true
         }
