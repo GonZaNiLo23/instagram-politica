@@ -111,3 +111,7 @@
 - 2026-11-15T12:00:41.164Z · am20261115-1126-abascal-penas-violadores v1: PUBLICADA en Instagram https://www.instagram.com/reel/Dfwux2AEdz_/
 - 2026-11-15T12:00:44.308Z · am20261115-1126-abascal-penas-violadores: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-15T16:01:04.990Z · am20261115-1530-abascal-bandera: ERROR al publicar: Error: Subida de am20261115-1530-abascal-bandera-v1.mp4 fallida: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"{\"success\":false,\"error\":{\"message\":\"The ig container is not in the status to upload a video\"}}"}}
+- 2026-11-15T18:00:58.969Z · 050-8-anos-inmigracion-irregular v2: PUBLICADA en Instagram https://www.instagram.com/reel/DfxX-prE22r/
+- 2026-11-15T18:01:00.543Z · 050-8-anos-inmigracion-irregular: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-15T18:01:52.496Z · am20261115-1730-garriga-jovenes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfxYFV0EyNf/
+- 2026-11-15T18:01:55.254Z · am20261115-1730-garriga-jovenes: TikTok en la bandeja de borradores (falta publicarlo desde la app)

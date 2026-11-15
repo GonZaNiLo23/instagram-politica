@@ -559,7 +559,11 @@
     "version": "v2",
     "hora": "2026-11-15T19:00:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/050-8-anos-inmigracion-irregular-v2.md APROBADO · revisiones/videos/050-8-anos-inmigracion-irregular-v2.md APROBADO test 9/10",
-    "estado": "pendiente"
+    "estado": "publicado",
+    "id": "18054838781602758",
+    "enlace": "https://www.instagram.com/reel/DfxX-prE22r/",
+    "publicado_en": "2026-11-15T18:00:58.969Z",
+    "tiktok_estado": "error"
   },
   {
     "pieza": "049-8-anos-estancamiento",
@@ -653,7 +657,11 @@
     "pieza": "am20261115-1730-garriga-jovenes",
     "version": "v1",
     "hora": "2026-11-15T18:00:00.000Z",
-    "estado": "pendiente",
-    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)"
+    "estado": "publicado",
+    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)",
+    "id": "18142059421658003",
+    "enlace": "https://www.instagram.com/reel/DfxYFV0EyNf/",
+    "publicado_en": "2026-11-15T18:01:52.496Z",
+    "tiktok_estado": "borrador"
   }
 ]
