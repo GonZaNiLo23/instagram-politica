@@ -106,3 +106,5 @@
 - 2026-11-14T18:00:49.582Z · 048-8-anos-productividad: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-14T18:01:23.924Z · am20261114-1728-abascal-broncano v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfuzREQktLM/
 - 2026-11-14T18:01:25.543Z · am20261114-1728-abascal-broncano: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-15T11:01:03.650Z · 049-8-anos-estancamiento v2: PUBLICADA en Instagram https://www.instagram.com/reel/Dfwn7G_j_Up/
+- 2026-11-15T11:01:06.397Z · 049-8-anos-estancamiento: TikTok en la bandeja de borradores (falta publicarlo desde la app)
