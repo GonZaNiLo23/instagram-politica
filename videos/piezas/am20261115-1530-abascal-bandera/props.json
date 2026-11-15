@@ -1,0 +1,135 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 33.64,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 30.14,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 30.14,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 30.14
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL RESPONDE A SÁNCHEZ POR LA BANDERA",
+          "fecha": "15 NOV",
+          "credito": "Vídeo: @santi_abascal"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.78,
+              "texto": "Pero ha dicho una cosa que es verdad, ha dicho,"
+            },
+            {
+              "inicio": 3.4,
+              "fin": 4.94,
+              "texto": "esta es la bandera de todos."
+            },
+            {
+              "inicio": 6.52,
+              "fin": 7.8,
+              "texto": "Es la bandera de la democracia,"
+            },
+            {
+              "inicio": 7.8,
+              "fin": 9.12,
+              "texto": "de la Constitución."
+            },
+            {
+              "inicio": 9.22,
+              "fin": 9.92,
+              "texto": "Sí, sí, es la de todos."
+            },
+            {
+              "inicio": 10.16,
+              "fin": 12.78,
+              "texto": "También es la de nuestra historia colectiva."
+            },
+            {
+              "inicio": 13.24,
+              "fin": 14.6,
+              "texto": "La de la unidad nacional,"
+            },
+            {
+              "inicio": 14.6,
+              "fin": 15.88,
+              "texto": "la de nuestras libertades."
+            },
+            {
+              "inicio": 16.9,
+              "fin": 18.84,
+              "texto": "Es mucho más que lo que él dice."
+            },
+            {
+              "inicio": 18.96,
+              "fin": 21,
+              "texto": "Pero ha dicho una parte de verdad,"
+            },
+            {
+              "inicio": 21,
+              "fin": 22.88,
+              "texto": "es la bandera de todos."
+            },
+            {
+              "inicio": 23.14,
+              "fin": 25.26,
+              "texto": "Y yo lo corroboro."
+            },
+            {
+              "inicio": 25.3,
+              "fin": 26.4,
+              "texto": "Es la bandera también de los"
+            },
+            {
+              "inicio": 26.4,
+              "fin": 27.64,
+              "texto": "militantes socialistas que estaban allí."
+            },
+            {
+              "inicio": 27.98,
+              "fin": 29.2,
+              "texto": "Aunque vayan a votar equivocadamente,"
+            },
+            {
+              "inicio": 29.2,
+              "fin": 30.14,
+              "texto": "es la de ellos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 30.14,
+      "fin": 33.64,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal: la bandera es de todos, también de los socialistas",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261115-1530-abascal-bandera",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
