@@ -72,7 +72,7 @@ esc(b3, b4, {fondo: 'crema'}, [
   rot(`2 · ENVIARLO HASTA EL${NB}25\u201111`, 330, 0.05),
   rot(`CERTIFICADO Y${NB}GRATIS`, 520, rel(b3, 71) - 0.2, {hasta: rel(b3, 87) - 0.15}),
   {tipo: 'calendarioX', mes: 'NOVIEMBRE', primer: 6, dias: 30, y: 640, cw: 90, ch: 52, rellenos: [{d0: 19, d1: 25, en: rel(b3, 66), paso: 0.3}], aro: {d: 25, en: rel(b3, 76) - 0.3}, en: 0.2, hasta: rel(b3, 87) - 0.15},
-  {tipo: 'selloTexto', lineas: ['CERTIFICADO'], x: 640, y: 1050, tamano: 56, angulo: -4, en: rel(b3, 71) + 0.3, desde: 40, hasta: rel(b3, 87) - 0.15},
+  {tipo: 'selloTexto', lineas: ['CERTIFICADO'], x: 540, y: 1050, tamano: 56, angulo: -4, en: rel(b3, 71) + 0.3, desde: 40, hasta: rel(b3, 87) - 0.15},
   rot(`EN CORREOS, CON TU${NB}DNI`, 520, rel(b3, 87) - 0.1, {hasta: rel(b3, 102) - 0.15}),
   dib('persona', 300, 900, 300, rel(b3, 87) - 0.1, {forma: 'cuadrado', hasta: rel(b3, 102) - 0.15}),
   dib('dni', 690, 900, 280, rel(b3, 93), {hasta: rel(b3, 102) - 0.15}),
