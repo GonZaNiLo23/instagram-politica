@@ -252,3 +252,4 @@
 - 2026-11-14 17:30 UTC · 1 · @vox_es (ruta Vera, 59 s) · descartado: sin hecho noticioso
 - 2026-11-14 19:30 UTC (publicación 20:00 Madrid) · 2 · @nngg_es (cronología Marruecos/Sáhara/Ceuta/Pegasus, 155 s) · descartado: viral 0 (recién publicado), explicador largo con insinuaciones causales no probadas (Ceuta/CNI/cese González-Laya/Pegasus), sin tramo limpio de 15–40 s; único candidato. Sin publicación.
 - 2026-11-15 08:00 (Madrid): sin candidatos (radar devolvió 0 detectados). Sin publicación.
+- 2026-11-15 10:00 Madrid (radar 09:29 UTC): sin candidatos (0 detectados). Sin publicación.
