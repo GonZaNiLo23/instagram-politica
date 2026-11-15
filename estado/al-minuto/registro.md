@@ -255,3 +255,8 @@
 - 2026-11-15 10:00 Madrid (radar 09:29 UTC): sin candidatos (0 detectados). Sin publicación.
 - 2026-11-15 11:30 UTC (publicación 12:00 Madrid) · 3 · @santi_abascal (propuesta de penas más duras para violadores, tramo 39,88–56,28 s; subtítulos cotejados con la transcripción, «puñederos»→«puñeteros»; solo la propuesta, sin las acusaciones del resto del vídeo; viral 79,7) · publicado am20261115-1126-abascal-penas-violadores
 - 2026-11-15 13:30 UTC (publicación 14:00 Madrid) · 2 · @vox_es (acto Abascal en Cornellà, 50 s) · descartado: acto con vídeo sin habla útil (transcripción de 2,4 s, «Es antiguo y ancestral»), sin tramo limpio de 15–40 s; viral 82,6. Único candidato. Sin publicación.
+- 2026-11-15 15:30 UTC (publicación 16:00 Madrid) · 3 · @vox_es (Abascal sobre la bandera en el mitin de Sánchez, tramo 28,19–58,33 s; subtítulos cotejados con la transcripción; solo la parte «bandera de todos», sin las acusaciones finales; opinión atribuida; viral 208,6) · publicado am20261115-1530-abascal-bandera
+- 2026-11-15 15:30 UTC · 3 · @santi_abascal (acto Cornellà, 160 s) · descartado: discurso largo con acusaciones («mafia»), sin tramo limpio y un envío por hora; viral 264,9
+- 2026-11-15 15:30 UTC · 2 · @vox_es (impuesto a los ricos, 78 s) · descartado: sin tramo limpio; viral 40
+- 2026-11-15 15:30 UTC · 2 · @gabrielrufian (catalán, 55 s) · descartado: sin hecho noticioso
+- 2026-11-15 15:30 UTC · 1 · @vox_es (himno, 37 s) · descartado: sin habla
