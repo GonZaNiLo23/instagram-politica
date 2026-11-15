@@ -253,3 +253,4 @@
 - 2026-11-14 19:30 UTC (publicación 20:00 Madrid) · 2 · @nngg_es (cronología Marruecos/Sáhara/Ceuta/Pegasus, 155 s) · descartado: viral 0 (recién publicado), explicador largo con insinuaciones causales no probadas (Ceuta/CNI/cese González-Laya/Pegasus), sin tramo limpio de 15–40 s; único candidato. Sin publicación.
 - 2026-11-15 08:00 (Madrid): sin candidatos (radar devolvió 0 detectados). Sin publicación.
 - 2026-11-15 10:00 Madrid (radar 09:29 UTC): sin candidatos (0 detectados). Sin publicación.
+- 2026-11-15 11:30 UTC (publicación 12:00 Madrid) · 3 · @santi_abascal (propuesta de penas más duras para violadores, tramo 39,88–56,28 s; subtítulos cotejados con la transcripción, «puñederos»→«puñeteros»; solo la propuesta, sin las acusaciones del resto del vídeo; viral 79,7) · publicado am20261115-1126-abascal-penas-violadores
