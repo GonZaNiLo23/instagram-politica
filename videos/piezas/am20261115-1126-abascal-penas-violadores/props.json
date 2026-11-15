@@ -1,0 +1,100 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 19.9,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 16.4,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 16.4,
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 16.4
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL PROPONE PENAS MÁS DURAS PARA VIOLADORES",
+          "fecha": "15 NOV",
+          "credito": "Vídeo: @santi_abascal"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 1.8,
+              "texto": "Llamo a las mujeres a que apoyen"
+            },
+            {
+              "inicio": 1.8,
+              "fin": 3.8,
+              "texto": "a la fuerza política que se ha comprometido"
+            },
+            {
+              "inicio": 3.8,
+              "fin": 5.4,
+              "texto": "desde el principio, aunque no fuera oído,"
+            },
+            {
+              "inicio": 5.5,
+              "fin": 7.2,
+              "texto": "a defender la dignidad y la libertad"
+            },
+            {
+              "inicio": 7.2,
+              "fin": 8,
+              "texto": "de las mujeres"
+            },
+            {
+              "inicio": 8,
+              "fin": 10.1,
+              "texto": "con penas más duras para los violadores,"
+            },
+            {
+              "inicio": 10.3,
+              "fin": 12.9,
+              "texto": "si son españoles a la cárcel sin que salgan"
+            },
+            {
+              "inicio": 13.2,
+              "fin": 15.2,
+              "texto": "y si son extranjeros a las cárceles"
+            },
+            {
+              "inicio": 15.2,
+              "fin": 16.4,
+              "texto": "de sus puñeteros países"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 16.4,
+      "fin": 19.9,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal promete cárcel sin salida para violadores",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261115-1126-abascal-penas-violadores",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
