@@ -110,3 +110,4 @@
 - 2026-11-15T11:01:06.397Z · 049-8-anos-estancamiento: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-15T12:00:41.164Z · am20261115-1126-abascal-penas-violadores v1: PUBLICADA en Instagram https://www.instagram.com/reel/Dfwux2AEdz_/
 - 2026-11-15T12:00:44.308Z · am20261115-1126-abascal-penas-violadores: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-15T16:01:04.990Z · am20261115-1530-abascal-bandera: ERROR al publicar: Error: Subida de am20261115-1530-abascal-bandera-v1.mp4 fallida: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"{\"success\":false,\"error\":{\"message\":\"The ig container is not in the status to upload a video\"}}"}}

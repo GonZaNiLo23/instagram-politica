@@ -645,7 +645,8 @@
     "pieza": "am20261115-1530-abascal-bandera",
     "version": "v1",
     "hora": "2026-11-15T16:00:00.000Z",
-    "estado": "pendiente",
-    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)"
+    "estado": "error",
+    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)",
+    "error": "Error: Subida de am20261115-1530-abascal-bandera-v1.mp4 fallida: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"{\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"The ig container is not in the status to upload a video\\\"}}\"}}"
   }
 ]
