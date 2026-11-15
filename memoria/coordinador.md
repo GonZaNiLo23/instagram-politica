@@ -52,3 +52,4 @@
 - 2026-11-14: guion con cifras de Eurostat: usar la tabla con decimales actualizada (nama_10_pc), no la resumen; el revisor lo cazó en v1. Conflictos de rebase en cola/pipeline: conservar ambas entradas.
 - 2026-11-14: antes de encargar, comprobar la cola: 14 y 15-11 ya cubiertos, salida en 2 min sin gastar subagentes.
 - [nube, 2026-11-15] Rutina claude.ai: red igual (curl 000). Comprobar, informar y salir. Huecos 16 y 17-11 para produccion.yml.
+- [nube, 2026-11-15] Con red completa, 2 piezas guion→revisión→vídeo→revisión en ~2 h; guionista no mueve archivos (sin Bash): movérselo yo. Buscador-temas útil cuando la serie 8 años se agota.

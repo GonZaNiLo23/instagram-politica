@@ -76,3 +76,4 @@
 - [050 v2] Pieza 'cifra' Ceuta: control-N.png (2, 4, 5) + comprobar.mjs + loudnorm + node de escenas bastan; escenas.json trae componentes[] (rotulo/en), no campos planos. Tercio inferior vacío persiste. (050, 2026-11-14)
 - [049 v2] Vuelta de recolocación de nota: control-N.png (6) + comprobar.mjs + loudnorm bastan; el cierre cierreSerie no lleva pregunta/botones del guion. Sello AMBAS CIERTAS tapa 'UE = 100'. (049, 2026-11-14)
 - [051 v2] Pieza 'flash' barrasHSerie: control-N.png (1, 4, 6) + comprobar.mjs + loudnorm bastan; rótulo de la escena subyacente queda pegado a la etiqueta del gráfico. (051, 2026-11-15)
+- [052] Pieza 'flash' calendarioX: control-N.png (1,2,3,5,6) + comprobar.mjs + loudnorm bastan; sello CERTIFICADO roza la casilla 30; cierre sin '📌 Guárdalo'. (052, 2026-11-15)

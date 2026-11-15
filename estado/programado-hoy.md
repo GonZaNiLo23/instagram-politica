@@ -39,3 +39,4 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 050 | 8-anos-inmigracion-irregular | 📊 Datos · serie 8 años | Flash | programado | 2 | 2 | 2026-11-15 19:00 (cola; TikTok: ) | v2 APROBADO 9/10; recomprobar Interior el 15-11 |
 | 049 | 8-anos-estancamiento | 📊 Datos · serie 8 años | Flash | programado | 2 | 2 | 2026-11-15 12:00 (cola; TikTok: ) | v2 APROBADO 9/10; recomprobar Eurostat |
 | 051-ipc-comida (v2) | Reel 28 s | Instagram + TikTok () vía cola | 2026-11-16 13:30 | revisiones/guiones/051-…-v1.md (literales aplicados) · revisiones/videos/051-…-v2.md (9/10). Recomprobar IPC INE |
+| 052-voto-correo-29n | Reel 65 s | Instagram + TikTok () vía cola | 2026-11-16 19:00 | revisiones/guiones/052-…-v1.md (cambios aplicados, v2) · revisiones/videos/052-…-v1.md (9/10). Recomprobar plazos 16-11 |
