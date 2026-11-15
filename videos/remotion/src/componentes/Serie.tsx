@@ -90,8 +90,8 @@ export const ContadorSerie: React.FC<{
  */
 export const BarrasHSerie: React.FC<{
   titulo?: string; filas: {etiqueta: string; valor: number; color?: string; en: number; resalta?: boolean}[]; max?: number; paso?: number; sufijoEje?: string;
-  y0?: number; alto?: number; x0?: number; largo?: number; dur?: number; tamano?: number; hasta?: number;
-}> = ({titulo, filas, max = 60, paso = 20, sufijoEje = ' %', y0 = 330, alto = 190, x0 = 110, largo = 760, dur = 0.9, tamano = 64, hasta}) => {
+  y0?: number; alto?: number; x0?: number; largo?: number; dur?: number; tamano?: number; hasta?: number; vivo?: boolean;
+}> = ({titulo, filas, max = 60, paso = 20, sufijoEje = ' %', y0 = 330, alto = 190, x0 = 110, largo = 760, dur = 0.9, tamano = 64, hasta, vivo = false}) => {
   const {t} = usa();
   const s = useSalida(hasta);
   const yFilas = y0 + (titulo ? 110 : 0);
@@ -99,7 +99,7 @@ export const BarrasHSerie: React.FC<{
   for (let m = 0; m <= max; m += paso) marcas.push(m);
   const yEje = yFilas + filas.length * alto + 6;
   return lienzo(
-    <g>
+    <g transform={`translate(0 ${vivo ? Math.sin(t * 2.4) * 8 : 0})`}>
       {titulo ? <text x={SEGURA.izq} y={y0 + 64} fontFamily={F.texto} fontWeight={700} fontSize={64} fill={C.tinta}>{titulo}</text> : null}
       <line x1={x0} y1={yEje} x2={x0 + largo + 20} y2={yEje} stroke={C.tinta} strokeWidth={4} strokeLinecap="round" />
       {marcas.map((m) => (

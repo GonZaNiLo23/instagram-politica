@@ -20,26 +20,27 @@
           {
             "tipo": "gancho",
             "texto": "INFLACIÓN 4,9 %",
-            "y": 330,
+            "y": 320,
             "tamano": 110,
             "en": -1
           },
           {
             "tipo": "gancho",
             "texto": "COMIDA 2,4 %",
-            "y": 460,
+            "y": 570,
             "tamano": 110,
             "en": -1
           },
           {
             "tipo": "rotulo",
             "texto": "Tasa anual · octubre 2026 · INE",
-            "y": 620,
+            "y": 700,
             "en": -1,
             "tamano": 64
           },
           {
             "tipo": "barrasHSerie",
+            "vivo": true,
             "filas": [
               {
                 "etiqueta": "INFLACIÓN 4,9 %",
@@ -56,8 +57,8 @@
             ],
             "max": 12,
             "paso": 4,
-            "y0": 700,
-            "alto": 150,
+            "y0": 860,
+            "alto": 120,
             "x0": 110,
             "largo": 760,
             "dur": 0.9,
@@ -76,26 +77,27 @@
         {
           "tipo": "gancho",
           "texto": "INFLACIÓN 4,9 %",
-          "y": 330,
+          "y": 320,
           "tamano": 110,
           "en": -1
         },
         {
           "tipo": "gancho",
           "texto": "COMIDA 2,4 %",
-          "y": 460,
+          "y": 570,
           "tamano": 110,
           "en": -1
         },
         {
           "tipo": "rotulo",
           "texto": "Tasa anual · octubre 2026 · INE",
-          "y": 620,
+          "y": 700,
           "en": -1,
           "tamano": 64
         },
         {
           "tipo": "barrasHSerie",
+          "vivo": true,
           "filas": [
             {
               "etiqueta": "INFLACIÓN 4,9 %",
@@ -112,23 +114,31 @@
           ],
           "max": 12,
           "paso": 4,
-          "y0": 700,
-          "alto": 150,
+          "y0": 860,
+          "alto": 120,
           "x0": 110,
           "largo": 760,
           "dur": 0.9,
           "tamano": 64
         },
         {
+          "tipo": "notas",
+          "lineas": [
+            "Comida = alimentos y bebidas sin alcohol"
+          ],
+          "en": -1,
+          "tamano": 40
+        },
+        {
           "tipo": "selloTexto",
           "lineas": [
-            "¿QUÉ SUBE?"
+            "?"
           ],
-          "x": 430,
-          "y": 1090,
+          "x": 760,
+          "y": 850,
           "desde": 40,
           "angulo": -5,
-          "tamano": 80,
+          "tamano": 150,
           "en": 4.99
         }
       ]
@@ -147,6 +157,7 @@
         },
         {
           "tipo": "barrasHSerie",
+          "vivo": true,
           "filas": [
             {
               "etiqueta": "INFLACIÓN 4,9 %",
@@ -175,8 +186,8 @@
           ],
           "max": 12,
           "paso": 4,
-          "y0": 540,
-          "alto": 130,
+          "y0": 500,
+          "alto": 140,
           "x0": 110,
           "largo": 760,
           "dur": 0.9,
@@ -216,6 +227,7 @@
         },
         {
           "tipo": "barrasHSerie",
+          "vivo": true,
           "filas": [
             {
               "etiqueta": "VIVIENDA 7,6 %",
@@ -226,7 +238,7 @@
           ],
           "max": 12,
           "paso": 4,
-          "y0": 900,
+          "y0": 950,
           "alto": 150,
           "x0": 110,
           "largo": 760,
@@ -256,6 +268,7 @@
         },
         {
           "tipo": "barrasHSerie",
+          "vivo": true,
           "filas": [
             {
               "etiqueta": "INFLACIÓN 4,9 %",
@@ -272,8 +285,8 @@
           ],
           "max": 12,
           "paso": 4,
-          "y0": 700,
-          "alto": 150,
+          "y0": 760,
+          "alto": 160,
           "x0": 110,
           "largo": 760,
           "dur": 0.9,
@@ -295,6 +308,7 @@
         },
         {
           "tipo": "barrasHSerie",
+          "vivo": true,
           "filas": [
             {
               "etiqueta": "INFLACIÓN 4,9 %",
@@ -311,8 +325,8 @@
           ],
           "max": 12,
           "paso": 4,
-          "y0": 700,
-          "alto": 150,
+          "y0": 760,
+          "alto": 160,
           "x0": 110,
           "largo": 760,
           "dur": 0.9,

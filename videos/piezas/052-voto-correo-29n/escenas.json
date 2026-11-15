@@ -1,0 +1,635 @@
+{
+  "plantilla": "estandar",
+  "duracion": 65.49,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "VOTO POR CORREO:",
+            "y": 330,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "3 FECHAS",
+            "y": 590,
+            "tamano": 130,
+            "en": -1,
+            "resalta": "3"
+          },
+          {
+            "tipo": "casillaX",
+            "texto": "1",
+            "x": 260,
+            "y": 960,
+            "w": 190,
+            "h": 100,
+            "desde": 0,
+            "en": -1
+          },
+          {
+            "tipo": "casillaX",
+            "texto": "2",
+            "x": 540,
+            "y": 960,
+            "w": 190,
+            "h": 100,
+            "desde": 0,
+            "en": -1
+          },
+          {
+            "tipo": "casillaX",
+            "texto": "3",
+            "x": 820,
+            "y": 960,
+            "w": 190,
+            "h": 100,
+            "desde": 0,
+            "en": -1
+          },
+          {
+            "tipo": "dib",
+            "nombre": "sobre",
+            "x": 540,
+            "y": 1180,
+            "tamano": 320,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.82,
+      "fondo": "crema",
+      "fuente": "Interior, 20-10-2026",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "TE ACEPTAN EL VOTO POR CORREO",
+          "y": 330,
+          "tamano": 110,
+          "en": -1,
+          "hasta": 2.1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "YA NO VOTAS EN TU MESA",
+          "y": 330,
+          "tamano": 110,
+          "en": 2.1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 540,
+          "y": 960,
+          "tamano": 300,
+          "en": -1
+        },
+        {
+          "tipo": "dib",
+          "nombre": "sobre",
+          "x": 540,
+          "y": 740,
+          "tamano": 260,
+          "en": -1,
+          "hasta": 2.1,
+          "animEn": 0,
+          "mover": {
+            "x": 540,
+            "y": 880,
+            "en": 0,
+            "dur": 0.7,
+            "arco": 60
+          }
+        },
+        {
+          "tipo": "dib",
+          "nombre": "sobreCandado",
+          "x": 540,
+          "y": 880,
+          "tamano": 260,
+          "en": 2.1,
+          "animEn": 2.1
+        }
+      ]
+    },
+    {
+      "inicio": 3.82,
+      "fin": 9.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PLAZO: JUEVES 19-11",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "NOVIEMBRE",
+          "primer": 6,
+          "dias": 30,
+          "y": 420,
+          "cw": 98,
+          "ch": 56,
+          "aro": {
+            "d": 19,
+            "en": 2.1399999999999997
+          },
+          "en": 0.3
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "1",
+          "x": 260,
+          "y": 1030,
+          "w": 190,
+          "h": 100,
+          "desde": 0,
+          "en": 4.02
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "2",
+          "x": 540,
+          "y": 1030,
+          "w": 190,
+          "h": 100,
+          "desde": 0,
+          "en": 4.02
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "3",
+          "x": 820,
+          "y": 1030,
+          "w": 190,
+          "h": 100,
+          "desde": 0,
+          "en": 4.02
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Para solicitarlo · Interior"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 9.02,
+      "fin": 22.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1 · PEDIRLO HASTA EL 19-11",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EN CORREOS O EN SU WEB",
+          "y": 520,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.75
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ONLINE: DNI ELECTRÓNICO O CERTIFICADO",
+          "y": 520,
+          "en": 4.800000000000001,
+          "tamano": 64,
+          "hasta": 9.23
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DOCUMENTACIÓN: DESDE EL 9-11",
+          "y": 520,
+          "en": 9.280000000000001,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "oficina",
+          "x": 540,
+          "y": 880,
+          "tamano": 330,
+          "en": 2.36,
+          "hasta": 4.75
+        },
+        {
+          "tipo": "dib",
+          "nombre": "portatil",
+          "x": 300,
+          "y": 880,
+          "tamano": 300,
+          "en": 4.800000000000001,
+          "hasta": 9.23
+        },
+        {
+          "tipo": "dib",
+          "nombre": "dni",
+          "x": 700,
+          "y": 880,
+          "tamano": 300,
+          "en": 6.42,
+          "hasta": 9.23
+        },
+        {
+          "tipo": "dib",
+          "nombre": "oficina",
+          "x": 290,
+          "y": 880,
+          "tamano": 300,
+          "en": 9.280000000000001
+        },
+        {
+          "tipo": "dib",
+          "nombre": "sobre",
+          "x": 290,
+          "y": 880,
+          "tamano": 200,
+          "en": 11.719999999999999,
+          "mover": {
+            "x": 740,
+            "y": 880,
+            "en": 11.82,
+            "dur": 1.4,
+            "arco": 80
+          }
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Oficina del Censo Electoral"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 22.86,
+      "fin": 43.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2 · ENVIARLO HASTA EL 25-11",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "CERTIFICADO Y GRATIS",
+          "y": 520,
+          "en": 2.2199999999999998,
+          "tamano": 64,
+          "hasta": 8.35
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "NOVIEMBRE",
+          "primer": 6,
+          "dias": 30,
+          "y": 640,
+          "cw": 90,
+          "ch": 52,
+          "rellenos": [
+            {
+              "d0": 19,
+              "d1": 25,
+              "en": 0.98,
+              "paso": 0.3
+            }
+          ],
+          "aro": {
+            "d": 25,
+            "en": 4.6000000000000005
+          },
+          "en": 0.2,
+          "hasta": 8.35
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "CERTIFICADO"
+          ],
+          "x": 420,
+          "y": 1080,
+          "tamano": 56,
+          "angulo": -4,
+          "en": 2.7199999999999998,
+          "desde": 40,
+          "hasta": 8.35
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EN CORREOS, CON TU DNI",
+          "y": 520,
+          "en": 8.4,
+          "tamano": 64,
+          "hasta": 12.99
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "x": 300,
+          "y": 900,
+          "tamano": 300,
+          "en": 8.4,
+          "forma": "cuadrado",
+          "hasta": 12.99
+        },
+        {
+          "tipo": "dib",
+          "nombre": "dni",
+          "x": 690,
+          "y": 900,
+          "tamano": 280,
+          "en": 10.66,
+          "hasta": 12.99
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SI VA OTRA PERSONA:",
+          "y": 520,
+          "en": 13.040000000000001,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "AUTORIZACIÓN FIRMADA + COPIA DEL DNI",
+          "y": 620,
+          "en": 14.940000000000001,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "x": 200,
+          "y": 980,
+          "tamano": 250,
+          "en": 13.040000000000001,
+          "forma": "circulo"
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "x": 500,
+          "y": 980,
+          "tamano": 250,
+          "en": 13.280000000000001,
+          "forma": "triangulo"
+        },
+        {
+          "tipo": "dib",
+          "nombre": "firma",
+          "x": 200,
+          "y": 980,
+          "tamano": 200,
+          "en": 15.100000000000001,
+          "mover": {
+            "x": 500,
+            "y": 980,
+            "en": 16.02,
+            "dur": 1.2,
+            "arco": 60
+          },
+          "hasta": 18.060000000000002
+        },
+        {
+          "tipo": "dib",
+          "nombre": "dni",
+          "x": 800,
+          "y": 1010,
+          "tamano": 210,
+          "en": 17.3
+        },
+        {
+          "tipo": "dib",
+          "nombre": "lista",
+          "x": 800,
+          "y": 800,
+          "tamano": 200,
+          "en": 18.16
+        }
+      ]
+    },
+    {
+      "inicio": 43.5,
+      "fin": 47.18,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "3 · DOMINGO 29-11: MESA CERRADA PARA TI",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 700,
+          "y": 900,
+          "tamano": 340,
+          "en": 0.3
+        },
+        {
+          "tipo": "candadoMostaza",
+          "x": 700,
+          "y": 900,
+          "tamano": 200,
+          "en": 1.9599999999999997
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "x": 180,
+          "y": 900,
+          "tamano": 280,
+          "en": 0.3,
+          "mover": {
+            "x": 360,
+            "y": 900,
+            "en": 1.06,
+            "dur": 1.2
+          }
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "No podrás votar en tu mesa · Interior"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 47.18,
+      "fin": 53.74,
+      "fondo": "crema",
+      "fuente": "Interior, 20-10-2026",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EN EL SOBRE DE VOTO,",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.34
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "NADA DE DNI",
+          "y": 420,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.34
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SI LO METES: VOTO NULO",
+          "y": 330,
+          "en": 4.44,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "sobre",
+          "x": 440,
+          "y": 900,
+          "tamano": 340,
+          "en": 0.2
+        },
+        {
+          "tipo": "dib",
+          "nombre": "dni",
+          "x": 840,
+          "y": 760,
+          "tamano": 220,
+          "en": 2.2800000000000002,
+          "mover": {
+            "x": 560,
+            "y": 900,
+            "en": 2.58,
+            "dur": 0.8
+          },
+          "hasta": 3.58
+        },
+        {
+          "tipo": "dib",
+          "nombre": "dni",
+          "x": 560,
+          "y": 900,
+          "tamano": 220,
+          "en": 3.58,
+          "mover": {
+            "x": 840,
+            "y": 1010,
+            "en": 3.58,
+            "dur": 0.8,
+            "arco": 60
+          },
+          "rot": 12,
+          "animEn": 3.58
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "NULO"
+          ],
+          "x": 500,
+          "y": 1040,
+          "tamano": 72,
+          "angulo": -8,
+          "en": 5.720000000000001,
+          "desde": 40
+        }
+      ]
+    },
+    {
+      "inicio": 53.74,
+      "fin": 58.98,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PEDIR 19-11",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ENVIAR HASTA 25-11",
+          "y": 450,
+          "en": 1.52,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "29-11: MESA CERRADA",
+          "y": 570,
+          "en": 3.08,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "sobre",
+          "x": 300,
+          "y": 960,
+          "tamano": 280,
+          "en": 0.3
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 720,
+          "y": 960,
+          "tamano": 300,
+          "en": 3.08
+        }
+      ]
+    },
+    {
+      "inicio": 58.98,
+      "fin": 65.49,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿CORREO O URNA?",
+          "tamano": 104,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}
