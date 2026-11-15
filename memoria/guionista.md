@@ -76,4 +76,8 @@
 
 - [Ceuta/inmigración, Interior y Frontex] interior.gob.es (balances PDF y notas) da 403 a WebFetch, también con la URL exacta del PDF (el patrón sale con WebSearch allowed_domains ["interior.gob.es"]). Sí abren: Frontex (frontex.europa.eu/media-centre/news/news-release/…, primaria, avisa de que excluye Ceuta 30-31 jul), Moncloa (transcripción de Sánchez 3-9, notas de Interior en lamoncloa.gob.es) y Euronews/RTVC para los totales de Interior. (050, 2026-11-14)
 
+- [IPC definitivo, INE] ine.es/dyngs/Prensa/IPC1026.htm (AAMM) abre con WebFetch y trae grupos (alimentos 2,4, vivienda 7,6, transporte 10,3), subyacente 3,1 y su definición literal; no trae ponderaciones ni el "máximo desde feb-2023". Repercusión mensual de alimentos +1,2 %: usa siempre "tasa anual". (051, 2026-11-15)
+
+- [voto por correo, 29-N] Nota de Interior (20-10) en lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/paginas/voto-por-correo-elecciones-generales-29n.aspx abre con WebFetch: solicitud hasta 19-11, sobre "antes del 25-11"; no dice nada de "aunque no lo envíes". LOREG arts. 72–73 en offset 120000 (73.3 "antes del tercer día previo" = antes del 26-11). (052, 2026-11-15)
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)
