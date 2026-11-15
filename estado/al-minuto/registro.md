@@ -254,3 +254,4 @@
 - 2026-11-15 08:00 (Madrid): sin candidatos (radar devolvió 0 detectados). Sin publicación.
 - 2026-11-15 10:00 Madrid (radar 09:29 UTC): sin candidatos (0 detectados). Sin publicación.
 - 2026-11-15 11:30 UTC (publicación 12:00 Madrid) · 3 · @santi_abascal (propuesta de penas más duras para violadores, tramo 39,88–56,28 s; subtítulos cotejados con la transcripción, «puñederos»→«puñeteros»; solo la propuesta, sin las acusaciones del resto del vídeo; viral 79,7) · publicado am20261115-1126-abascal-penas-violadores
+- 2026-11-15 13:30 UTC (publicación 14:00 Madrid) · 2 · @vox_es (acto Abascal en Cornellà, 50 s) · descartado: acto con vídeo sin habla útil (transcripción de 2,4 s, «Es antiguo y ancestral»), sin tramo limpio de 15–40 s; viral 82,6. Único candidato. Sin publicación.
