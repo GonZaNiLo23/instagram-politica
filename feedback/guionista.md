@@ -25,7 +25,7 @@ Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 19. **Partidos ficticios**: forma o letra (Círculo/A), tonos neutros; nunca colores de partidos reales.
 20. **Simplifica el lenguaje, no el contenido**: cada efecto legal, con el artículo exacto y la elección a la que se aplica (la barrera del 3 % es la del Congreso; en municipales, el 5 %); el lema del cierre no contradice al gancho.
 21. **Rótulos ≤ 7 palabras**; las siglas se explican (si explicas una, explícalas todas).
-22. **Flash = 20–35 s (88 palabras como máximo, tiempos a 165 pal/min)**, aunque el encargo dé un margen mayor: el bloque explicativo o de "¿y en España?" no pasa del 40 % de la voz; los pasos de detalle (mayorías, plazos intermedios, definiciones técnicas) van al rótulo o al post; se recorta la explicación, nunca la resolución del gancho ni el ejemplo; con dos cifras en juego, cada variación dice de cuál es.
+22. **Flash = 20–35 s (88 palabras como máximo, tiempos a 165 pal/min)**, aunque el encargo dé un margen mayor: el bloque explicativo o de "¿y en España?" no pasa del 40 % de la voz; los pasos de detalle (mayorías, plazos intermedios, definiciones técnicas) van al rótulo o al post; se recorta la explicación, nunca la resolución del gancho ni el ejemplo; con dos cifras en juego, cada variación dice de cuál es. Se entrega ya recortado, no con el recorte "si el revisor lo pide" (3 ocurrencias: 023, 028, 054). El calificativo de un ranking de la fuente ("en televisión tradicional") va en voz; dos medios con frases idénticas son una sola fuente (054).
 23. **Clips de redes**: sin reloj ni hito horario si no consta la hora de grabación; crédito "publicado DD-MM, HH:MM"; nada de grabaciones de otra pantalla sin descartar que sean de un medio; en la tabla, quién autorizó el uso.
 24. **Guía del 2026-10-26**: los objetos y lugares reales (urna, edificio, coche…) no se dibujan: foto recortada con su tabla de imágenes, o se quitan; el post lleva el crédito de la música del pilar (`videos/musica/LICENCIAS.md`).
 25. **Encuestas en periodo electoral** (LOREG 69.1: toda publicación lleva la ficha): ninguna cifra de una encuesta sin su ficha completa en el post (quién la realiza y quién la encarga, muestra, error, fechas, preguntas y no respuesta); nada de rangos de agregadores ni Wikipedia; usa la N y los datos **definitivos** del CIS, no los del avance.
@@ -38,6 +38,12 @@ Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 (Ya incorporadas a la guía de estilo y la plantilla, ver Histórico: recuento real de palabras y tiempos por bloque, frases de ≤ 15 palabras, dato vivo con "a fecha de" y fuentes concretas con fecha, campo Portada.)
 
 ## Reglas activas
+
+### 2026-11-16 · 054-audiencias-debates (v1) · revisor-guion
+- Ocurrencias: regla 22: 3 (023, 028, 054) · +1 regla 12 (matiz de la fuente omitido y agencia mal atribuida)
+- Problema: un flash de 98 palabras entregado "a sabiendas" por encima de 88, con el recorte propuesto como opcional. "El menos visto de los siete" sin el "en la televisión tradicional" de EFE. Despacho de EFE atribuido a Europa Press. El Independiente, que copia EFE palabra por palabra, presentado como segunda fuente.
+- Regla para el futuro: el tope de 88 no es negociable. Si el guion lo supera, entrega ya recortado (nombres y detalles, al rótulo). Copia el calificativo del ranking de la fuente ("en televisión tradicional", "en la serie"). Antes de escribir la agencia, lee la firma del despacho. Si dos medios usan las mismas frases, cuentan como una sola fuente.
+- Ejemplo: "Febrero de 2008, Zapatero y Rajoy: más de trece millones de media" → "Febrero de 2008: más de trece millones de media" (los nombres, en el rótulo).
 
 ### 2026-11-15 · 052-voto-correo-29n (v1) · revisor-guion
 - Ocurrencias: +1 regla 13 (preposición del plazo; 2.ª vez con el voto por correo, tras la 011)

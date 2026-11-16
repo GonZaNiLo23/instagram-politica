@@ -80,4 +80,6 @@
 
 - [voto por correo, 29-N] Nota de Interior (20-10) en lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/paginas/voto-por-correo-elecciones-generales-29n.aspx abre con WebFetch: solicitud hasta 19-11, sobre "antes del 25-11"; no dice nada de "aunque no lo envíes". LOREG arts. 72–73 en offset 120000 (73.3 "antes del tercer día previo" = antes del 26-11). (052, 2026-11-15)
 
+- [audiencias debates] La nota de EFE (vía ultimahora.es/noticias/elecciones-23j/2023/07/11/1973813/…) trae la tabla Barlovento/Kantar 1993–2023 con cadenas y minuto de oro (2023: 11,4 M); abre con WebFetch. 2008: 20 cadenas (Reason Why) frente a 22 (EFE); 2011: 12,5 (EFE) frente a 12,005 M. (054, 2026-11-16)
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)
