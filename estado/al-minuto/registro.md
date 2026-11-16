@@ -266,3 +266,4 @@
 - 2026-11-15 17:30 UTC · 3 · @vox_es (Abascal, elecciones 29-N, 24 s) · descartado: un envío por hora; viral 22,9
 - 2026-11-15 17:30 UTC · 2 · @vox_es (Cornellà, 22 s) · descartado: sin habla
 - 2026-11-15 19:46 UTC (publicación 20:00 Madrid): radar sin respuesta (candidatos.json con generado 19:26:23Z, anterior a la petición 19:26:32Z, a los 20 min). Sin publicación.
+- 2026-11-16 07:30 UTC (publicación 08:00 Madrid) · 2 · @partidopopular (broma del penalti Feijóo/Sánchez, 11,4 s, habla de 8,7 s) · descartado: humor sin hecho noticioso ni frase política, por debajo de 15 s; viral 100,7. Único candidato. Sin publicación.
