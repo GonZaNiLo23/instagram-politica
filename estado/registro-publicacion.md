@@ -117,3 +117,4 @@
 - 2026-11-15T18:01:55.254Z · am20261115-1730-garriga-jovenes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-16T12:30:51.788Z · 051-ipc-comida v2: PUBLICADA en Instagram https://www.instagram.com/reel/DfzXBQ5IZH0/
 - 2026-11-16T12:30:54.744Z · 051-ipc-comida: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-16T18:02:13.139Z · 052-voto-correo-29n: ERROR al publicar: Error: Subida de 052-voto-correo-29n-v1.mp4 fallida: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"{\"success\":false,\"error\":{\"message\":\"{\\\"message\\\":\\\"Video Transcoding Error: both HD and SD progressive failed t

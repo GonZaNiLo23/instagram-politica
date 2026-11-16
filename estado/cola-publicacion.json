@@ -636,7 +636,8 @@
     "version": "v1",
     "hora": "2026-11-16T19:00:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/052-voto-correo-29n-v1.md CAMBIOS aplicados (v2) · revisiones/videos/052-voto-correo-29n-v1.md APROBADO test 9/10",
-    "estado": "pendiente"
+    "estado": "error",
+    "error": "Error: Subida de 052-voto-correo-29n-v1.mp4 fallida: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"{\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"{\\\\\\\"message\\\\\\\":\\\\\\\"Video Transcoding Error: both HD and SD progressive failed t"
   },
   {
     "pieza": "am20261115-1126-abascal-penas-violadores",
