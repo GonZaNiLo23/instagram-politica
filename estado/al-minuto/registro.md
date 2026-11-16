@@ -268,3 +268,4 @@
 - 2026-11-15 19:46 UTC (publicación 20:00 Madrid): radar sin respuesta (candidatos.json con generado 19:26:23Z, anterior a la petición 19:26:32Z, a los 20 min). Sin publicación.
 - 2026-11-16 07:30 UTC (publicación 08:00 Madrid) · 2 · @partidopopular (broma del penalti Feijóo/Sánchez, 11,4 s, habla de 8,7 s) · descartado: humor sin hecho noticioso ni frase política, por debajo de 15 s; viral 100,7. Único candidato. Sin publicación.
 - 2026-11-16 09:30 UTC (publicación 10:00 Madrid): sin candidatos (radar devolvió 0 detectados). Sin publicación.
+- 2026-11-16 11:30 UTC (publicación 12:00 Madrid) · 2 · La Moncloa (Sánchez con Lula, 31,7 s, solo dice «Gracias.» 0,4 s) · descartado: sin frase ni habla útil, sin tramo de 15–40 s con subtítulos; viral 50. Único candidato. Sin publicación.
