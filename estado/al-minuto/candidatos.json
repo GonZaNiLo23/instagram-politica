@@ -1,5 +1,34 @@
 {
- "generado": "2026-11-16T09:29:54.021Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-16T11:29:51.985Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "moncloa-161126-sanchez-visita-lula",
+   "fuente": "moncloa",
+   "cuenta": "La Moncloa",
+   "espacio": "gobierno",
+   "fecha": "2026-11-16T11:29:51.985Z",
+   "viral": 50,
+   "enlace": "https://www.lamoncloa.gob.es/multimedia/videos/presidente/Paginas/2026/161126-sanchez-visita-lula.aspx",
+   "texto": "La Moncloa. Pedro Sánchez mantiene un encuentro con el presidente de Brasil, Lula da Silva | 16/11/2026 [Vídeos/Presidente]",
+   "credito": "Vídeo: La Moncloa",
+   "duracion": 31.7,
+   "archivo": "moncloa-161126-sanchez-visita-lula.mp4",
+   "frases": [
+    {
+     "inicio": 5.42,
+     "fin": 5.82,
+     "texto": "Gracias."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "Gracias.",
+     "inicio": 5.42,
+     "fin": 5.82
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
