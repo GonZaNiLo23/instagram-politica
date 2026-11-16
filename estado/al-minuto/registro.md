@@ -271,3 +271,5 @@
 - 2026-11-16 11:30 UTC (publicación 12:00 Madrid) · 2 · La Moncloa (Sánchez con Lula, 31,7 s, solo dice «Gracias.» 0,4 s) · descartado: sin frase ni habla útil, sin tramo de 15–40 s con subtítulos; viral 50. Único candidato. Sin publicación.
 - 2026-11-16 15:30 UTC (publicación 16:00 Madrid) · 2 · @vox_es (de camino a Tenerife, 29,2 s) · descartado: transcripción ininteligible («Es un poco bueno», «El juego de los buen traditos»), sin frase política clara ni tramo limpio de 15–40 s; viral 354 pero sin contenido noticioso. Único candidato. Sin publicación.
 - 2026-11-16 17:30 UTC (publicación 18:00 Madrid): sin candidatos (radar devolvió 0 detectados). Sin publicación.
+- 2026-11-16 19:30 UTC (publicación 20:00 Madrid) · 2 · @partidopopular («Seguimos.», 22,1 s, habla de 4 s: «Dame la zula») · descartado: humor sin hecho noticioso ni frase política, sin tramo de 15–40 s con habla; viral 1647,7
+- 2026-11-16 19:30 UTC · 1 · La Moncloa (Sánchez con Orsi, Uruguay, 23,6 s) · descartado: sin habla ni frases. Sin publicación.
