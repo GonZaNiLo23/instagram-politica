@@ -14,6 +14,7 @@ Decisión de la persona usuaria del 2026-10-29: cada hora se publica **directame
 Suma de dos cosas, redondeada:
 - **Relevancia:** situación política y geopolítica de España y Europa (Gobierno, oposición, UE, inmigración, defensa, Ucrania, Oriente Medio, aranceles, corrupción, tribunales, elecciones), declaraciones de líderes con frase clara.
 - **Potencial viral:** el campo `viral` del radar (me gusta y comentarios por hora relativos a los seguidores), frase rotunda o choque, interés para nuestra audiencia (espacio afín PP, SALF y Vox).
+Sube un punto (revisión semanal 2026-11-16, n = 4): propuesta o medida concreta con consecuencia directa para el ciudadano (seguridad, inmigración, mujeres, dinero en el bolsillo). Así fueron las cuatro que pasaron de 600 visual. (remigración 2.924, voto de las mujeres y penas a violadores 1.926, decretos sociales de La Moncloa 1.722, repatriación 674) frente a una mediana de ≈ 178 (n = 19, semana del 9 al 15-11); las crónicas de acto o de campaña sin propuesta se quedan en 140–260.
 Baja la nota si: no habla nadie o no se entiende sin contexto; es publicidad, música o un mitin sin frase; el mismo tema ya se publicó en las últimas 6 h (mira el registro); es un suceso con víctimas tratado con morbo.
 Los de `prioridad: "buzón"` los ha mandado la persona usuaria: publícalos si tienen archivo, salvo que sean imposibles de montar (si no tienen archivo, apunta en el registro por qué).
 
