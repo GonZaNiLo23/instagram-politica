@@ -1,0 +1,379 @@
+{
+  "plantilla": "flash",
+  "duracion": 34.03,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "13 M",
+            "y": 320,
+            "tamano": 130,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "5,9 M",
+            "y": 520,
+            "tamano": 130,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "Audiencia media",
+            "y": 700,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "barrasHSerie",
+            "vivo": true,
+            "filas": [
+              {
+                "etiqueta": "2008",
+                "valor": 13,
+                "color": "#14213D",
+                "en": -1
+              },
+              {
+                "etiqueta": "2023",
+                "valor": 5.9,
+                "color": "#F2B134",
+                "en": -1
+              }
+            ],
+            "max": 16,
+            "paso": 4,
+            "sufijoEje": " M",
+            "y0": 800,
+            "alto": 150,
+            "x0": 110,
+            "largo": 760,
+            "dur": 0.9,
+            "tamano": 64
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "13 M",
+          "y": 320,
+          "tamano": 130,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "5,9 M",
+          "y": 520,
+          "tamano": 130,
+          "en": 3.58
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Audiencia media",
+          "y": 700,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "2008",
+              "valor": 13,
+              "color": "#14213D",
+              "en": 0.1
+            },
+            {
+              "etiqueta": "2023",
+              "valor": 5.9,
+              "color": "#F2B134",
+              "en": 3.58
+            }
+          ],
+          "max": 16,
+          "paso": 4,
+          "sufijoEje": " M",
+          "y0": 800,
+          "alto": 150,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Barlovento/Kantar vía EFE"
+          ],
+          "en": -1,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 5.02,
+      "fin": 8.78,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "25-2-2008",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": ">13 M (59,1 %)",
+          "y": 450,
+          "en": 0.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "2008",
+              "valor": 13,
+              "color": "#14213D",
+              "en": -1
+            }
+          ],
+          "max": 16,
+          "paso": 4,
+          "sufijoEje": " M",
+          "y0": 700,
+          "alto": 190,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 8.78,
+      "fin": 15.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "11-7-2023",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "5,9 M (46,5 %)",
+          "y": 450,
+          "en": 0.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "2008",
+              "valor": 13,
+              "color": "#14213D",
+              "en": -1
+            },
+            {
+              "etiqueta": "2023",
+              "valor": 5.9,
+              "color": "#F2B134",
+              "en": 0.1
+            }
+          ],
+          "max": 16,
+          "paso": 4,
+          "sufijoEje": " M",
+          "y0": 740,
+          "alto": 160,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Menos visto de los 7 en TV",
+          "y": 570,
+          "en": 3.76,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 15.02,
+      "fin": 20.3,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NO COMPARABLE SIN MATIZ",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "fichaSerie",
+          "filas": [
+            "2008: 22 cadenas",
+            "2023: 2 (Antena 3 y La Sexta)"
+          ],
+          "y": 620,
+          "ancho": 880,
+          "tam": 52,
+          "en": 1.86
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Medición y hábitos distintos"
+          ],
+          "en": 3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 20.3,
+      "fin": 25.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2023: 11,4 M al menos 1 min",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "MEDIA 5,9 M",
+              "valor": 5.9,
+              "color": "#F2B134",
+              "en": -1
+            },
+            {
+              "etiqueta": "≥ 1 MIN 11,4 M",
+              "valor": 11.4,
+              "color": "#14213D",
+              "en": 0.3
+            }
+          ],
+          "max": 16,
+          "paso": 4,
+          "sufijoEje": " M",
+          "y0": 620,
+          "alto": 170,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "≈1,9 veces"
+          ],
+          "en": 3.52,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 25.5,
+      "fin": 28.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Jueves 19-11",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Señal de la Academia de TV",
+          "y": 450,
+          "en": 0.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "2008",
+              "valor": 13,
+              "color": "#14213D",
+              "en": -1
+            },
+            {
+              "etiqueta": "2023",
+              "valor": 5.9,
+              "color": "#F2B134",
+              "en": -1
+            }
+          ],
+          "max": 16,
+          "paso": 4,
+          "sufijoEje": " M",
+          "y0": 800,
+          "alto": 150,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 28.26,
+      "fin": 34.03,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿Lo verás en la tele o en el móvil?",
+          "cta": "siguenos",
+          "tamano": 72,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

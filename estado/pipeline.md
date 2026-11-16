@@ -114,3 +114,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261115-1126-abascal-penas-violadores | Al minuto: Abascal, penas más duras para violadores | publicando (Al minuto horario) |
 | am20261115-1530-abascal-bandera | Al minuto: Abascal responde a Sánchez por la bandera | publicando (Al minuto horario) |
 | am20261115-1730-garriga-jovenes | Al minuto: Garriga (Vox) a los jóvenes, 29-N | publicando (Al minuto horario) |
+| 054 | audiencias-debates | 💡 Curiosidad | Flash | programado | 1 | 1 | 2026-11-17 19:00 (cola) | v1 APROBADO 9/10 |
