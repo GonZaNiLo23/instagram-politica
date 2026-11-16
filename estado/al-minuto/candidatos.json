@@ -1,5 +1,120 @@
 {
- "generado": "2026-11-16T17:29:25.961Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-16T19:30:53.754Z",
+ "total_detectados": 3,
+ "candidatos": [
+  {
+   "id": "ig-17866416351692683",
+   "fuente": "instagram",
+   "cuenta": "@partidopopular",
+   "nombre": "Partido Popular",
+   "espacio": "afin",
+   "seguidores": 258316,
+   "fecha": "2026-11-16T18:01:32+0000",
+   "horas": 1.5,
+   "me_gusta": 5617,
+   "comentarios": 361,
+   "viral": 1647.7,
+   "enlace": "https://www.instagram.com/reel/Dfz8s9nN6WL/",
+   "texto": "Seguimos.",
+   "credito": "Vídeo: @partidopopular",
+   "duracion": 22.1,
+   "archivo": "ig-17866416351692683.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 1.72,
+     "texto": "¡Eso sale! Déjame una galleta."
+    },
+    {
+     "inicio": 2.02,
+     "fin": 2.76,
+     "texto": "¡Dame la zula eh!"
+    },
+    {
+     "inicio": 3.32,
+     "fin": 4.14,
+     "texto": "¡Sí, la zula!"
+    }
+   ],
+   "palabras": [
+    {
+     "t": "¡Eso",
+     "inicio": 0,
+     "fin": 0.3
+    },
+    {
+     "t": "sale!",
+     "inicio": 0.3,
+     "fin": 0.62
+    },
+    {
+     "t": "Déjame",
+     "inicio": 0.88,
+     "fin": 1.18
+    },
+    {
+     "t": "una",
+     "inicio": 1.18,
+     "fin": 1.32
+    },
+    {
+     "t": "galleta.",
+     "inicio": 1.32,
+     "fin": 1.72
+    },
+    {
+     "t": "¡Dame",
+     "inicio": 2.02,
+     "fin": 2.24
+    },
+    {
+     "t": "la",
+     "inicio": 2.24,
+     "fin": 2.44
+    },
+    {
+     "t": "zula",
+     "inicio": 2.44,
+     "fin": 2.7
+    },
+    {
+     "t": "eh!",
+     "inicio": 2.7,
+     "fin": 2.76
+    },
+    {
+     "t": "¡Sí,",
+     "inicio": 3.32,
+     "fin": 3.76
+    },
+    {
+     "t": "la",
+     "inicio": 3.86,
+     "fin": 3.92
+    },
+    {
+     "t": "zula!",
+     "inicio": 3.92,
+     "fin": 4.14
+    }
+   ],
+   "habla": true
+  },
+  {
+   "id": "moncloa-161126-sanchez-presidente-uruguay-orsi",
+   "fuente": "moncloa",
+   "cuenta": "La Moncloa",
+   "espacio": "gobierno",
+   "fecha": "2026-11-16T19:30:53.754Z",
+   "viral": 50,
+   "enlace": "https://www.lamoncloa.gob.es/multimedia/videos/presidente/Paginas/2026/161126-sanchez-presidente-uruguay-orsi.aspx",
+   "texto": "La Moncloa. Pedro Sánchez se reúne con el presidente de la República Oriental del Uruguay, Yamandú Orsi | 16/11/2026 [Vídeos/Presidente]",
+   "credito": "Vídeo: La Moncloa",
+   "duracion": 23.6,
+   "archivo": "moncloa-161126-sanchez-presidente-uruguay-orsi.mp4",
+   "frases": [],
+   "palabras": [],
+   "habla": false
+  }
+ ]
 }
