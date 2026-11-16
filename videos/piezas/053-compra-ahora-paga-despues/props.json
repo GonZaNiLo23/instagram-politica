@@ -1,0 +1,1142 @@
+{
+  "plantilla": "estandar",
+  "duracion": 45.48,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 120,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "¿Pagas en 3 plazos?",
+            "y": 330,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "casillaX",
+            "texto": "1/3",
+            "x": 220,
+            "y": 950,
+            "w": 230,
+            "h": 110,
+            "desde": 0,
+            "en": -1
+          },
+          {
+            "tipo": "casillaX",
+            "texto": "1/3",
+            "x": 520,
+            "y": 950,
+            "w": 230,
+            "h": 110,
+            "desde": 0,
+            "en": -1
+          },
+          {
+            "tipo": "casillaX",
+            "texto": "1/3",
+            "x": 820,
+            "y": 950,
+            "w": 230,
+            "h": 110,
+            "desde": 0,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "Viernes 20-11 · Directiva UE 2023/2225",
+            "y": 620,
+            "en": -1,
+            "tamano": 64
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.98,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿Pagas en 3 plazos?",
+          "y": 330,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "movil",
+          "x": 540,
+          "y": 1030,
+          "tamano": 352,
+          "en": -1,
+          "hasta": 1
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "1/3",
+          "x": 220,
+          "y": 1030,
+          "w": 230,
+          "h": 110,
+          "desde": 0,
+          "en": 1,
+          "hasta": 2.3
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "1/3",
+          "x": 520,
+          "y": 1030,
+          "w": 230,
+          "h": 110,
+          "desde": 0,
+          "en": 1,
+          "hasta": 2.3
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "1/3",
+          "x": 820,
+          "y": 1030,
+          "w": 230,
+          "h": 110,
+          "desde": 0,
+          "en": 1,
+          "hasta": 2.3
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Viernes 20-11 · Directiva UE 2023/2225",
+          "y": 620,
+          "en": 2.4,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 540,
+          "y": 1080,
+          "tamano": 330,
+          "en": 2.4,
+          "mes": "VIE",
+          "dia": "20"
+        }
+      ]
+    },
+    {
+      "inicio": 5.98,
+      "fin": 13.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Compra ahora, paga después = crédito",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Con un prestamista de por medio · cons. 16"
+          ],
+          "en": 0.5,
+          "tamano": 40
+        },
+        {
+          "tipo": "icono",
+          "nombre": "carrito",
+          "x": 200,
+          "y": 1120,
+          "tamano": 220,
+          "en": 0.4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documento",
+          "x": 540,
+          "y": 1120,
+          "tamano": 220,
+          "en": 2.1
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "x": 840,
+          "y": 1120,
+          "tamano": 220,
+          "en": 3.06,
+          "forma": "circulo"
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "CRÉDITO"
+          ],
+          "x": 540,
+          "y": 640,
+          "tamano": 80,
+          "angulo": -5,
+          "en": 4.880000000000001,
+          "desde": 40
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "0 %",
+            "INTERESES"
+          ],
+          "x": 440,
+          "y": 800,
+          "tamano": 56,
+          "angulo": 4,
+          "en": 5.760000000000001,
+          "desde": 40
+        }
+      ]
+    },
+    {
+      "inicio": 13.42,
+      "fin": 19.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Ley española 2011: fuera",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.43
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "UE: dentro (con excepciones)",
+          "y": 330,
+          "en": 4.48,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Menos de 200 €",
+          "y": 520,
+          "en": 0.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 300,
+          "y": 920,
+          "tamano": 242,
+          "en": 0.8,
+          "etiqueta": "ES"
+        },
+        {
+          "tipo": "icono",
+          "nombre": "check",
+          "x": 740,
+          "y": 920,
+          "tamano": 242,
+          "en": 4.48,
+          "etiqueta": "UE"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Ley 16/2011, art. 3.c · Directiva, art. 2"
+          ],
+          "en": 0.2,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 19.9,
+      "fin": 25.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Plazo UE: 20-11-2025",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "España: anteproyecto 7-1-2026",
+          "y": 470,
+          "en": 2.4,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Aún no es ley",
+          "y": 650,
+          "en": 3.9599999999999995,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 160,
+          "y": 880,
+          "tamano": 220,
+          "en": 0.3,
+          "mes": "NOV",
+          "dia": "20",
+          "etiqueta": "2025",
+          "anchoEtiqueta": 280
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documento",
+          "x": 450,
+          "y": 880,
+          "tamano": 220,
+          "en": 2.4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 740,
+          "y": 880,
+          "tamano": 220,
+          "en": 3.9599999999999995,
+          "mes": "NOV",
+          "dia": "20",
+          "etiqueta": "2026",
+          "anchoEtiqueta": 280
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "SIN LEY"
+          ],
+          "x": 450,
+          "y": 1080,
+          "tamano": 84,
+          "angulo": -5,
+          "en": 4.26,
+          "desde": 40
+        }
+      ]
+    },
+    {
+      "inicio": 25.34,
+      "fin": 35.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1 · Evaluar si puedes pagar",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.8699999999999997
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2 · TAE antes de firmar",
+          "y": 330,
+          "en": 3.9199999999999995,
+          "tamano": 64,
+          "hasta": 7.63
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "3 · 14 días para echarte atrás",
+          "y": 330,
+          "en": 7.680000000000001,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Coste total, % anual",
+          "y": 520,
+          "en": 5.5200000000000005,
+          "tamano": 64,
+          "hasta": 7.63
+        },
+        {
+          "tipo": "icono",
+          "nombre": "lupaPlaca",
+          "x": 540,
+          "y": 980,
+          "tamano": 374,
+          "en": 0.3,
+          "hasta": 3.8699999999999997
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "TAE"
+          ],
+          "x": 540,
+          "y": 980,
+          "tamano": 140,
+          "angulo": -4,
+          "en": 4.119999999999999,
+          "desde": 40,
+          "hasta": 7.63
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 540,
+          "y": 980,
+          "tamano": 352,
+          "en": 7.680000000000001,
+          "mes": "DÍAS",
+          "dia": "14"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Directiva, arts. 18, 10 y 26"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 35.5,
+      "fin": 39.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Créditos vigentes el 20-11: en general, fuera",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "oficina",
+          "x": 250,
+          "y": 1080,
+          "tamano": 220,
+          "en": 0.4
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "VIGENTE"
+          ],
+          "x": 400,
+          "y": 860,
+          "tamano": 56,
+          "angulo": -6,
+          "en": 0.9,
+          "desde": 40
+        },
+        {
+          "tipo": "icono",
+          "nombre": "calendario",
+          "x": 800,
+          "y": 1080,
+          "tamano": 220,
+          "en": 0.6,
+          "mes": "NOV",
+          "dia": "20"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Salvo los de duración indefinida, en parte (art. 2.2.l)"
+          ],
+          "en": 0.2,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 39.26,
+      "fin": 41.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Crédito… o solo un pago?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "A",
+          "x": 260,
+          "y": 980,
+          "w": 240,
+          "h": 150,
+          "desde": 0,
+          "en": 0.05
+        },
+        {
+          "tipo": "casillaX",
+          "texto": "B",
+          "x": 700,
+          "y": 980,
+          "w": 240,
+          "h": 150,
+          "desde": 0,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 41.86,
+      "fin": 45.48,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿Crédito… o solo un pago?",
+          "cta": "siguenos",
+          "tamano": 72,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "053-compra-ahora-paga-despues",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "¿Pagas",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "t": "en",
+      "inicio": 0.44,
+      "fin": 0.48
+    },
+    {
+      "t": "tres",
+      "inicio": 0.56,
+      "fin": 0.72
+    },
+    {
+      "t": "plazos?",
+      "inicio": 0.8,
+      "fin": 1.48
+    },
+    {
+      "t": "El",
+      "inicio": 1.68,
+      "fin": 1.76
+    },
+    {
+      "t": "viernes",
+      "inicio": 1.84,
+      "fin": 2.24
+    },
+    {
+      "t": "arranca",
+      "inicio": 2.32,
+      "fin": 2.64
+    },
+    {
+      "t": "la",
+      "inicio": 2.72,
+      "fin": 2.8
+    },
+    {
+      "t": "norma",
+      "inicio": 2.88,
+      "fin": 3.12
+    },
+    {
+      "t": "europea…",
+      "inicio": 3.2,
+      "fin": 4.16
+    },
+    {
+      "t": "España",
+      "inicio": 4.28,
+      "fin": 4.72
+    },
+    {
+      "t": "llega",
+      "inicio": 4.88,
+      "fin": 5.12
+    },
+    {
+      "t": "sin",
+      "inicio": 5.2,
+      "fin": 5.36
+    },
+    {
+      "t": "ley.",
+      "inicio": 5.44,
+      "fin": 5.76
+    },
+    {
+      "t": "«Compra",
+      "inicio": 6.08,
+      "fin": 6.4
+    },
+    {
+      "t": "ahora,",
+      "inicio": 6.48,
+      "fin": 6.88
+    },
+    {
+      "t": "paga",
+      "inicio": 6.96,
+      "fin": 7.2
+    },
+    {
+      "t": "después»,",
+      "inicio": 7.32,
+      "fin": 8
+    },
+    {
+      "t": "con",
+      "inicio": 8.08,
+      "fin": 8.16
+    },
+    {
+      "t": "un",
+      "inicio": 8.2,
+      "fin": 8.24
+    },
+    {
+      "t": "prestamista",
+      "inicio": 8.32,
+      "fin": 8.88
+    },
+    {
+      "t": "de",
+      "inicio": 8.92,
+      "fin": 8.96
+    },
+    {
+      "t": "por",
+      "inicio": 9.04,
+      "fin": 9.12
+    },
+    {
+      "t": "medio.",
+      "inicio": 9.2,
+      "fin": 9.68
+    },
+    {
+      "t": "Para",
+      "inicio": 9.84,
+      "fin": 10
+    },
+    {
+      "t": "esa",
+      "inicio": 10.08,
+      "fin": 10.16
+    },
+    {
+      "t": "norma,",
+      "inicio": 10.24,
+      "fin": 10.72
+    },
+    {
+      "t": "es",
+      "inicio": 10.8,
+      "fin": 10.88
+    },
+    {
+      "t": "un",
+      "inicio": 10.96,
+      "fin": 11.04
+    },
+    {
+      "t": "crédito.",
+      "inicio": 11.12,
+      "fin": 11.6
+    },
+    {
+      "t": "Aunque",
+      "inicio": 11.84,
+      "fin": 12.08
+    },
+    {
+      "t": "no",
+      "inicio": 12.12,
+      "fin": 12.16
+    },
+    {
+      "t": "cobre",
+      "inicio": 12.24,
+      "fin": 12.48
+    },
+    {
+      "t": "intereses.",
+      "inicio": 12.6,
+      "fin": 13.2
+    },
+    {
+      "t": "Hoy,",
+      "inicio": 13.52,
+      "fin": 13.92
+    },
+    {
+      "t": "la",
+      "inicio": 13.96,
+      "fin": 14
+    },
+    {
+      "t": "ley",
+      "inicio": 14.08,
+      "fin": 14.24
+    },
+    {
+      "t": "española",
+      "inicio": 14.32,
+      "fin": 14.72
+    },
+    {
+      "t": "deja",
+      "inicio": 14.8,
+      "fin": 15.04
+    },
+    {
+      "t": "fuera",
+      "inicio": 15.12,
+      "fin": 15.36
+    },
+    {
+      "t": "los",
+      "inicio": 15.44,
+      "fin": 15.52
+    },
+    {
+      "t": "créditos",
+      "inicio": 15.6,
+      "fin": 16.08
+    },
+    {
+      "t": "de",
+      "inicio": 16.12,
+      "fin": 16.16
+    },
+    {
+      "t": "menos",
+      "inicio": 16.24,
+      "fin": 16.48
+    },
+    {
+      "t": "de",
+      "inicio": 16.56,
+      "fin": 16.6
+    },
+    {
+      "t": "doscientos",
+      "inicio": 16.64,
+      "fin": 17.2
+    },
+    {
+      "t": "euros.",
+      "inicio": 17.28,
+      "fin": 17.68
+    },
+    {
+      "t": "La",
+      "inicio": 18,
+      "fin": 18.08
+    },
+    {
+      "t": "directiva",
+      "inicio": 18.24,
+      "fin": 18.56
+    },
+    {
+      "t": "sí",
+      "inicio": 18.8,
+      "fin": 18.96
+    },
+    {
+      "t": "los",
+      "inicio": 19.04,
+      "fin": 19.12
+    },
+    {
+      "t": "incluye.",
+      "inicio": 19.2,
+      "fin": 19.68
+    },
+    {
+      "t": "Debían",
+      "inicio": 20,
+      "fin": 20.32
+    },
+    {
+      "t": "tenerla",
+      "inicio": 20.48,
+      "fin": 20.72
+    },
+    {
+      "t": "lista",
+      "inicio": 20.88,
+      "fin": 21.04
+    },
+    {
+      "t": "hace",
+      "inicio": 21.08,
+      "fin": 21.28
+    },
+    {
+      "t": "casi",
+      "inicio": 21.36,
+      "fin": 21.68
+    },
+    {
+      "t": "un",
+      "inicio": 21.72,
+      "fin": 21.76
+    },
+    {
+      "t": "año.",
+      "inicio": 21.84,
+      "fin": 22.16
+    },
+    {
+      "t": "España",
+      "inicio": 22.4,
+      "fin": 22.88
+    },
+    {
+      "t": "solo",
+      "inicio": 22.92,
+      "fin": 23.12
+    },
+    {
+      "t": "tiene",
+      "inicio": 23.2,
+      "fin": 23.36
+    },
+    {
+      "t": "un",
+      "inicio": 23.4,
+      "fin": 23.44
+    },
+    {
+      "t": "borrador",
+      "inicio": 23.52,
+      "fin": 23.92
+    },
+    {
+      "t": "de",
+      "inicio": 23.96,
+      "fin": 24
+    },
+    {
+      "t": "ley,",
+      "inicio": 24.08,
+      "fin": 24.56
+    },
+    {
+      "t": "de",
+      "inicio": 24.6,
+      "fin": 24.64
+    },
+    {
+      "t": "enero.",
+      "inicio": 24.72,
+      "fin": 25.12
+    },
+    {
+      "t": "¿Qué",
+      "inicio": 25.44,
+      "fin": 25.52
+    },
+    {
+      "t": "exige?",
+      "inicio": 25.6,
+      "fin": 26.24
+    },
+    {
+      "t": "Que",
+      "inicio": 26.4,
+      "fin": 26.48
+    },
+    {
+      "t": "quien",
+      "inicio": 26.52,
+      "fin": 26.64
+    },
+    {
+      "t": "te",
+      "inicio": 26.72,
+      "fin": 26.8
+    },
+    {
+      "t": "presta",
+      "inicio": 26.88,
+      "fin": 27.2
+    },
+    {
+      "t": "evalúe",
+      "inicio": 27.36,
+      "fin": 27.76
+    },
+    {
+      "t": "a",
+      "inicio": 27.8,
+      "fin": 27.84
+    },
+    {
+      "t": "fondo",
+      "inicio": 27.92,
+      "fin": 28.16
+    },
+    {
+      "t": "si",
+      "inicio": 28.24,
+      "fin": 28.32
+    },
+    {
+      "t": "puedes",
+      "inicio": 28.4,
+      "fin": 28.72
+    },
+    {
+      "t": "pagar.",
+      "inicio": 28.8,
+      "fin": 29.24
+    },
+    {
+      "t": "Que",
+      "inicio": 29.36,
+      "fin": 29.44
+    },
+    {
+      "t": "te",
+      "inicio": 29.48,
+      "fin": 29.52
+    },
+    {
+      "t": "dé",
+      "inicio": 29.6,
+      "fin": 29.68
+    },
+    {
+      "t": "antes",
+      "inicio": 29.76,
+      "fin": 30
+    },
+    {
+      "t": "la",
+      "inicio": 30.08,
+      "fin": 30.24
+    },
+    {
+      "t": "TAE:",
+      "inicio": 30.28,
+      "fin": 30.8
+    },
+    {
+      "t": "el",
+      "inicio": 30.84,
+      "fin": 30.88
+    },
+    {
+      "t": "coste",
+      "inicio": 30.96,
+      "fin": 31.24
+    },
+    {
+      "t": "total,",
+      "inicio": 31.28,
+      "fin": 31.76
+    },
+    {
+      "t": "en",
+      "inicio": 31.8,
+      "fin": 31.84
+    },
+    {
+      "t": "porcentaje",
+      "inicio": 31.92,
+      "fin": 32.48
+    },
+    {
+      "t": "anual.",
+      "inicio": 32.56,
+      "fin": 33
+    },
+    {
+      "t": "Y",
+      "inicio": 33.12,
+      "fin": 33.16
+    },
+    {
+      "t": "que",
+      "inicio": 33.2,
+      "fin": 33.28
+    },
+    {
+      "t": "puedas",
+      "inicio": 33.36,
+      "fin": 33.6
+    },
+    {
+      "t": "echarte",
+      "inicio": 33.68,
+      "fin": 34
+    },
+    {
+      "t": "atrás",
+      "inicio": 34.12,
+      "fin": 34.32
+    },
+    {
+      "t": "en",
+      "inicio": 34.4,
+      "fin": 34.48
+    },
+    {
+      "t": "catorce",
+      "inicio": 34.52,
+      "fin": 34.88
+    },
+    {
+      "t": "días.",
+      "inicio": 34.96,
+      "fin": 35.36
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 35.6,
+      "fin": 36.08
+    },
+    {
+      "t": "en",
+      "inicio": 36.16,
+      "fin": 36.24
+    },
+    {
+      "t": "general,",
+      "inicio": 36.32,
+      "fin": 36.88
+    },
+    {
+      "t": "no",
+      "inicio": 36.96,
+      "fin": 37.04
+    },
+    {
+      "t": "afecta",
+      "inicio": 37.12,
+      "fin": 37.48
+    },
+    {
+      "t": "a",
+      "inicio": 37.52,
+      "fin": 37.56
+    },
+    {
+      "t": "los",
+      "inicio": 37.6,
+      "fin": 37.76
+    },
+    {
+      "t": "créditos",
+      "inicio": 37.84,
+      "fin": 38.24
+    },
+    {
+      "t": "ya",
+      "inicio": 38.32,
+      "fin": 38.4
+    },
+    {
+      "t": "vigentes.",
+      "inicio": 38.48,
+      "fin": 39.2
+    },
+    {
+      "t": "¿Pagar",
+      "inicio": 39.36,
+      "fin": 39.6
+    },
+    {
+      "t": "en",
+      "inicio": 39.64,
+      "fin": 39.68
+    },
+    {
+      "t": "tres",
+      "inicio": 39.76,
+      "fin": 39.92
+    },
+    {
+      "t": "plazos",
+      "inicio": 40,
+      "fin": 40.32
+    },
+    {
+      "t": "es",
+      "inicio": 40.4,
+      "fin": 40.48
+    },
+    {
+      "t": "para",
+      "inicio": 40.56,
+      "fin": 40.72
+    },
+    {
+      "t": "ti",
+      "inicio": 40.8,
+      "fin": 40.88
+    },
+    {
+      "t": "un",
+      "inicio": 40.96,
+      "fin": 41.04
+    },
+    {
+      "t": "crédito…",
+      "inicio": 41.12,
+      "fin": 41.92
+    },
+    {
+      "t": "o",
+      "inicio": 41.96,
+      "fin": 42
+    },
+    {
+      "t": "solo",
+      "inicio": 42.08,
+      "fin": 42.32
+    },
+    {
+      "t": "un",
+      "inicio": 42.36,
+      "fin": 42.4
+    },
+    {
+      "t": "pago?",
+      "inicio": 42.48,
+      "fin": 43.12
+    }
+  ]
+}

@@ -77,3 +77,4 @@
 - [049 v2] Vuelta de recolocación de nota: control-N.png (6) + comprobar.mjs + loudnorm bastan; el cierre cierreSerie no lleva pregunta/botones del guion. Sello AMBAS CIERTAS tapa 'UE = 100'. (049, 2026-11-14)
 - [051 v2] Pieza 'flash' barrasHSerie: control-N.png (1, 4, 6) + comprobar.mjs + loudnorm bastan; rótulo de la escena subyacente queda pegado a la etiqueta del gráfico. (051, 2026-11-15)
 - [052] Pieza 'flash' calendarioX: control-N.png (1,2,3,5,6) + comprobar.mjs + loudnorm bastan; sello CERTIFICADO roza la casilla 30; cierre sin '📌 Guárdalo'. (052, 2026-11-15)
+- [053] Pieza 'flash' casillaX: el aviso LECTURA de una casilla de una letra (A/B) es falso positivo si sigue visible hasta fin de escena. Mira que el pie/fuente del guion siga en escenas.json (se omitió "Ley 16/2011, art. 3.c"). control-N.png (6) + comprobar.mjs + loudnorm bastan. (053, 2026-11-16)

@@ -54,3 +54,4 @@
 - [nube, 2026-11-15] Rutina claude.ai: red igual (curl 000). Comprobar, informar y salir. Huecos 16 y 17-11 para produccion.yml.
 - [nube, 2026-11-15] Con red completa, 2 piezas guion→revisión→vídeo→revisión en ~2 h; guionista no mueve archivos (sin Bash): movérselo yo. Buscador-temas útil cuando la serie 8 años se agota.
 - [nube, 2026-11-16] Rutina claude.ai: red igual (curl 000). Comprobar, informar y salir. Huecos 17 y 18-11 para produccion.yml; el checkout llega en HEAD separado: `git checkout main` antes de commit.
+- 2026-11-16: un 529 cortó a guionista y generador; el trabajo en disco estaba completo, reanudar con SendMessage ahorró repetir. Aplicar literales de revisor en la sesión (054) fue más barato que otra vuelta.
