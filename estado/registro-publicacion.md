@@ -115,3 +115,5 @@
 - 2026-11-15T18:01:00.543Z · 050-8-anos-inmigracion-irregular: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-15T18:01:52.496Z · am20261115-1730-garriga-jovenes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DfxYFV0EyNf/
 - 2026-11-15T18:01:55.254Z · am20261115-1730-garriga-jovenes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-16T12:30:51.788Z · 051-ipc-comida v2: PUBLICADA en Instagram https://www.instagram.com/reel/DfzXBQ5IZH0/
+- 2026-11-16T12:30:54.744Z · 051-ipc-comida: TikTok en la bandeja de borradores (falta publicarlo desde la app)
