@@ -285,3 +285,7 @@
 - 2026-11-17 13:30 UTC · 2 · @alviseperez (ataque a candidata SALF en Burgos, 12,9 s) · descartado: sin habla útil (solo «Adiós.»), hecho sin confirmar más que por el propio partido; viral 224,9
 - 2026-11-17 13:30 UTC · 2 · @psoe (poder adquisitivo, 33 s) · descartado: sin habla ni frases; viral 132,5
 - 2026-11-17 13:30 UTC · 2 · @vox_es (Abascal en Lanzarote, 19,7 s) · descartado: transcripción ininteligible, sin tramo limpio; viral 124,8
+- 2026-11-17 15:30 UTC (publicación 16:00 Madrid) · 3 · @vox_es (Abascal en Lanzarote, defensa de fronteras, tramo 100,4–123 s; subtítulos cotejados con la transcripción, «cayucco»→«cayuco»; solo la propuesta de fronteras, sin «invasión» ni acusaciones; opinión atribuida; viral 91,7) · publicado am20261117-1530-abascal-fronteras
+- 2026-11-17 15:30 UTC · 1 · @psoe (Programa, 8,1 s) · descartado: sin habla; viral 930,9
+- 2026-11-17 15:30 UTC · 2 · La Moncloa (rueda de prensa Consejo de Ministros, 600 s) · descartado: 10 min sin tramo claro, un envío por hora
+- 2026-11-17 15:30 UTC · 2 · @vox_es (acto Tenerife, 25 s) · descartado: transcripción mínima, sin frase clara; viral 21,7

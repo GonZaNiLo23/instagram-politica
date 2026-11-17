@@ -1,0 +1,81 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 26.1,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 22.6,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 22.6,
+     "fundidoFin": 22.6
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL: LAS FRONTERAS SE PUEDEN DEFENDER",
+     "fecha": "17 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.1,
+       "fin": 2.8,
+       "texto": "Es cuestión de voluntad política."
+      },
+      {
+       "inicio": 3.28,
+       "fin": 7.9,
+       "texto": "Las fronteras terrestres y las fronteras\nmarítimas se pueden defender."
+      },
+      {
+       "inicio": 8.34,
+       "fin": 10.7,
+       "texto": "Ningún cayuco entró en La Mareta\neste verano."
+      },
+      {
+       "inicio": 12.12,
+       "fin": 16.5,
+       "texto": "Las fronteras se pueden defender\nsi se quieren defender"
+      },
+      {
+       "inicio": 16.5,
+       "fin": 18.9,
+       "texto": "y hay que proteger todas las costas,"
+      },
+      {
+       "inicio": 18.9,
+       "fin": 22.5,
+       "texto": "no solo aquellas en las que veranea\nel presidente del Gobierno."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 22.6,
+   "fin": 26.1,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal pide defender todas las costas",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}
