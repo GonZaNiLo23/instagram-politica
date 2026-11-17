@@ -122,3 +122,5 @@
 - 2026-11-17T12:30:49.477Z · 053-compra-ahora-paga-despues: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-17T14:00:50.659Z · am20261117-1330-alvise-vivienda v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df2GGv1gBaO/
 - 2026-11-17T14:00:54.407Z · am20261117-1330-alvise-vivienda: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-17T16:00:43.224Z · am20261117-1530-abascal-fronteras v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df2T1ekjvxA/
+- 2026-11-17T16:00:46.753Z · am20261117-1530-abascal-fronteras: TikTok en la bandeja de borradores (falta publicarlo desde la app)
