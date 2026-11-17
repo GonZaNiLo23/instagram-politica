@@ -280,3 +280,8 @@
 - 2026-11-17 11:30 UTC · 2 · @sanchezcastejon (subida de salario a 5 millones de trabajadores, 33 s) · descartado: sin habla ni frases (solo música/texto); viral 83,9
 - 2026-11-17 11:30 UTC · 2 · @santi_abascal (Tenerife, 533 s) · descartado: sin frases, vídeo larguísimo, sin tramo limpio; viral 117,8
 - 2026-11-17 11:30 UTC · 1 · @santi_abascal (gracias Santa Cruz, 34 s) · descartado: sin habla (error de transcripción); viral 0,1. Sin publicación.
+- 2026-11-17 13:30 UTC (publicación 14:00 Madrid) · 3 · @alviseperez (propuesta de cero impuestos en la primera vivienda, tramo 40,4–64,6 s; subtítulos cotejados con la transcripción, «plaz»→«plazo»; solo la propuesta, sin la acusación a la portavoz del PSOE; cifras atribuidas a Alvise; viral 52,9) · publicado am20261117-1330-alvise-vivienda
+- 2026-11-17 13:30 UTC · 3 · @vox_es (mujeres y Gobierno, 76 s) · descartado: atribuye asesinato a nacionalidad/religión y «importar violadores», tono estigmatizante sin tramo limpio; viral 24,9
+- 2026-11-17 13:30 UTC · 2 · @alviseperez (ataque a candidata SALF en Burgos, 12,9 s) · descartado: sin habla útil (solo «Adiós.»), hecho sin confirmar más que por el propio partido; viral 224,9
+- 2026-11-17 13:30 UTC · 2 · @psoe (poder adquisitivo, 33 s) · descartado: sin habla ni frases; viral 132,5
+- 2026-11-17 13:30 UTC · 2 · @vox_es (Abascal en Lanzarote, 19,7 s) · descartado: transcripción ininteligible, sin tramo limpio; viral 124,8

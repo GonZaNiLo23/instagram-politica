@@ -117,3 +117,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 054 | audiencias-debates | 💡 Curiosidad | Flash | programado | 1 | 1 | 2026-11-17 19:00 (cola) | v1 APROBADO 9/10 |
 | 053 | compra-ahora-paga-despues | 💶 Economía · Cómo funciona | Estándar | programado | 1 | 1 | 2026-11-17 13:30 (cola) | v2 APROBADO 9/10 |
 | 055 | encuestas-prohibidas | ⚙️ Cómo funciona | Flash | programado | 1 | 2 | 2026-11-18 19:00 (cola) | v2 APROBADO 9/10 |
+| am20261117-1330-alvise-vivienda | Al minuto · propuesta Alvise vivienda | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-17 14:00 | autocomprobación |
