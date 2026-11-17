@@ -289,3 +289,4 @@
 - 2026-11-17 15:30 UTC · 1 · @psoe (Programa, 8,1 s) · descartado: sin habla; viral 930,9
 - 2026-11-17 15:30 UTC · 2 · La Moncloa (rueda de prensa Consejo de Ministros, 600 s) · descartado: 10 min sin tramo claro, un envío por hora
 - 2026-11-17 15:30 UTC · 2 · @vox_es (acto Tenerife, 25 s) · descartado: transcripción mínima, sin frase clara; viral 21,7
+- 2026-11-17 17:30 UTC (publicación 18:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
