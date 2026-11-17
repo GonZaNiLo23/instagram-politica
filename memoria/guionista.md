@@ -84,4 +84,6 @@
 
 - [debates 2026, Academia de TV] Nota primaria del 13-11 abre con WebFetch: academiatv.es/la-academia-de-television-punto-de-encuentro-para-los-debates-electorales-2026/ (bloques literales, sorteo, señal; sin hora ni cadenas). Hora 22:00 y cadenas: Infobae/EFE y eldiario.es Vertele (EP) del 16-11. WebSearch con allowed_domains ["academiatv.es"] la encuentra; rtve.es no se admite. (045, 2026-11-17)
 
+- [LOREG, encuestas] boe.es/buscar/act.php?id=BOE-A-1985-11672: art. 69.1 y 69.7 en offset 100000; art. 145 (delitos en materia de encuestas: prisión 3 m–1 año) y 153.2 (multa 3.000–30.000 €, Junta Electoral) en offset 230000. Pide fragmentos cortos por artículo. (055, 2026-11-17)
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)
