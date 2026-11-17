@@ -273,3 +273,4 @@
 - 2026-11-16 17:30 UTC (publicación 18:00 Madrid): sin candidatos (radar devolvió 0 detectados). Sin publicación.
 - 2026-11-16 19:30 UTC (publicación 20:00 Madrid) · 2 · @partidopopular («Seguimos.», 22,1 s, habla de 4 s: «Dame la zula») · descartado: humor sin hecho noticioso ni frase política, sin tramo de 15–40 s con habla; viral 1647,7
 - 2026-11-16 19:30 UTC · 1 · La Moncloa (Sánchez con Orsi, Uruguay, 23,6 s) · descartado: sin habla ni frases. Sin publicación.
+- 2026-11-17 07:3x UTC (publicación 08:00): sin candidatos (radar devolvió 0 detectados); sin publicación.
