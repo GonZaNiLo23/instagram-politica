@@ -44,3 +44,4 @@
 - 2026-11-15T11:34:24Z · am20261115-1126-abascal-penas-violadores v1 · OK · ffprobe: h264 1080x1920 @30/1 · 20.00 s (objetivo 19.9 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-15T15:36:01Z · am20261115-1530-abascal-bandera v1 · OK · ffprobe: h264 1080x1920 @30/1 · 33.70 s (objetivo 33.64 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-15T17:35:10Z · am20261115-1730-garriga-jovenes v1 · OK · ffprobe: h264 1080x1920 @30/1 · 31.30 s (objetivo 31.12 s) -> OK Volumen integrado: -14.7 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-17T13:37:54Z · am20261117-1330-alvise-vivienda v1 · OK · ffprobe: h264 1080x1920 @30/1 · 27.80 s (objetivo 27.7 s) -> OK Volumen integrado: -14.5 LUFS (objetivo -14; con voz provisional en silencio no aplica) 

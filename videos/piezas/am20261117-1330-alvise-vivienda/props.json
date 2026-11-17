@@ -1,0 +1,106 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 27.7,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 24.2,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 24.2,
+          "fundidoFin": 24.2
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ALVISE PROPONE CERO IMPUESTOS EN LA PRIMERA VIVIENDA",
+          "fecha": "17 NOV",
+          "credito": "Vídeo: @alviseperez"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 1.6,
+              "texto": "La primera medida,"
+            },
+            {
+              "inicio": 1.6,
+              "fin": 3.2,
+              "texto": "los impuestos a la primera vivienda"
+            },
+            {
+              "inicio": 3.2,
+              "fin": 5.8,
+              "texto": "de todo español, que no tenga una, sea del 100%."
+            },
+            {
+              "inicio": 5.8,
+              "fin": 8.3,
+              "texto": "Cero IVA, cero impuestos de transmisiones,"
+            },
+            {
+              "inicio": 8.4,
+              "fin": 10.3,
+              "texto": "cero actos jurídicos documentados,"
+            },
+            {
+              "inicio": 10.3,
+              "fin": 11.6,
+              "texto": "que la licencia en plazo y el suelo público"
+            },
+            {
+              "inicio": 11.6,
+              "fin": 15,
+              "texto": "sin coste haga que un piso de 300.000 euros"
+            },
+            {
+              "inicio": 15,
+              "fin": 17.9,
+              "texto": "pase a costar aproximadamente 195.000."
+            },
+            {
+              "inicio": 18.2,
+              "fin": 21.3,
+              "texto": "Son 105.000 euros menos y no lo estamos regalando a nadie."
+            },
+            {
+              "inicio": 21.9,
+              "fin": 24.2,
+              "texto": "Estamos sencillamente dejando de cobrárselo al pueblo español."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 24.2,
+      "fin": 27.7,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Propuesta de Alvise para abaratar la vivienda",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261117-1330-alvise-vivienda",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
