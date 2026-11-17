@@ -1,0 +1,420 @@
+{
+  "plantilla": "flash",
+  "duracion": 36.91,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "CINCO DÍAS",
+            "y": 330,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "SIN ENCUESTAS",
+            "y": 490,
+            "tamano": 100,
+            "en": -1
+          },
+          {
+            "tipo": "calendarioX",
+            "mes": "NOVIEMBRE",
+            "primer": 6,
+            "dias": 30,
+            "y": 600,
+            "cw": 98,
+            "ch": 56,
+            "grises": [
+              24,
+              25,
+              26,
+              27,
+              28
+            ],
+            "aro": {
+              "d": 23,
+              "en": -1
+            },
+            "en": -1
+          },
+          {
+            "tipo": "selloTexto",
+            "lineas": [
+              "PROHIBIDO",
+              "PUBLICAR"
+            ],
+            "x": 430,
+            "y": 1140,
+            "tamano": 80,
+            "angulo": -8,
+            "en": -1,
+            "desde": 0
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 6.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "PUBLICAR ENCUESTAS: ILEGAL 5 DÍAS",
+          "y": 330,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "barrasE",
+          "x0": 120,
+          "col": 0,
+          "escala": 7,
+          "alto": 75,
+          "eje": true,
+          "filas": [
+            {
+              "etiqueta": "",
+              "valor": 90,
+              "texto": "",
+              "y": 740,
+              "en": 0.05,
+              "dur": 0.5
+            },
+            {
+              "etiqueta": "",
+              "valor": 60,
+              "texto": "",
+              "y": 830,
+              "en": 0.15,
+              "dur": 0.5
+            },
+            {
+              "etiqueta": "",
+              "valor": 40,
+              "texto": "",
+              "y": 920,
+              "en": 0.25,
+              "dur": 0.5
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "PROHIBIDO",
+            "PUBLICAR"
+          ],
+          "x": 520,
+          "y": 900,
+          "tamano": 68,
+          "angulo": -8,
+          "en": 1,
+          "desde": 40
+        },
+        {
+          "tipo": "candadoMostaza",
+          "x": 830,
+          "y": 930,
+          "tamano": 150,
+          "en": 2
+        },
+        {
+          "tipo": "candadoMostaza",
+          "x": 830,
+          "y": 770,
+          "tamano": 150,
+          "en": 4.0600000000000005
+        }
+      ]
+    },
+    {
+      "inicio": 6.22,
+      "fin": 12.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ART. 69.7 LOREG",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "dib",
+          "nombre": "lista",
+          "x": 280,
+          "y": 930,
+          "tamano": 300,
+          "en": 0.3
+        },
+        {
+          "tipo": "dib",
+          "nombre": "portatil",
+          "x": 740,
+          "y": 930,
+          "tamano": 280,
+          "en": 0.6799999999999999
+        },
+        {
+          "tipo": "candadoMostaza",
+          "x": 740,
+          "y": 1140,
+          "tamano": 150,
+          "en": 2.46
+        },
+        {
+          "tipo": "candadoMostaza",
+          "x": 280,
+          "y": 1140,
+          "tamano": 150,
+          "en": 4.26
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "«queda prohibida la publicación […] de sondeos",
+            "electorales por cualquier medio de comunicación»"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 12.66,
+      "fin": 19.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "24–28 NOV: PROHIBIDO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "LUNES 23: ÚLTIMO DÍA",
+          "y": 430,
+          "en": 3.7199999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "VOTACIÓN: DOMINGO 29",
+          "y": 530,
+          "en": 5.2,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "NOVIEMBRE",
+          "primer": 6,
+          "dias": 30,
+          "y": 700,
+          "x": 500,
+          "cw": 110,
+          "ch": 120,
+          "fuente": 52,
+          "diaMin": 16,
+          "diaMax": 29,
+          "aroPad": 0,
+          "grises": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "aro": {
+            "d": 23,
+            "en": 0.7
+          },
+          "en": 0.3,
+          "hasta": 5.3999999999999995
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "NOVIEMBRE",
+          "primer": 6,
+          "dias": 30,
+          "y": 700,
+          "x": 500,
+          "cw": 110,
+          "ch": 120,
+          "fuente": 52,
+          "diaMin": 16,
+          "diaMax": 29,
+          "aroPad": 0,
+          "grises": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "aro": {
+            "d": 29,
+            "en": 5.6000000000000005
+          },
+          "en": 5.2
+        }
+      ]
+    },
+    {
+      "inicio": 19.38,
+      "fin": 26.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PROHIBIDO: PUBLICAR. NO: HACERLAS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.23
+        },
+        {
+          "tipo": "dib",
+          "nombre": "portatil",
+          "x": 270,
+          "y": 880,
+          "tamano": 260,
+          "en": 0.3,
+          "hasta": 3.23
+        },
+        {
+          "tipo": "candadoMostaza",
+          "x": 270,
+          "y": 1090,
+          "tamano": 150,
+          "en": 0.86,
+          "hasta": 3.23
+        },
+        {
+          "tipo": "dib",
+          "nombre": "lista",
+          "x": 700,
+          "y": 880,
+          "tamano": 280,
+          "en": 1.84,
+          "hasta": 3.23
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MULTA: 3.000–30.000 €",
+          "y": 330,
+          "en": 3.28,
+          "tamano": 64
+        },
+        {
+          "tipo": "balanzaE",
+          "x": 540,
+          "y": 880,
+          "baja": "der",
+          "izq": "3.000 €",
+          "der": "30.000 €",
+          "inclinaEn": 5.18,
+          "en": 3.28
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Art. 153.2",
+            "Fuente: BOE"
+          ],
+          "en": 3.38
+        }
+      ]
+    },
+    {
+      "inicio": 26.66,
+      "fin": 29.95,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "QUIÉN LA HACE, QUIÉN LA ENCARGA, PREGUNTAS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "lupaFichaE",
+          "y": 820,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Art. 69.1"
+          ],
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 29.95,
+      "fin": 32.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿PROTEGE O QUITA INFORMACIÓN?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "Protege al votante",
+          "y": 570,
+          "alto": 270,
+          "ancho": 880,
+          "en": 0.3,
+          "entra": "izq"
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "Quita información",
+          "y": 880,
+          "alto": 270,
+          "ancho": 880,
+          "en": 1.25,
+          "entra": "abajo"
+        }
+      ]
+    },
+    {
+      "inicio": 32.74,
+      "fin": 36.91,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿PROTEGE O QUITA INFORMACIÓN?",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

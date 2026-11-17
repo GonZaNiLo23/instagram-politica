@@ -116,3 +116,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261115-1730-garriga-jovenes | Al minuto: Garriga (Vox) a los jóvenes, 29-N | publicando (Al minuto horario) |
 | 054 | audiencias-debates | 💡 Curiosidad | Flash | programado | 1 | 1 | 2026-11-17 19:00 (cola) | v1 APROBADO 9/10 |
 | 053 | compra-ahora-paga-despues | 💶 Economía · Cómo funciona | Estándar | programado | 1 | 1 | 2026-11-17 13:30 (cola) | v2 APROBADO 9/10 |
+| 055 | encuestas-prohibidas | ⚙️ Cómo funciona | Flash | programado | 1 | 2 | 2026-11-18 19:00 (cola) | v2 APROBADO 9/10 |

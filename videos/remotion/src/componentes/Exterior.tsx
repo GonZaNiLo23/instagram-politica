@@ -240,17 +240,18 @@ type Relleno = {d0: number; d1: number; en: number; paso?: number};
  */
 export const CalendarioX: React.FC<{
   mes: string; primer: number; dias: number; x?: number; y?: number; cw?: number; ch?: number;
-  rellenos?: Relleno[]; grises?: number[]; aro?: {d: number; en: number}; en?: number; hasta?: number;
-}> = ({mes, primer, dias, x = 540, y = 520, cw = 98, ch = 62, rellenos = [], grises = [], aro, en = 0, hasta}) => {
+  rellenos?: Relleno[]; grises?: number[]; aro?: {d: number; en: number}; en?: number; hasta?: number; fuente?: number; diaMin?: number; diaMax?: number; aroPad?: number;
+}> = ({mes, primer, dias, x = 540, y = 520, cw = 98, ch = 62, rellenos = [], grises = [], aro, en = 0, hasta, fuente = 36, diaMin = 1, diaMax, aroPad = 14}) => {
   const f = useCurrentFrame();
   const {fps} = useVideoConfig();
   const t = f / fps;
   const left = x - (7 * cw) / 2;
   const cel: React.ReactNode[] = [];
   const colDe = (d: number) => (primer + d - 1) % 7;
-  const filaDe = (d: number) => Math.floor((primer + d - 1) / 7);
+  const fila0 = Math.floor((primer + diaMin - 1) / 7);
+  const filaDe = (d: number) => Math.floor((primer + d - 1) / 7) - fila0;
   const top0 = y + 130;
-  for (let d = 1; d <= dias; d++) {
+  for (let d = diaMin; d <= (diaMax ?? dias); d++) {
     const cx = left + colDe(d) * cw + cw / 2, cy = top0 + filaDe(d) * ch + ch / 2;
     let fill: string = C.crema;
     let txt: string = T;
@@ -260,7 +261,7 @@ export const CalendarioX: React.FC<{
     cel.push(
       <g key={d}>
         <rect x={cx - cw / 2 + 3} y={cy - ch / 2 + 3} width={cw - 6} height={ch - 6} rx={10} fill={fill} stroke={T} strokeWidth={3} />
-        <text x={cx} y={cy + 13} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={36} fill={txt}>{d}</text>
+        <text x={cx} y={cy + fuente * 0.36} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={fuente} fill={txt}>{d}</text>
       </g>,
     );
   }
@@ -269,7 +270,7 @@ export const CalendarioX: React.FC<{
     const cx = left + colDe(aro.d) * cw + cw / 2, cy = top0 + filaDe(aro.d) * ch + ch / 2;
     const a = easeIO(cl((t - aro.en) / 0.3));
     const pul = 1 + 0.08 * Math.sin((t - aro.en) * 7);
-    aroEl = <ellipse cx={cx} cy={cy} rx={(cw / 2 + 14) * (2 - a) * pul} ry={(ch / 2 + 14) * (2 - a) * pul} fill="none" stroke={C.mostaza} strokeWidth={10} opacity={a} />;
+    aroEl = <ellipse cx={cx} cy={cy} rx={(cw / 2 + aroPad) * (2 - a) * pul} ry={(ch / 2 + aroPad) * (2 - a) * pul} fill="none" stroke={C.mostaza} strokeWidth={10} opacity={a} />;
   }
   return (
     <Capa en={en} hasta={hasta}>

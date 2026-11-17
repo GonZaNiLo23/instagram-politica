@@ -1,0 +1,423 @@
+{
+  "palabras": [
+    {
+      "t": "Antes",
+      "inicio": 0,
+      "fin": 0.32
+    },
+    {
+      "t": "de",
+      "inicio": 0.36,
+      "fin": 0.4
+    },
+    {
+      "t": "votar,",
+      "inicio": 0.44,
+      "fin": 1.04
+    },
+    {
+      "t": "publicar",
+      "inicio": 1.2,
+      "fin": 1.44
+    },
+    {
+      "t": "una",
+      "inicio": 1.52,
+      "fin": 1.6
+    },
+    {
+      "t": "encuesta",
+      "inicio": 1.68,
+      "fin": 2.16
+    },
+    {
+      "t": "es",
+      "inicio": 2.28,
+      "fin": 2.4
+    },
+    {
+      "t": "ilegal.",
+      "inicio": 2.52,
+      "fin": 3.16
+    },
+    {
+      "t": "Cinco",
+      "inicio": 3.36,
+      "fin": 3.68
+    },
+    {
+      "t": "días",
+      "inicio": 3.76,
+      "fin": 4.08
+    },
+    {
+      "t": "sin",
+      "inicio": 4.16,
+      "fin": 4.24
+    },
+    {
+      "t": "sondeos.",
+      "inicio": 4.32,
+      "fin": 5.04
+    },
+    {
+      "t": "¿Te",
+      "inicio": 5.2,
+      "fin": 5.28
+    },
+    {
+      "t": "protege?",
+      "inicio": 5.36,
+      "fin": 6.04
+    },
+    {
+      "t": "La",
+      "inicio": 6.32,
+      "fin": 6.4
+    },
+    {
+      "t": "ley",
+      "inicio": 6.48,
+      "fin": 6.56
+    },
+    {
+      "t": "electoral",
+      "inicio": 6.64,
+      "fin": 7.12
+    },
+    {
+      "t": "prohíbe",
+      "inicio": 7.2,
+      "fin": 7.6
+    },
+    {
+      "t": "publicarlos,",
+      "inicio": 7.68,
+      "fin": 8.56
+    },
+    {
+      "t": "difundirlos",
+      "inicio": 8.68,
+      "fin": 9.36
+    },
+    {
+      "t": "o",
+      "inicio": 9.44,
+      "fin": 9.52
+    },
+    {
+      "t": "reproducirlos",
+      "inicio": 9.6,
+      "fin": 10.4
+    },
+    {
+      "t": "en",
+      "inicio": 10.48,
+      "fin": 10.56
+    },
+    {
+      "t": "cualquier",
+      "inicio": 10.64,
+      "fin": 11.04
+    },
+    {
+      "t": "medio",
+      "inicio": 11.12,
+      "fin": 11.36
+    },
+    {
+      "t": "de",
+      "inicio": 11.44,
+      "fin": 11.52
+    },
+    {
+      "t": "comunicación.",
+      "inicio": 11.6,
+      "fin": 12.64
+    },
+    {
+      "t": "Este",
+      "inicio": 12.76,
+      "fin": 12.88
+    },
+    {
+      "t": "año,",
+      "inicio": 12.96,
+      "fin": 13.36
+    },
+    {
+      "t": "del",
+      "inicio": 13.44,
+      "fin": 13.52
+    },
+    {
+      "t": "martes",
+      "inicio": 13.6,
+      "fin": 13.92
+    },
+    {
+      "t": "veinticuatro",
+      "inicio": 14,
+      "fin": 14.56
+    },
+    {
+      "t": "al",
+      "inicio": 14.8,
+      "fin": 14.96
+    },
+    {
+      "t": "sábado",
+      "inicio": 15.04,
+      "fin": 15.36
+    },
+    {
+      "t": "veintiocho.",
+      "inicio": 15.4,
+      "fin": 16.4
+    },
+    {
+      "t": "Las",
+      "inicio": 16.48,
+      "fin": 16.64
+    },
+    {
+      "t": "últimas",
+      "inicio": 16.68,
+      "fin": 17.04
+    },
+    {
+      "t": "se",
+      "inicio": 17.12,
+      "fin": 17.2
+    },
+    {
+      "t": "pueden",
+      "inicio": 17.28,
+      "fin": 17.44
+    },
+    {
+      "t": "publicar",
+      "inicio": 17.52,
+      "fin": 17.92
+    },
+    {
+      "t": "el",
+      "inicio": 17.96,
+      "fin": 18
+    },
+    {
+      "t": "lunes",
+      "inicio": 18.08,
+      "fin": 18.32
+    },
+    {
+      "t": "veintitrés.",
+      "inicio": 18.4,
+      "fin": 19.44
+    },
+    {
+      "t": "La",
+      "inicio": 19.48,
+      "fin": 19.52
+    },
+    {
+      "t": "ley",
+      "inicio": 19.6,
+      "fin": 19.76
+    },
+    {
+      "t": "habla",
+      "inicio": 19.84,
+      "fin": 20
+    },
+    {
+      "t": "de",
+      "inicio": 20.04,
+      "fin": 20.08
+    },
+    {
+      "t": "publicar,",
+      "inicio": 20.24,
+      "fin": 21.04
+    },
+    {
+      "t": "no",
+      "inicio": 21.12,
+      "fin": 21.28
+    },
+    {
+      "t": "de",
+      "inicio": 21.36,
+      "fin": 21.44
+    },
+    {
+      "t": "hacer",
+      "inicio": 21.52,
+      "fin": 21.68
+    },
+    {
+      "t": "encuestas.",
+      "inicio": 21.76,
+      "fin": 22.64
+    },
+    {
+      "t": "Incumplirla",
+      "inicio": 22.76,
+      "fin": 23.36
+    },
+    {
+      "t": "puede",
+      "inicio": 23.4,
+      "fin": 23.6
+    },
+    {
+      "t": "costar",
+      "inicio": 23.72,
+      "fin": 23.92
+    },
+    {
+      "t": "multas",
+      "inicio": 24,
+      "fin": 24.32
+    },
+    {
+      "t": "de",
+      "inicio": 24.4,
+      "fin": 24.48
+    },
+    {
+      "t": "tres",
+      "inicio": 24.56,
+      "fin": 24.72
+    },
+    {
+      "t": "mil",
+      "inicio": 24.88,
+      "fin": 24.96
+    },
+    {
+      "t": "a",
+      "inicio": 25.2,
+      "fin": 25.36
+    },
+    {
+      "t": "treinta",
+      "inicio": 25.44,
+      "fin": 25.76
+    },
+    {
+      "t": "mil",
+      "inicio": 25.84,
+      "fin": 26
+    },
+    {
+      "t": "euros.",
+      "inicio": 26.04,
+      "fin": 26.72
+    },
+    {
+      "t": "Y",
+      "inicio": 26.76,
+      "fin": 26.8
+    },
+    {
+      "t": "toda",
+      "inicio": 26.88,
+      "fin": 27.04
+    },
+    {
+      "t": "encuesta",
+      "inicio": 27.12,
+      "fin": 27.44
+    },
+    {
+      "t": "publicada",
+      "inicio": 27.52,
+      "fin": 28.08
+    },
+    {
+      "t": "debe",
+      "inicio": 28.12,
+      "fin": 28.32
+    },
+    {
+      "t": "llevar",
+      "inicio": 28.4,
+      "fin": 28.64
+    },
+    {
+      "t": "su",
+      "inicio": 28.72,
+      "fin": 28.8
+    },
+    {
+      "t": "ficha",
+      "inicio": 28.88,
+      "fin": 29.12
+    },
+    {
+      "t": "técnica.",
+      "inicio": 29.2,
+      "fin": 30
+    },
+    {
+      "t": "¿Protege",
+      "inicio": 30.053,
+      "fin": 30.4
+    },
+    {
+      "t": "al",
+      "inicio": 30.44,
+      "fin": 30.48
+    },
+    {
+      "t": "votante",
+      "inicio": 30.52,
+      "fin": 31.04
+    },
+    {
+      "t": "o",
+      "inicio": 31.2,
+      "fin": 31.28
+    },
+    {
+      "t": "le",
+      "inicio": 31.32,
+      "fin": 31.36
+    },
+    {
+      "t": "quita",
+      "inicio": 31.44,
+      "fin": 31.68
+    },
+    {
+      "t": "información?",
+      "inicio": 31.84,
+      "fin": 32.8
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 32.84,
+      "fin": 33.28
+    },
+    {
+      "t": "para",
+      "inicio": 33.36,
+      "fin": 33.52
+    },
+    {
+      "t": "estar",
+      "inicio": 33.64,
+      "fin": 33.76
+    },
+    {
+      "t": "informado.",
+      "inicio": 33.84,
+      "fin": 34.56
+    }
+  ],
+  "duracion": 34.507755,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

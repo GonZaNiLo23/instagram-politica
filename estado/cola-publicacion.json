@@ -681,5 +681,12 @@
     "hora": "2026-11-17T13:30:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/053-compra-ahora-paga-despues-v1.md CAMBIOS aplicados · revisiones/videos/053-compra-ahora-paga-despues-v2.md APROBADO test 9/10",
     "estado": "pendiente"
+  },
+  {
+    "pieza": "055-encuestas-prohibidas",
+    "version": "v2",
+    "hora": "2026-11-18T19:00:00+01:00",
+    "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/055-encuestas-prohibidas-v1.md CAMBIOS aplicados · revisiones/videos/055-encuestas-prohibidas-v2.md APROBADO test 9/10",
+    "estado": "pendiente"
   }
 ]
