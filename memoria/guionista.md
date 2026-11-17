@@ -82,4 +82,6 @@
 
 - [audiencias debates] La nota de EFE (vía ultimahora.es/noticias/elecciones-23j/2023/07/11/1973813/…) trae la tabla Barlovento/Kantar 1993–2023 con cadenas y minuto de oro (2023: 11,4 M); abre con WebFetch. 2008: 20 cadenas (Reason Why) frente a 22 (EFE); 2011: 12,5 (EFE) frente a 12,005 M. (054, 2026-11-16)
 
+- [debates 2026, Academia de TV] Nota primaria del 13-11 abre con WebFetch: academiatv.es/la-academia-de-television-punto-de-encuentro-para-los-debates-electorales-2026/ (bloques literales, sorteo, señal; sin hora ni cadenas). Hora 22:00 y cadenas: Infobae/EFE y eldiario.es Vertele (EP) del 16-11. WebSearch con allowed_domains ["academiatv.es"] la encuentra; rtve.es no se admite. (045, 2026-11-17)
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)

@@ -6,7 +6,7 @@ Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 1. **Superlativos**: "el mayor", "récord", "el único"… solo con fuente oficial y cifra; si no, describe sin ranking. Antes de "nunca", "sin usarse" o "primera vez", busca precedentes parciales (procedimientos iniciados y no terminados) y elige el verbo exacto ("sin aplicarse").
 2. **Sin adjetivos valorativos** (débil, histórico, caótico) en voz, rótulos, cierre, portada, post ni hashtags: solo descripciones comprobables.
 3. **Fotos**: lee la ficha y mira la imagen. Sin banderas ni siglas de partido en fotos genéricas (tampoco papeletas con logos en los bordes: indica el recorte, por encima de logos y nombres y con el píxel; el desenfoque no basta si quedan junto al encuadre), sin caras de particulares, sin marcas, nunca de cuentas de partidos; "Imagen de archivo" también en la portada. En un bloque de posturas, todas con retrato o todas con icono.
-4. **Comprobaciones pendientes**: la versión principal es siempre la ya verificada; la que depende de comprobar algo va como opcional, con la condición escrita.
+4. **Comprobaciones pendientes**: la versión principal es siempre la ya verificada; la que depende de comprobar algo va como opcional, con la condición escrita. Un `[VERIFICAR]` nunca puede sostener el gancho ni una cifra de la voz ("seis cadenas" con dos sin confirmar → "cualquiera puede emitirlo"); en listas de quién emite o quién asiste, solo los confirmados por la parte o por dos fuentes de nivel 2 (2 ocurrencias: 005, 045).
 5. **Datos y mitos**: define qué afirmación es mito y cuál dato; cada sello solo sobre lo refutado o probado; clasifica cada caso (probado, presunto, incidente, delito común).
 6. **Fechas futuras**: no apoyes gancho ni giro en una fecha no convocada oficialmente; usa el hecho firme (plazo legal) y la fecha de prensa como secundaria, "según la prensa". Lo que depende de que alguien apruebe algo (decreto, convalidación, Gobierno en funciones) no va en futuro afirmativo: "la ley manda" ≠ "subirá en enero"; busca el precedente (031). Mejor un cálculo propio con datos oficiales que una estimación de prensa. Antes de "según la prensa", abre congreso.es/es/sesiones-de-la-diputacion-permanente o la agenda: si ya está convocada, va como hecho, con el orden del día como fuente; con decretos-leyes, "convalidar", no "ratificar" (040).
 7. **Instituciones y estudios**: recoge también lo que la fuente reconoce a favor, respeta sus condiciones y lee el resumen completo. Si comparas territorios con datos que agrega un ministerio (listas de espera, etc.), copia el aviso de la fuente sobre cómo cuenta cada uno ("cada comunidad aplica sus criterios de cómputo") en un rótulo y en el post, sin parafrasearlo a la baja (036).
@@ -38,6 +38,12 @@ Léelo antes de escribir cada guion. Las reglas más recientes van arriba.
 (Ya incorporadas a la guía de estilo y la plantilla, ver Histórico: recuento real de palabras y tiempos por bloque, frases de ≤ 15 palabras, dato vivo con "a fecha de" y fuentes concretas con fecha, campo Portada.)
 
 ## Reglas activas
+
+### 2026-11-17 · 045-debates-academia-tv (v1) · revisor-guion
+- Ocurrencias: +1 regla 4 (005, 045)
+- Problema: El gancho ("Pero seis lo emitirán") y la lista de cadenas de la voz se apoyaban en un dato marcado como [VERIFICAR]: Telecinco y Cuatro solo tenían especiales confirmados (EFE) y Mediaset no había confirmado la emisión (RTVE vía El Debate). El recambio iba solo como nota de "si cambian".
+- Regla para el futuro: lo pendiente de comprobar no entra en el gancho ni en la voz principal. En listas (cadenas que emiten, asistentes, firmantes), la principal lleva solo lo confirmado por la parte o por dos fuentes de nivel 2, y la ampliación va como opcional con su condición.
+- Ejemplo: "Pero seis lo emitirán" → "Pero cualquiera puede emitirlo" + "La 1, Antena 3 y laSexta ya lo han anunciado".
 
 ### 2026-11-16 · 053-compra-ahora-paga-despues (v1) · revisor-guion
 - Ocurrencias: +1 regla 30 (035, 053)
