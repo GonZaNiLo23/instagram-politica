@@ -1,5 +1,27 @@
 {
- "generado": "2026-11-17T07:28:28.641Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-17T09:30:15.307Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-17968445763232740",
+   "fuente": "instagram",
+   "cuenta": "@psoe",
+   "nombre": "PSOE",
+   "espacio": "otros",
+   "seguidores": 290395,
+   "fecha": "2026-11-17T08:48:27+0000",
+   "horas": 0.7,
+   "me_gusta": 488,
+   "comentarios": 122,
+   "viral": 361.8,
+   "enlace": "https://www.instagram.com/reel/Df1iSPbiDpG/",
+   "texto": "🌹 Rojos, zurdos, orgullosos. Somos la fuerza de la gente.\n\n#VotaPSOE",
+   "credito": "Vídeo: @psoe",
+   "duracion": 35.8,
+   "archivo": "ig-17968445763232740.mp4",
+   "frases": [],
+   "palabras": [],
+   "habla": false
+  }
+ ]
 }
