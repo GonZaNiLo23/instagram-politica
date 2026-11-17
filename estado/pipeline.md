@@ -110,7 +110,7 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261114-1526-abascal-sanidad | Al minuto: Abascal, sanidad | publicando (Al minuto horario) |
 | am20261114-1728-abascal-broncano | Al minuto: Abascal, entrevista La Revuelta | publicando (Al minuto horario) |
 | 051 | ipc-comida | 📊 Datos | Flash | programado | 1 | 2 | 2026-11-16 13:30 (cola) | v2 APROBADO 9/10 |
-| 052 | voto-correo-29n | ⚙️ Cómo funciona | Estándar | listo | 2 | 1 | 2026-11-16 19:00 (cola): ERROR IG transcoding | v1 APROBADO 9/10; reencodar y reencolar tras recomprobar plazos del voto por correo |
+| 052 | voto-correo-29n | ⚙️ Cómo funciona | Estándar | programado | 2 | 1 | 2026-11-18 13:30 (cola) | v1 APROBADO 9/10; reencodado yuv420p (fallo IG transcoding); caduca 19-11 |
 | am20261115-1126-abascal-penas-violadores | Al minuto: Abascal, penas más duras para violadores | publicando (Al minuto horario) |
 | am20261115-1530-abascal-bandera | Al minuto: Abascal responde a Sánchez por la bandera | publicando (Al minuto horario) |
 | am20261115-1730-garriga-jovenes | Al minuto: Garriga (Vox) a los jóvenes, 29-N | publicando (Al minuto horario) |
