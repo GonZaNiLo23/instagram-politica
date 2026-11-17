@@ -275,3 +275,8 @@
 - 2026-11-16 19:30 UTC · 1 · La Moncloa (Sánchez con Orsi, Uruguay, 23,6 s) · descartado: sin habla ni frases. Sin publicación.
 - 2026-11-17 07:3x UTC (publicación 08:00): sin candidatos (radar devolvió 0 detectados); sin publicación.
 - 2026-11-17 09:30 UTC (publicación 10:00 Madrid) · 1 · @psoe ("Rojos, zurdos, orgullosos", 35,8 s) · descartado: sin habla ni frases (lema de campaña/música), sin hecho noticioso; viral 361,8. Único candidato. Sin publicación.
+- 2026-11-17 11:30 UTC (publicación 12:00 Madrid) · 2 · @psoe (Sánchez a Lula: «si la izquierda cree en la victoria…», 28 s) · descartado: crónica de campaña sin propuesta ni hecho noticioso, material propagandístico del PSOE; viral 402,4
+- 2026-11-17 11:30 UTC · 2 · @vox_es (apoyos internacionales a Abascal, 161 s) · descartado: mensajes de ánimo sin frase política clara, hablantes sin identificar y transcripción dudosa («patrón»); sin tramo limpio; viral 63,6
+- 2026-11-17 11:30 UTC · 2 · @sanchezcastejon (subida de salario a 5 millones de trabajadores, 33 s) · descartado: sin habla ni frases (solo música/texto); viral 83,9
+- 2026-11-17 11:30 UTC · 2 · @santi_abascal (Tenerife, 533 s) · descartado: sin frases, vídeo larguísimo, sin tramo limpio; viral 117,8
+- 2026-11-17 11:30 UTC · 1 · @santi_abascal (gracias Santa Cruz, 34 s) · descartado: sin habla (error de transcripción); viral 0,1. Sin publicación.
