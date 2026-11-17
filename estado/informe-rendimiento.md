@@ -1,64 +1,47 @@
-# Informe de rendimiento 2026-11-16 (lunes)
+# Informe de rendimiento 2026-11-17 (martes)
 
-**Fuente:** `publicado/metricas-api/2026-11-16.json` (lectura 07:33 UTC = 08:33 Madrid; 96 publicaciones). El JSON del día existe. **TikTok no está en la API: n/d.** No se estima nada.
+**Fuente:** `publicado/metricas-api/2026-11-17.json` (lectura 07:31 UTC = 08:31 Madrid; 97 publicaciones, +1). El JSON del día existe. **TikTok no está en la API: n/d.** No se estima nada.
 
 ## Resumen
-- **Qué funciona:** el Al minuto de Abascal pidiendo el voto de las mujeres y «penas más duras para los violadores» (15-11 13:00) es la mejor pieza reciente: 1.926 visual. a 19 h, alcance 1.633, 8 guardados + 18 compartidos (13,5 por 1.000 visual.), 144 likes, 15 comentarios, aunque con solo 8,8 s de tiempo medio. Segundo indicio: el flash 049 («8 años» estancamiento, Eurostat) llega a 1.194 visual. y 13,0 s, el mejor de la serie.
-- **Qué no funciona:** los demás del 15-11 siguen en 160–343 visual. (flash 050 inmigración irregular, 160/172 con 4,2–6,3 s; Garriga jóvenes 343). Seguidores IG **67, +2** en 24 h.
-- **Qué probar:** más Al minuto de Abascal/Vox con propuesta concreta y emocional (seguridad, mujeres; n = 3 con remigración y repatriación); el flash con pregunta («¿España se aleja de Europa…?») como gancho (n = 1); y revisar los duplicados.
+- **Qué funciona:** el flash 049 («8 años» estancamiento, gancho con pregunta) sigue subiendo: 1.397 visual. (+203 en 24 h) y 13,2 s de tiempo medio, el mejor de la serie de flashes (n = 1 con este gancho). El Al minuto de Abascal (voto mujeres / penas violadores) se estanca en 1.946 (+20), 8 guardados + 21 compartidos (14,9 por 1.000).
+- **Qué no funciona:** la única pieza nueva, el flash 051 (IPC comida 4,9 %, 16-11 13:30), arranca en 168 visual. a 19 h, 4,4 s, 0 guardados/compartidos: sigue el patrón de «cifra seca» (flashes «8 años» 154–236). Seguidores IG **67, +0** en 24 h.
+- **Qué probar:** repetir el gancho de pregunta con dos lecturas del 049 en los flashes de datos (051 llevaba cifra + pregunta pero sin conflicto claro); medir 052 (Cómo funciona) a 24 h.
 
 ## Seguidores
-- Instagram: **67** (API), **+2 en 24 h**. Desde el 25-10 (23): +44 en 22 días ≈ 2,0/día.
+- Instagram: **67** (API), **+0 en 24 h**. Desde el 25-10 (23): +44 en 23 días ≈ 1,9/día.
 - TikTok: n/d (último: 40 el 27-10). Suma no calculable.
-- Hito 10.000 (hoy, 16-11): **no alcanzado** (67 frente a 10.000). Ruta ≈ 10.000 → ≈ 0,7 % de la ruta.
+- Hito 10.000 (16-11): no alcanzado; 67 ≈ 0,7 % de la ruta.
 
-## Piezas nuevas desde el último informe (Instagram, edad en h)
-| Pieza | Edad | Visual. | T. medio | Guard.+comp. | Guard.+comp. por 1.000 | Likes | Coment. |
+## Piezas nuevas / con cambio relevante (Instagram)
+| Pieza | Edad | Visual. | T. medio | Guard.+comp. | por 1.000 | Likes | Coment. |
 |---|---|---|---|---|---|---|---|
-| am-Abascal voto mujeres / penas violadores (15-11 13:00) | 19 | 1.926 | 8,8 s | 8+18 | 13,5 | 144 | 15 |
-| 049 estancamiento, flash (12:00) | 20 | 1.194 | 13,0 s | 1+0 | 0,8 | 6 | 0 |
-| am-Garriga jóvenes 29-N (19:01) | 13 | 343 | 10,4 s | 0+0 | 0 | 1 | 0 |
-| 050 inmigración irregular, flash (19:00) | 13 | 160 | 4,2 s | 0+0 | 0 | 0 | 0 |
-| **Duplicado 2.º Reel** de 050 (19:00) | 13 | 172 | 6,3 s | 0+0 | 0 | 2 | 0 |
+| 051 IPC comida 4,9 %, flash (16-11 13:30) | 19 h | 168 | 4,4 s | 0+0 | 0 | 2 | 0 |
+| 049 estancamiento, flash (15-11 12:00) | 44 h | 1.397 | 13,2 s | 1+0 | 0,7 | 1 | 0 |
+| am-Abascal voto mujeres (15-11 13:00) | 43 h | 1.946 | 8,8 s | 8+21 | 14,9 | — | — |
+| am-Garriga jóvenes 29-N (15-11 19:01) | 37 h | 363 | 10,7 s | 0+0 | 0 | 1 | 0 |
+| 050 flash + duplicado (15-11 19:00) | 37 h | 160 / 177 | 4,2 / 6,1 s | 0+0 | 0 | 0 / 2 | 0 |
 
-Total de las 96 publicaciones: 71.496 visual.; guardados+compartidos acumulados: 359 (5,0 por 1.000 visual.). Subida de ≈ 3.000 visual. en 24 h, casi toda de las dos piezas del 15-11 (12:00 y 13:00).
+Total de las 97 publicaciones: 71.927 visual. (+431 en 24 h, casi todo 049 y 051); guardados+compartidos acumulados: 362 (5,0 por 1.000). Solo se publicó 1 pieza nueva visible en el JSON de las 07:31 (las de la tarde/noche del 16-11 no aparecen todavía; se leerán mañana). Retención a 3 s, % visto y seguidores ganados por pieza: n/d.
 
-## Top por visualizaciones (n = 96; tabla completa en `publicado/metricas-diarias.md`)
-| Pieza | Visual. |
-|---|---|
-| 002 | 8.790 |
-| 016 | 5.914 |
-| 014 | 3.635 |
-| 003 | 3.452 |
-| am-Remigración | 2.924 |
-| 009 | 2.362 |
-| am-Abascal voto mujeres | 1.926 |
-
-Retención a 3 s, % visto y seguidores ganados por pieza: n/d (la API no los da).
-
-## Qué viraliza (lunes; semana 9–15 nov, n = piezas de la semana)
-Las 3 piezas con más visualizaciones de la semana (a edades distintas, indicios):
-1. **am-Abascal voto mujeres** (15-11): 1.926 visual., 26 guardados+compartidos. Gancho: posición firme + propuesta concreta de seguridad («penas más duras para los violadores»).
-2. **am-Moncloa decretos sociales** (11-11): 1.720 visual., medida oficial con impacto en el bolsillo.
-3. **049 flash Eurostat** (15-11): 1.194 visual., gancho con pregunta («¿España se aleja de Europa o se aleja…?»), 13,0 s.
-Qué tienen en común (n = 3, indicio): tema con **consecuencia directa para el ciudadano** o propuesta política concreta, y gancho con posición o pregunta con dos lecturas. Las piezas de «cifra sin conflicto» y las crónicas de acto quedan en 110–350 visual. Seguidores ganados por pieza: n/d.
+## Top por visualizaciones (n = 97; tabla completa en `publicado/metricas-diarias.md`)
+002 (8.813) · 016 (5.918) · 014 y 003 (≈ 3.500) · am-Remigración (≈ 2.900) · 009 (2.362) · am-Abascal voto mujeres (1.946) · 049 (1.397).
 
 ## Ranking (indicios; n por grupo)
-- **Flash «8 años» (041–042, 046–050; n = 7):** 154–1.194 visual.; 049 (1.194) rompe la tendencia con gancho de pregunta; el resto 154–236, 4,2–8,3 s.
-- **Al minuto de Abascal/Vox (n ≥ 10):** 137–357 visual. salvo remigración (2.924), repatriación (672) y voto mujeres (1.926): los tres que despegan son de seguridad/inmigración/mujeres (n = 3).
-- **Pregunta A/B:** no calculable con la API.
+- **Flash «8 años» (n = 7):** 160–1.397 visual.; solo 049 (gancho con pregunta) despega; el resto 154–236, 4,2–8,3 s.
+- **Flash de datos nuevo (051, n = 1):** 168 a 19 h, en la línea de la cifra seca.
+- **Al minuto de Abascal/Vox:** despegan seguridad/inmigración/mujeres (n = 3), estancados tras 24 h.
 
 ## Recomendaciones
-1. Priorizar Al minuto de Abascal/Vox con propuesta concreta de seguridad, inmigración o mujeres (n = 3 con tracción).
-2. Probar en los flashes «8 años» un gancho en forma de pregunta con dos lecturas (049, n = 1) frente a la cifra seca.
-3. Probar a las 19:00 el Cómo funciona 052 (voto por correo 29-N) y medirlo a 24 h: sigue sin muestra de Cómo funciona en 19:00.
-4. Revisar `publicar.yml`/`render.yml`: 5.º día con duplicados (050 el 15-11).
-5. Recalibrar con la persona usuaria las fechas de hitos: 10.000 el 16-11 inalcanzable (≈ 2/día).
+1. Flashes de datos con pregunta de dos lecturas en el gancho (049, n = 1) frente a cifra seca (n = 7 + 051).
+2. Al minuto de Abascal/Vox con propuesta concreta de seguridad, inmigración o mujeres (n = 3).
+3. Medir 052 (Cómo funciona, voto por correo 29-N) a 24 h: sigue sin muestra de Cómo funciona a las 19:00.
+4. Revisar `publicar.yml`/`render.yml`: el duplicado de 050 sigue visible.
+5. Recalibrar con la persona usuaria las fechas de hitos (ritmo ≈ 1,9 seguidores/día).
 
 ## Lecciones de las métricas
-**Ninguna regla nueva en `feedback/`**: el patrón «seguridad/inmigración de Abascal despega» tiene n = 3 pero con edades y formatos distintos, sin comparativa a misma edad; sigue como indicio.
+Ninguna regla nueva en `feedback/`: el único patrón nuevo (gancho de pregunta en 049) tiene n = 1.
 
 ## Alertas
-- **Duplicado nuevo el 15-11:** 050 inmigración irregular, 2.º Reel a las 19:00 (4–6 casos en la semana).
-- **Hito de 10.000 (16-11) no alcanzado** y alerta de estrategia vigente (< 50 % de la ruta desde hace más de dos semanas).
-- Seguidores +2 (65 → 67): recupera la caída del día anterior.
+- Hito de 10.000 (16-11) no alcanzado; alerta de estrategia vigente (< 50 % de la ruta desde hace tres semanas).
+- Seguidores +0 en 24 h; ritmo ≈ 1,9/día.
+- Duplicado 050 (2.º Reel a las 19:00) sigue publicado.
