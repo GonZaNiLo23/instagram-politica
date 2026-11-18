@@ -1,0 +1,75 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 18.5,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 15.0,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 15.0,
+     "fundidoFin": 15.0
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "VOX PIDE PRIORIDAD NACIONAL EN LAS AYUDAS",
+     "fecha": "18 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.3,
+       "fin": 3.0,
+       "texto": "Y por eso hablamos de prioridad nacional,"
+      },
+      {
+       "inicio": 3.02,
+       "fin": 7.5,
+       "texto": "porque los españoles deben ser los primeros\npara la administración"
+      },
+      {
+       "inicio": 7.5,
+       "fin": 9.8,
+       "texto": "en el acceso a las ayudas sociales,"
+      },
+      {
+       "inicio": 9.9,
+       "fin": 12.6,
+       "texto": "a las ayudas de vivienda,\na las plazas de guardería"
+      },
+      {
+       "inicio": 12.9,
+       "fin": 15.0,
+       "texto": "y a cualquier otro asunto\nen la administración."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 15.0,
+   "fin": 18.5,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Vox propone dar prioridad a los españoles",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

@@ -293,3 +293,7 @@
 - 2026-11-17 19:30 UTC (publicación 20:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
 - 2026-11-18 07:42 UTC (publicación 08:00 Madrid) · 1 · @santi_abascal (agradecimiento Lanzarote/Las Palmas, 28,3 s) · descartado: sin habla ni frases (solo música/imágenes); viral 4,9. Único candidato. Sin publicación.
 - 2026-11-18 09:30 UTC (publicación 10:00 Madrid) · 2 · @sanchezcastejon (spot de campaña «Clara y Javier», 86 s) · descartado: anuncio de campaña con personajes ficticios, cifras sin fuente en el clip (salario 735→2.000 €), sin hecho noticioso ni tramo limpio de 15–40 s; viral 268,4. Único candidato. Sin publicación.
+- 2026-11-18 11:30 UTC (publicación 12:00 Madrid) · 4 · @vox_es (prioridad nacional: ayudas, vivienda y guarderías, tramo 26,9–41,9 s; subtítulos cotejados con la transcripción; propuesta atribuida a Vox, sin acusaciones; viral 196,4) · publicado am20261118-1130-vox-prioridad
+- 2026-11-18 11:30 UTC · 2 · @alviseperez (animales, 98 s) · descartado: sin habla (error de transcripción); viral 896
+- 2026-11-18 11:30 UTC · 2 · @santi_abascal (Lanzarote, 138 s) · descartado: transcripción ininteligible, sin tramo limpio; viral 57
+- 2026-11-18 11:30 UTC · 2 · @vox_es (autónomos, 49 s) · descartado: un envío por hora; viral 13,2
