@@ -1,0 +1,90 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 26.6,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 23.1,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 23.1,
+     "fundidoFin": 23.1
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "VOX PROPONE REMIGRACIÓN Y BILLETE DE VUELTA",
+     "fecha": "18 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.1,
+       "fin": 2.3,
+       "texto": "El problema no son los españoles,"
+      },
+      {
+       "inicio": 2.5,
+       "fin": 4.4,
+       "texto": "es la inmigración ilegal masiva"
+      },
+      {
+       "inicio": 4.7,
+       "fin": 7.3,
+       "texto": "y quien la fomenta,\nel Gobierno socialista."
+      },
+      {
+       "inicio": 8.2,
+       "fin": 10.5,
+       "texto": "¿Y la solución?\nLo que propone Vox:"
+      },
+      {
+       "inicio": 11.0,
+       "fin": 13.7,
+       "texto": "quien entre ilegalmente,\nbillete de vuelta;"
+      },
+      {
+       "inicio": 14.2,
+       "fin": 16.6,
+       "texto": "quien cometa delitos,\nbillete de vuelta;"
+      },
+      {
+       "inicio": 17.1,
+       "fin": 19.0,
+       "texto": "quien viva de las ayudas sociales,"
+      },
+      {
+       "inicio": 19.3,
+       "fin": 23.1,
+       "texto": "remigración.\nVox, sentido común."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 23.1,
+   "fin": 26.6,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Vox propone billete de vuelta para quien entre ilegalmente",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

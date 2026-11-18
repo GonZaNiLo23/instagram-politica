@@ -121,3 +121,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261117-1530-abascal-fronteras | Al minuto · Abascal: las fronteras se pueden defender | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-17 16:00 | autocomprobación |
 | 056 | 8-anos-vivienda | 💶 Economía · serie 8 años | Flash | programado | 1 | 4 | 2026-11-19 19:00 (cola) | v4 APROBADO 9/10 |
 | am20261118-1130-vox-prioridad | Al minuto · Vox: prioridad nacional en ayudas | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-18 12:00 | autocomprobación |
+| am20261118-1930-vox-remigracion | Al minuto · Vox: remigración y billete de vuelta | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-18 20:00 | autocomprobación |

@@ -300,3 +300,6 @@
 - 2026-11-18 13:27 UTC · radar sin respuesta (20 min; candidatos.json sigue en 11:28 UTC) · sin publicación
 - 2026-11-18 15:30 UTC (publicación 16:00 Madrid) · 2 · @santi_abascal (agradecimiento Las Palmas, 24,1 s) · descartado: solo 3 frases sueltas (~8 s de habla, «Es familia y es España»), sin propuesta ni hecho noticioso, sin tramo de 15–40 s; viral 68,4. Único candidato. Sin publicación.
 - 2026-11-18 17:30 UTC (publicación 18:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
+- 2026-11-18 19:30 UTC (publicación 20:00 Madrid) · 4 · @vox_es (inmigración: billete de vuelta y remigración, tramo 60,5–83,6 s; subtítulos cotejados con la transcripción; propuesta y opinión atribuidas a Vox, sin acusaciones de delito; viral 265,8) · publicado am20261118-1930-vox-remigracion
+- 2026-11-18 19:30 UTC · 2 · @santi_abascal (bandera/campaña, 67,8 s) · descartado: acusaciones graves a Sánchez (Rusia, Marruecos) sin pruebas, sin propuesta; un envío por hora; viral 88,1
+- 2026-11-18 19:30 UTC · 1 · @isabeldiazayuso (poema y agradecimiento, 79 s) · descartado: conversación de calle, sin hecho noticioso; viral 140,5
