@@ -297,3 +297,4 @@
 - 2026-11-18 11:30 UTC · 2 · @alviseperez (animales, 98 s) · descartado: sin habla (error de transcripción); viral 896
 - 2026-11-18 11:30 UTC · 2 · @santi_abascal (Lanzarote, 138 s) · descartado: transcripción ininteligible, sin tramo limpio; viral 57
 - 2026-11-18 11:30 UTC · 2 · @vox_es (autónomos, 49 s) · descartado: un envío por hora; viral 13,2
+- 2026-11-18 13:27 UTC · radar sin respuesta (20 min; candidatos.json sigue en 11:28 UTC) · sin publicación
