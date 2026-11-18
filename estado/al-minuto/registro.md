@@ -298,3 +298,4 @@
 - 2026-11-18 11:30 UTC · 2 · @santi_abascal (Lanzarote, 138 s) · descartado: transcripción ininteligible, sin tramo limpio; viral 57
 - 2026-11-18 11:30 UTC · 2 · @vox_es (autónomos, 49 s) · descartado: un envío por hora; viral 13,2
 - 2026-11-18 13:27 UTC · radar sin respuesta (20 min; candidatos.json sigue en 11:28 UTC) · sin publicación
+- 2026-11-18 15:30 UTC (publicación 16:00 Madrid) · 2 · @santi_abascal (agradecimiento Las Palmas, 24,1 s) · descartado: solo 3 frases sueltas (~8 s de habla, «Es familia y es España»), sin propuesta ni hecho noticioso, sin tramo de 15–40 s; viral 68,4. Único candidato. Sin publicación.
