@@ -1,5 +1,99 @@
 {
- "generado": "2026-11-18T14:17:38.094Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-18T15:29:41.564Z",
+ "total_detectados": 1,
+ "candidatos": [
+  {
+   "id": "ig-18170570371469980",
+   "fuente": "instagram",
+   "cuenta": "@santi_abascal",
+   "nombre": "🇪🇸 Santiago Abascal 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1711355,
+   "fecha": "2026-11-18T14:18:07+0000",
+   "horas": 1.2,
+   "me_gusta": 1260,
+   "comentarios": 68,
+   "viral": 68.4,
+   "enlace": "https://www.instagram.com/reel/Df4szNZoJRD/",
+   "texto": "¡Gracias Las Palmas! \n#Canarias es Sentido Común.",
+   "credito": "Vídeo: @santi_abascal",
+   "duracion": 24.1,
+   "archivo": "ig-18170570371469980.mp4",
+   "frases": [
+    {
+     "inicio": 5.07,
+     "fin": 7.77,
+     "texto": "Es antiguo y ancestra"
+    },
+    {
+     "inicio": 8.55,
+     "fin": 11.49,
+     "texto": "Es familia y es España"
+    },
+    {
+     "inicio": 11.99,
+     "fin": 13.39,
+     "texto": "Es prioridad"
+    }
+   ],
+   "palabras": [
+    {
+     "t": "Es",
+     "inicio": 5.07,
+     "fin": 5.57
+    },
+    {
+     "t": "antiguo",
+     "inicio": 5.57,
+     "fin": 6.49
+    },
+    {
+     "t": "y",
+     "inicio": 6.49,
+     "fin": 6.65
+    },
+    {
+     "t": "ancestra",
+     "inicio": 6.65,
+     "fin": 7.77
+    },
+    {
+     "t": "Es",
+     "inicio": 8.55,
+     "fin": 9.25
+    },
+    {
+     "t": "familia",
+     "inicio": 9.25,
+     "fin": 10.03
+    },
+    {
+     "t": "y",
+     "inicio": 10.03,
+     "fin": 10.55
+    },
+    {
+     "t": "es",
+     "inicio": 10.55,
+     "fin": 10.77
+    },
+    {
+     "t": "España",
+     "inicio": 10.77,
+     "fin": 11.49
+    },
+    {
+     "t": "Es",
+     "inicio": 11.99,
+     "fin": 12.69
+    },
+    {
+     "t": "prioridad",
+     "inicio": 12.69,
+     "fin": 13.39
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
