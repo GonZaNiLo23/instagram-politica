@@ -1,47 +1,47 @@
-# Informe de rendimiento 2026-11-17 (martes)
+# Informe de rendimiento 2026-11-18 (miércoles)
 
-**Fuente:** `publicado/metricas-api/2026-11-17.json` (lectura 07:31 UTC = 08:31 Madrid; 97 publicaciones, +1). El JSON del día existe. **TikTok no está en la API: n/d.** No se estima nada.
+**Fuente:** `publicado/metricas-api/2026-11-18.json` (lectura 07:36 UTC = 08:36 Madrid; 102 publicaciones, +5). El JSON del día existe. **TikTok no está en la API: n/d.** No se estima nada.
 
 ## Resumen
-- **Qué funciona:** el flash 049 («8 años» estancamiento, gancho con pregunta) sigue subiendo: 1.397 visual. (+203 en 24 h) y 13,2 s de tiempo medio, el mejor de la serie de flashes (n = 1 con este gancho). El Al minuto de Abascal (voto mujeres / penas violadores) se estanca en 1.946 (+20), 8 guardados + 21 compartidos (14,9 por 1.000).
-- **Qué no funciona:** la única pieza nueva, el flash 051 (IPC comida 4,9 %, 16-11 13:30), arranca en 168 visual. a 19 h, 4,4 s, 0 guardados/compartidos: sigue el patrón de «cifra seca» (flashes «8 años» 154–236). Seguidores IG **67, +0** en 24 h.
-- **Qué probar:** repetir el gancho de pregunta con dos lecturas del 049 en los flashes de datos (051 llevaba cifra + pregunta pero sin conflicto claro); medir 052 (Cómo funciona) a 24 h.
+- **Qué funciona:** nada nuevo. Las piezas anteriores casi no se mueven (+266 visual. en 24 h sobre 72.499, casi todo de las 5 nuevas). El Al minuto de Abascal (voto mujeres) y el flash 049 con pregunta siguen siendo lo mejor de la semana (1.950 y 1.397).
+- **Qué no funciona:** las 5 piezas nuevas arrancan en 131–219 visual. a 13–19 h: 054 (audiencias de debates, flash de curiosidad) 219 con 10,9 s, 053 (compra ahora paga después, Cómo funciona) 153/163 con 5,8/7,7 s y 0 guardados+compartidos. Seguidores IG **67, +0**.
+- **Qué probar:** el gancho de 054 («Trece millones… Quince años después, 5,9») logra el mejor tiempo medio de las nuevas, pero con n = 1 es un indicio. Medir 052 (voto por correo, Cómo funciona, 18-11 13:30) a 24 h.
 
 ## Seguidores
-- Instagram: **67** (API), **+0 en 24 h**. Desde el 25-10 (23): +44 en 23 días ≈ 1,9/día.
-- TikTok: n/d (último: 40 el 27-10). Suma no calculable.
-- Hito 10.000 (16-11): no alcanzado; 67 ≈ 0,7 % de la ruta.
+- Instagram: **67** (API), **+0 en 24 h**. Desde el 25-10 (23): +44 en 24 días ≈ 1,8/día.
+- TikTok: n/d (último dato: 40 el 27-10). Suma no calculable.
+- Hito 10.000 (16-11) no alcanzado; 67 ≈ 0,7 % de la ruta.
 
-## Piezas nuevas / con cambio relevante (Instagram)
+## Piezas nuevas (Instagram)
 | Pieza | Edad | Visual. | T. medio | Guard.+comp. | por 1.000 | Likes | Coment. |
 |---|---|---|---|---|---|---|---|
-| 051 IPC comida 4,9 %, flash (16-11 13:30) | 19 h | 168 | 4,4 s | 0+0 | 0 | 2 | 0 |
-| 049 estancamiento, flash (15-11 12:00) | 44 h | 1.397 | 13,2 s | 1+0 | 0,7 | 1 | 0 |
-| am-Abascal voto mujeres (15-11 13:00) | 43 h | 1.946 | 8,8 s | 8+21 | 14,9 | — | — |
-| am-Garriga jóvenes 29-N (15-11 19:01) | 37 h | 363 | 10,7 s | 0+0 | 0 | 1 | 0 |
-| 050 flash + duplicado (15-11 19:00) | 37 h | 160 / 177 | 4,2 / 6,1 s | 0+0 | 0 | 0 / 2 | 0 |
+| 054 audiencias debates, flash (17-11 19:00) | 13 h | 219 | 10,9 s | 0+0 | 0 | 1 | 0 |
+| am-Abascal fronteras Lanzarote (17-11 17:00) | 15 h | 131 | 7,1 s | 1+0 | 7,6 | 4 | 2 |
+| am-Alvise impuestos vivienda (17-11 15:00) | 17 h | 152 | 15,0 s | 1+1 | 13,2 | 1 | 0 |
+| 053 compra ahora paga después (17-11 13:30) | 19 h | 153 | 5,8 s | 0+0 | 0 | 1 | 0 |
+| 053 duplicado, 2.º Reel (13:33) | 19 h | 163 | 7,7 s | 0+0 | 0 | 1 | 0 |
 
-Total de las 97 publicaciones: 71.927 visual. (+431 en 24 h, casi todo 049 y 051); guardados+compartidos acumulados: 362 (5,0 por 1.000). Solo se publicó 1 pieza nueva visible en el JSON de las 07:31 (las de la tarde/noche del 16-11 no aparecen todavía; se leerán mañana). Retención a 3 s, % visto y seguidores ganados por pieza: n/d.
+Total de las 102 publicaciones: 72.765 visual. (+266 en 24 h); guardados+compartidos acumulados: 365 (5,0 por 1.000). Retención a 3 s, % visto y seguidores ganados por pieza: n/d. Las cifras por 1.000 de las nuevas se calculan sobre menos de 200 visual.: ruido (n = 1 por pieza).
 
-## Top por visualizaciones (n = 97; tabla completa en `publicado/metricas-diarias.md`)
-002 (8.813) · 016 (5.918) · 014 y 003 (≈ 3.500) · am-Remigración (≈ 2.900) · 009 (2.362) · am-Abascal voto mujeres (1.946) · 049 (1.397).
+## Top por visualizaciones (n = 102; tabla completa en `publicado/metricas-diarias.md`)
+002 (8.813) · 016 (5.918) · 014 y 003 (≈ 3.500) · am-Remigración (≈ 2.900) · 009 (2.362) · am-Abascal voto mujeres (1.950) · 049 (1.397).
 
 ## Ranking (indicios; n por grupo)
-- **Flash «8 años» (n = 7):** 160–1.397 visual.; solo 049 (gancho con pregunta) despega; el resto 154–236, 4,2–8,3 s.
-- **Flash de datos nuevo (051, n = 1):** 168 a 19 h, en la línea de la cifra seca.
-- **Al minuto de Abascal/Vox:** despegan seguridad/inmigración/mujeres (n = 3), estancados tras 24 h.
+- **Piezas de la semana (publicadas desde el 11-11, n = 36):** mediana 175 visual.; 10.077 en total; solo 3 pasan de 600 (voto mujeres 1.950, 049 1.397, am-Abascal repatriación 675).
+- **Cómo funciona (n = 1 medido: 053):** 153–163 a 19 h, sin guardados. Muestra insuficiente.
+- **Al minuto de Abascal/Vox:** seguridad, inmigración y mujeres despegan (n = 3); fronteras Lanzarote arranca en 131 a 15 h (n = 1, tema afín, por ahora no sigue el patrón).
 
 ## Recomendaciones
-1. Flashes de datos con pregunta de dos lecturas en el gancho (049, n = 1) frente a cifra seca (n = 7 + 051).
-2. Al minuto de Abascal/Vox con propuesta concreta de seguridad, inmigración o mujeres (n = 3).
-3. Medir 052 (Cómo funciona, voto por correo 29-N) a 24 h: sigue sin muestra de Cómo funciona a las 19:00.
-4. Revisar `publicar.yml`/`render.yml`: el duplicado de 050 sigue visible.
-5. Recalibrar con la persona usuaria las fechas de hitos (ritmo ≈ 1,9 seguidores/día).
+1. Medir 052 y 053 (Cómo funciona) a 24 h antes de decidir el pilar; hoy n = 1.
+2. Repetir en flashes de curiosidad el gancho de contraste de cifras de 054 (mejor t. medio de la semana entre flashes, n = 1).
+3. Flashes de datos con pregunta de dos lecturas (049, n = 1) frente a cifra seca (n ≥ 8).
+4. Revisar `publicar.yml`/`render.yml`: sigue habiendo Reels duplicados (053 y 050 hoy).
+5. Recalibrar con la persona usuaria las fechas de hitos (ritmo ≈ 1,8 seguidores/día).
 
 ## Lecciones de las métricas
-Ninguna regla nueva en `feedback/`: el único patrón nuevo (gancho de pregunta en 049) tiene n = 1.
+Ninguna regla nueva en `feedback/`: ningún patrón nuevo llega a n ≥ 3.
 
 ## Alertas
 - Hito de 10.000 (16-11) no alcanzado; alerta de estrategia vigente (< 50 % de la ruta desde hace tres semanas).
-- Seguidores +0 en 24 h; ritmo ≈ 1,9/día.
-- Duplicado 050 (2.º Reel a las 19:00) sigue publicado.
+- Seguidores +0 en 24 h; ritmo ≈ 1,8/día.
+- Duplicado de 053 (13:30 y 13:33) publicado en IG.
