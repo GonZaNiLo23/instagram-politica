@@ -132,3 +132,5 @@
 - 2026-11-18T12:31:15.913Z · 052-voto-correo-29n: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-18T18:00:50.000Z · 055-encuestas-prohibidas v2: PUBLICADA en Instagram https://www.instagram.com/reel/Df5GYOfj228/
 - 2026-11-18T18:00:52.368Z · 055-encuestas-prohibidas: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-18T20:53:55.345Z · am20261118-1930-vox-remigracion v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df5aK7_kxZR/
+- 2026-11-18T20:53:59.039Z · am20261118-1930-vox-remigracion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
