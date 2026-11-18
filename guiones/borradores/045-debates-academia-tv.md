@@ -6,10 +6,10 @@
 | Formato | Flash (30–35 s) |
 | Duración objetivo | 32 s (89 palabras ÷ 165 × 60 = 32 s; a 155 pal/min, 34 s) |
 | Palabras de voz | 88, contadas en el "Texto de voz limpio". Frase más larga: 15 palabras |
-| Vigencia | SEMANA (publicación 18-11 19:00; el debate es el 19-11 a las 22:00). Recomprobar hora y cadenas el 18-11 antes de publicar |
+| Vigencia | SEMANA (publicación 19-11 13:30; el debate es el 19-11 a las 22:00). Recomprobado el 18-11 |
 | Portada | "El cara a cara, explicado" + plató de televisión (recorte) / siluetas de dos atriles |
-| Versión | v1 (rehecho sobre la premisa del 19-11; sustituye a la nota de A MEDIAS del 12-11) |
-| Estado | borrador |
+| Versión | v2 (recomprobada 18-11; rehecho sobre la premisa del 19-11; sustituye a la nota de A MEDIAS del 12-11) |
+| Estado | guion-aprobado |
 
 ## Idea en una frase
 El jueves 19-11 a las 22:00 Sánchez y Feijóo debaten cara a cara; lo organiza la Academia de Televisión (no una cadena), con cinco bloques pactados y la señal abierta a cualquier cadena. Sin predicciones.
@@ -19,7 +19,7 @@ El jueves 19-11 a las 22:00 Sánchez y Feijóo debaten cara a cara; lo organiza 
 | # | Tiempo | Voz en off | En pantalla (rótulo) | Visual / animación |
 |---|---|---|---|---|
 | 1 · Gancho | 0–3 s | Ninguna cadena lo organiza. Pero cualquiera puede emitirlo. | "Ninguna cadena lo organiza" → "cualquiera puede emitirlo" | Desde el fotograma 0: zoom a una pantalla de televisión con dos atriles (icono plano); el "6" golpea la pantalla. RECORTE: plató/cámara de televisión como fondo |
-| 2 · Primera prueba | 3–8 s | El jueves, a las diez de la noche, Sánchez y Feijóo se verán las caras. | "Jueves 19-11 · 22:00" · "Cara a cara" · fuente pequeña: Academia de TV / RTVE, Atresmedia | Dos siluetas (sin caras realistas), una a cada lado de un reloj que marca las 22:00 |
+| 2 · Primera prueba | 3–8 s | Esta noche, a las diez, Sánchez y Feijóo se verán las caras. | "Hoy 19-11 · 22:00" · "Cara a cara" · fuente pequeña: Academia de TV / RTVE, Atresmedia | Dos siluetas (sin caras realistas), una a cada lado de un reloj que marca las 22:00 |
 | 2b · Quién | 8–14 s | Lo organiza la Academia de Televisión, con María Casado de moderadora. | "Academia de Televisión" · "Moderadora: María Casado" | Logotipo/texto "Academia de Televisión" (rótulo, sin logo si no hay licencia) y un micrófono de icono |
 | 3 · Cinco bloques | 14–22 s | Con la Academia, PSOE y PP pactaron cinco bloques: de la vivienda a la migración. | Lista que entra una a una: 1 Vivienda · 2 Economía y fiscalidad · 3 Política social y servicios públicos · 4 Corrupción y regeneración democrática · 5 Migración y política exterior | Cinco fichas numeradas que se apilan; iconos planos (casa, moneda, escuela, balanza, mapa) |
 | 3b · Sorteo | 22–24 s | Por sorteo, Feijóo abre y Sánchez cierra. | "Sorteo: abre Feijóo · cierra Sánchez" | Moneda que gira y cae; flechas inicio/fin |
@@ -41,15 +41,15 @@ Pregunta A/B: sí. Sin bloque de opinión ni predicciones.
 (Elegido: el 1, 4/5; empata con 2 y 3. El 2 es la alternativa si el revisor quiere más "tú". El bucle del 1 se cierra en el bloque 4: la señal de la Academia.)
 
 ## Texto de voz limpio
-Ninguna cadena lo organiza. Pero cualquiera puede emitirlo. El jueves, a las diez de la noche, Sánchez y Feijóo se verán las caras. Lo organiza la Academia de Televisión, con María Casado de moderadora. Con la Academia, PSOE y PP pactaron cinco bloques: de la vivienda a la migración. Por sorteo, Feijóo abre y Sánchez cierra. Cualquier cadena puede emitir su señal. La 1, Antena 3 y laSexta ya lo han anunciado. ¿Lo verás en directo o en los resúmenes del día siguiente? Síguenos para estar informado.
+Ninguna cadena lo organiza. Pero cualquiera puede emitirlo. Esta noche, a las diez, Sánchez y Feijóo se verán las caras. Lo organiza la Academia de Televisión, con María Casado de moderadora. Con la Academia, PSOE y PP pactaron cinco bloques: de la vivienda a la migración. Por sorteo, Feijóo abre y Sánchez cierra. Cualquier cadena puede emitir su señal. La 1, Antena 3 y laSexta ya lo han anunciado. ¿Lo verás en directo o en los resúmenes del día siguiente? Síguenos para estar informado.
 
-Recuento por frase: 4 + 4 + 15 + 11 + 15 + 6 + 6 + 12 + 11 + 4 = 89 palabras (≈ 32 s a 165 pal/min; 34 s a 155).
+Recuento por frase: 4 + 4 + 12 + 11 + 15 + 6 + 6 + 12 + 11 + 4 = 86 palabras (≈ 31 s a 165 pal/min; 33 s a 155).
 
 ## Autoevaluación de formato Reel/TikTok
 9/10. Gancho de 8 palabras en dos frases con bucle resuelto en el segundo 24; primera prueba (hora y protagonistas) del 3 al 8; todo con rótulo; cierre A/B con bucle a "ninguna cadena". Duda: el bloque de cadenas es una enumeración (va también en pantalla) y no hay giro "sorprendente" fuerte: el giro es el modelo de señal compartida.
 
 ## Fuentes
-Nivel 1 = primaria; 2 = agencia/medio de referencia; 3 = línea marcada/agregador. Todas consultadas el 2026-11-17.
+Nivel 1 = primaria; 2 = agencia/medio de referencia; 3 = línea marcada/agregador. Consultadas el 2026-11-17; recomprobadas el 2026-11-18 (Academia, FormulaTV, Democrata).
 
 | # | Dato que respalda | Fuente (nivel) | Enlace | Consultada |
 |---|---|---|---|---|
@@ -60,12 +60,12 @@ Nivel 1 = primaria; 2 = agencia/medio de referencia; 3 = línea marcada/agregado
 | 5 | Orden y bloques coinciden en otros medios | FormulaTV (13-11) | https://www.formulatv.com/noticias/sanchez-feijoo-debate-19-noviembre-academia-tv-138759/ | 2026-11-17 |
 
 ## Pendiente de verificar
-- [VERIFICAR: hora 22:00 y lista de cadenas. La Academia no las indica; salen de comunicados de las cadenas recogidos por EFE/Europa Press. Sin web oficial de RTVE (rtve.es no accesible). Recomprobar el 18-11; si se confirma otra cadena por comunicado propio o en dos medios, añadirla; si se cae una de las tres, "Las cadenas pueden emitir la señal de la Academia".]
+- [RECOMPROBADO 18-11: hora 22:00 y 3 cadenas confirmadas; FormulaTV (16-11) dice seis cadenas pero sin detalle fiable de Telecinco/Cuatro (especial 21:00); se mantienen solo las tres confirmadas en ≥2 fuentes.] Antes: [VERIFICAR: hora 22:00 y lista de cadenas. La Academia no las indica; salen de comunicados de las cadenas recogidos por EFE/Europa Press. Sin web oficial de RTVE (rtve.es no accesible). Recomprobar el 18-11; si se confirma otra cadena por comunicado propio o en dos medios, añadirla; si se cae una de las tres, "Las cadenas pueden emitir la señal de la Academia".]
 - Duración y reglas de tiempo: no constan en la nota oficial. Por eso no se dicen (El Constitucional habla de ≈ 90 min, nivel 3, sin usar).
 - Hay un error en El Debate/otros resultados: Xabier Fortes modera el debate de portavoces del 23-11, no este.
 
 ## Texto propuesto para el post
-El jueves 19-11, a las 22:00, Sánchez y Feijóo debaten cara a cara. Y no lo organiza ninguna cadena.
+Esta noche, jueves 19-11, a las 22:00, Sánchez y Feijóo debaten cara a cara. Y no lo organiza ninguna cadena.
 
 Lo organiza la Academia de Televisión (moderadora: María Casado, su presidenta), en el Plató A de Madrid Content City. PSOE y PP acordaron con la Academia cinco bloques: vivienda; economía y fiscalidad; política social y servicios públicos; lucha contra la corrupción y regeneración democrática; migración y política exterior. Por sorteo, Feijóo abre y Sánchez cierra. La Academia ofrece su señal a las cadenas interesadas; La 1, Antena 3 y laSexta ya han anunciado que lo emitirán.
 
