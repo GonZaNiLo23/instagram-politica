@@ -47,3 +47,4 @@
 - 2026-11-17T13:37:54Z · am20261117-1330-alvise-vivienda v1 · OK · ffprobe: h264 1080x1920 @30/1 · 27.80 s (objetivo 27.7 s) -> OK Volumen integrado: -14.5 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-17T15:40:58Z · am20261117-1530-abascal-fronteras v1 · OK · ffprobe: h264 1080x1920 @30/1 · 26.20 s (objetivo 26.1 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-18T11:35:09Z · am20261118-1130-vox-prioridad v1 · OK · ffprobe: h264 1080x1920 @30/1 · 18.60 s (objetivo 18.5 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-18T20:03:07Z · am20261118-1930-vox-remigracion v1 · OK · ffprobe: h264 1080x1920 @30/1 · 26.70 s (objetivo 26.6 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
