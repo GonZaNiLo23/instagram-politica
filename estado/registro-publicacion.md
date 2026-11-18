@@ -126,3 +126,5 @@
 - 2026-11-17T16:00:46.753Z · am20261117-1530-abascal-fronteras: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-17T18:00:49.688Z · 054-audiencias-debates v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df2hlDWETHd/
 - 2026-11-17T18:00:52.924Z · 054-audiencias-debates: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-18T12:00:47.010Z · am20261118-1130-vox-prioridad v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df4dKrXEzPK/
+- 2026-11-18T12:00:48.857Z · am20261118-1130-vox-prioridad: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
