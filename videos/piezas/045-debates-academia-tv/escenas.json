@@ -1,0 +1,418 @@
+{
+  "plantilla": "flash",
+  "duracion": 33.49,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "NINGUNA CADENA LO ORGANIZA",
+            "y": 330,
+            "tamano": 100,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "El cara a cara, explicado",
+            "y": 800,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "icono",
+            "nombre": "cartel",
+            "x": 540,
+            "y": 1050,
+            "tamano": 340,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 1.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "NINGUNA CADENA LO ORGANIZA",
+          "y": 330,
+          "tamano": 100,
+          "en": -1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "megafono",
+          "x": 540,
+          "y": 1000,
+          "tamano": 340,
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 1.74,
+      "fin": 3.78,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "CUALQUIERA PUEDE EMITIRLO",
+          "y": 330,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "megafono",
+          "x": 330,
+          "y": 1000,
+          "tamano": 340,
+          "en": 0
+        },
+        {
+          "tipo": "icono",
+          "nombre": "cartel",
+          "x": 760,
+          "y": 1000,
+          "tamano": 340,
+          "en": 0.4
+        }
+      ]
+    },
+    {
+      "inicio": 3.78,
+      "fin": 7.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HOY 19-11 · 22:00",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "CARA A CARA",
+          "y": 430,
+          "en": 1.5599999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "reloj",
+          "x": 540,
+          "y": 980,
+          "tamano": 480,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 7.66,
+      "fin": 11.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ACADEMIA DE TELEVISIÓN",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Moderadora: María Casado",
+          "y": 500,
+          "en": 2.08,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "megafono",
+          "x": 540,
+          "y": 980,
+          "tamano": 440,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 11.74,
+      "fin": 17.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CINCO BLOQUES PACTADOS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "1 Vivienda",
+          "y": 430,
+          "en": 1.4,
+          "tamano": 58
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2 Economía y fiscalidad",
+          "y": 520,
+          "en": 1.9,
+          "tamano": 58
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "3 Política social y servicios públicos",
+          "y": 610,
+          "en": 2.4,
+          "tamano": 58
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "4 Corrupción y regeneración democrática",
+          "y": 800,
+          "en": 3,
+          "tamano": 58
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "5 Migración y política exterior",
+          "y": 990,
+          "en": 3.6,
+          "tamano": 58
+        },
+        {
+          "tipo": "icono",
+          "nombre": "palacio",
+          "x": 180,
+          "y": 1480,
+          "tamano": 150,
+          "en": 1.4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "hucha",
+          "x": 360,
+          "y": 1480,
+          "tamano": 150,
+          "en": 1.9
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aula",
+          "x": 540,
+          "y": 1480,
+          "tamano": 150,
+          "en": 2.4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "balanzaSaco",
+          "x": 720,
+          "y": 1480,
+          "tamano": 150,
+          "en": 3
+        },
+        {
+          "tipo": "icono",
+          "nombre": "pin",
+          "x": 900,
+          "y": 1480,
+          "tamano": 150,
+          "en": 3.6
+        }
+      ]
+    },
+    {
+      "inicio": 17.46,
+      "fin": 20.43,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SORTEO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "ABRE: FEIJÓO",
+          "y": 520,
+          "alto": 200,
+          "ancho": 880,
+          "x": 60,
+          "en": 0.6599999999999999,
+          "entra": "izq",
+          "icono": false
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "CIERRA: SÁNCHEZ",
+          "y": 760,
+          "alto": 200,
+          "ancho": 880,
+          "x": 60,
+          "en": 1.62,
+          "entra": "abajo",
+          "icono": false
+        }
+      ]
+    },
+    {
+      "inicio": 20.43,
+      "fin": 22.7,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SEÑAL INSTITUCIONAL DE LA ACADEMIA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "megafono",
+          "x": 250,
+          "y": 980,
+          "tamano": 240,
+          "en": 0.3
+        },
+        {
+          "tipo": "icono",
+          "nombre": "tarjetas",
+          "x": 540,
+          "y": 980,
+          "tamano": 240,
+          "en": 0.81
+        },
+        {
+          "tipo": "icono",
+          "nombre": "cartel",
+          "x": 830,
+          "y": 980,
+          "tamano": 240,
+          "en": 1.49
+        }
+      ]
+    },
+    {
+      "inicio": 22.7,
+      "fin": 26.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "YA LO HAN ANUNCIADO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "La 1",
+          "y": 480,
+          "alto": 160,
+          "ancho": 880,
+          "x": 60,
+          "en": 0,
+          "entra": "izq",
+          "icono": false
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "Antena 3",
+          "y": 680,
+          "alto": 160,
+          "ancho": 880,
+          "x": 60,
+          "en": 0.68,
+          "entra": "abajo",
+          "icono": false
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "laSexta",
+          "y": 880,
+          "alto": 160,
+          "ancho": 880,
+          "x": 60,
+          "en": 1.3599999999999999,
+          "entra": "izq",
+          "icono": false
+        }
+      ]
+    },
+    {
+      "inicio": 26.1,
+      "fin": 29.3,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿DIRECTO O RESUMEN?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "A · En directo",
+          "y": 560,
+          "alto": 230,
+          "ancho": 880,
+          "x": 60,
+          "en": 0.54,
+          "entra": "izq",
+          "icono": false
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "B · En el resumen",
+          "y": 860,
+          "alto": 230,
+          "ancho": 880,
+          "x": 60,
+          "en": 1.4200000000000002,
+          "entra": "abajo",
+          "icono": false
+        }
+      ]
+    },
+    {
+      "inicio": 29.3,
+      "fin": 33.49,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿DIRECTO O RESUMEN?",
+          "tamano": 84,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

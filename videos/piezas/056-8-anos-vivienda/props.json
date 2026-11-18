@@ -1,0 +1,894 @@
+{
+  "plantilla": "flash",
+  "duracion": 35.21,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "cifraSerie",
+            "n": 12,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "COMPRAR CASA: +52 %",
+            "y": 500,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "¿Y EN EUROPA?",
+            "y": 680,
+            "en": -1,
+            "tamano": 88
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "2018 → 2025 · Eurostat",
+            "y": 800,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "lineasSerie",
+            "max": 60,
+            "base": 1100,
+            "hMax": 300,
+            "series": [
+              {
+                "nombre": "ESPAÑA",
+                "final": 52.3,
+                "color": "#14213D",
+                "en": 0.1,
+                "dec": true,
+                "dur": 2.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "cifraSerie",
+          "n": 12,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "COMPRAR CASA: +52 %",
+          "y": 500,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "¿Y EN EUROPA?",
+          "y": 680,
+          "en": -1,
+          "tamano": 88
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2018 → 2025 · Eurostat",
+          "y": 800,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 60,
+          "base": 1100,
+          "hMax": 300,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 52.3,
+              "color": "#14213D",
+              "en": 0.1,
+              "dec": true,
+              "dur": 2.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 4.22,
+      "fin": 8.57,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ESPAÑA 118,6 → 180,6 (+52 %)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "UE 114,8 → 161,9 (+41 %)",
+          "y": 450,
+          "en": 2.08,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Media anual 2018 (Sánchez, desde 2‑6‑2018)"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 60,
+          "base": 1100,
+          "hMax": 480,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 52.3,
+              "color": "#14213D",
+              "en": 0.2,
+              "dec": true,
+              "dur": 2.5
+            },
+            {
+              "nombre": "UE",
+              "final": 41,
+              "color": "#F2B134",
+              "en": 2.08,
+              "dec": true,
+              "dur": 1.8,
+              "pos": "abajo",
+              "ldy": 120,
+              "tam": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 8.57,
+      "fin": 11.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VIVIENDA, ÚLTIMO AÑO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "INE, IPV 2T-2026",
+          "y": 430,
+          "en": 0.4,
+          "tamano": 52
+        },
+        {
+          "tipo": "lineasSerie",
+          "max": 60,
+          "base": 1100,
+          "hMax": 480,
+          "series": [
+            {
+              "nombre": "ESPAÑA",
+              "final": 52.3,
+              "color": "#14213D",
+              "en": -5,
+              "dec": true
+            },
+            {
+              "nombre": "UE",
+              "final": 41,
+              "color": "#F2B134",
+              "en": -5,
+              "dec": true,
+              "pos": "abajo",
+              "ldy": 120,
+              "tam": 48
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "+12,2 % EN UN AÑO"
+          ],
+          "x": 330,
+          "y": 470,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 120,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 11.42,
+      "fin": 15.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "REMUNERACIÓN POR ASALARIADO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "VIVIENDA +52 %",
+              "valor": 52.3,
+              "color": "#C8553D",
+              "en": -1
+            },
+            {
+              "etiqueta": "REMUNERACIÓN +30 %",
+              "valor": 30.1,
+              "color": "#F2B134",
+              "en": 2.64
+            }
+          ],
+          "max": 60,
+          "paso": 20,
+          "y0": 600,
+          "alto": 170,
+          "x0": 110,
+          "largo": 700,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Eurostat, valores corrientes, incluye cotizaciones",
+            "(cálculo propio)"
+          ],
+          "en": 0.5,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 15.26,
+      "fin": 24.06,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ALQUILER IPC: +11,8 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Zona euro +14,8 %",
+          "y": 450,
+          "en": 3.9399999999999995,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "ESPAÑA +11,8 %",
+              "valor": 11.8,
+              "color": "#14213D",
+              "en": 0.3
+            },
+            {
+              "etiqueta": "ZONA EURO +14,8 %",
+              "valor": 14.8,
+              "color": "#F2B134",
+              "en": 4.04
+            }
+          ],
+          "max": 20,
+          "paso": 10,
+          "y0": 640,
+          "alto": 150,
+          "x0": 110,
+          "largo": 700,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "CONTRATOS VIVOS",
+            "NO LOS NUEVOS"
+          ],
+          "x": 540,
+          "y": 1000,
+          "desde": 40,
+          "angulo": -4,
+          "tamano": 54,
+          "en": 0.4
+        }
+      ]
+    },
+    {
+      "inicio": 24.06,
+      "fin": 28.7,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "URBANISMO Y VIVIENDA: CCAA Y AYUNTAMIENTOS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Estado: Ley de Vivienda 2023 y ayudas",
+          "y": 560,
+          "en": 1.26,
+          "tamano": 52
+        },
+        {
+          "tipo": "mapaCcaa",
+          "modo": "uno",
+          "x": 160,
+          "y": 560,
+          "esc": 0.37,
+          "en": 0.1,
+          "tono": "#C9CED8"
+        }
+      ]
+    },
+    {
+      "inicio": 28.7,
+      "fin": 31.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿COMPRAR O ALQUILAR?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "COMPRAR",
+          "b": "ALQUILAR",
+          "y": 700,
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 31.46,
+      "fin": 35.21,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierreSerie",
+          "siguiente": 13
+        }
+      ]
+    }
+  ],
+  "id": "056-8-anos-vivienda",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Comprar",
+      "inicio": 0,
+      "fin": 0.32
+    },
+    {
+      "t": "casa",
+      "inicio": 0.4,
+      "fin": 0.72
+    },
+    {
+      "t": "cuesta",
+      "inicio": 0.8,
+      "fin": 1.12
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 1.2,
+      "fin": 1.68
+    },
+    {
+      "t": "y",
+      "inicio": 1.76,
+      "fin": 1.84
+    },
+    {
+      "t": "dos",
+      "inicio": 1.88,
+      "fin": 1.92
+    },
+    {
+      "t": "por",
+      "inicio": 2.08,
+      "fin": 2.16
+    },
+    {
+      "t": "ciento",
+      "inicio": 2.24,
+      "fin": 2.48
+    },
+    {
+      "t": "más.",
+      "inicio": 2.56,
+      "fin": 3.04
+    },
+    {
+      "t": "¿Y",
+      "inicio": 3.2,
+      "fin": 3.28
+    },
+    {
+      "t": "en",
+      "inicio": 3.36,
+      "fin": 3.44
+    },
+    {
+      "t": "Europa?",
+      "inicio": 3.52,
+      "fin": 3.92
+    },
+    {
+      "t": "Desde",
+      "inicio": 4.32,
+      "fin": 4.56
+    },
+    {
+      "t": "dos",
+      "inicio": 4.64,
+      "fin": 4.72
+    },
+    {
+      "t": "mil",
+      "inicio": 4.8,
+      "fin": 4.88
+    },
+    {
+      "t": "dieciocho,",
+      "inicio": 4.96,
+      "fin": 5.68
+    },
+    {
+      "t": "aquí.",
+      "inicio": 5.8,
+      "fin": 6.24
+    },
+    {
+      "t": "En",
+      "inicio": 6.4,
+      "fin": 6.48
+    },
+    {
+      "t": "la",
+      "inicio": 6.52,
+      "fin": 6.56
+    },
+    {
+      "t": "Unión",
+      "inicio": 6.64,
+      "fin": 6.8
+    },
+    {
+      "t": "Europea,",
+      "inicio": 6.88,
+      "fin": 7.44
+    },
+    {
+      "t": "cuarenta",
+      "inicio": 7.52,
+      "fin": 7.96
+    },
+    {
+      "t": "y",
+      "inicio": 8,
+      "fin": 8.04
+    },
+    {
+      "t": "uno.",
+      "inicio": 8.08,
+      "fin": 8.64
+    },
+    {
+      "t": "Y",
+      "inicio": 8.667,
+      "fin": 8.693
+    },
+    {
+      "t": "el",
+      "inicio": 8.72,
+      "fin": 8.8
+    },
+    {
+      "t": "INE",
+      "inicio": 8.92,
+      "fin": 9.04
+    },
+    {
+      "t": "da",
+      "inicio": 9.2,
+      "fin": 9.28
+    },
+    {
+      "t": "un",
+      "inicio": 9.36,
+      "fin": 9.44
+    },
+    {
+      "t": "doce",
+      "inicio": 9.52,
+      "fin": 9.76
+    },
+    {
+      "t": "por",
+      "inicio": 9.84,
+      "fin": 9.92
+    },
+    {
+      "t": "ciento",
+      "inicio": 10,
+      "fin": 10.16
+    },
+    {
+      "t": "más",
+      "inicio": 10.24,
+      "fin": 10.4
+    },
+    {
+      "t": "que",
+      "inicio": 10.48,
+      "fin": 10.56
+    },
+    {
+      "t": "hace",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "t": "un",
+      "inicio": 10.8,
+      "fin": 10.88
+    },
+    {
+      "t": "año.",
+      "inicio": 10.92,
+      "fin": 11.2
+    },
+    {
+      "t": "La",
+      "inicio": 11.52,
+      "fin": 11.6
+    },
+    {
+      "t": "remuneración",
+      "inicio": 11.68,
+      "fin": 12.24
+    },
+    {
+      "t": "por",
+      "inicio": 12.32,
+      "fin": 12.4
+    },
+    {
+      "t": "asalariado",
+      "inicio": 12.48,
+      "fin": 12.96
+    },
+    {
+      "t": "ha",
+      "inicio": 13,
+      "fin": 13.04
+    },
+    {
+      "t": "subido",
+      "inicio": 13.12,
+      "fin": 13.44
+    },
+    {
+      "t": "menos:",
+      "inicio": 13.56,
+      "fin": 14.08
+    },
+    {
+      "t": "treinta",
+      "inicio": 14.16,
+      "fin": 14.4
+    },
+    {
+      "t": "por",
+      "inicio": 14.48,
+      "fin": 14.56
+    },
+    {
+      "t": "ciento.",
+      "inicio": 14.64,
+      "fin": 15.28
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 15.36,
+      "fin": 15.92
+    },
+    {
+      "t": "el",
+      "inicio": 15.96,
+      "fin": 16
+    },
+    {
+      "t": "alquiler",
+      "inicio": 16.08,
+      "fin": 16.4
+    },
+    {
+      "t": "que",
+      "inicio": 16.48,
+      "fin": 16.56
+    },
+    {
+      "t": "mide",
+      "inicio": 16.6,
+      "fin": 16.8
+    },
+    {
+      "t": "el",
+      "inicio": 16.84,
+      "fin": 16.88
+    },
+    {
+      "t": "IPC",
+      "inicio": 16.96,
+      "fin": 17.36
+    },
+    {
+      "t": "sube",
+      "inicio": 17.52,
+      "fin": 17.76
+    },
+    {
+      "t": "solo",
+      "inicio": 17.84,
+      "fin": 18
+    },
+    {
+      "t": "doce",
+      "inicio": 18.16,
+      "fin": 18.4
+    },
+    {
+      "t": "por",
+      "inicio": 18.48,
+      "fin": 18.56
+    },
+    {
+      "t": "ciento,",
+      "inicio": 18.64,
+      "fin": 19.28
+    },
+    {
+      "t": "menos",
+      "inicio": 19.4,
+      "fin": 19.6
+    },
+    {
+      "t": "que",
+      "inicio": 19.68,
+      "fin": 19.76
+    },
+    {
+      "t": "en",
+      "inicio": 19.8,
+      "fin": 19.84
+    },
+    {
+      "t": "la",
+      "inicio": 19.88,
+      "fin": 19.92
+    },
+    {
+      "t": "zona",
+      "inicio": 20,
+      "fin": 20.16
+    },
+    {
+      "t": "euro.",
+      "inicio": 20.24,
+      "fin": 20.68
+    },
+    {
+      "t": "Pero",
+      "inicio": 20.8,
+      "fin": 20.96
+    },
+    {
+      "t": "ese",
+      "inicio": 21.08,
+      "fin": 21.2
+    },
+    {
+      "t": "índice",
+      "inicio": 21.24,
+      "fin": 21.6
+    },
+    {
+      "t": "cuenta",
+      "inicio": 21.68,
+      "fin": 21.92
+    },
+    {
+      "t": "contratos",
+      "inicio": 22,
+      "fin": 22.48
+    },
+    {
+      "t": "viejos,",
+      "inicio": 22.6,
+      "fin": 23.12
+    },
+    {
+      "t": "no",
+      "inicio": 23.2,
+      "fin": 23.28
+    },
+    {
+      "t": "los",
+      "inicio": 23.36,
+      "fin": 23.44
+    },
+    {
+      "t": "nuevos.",
+      "inicio": 23.52,
+      "fin": 24.04
+    },
+    {
+      "t": "Y",
+      "inicio": 24.16,
+      "fin": 24.2
+    },
+    {
+      "t": "el",
+      "inicio": 24.24,
+      "fin": 24.32
+    },
+    {
+      "t": "urbanismo",
+      "inicio": 24.44,
+      "fin": 24.88
+    },
+    {
+      "t": "lo",
+      "inicio": 24.96,
+      "fin": 25.04
+    },
+    {
+      "t": "regulan",
+      "inicio": 25.12,
+      "fin": 25.44
+    },
+    {
+      "t": "comunidades",
+      "inicio": 25.52,
+      "fin": 26.08
+    },
+    {
+      "t": "y",
+      "inicio": 26.12,
+      "fin": 26.16
+    },
+    {
+      "t": "ayuntamientos,",
+      "inicio": 26.24,
+      "fin": 27.12
+    },
+    {
+      "t": "de",
+      "inicio": 27.2,
+      "fin": 27.28
+    },
+    {
+      "t": "todos",
+      "inicio": 27.44,
+      "fin": 27.76
+    },
+    {
+      "t": "los",
+      "inicio": 27.84,
+      "fin": 27.92
+    },
+    {
+      "t": "colores.",
+      "inicio": 28,
+      "fin": 28.48
+    },
+    {
+      "t": "¿Qué",
+      "inicio": 28.8,
+      "fin": 28.88
+    },
+    {
+      "t": "te",
+      "inicio": 28.92,
+      "fin": 28.96
+    },
+    {
+      "t": "frena",
+      "inicio": 29.04,
+      "fin": 29.28
+    },
+    {
+      "t": "más:",
+      "inicio": 29.36,
+      "fin": 29.84
+    },
+    {
+      "t": "comprar",
+      "inicio": 29.96,
+      "fin": 30.32
+    },
+    {
+      "t": "o",
+      "inicio": 30.56,
+      "fin": 30.6
+    },
+    {
+      "t": "alquilar?",
+      "inicio": 30.64,
+      "fin": 31.52
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 31.56,
+      "fin": 32.08
+    },
+    {
+      "t": "para",
+      "inicio": 32.16,
+      "fin": 32.24
+    },
+    {
+      "t": "estar",
+      "inicio": 32.36,
+      "fin": 32.48
+    },
+    {
+      "t": "informado.",
+      "inicio": 32.68,
+      "fin": 33.36
+    }
+  ]
+}

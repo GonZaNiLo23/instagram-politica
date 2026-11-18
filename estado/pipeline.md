@@ -93,7 +93,7 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 042 | 8-anos-presion-fiscal | 💶 Economía · serie 8 años | Flash | programado | 1 | 1 | 2026-11-13 13:30 (cola) | v1 APROBADO 9/10 |
 | 043 | regularizados-cotizan | 💶 Economía | Estándar | programado | 1 | 1 | 2026-11-12 13:30 (cola) | v1 APROBADO 9/10 |
 | 044 | deuda-bajo-100 | 💶 Economía | Estándar | programado | 1 | 1 | 2026-11-12 19:00 (cola) | v1 APROBADO 9/10 |
-| 045 | debates-academia-tv | 🔴 Actualidad · Cómo funciona | Flash | guion-aprobado | 1 | 0 | 2026-11-18 19:00 | guion CAMBIOS literales aplicados; recomprobar cadenas 18-11 |
+| 045 | debates-academia-tv | 🔴 Actualidad · Cómo funciona | Flash | programado | 1 | 3 | 2026-11-19 13:30 (cola) | v3 APROBADO 9/10 |
 | 046 | 8-anos-paro-juvenil | 💶 Economía · serie 8 años (Cifra 7, equilibrio) | Flash | programado | 1 | 1 | 2026-11-13 19:00 (cola) | v1 APROBADO 9/10 |
 | am20261112-1326-abascal-cancela-wild | Al minuto: Abascal cancela su entrevista con Jordi Wild | publicando (Al minuto horario) |
 | am20261112-1727-sanchez-decreto-vivienda | Al minuto: Sánchez defiende su decreto de vivienda | publicando (Al minuto horario) |

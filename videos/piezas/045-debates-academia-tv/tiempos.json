@@ -1,0 +1,428 @@
+{
+  "palabras": [
+    {
+      "t": "Ninguna",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "t": "cadena",
+      "inicio": 0.48,
+      "fin": 0.8
+    },
+    {
+      "t": "lo",
+      "inicio": 0.84,
+      "fin": 0.88
+    },
+    {
+      "t": "organiza.",
+      "inicio": 0.96,
+      "fin": 1.68
+    },
+    {
+      "t": "Pero",
+      "inicio": 1.84,
+      "fin": 2
+    },
+    {
+      "t": "cualquiera",
+      "inicio": 2.08,
+      "fin": 2.56
+    },
+    {
+      "t": "puede",
+      "inicio": 2.64,
+      "fin": 2.88
+    },
+    {
+      "t": "emitirlo.",
+      "inicio": 3,
+      "fin": 3.76
+    },
+    {
+      "t": "Esta",
+      "inicio": 3.88,
+      "fin": 4
+    },
+    {
+      "t": "noche,",
+      "inicio": 4.08,
+      "fin": 4.48
+    },
+    {
+      "t": "a",
+      "inicio": 4.56,
+      "fin": 4.6
+    },
+    {
+      "t": "las",
+      "inicio": 4.64,
+      "fin": 4.8
+    },
+    {
+      "t": "diez,",
+      "inicio": 4.92,
+      "fin": 5.36
+    },
+    {
+      "t": "Sánchez",
+      "inicio": 5.44,
+      "fin": 5.76
+    },
+    {
+      "t": "y",
+      "inicio": 5.84,
+      "fin": 5.88
+    },
+    {
+      "t": "Feijóo",
+      "inicio": 5.92,
+      "fin": 6.32
+    },
+    {
+      "t": "se",
+      "inicio": 6.4,
+      "fin": 6.48
+    },
+    {
+      "t": "verán",
+      "inicio": 6.56,
+      "fin": 6.72
+    },
+    {
+      "t": "las",
+      "inicio": 6.8,
+      "fin": 6.88
+    },
+    {
+      "t": "caras.",
+      "inicio": 6.96,
+      "fin": 7.56
+    },
+    {
+      "t": "Lo",
+      "inicio": 7.76,
+      "fin": 7.84
+    },
+    {
+      "t": "organiza",
+      "inicio": 7.96,
+      "fin": 8.24
+    },
+    {
+      "t": "la",
+      "inicio": 8.32,
+      "fin": 8.4
+    },
+    {
+      "t": "Academia",
+      "inicio": 8.48,
+      "fin": 8.88
+    },
+    {
+      "t": "de",
+      "inicio": 8.92,
+      "fin": 8.96
+    },
+    {
+      "t": "Televisión,",
+      "inicio": 9.04,
+      "fin": 9.76
+    },
+    {
+      "t": "con",
+      "inicio": 9.84,
+      "fin": 9.92
+    },
+    {
+      "t": "María",
+      "inicio": 10,
+      "fin": 10.24
+    },
+    {
+      "t": "Casado",
+      "inicio": 10.32,
+      "fin": 10.64
+    },
+    {
+      "t": "de",
+      "inicio": 10.72,
+      "fin": 10.76
+    },
+    {
+      "t": "moderadora.",
+      "inicio": 10.8,
+      "fin": 11.44
+    },
+    {
+      "t": "Con",
+      "inicio": 11.84,
+      "fin": 11.92
+    },
+    {
+      "t": "la",
+      "inicio": 12,
+      "fin": 12.04
+    },
+    {
+      "t": "Academia,",
+      "inicio": 12.08,
+      "fin": 12.64
+    },
+    {
+      "t": "PSOE",
+      "inicio": 12.72,
+      "fin": 13.2
+    },
+    {
+      "t": "y",
+      "inicio": 13.24,
+      "fin": 13.28
+    },
+    {
+      "t": "PP",
+      "inicio": 13.36,
+      "fin": 13.6
+    },
+    {
+      "t": "pactaron",
+      "inicio": 13.92,
+      "fin": 14.4
+    },
+    {
+      "t": "cinco",
+      "inicio": 14.48,
+      "fin": 14.72
+    },
+    {
+      "t": "bloques:",
+      "inicio": 14.8,
+      "fin": 15.52
+    },
+    {
+      "t": "de",
+      "inicio": 15.56,
+      "fin": 15.6
+    },
+    {
+      "t": "la",
+      "inicio": 15.64,
+      "fin": 15.68
+    },
+    {
+      "t": "vivienda",
+      "inicio": 15.76,
+      "fin": 16.32
+    },
+    {
+      "t": "a",
+      "inicio": 16.36,
+      "fin": 16.4
+    },
+    {
+      "t": "la",
+      "inicio": 16.44,
+      "fin": 16.48
+    },
+    {
+      "t": "migración.",
+      "inicio": 16.56,
+      "fin": 17.52
+    },
+    {
+      "t": "Por",
+      "inicio": 17.56,
+      "fin": 17.6
+    },
+    {
+      "t": "sorteo,",
+      "inicio": 17.68,
+      "fin": 18.24
+    },
+    {
+      "t": "Feijóo",
+      "inicio": 18.32,
+      "fin": 18.68
+    },
+    {
+      "t": "abre",
+      "inicio": 18.72,
+      "fin": 18.96
+    },
+    {
+      "t": "y",
+      "inicio": 19.12,
+      "fin": 19.2
+    },
+    {
+      "t": "Sánchez",
+      "inicio": 19.28,
+      "fin": 19.68
+    },
+    {
+      "t": "cierra.",
+      "inicio": 19.76,
+      "fin": 20.48
+    },
+    {
+      "t": "Cualquier",
+      "inicio": 20.533,
+      "fin": 20.8
+    },
+    {
+      "t": "cadena",
+      "inicio": 21,
+      "fin": 21.2
+    },
+    {
+      "t": "puede",
+      "inicio": 21.24,
+      "fin": 21.44
+    },
+    {
+      "t": "emitir",
+      "inicio": 21.56,
+      "fin": 21.84
+    },
+    {
+      "t": "su",
+      "inicio": 21.92,
+      "fin": 22
+    },
+    {
+      "t": "señal.",
+      "inicio": 22.08,
+      "fin": 22.72
+    },
+    {
+      "t": "La",
+      "inicio": 22.8,
+      "fin": 22.88
+    },
+    {
+      "t": "1,",
+      "inicio": 22.96,
+      "fin": 23.36
+    },
+    {
+      "t": "Antena",
+      "inicio": 23.48,
+      "fin": 23.68
+    },
+    {
+      "t": "3",
+      "inicio": 23.84,
+      "fin": 24
+    },
+    {
+      "t": "y",
+      "inicio": 24.08,
+      "fin": 24.12
+    },
+    {
+      "t": "laSexta",
+      "inicio": 24.16,
+      "fin": 24.72
+    },
+    {
+      "t": "ya",
+      "inicio": 24.8,
+      "fin": 24.96
+    },
+    {
+      "t": "lo",
+      "inicio": 25,
+      "fin": 25.04
+    },
+    {
+      "t": "han",
+      "inicio": 25.12,
+      "fin": 25.2
+    },
+    {
+      "t": "anunciado.",
+      "inicio": 25.28,
+      "fin": 26.16
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 26.2,
+      "fin": 26.28
+    },
+    {
+      "t": "verás",
+      "inicio": 26.32,
+      "fin": 26.56
+    },
+    {
+      "t": "en",
+      "inicio": 26.6,
+      "fin": 26.64
+    },
+    {
+      "t": "directo",
+      "inicio": 26.84,
+      "fin": 27.16
+    },
+    {
+      "t": "o",
+      "inicio": 27.28,
+      "fin": 27.36
+    },
+    {
+      "t": "en",
+      "inicio": 27.4,
+      "fin": 27.44
+    },
+    {
+      "t": "los",
+      "inicio": 27.52,
+      "fin": 27.6
+    },
+    {
+      "t": "resúmenes",
+      "inicio": 27.72,
+      "fin": 28.16
+    },
+    {
+      "t": "del",
+      "inicio": 28.2,
+      "fin": 28.24
+    },
+    {
+      "t": "día",
+      "inicio": 28.32,
+      "fin": 28.4
+    },
+    {
+      "t": "siguiente?",
+      "inicio": 28.48,
+      "fin": 29.36
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 29.4,
+      "fin": 29.84
+    },
+    {
+      "t": "para",
+      "inicio": 29.92,
+      "fin": 30.08
+    },
+    {
+      "t": "estar",
+      "inicio": 30.2,
+      "fin": 30.32
+    },
+    {
+      "t": "informado.",
+      "inicio": 30.48,
+      "fin": 31.12
+    }
+  ],
+  "duracion": 31.085714,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}
