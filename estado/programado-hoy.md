@@ -45,3 +45,4 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 052-voto-correo-29n (v1 reencodado) | Reel 65 s | Instagram + TikTok vía cola | 2026-11-18 13:30 | revisiones/guiones/052-…-v1.md · revisiones/videos/052-…-v1.md (9/10). Plazo de solicitud 19-11: no publicar después |
 | 055-encuestas-prohibidas (v2) | Reel 37 s | Instagram + TikTok () vía cola | 2026-11-18 19:00 | revisiones/guiones/055-…-v1.md (literales aplicados) · revisiones/videos/055-…-v2.md (9/10). Recomprobar LOREG 69.7 |
 | 045-debates-academia-tv (v3) | Reel 33 s | Instagram + TikTok () vía cola | 2026-11-19 13:30 | revisiones/guiones/045-…-v2.md · revisiones/videos/045-…-v3.md (9/10). Antes de publicar: ver si Mediaset confirma; el debate es el 19-11 22:00 |
+| 056-8-anos-vivienda (v4) | Reel 35 s | Instagram + TikTok () vía cola | 2026-11-19 19:00 | revisiones/guiones/056-…-v1.md · revisiones/videos/056-…-v4.md (9/10). Recomprobar que el INE no saque IPV 3T

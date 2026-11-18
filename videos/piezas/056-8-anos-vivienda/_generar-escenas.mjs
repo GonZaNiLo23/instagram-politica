@@ -24,10 +24,10 @@ const H = (filas, y0, alto, max = 60, paso = 20) => ({tipo: 'barrasHSerie', vivo
 
 const gancho = [
   {tipo: 'cifraSerie', n: N, en: -1},
-  {tipo: 'gancho', texto: `COMPRAR CASA: +52${NB}%`, y: 500, tamano: 104, en: -1},
-  rot(`¿Y EN EUROPA?`, 680, -1, {tamano: 88}),
-  rot(`2018 → 2025 · Eurostat`, 800, -1),
-  {tipo: 'lineasSerie', ...LIN, hMax: 300, base: 1100, series: [ES(0.1, {dur: 2.2})]},
+  {tipo: 'gancho', texto: `COMPRAR CASA: +52${NB}%`, y: 480, tamano: 104, en: -1},
+  rot(`¿Y EN EUROPA?`, 760, -1, {tamano: 88}),
+  rot(`2018 → 2025 · Eurostat`, 860, -1, {tamano: 52}),
+  {tipo: 'lineasSerie', ...LIN, hMax: 110, base: 1100, series: [ES(0.1, {dur: 2.2})]},
 ];
 const b1 = S(12);
 esc(0, b1, {fondo: 'crema'}, gancho);
@@ -40,10 +40,10 @@ esc(b1, b2, {fondo: 'crema'}, [
 ]);
 const b3 = S(37);
 esc(b2, b3, {fondo: 'crema'}, [
-  rot(`VIVIENDA, ÚLTIMO AÑO`, 330, 0.05),
+  rot(`HACE UN AÑO`, 330, 0.05),
   rot(`INE, IPV 2T-2026`, 430, 0.4, {tamano: 52}),
-  {tipo: 'lineasSerie', ...LIN, hMax: 480, series: [ES(-5), UE(-5, {pos: 'abajo', ldy: 120, tam: 48})]},
-  {tipo: 'selloTexto', lineas: [`+12,2${NB}% EN UN${NB}AÑO`], x: 330, y: 470, desde: 40, angulo: -5, tamano: 120, en: 0.3},
+  {tipo: 'lineasSerie', ...LIN, hMax: 360, series: [ES(-5), UE(-5, {pos: 'abajo', ldy: 120, tam: 48})]},
+  {tipo: 'selloTexto', lineas: ['+12,2 % EN UN AÑO'], x: 540, y: 545, desde: 40, angulo: -3, tamano: 60, en: 0.3},
 ]);
 const b4 = S(47);
 esc(b3, b4, {fondo: 'crema'}, [
@@ -56,13 +56,13 @@ esc(b4, b5, {fondo: 'crema'}, [
   rot(`ALQUILER IPC: +11,8${NB}%`, 330, 0.05),
   rot(`Zona euro +14,8${NB}%`, 450, rel(b4, 59) - 0.2),
   H([f(`ESPAÑA +11,8${NB}%`, 11.8, TINTA, 0.3), f(`ZONA EURO +14,8${NB}%`, 14.8, MOST, rel(b4, 59) - 0.1)], 640, 150, 20, 10),
-  {tipo: 'selloTexto', lineas: ['CONTRATOS VIVOS', 'NO LOS NUEVOS'], x: 540, y: 1000, desde: 40, angulo: -4, tamano: 54, en: 0.4},
+  {tipo: 'selloTexto', lineas: ['CONTRATOS VIVOS', 'NO LOS NUEVOS'], x: 540, y: 1035, desde: 40, angulo: -4, tamano: 50, en: 0.4},
 ]);
 const b6 = S(86);
 esc(b5, b6, {fondo: 'crema'}, [
   rot(`URBANISMO Y VIVIENDA: CCAA Y AYUNTAMIENTOS`, 330, 0.05),
   rot(`Estado: Ley de Vivienda 2023 y${NB}ayudas`, 560, rel(b5, 79) - 0.2, {tamano: 52}),
-  {tipo: 'mapaCcaa', modo: 'uno', x: 160, y: 560, esc: 0.37, en: 0.1, tono: '#C9CED8'},
+  {tipo: 'mapaCcaa', modo: 'uno', x: 160, y: 760, esc: 0.37, en: 0.1, tono: '#C9CED8'},
 ]);
 const b7 = S(93);
 esc(b6, b7, {fondo: 'crema'}, [

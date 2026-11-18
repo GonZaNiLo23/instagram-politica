@@ -25,29 +25,29 @@
           {
             "tipo": "gancho",
             "texto": "COMPRAR CASA: +52 %",
-            "y": 500,
+            "y": 480,
             "tamano": 104,
             "en": -1
           },
           {
             "tipo": "rotulo",
             "texto": "¿Y EN EUROPA?",
-            "y": 680,
+            "y": 760,
             "en": -1,
             "tamano": 88
           },
           {
             "tipo": "rotulo",
             "texto": "2018 → 2025 · Eurostat",
-            "y": 800,
+            "y": 860,
             "en": -1,
-            "tamano": 64
+            "tamano": 52
           },
           {
             "tipo": "lineasSerie",
             "max": 60,
             "base": 1100,
-            "hMax": 300,
+            "hMax": 110,
             "series": [
               {
                 "nombre": "ESPAÑA",
@@ -77,29 +77,29 @@
         {
           "tipo": "gancho",
           "texto": "COMPRAR CASA: +52 %",
-          "y": 500,
+          "y": 480,
           "tamano": 104,
           "en": -1
         },
         {
           "tipo": "rotulo",
           "texto": "¿Y EN EUROPA?",
-          "y": 680,
+          "y": 760,
           "en": -1,
           "tamano": 88
         },
         {
           "tipo": "rotulo",
           "texto": "2018 → 2025 · Eurostat",
-          "y": 800,
+          "y": 860,
           "en": -1,
-          "tamano": 64
+          "tamano": 52
         },
         {
           "tipo": "lineasSerie",
           "max": 60,
           "base": 1100,
-          "hMax": 300,
+          "hMax": 110,
           "series": [
             {
               "nombre": "ESPAÑA",
@@ -176,7 +176,7 @@
       "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "VIVIENDA, ÚLTIMO AÑO",
+          "texto": "HACE UN AÑO",
           "y": 330,
           "en": 0.05,
           "tamano": 64
@@ -192,7 +192,7 @@
           "tipo": "lineasSerie",
           "max": 60,
           "base": 1100,
-          "hMax": 480,
+          "hMax": 360,
           "series": [
             {
               "nombre": "ESPAÑA",
@@ -216,13 +216,13 @@
         {
           "tipo": "selloTexto",
           "lineas": [
-            "+12,2 % EN UN AÑO"
+            "+12,2 % EN UN AÑO"
           ],
-          "x": 330,
-          "y": 470,
+          "x": 540,
+          "y": 545,
           "desde": 40,
-          "angulo": -5,
-          "tamano": 120,
+          "angulo": -3,
+          "tamano": 60,
           "en": 0.3
         }
       ]
@@ -328,10 +328,10 @@
             "NO LOS NUEVOS"
           ],
           "x": 540,
-          "y": 1000,
+          "y": 1035,
           "desde": 40,
           "angulo": -4,
-          "tamano": 54,
+          "tamano": 50,
           "en": 0.4
         }
       ]
@@ -359,7 +359,7 @@
           "tipo": "mapaCcaa",
           "modo": "uno",
           "x": 160,
-          "y": 560,
+          "y": 760,
           "esc": 0.37,
           "en": 0.1,
           "tono": "#C9CED8"

@@ -17,4 +17,6 @@ Fuente: Eurostat (prc_hpi_a, nama_10_a10, nama_10_a10_e, prc_hicp_aind) e INE (I
 
 #8AñosEnCifras #Vivienda #Eurostat #INE #Economía #España
 
+Música: "Investigations", Kevin MacLeod (incompetech.com), CC BY 4.0.
+
 👉 Síguenos para estar informado

@@ -58,3 +58,4 @@
 - 2026-11-16: antes de encargar, `git fetch` y mira origin/main: otra ejecución ya había encolado 053/054 del 17-11 y mis guiones duplicados se descartaron (gasto inútil).
 - [nube, 2026-11-17] Rutina claude.ai: red igual (curl 000). Informe y salida. 052 falló en IG (transcoding, no reintentable): avisado; huecos 18 y 19-11 para produccion.yml.
 - 2026-11-17: sin serie ni propuestas libres, el buscador dio 3 temas en 4 min; el render v2 sin --voz reutiliza la voz y ahorra créditos.
+- 2026-11-18: el generador crea escenas.json/_generar-escenas.mjs si falta; cuidado: el revisor puede ver un render intermedio si lanzas la revisión mientras el generador aún corrige (esperar su aviso). Piezas con 4 vueltas de vídeo cuestan ~25 min.

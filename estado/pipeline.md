@@ -119,3 +119,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 055 | encuestas-prohibidas | ⚙️ Cómo funciona | Flash | programado | 1 | 2 | 2026-11-18 19:00 (cola) | v2 APROBADO 9/10 |
 | am20261117-1330-alvise-vivienda | Al minuto · propuesta Alvise vivienda | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-17 14:00 | autocomprobación |
 | am20261117-1530-abascal-fronteras | Al minuto · Abascal: las fronteras se pueden defender | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-17 16:00 | autocomprobación |
+| 056 | 8-anos-vivienda | 💶 Economía · serie 8 años | Flash | programado | 1 | 4 | 2026-11-19 19:00 (cola) | v4 APROBADO 9/10 |
