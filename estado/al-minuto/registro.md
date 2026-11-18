@@ -291,3 +291,4 @@
 - 2026-11-17 15:30 UTC · 2 · @vox_es (acto Tenerife, 25 s) · descartado: transcripción mínima, sin frase clara; viral 21,7
 - 2026-11-17 17:30 UTC (publicación 18:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
 - 2026-11-17 19:30 UTC (publicación 20:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
+- 2026-11-18 07:42 UTC (publicación 08:00 Madrid) · 1 · @santi_abascal (agradecimiento Lanzarote/Las Palmas, 28,3 s) · descartado: sin habla ni frases (solo música/imágenes); viral 4,9. Único candidato. Sin publicación.
