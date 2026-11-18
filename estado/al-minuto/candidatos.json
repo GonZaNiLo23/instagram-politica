@@ -1,27 +1,1184 @@
 {
- "generado": "2026-11-18T07:41:58.803Z",
+ "generado": "2026-11-18T09:29:44.048Z",
  "total_detectados": 1,
  "candidatos": [
   {
-   "id": "ig-17968413305984547",
+   "id": "ig-18132196447857441",
    "fuente": "instagram",
-   "cuenta": "@santi_abascal",
-   "nombre": "🇪🇸 Santiago Abascal 🇪🇸",
-   "espacio": "afin",
-   "seguidores": 1710959,
-   "fecha": "2026-11-18T07:38:30+0000",
-   "horas": 0.1,
-   "me_gusta": 42,
-   "comentarios": 0,
-   "viral": 4.9,
-   "enlace": "https://www.instagram.com/reel/Df3_GbhoTJQ/",
-   "texto": "GRACIAS LANZAROTE!\n¡GRACIAS LAS PALMAS!\n#Canarias es Sentido Común",
-   "credito": "Vídeo: @santi_abascal",
-   "duracion": 28.3,
-   "archivo": "ig-17968413305984547.mp4",
-   "frases": [],
-   "palabras": [],
-   "habla": false
+   "cuenta": "@sanchezcastejon",
+   "nombre": "Pedro Sánchez",
+   "espacio": "otros",
+   "seguidores": 2376995,
+   "fecha": "2026-11-18T07:51:57+0000",
+   "horas": 1.6,
+   "me_gusta": 9267,
+   "comentarios": 566,
+   "viral": 268.4,
+   "enlace": "https://www.instagram.com/reel/Df4AjPGKKwv/",
+   "texto": "Quieren hacerte creer que da igual quién gobierne este país.\n\nPero no da igual. \nPregúntale a Clara y a Javier.\n\n#LaFuerzaDeLaGente \n#VotaPSOE",
+   "credito": "Vídeo: @sanchezcastejon",
+   "duracion": 86,
+   "archivo": "ig-18132196447857441.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 1.5,
+     "texto": "¿Mejor o peor con éstas?"
+    },
+    {
+     "inicio": 2.5,
+     "fin": 3.1,
+     "texto": "Mejor."
+    },
+    {
+     "inicio": 3.52,
+     "fin": 6.02,
+     "texto": "Quieren hacerte creer que da igual que en gobiernes de país,"
+    },
+    {
+     "inicio": 6.52,
+     "fin": 8.72,
+     "texto": "pero a Clara y a Javier sí que les importa."
+    },
+    {
+     "inicio": 9.16,
+     "fin": 10.94,
+     "texto": "O, H..."
+    },
+    {
+     "inicio": 10.94,
+     "fin": 13.12,
+     "texto": "Este es Javier, tiene 42 años"
+    },
+    {
+     "inicio": 13.8,
+     "fin": 15.74,
+     "texto": "y trabaja de camarero en un restaurante."
+    },
+    {
+     "inicio": 16.36,
+     "fin": 17.36,
+     "texto": "Ma'am, hija, le encantaría."
+    },
+    {
+     "inicio": 17.64,
+     "fin": 19.18,
+     "texto": "Javier le ha prometido a Clara"
+    },
+    {
+     "inicio": 19.18,
+     "fin": 21.16,
+     "texto": "que algún día la llevará allí."
+    },
+    {
+     "inicio": 22.98,
+     "fin": 24.28,
+     "texto": "Y ésta es Clara."
+    },
+    {
+     "inicio": 25.18,
+     "fin": 26.04,
+     "texto": "Necesita gafas,"
+    },
+    {
+     "inicio": 26.72,
+     "fin": 29.3,
+     "texto": "así que Javier ha cambiado su turno para traerla."
+    },
+    {
+     "inicio": 30.12,
+     "fin": 31.32,
+     "texto": "Tiene 14 años"
+    },
+    {
+     "inicio": 32.38,
+     "fin": 34.18,
+     "texto": "y ya sabe lo que cuestan las cosas."
+    },
+    {
+     "inicio": 39.03,
+     "fin": 41.15,
+     "texto": "Javier recuerda cuando Clara era pequeña."
+    },
+    {
+     "inicio": 42.03,
+     "fin": 45.31,
+     "texto": "Entonces se cobraba el salario mínimo 735 euros"
+    },
+    {
+     "inicio": 45.31,
+     "fin": 47.65,
+     "texto": "y muchas veces tenía que decirle que no."
+    },
+    {
+     "inicio": 48.53,
+     "fin": 50.19,
+     "texto": "Hoy gana 2.000 euros."
+    },
+    {
+     "inicio": 51.01,
+     "fin": 51.65,
+     "texto": "¿Y éstas?"
+    },
+    {
+     "inicio": 52.49,
+     "fin": 52.89,
+     "texto": "¿Te gustan?"
+    },
+    {
+     "inicio": 53.41,
+     "fin": 54.89,
+     "texto": "Y hoy puede decirle que sí."
+    },
+    {
+     "inicio": 57.02,
+     "fin": 57.58,
+     "texto": "Mejor no."
+    },
+    {
+     "inicio": 59.96,
+     "fin": 60.44,
+     "texto": "175."
+    },
+    {
+     "inicio": 61.12,
+     "fin": 62.88,
+     "texto": "Son 175 con los cristales,"
+    },
+    {
+     "inicio": 63.06,
+     "fin": 64.8,
+     "texto": "pero con el plan veo son 100 euros menos."
+    },
+    {
+     "inicio": 65.1,
+     "fin": 65.52,
+     "texto": "100 euros?"
+    },
+    {
+     "inicio": 65.52,
+     "fin": 65.82,
+     "texto": "Sí."
+    },
+    {
+     "inicio": 66.1,
+     "fin": 68.32,
+     "texto": "Es para cualquier persona de 16 años o menos"
+    },
+    {
+     "inicio": 68.32,
+     "fin": 70.2,
+     "texto": "y además se descuenta directamente de la factura."
+    },
+    {
+     "inicio": 71.2,
+     "fin": 71.88,
+     "texto": "100 euros,"
+    },
+    {
+     "inicio": 72.28,
+     "fin": 74.26,
+     "texto": "que ahora podrá dedicar a algo especial"
+    },
+    {
+     "inicio": 74.26,
+     "fin": 76.12,
+     "texto": "que tenía pendiente desde hace tiempo."
+    },
+    {
+     "inicio": 76.78,
+     "fin": 77.06,
+     "texto": "Gracias."
+    },
+    {
+     "inicio": 77.72,
+     "fin": 80.46,
+     "texto": "Así que cuando te digan que da igual quien gobierna"
+    },
+    {
+     "inicio": 80.46,
+     "fin": 81.44,
+     "texto": "no da igual."
+    },
+    {
+     "inicio": 81.82,
+     "fin": 83.54,
+     "texto": "Pregúntales a Clara y a Javier."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "¿Mejor",
+     "inicio": 0,
+     "fin": 0.5
+    },
+    {
+     "t": "o",
+     "inicio": 0.5,
+     "fin": 0.66
+    },
+    {
+     "t": "peor",
+     "inicio": 0.66,
+     "fin": 0.9
+    },
+    {
+     "t": "con",
+     "inicio": 0.9,
+     "fin": 1.08
+    },
+    {
+     "t": "éstas?",
+     "inicio": 1.08,
+     "fin": 1.5
+    },
+    {
+     "t": "Mejor.",
+     "inicio": 2.5,
+     "fin": 3.1
+    },
+    {
+     "t": "Quieren",
+     "inicio": 3.52,
+     "fin": 3.88
+    },
+    {
+     "t": "hacerte",
+     "inicio": 3.88,
+     "fin": 4.18
+    },
+    {
+     "t": "creer",
+     "inicio": 4.18,
+     "fin": 4.54
+    },
+    {
+     "t": "que",
+     "inicio": 4.54,
+     "fin": 4.76
+    },
+    {
+     "t": "da",
+     "inicio": 4.76,
+     "fin": 4.88
+    },
+    {
+     "t": "igual",
+     "inicio": 4.88,
+     "fin": 5.06
+    },
+    {
+     "t": "que",
+     "inicio": 5.06,
+     "fin": 5.24
+    },
+    {
+     "t": "en",
+     "inicio": 5.24,
+     "fin": 5.34
+    },
+    {
+     "t": "gobiernes",
+     "inicio": 5.34,
+     "fin": 5.64
+    },
+    {
+     "t": "de",
+     "inicio": 5.64,
+     "fin": 5.76
+    },
+    {
+     "t": "país,",
+     "inicio": 5.76,
+     "fin": 6.02
+    },
+    {
+     "t": "pero",
+     "inicio": 6.52,
+     "fin": 6.78
+    },
+    {
+     "t": "a",
+     "inicio": 6.78,
+     "fin": 6.88
+    },
+    {
+     "t": "Clara",
+     "inicio": 6.88,
+     "fin": 7.04
+    },
+    {
+     "t": "y",
+     "inicio": 7.04,
+     "fin": 7.2
+    },
+    {
+     "t": "a",
+     "inicio": 7.2,
+     "fin": 7.28
+    },
+    {
+     "t": "Javier",
+     "inicio": 7.28,
+     "fin": 7.46
+    },
+    {
+     "t": "sí",
+     "inicio": 7.46,
+     "fin": 8.2
+    },
+    {
+     "t": "que",
+     "inicio": 8.2,
+     "fin": 8.32
+    },
+    {
+     "t": "les",
+     "inicio": 8.32,
+     "fin": 8.42
+    },
+    {
+     "t": "importa.",
+     "inicio": 8.42,
+     "fin": 8.72
+    },
+    {
+     "t": "O,",
+     "inicio": 9.16,
+     "fin": 9.5
+    },
+    {
+     "t": "H...",
+     "inicio": 10.12,
+     "fin": 10.94
+    },
+    {
+     "t": "Este",
+     "inicio": 10.94,
+     "fin": 11.14
+    },
+    {
+     "t": "es",
+     "inicio": 11.14,
+     "fin": 11.24
+    },
+    {
+     "t": "Javier,",
+     "inicio": 11.24,
+     "fin": 11.46
+    },
+    {
+     "t": "tiene",
+     "inicio": 12.04,
+     "fin": 12.38
+    },
+    {
+     "t": "42",
+     "inicio": 12.38,
+     "fin": 12.78
+    },
+    {
+     "t": "años",
+     "inicio": 12.78,
+     "fin": 13.12
+    },
+    {
+     "t": "y",
+     "inicio": 13.8,
+     "fin": 14.1
+    },
+    {
+     "t": "trabaja",
+     "inicio": 14.1,
+     "fin": 14.44
+    },
+    {
+     "t": "de",
+     "inicio": 14.44,
+     "fin": 14.56
+    },
+    {
+     "t": "camarero",
+     "inicio": 14.56,
+     "fin": 14.94
+    },
+    {
+     "t": "en",
+     "inicio": 14.94,
+     "fin": 15.04
+    },
+    {
+     "t": "un",
+     "inicio": 15.04,
+     "fin": 15.16
+    },
+    {
+     "t": "restaurante.",
+     "inicio": 15.16,
+     "fin": 15.74
+    },
+    {
+     "t": "Ma",
+     "inicio": 16.36,
+     "fin": 16.68
+    },
+    {
+     "t": "'am,",
+     "inicio": 16.68,
+     "fin": 16.76
+    },
+    {
+     "t": "hija,",
+     "inicio": 16.76,
+     "fin": 16.88
+    },
+    {
+     "t": "le",
+     "inicio": 16.9,
+     "fin": 16.96
+    },
+    {
+     "t": "encantaría.",
+     "inicio": 16.96,
+     "fin": 17.36
+    },
+    {
+     "t": "Javier",
+     "inicio": 17.64,
+     "fin": 17.98
+    },
+    {
+     "t": "le",
+     "inicio": 17.98,
+     "fin": 18.26
+    },
+    {
+     "t": "ha",
+     "inicio": 18.26,
+     "fin": 18.32
+    },
+    {
+     "t": "prometido",
+     "inicio": 18.32,
+     "fin": 18.72
+    },
+    {
+     "t": "a",
+     "inicio": 18.72,
+     "fin": 18.86
+    },
+    {
+     "t": "Clara",
+     "inicio": 18.86,
+     "fin": 19.18
+    },
+    {
+     "t": "que",
+     "inicio": 19.18,
+     "fin": 19.64
+    },
+    {
+     "t": "algún",
+     "inicio": 19.64,
+     "fin": 19.86
+    },
+    {
+     "t": "día",
+     "inicio": 19.86,
+     "fin": 20.08
+    },
+    {
+     "t": "la",
+     "inicio": 20.08,
+     "fin": 20.66
+    },
+    {
+     "t": "llevará",
+     "inicio": 20.66,
+     "fin": 20.96
+    },
+    {
+     "t": "allí.",
+     "inicio": 20.96,
+     "fin": 21.16
+    },
+    {
+     "t": "Y",
+     "inicio": 22.98,
+     "fin": 23.2
+    },
+    {
+     "t": "ésta",
+     "inicio": 23.2,
+     "fin": 23.48
+    },
+    {
+     "t": "es",
+     "inicio": 23.48,
+     "fin": 24.02
+    },
+    {
+     "t": "Clara.",
+     "inicio": 24.02,
+     "fin": 24.28
+    },
+    {
+     "t": "Necesita",
+     "inicio": 25.18,
+     "fin": 25.64
+    },
+    {
+     "t": "gafas,",
+     "inicio": 25.64,
+     "fin": 26.04
+    },
+    {
+     "t": "así",
+     "inicio": 26.72,
+     "fin": 26.96
+    },
+    {
+     "t": "que",
+     "inicio": 26.96,
+     "fin": 27.08
+    },
+    {
+     "t": "Javier",
+     "inicio": 27.08,
+     "fin": 27.38
+    },
+    {
+     "t": "ha",
+     "inicio": 27.38,
+     "fin": 27.88
+    },
+    {
+     "t": "cambiado",
+     "inicio": 27.88,
+     "fin": 28.16
+    },
+    {
+     "t": "su",
+     "inicio": 28.16,
+     "fin": 28.3
+    },
+    {
+     "t": "turno",
+     "inicio": 28.3,
+     "fin": 28.64
+    },
+    {
+     "t": "para",
+     "inicio": 28.64,
+     "fin": 28.84
+    },
+    {
+     "t": "traerla.",
+     "inicio": 28.84,
+     "fin": 29.3
+    },
+    {
+     "t": "Tiene",
+     "inicio": 30.12,
+     "fin": 30.68
+    },
+    {
+     "t": "14",
+     "inicio": 30.68,
+     "fin": 30.92
+    },
+    {
+     "t": "años",
+     "inicio": 30.92,
+     "fin": 31.32
+    },
+    {
+     "t": "y",
+     "inicio": 32.38,
+     "fin": 32.94
+    },
+    {
+     "t": "ya",
+     "inicio": 32.94,
+     "fin": 33.12
+    },
+    {
+     "t": "sabe",
+     "inicio": 33.12,
+     "fin": 33.32
+    },
+    {
+     "t": "lo",
+     "inicio": 33.32,
+     "fin": 33.44
+    },
+    {
+     "t": "que",
+     "inicio": 33.44,
+     "fin": 33.52
+    },
+    {
+     "t": "cuestan",
+     "inicio": 33.52,
+     "fin": 33.82
+    },
+    {
+     "t": "las",
+     "inicio": 33.82,
+     "fin": 33.96
+    },
+    {
+     "t": "cosas.",
+     "inicio": 33.96,
+     "fin": 34.18
+    },
+    {
+     "t": "Javier",
+     "inicio": 39.03,
+     "fin": 39.59
+    },
+    {
+     "t": "recuerda",
+     "inicio": 39.59,
+     "fin": 40.15
+    },
+    {
+     "t": "cuando",
+     "inicio": 40.15,
+     "fin": 40.33
+    },
+    {
+     "t": "Clara",
+     "inicio": 40.33,
+     "fin": 40.65
+    },
+    {
+     "t": "era",
+     "inicio": 40.65,
+     "fin": 40.81
+    },
+    {
+     "t": "pequeña.",
+     "inicio": 40.81,
+     "fin": 41.15
+    },
+    {
+     "t": "Entonces",
+     "inicio": 42.03,
+     "fin": 42.37
+    },
+    {
+     "t": "se",
+     "inicio": 42.37,
+     "fin": 42.71
+    },
+    {
+     "t": "cobraba",
+     "inicio": 42.71,
+     "fin": 43.09
+    },
+    {
+     "t": "el",
+     "inicio": 43.09,
+     "fin": 43.17
+    },
+    {
+     "t": "salario",
+     "inicio": 43.17,
+     "fin": 43.45
+    },
+    {
+     "t": "mínimo",
+     "inicio": 43.45,
+     "fin": 43.75
+    },
+    {
+     "t": "735",
+     "inicio": 43.75,
+     "fin": 44.73
+    },
+    {
+     "t": "euros",
+     "inicio": 44.73,
+     "fin": 45.31
+    },
+    {
+     "t": "y",
+     "inicio": 45.31,
+     "fin": 46.19
+    },
+    {
+     "t": "muchas",
+     "inicio": 46.19,
+     "fin": 46.39
+    },
+    {
+     "t": "veces",
+     "inicio": 46.39,
+     "fin": 46.63
+    },
+    {
+     "t": "tenía",
+     "inicio": 46.63,
+     "fin": 46.89
+    },
+    {
+     "t": "que",
+     "inicio": 46.89,
+     "fin": 47.03
+    },
+    {
+     "t": "decirle",
+     "inicio": 47.03,
+     "fin": 47.41
+    },
+    {
+     "t": "que",
+     "inicio": 47.41,
+     "fin": 47.51
+    },
+    {
+     "t": "no.",
+     "inicio": 47.51,
+     "fin": 47.65
+    },
+    {
+     "t": "Hoy",
+     "inicio": 48.53,
+     "fin": 48.87
+    },
+    {
+     "t": "gana",
+     "inicio": 48.87,
+     "fin": 49.57
+    },
+    {
+     "t": "2",
+     "inicio": 49.57,
+     "fin": 49.77
+    },
+    {
+     "t": ".000",
+     "inicio": 49.77,
+     "fin": 49.91
+    },
+    {
+     "t": "euros.",
+     "inicio": 49.91,
+     "fin": 50.19
+    },
+    {
+     "t": "¿Y",
+     "inicio": 51.01,
+     "fin": 51.35
+    },
+    {
+     "t": "éstas?",
+     "inicio": 51.35,
+     "fin": 51.65
+    },
+    {
+     "t": "¿Te",
+     "inicio": 52.49,
+     "fin": 52.63
+    },
+    {
+     "t": "gustan?",
+     "inicio": 52.63,
+     "fin": 52.89
+    },
+    {
+     "t": "Y",
+     "inicio": 53.41,
+     "fin": 53.53
+    },
+    {
+     "t": "hoy",
+     "inicio": 53.53,
+     "fin": 53.63
+    },
+    {
+     "t": "puede",
+     "inicio": 53.63,
+     "fin": 53.95
+    },
+    {
+     "t": "decirle",
+     "inicio": 53.95,
+     "fin": 54.43
+    },
+    {
+     "t": "que",
+     "inicio": 54.43,
+     "fin": 54.71
+    },
+    {
+     "t": "sí.",
+     "inicio": 54.71,
+     "fin": 54.89
+    },
+    {
+     "t": "Mejor",
+     "inicio": 57.02,
+     "fin": 57.34
+    },
+    {
+     "t": "no.",
+     "inicio": 57.34,
+     "fin": 57.58
+    },
+    {
+     "t": "175.",
+     "inicio": 59.96,
+     "fin": 60.44
+    },
+    {
+     "t": "Son",
+     "inicio": 61.12,
+     "fin": 61.44
+    },
+    {
+     "t": "175",
+     "inicio": 61.44,
+     "fin": 61.92
+    },
+    {
+     "t": "con",
+     "inicio": 61.92,
+     "fin": 62.32
+    },
+    {
+     "t": "los",
+     "inicio": 62.32,
+     "fin": 62.42
+    },
+    {
+     "t": "cristales,",
+     "inicio": 62.42,
+     "fin": 62.88
+    },
+    {
+     "t": "pero",
+     "inicio": 63.06,
+     "fin": 63.2
+    },
+    {
+     "t": "con",
+     "inicio": 63.2,
+     "fin": 63.4
+    },
+    {
+     "t": "el",
+     "inicio": 63.4,
+     "fin": 63.5
+    },
+    {
+     "t": "plan",
+     "inicio": 63.5,
+     "fin": 63.72
+    },
+    {
+     "t": "veo",
+     "inicio": 63.72,
+     "fin": 63.94
+    },
+    {
+     "t": "son",
+     "inicio": 63.94,
+     "fin": 64.26
+    },
+    {
+     "t": "100",
+     "inicio": 64.26,
+     "fin": 64.4
+    },
+    {
+     "t": "euros",
+     "inicio": 64.4,
+     "fin": 64.58
+    },
+    {
+     "t": "menos.",
+     "inicio": 64.58,
+     "fin": 64.8
+    },
+    {
+     "t": "100",
+     "inicio": 65.1,
+     "fin": 65.36
+    },
+    {
+     "t": "euros?",
+     "inicio": 65.36,
+     "fin": 65.52
+    },
+    {
+     "t": "Sí.",
+     "inicio": 65.52,
+     "fin": 65.82
+    },
+    {
+     "t": "Es",
+     "inicio": 66.1,
+     "fin": 66.18
+    },
+    {
+     "t": "para",
+     "inicio": 66.18,
+     "fin": 66.3
+    },
+    {
+     "t": "cualquier",
+     "inicio": 66.3,
+     "fin": 66.5
+    },
+    {
+     "t": "persona",
+     "inicio": 66.5,
+     "fin": 66.86
+    },
+    {
+     "t": "de",
+     "inicio": 66.86,
+     "fin": 67.06
+    },
+    {
+     "t": "16",
+     "inicio": 67.06,
+     "fin": 67.44
+    },
+    {
+     "t": "años",
+     "inicio": 67.44,
+     "fin": 67.88
+    },
+    {
+     "t": "o",
+     "inicio": 67.88,
+     "fin": 68.08
+    },
+    {
+     "t": "menos",
+     "inicio": 68.08,
+     "fin": 68.32
+    },
+    {
+     "t": "y",
+     "inicio": 68.32,
+     "fin": 68.66
+    },
+    {
+     "t": "además",
+     "inicio": 68.66,
+     "fin": 68.82
+    },
+    {
+     "t": "se",
+     "inicio": 68.82,
+     "fin": 68.96
+    },
+    {
+     "t": "descuenta",
+     "inicio": 68.96,
+     "fin": 69.26
+    },
+    {
+     "t": "directamente",
+     "inicio": 69.26,
+     "fin": 69.62
+    },
+    {
+     "t": "de",
+     "inicio": 69.62,
+     "fin": 69.76
+    },
+    {
+     "t": "la",
+     "inicio": 69.76,
+     "fin": 69.84
+    },
+    {
+     "t": "factura.",
+     "inicio": 69.84,
+     "fin": 70.2
+    },
+    {
+     "t": "100",
+     "inicio": 71.2,
+     "fin": 71.58
+    },
+    {
+     "t": "euros,",
+     "inicio": 71.58,
+     "fin": 71.88
+    },
+    {
+     "t": "que",
+     "inicio": 72.28,
+     "fin": 72.72
+    },
+    {
+     "t": "ahora",
+     "inicio": 72.72,
+     "fin": 72.88
+    },
+    {
+     "t": "podrá",
+     "inicio": 72.88,
+     "fin": 73.22
+    },
+    {
+     "t": "dedicar",
+     "inicio": 73.22,
+     "fin": 73.58
+    },
+    {
+     "t": "a",
+     "inicio": 73.58,
+     "fin": 73.7
+    },
+    {
+     "t": "algo",
+     "inicio": 73.7,
+     "fin": 73.88
+    },
+    {
+     "t": "especial",
+     "inicio": 73.88,
+     "fin": 74.26
+    },
+    {
+     "t": "que",
+     "inicio": 74.26,
+     "fin": 74.74
+    },
+    {
+     "t": "tenía",
+     "inicio": 74.74,
+     "fin": 74.98
+    },
+    {
+     "t": "pendiente",
+     "inicio": 74.98,
+     "fin": 75.36
+    },
+    {
+     "t": "desde",
+     "inicio": 75.36,
+     "fin": 75.58
+    },
+    {
+     "t": "hace",
+     "inicio": 75.58,
+     "fin": 75.76
+    },
+    {
+     "t": "tiempo.",
+     "inicio": 75.76,
+     "fin": 76.12
+    },
+    {
+     "t": "Gracias.",
+     "inicio": 76.78,
+     "fin": 77.06
+    },
+    {
+     "t": "Así",
+     "inicio": 77.72,
+     "fin": 78
+    },
+    {
+     "t": "que",
+     "inicio": 78,
+     "fin": 78.14
+    },
+    {
+     "t": "cuando",
+     "inicio": 78.14,
+     "fin": 78.34
+    },
+    {
+     "t": "te",
+     "inicio": 78.34,
+     "fin": 78.6
+    },
+    {
+     "t": "digan",
+     "inicio": 78.6,
+     "fin": 78.94
+    },
+    {
+     "t": "que",
+     "inicio": 78.94,
+     "fin": 79.42
+    },
+    {
+     "t": "da",
+     "inicio": 79.42,
+     "fin": 79.56
+    },
+    {
+     "t": "igual",
+     "inicio": 79.56,
+     "fin": 79.8
+    },
+    {
+     "t": "quien",
+     "inicio": 79.8,
+     "fin": 79.98
+    },
+    {
+     "t": "gobierna",
+     "inicio": 79.98,
+     "fin": 80.46
+    },
+    {
+     "t": "no",
+     "inicio": 80.46,
+     "fin": 80.84
+    },
+    {
+     "t": "da",
+     "inicio": 80.84,
+     "fin": 81.18
+    },
+    {
+     "t": "igual.",
+     "inicio": 81.18,
+     "fin": 81.44
+    },
+    {
+     "t": "Pregúntales",
+     "inicio": 81.82,
+     "fin": 82.28
+    },
+    {
+     "t": "a",
+     "inicio": 82.28,
+     "fin": 82.94
+    },
+    {
+     "t": "Clara",
+     "inicio": 82.94,
+     "fin": 83.12
+    },
+    {
+     "t": "y",
+     "inicio": 83.12,
+     "fin": 83.28
+    },
+    {
+     "t": "a",
+     "inicio": 83.28,
+     "fin": 83.3
+    },
+    {
+     "t": "Javier.",
+     "inicio": 83.3,
+     "fin": 83.54
+    }
+   ],
+   "habla": true
   }
  ]
 }
