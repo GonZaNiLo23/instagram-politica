@@ -134,3 +134,5 @@
 - 2026-11-18T18:00:52.368Z · 055-encuestas-prohibidas: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-18T20:53:55.345Z · am20261118-1930-vox-remigracion v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df5aK7_kxZR/
 - 2026-11-18T20:53:59.039Z · am20261118-1930-vox-remigracion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-19T10:00:43.040Z · am20261119-0926-alvise-irpf v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df60OgFDa3b/
+- 2026-11-19T10:00:45.908Z · am20261119-0926-alvise-irpf: TikTok en la bandeja de borradores (falta publicarlo desde la app)
