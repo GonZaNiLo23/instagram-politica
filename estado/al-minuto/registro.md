@@ -305,3 +305,4 @@
 - 2026-11-18 19:30 UTC · 1 · @isabeldiazayuso (poema y agradecimiento, 79 s) · descartado: conversación de calle, sin hecho noticioso; viral 140,5
 - 2026-11-19 09:30 UTC (publicación 10:00 Madrid) · 4 · @alviseperez (medidas fiscales y de seguridad, tramos 71,0–80,9 y 83,6–93,6 s; subtítulos cotejados con la transcripción, «cota»→«cuota», «rpf»→«IRPF», «precriban»→«prescriban»; excluido el tramo con insultos y el confuso «sin devuelven lo robado»; propuestas atribuidas a Alvise, sin acusaciones; viral 822,5) · publicado am20261119-0926-alvise-irpf
 - 2026-11-19 09:30 UTC · 3 · @sanchezcastejon (Bono Joven Deporte 200 €, 20,9 s) · descartado: un envío por hora; spot de campaña del PSOE; viral 321,3
+- 2026-11-19 11:36 UTC (publicación 12:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
