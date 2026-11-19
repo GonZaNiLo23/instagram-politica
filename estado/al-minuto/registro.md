@@ -310,3 +310,4 @@
 - 2026-11-19 13:30 UTC · 2 · @santi_abascal (Pedro Sánchez ha vendido España, 177,7 s) · descartado: acusación grave sin tramo limpio, un envío por hora; viral 45,2
 - 2026-11-19 13:30 UTC · 1 · @santi_abascal / @vox_es (agradecimientos Benavente, sin habla útil) · descartado; viral 36–60
 - 2026-11-19 15:34 UTC (publicación 16:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
+- 2026-11-19 17:31 UTC (publicación 18:00 Madrid) · 2 · @vox_es (cómo votar desde el extranjero, 85 s) · descartado: tutorial con plazos (24 y 21–26 nov) que no puedo contrastar sin fuente oficial, no cabe completo en 15–40 s sin dejar los pasos a medias, cierre de campaña de Vox; viral 55,4. Único candidato. Sin publicación.
