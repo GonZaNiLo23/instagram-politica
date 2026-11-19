@@ -1,0 +1,106 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 24.1,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 20.6,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 20.6,
+          "fundidoFin": 20.6
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "NNGG PROMETE UN MILLÓN DE CASAS",
+          "fecha": "19 NOV",
+          "credito": "Vídeo: @nngg_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.4,
+              "texto": "Estamos en Valdecarros, en Vallecas,"
+            },
+            {
+              "inicio": 2.4,
+              "fin": 4.85,
+              "texto": "donde se están construyendo 21.000 casas."
+            },
+            {
+              "inicio": 4.85,
+              "fin": 6.55,
+              "texto": "Ese es el modelo que va a tener Feijóo,"
+            },
+            {
+              "inicio": 6.55,
+              "fin": 8.95,
+              "texto": "que se construyan decenas de miles de casas"
+            },
+            {
+              "inicio": 8.95,
+              "fin": 10.6,
+              "texto": "en todas las ciudades de España,"
+            },
+            {
+              "inicio": 10.6,
+              "fin": 13.1,
+              "texto": "que se construyan más de un millón de casas"
+            },
+            {
+              "inicio": 13.1,
+              "fin": 14.7,
+              "texto": "para los jóvenes españoles"
+            },
+            {
+              "inicio": 14.7,
+              "fin": 16.1,
+              "texto": "para acabar con la escasez"
+            },
+            {
+              "inicio": 16.1,
+              "fin": 17.1,
+              "texto": "y para que bajen los precios"
+            },
+            {
+              "inicio": 17.1,
+              "fin": 18.2,
+              "texto": "de una vez por todas."
+            },
+            {
+              "inicio": 18.3,
+              "fin": 20.6,
+              "texto": "Lo vamos a enseñar muy pronto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 20.6,
+      "fin": 24.1,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "NNGG propone más de un millón de casas para jóvenes",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true
+}

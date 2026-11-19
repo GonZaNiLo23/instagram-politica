@@ -306,3 +306,6 @@
 - 2026-11-19 09:30 UTC (publicación 10:00 Madrid) · 4 · @alviseperez (medidas fiscales y de seguridad, tramos 71,0–80,9 y 83,6–93,6 s; subtítulos cotejados con la transcripción, «cota»→«cuota», «rpf»→«IRPF», «precriban»→«prescriban»; excluido el tramo con insultos y el confuso «sin devuelven lo robado»; propuestas atribuidas a Alvise, sin acusaciones; viral 822,5) · publicado am20261119-0926-alvise-irpf
 - 2026-11-19 09:30 UTC · 3 · @sanchezcastejon (Bono Joven Deporte 200 €, 20,9 s) · descartado: un envío por hora; spot de campaña del PSOE; viral 321,3
 - 2026-11-19 11:36 UTC (publicación 12:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
+- 2026-11-19 13:30 UTC (publicación 14:00 Madrid) · 4 · @nngg_es (un millón de casas para jóvenes, tramo 0–20,6 s; subtítulos cotejados con la transcripción, «Fijó»→«Feijóo», «bajan»→«bajen»; propuesta atribuida a NNGG, sin acusaciones; viral 401,6) · publicado am20261119-1326-nngg-casas
+- 2026-11-19 13:30 UTC · 2 · @santi_abascal (Pedro Sánchez ha vendido España, 177,7 s) · descartado: acusación grave sin tramo limpio, un envío por hora; viral 45,2
+- 2026-11-19 13:30 UTC · 1 · @santi_abascal / @vox_es (agradecimientos Benavente, sin habla útil) · descartado; viral 36–60
