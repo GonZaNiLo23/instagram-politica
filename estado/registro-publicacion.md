@@ -138,3 +138,5 @@
 - 2026-11-19T10:00:45.908Z · am20261119-0926-alvise-irpf: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-19T12:30:53.921Z · 045-debates-academia-tv v3: PUBLICADA en Instagram https://www.instagram.com/reel/Df7FZ8tDvan/
 - 2026-11-19T12:30:55.474Z · 045-debates-academia-tv: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-19T18:00:51.795Z · 056-8-anos-vivienda v4: PUBLICADA en Instagram https://www.instagram.com/reel/Df7rKlDiFcD/
+- 2026-11-19T18:00:54.772Z · 056-8-anos-vivienda: TikTok en la bandeja de borradores (falta publicarlo desde la app)
