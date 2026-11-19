@@ -1,0 +1,111 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 23.4,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 19.9,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "fundidoFin": 19.9,
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 19.9
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ALVISE PROPONE CERO IRPF BAJO 25.000 EUROS",
+          "fecha": "19 NOV",
+          "credito": "Vídeo: @alviseperez"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0.12,
+              "fin": 1.4,
+              "texto": "Seguridad para quien alquile"
+            },
+            {
+              "inicio": 1.4,
+              "fin": 2.6,
+              "texto": "y el ocupa, prisión."
+            },
+            {
+              "inicio": 2.86,
+              "fin": 5.6,
+              "texto": "Seguridad, macrocárcel, deportación:"
+            },
+            {
+              "inicio": 5.72,
+              "fin": 7.4,
+              "texto": "el extranjero condenado, expulsado."
+            },
+            {
+              "inicio": 7.76,
+              "fin": 9.9,
+              "texto": "Que los delitos de corrupción no prescriban."
+            },
+            {
+              "inicio": 9.98,
+              "fin": 12.28,
+              "texto": "Impuestos si ganan menos de 25.000 euros,"
+            },
+            {
+              "inicio": 12.28,
+              "fin": 13.36,
+              "texto": "cero IRPF"
+            },
+            {
+              "inicio": 13.4,
+              "fin": 15.06,
+              "texto": "y se acabó la cuota de autónomos"
+            },
+            {
+              "inicio": 15.06,
+              "fin": 16.5,
+              "texto": "o impuestos por adelantado,"
+            },
+            {
+              "inicio": 16.76,
+              "fin": 17.7,
+              "texto": "porque es criminal."
+            },
+            {
+              "inicio": 17.82,
+              "fin": 19.84,
+              "texto": "Solamente pagas impuestos si ganas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 19.9,
+      "fin": 23.4,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Elecciones generales el 29 de noviembre",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261119-0926-alvise-irpf",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
