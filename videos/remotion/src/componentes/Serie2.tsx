@@ -58,14 +58,16 @@ export const LineasSerie: React.FC<{series: SerieL[]; max?: number; base?: numbe
   );
 };
 
-export const RelojSerie: React.FC<{cx?: number; cy?: number; r?: number; cajas?: boolean; hasta?: number}> = ({cx = 330, cy = 1000, r = 120, cajas = false, hasta}) => {
+export const RelojSerie: React.FC<{cx?: number; cy?: number; r?: number; cajas?: boolean; hasta?: number; meses?: number}> = ({cx = 330, cy = 1000, r = 120, cajas = false, hasta, meses}) => {
   const {t} = usa();
   const s = useSalida(hasta);
   const ang = (t * 240) % 360;
+  const fin = meses ? meses * 30 : 0;
+  const pf = (a: number) => `${cx + (r - 10) * Math.sin(a * Math.PI / 180)} ${cy - (r - 10) * Math.cos(a * Math.PI / 180)}`;
   return lienzo(
     <g>
       <circle cx={cx} cy={cy} r={r} fill={C.crema} stroke={C.tinta} strokeWidth={10} />
-      <path d={`M ${cx} ${cy} L ${cx} ${cy - r + 10} A ${r - 10} ${r - 10} 0 ${ang > 180 ? 1 : 0} 1 ${cx + (r - 10) * Math.sin(ang * Math.PI / 180)} ${cy - (r - 10) * Math.cos(ang * Math.PI / 180)} Z`} fill={C.mostaza} opacity={0.55} />
+      {meses ? <path d={`M ${cx} ${cy} L ${pf(0)} A ${r - 10} ${r - 10} 0 0 1 ${pf(fin)} Z`} fill={C.mostaza} opacity={0.85} /> : <path d={`M ${cx} ${cy} L ${cx} ${cy - r + 10} A ${r - 10} ${r - 10} 0 ${ang > 180 ? 1 : 0} 1 ${cx + (r - 10) * Math.sin(ang * Math.PI / 180)} ${cy - (r - 10) * Math.cos(ang * Math.PI / 180)} Z`} fill={C.mostaza} opacity={0.55} />}
       {Array.from({length: 12}).map((_, i) => <line key={i} x1={cx} y1={cy - r + 12} x2={cx} y2={cy - r + 28} stroke={C.tinta} strokeWidth={6} strokeLinecap="round" transform={`rotate(${i * 30} ${cx} ${cy})`} />)}
       <line x1={cx} y1={cy} x2={cx} y2={cy - r * 0.55} stroke={C.tinta} strokeWidth={10} strokeLinecap="round" transform={`rotate(${ang / 12} ${cx} ${cy})`} />
       <line x1={cx} y1={cy} x2={cx} y2={cy - r * 0.8} stroke={C.mostaza} strokeWidth={8} strokeLinecap="round" transform={`rotate(${ang} ${cx} ${cy})`} />

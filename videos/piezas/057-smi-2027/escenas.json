@@ -1,0 +1,479 @@
+{
+  "plantilla": "flash",
+  "duracion": 37.57,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "MÍNIMO:",
+            "y": 330,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "+65 € BRUTOS",
+            "y": 490,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "barrasVSerie",
+            "max": 120,
+            "base": 1130,
+            "hMax": 340,
+            "w": 170,
+            "centros": [
+              180,
+              450,
+              720
+            ],
+            "tamEtiqueta": 64,
+            "vivo": true,
+            "barras": [
+              {
+                "etiqueta": "",
+                "valor": 100,
+                "color": "#14213D",
+                "en": -1,
+                "dur": 0.01,
+                "sinValor": true
+              },
+              {
+                "etiqueta": "",
+                "valor": 118,
+                "color": "#F2B134",
+                "en": -1,
+                "dur": 0.01,
+                "sinValor": true
+              },
+              {
+                "etiqueta": "",
+                "valor": 0,
+                "en": -1,
+                "contorno": true,
+                "altoContorno": 150
+              }
+            ]
+          },
+          {
+            "tipo": "selloTexto",
+            "lineas": [
+              "¿QUÉ FALTA?"
+            ],
+            "x": 480,
+            "y": 1250,
+            "tamano": 80,
+            "angulo": -6,
+            "en": -1,
+            "desde": 0
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "MÍNIMO: +65 €",
+          "y": 330,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Brutos al mes · desde 1-1-2027 · Moncloa, BOE"
+          ],
+          "en": 0.1,
+          "tamano": 40
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 120,
+          "base": 1150,
+          "hMax": 560,
+          "w": 170,
+          "centros": [
+            180,
+            450,
+            720
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "barras": [
+            {
+              "etiqueta": "",
+              "valor": 100,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.8,
+              "sinValor": true
+            },
+            {
+              "etiqueta": "",
+              "valor": 118,
+              "color": "#F2B134",
+              "en": 0.4,
+              "dur": 0.8,
+              "sinValor": true
+            },
+            {
+              "etiqueta": "",
+              "valor": 0,
+              "en": 1.2,
+              "contorno": true,
+              "altoContorno": 220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 4.86,
+      "fin": 9.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "1.286 €/MES · DESDE 1‑1‑2027",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "+5,3 % · 18.004 €/año",
+          "y": 490,
+          "en": 0.1,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RD 1013/2026 (BOE, 19-11)"
+          ],
+          "en": 0.1,
+          "tamano": 40
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 100,
+          "base": 1120,
+          "hMax": 400,
+          "w": 170,
+          "centros": [
+            200
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "barras": [
+            {
+              "etiqueta": "",
+              "valor": 100,
+              "color": "#F2B134",
+              "en": 0.1,
+              "dur": 1.6,
+              "sinValor": true
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "APROBADO"
+          ],
+          "x": 520,
+          "y": 880,
+          "tamano": 72,
+          "angulo": -6,
+          "en": 1.4,
+          "desde": 40
+        }
+      ]
+    },
+    {
+      "inicio": 9.42,
+      "fin": 17.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "DEDUCCIÓN IRPF: HASTA 1.033,58 €/AÑO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL 38/2026 · IRPF = impuesto de la renta"
+          ],
+          "en": 0.1,
+          "tamano": 40,
+          "hasta": 4.16
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Hacienda: sin retención en el SMI"
+          ],
+          "en": 4.21,
+          "tamano": 40
+        },
+        {
+          "tipo": "nominaH",
+          "x": 300,
+          "y": 900,
+          "esc": 1,
+          "en": 0.3
+        },
+        {
+          "tipo": "pastillaH",
+          "texto": "retención",
+          "x": 500,
+          "y": 920,
+          "ancho": 400,
+          "en": 5.800000000000001
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "DATO"
+          ],
+          "x": 560,
+          "y": 700,
+          "tamano": 72,
+          "angulo": -6,
+          "en": 1.3,
+          "desde": 40
+        }
+      ]
+    },
+    {
+      "inicio": 17.34,
+      "fin": 21.3,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "FALTA: CONVALIDACIÓN",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SIN SESIÓN CONVOCADA",
+          "y": 430,
+          "en": 1.56,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Congreso, 19-11"
+          ],
+          "en": 1.6600000000000001,
+          "tamano": 40
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "APROBADO",
+          "sub": "RD del SMI",
+          "marca": "ok",
+          "y": 600,
+          "alto": 240,
+          "ancho": 880,
+          "en": 0.3,
+          "entra": "izq"
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "PENDIENTE",
+          "sub": "Convalidación del RDL",
+          "marca": "espera",
+          "y": 870,
+          "alto": 240,
+          "ancho": 880,
+          "en": 0.74,
+          "entra": "izq"
+        }
+      ]
+    },
+    {
+      "inicio": 21.3,
+      "fin": 25.78,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CONDICIÓN: OTRAS RENTAS ≤ 6.500 €",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "(excluidas las exentas)"
+          ],
+          "en": 0.2,
+          "tamano": 40
+        },
+        {
+          "tipo": "dib",
+          "nombre": "sobre",
+          "x": 540,
+          "y": 900,
+          "tamano": 300,
+          "en": 0.3
+        },
+        {
+          "tipo": "cifraGrandeSerie",
+          "valor": "6.500 €",
+          "y": 1060,
+          "tam": 140,
+          "en": 2.74
+        }
+      ]
+    },
+    {
+      "inicio": 25.78,
+      "fin": 31.23,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "2026: 590,89 € → 2027: 1.033,58 €",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Máximo anual · si se convalida",
+          "y": 500,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "AEAT / BOE"
+          ],
+          "en": 0.2,
+          "tamano": 40
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 1033.58,
+          "base": 1110,
+          "hMax": 420,
+          "w": 170,
+          "centros": [
+            300,
+            700
+          ],
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "barras": [
+            {
+              "etiqueta": "2026",
+              "valor": 590.89,
+              "color": "#14213D",
+              "en": 0.2,
+              "dur": 0.6,
+              "sinValor": true
+            },
+            {
+              "etiqueta": "2027",
+              "valor": 1033.58,
+              "color": "#F2B134",
+              "en": 3.0599999999999996,
+              "dur": 0.6,
+              "sinValor": true
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "DATO"
+          ],
+          "x": 330,
+          "y": 780,
+          "tamano": 80,
+          "angulo": -6,
+          "en": 4.22,
+          "desde": 40
+        }
+      ]
+    },
+    {
+      "inicio": 31.23,
+      "fin": 34.18,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿MÁS SUELDO O MENOS RETENCIÓN?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "Más sueldo bruto",
+          "y": 600,
+          "alto": 250,
+          "ancho": 880,
+          "en": 0.3,
+          "entra": "izq"
+        },
+        {
+          "tipo": "tarjetaE",
+          "titular": "Menos retención",
+          "y": 890,
+          "alto": 250,
+          "ancho": 880,
+          "en": 1.61,
+          "entra": "abajo"
+        }
+      ]
+    },
+    {
+      "inicio": 34.18,
+      "fin": 37.57,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿MÁS SUELDO O MENOS RETENCIÓN?",
+          "tamano": 72,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

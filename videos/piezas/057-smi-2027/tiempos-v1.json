@@ -1,0 +1,423 @@
+{
+  "palabras": [
+    {
+      "t": "Tu",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "sueldo",
+      "inicio": 0.2,
+      "fin": 0.48
+    },
+    {
+      "t": "mínimo",
+      "inicio": 0.52,
+      "fin": 0.88
+    },
+    {
+      "t": "sube",
+      "inicio": 1,
+      "fin": 1.2
+    },
+    {
+      "t": "sesenta",
+      "inicio": 1.28,
+      "fin": 1.76
+    },
+    {
+      "t": "y",
+      "inicio": 1.84,
+      "fin": 1.92
+    },
+    {
+      "t": "cinco",
+      "inicio": 2,
+      "fin": 2.16
+    },
+    {
+      "t": "euros",
+      "inicio": 2.32,
+      "fin": 2.56
+    },
+    {
+      "t": "brutos.",
+      "inicio": 2.64,
+      "fin": 3.44
+    },
+    {
+      "t": "¿Y",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "t": "tu",
+      "inicio": 3.68,
+      "fin": 3.84
+    },
+    {
+      "t": "IRPF?",
+      "inicio": 3.92,
+      "fin": 4.64
+    },
+    {
+      "t": "Está",
+      "inicio": 4.96,
+      "fin": 5.2
+    },
+    {
+      "t": "aprobado:",
+      "inicio": 5.28,
+      "fin": 6
+    },
+    {
+      "t": "mil",
+      "inicio": 6.08,
+      "fin": 6.16
+    },
+    {
+      "t": "doscientos",
+      "inicio": 6.24,
+      "fin": 6.8
+    },
+    {
+      "t": "ochenta",
+      "inicio": 6.88,
+      "fin": 7.12
+    },
+    {
+      "t": "y",
+      "inicio": 7.16,
+      "fin": 7.2
+    },
+    {
+      "t": "seis",
+      "inicio": 7.28,
+      "fin": 7.44
+    },
+    {
+      "t": "euros",
+      "inicio": 7.52,
+      "fin": 7.76
+    },
+    {
+      "t": "al",
+      "inicio": 7.84,
+      "fin": 7.92
+    },
+    {
+      "t": "mes",
+      "inicio": 8,
+      "fin": 8.16
+    },
+    {
+      "t": "desde",
+      "inicio": 8.24,
+      "fin": 8.48
+    },
+    {
+      "t": "enero.",
+      "inicio": 8.56,
+      "fin": 9.2
+    },
+    {
+      "t": "Un",
+      "inicio": 9.24,
+      "fin": 9.28
+    },
+    {
+      "t": "decreto-ley",
+      "inicio": 9.36,
+      "fin": 9.92
+    },
+    {
+      "t": "sube",
+      "inicio": 10,
+      "fin": 10.2
+    },
+    {
+      "t": "la",
+      "inicio": 10.24,
+      "fin": 10.32
+    },
+    {
+      "t": "deducción",
+      "inicio": 10.4,
+      "fin": 10.8
+    },
+    {
+      "t": "de",
+      "inicio": 10.88,
+      "fin": 10.96
+    },
+    {
+      "t": "IRPF,",
+      "inicio": 11.04,
+      "fin": 11.92
+    },
+    {
+      "t": "también",
+      "inicio": 11.96,
+      "fin": 12.4
+    },
+    {
+      "t": "en",
+      "inicio": 12.44,
+      "fin": 12.48
+    },
+    {
+      "t": "nómina.",
+      "inicio": 12.56,
+      "fin": 13.2
+    },
+    {
+      "t": "Falta",
+      "inicio": 13.28,
+      "fin": 13.44
+    },
+    {
+      "t": "que",
+      "inicio": 13.52,
+      "fin": 13.6
+    },
+    {
+      "t": "lo",
+      "inicio": 13.64,
+      "fin": 13.68
+    },
+    {
+      "t": "convalide",
+      "inicio": 13.76,
+      "fin": 14.24
+    },
+    {
+      "t": "la",
+      "inicio": 14.28,
+      "fin": 14.32
+    },
+    {
+      "t": "Diputación",
+      "inicio": 14.4,
+      "fin": 14.88
+    },
+    {
+      "t": "Permanente:",
+      "inicio": 14.96,
+      "fin": 15.76
+    },
+    {
+      "t": "aún",
+      "inicio": 15.84,
+      "fin": 16.08
+    },
+    {
+      "t": "sin",
+      "inicio": 16.2,
+      "fin": 16.32
+    },
+    {
+      "t": "fecha.",
+      "inicio": 16.48,
+      "fin": 16.96
+    },
+    {
+      "t": "La",
+      "inicio": 17,
+      "fin": 17.04
+    },
+    {
+      "t": "deducción",
+      "inicio": 17.12,
+      "fin": 17.52
+    },
+    {
+      "t": "exige",
+      "inicio": 17.6,
+      "fin": 18
+    },
+    {
+      "t": "no",
+      "inicio": 18.08,
+      "fin": 18.16
+    },
+    {
+      "t": "tener",
+      "inicio": 18.24,
+      "fin": 18.48
+    },
+    {
+      "t": "otras",
+      "inicio": 18.56,
+      "fin": 18.8
+    },
+    {
+      "t": "rentas",
+      "inicio": 18.92,
+      "fin": 19.12
+    },
+    {
+      "t": "de",
+      "inicio": 19.2,
+      "fin": 19.28
+    },
+    {
+      "t": "más",
+      "inicio": 19.32,
+      "fin": 19.44
+    },
+    {
+      "t": "de",
+      "inicio": 19.52,
+      "fin": 19.6
+    },
+    {
+      "t": "seis",
+      "inicio": 19.64,
+      "fin": 19.84
+    },
+    {
+      "t": "mil",
+      "inicio": 19.92,
+      "fin": 20
+    },
+    {
+      "t": "quinientos",
+      "inicio": 20.16,
+      "fin": 20.56
+    },
+    {
+      "t": "euros.",
+      "inicio": 20.64,
+      "fin": 21.28
+    },
+    {
+      "t": "Este",
+      "inicio": 21.4,
+      "fin": 21.52
+    },
+    {
+      "t": "año,",
+      "inicio": 21.6,
+      "fin": 21.92
+    },
+    {
+      "t": "como",
+      "inicio": 22,
+      "fin": 22.16
+    },
+    {
+      "t": "máximo,",
+      "inicio": 22.2,
+      "fin": 22.72
+    },
+    {
+      "t": "quinientos",
+      "inicio": 22.8,
+      "fin": 23.28
+    },
+    {
+      "t": "noventa",
+      "inicio": 23.36,
+      "fin": 23.68
+    },
+    {
+      "t": "euros.",
+      "inicio": 23.84,
+      "fin": 24.48
+    },
+    {
+      "t": "Con",
+      "inicio": 24.56,
+      "fin": 24.64
+    },
+    {
+      "t": "el",
+      "inicio": 24.68,
+      "fin": 24.72
+    },
+    {
+      "t": "decreto,",
+      "inicio": 24.8,
+      "fin": 25.44
+    },
+    {
+      "t": "mil",
+      "inicio": 25.52,
+      "fin": 25.6
+    },
+    {
+      "t": "treinta",
+      "inicio": 25.68,
+      "fin": 26
+    },
+    {
+      "t": "y",
+      "inicio": 26.04,
+      "fin": 26.08
+    },
+    {
+      "t": "tres.",
+      "inicio": 26.16,
+      "fin": 26.72
+    },
+    {
+      "t": "¿Prefieres",
+      "inicio": 26.773,
+      "fin": 27.2
+    },
+    {
+      "t": "más",
+      "inicio": 27.28,
+      "fin": 27.44
+    },
+    {
+      "t": "sueldo",
+      "inicio": 27.48,
+      "fin": 27.76
+    },
+    {
+      "t": "bruto",
+      "inicio": 27.8,
+      "fin": 28.08
+    },
+    {
+      "t": "o",
+      "inicio": 28.32,
+      "fin": 28.4
+    },
+    {
+      "t": "menos",
+      "inicio": 28.48,
+      "fin": 28.68
+    },
+    {
+      "t": "retención?",
+      "inicio": 28.72,
+      "fin": 29.68
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 29.707,
+      "fin": 30.16
+    },
+    {
+      "t": "para",
+      "inicio": 30.24,
+      "fin": 30.4
+    },
+    {
+      "t": "estar",
+      "inicio": 30.52,
+      "fin": 30.64
+    },
+    {
+      "t": "informado.",
+      "inicio": 30.72,
+      "fin": 31.44
+    }
+  ],
+  "duracion": 31.399184,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

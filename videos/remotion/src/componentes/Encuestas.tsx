@@ -100,7 +100,7 @@ export const COL_PP = PARTIDOS.PP;
 
 /* ------------------------------------------------------------------ Tarjetas (postura / texto) con icono de silueta */
 /** Tarjeta de 900 px con silueta plana (sin foto) y rótulo de 64 px. `entra`: 'izq' (desliza) | 'der' (barrido desde la derecha, sin salirse del lienzo) | 'abajo'. */
-export const TarjetaE: React.FC<{titular: string; y: number; alto?: number; entra?: 'izq' | 'der' | 'abajo'; icono?: boolean; en?: number; hasta?: number; ancho?: number; x?: number}> = ({titular, y, alto = 270, entra = 'izq', icono = true, en = 0, hasta, ancho = 900, x = 60}) => {
+export const TarjetaE: React.FC<{titular: string; y: number; alto?: number; entra?: 'izq' | 'der' | 'abajo'; icono?: boolean; sub?: string; marca?: 'ok' | 'espera'; en?: number; hasta?: number; ancho?: number; x?: number}> = ({titular, y, alto = 270, entra = 'izq', icono = true, sub, marca, en = 0, hasta, ancho = 900, x = 60}) => {
   const e = Math.min(useEntrada(en), 1);
   const s = useSalida(hasta);
   const t = useT();
@@ -113,10 +113,15 @@ export const TarjetaE: React.FC<{titular: string; y: number; alto?: number; entr
       {icono ? (
         <svg width={150} height={150} viewBox="0 0 150 150" style={{flex: '0 0 auto'}}>
           <circle cx={75} cy={75} r={68} fill={C.mostaza} stroke={T} strokeWidth={7} />
-          <Persona cx={75} cy={82} s={96} fill={T} />
+          {marca === 'ok' ? <path d="M40 78 L64 102 L112 48" fill="none" stroke={T} strokeWidth={14} strokeLinecap="round" strokeLinejoin="round" /> : null}
+          {marca === 'espera' ? <g fill="none" stroke={T} strokeWidth={9} strokeLinejoin="round" strokeLinecap="round"><path d="M48 36 H102 M48 114 H102 M54 36 C54 66 72 68 75 75 C72 82 54 84 54 114 M96 36 C96 66 78 68 75 75 C78 82 96 84 96 114" /><path d="M62 106 H88 L75 92 Z" fill={T} /></g> : null}
+          {!marca ? <Persona cx={75} cy={82} s={96} fill={T} /> : null}
         </svg>
       ) : null}
-      <div style={{fontFamily: F.texto, fontWeight: 700, fontSize: 64, lineHeight: '74px', color: T}}>{titular}</div>
+      <div>
+        <div style={{fontFamily: F.texto, fontWeight: 700, fontSize: 64, lineHeight: '74px', color: T}}>{titular}</div>
+        {sub ? <div style={{fontFamily: F.texto, fontWeight: 700, fontSize: 48, lineHeight: '56px', color: T, opacity: 0.8}}>{sub}</div> : null}
+      </div>
     </div>
   );
 };

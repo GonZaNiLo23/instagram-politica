@@ -1,0 +1,878 @@
+{
+  "plantilla": "flash",
+  "duracion": 32.75,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "COMPRAVENTAS −13 %",
+            "y": 340,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "",
+            "resalta": "¿Y EL PRECIO?",
+            "y": 560,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "sep-26 vs sep-25",
+            "y": 780,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "barrasHSerie",
+            "vivo": true,
+            "filas": [
+              {
+                "etiqueta": "SEP-26 −13,4 %",
+                "valor": 13.4,
+                "color": "#14213D",
+                "en": -1
+              }
+            ],
+            "max": 15,
+            "paso": 5,
+            "y0": 960,
+            "alto": 150,
+            "x0": 110,
+            "largo": 760,
+            "dur": 0.9,
+            "tamano": 64
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "COMPRAVENTAS −13 %",
+          "y": 320,
+          "tamano": 90,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "septiembre 2026 vs septiembre 2025 · INE",
+          "y": 570,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "SEP-26 −13,4 %",
+              "valor": 13.4,
+              "color": "#14213D",
+              "en": -1
+            }
+          ],
+          "max": 15,
+          "paso": 5,
+          "y0": 820,
+          "alto": 220,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "?"
+          ],
+          "x": 800,
+          "y": 1120,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 130,
+          "en": 3.71
+        }
+      ]
+    },
+    {
+      "inicio": 4.42,
+      "fin": 10.82,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "54.548",
+          "y": 330,
+          "tamano": 130,
+          "en": 0.05
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "COMPRAVENTAS INSCRITAS",
+          "y": 480,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "−13,4 % ANUAL · SEP-2026",
+          "y": 600,
+          "en": 1.96,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DATOS DE 2026: PROVISIONALES",
+          "y": 720,
+          "en": 3.64,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Registros de la Propiedad"
+          ],
+          "en": 3.74,
+          "tamano": 40,
+          "sobre": "claro"
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "DATO"
+          ],
+          "x": 190,
+          "y": 900,
+          "desde": 40,
+          "angulo": -6,
+          "tamano": 80,
+          "en": 0.98
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "PROVISIONAL"
+          ],
+          "x": 520,
+          "y": 1060,
+          "desde": 40,
+          "angulo": 4,
+          "tamano": 56,
+          "en": 3.74
+        }
+      ]
+    },
+    {
+      "inicio": 10.82,
+      "fin": 15.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PRECIO DE LA VIVIENDA +12,2 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "COMPRAVENTAS −13,4 %",
+              "valor": 13.4,
+              "color": "#14213D",
+              "en": -1
+            },
+            {
+              "etiqueta": "PRECIO +12,2 %",
+              "valor": 12.2,
+              "color": "#F2B134",
+              "en": 2.12
+            }
+          ],
+          "max": 15,
+          "paso": 5,
+          "y0": 600,
+          "alto": 240,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "2T-2026 (ABRIL–JUNIO) vs 2T-2025 · INE, IPV"
+          ],
+          "en": 0.86,
+          "tamano": 40
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "DATO"
+          ],
+          "x": 360,
+          "y": 1040,
+          "desde": 40,
+          "angulo": -6,
+          "tamano": 84,
+          "en": 2.7
+        }
+      ]
+    },
+    {
+      "inicio": 15.66,
+      "fin": 19.06,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "UN MES ≠ UN TRIMESTRE",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SEP-2026 · 2T-2026",
+          "y": 470,
+          "en": 1.5999999999999999,
+          "tamano": 64
+        },
+        {
+          "tipo": "relojSerie",
+          "cx": 245,
+          "cy": 830,
+          "r": 170,
+          "meses": 1
+        },
+        {
+          "tipo": "relojSerie",
+          "cx": 765,
+          "cy": 830,
+          "r": 170,
+          "meses": 3
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "1 MES",
+          "y": 1030,
+          "en": 1.7,
+          "tamano": 64,
+          "izq": 60,
+          "ancho": 380,
+          "align": "center"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "3 MESES",
+          "y": 1030,
+          "en": 1.7,
+          "tamano": 64,
+          "izq": 575,
+          "ancho": 380,
+          "align": "center"
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "≠"
+          ],
+          "x": 505,
+          "y": 790,
+          "desde": 40,
+          "angulo": 0,
+          "tamano": 120,
+          "en": 1.7
+        }
+      ]
+    },
+    {
+      "inicio": 19.06,
+      "fin": 23.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ENERO–SEPTIEMBRE: −3,6 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "SEP-26 −13,4 %",
+              "valor": 13.4,
+              "color": "#14213D",
+              "en": 0.3
+            },
+            {
+              "etiqueta": "ENE–SEP −3,6 %",
+              "valor": 3.6,
+              "color": "#F2B134",
+              "en": 2.0999999999999996
+            }
+          ],
+          "max": 15,
+          "paso": 5,
+          "y0": 600,
+          "alto": 240,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "COMPRAVENTAS DE VIVIENDA:",
+            "DOS CIFRAS, DOS PERIODOS · INE"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "DATO"
+          ],
+          "x": 560,
+          "y": 1040,
+          "desde": 40,
+          "angulo": -6,
+          "tamano": 84,
+          "en": 2.78
+        }
+      ]
+    },
+    {
+      "inicio": 23.02,
+      "fin": 25.3,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "IPV 3T-2026: SE PUBLICA EL 4-12",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "DICIEMBRE 2026",
+          "primer": 1,
+          "dias": 31,
+          "cw": 114,
+          "ch": 86,
+          "x": 540,
+          "y": 600,
+          "aro": {
+            "d": 4,
+            "en": 0.8
+          },
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 25.3,
+      "fin": 29.05,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿COMPRAR YA O ESPERAR?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 80
+        },
+        {
+          "tipo": "abSerie",
+          "a": "COMPRAR YA",
+          "b": "ESPERAR",
+          "y": 600,
+          "en": 0.35
+        }
+      ]
+    },
+    {
+      "inicio": 29.05,
+      "fin": 32.75,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿COMPRAR YA O ESPERAR?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "058-compraventas-vs-precios",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Compraventas",
+      "inicio": 0,
+      "fin": 0.64
+    },
+    {
+      "t": "de",
+      "inicio": 0.68,
+      "fin": 0.72
+    },
+    {
+      "t": "vivienda:",
+      "inicio": 0.76,
+      "fin": 1.52
+    },
+    {
+      "t": "un",
+      "inicio": 1.64,
+      "fin": 1.76
+    },
+    {
+      "t": "trece",
+      "inicio": 1.84,
+      "fin": 2.08
+    },
+    {
+      "t": "por",
+      "inicio": 2.16,
+      "fin": 2.32
+    },
+    {
+      "t": "ciento",
+      "inicio": 2.4,
+      "fin": 2.64
+    },
+    {
+      "t": "menos.",
+      "inicio": 2.72,
+      "fin": 3.52
+    },
+    {
+      "t": "¿Y",
+      "inicio": 3.54,
+      "fin": 3.58
+    },
+    {
+      "t": "el",
+      "inicio": 3.6,
+      "fin": 3.68
+    },
+    {
+      "t": "precio?",
+      "inicio": 3.76,
+      "fin": 4.48
+    },
+    {
+      "t": "En",
+      "inicio": 4.52,
+      "fin": 4.56
+    },
+    {
+      "t": "septiembre,",
+      "inicio": 4.64,
+      "fin": 5.36
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 5.4,
+      "fin": 5.84
+    },
+    {
+      "t": "y",
+      "inicio": 5.88,
+      "fin": 5.92
+    },
+    {
+      "t": "cuatro",
+      "inicio": 6,
+      "fin": 6.16
+    },
+    {
+      "t": "mil",
+      "inicio": 6.24,
+      "fin": 6.32
+    },
+    {
+      "t": "quinientas",
+      "inicio": 6.48,
+      "fin": 6.96
+    },
+    {
+      "t": "cuarenta",
+      "inicio": 7.04,
+      "fin": 7.32
+    },
+    {
+      "t": "y",
+      "inicio": 7.36,
+      "fin": 7.44
+    },
+    {
+      "t": "ocho.",
+      "inicio": 7.52,
+      "fin": 8.08
+    },
+    {
+      "t": "Frente",
+      "inicio": 8.16,
+      "fin": 8.32
+    },
+    {
+      "t": "a",
+      "inicio": 8.36,
+      "fin": 8.4
+    },
+    {
+      "t": "septiembre",
+      "inicio": 8.48,
+      "fin": 8.88
+    },
+    {
+      "t": "del",
+      "inicio": 8.96,
+      "fin": 9.04
+    },
+    {
+      "t": "año",
+      "inicio": 9.08,
+      "fin": 9.2
+    },
+    {
+      "t": "pasado,",
+      "inicio": 9.28,
+      "fin": 9.76
+    },
+    {
+      "t": "según",
+      "inicio": 9.84,
+      "fin": 10
+    },
+    {
+      "t": "el",
+      "inicio": 10.08,
+      "fin": 10.16
+    },
+    {
+      "t": "INE.",
+      "inicio": 10.28,
+      "fin": 10.88
+    },
+    {
+      "t": "El",
+      "inicio": 10.92,
+      "fin": 10.96
+    },
+    {
+      "t": "precio,",
+      "inicio": 11.04,
+      "fin": 11.52
+    },
+    {
+      "t": "en",
+      "inicio": 11.56,
+      "fin": 11.6
+    },
+    {
+      "t": "el",
+      "inicio": 11.68,
+      "fin": 11.76
+    },
+    {
+      "t": "segundo",
+      "inicio": 11.84,
+      "fin": 12.16
+    },
+    {
+      "t": "trimestre,",
+      "inicio": 12.2,
+      "fin": 12.96
+    },
+    {
+      "t": "subió",
+      "inicio": 13.04,
+      "fin": 13.28
+    },
+    {
+      "t": "un",
+      "inicio": 13.36,
+      "fin": 13.44
+    },
+    {
+      "t": "doce",
+      "inicio": 13.52,
+      "fin": 13.76
+    },
+    {
+      "t": "coma",
+      "inicio": 13.92,
+      "fin": 14.08
+    },
+    {
+      "t": "dos",
+      "inicio": 14.16,
+      "fin": 14.24
+    },
+    {
+      "t": "por",
+      "inicio": 14.32,
+      "fin": 14.48
+    },
+    {
+      "t": "ciento",
+      "inicio": 14.56,
+      "fin": 14.8
+    },
+    {
+      "t": "anual.",
+      "inicio": 14.88,
+      "fin": 15.68
+    },
+    {
+      "t": "Son",
+      "inicio": 15.76,
+      "fin": 15.84
+    },
+    {
+      "t": "dos",
+      "inicio": 15.92,
+      "fin": 16
+    },
+    {
+      "t": "relojes",
+      "inicio": 16.08,
+      "fin": 16.4
+    },
+    {
+      "t": "distintos:",
+      "inicio": 16.48,
+      "fin": 17.28
+    },
+    {
+      "t": "un",
+      "inicio": 17.36,
+      "fin": 17.44
+    },
+    {
+      "t": "mes",
+      "inicio": 17.52,
+      "fin": 17.76
+    },
+    {
+      "t": "y",
+      "inicio": 18,
+      "fin": 18.04
+    },
+    {
+      "t": "un",
+      "inicio": 18.08,
+      "fin": 18.16
+    },
+    {
+      "t": "trimestre.",
+      "inicio": 18.2,
+      "fin": 19.12
+    },
+    {
+      "t": "En",
+      "inicio": 19.16,
+      "fin": 19.2
+    },
+    {
+      "t": "lo",
+      "inicio": 19.28,
+      "fin": 19.32
+    },
+    {
+      "t": "que",
+      "inicio": 19.36,
+      "fin": 19.44
+    },
+    {
+      "t": "va",
+      "inicio": 19.48,
+      "fin": 19.52
+    },
+    {
+      "t": "de",
+      "inicio": 19.6,
+      "fin": 19.68
+    },
+    {
+      "t": "año,",
+      "inicio": 19.72,
+      "fin": 20
+    },
+    {
+      "t": "las",
+      "inicio": 20.08,
+      "fin": 20.16
+    },
+    {
+      "t": "compraventas",
+      "inicio": 20.24,
+      "fin": 20.8
+    },
+    {
+      "t": "bajan",
+      "inicio": 20.84,
+      "fin": 21.12
+    },
+    {
+      "t": "un",
+      "inicio": 21.2,
+      "fin": 21.28
+    },
+    {
+      "t": "tres",
+      "inicio": 21.36,
+      "fin": 21.52
+    },
+    {
+      "t": "coma",
+      "inicio": 21.6,
+      "fin": 21.76
+    },
+    {
+      "t": "seis",
+      "inicio": 21.84,
+      "fin": 22
+    },
+    {
+      "t": "por",
+      "inicio": 22.08,
+      "fin": 22.24
+    },
+    {
+      "t": "ciento.",
+      "inicio": 22.28,
+      "fin": 23.04
+    },
+    {
+      "t": "Falta",
+      "inicio": 23.12,
+      "fin": 23.28
+    },
+    {
+      "t": "el",
+      "inicio": 23.36,
+      "fin": 23.44
+    },
+    {
+      "t": "precio",
+      "inicio": 23.6,
+      "fin": 23.76
+    },
+    {
+      "t": "del",
+      "inicio": 23.84,
+      "fin": 23.92
+    },
+    {
+      "t": "tercer",
+      "inicio": 24,
+      "fin": 24.24
+    },
+    {
+      "t": "trimestre.",
+      "inicio": 24.32,
+      "fin": 25.36
+    },
+    {
+      "t": "Si",
+      "inicio": 25.4,
+      "fin": 25.44
+    },
+    {
+      "t": "buscaras",
+      "inicio": 25.52,
+      "fin": 25.92
+    },
+    {
+      "t": "piso",
+      "inicio": 26,
+      "fin": 26.24
+    },
+    {
+      "t": "hoy,",
+      "inicio": 26.28,
+      "fin": 26.72
+    },
+    {
+      "t": "¿comprarías",
+      "inicio": 26.8,
+      "fin": 27.36
+    },
+    {
+      "t": "ya",
+      "inicio": 27.44,
+      "fin": 27.6
+    },
+    {
+      "t": "o",
+      "inicio": 27.84,
+      "fin": 27.92
+    },
+    {
+      "t": "esperarías?",
+      "inicio": 28.08,
+      "fin": 29.12
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 29.147,
+      "fin": 29.6
+    },
+    {
+      "t": "para",
+      "inicio": 29.68,
+      "fin": 29.84
+    },
+    {
+      "t": "estar",
+      "inicio": 29.96,
+      "fin": 30.08
+    },
+    {
+      "t": "informado.",
+      "inicio": 30.24,
+      "fin": 30.88
+    }
+  ]
+}

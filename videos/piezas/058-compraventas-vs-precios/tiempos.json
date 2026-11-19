@@ -1,0 +1,438 @@
+{
+  "palabras": [
+    {
+      "t": "Compraventas",
+      "inicio": 0,
+      "fin": 0.64
+    },
+    {
+      "t": "de",
+      "inicio": 0.68,
+      "fin": 0.72
+    },
+    {
+      "t": "vivienda:",
+      "inicio": 0.76,
+      "fin": 1.52
+    },
+    {
+      "t": "un",
+      "inicio": 1.64,
+      "fin": 1.76
+    },
+    {
+      "t": "trece",
+      "inicio": 1.84,
+      "fin": 2.08
+    },
+    {
+      "t": "por",
+      "inicio": 2.16,
+      "fin": 2.32
+    },
+    {
+      "t": "ciento",
+      "inicio": 2.4,
+      "fin": 2.64
+    },
+    {
+      "t": "menos.",
+      "inicio": 2.72,
+      "fin": 3.52
+    },
+    {
+      "t": "¿Y",
+      "inicio": 3.54,
+      "fin": 3.58
+    },
+    {
+      "t": "el",
+      "inicio": 3.6,
+      "fin": 3.68
+    },
+    {
+      "t": "precio?",
+      "inicio": 3.76,
+      "fin": 4.48
+    },
+    {
+      "t": "En",
+      "inicio": 4.52,
+      "fin": 4.56
+    },
+    {
+      "t": "septiembre,",
+      "inicio": 4.64,
+      "fin": 5.36
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 5.4,
+      "fin": 5.84
+    },
+    {
+      "t": "y",
+      "inicio": 5.88,
+      "fin": 5.92
+    },
+    {
+      "t": "cuatro",
+      "inicio": 6,
+      "fin": 6.16
+    },
+    {
+      "t": "mil",
+      "inicio": 6.24,
+      "fin": 6.32
+    },
+    {
+      "t": "quinientas",
+      "inicio": 6.48,
+      "fin": 6.96
+    },
+    {
+      "t": "cuarenta",
+      "inicio": 7.04,
+      "fin": 7.32
+    },
+    {
+      "t": "y",
+      "inicio": 7.36,
+      "fin": 7.44
+    },
+    {
+      "t": "ocho.",
+      "inicio": 7.52,
+      "fin": 8.08
+    },
+    {
+      "t": "Frente",
+      "inicio": 8.16,
+      "fin": 8.32
+    },
+    {
+      "t": "a",
+      "inicio": 8.36,
+      "fin": 8.4
+    },
+    {
+      "t": "septiembre",
+      "inicio": 8.48,
+      "fin": 8.88
+    },
+    {
+      "t": "del",
+      "inicio": 8.96,
+      "fin": 9.04
+    },
+    {
+      "t": "año",
+      "inicio": 9.08,
+      "fin": 9.2
+    },
+    {
+      "t": "pasado,",
+      "inicio": 9.28,
+      "fin": 9.76
+    },
+    {
+      "t": "según",
+      "inicio": 9.84,
+      "fin": 10
+    },
+    {
+      "t": "el",
+      "inicio": 10.08,
+      "fin": 10.16
+    },
+    {
+      "t": "INE.",
+      "inicio": 10.28,
+      "fin": 10.88
+    },
+    {
+      "t": "El",
+      "inicio": 10.92,
+      "fin": 10.96
+    },
+    {
+      "t": "precio,",
+      "inicio": 11.04,
+      "fin": 11.52
+    },
+    {
+      "t": "en",
+      "inicio": 11.56,
+      "fin": 11.6
+    },
+    {
+      "t": "el",
+      "inicio": 11.68,
+      "fin": 11.76
+    },
+    {
+      "t": "segundo",
+      "inicio": 11.84,
+      "fin": 12.16
+    },
+    {
+      "t": "trimestre,",
+      "inicio": 12.2,
+      "fin": 12.96
+    },
+    {
+      "t": "subió",
+      "inicio": 13.04,
+      "fin": 13.28
+    },
+    {
+      "t": "un",
+      "inicio": 13.36,
+      "fin": 13.44
+    },
+    {
+      "t": "doce",
+      "inicio": 13.52,
+      "fin": 13.76
+    },
+    {
+      "t": "coma",
+      "inicio": 13.92,
+      "fin": 14.08
+    },
+    {
+      "t": "dos",
+      "inicio": 14.16,
+      "fin": 14.24
+    },
+    {
+      "t": "por",
+      "inicio": 14.32,
+      "fin": 14.48
+    },
+    {
+      "t": "ciento",
+      "inicio": 14.56,
+      "fin": 14.8
+    },
+    {
+      "t": "anual.",
+      "inicio": 14.88,
+      "fin": 15.68
+    },
+    {
+      "t": "Son",
+      "inicio": 15.76,
+      "fin": 15.84
+    },
+    {
+      "t": "dos",
+      "inicio": 15.92,
+      "fin": 16
+    },
+    {
+      "t": "relojes",
+      "inicio": 16.08,
+      "fin": 16.4
+    },
+    {
+      "t": "distintos:",
+      "inicio": 16.48,
+      "fin": 17.28
+    },
+    {
+      "t": "un",
+      "inicio": 17.36,
+      "fin": 17.44
+    },
+    {
+      "t": "mes",
+      "inicio": 17.52,
+      "fin": 17.76
+    },
+    {
+      "t": "y",
+      "inicio": 18,
+      "fin": 18.04
+    },
+    {
+      "t": "un",
+      "inicio": 18.08,
+      "fin": 18.16
+    },
+    {
+      "t": "trimestre.",
+      "inicio": 18.2,
+      "fin": 19.12
+    },
+    {
+      "t": "En",
+      "inicio": 19.16,
+      "fin": 19.2
+    },
+    {
+      "t": "lo",
+      "inicio": 19.28,
+      "fin": 19.32
+    },
+    {
+      "t": "que",
+      "inicio": 19.36,
+      "fin": 19.44
+    },
+    {
+      "t": "va",
+      "inicio": 19.48,
+      "fin": 19.52
+    },
+    {
+      "t": "de",
+      "inicio": 19.6,
+      "fin": 19.68
+    },
+    {
+      "t": "año,",
+      "inicio": 19.72,
+      "fin": 20
+    },
+    {
+      "t": "las",
+      "inicio": 20.08,
+      "fin": 20.16
+    },
+    {
+      "t": "compraventas",
+      "inicio": 20.24,
+      "fin": 20.8
+    },
+    {
+      "t": "bajan",
+      "inicio": 20.84,
+      "fin": 21.12
+    },
+    {
+      "t": "un",
+      "inicio": 21.2,
+      "fin": 21.28
+    },
+    {
+      "t": "tres",
+      "inicio": 21.36,
+      "fin": 21.52
+    },
+    {
+      "t": "coma",
+      "inicio": 21.6,
+      "fin": 21.76
+    },
+    {
+      "t": "seis",
+      "inicio": 21.84,
+      "fin": 22
+    },
+    {
+      "t": "por",
+      "inicio": 22.08,
+      "fin": 22.24
+    },
+    {
+      "t": "ciento.",
+      "inicio": 22.28,
+      "fin": 23.04
+    },
+    {
+      "t": "Falta",
+      "inicio": 23.12,
+      "fin": 23.28
+    },
+    {
+      "t": "el",
+      "inicio": 23.36,
+      "fin": 23.44
+    },
+    {
+      "t": "precio",
+      "inicio": 23.6,
+      "fin": 23.76
+    },
+    {
+      "t": "del",
+      "inicio": 23.84,
+      "fin": 23.92
+    },
+    {
+      "t": "tercer",
+      "inicio": 24,
+      "fin": 24.24
+    },
+    {
+      "t": "trimestre.",
+      "inicio": 24.32,
+      "fin": 25.36
+    },
+    {
+      "t": "Si",
+      "inicio": 25.4,
+      "fin": 25.44
+    },
+    {
+      "t": "buscaras",
+      "inicio": 25.52,
+      "fin": 25.92
+    },
+    {
+      "t": "piso",
+      "inicio": 26,
+      "fin": 26.24
+    },
+    {
+      "t": "hoy,",
+      "inicio": 26.28,
+      "fin": 26.72
+    },
+    {
+      "t": "¿comprarías",
+      "inicio": 26.8,
+      "fin": 27.36
+    },
+    {
+      "t": "ya",
+      "inicio": 27.44,
+      "fin": 27.6
+    },
+    {
+      "t": "o",
+      "inicio": 27.84,
+      "fin": 27.92
+    },
+    {
+      "t": "esperarías?",
+      "inicio": 28.08,
+      "fin": 29.12
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 29.147,
+      "fin": 29.6
+    },
+    {
+      "t": "para",
+      "inicio": 29.68,
+      "fin": 29.84
+    },
+    {
+      "t": "estar",
+      "inicio": 29.96,
+      "fin": 30.08
+    },
+    {
+      "t": "informado.",
+      "inicio": 30.24,
+      "fin": 30.88
+    }
+  ],
+  "duracion": 30.850612,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}
