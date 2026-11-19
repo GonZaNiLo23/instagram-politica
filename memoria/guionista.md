@@ -86,4 +86,8 @@
 
 - [LOREG, encuestas] boe.es/buscar/act.php?id=BOE-A-1985-11672: art. 69.1 y 69.7 en offset 100000; art. 145 (delitos en materia de encuestas: prisión 3 m–1 año) y 153.2 (multa 3.000–30.000 €, Junta Electoral) en offset 230000. Pide fragmentos cortos por artículo. (055, 2026-11-17)
 
+- [compraventas, INE] ine.es/dyngs/Prensa/ETDP0926.htm (AAMM) abre con WebFetch: total, libres/protegidas, CCAA, acumulado (−3,6 %) y aviso de provisionales; la columna "Mensual" no nombra el mes. IPV2T26 abre igual. (058, 2026-11-19)
+
+- [Consejo de Ministros, SMI/RDL] WebSearch sin dominios de prensa grande, con allowed_domains ["lamoncloa.gob.es","boe.es"], localiza la primaria el mismo día: resumen de la rueda de prensa (lamoncloa.gob.es/consejodeministros/resumenes/paginas/AAAA/DDMMAA-rueda-prensa-consejo-ministros.aspx, abre con WebFetch) y la norma en boe.es/diario_boe/txt.php?id=BOE-A-... (RDL y RD publicados en 1–2 días; el RDL trae art. por art.). Una propuesta "sin primaria" puede quedar resuelta al día siguiente: reintenta. (057, 2026-11-19)
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)
