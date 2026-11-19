@@ -96,8 +96,8 @@
           ],
           "max": 15,
           "paso": 5,
-          "y0": 820,
-          "alto": 220,
+          "y0": 830,
+          "alto": 260,
           "x0": 110,
           "largo": 760,
           "dur": 0.9,
@@ -109,10 +109,10 @@
             "?"
           ],
           "x": 800,
-          "y": 1120,
-          "desde": 40,
+          "y": 740,
+          "desde": 20,
           "angulo": -5,
-          "tamano": 130,
+          "tamano": 100,
           "en": 3.71
         }
       ]
@@ -132,21 +132,21 @@
         {
           "tipo": "rotulo",
           "texto": "COMPRAVENTAS INSCRITAS",
-          "y": 480,
+          "y": 510,
           "en": 0.15,
-          "tamano": 64
+          "tamano": 60
         },
         {
           "tipo": "rotulo",
           "texto": "−13,4 % ANUAL · SEP-2026",
-          "y": 600,
+          "y": 640,
           "en": 1.96,
           "tamano": 64
         },
         {
           "tipo": "rotulo",
           "texto": "DATOS DE 2026: PROVISIONALES",
-          "y": 720,
+          "y": 770,
           "en": 3.64,
           "tamano": 64
         },
@@ -156,8 +156,7 @@
             "Registros de la Propiedad"
           ],
           "en": 3.74,
-          "tamano": 40,
-          "sobre": "claro"
+          "tamano": 40
         },
         {
           "tipo": "selloTexto",
@@ -165,7 +164,7 @@
             "DATO"
           ],
           "x": 190,
-          "y": 900,
+          "y": 940,
           "desde": 40,
           "angulo": -6,
           "tamano": 80,
@@ -177,7 +176,7 @@
             "PROVISIONAL"
           ],
           "x": 520,
-          "y": 1060,
+          "y": 1050,
           "desde": 40,
           "angulo": 4,
           "tamano": 56,
@@ -216,8 +215,8 @@
           ],
           "max": 15,
           "paso": 5,
-          "y0": 600,
-          "alto": 240,
+          "y0": 610,
+          "alto": 245,
           "x0": 110,
           "largo": 760,
           "dur": 0.9,
@@ -267,21 +266,21 @@
         {
           "tipo": "relojSerie",
           "cx": 245,
-          "cy": 830,
+          "cy": 900,
           "r": 170,
           "meses": 1
         },
         {
           "tipo": "relojSerie",
           "cx": 765,
-          "cy": 830,
+          "cy": 900,
           "r": 170,
           "meses": 3
         },
         {
           "tipo": "rotulo",
           "texto": "1 MES",
-          "y": 1030,
+          "y": 1100,
           "en": 1.7,
           "tamano": 64,
           "izq": 60,
@@ -291,7 +290,7 @@
         {
           "tipo": "rotulo",
           "texto": "3 MESES",
-          "y": 1030,
+          "y": 1100,
           "en": 1.7,
           "tamano": 64,
           "izq": 575,
@@ -304,7 +303,7 @@
             "≠"
           ],
           "x": 505,
-          "y": 790,
+          "y": 860,
           "desde": 40,
           "angulo": 0,
           "tamano": 120,
@@ -343,8 +342,8 @@
           ],
           "max": 15,
           "paso": 5,
-          "y0": 600,
-          "alto": 240,
+          "y0": 610,
+          "alto": 245,
           "x0": 110,
           "largo": 760,
           "dur": 0.9,
@@ -391,9 +390,9 @@
           "primer": 1,
           "dias": 31,
           "cw": 114,
-          "ch": 86,
+          "ch": 90,
           "x": 540,
-          "y": 600,
+          "y": 590,
           "aro": {
             "d": 4,
             "en": 0.8
@@ -418,7 +417,7 @@
           "tipo": "abSerie",
           "a": "COMPRAR YA",
           "b": "ESPERAR",
-          "y": 600,
+          "y": 720,
           "en": 0.35
         }
       ]

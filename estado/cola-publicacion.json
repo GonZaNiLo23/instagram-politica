@@ -769,5 +769,12 @@
     "hora": "2026-11-20T13:30:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/057-smi-2027-v1.md APROBADO (cambios aplicados) · revisiones/videos/057-smi-2027-v2.md APROBADO test 9/10",
     "estado": "pendiente"
+  },
+  {
+    "pieza": "058-compraventas-vs-precios",
+    "version": "v3",
+    "hora": "2026-11-20T19:00:00+01:00",
+    "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/058-compraventas-vs-precios-v1.md APROBADO (cambios aplicados) · revisiones/videos/058-compraventas-vs-precios-v3.md APROBADO test 9/10",
+    "estado": "pendiente"
   }
 ]

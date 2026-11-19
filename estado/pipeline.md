@@ -122,3 +122,5 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 056 | 8-anos-vivienda | 💶 Economía · serie 8 años | Flash | programado | 1 | 4 | 2026-11-19 19:00 (cola) | v4 APROBADO 9/10 |
 | am20261118-1130-vox-prioridad | Al minuto · Vox: prioridad nacional en ayudas | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-18 12:00 | autocomprobación |
 | am20261118-1930-vox-remigracion | Al minuto · Vox: remigración y billete de vuelta | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-18 20:00 | autocomprobación |
+| 057 | smi-2027 | 💶 Economía | Flash | programado | 1 | 2 | 2026-11-20 13:30 (cola) | v2 APROBADO 9/10; recomprobar convalidación RDL 38/2026 |
+| 058 | compraventas-vs-precios | 💶 Economía · Datos | Flash | programado | 1 | 3 | 2026-11-20 19:00 (cola) | v3 APROBADO 9/10 |
