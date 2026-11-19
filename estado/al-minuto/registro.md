@@ -311,3 +311,5 @@
 - 2026-11-19 13:30 UTC · 1 · @santi_abascal / @vox_es (agradecimientos Benavente, sin habla útil) · descartado; viral 36–60
 - 2026-11-19 15:34 UTC (publicación 16:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
 - 2026-11-19 17:31 UTC (publicación 18:00 Madrid) · 2 · @vox_es (cómo votar desde el extranjero, 85 s) · descartado: tutorial con plazos (24 y 21–26 nov) que no puedo contrastar sin fuente oficial, no cabe completo en 15–40 s sin dejar los pasos a medias, cierre de campaña de Vox; viral 55,4. Único candidato. Sin publicación.
+- 2026-11-19 19:30 UTC (publicación 20:00 Madrid) · 2 · @vox_es (plaza de toros de Gijón, 447 s) · descartado: sin frases transcritas (habla: false), sin tramo limpio de 15–40 s; viral 52,6
+- 2026-11-19 19:30 UTC · 1 · @vox_es (Asturias, 11,6 s) · descartado: sin habla; viral 7. Sin publicación.
