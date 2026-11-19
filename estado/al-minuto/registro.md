@@ -309,3 +309,4 @@
 - 2026-11-19 13:30 UTC (publicación 14:00 Madrid) · 4 · @nngg_es (un millón de casas para jóvenes, tramo 0–20,6 s; subtítulos cotejados con la transcripción, «Fijó»→«Feijóo», «bajan»→«bajen»; propuesta atribuida a NNGG, sin acusaciones; viral 401,6) · publicado am20261119-1326-nngg-casas
 - 2026-11-19 13:30 UTC · 2 · @santi_abascal (Pedro Sánchez ha vendido España, 177,7 s) · descartado: acusación grave sin tramo limpio, un envío por hora; viral 45,2
 - 2026-11-19 13:30 UTC · 1 · @santi_abascal / @vox_es (agradecimientos Benavente, sin habla útil) · descartado; viral 36–60
+- 2026-11-19 15:34 UTC (publicación 16:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
