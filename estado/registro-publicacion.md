@@ -140,3 +140,7 @@
 - 2026-11-19T12:30:55.474Z · 045-debates-academia-tv: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-19T18:00:51.795Z · 056-8-anos-vivienda v4: PUBLICADA en Instagram https://www.instagram.com/reel/Df7rKlDiFcD/
 - 2026-11-19T18:00:54.772Z · 056-8-anos-vivienda: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-20T08:00:41.165Z · am20261119-1326-nngg-casas v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df9LSYTEcnk/
+- 2026-11-20T08:00:43.711Z · am20261119-1326-nngg-casas: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-20T08:01:21.773Z · am20261120-0726-vox-prioridad v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df9LW-JCcrm/
+- 2026-11-20T08:01:24.301Z · am20261120-0726-vox-prioridad: TikTok en la bandeja de borradores (falta publicarlo desde la app)
