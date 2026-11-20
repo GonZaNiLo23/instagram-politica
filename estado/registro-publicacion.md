@@ -150,3 +150,5 @@
 - 2026-11-20T12:30:53.912Z · 057-smi-2027: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-20T14:01:13.034Z · am20261120-1326-vox-inmigracion v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df90fl8iDTx/
 - 2026-11-20T14:01:14.678Z · am20261120-1326-vox-inmigracion: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-20T18:01:04.777Z · 058-compraventas-vs-precios v3: PUBLICADA en Instagram https://www.instagram.com/reel/Df-P9ohDsc2/
+- 2026-11-20T18:01:08.154Z · 058-compraventas-vs-precios: TikTok en la bandeja de borradores (falta publicarlo desde la app)
