@@ -144,3 +144,5 @@
 - 2026-11-20T08:00:43.711Z · am20261119-1326-nngg-casas: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-20T08:01:21.773Z · am20261120-0726-vox-prioridad v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df9LW-JCcrm/
 - 2026-11-20T08:01:24.301Z · am20261120-0726-vox-prioridad: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-20T12:00:44.163Z · am20261120-1126-vox-sanidad v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df9mwUEEqB5/
+- 2026-11-20T12:00:47.938Z · am20261120-1126-vox-sanidad: TikTok en la bandeja de borradores (falta publicarlo desde la app)

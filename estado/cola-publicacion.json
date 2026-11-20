@@ -836,7 +836,11 @@
     "pieza": "am20261120-1126-vox-sanidad",
     "version": "v1",
     "hora": "2026-11-20T12:00:00.000Z",
-    "estado": "pendiente",
-    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)"
+    "estado": "publicado",
+    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)",
+    "id": "17968535840980775",
+    "enlace": "https://www.instagram.com/reel/Df9mwUEEqB5/",
+    "publicado_en": "2026-11-20T12:00:44.163Z",
+    "tiktok_estado": "borrador"
   }
 ]
