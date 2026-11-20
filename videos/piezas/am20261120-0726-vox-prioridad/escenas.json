@@ -1,0 +1,96 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 19.3,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 15.8,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 15.8,
+     "fundidoFin": 15.8
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "VOX: REMIGRACIÓN Y PRIORIDAD NACIONAL",
+     "fecha": "20 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 1.9,
+       "texto": "No se ha hablado del proceso de remigración,"
+      },
+      {
+       "inicio": 1.9,
+       "fin": 3.7,
+       "texto": "que Vox considera que es uno de los puntales"
+      },
+      {
+       "inicio": 3.7,
+       "fin": 5.1,
+       "texto": "de la España del porvenir,"
+      },
+      {
+       "inicio": 5.1,
+       "fin": 6.5,
+       "texto": "no se ha hablado de prioridad nacional,"
+      },
+      {
+       "inicio": 6.5,
+       "fin": 8.3,
+       "texto": "estamos hablando de estado de bienestar,"
+      },
+      {
+       "inicio": 8.3,
+       "fin": 11.6,
+       "texto": "que está en niveles de saturación absolutos"
+      },
+      {
+       "inicio": 11.6,
+       "fin": 12.9,
+       "texto": "y en el que habrá que decidir"
+      },
+      {
+       "inicio": 12.9,
+       "fin": 14.8,
+       "texto": "ante recursos escasos y limitados"
+      },
+      {
+       "inicio": 14.8,
+       "fin": 15.8,
+       "texto": "quién va primero"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 15.8,
+   "fin": 19.3,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Vox quiere priorizar a los españoles en recursos escasos",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

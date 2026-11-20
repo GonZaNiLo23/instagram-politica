@@ -313,3 +313,7 @@
 - 2026-11-19 17:31 UTC (publicación 18:00 Madrid) · 2 · @vox_es (cómo votar desde el extranjero, 85 s) · descartado: tutorial con plazos (24 y 21–26 nov) que no puedo contrastar sin fuente oficial, no cabe completo en 15–40 s sin dejar los pasos a medias, cierre de campaña de Vox; viral 55,4. Único candidato. Sin publicación.
 - 2026-11-19 19:30 UTC (publicación 20:00 Madrid) · 2 · @vox_es (plaza de toros de Gijón, 447 s) · descartado: sin frases transcritas (habla: false), sin tramo limpio de 15–40 s; viral 52,6
 - 2026-11-19 19:30 UTC · 1 · @vox_es (Asturias, 11,6 s) · descartado: sin habla; viral 7. Sin publicación.
+- 2026-11-20 07:30 UTC (publicación 08:00 Madrid) · 4 · @vox_es (valoración del cara a cara: remigración y prioridad nacional, tramo 269,7–285,5 s; subtítulos cotejados con la transcripción; opinión atribuida a Vox, sin acusaciones de delito, omitido el pasaje de «ciudades invadidas» y el cierre con transcripción dudosa; viral 45,8) · publicado am20261120-0726-vox-prioridad
+- 2026-11-20 07:30 UTC · 2 · @partidopopular (¿Quién le pagó las primarias?, 5,4 s) · descartado: 5 s e insinuación sin prueba; viral 228,2
+- 2026-11-20 07:30 UTC · 1 · @partidopopular (Feijóo llegando a Génova, 23,6 s) · descartado: sin habla; viral 483
+- 2026-11-20 07:30 UTC · 2 · @sanchezcastejon (spot de campaña, 61,6 s) · descartado: mitin/spot sin propuesta, transcripción errónea («Tecnólica Arcas»), un envío por hora; viral 159,6

@@ -126,3 +126,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 058 | compraventas-vs-precios | 💶 Economía · Datos | Flash | programado | 1 | 3 | 2026-11-20 19:00 (cola) | v3 APROBADO 9/10 |
 | am20261119-0926-alvise-irpf | Al minuto · Alvise: cero IRPF bajo 25.000 € y seguridad | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-19 10:00 | autocomprobación |
 | am20261119-1326-nngg-casas | Al minuto · NNGG: un millón de casas para jóvenes | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-19 14:00 | autocomprobación |
+| am20261120-0726-vox-prioridad | Al minuto · Vox: remigración y prioridad nacional | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-20 08:00 | autocomprobación |
