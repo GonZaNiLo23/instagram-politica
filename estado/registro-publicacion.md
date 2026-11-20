@@ -146,3 +146,5 @@
 - 2026-11-20T08:01:24.301Z · am20261120-0726-vox-prioridad: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-20T12:00:44.163Z · am20261120-1126-vox-sanidad v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df9mwUEEqB5/
 - 2026-11-20T12:00:47.938Z · am20261120-1126-vox-sanidad: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-20T12:30:52.519Z · 057-smi-2027 v2: PUBLICADA en Instagram https://www.instagram.com/reel/Df9qM9sESK1/
+- 2026-11-20T12:30:53.912Z · 057-smi-2027: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
