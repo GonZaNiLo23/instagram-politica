@@ -52,3 +52,4 @@
 - 2026-11-20T07:38:31Z · am20261119-1326-nngg-casas v1 · OK · ffprobe: h264 1080x1920 @30/1 · 24.15 s (objetivo 24.1 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-20T07:40:02Z · am20261120-0726-vox-prioridad v1 · OK · ffprobe: h264 1080x1920 @30/1 · 19.40 s (objetivo 19.3 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-20T11:32:12Z · am20261120-1126-vox-sanidad v1 · OK · ffprobe: h264 1080x1920 @30/1 · 22.76 s (objetivo 22.7 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-20T13:36:05Z · am20261120-1326-vox-inmigracion v1 · OK · ffprobe: h264 1080x1920 @30/1 · 35.60 s (objetivo 35.5 s) -> OK Volumen integrado: -14.2 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
