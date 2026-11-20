@@ -1,51 +1,51 @@
-# Informe de rendimiento 2026-11-19 (jueves)
+# Informe de rendimiento 2026-11-20 (viernes)
 
-**Fuente:** `publicado/metricas-api/2026-11-18.json`, **el más reciente: falta `2026-11-19.json`** (la descarga de las 08:30 Madrid no había llegado). Es una 2.ª lectura del día 18 (16:49 UTC = 17:49 Madrid; 105 publicaciones, +3 respecto a la lectura de las 07:36 UTC), así que las cifras llevan un corte de ≈ 14 h. **TikTok no está en la API: n/d.** No se estima nada.
+**Fuente:** `publicado/metricas-api/2026-11-20.json` (leído 07:31 UTC = 08:31 Madrid; 111 publicaciones, +6 frente a la lectura de ayer). **TikTok no está en la API: n/d.** Retención a 3 s, % visto y seguidores ganados por pieza: n/d. No se estima nada.
 
 ## Resumen
-- **Qué funciona:** nada nuevo. Siguen sosteniendo la cuenta am-Abascal voto mujeres (1.953) y el flash 049 con pregunta (1.397); el resto de la semana no se mueve.
-- **Qué no funciona:** las piezas de ayer arrancan en 122–168 visual. a 4–5 h (052 voto por correo, Cómo funciona: 144 y 155 con 6,1 y 6,4 s; Vox prioridad nacional: 122 con 4,8 s); 053 cierra a 24 h en 155–168 con 0 guardados+compartidos. Seguidores IG **67, +0**.
-- **Qué probar:** 054 (flash, contraste de cifras) mejora a 24 h: 282 visual. y 11,3 s, la mejor de las nuevas (n = 1, indicio). Medir 052 a 24 h con el JSON de hoy.
+- **Qué funciona:** nada nuevo. Siguen sosteniendo la cuenta 002 (8.826), 016, am-Abascal voto mujeres y el flash 049; ninguna pieza de la semana pasa de 365 visual.
+- **Qué no funciona:** las 6 piezas nuevas están en 136–165 visual. a 13–37 h, **0 guardados y 0 compartidos** en todas. Seguidores IG **67, +0**. 056 (vivienda, flash) 136 visual. con 4,6–5,0 s; 055 (encuestas) 137 con 5,5 s.
+- **Qué probar:** el mejor tiempo medio de las nuevas es am-Alvise IRPF (8,3 s) y 045 (7,4 s), con 138–165 visual.: la retención no es el problema, lo es el alcance de entrada. Seguir probando horas y temas fuera de 13:30/19:00.
 
 ## Seguidores
-- Instagram: **67** (API), **+0** frente a la lectura anterior. Desde el 25-10 (23): +44 en 25 días ≈ 1,8/día.
+- Instagram: **67** (API), **+0** en 24 h. Desde el 25-10 (23): +44 en 26 días ≈ 1,7/día.
 - TikTok: n/d (último dato: 40 el 27-10). Suma no calculable.
 - Hito 10.000 (16-11) no alcanzado; 67 ≈ 0,7 % de la ruta.
 
-## Piezas nuevas y las de ayer (Instagram)
+## Piezas nuevas (Instagram)
 | Pieza | Edad | Visual. | T. medio | Guard.+comp. | por 1.000 | Likes | Coment. |
 |---|---|---|---|---|---|---|---|
-| 052 voto por correo 29-N, Cómo funciona (18-11 13:31) | 4 h | 155 | 6,4 s | 0+0 | 0 | 1 | 0 |
-| 052 duplicado, 2.º Reel (13:34) | 4 h | 144 | 6,1 s | 0+1 | 6,9 | 0 | 0 |
-| am-Vox prioridad nacional ayudas (18-11 13:00) | 5 h | 122 | 4,8 s | 0+0 | 0 | 3 | 1 |
-| 054 audiencias debates, flash (17-11 19:00) | 23 h | 282 | 11,3 s | 0+0 | 0 | 1 | 0 |
-| am-Alvise impuestos vivienda (17-11 15:00) | 27 h | 152 | 15,0 s | 1+1 | 13,2 | 1 | 0 |
-| am-Abascal fronteras Lanzarote (17-11 17:00) | 25 h | 131 | 7,1 s | 0+1 | 7,6 | 4 | 2 |
-| 053 compra ahora paga después (13:30 / duplicado 13:33) | 28 h | 155 / 168 | 5,8 / 7,5 s | 0+0 / 0+0 | 0 | 1 / 1 | 0 |
+| 056 8 años vivienda, flash (19-11 19:00 / duplicado 19:04) | 13 h | 136 / 136 | 5,0 / 4,6 s | 0+0 | 0 | 0 | 0 |
+| 045 debates academia TV, flash (19-11 13:30) | 19 h | 165 | 7,4 s | 0+0 | 0 | 2 | 0 |
+| am-Alvise IRPF y seguridad (19-11 11:00) | 21 h | 138 | 8,3 s | 0+0 | 0 | 2 | 0 |
+| am-Vox remigración billete de vuelta (18-11 21:53) | 35 h | 142 | 6,8 s | 0+0 | 0 | 3 | 0 |
+| 055 encuestas prohibidas, flash (18-11 19:00) | 37 h | 137 | 5,5 s | 0+0 | 0 | 0 | 0 |
+Piezas de días anteriores ya a 24 h+: 052 voto por correo (Cómo funciona) cierra en 145–175 visual. y 6,0–6,5 s con 0+1 guard.+comp. (n = 2 con 053); 054 (flash curiosidad) 284 visual. y 11,2 s a 61 h; am-Vox prioridad nacional 123 y 4,7 s a 43 h.
 
-Total de las 105 publicaciones: 73.263 visual. (+498 sobre la lectura anterior, casi todo de las 3 nuevas y de 054); guardados+compartidos acumulados: 366 (5,0 por 1.000). Retención a 3 s, % visto y seguidores ganados por pieza: n/d. Las cifras por 1.000 de las nuevas se calculan sobre menos de 300 visual.: ruido (n = 1 por pieza).
+Total de las 111 publicaciones: 74.169 visual.; guardados+compartidos acumulados: 366 (4,9 por 1.000). Las nuevas aportan +906 visual. y 0 guardados/compartidos.
 
-## Top por visualizaciones (n = 105; tabla completa en `publicado/metricas-diarias.md`)
-002 (8.822) · 016 (5.918) · 014 y 003 (≈ 3.500) · am-Remigración (≈ 2.900) · 009 (2.362) · am-Abascal voto mujeres (1.953) · 049 (1.397).
+## Top por visualizaciones (n = 111; tabla completa en `publicado/metricas-diarias.md`)
+002 (8.826) · 016 (5.918) · 014 (3.635) · 003 (3.453) · am-Abascal remigración (2.931) · 009 (2.362) · Urda (2.313) · CIS (2.000).
 
 ## Ranking (indicios; n por grupo)
-- **Piezas de la semana (publicadas desde el 11-11):** siguen en mediana ≈ 175 visual.; solo voto mujeres, 049 y repatriación pasan de 600.
-- **Cómo funciona (n = 2 medidas: 052 y 053):** 144–168 a 4–28 h, 0–1 guardados+compartidos. Indicio de que el pilar tampoco despega con la cuenta actual; falta la lectura a 24 h de 052.
-- **Al minuto de Vox/Abascal:** seguridad, inmigración y mujeres despegan (n = 3); fronteras Lanzarote (131) y prioridad nacional ayudas (122 a 5 h) no siguen el patrón (n = 2, temas afines pero sin gancho de propuesta/cifra).
-- **Duplicados en IG:** 052 y 053 otra vez publicados dos veces.
+- **Piezas de la semana (publicadas desde el 15-11, n ≈ 30):** mediana ≈ 168 visual. (n = 40 últimas publicaciones); ninguna despega.
+- **Cómo funciona (n = 3: 052, 053, 055):** 137–175 visual., 0–1 guardados+compartidos. Indicio claro de que el pilar no despega con la cuenta actual (n = 3, ya no solo anécdota).
+- **Flashes (n ≥ 6 recientes):** 136–284 visual.; tiempos medios de 4,2 a 11,3 s; el contraste de cifras (054) es el único por encima de 280.
+- **Al minuto:** las últimas 6 (Alvise ×2, Vox ×2, Abascal Lanzarote, Garriga) 122–363 visual.; ninguna repite el patrón de propuesta concreta/seguridad de voto mujeres.
+- **Duplicados en IG:** 056 otra vez publicado dos veces (19:00 y 19:04); suman ya >10 piezas duplicadas.
 
 ## Recomendaciones
-1. Medir 052 a 24 h con el JSON de hoy antes de decidir sobre Cómo funciona; con 053 hay n = 2.
-2. Repetir en flashes de curiosidad el contraste de cifras de 054 (mejor t. medio entre flashes, n = 1).
-3. Flashes con pregunta de dos lecturas (049, n = 1) frente a cifra seca.
-4. Revisar `publicar.yml`/`render.yml`: hay Reels duplicados cada día (052, 053).
-5. Recalibrar con la persona usuaria las fechas de hitos (ritmo ≈ 1,8 seguidores/día).
+1. Revisar `publicar.yml`/`render.yml`: duplicados diarios (052, 053, 056 y anteriores) dividen el alcance.
+2. Probar horas y días distintos a 13:30/19:00 en estándar (n = 0 hasta ahora).
+3. Repetir el contraste de cifras de 054 y la pregunta de dos lecturas de 049 en flashes (n = 1 cada uno).
+4. Ante el cierre de campaña (29-N), priorizar Al minuto de propuestas concretas y seguridad/inmigración/vivienda (únicos temas que han despegado, n = 3).
+5. Recalibrar con la persona usuaria las fechas de hitos (ritmo ≈ 1,7 seguidores/día).
 
 ## Lecciones de las métricas
-Ninguna regla nueva en `feedback/`: ningún patrón nuevo llega a n ≥ 3.
+Ninguna regla nueva en `feedback/`: el pilar Cómo funciona llega a n = 3 pero sin variación (todo en la misma franja plana de la cuenta), no es un patrón atribuible al pilar.
 
 ## Alertas
-- Falta `metricas-api/2026-11-19.json`: informe con datos de la lectura de ayer a las 16:49 UTC.
 - Hito de 10.000 (16-11) no alcanzado; alerta de estrategia vigente (< 50 % de la ruta desde hace tres semanas).
-- Seguidores +0; ritmo ≈ 1,8/día.
-- Duplicados de 052 (13:31 y 13:34) y 053 publicados en IG.
+- Seguidores +0; ritmo ≈ 1,7/día.
+- Duplicado 056 (19:00 y 19:04) en IG.
+- TikTok sin datos desde el 27-10.
