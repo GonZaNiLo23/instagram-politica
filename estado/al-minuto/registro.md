@@ -320,3 +320,8 @@
 - 2026-11-20 11:30 UTC (publicación 12:00 Madrid) · 3 · @vox_es (listas de espera en sanidad, tramo 20,0–39,2 s; subtítulos cotejados con la transcripción, «lejo»→«lejos»; denuncia atribuida a Vox, sin acusaciones de delito; viral 69,1; sube un punto por consecuencia directa para el ciudadano) · publicado am20261120-1126-vox-sanidad
 - 2026-11-20 11:30 UTC · 2 · @gabrielrufian (Un muro contra el fascismo, 81,7 s) · descartado: acusaciones graves sin prueba sobre Abascal (Gaza), sin tramo limpio; un envío por hora; viral 383,8
 - 2026-11-20 11:30 UTC · 1 · @vox_es (Salamanca, 14,9 s) · descartado: sin habla; viral 0,9
+- 2026-11-20 13:30 UTC (publicación 14:00 Madrid) · 4 · @vox_es (inmigración: no puede entrar nadie más, salidas y remigración, tramo 50,55–82,5 s; subtítulos cotejados con la transcripción; propuesta atribuida a Vox, sin acusaciones de delito; viral 29,5; sube un punto por propuesta con consecuencia directa) · publicado am20261120-1326-vox-inmigracion
+- 2026-11-20 13:30 UTC · 2 · @vox_es (Abascal KO a Sánchez, 65,4 s) · descartado: compara a Sánchez con un psicópata y alude a «sicarios» contra una jueza, sin prueba; un envío por hora; viral 71
+- 2026-11-20 13:30 UTC · 2 · @vox_es (cara a cara/debate, 30,1 s) · descartado: queja sobre debate, sin propuesta; viral 155,9
+- 2026-11-20 13:30 UTC · 2 · @vox_es (Puigdemont, 123,8 s) · descartado: crónica sin tramo limpio; viral 43,3
+- 2026-11-20 13:30 UTC · 1 · @vox_es (Salamanca, 19,2 s) · descartado: sin habla útil; viral 65,7
