@@ -317,3 +317,6 @@
 - 2026-11-20 07:30 UTC · 2 · @partidopopular (¿Quién le pagó las primarias?, 5,4 s) · descartado: 5 s e insinuación sin prueba; viral 228,2
 - 2026-11-20 07:30 UTC · 1 · @partidopopular (Feijóo llegando a Génova, 23,6 s) · descartado: sin habla; viral 483
 - 2026-11-20 07:30 UTC · 2 · @sanchezcastejon (spot de campaña, 61,6 s) · descartado: mitin/spot sin propuesta, transcripción errónea («Tecnólica Arcas»), un envío por hora; viral 159,6
+- 2026-11-20 11:30 UTC (publicación 12:00 Madrid) · 3 · @vox_es (listas de espera en sanidad, tramo 20,0–39,2 s; subtítulos cotejados con la transcripción, «lejo»→«lejos»; denuncia atribuida a Vox, sin acusaciones de delito; viral 69,1; sube un punto por consecuencia directa para el ciudadano) · publicado am20261120-1126-vox-sanidad
+- 2026-11-20 11:30 UTC · 2 · @gabrielrufian (Un muro contra el fascismo, 81,7 s) · descartado: acusaciones graves sin prueba sobre Abascal (Gaza), sin tramo limpio; un envío por hora; viral 383,8
+- 2026-11-20 11:30 UTC · 1 · @vox_es (Salamanca, 14,9 s) · descartado: sin habla; viral 0,9

@@ -1,0 +1,95 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 22.7,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 19.2,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 19.2,
+     "fundidoFin": 19.2
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "VOX DENUNCIA LAS LISTAS DE ESPERA EN SANIDAD",
+     "fecha": "20 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.1,
+       "fin": 3.5,
+       "texto": "Que los españoles, cuando tienen una cita médica,\ncada vez es más lejos,"
+      },
+      {
+       "inicio": 3.55,
+       "fin": 5.3,
+       "texto": "cuando tienen una intervención quirúrgica,"
+      },
+      {
+       "inicio": 5.35,
+       "fin": 6.9,
+       "texto": "aquí hay gente levantando la mano ya,"
+      },
+      {
+       "inicio": 7.1,
+       "fin": 8.6,
+       "texto": "cada vez tarda más, y que hay gente"
+      },
+      {
+       "inicio": 8.65,
+       "fin": 10.8,
+       "texto": "que muere esperando una operación,"
+      },
+      {
+       "inicio": 10.85,
+       "fin": 12.7,
+       "texto": "hay españoles que mueren por la decisión"
+      },
+      {
+       "inicio": 12.75,
+       "fin": 14.2,
+       "texto": "del Gobierno de regalar la sanidad"
+      },
+      {
+       "inicio": 14.25,
+       "fin": 15.85,
+       "texto": "que pagan los trabajadores españoles"
+      },
+      {
+       "inicio": 15.9,
+       "fin": 19.2,
+       "texto": "honrados, esforzados y humildes, a medio mundo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 19.2,
+   "fin": 22.7,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Vox pone las listas de espera en el centro del debate",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

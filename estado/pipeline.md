@@ -130,3 +130,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 060 | coste-elecciones | ⚙️ Cómo funciona | Flash | programado | 1 | 1 | 2026-11-21 19:00 (cola) | v1 APROBADO 9/10 |
 | 059 | millon-viviendas | Datos | Flash | a medias | 1 | - | - | sin fuente primaria (rtve.es bloqueado); cifras VerificaRTVE de segunda mano |
 | 061 | jornada-reflexion | ⚙️ Cómo funciona | Flash | programado | 1 | 1 | 2026-11-21 12:00 (cola) | v1 APROBADO 9/10 |
+| am20261120-1126-vox-sanidad | Al minuto · Vox: listas de espera en sanidad | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-20 12:00 | autocomprobación |
