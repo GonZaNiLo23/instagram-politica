@@ -17,10 +17,10 @@ const nb = ' ';
 const b1 = S(7), b2 = S(15), b3 = S(26), b4 = S(47), b5 = S(65), b6 = S(75);
 
 esc(0, b1, {fondo: 'crema'}, [
-  {tipo: 'gancho', texto: `SÁBADO${nb}28:`, y: 290, tamano: 120, en: -1},
-  {tipo: 'gancho', texto: `SIN${nb}CAMPAÑA`, y: 430, tamano: 120, en: -1},
-  {tipo: 'calendarioX', mes: '', primer: 6, dias: 30, diaMin: 23, diaMax: 29, x: 540, y: 600, cw: 112, ch: 110, fuente: 48, rellenos: [{d0: 28, d1: 28, en: 0.5}], aro: {d: 28, en: 0.5}, en: 0},
-  {tipo: 'icono', nombre: 'megafono', x: 540, y: 1000, tamano: 240, en: 1.2},
+  {tipo: 'gancho', texto: `SÁBADO${nb}28:`, y: 340, tamano: 120, en: -1},
+  {tipo: 'gancho', texto: `SIN${nb}CAMPAÑA`, y: 480, tamano: 120, en: -1},
+  {tipo: 'calendarioX', mes: '', primer: 6, dias: 30, diaMin: 23, diaMax: 29, x: 540, y: 700, cw: 112, ch: 110, fuente: 48, rellenos: [{d0: 28, d1: 28, en: 0.5}], aro: {d: 28, en: 0.5}, en: 0},
+  {tipo: 'icono', nombre: 'megafono', x: 540, y: 1060, tamano: 320, en: 1.2},
 ]);
 esc(b1, b2, {fondo: 'crema'}, [
   rot(`00:00 · sábado 28`, 330, 0.05, {tamano: 76}),
@@ -32,22 +32,22 @@ esc(b1, b2, {fondo: 'crema'}, [
 esc(b2, b3, {fondo: 'crema'}, [
   rot(`Art. 51.3 LOREG`, 330, 0.05, {tamano: 80}),
   rot(`«Termina, en todo caso, a las cero horas del día inmediatamente anterior a la votación»`, 500, 0),
-  {tipo: 'icono', nombre: 'documento', x: 440, y: 1040, tamano: 200, en: 0.4, mover: {x: 640, y: 1040, en: 0.8, dur: 4.2, arco: 50}},
+  {tipo: 'icono', nombre: 'documento', x: 440, y: 1010, tamano: 300, en: 0.4, mover: {x: 640, y: 1010, en: 0.8, dur: 4.2, arco: 50}},
 ]);
 esc(b3, b4, {fondo: 'crema'}, [
-  {tipo: 'icono', nombre: 'cartel', x: 240, y: 400, tamano: 200, en: 0.3, mover: {x: 300, y: 400, en: 1.5, dur: 7, arco: 40}},
-  {tipo: 'icono', nombre: 'aspa', x: 430, y: 400, tamano: 120, en: rel(b3, 35), mover: {x: 490, y: 400, en: 1.5, dur: 7, arco: 40}},
-  {tipo: 'icono', nombre: 'atril', x: 700, y: 400, tamano: 200, en: rel(b3, 36), mover: {x: 640, y: 400, en: 1.5, dur: 7, arco: 40}},
-  rot(`Art. 53 LOREG: «No puede difundirse propaganda electoral ni realizarse acto alguno de campaña electoral una vez que ésta haya legalmente terminado»`, 560, 0.1),
+  {tipo: 'icono', nombre: 'cartel', x: 240, y: 520, tamano: 220, en: 0.3, mover: {x: 300, y: 520, en: 1.5, dur: 7, arco: 40}},
+  {tipo: 'icono', nombre: 'aspa', x: 440, y: 520, tamano: 130, en: rel(b3, 35), mover: {x: 500, y: 520, en: 1.5, dur: 7, arco: 40}},
+  {tipo: 'icono', nombre: 'atril', x: 700, y: 520, tamano: 220, en: rel(b3, 36), mover: {x: 640, y: 520, en: 1.5, dur: 7, arco: 40}},
+  rot(`Art. 53 LOREG: «No puede difundirse propaganda electoral ni realizarse acto alguno de campaña electoral una vez que ésta haya legalmente terminado»`, 680, 0.1),
 ]);
 esc(b4, b5, {fondo: 'crema'}, [
   rot(`«Reflexión»: no está en la LOREG`, 330, 0.05, {tamano: 72}),
-  {tipo: 'icono', nombre: 'lupaPlaca', x: 300, y: 900, tamano: 380, en: 0.3, mover: {x: 420, y: 900, en: 0.8, dur: 3, arco: 40}},
-  {tipo: 'icono', nombre: 'aspa', x: 790, y: 900, tamano: 180, en: rel(b4, 57)},
+  {tipo: 'icono', nombre: 'lupaPlaca', x: 300, y: 940, tamano: 440, en: 0.3, mover: {x: 400, y: 940, en: 0.8, dur: 3, arco: 40}},
+  {tipo: 'icono', nombre: 'aspa', x: 790, y: 940, tamano: 200, en: rel(b4, 57)},
 ]);
 esc(b5, b6, {fondo: 'crema'}, [
   rot(`¿Sí o no?`, 330, 0.05, {tamano: 96}),
-  {tipo: 'botonesTr', y: 800, en: 0.3},
+  {tipo: 'botonesTr', y: 900, en: 0.3},
 ]);
 esc(b6, DUR, {fondo: 'mostaza', sinSubtitulos: true}, [
   {tipo: 'cierre', frase: `¿SÍ O NO?`, cta: 'siguenos', tamano: 76, pulso: true},

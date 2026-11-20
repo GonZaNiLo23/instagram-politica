@@ -70,14 +70,14 @@
         {
           "tipo": "gancho",
           "texto": "SÁBADO 28:",
-          "y": 290,
+          "y": 340,
           "tamano": 120,
           "en": -1
         },
         {
           "tipo": "gancho",
           "texto": "SIN CAMPAÑA",
-          "y": 430,
+          "y": 480,
           "tamano": 120,
           "en": -1
         },
@@ -89,7 +89,7 @@
           "diaMin": 23,
           "diaMax": 29,
           "x": 540,
-          "y": 600,
+          "y": 700,
           "cw": 112,
           "ch": 110,
           "fuente": 48,
@@ -110,8 +110,8 @@
           "tipo": "icono",
           "nombre": "megafono",
           "x": 540,
-          "y": 1000,
-          "tamano": 240,
+          "y": 1060,
+          "tamano": 320,
           "en": 1.2
         }
       ]
@@ -190,12 +190,12 @@
           "tipo": "icono",
           "nombre": "documento",
           "x": 440,
-          "y": 1040,
-          "tamano": 200,
+          "y": 1010,
+          "tamano": 300,
           "en": 0.4,
           "mover": {
             "x": 640,
-            "y": 1040,
+            "y": 1010,
             "en": 0.8,
             "dur": 4.2,
             "arco": 50
@@ -212,12 +212,12 @@
           "tipo": "icono",
           "nombre": "cartel",
           "x": 240,
-          "y": 400,
-          "tamano": 200,
+          "y": 520,
+          "tamano": 220,
           "en": 0.3,
           "mover": {
             "x": 300,
-            "y": 400,
+            "y": 520,
             "en": 1.5,
             "dur": 7,
             "arco": 40
@@ -226,13 +226,13 @@
         {
           "tipo": "icono",
           "nombre": "aspa",
-          "x": 430,
-          "y": 400,
-          "tamano": 120,
+          "x": 440,
+          "y": 520,
+          "tamano": 130,
           "en": 4.18,
           "mover": {
-            "x": 490,
-            "y": 400,
+            "x": 500,
+            "y": 520,
             "en": 1.5,
             "dur": 7,
             "arco": 40
@@ -242,12 +242,12 @@
           "tipo": "icono",
           "nombre": "atril",
           "x": 700,
-          "y": 400,
-          "tamano": 200,
+          "y": 520,
+          "tamano": 220,
           "en": 4.26,
           "mover": {
             "x": 640,
-            "y": 400,
+            "y": 520,
             "en": 1.5,
             "dur": 7,
             "arco": 40
@@ -256,7 +256,7 @@
         {
           "tipo": "rotulo",
           "texto": "Art. 53 LOREG: «No puede difundirse propaganda electoral ni realizarse acto alguno de campaña electoral una vez que ésta haya legalmente terminado»",
-          "y": 560,
+          "y": 680,
           "en": 0.1,
           "tamano": 64
         }
@@ -278,12 +278,12 @@
           "tipo": "icono",
           "nombre": "lupaPlaca",
           "x": 300,
-          "y": 900,
-          "tamano": 380,
+          "y": 940,
+          "tamano": 440,
           "en": 0.3,
           "mover": {
-            "x": 420,
-            "y": 900,
+            "x": 400,
+            "y": 940,
             "en": 0.8,
             "dur": 3,
             "arco": 40
@@ -293,8 +293,8 @@
           "tipo": "icono",
           "nombre": "aspa",
           "x": 790,
-          "y": 900,
-          "tamano": 180,
+          "y": 940,
+          "tamano": 200,
           "en": 4.66
         }
       ]
@@ -313,7 +313,7 @@
         },
         {
           "tipo": "botonesTr",
-          "y": 800,
+          "y": 900,
           "en": 0.3
         }
       ]
