@@ -1,0 +1,337 @@
+{
+  "plantilla": "flash",
+  "duracion": 34.53,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "SÁBADO 28:",
+            "y": 340,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "",
+            "resalta": "SIN CAMPAÑA",
+            "y": 490,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "calendarioX",
+            "mes": "",
+            "primer": 6,
+            "dias": 30,
+            "diaMin": 23,
+            "diaMax": 29,
+            "x": 540,
+            "y": 700,
+            "cw": 112,
+            "ch": 110,
+            "fuente": 48,
+            "rellenos": [
+              {
+                "d0": 28,
+                "d1": 28,
+                "en": 0
+              }
+            ],
+            "aro": {
+              "d": 28,
+              "en": 0
+            },
+            "en": 0
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 2.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "SÁBADO 28:",
+          "y": 290,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "SIN CAMPAÑA",
+          "y": 430,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "",
+          "primer": 6,
+          "dias": 30,
+          "diaMin": 23,
+          "diaMax": 29,
+          "x": 540,
+          "y": 600,
+          "cw": 112,
+          "ch": 110,
+          "fuente": 48,
+          "rellenos": [
+            {
+              "d0": 28,
+              "d1": 28,
+              "en": 0.5
+            }
+          ],
+          "aro": {
+            "d": 28,
+            "en": 0.5
+          },
+          "en": 0
+        },
+        {
+          "tipo": "icono",
+          "nombre": "megafono",
+          "x": 540,
+          "y": 1000,
+          "tamano": 240,
+          "en": 1.2
+        }
+      ]
+    },
+    {
+      "inicio": 2.86,
+      "fin": 6.14,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "00:00 · sábado 28",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 76
+        },
+        {
+          "tipo": "relojH",
+          "x": 500,
+          "y": 760,
+          "r": 170,
+          "hora": 1,
+          "salto": 0.6,
+          "delta": 1,
+          "flecha": false
+        },
+        {
+          "tipo": "icono",
+          "nombre": "megafono",
+          "x": 250,
+          "y": 1080,
+          "tamano": 200,
+          "en": 0.2,
+          "hasta": 1.6
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urna",
+          "x": 540,
+          "y": 1080,
+          "tamano": 200,
+          "en": 0.3,
+          "hasta": 1.9
+        },
+        {
+          "tipo": "icono",
+          "nombre": "cartel",
+          "x": 830,
+          "y": 1080,
+          "tamano": 200,
+          "en": 0.4,
+          "hasta": 2.2
+        }
+      ]
+    },
+    {
+      "inicio": 6.14,
+      "fin": 11.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Art. 51.3 LOREG",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 80
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "«Termina, en todo caso, a las cero horas del día inmediatamente anterior a la votación»",
+          "y": 500,
+          "en": 0,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "documento",
+          "x": 440,
+          "y": 1040,
+          "tamano": 200,
+          "en": 0.4,
+          "mover": {
+            "x": 640,
+            "y": 1040,
+            "en": 0.8,
+            "dur": 4.2,
+            "arco": 50
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 11.1,
+      "fin": 20.56,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "icono",
+          "nombre": "cartel",
+          "x": 240,
+          "y": 400,
+          "tamano": 200,
+          "en": 0.3,
+          "mover": {
+            "x": 300,
+            "y": 400,
+            "en": 1.5,
+            "dur": 7,
+            "arco": 40
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 430,
+          "y": 400,
+          "tamano": 120,
+          "en": 4.18,
+          "mover": {
+            "x": 490,
+            "y": 400,
+            "en": 1.5,
+            "dur": 7,
+            "arco": 40
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "atril",
+          "x": 700,
+          "y": 400,
+          "tamano": 200,
+          "en": 4.26,
+          "mover": {
+            "x": 640,
+            "y": 400,
+            "en": 1.5,
+            "dur": 7,
+            "arco": 40
+          }
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Art. 53 LOREG: «No puede difundirse propaganda electoral ni realizarse acto alguno de campaña electoral una vez que ésta haya legalmente terminado»",
+          "y": 560,
+          "en": 0.1,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 20.56,
+      "fin": 27.04,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "«Reflexión»: no está en la LOREG",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "icono",
+          "nombre": "lupaPlaca",
+          "x": 300,
+          "y": 900,
+          "tamano": 380,
+          "en": 0.3,
+          "mover": {
+            "x": 420,
+            "y": 900,
+            "en": 0.8,
+            "dur": 3,
+            "arco": 40
+          }
+        },
+        {
+          "tipo": "icono",
+          "nombre": "aspa",
+          "x": 790,
+          "y": 900,
+          "tamano": 180,
+          "en": 4.66
+        }
+      ]
+    },
+    {
+      "inicio": 27.04,
+      "fin": 30.6,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿Sí o no?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 96
+        },
+        {
+          "tipo": "botonesTr",
+          "y": 800,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 30.6,
+      "fin": 34.53,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿SÍ O NO?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

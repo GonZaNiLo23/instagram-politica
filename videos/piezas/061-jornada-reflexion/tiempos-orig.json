@@ -1,0 +1,403 @@
+{
+  "palabras": [
+    {
+      "t": "Tu",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "día",
+      "inicio": 0.32,
+      "fin": 0.48
+    },
+    {
+      "t": "antes",
+      "inicio": 0.64,
+      "fin": 0.96
+    },
+    {
+      "t": "de",
+      "inicio": 1,
+      "fin": 1.04
+    },
+    {
+      "t": "votar,",
+      "inicio": 1.08,
+      "fin": 1.76
+    },
+    {
+      "t": "sin",
+      "inicio": 1.84,
+      "fin": 2
+    },
+    {
+      "t": "campaña.",
+      "inicio": 2.08,
+      "fin": 2.8
+    },
+    {
+      "t": "Será",
+      "inicio": 2.96,
+      "fin": 3.2
+    },
+    {
+      "t": "el",
+      "inicio": 3.28,
+      "fin": 3.36
+    },
+    {
+      "t": "sábado",
+      "inicio": 3.44,
+      "fin": 3.76
+    },
+    {
+      "t": "veintiocho,",
+      "inicio": 3.8,
+      "fin": 4.64
+    },
+    {
+      "t": "desde",
+      "inicio": 4.72,
+      "fin": 4.88
+    },
+    {
+      "t": "las",
+      "inicio": 5,
+      "fin": 5.12
+    },
+    {
+      "t": "cero",
+      "inicio": 5.2,
+      "fin": 5.36
+    },
+    {
+      "t": "horas.",
+      "inicio": 5.44,
+      "fin": 5.92
+    },
+    {
+      "t": "Lo",
+      "inicio": 6.24,
+      "fin": 6.32
+    },
+    {
+      "t": "fija",
+      "inicio": 6.4,
+      "fin": 6.64
+    },
+    {
+      "t": "el",
+      "inicio": 6.68,
+      "fin": 6.72
+    },
+    {
+      "t": "artículo",
+      "inicio": 6.8,
+      "fin": 7.2
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 7.28,
+      "fin": 7.68
+    },
+    {
+      "t": "y",
+      "inicio": 7.76,
+      "fin": 7.84
+    },
+    {
+      "t": "uno",
+      "inicio": 7.88,
+      "fin": 7.92
+    },
+    {
+      "t": "de",
+      "inicio": 8.08,
+      "fin": 8.16
+    },
+    {
+      "t": "la",
+      "inicio": 8.2,
+      "fin": 8.24
+    },
+    {
+      "t": "ley",
+      "inicio": 8.32,
+      "fin": 8.48
+    },
+    {
+      "t": "electoral.",
+      "inicio": 8.56,
+      "fin": 9.2
+    },
+    {
+      "t": "Desde",
+      "inicio": 9.6,
+      "fin": 9.76
+    },
+    {
+      "t": "ese",
+      "inicio": 9.84,
+      "fin": 10
+    },
+    {
+      "t": "momento,",
+      "inicio": 10.08,
+      "fin": 10.72
+    },
+    {
+      "t": "esa",
+      "inicio": 10.84,
+      "fin": 10.96
+    },
+    {
+      "t": "ley",
+      "inicio": 11.08,
+      "fin": 11.2
+    },
+    {
+      "t": "prohíbe",
+      "inicio": 11.28,
+      "fin": 11.76
+    },
+    {
+      "t": "difundir",
+      "inicio": 11.88,
+      "fin": 12.24
+    },
+    {
+      "t": "propaganda",
+      "inicio": 12.32,
+      "fin": 12.8
+    },
+    {
+      "t": "electoral.",
+      "inicio": 12.88,
+      "fin": 13.56
+    },
+    {
+      "t": "Y",
+      "inicio": 13.68,
+      "fin": 13.72
+    },
+    {
+      "t": "también",
+      "inicio": 13.76,
+      "fin": 14.16
+    },
+    {
+      "t": "hacer",
+      "inicio": 14.2,
+      "fin": 14.48
+    },
+    {
+      "t": "actos",
+      "inicio": 14.6,
+      "fin": 14.8
+    },
+    {
+      "t": "de",
+      "inicio": 14.84,
+      "fin": 14.88
+    },
+    {
+      "t": "campaña.",
+      "inicio": 14.96,
+      "fin": 15.52
+    },
+    {
+      "t": "Es",
+      "inicio": 15.76,
+      "fin": 15.84
+    },
+    {
+      "t": "el",
+      "inicio": 15.92,
+      "fin": 16
+    },
+    {
+      "t": "artículo",
+      "inicio": 16.08,
+      "fin": 16.4
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 16.48,
+      "fin": 16.8
+    },
+    {
+      "t": "y",
+      "inicio": 16.88,
+      "fin": 16.96
+    },
+    {
+      "t": "tres.",
+      "inicio": 17.08,
+      "fin": 17.68
+    },
+    {
+      "t": "Curiosidad:",
+      "inicio": 17.76,
+      "fin": 18.72
+    },
+    {
+      "t": "la",
+      "inicio": 18.8,
+      "fin": 18.88
+    },
+    {
+      "t": "palabra",
+      "inicio": 18.96,
+      "fin": 19.28
+    },
+    {
+      "t": "«reflexión»",
+      "inicio": 19.36,
+      "fin": 20.32
+    },
+    {
+      "t": "no",
+      "inicio": 20.4,
+      "fin": 20.48
+    },
+    {
+      "t": "aparece",
+      "inicio": 20.56,
+      "fin": 20.96
+    },
+    {
+      "t": "en",
+      "inicio": 21,
+      "fin": 21.04
+    },
+    {
+      "t": "la",
+      "inicio": 21.12,
+      "fin": 21.2
+    },
+    {
+      "t": "ley",
+      "inicio": 21.28,
+      "fin": 21.36
+    },
+    {
+      "t": "electoral.",
+      "inicio": 21.44,
+      "fin": 22
+    },
+    {
+      "t": "Es",
+      "inicio": 22.32,
+      "fin": 22.48
+    },
+    {
+      "t": "el",
+      "inicio": 22.52,
+      "fin": 22.56
+    },
+    {
+      "t": "nombre",
+      "inicio": 22.64,
+      "fin": 22.88
+    },
+    {
+      "t": "con",
+      "inicio": 22.96,
+      "fin": 23.04
+    },
+    {
+      "t": "que",
+      "inicio": 23.12,
+      "fin": 23.2
+    },
+    {
+      "t": "se",
+      "inicio": 23.24,
+      "fin": 23.28
+    },
+    {
+      "t": "la",
+      "inicio": 23.36,
+      "fin": 23.44
+    },
+    {
+      "t": "conoce.",
+      "inicio": 23.52,
+      "fin": 23.92
+    },
+    {
+      "t": "¿Un",
+      "inicio": 24.24,
+      "fin": 24.4
+    },
+    {
+      "t": "día",
+      "inicio": 24.52,
+      "fin": 24.64
+    },
+    {
+      "t": "sin",
+      "inicio": 24.72,
+      "fin": 24.8
+    },
+    {
+      "t": "campaña",
+      "inicio": 24.88,
+      "fin": 25.36
+    },
+    {
+      "t": "antes",
+      "inicio": 25.52,
+      "fin": 25.68
+    },
+    {
+      "t": "de",
+      "inicio": 25.72,
+      "fin": 25.76
+    },
+    {
+      "t": "votar:",
+      "inicio": 25.8,
+      "fin": 26.56
+    },
+    {
+      "t": "sí",
+      "inicio": 26.6,
+      "fin": 26.8
+    },
+    {
+      "t": "o",
+      "inicio": 27.04,
+      "fin": 27.08
+    },
+    {
+      "t": "no?",
+      "inicio": 27.12,
+      "fin": 27.76
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 27.8,
+      "fin": 28.32
+    },
+    {
+      "t": "para",
+      "inicio": 28.4,
+      "fin": 28.56
+    },
+    {
+      "t": "estar",
+      "inicio": 28.72,
+      "fin": 28.88
+    },
+    {
+      "t": "informado.",
+      "inicio": 29.04,
+      "fin": 29.76
+    }
+  ],
+  "duracion": 29.727347,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

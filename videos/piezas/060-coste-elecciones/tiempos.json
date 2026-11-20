@@ -1,0 +1,398 @@
+{
+  "palabras": [
+    {
+      "t": "Votar",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "t": "costará",
+      "inicio": 0.48,
+      "fin": 0.8
+    },
+    {
+      "t": "más",
+      "inicio": 0.96,
+      "fin": 1.12
+    },
+    {
+      "t": "de",
+      "inicio": 1.16,
+      "fin": 1.2
+    },
+    {
+      "t": "doscientos",
+      "inicio": 1.28,
+      "fin": 1.92
+    },
+    {
+      "t": "setenta",
+      "inicio": 2,
+      "fin": 2.4
+    },
+    {
+      "t": "millones.",
+      "inicio": 2.48,
+      "fin": 3.2
+    },
+    {
+      "t": "¿Quién",
+      "inicio": 3.36,
+      "fin": 3.52
+    },
+    {
+      "t": "cobra?",
+      "inicio": 3.6,
+      "fin": 4
+    },
+    {
+      "t": "Un",
+      "inicio": 4.4,
+      "fin": 4.48
+    },
+    {
+      "t": "partido",
+      "inicio": 4.56,
+      "fin": 4.88
+    },
+    {
+      "t": "con",
+      "inicio": 4.96,
+      "fin": 5.04
+    },
+    {
+      "t": "diputados",
+      "inicio": 5.08,
+      "fin": 5.68
+    },
+    {
+      "t": "cobra",
+      "inicio": 5.76,
+      "fin": 6
+    },
+    {
+      "t": "ochenta",
+      "inicio": 6.12,
+      "fin": 6.4
+    },
+    {
+      "t": "y",
+      "inicio": 6.48,
+      "fin": 6.56
+    },
+    {
+      "t": "un",
+      "inicio": 6.6,
+      "fin": 6.64
+    },
+    {
+      "t": "céntimos",
+      "inicio": 6.72,
+      "fin": 7.2
+    },
+    {
+      "t": "por",
+      "inicio": 7.28,
+      "fin": 7.36
+    },
+    {
+      "t": "cada",
+      "inicio": 7.52,
+      "fin": 7.68
+    },
+    {
+      "t": "voto",
+      "inicio": 7.76,
+      "fin": 8
+    },
+    {
+      "t": "al",
+      "inicio": 8.04,
+      "fin": 8.08
+    },
+    {
+      "t": "Congreso.",
+      "inicio": 8.16,
+      "fin": 8.8
+    },
+    {
+      "t": "Y",
+      "inicio": 8.96,
+      "fin": 9.04
+    },
+    {
+      "t": "más",
+      "inicio": 9.12,
+      "fin": 9.28
+    },
+    {
+      "t": "de",
+      "inicio": 9.32,
+      "fin": 9.36
+    },
+    {
+      "t": "veintiún",
+      "inicio": 9.44,
+      "fin": 9.84
+    },
+    {
+      "t": "mil",
+      "inicio": 9.92,
+      "fin": 10.08
+    },
+    {
+      "t": "euros",
+      "inicio": 10.16,
+      "fin": 10.4
+    },
+    {
+      "t": "por",
+      "inicio": 10.48,
+      "fin": 10.64
+    },
+    {
+      "t": "escaño.",
+      "inicio": 10.72,
+      "fin": 11.2
+    },
+    {
+      "t": "Si",
+      "inicio": 11.52,
+      "fin": 11.6
+    },
+    {
+      "t": "no",
+      "inicio": 11.68,
+      "fin": 11.76
+    },
+    {
+      "t": "logra",
+      "inicio": 11.84,
+      "fin": 12
+    },
+    {
+      "t": "diputados,",
+      "inicio": 12.08,
+      "fin": 12.88
+    },
+    {
+      "t": "no",
+      "inicio": 12.96,
+      "fin": 13.04
+    },
+    {
+      "t": "cobra",
+      "inicio": 13.12,
+      "fin": 13.36
+    },
+    {
+      "t": "por",
+      "inicio": 13.44,
+      "fin": 13.52
+    },
+    {
+      "t": "voto.",
+      "inicio": 13.56,
+      "fin": 13.92
+    },
+    {
+      "t": "Pero",
+      "inicio": 14.16,
+      "fin": 14.32
+    },
+    {
+      "t": "esa",
+      "inicio": 14.44,
+      "fin": 14.56
+    },
+    {
+      "t": "es",
+      "inicio": 14.64,
+      "fin": 14.72
+    },
+    {
+      "t": "una",
+      "inicio": 14.8,
+      "fin": 14.88
+    },
+    {
+      "t": "parte:",
+      "inicio": 14.96,
+      "fin": 15.52
+    },
+    {
+      "t": "el",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "t": "grueso",
+      "inicio": 15.76,
+      "fin": 16.16
+    },
+    {
+      "t": "es",
+      "inicio": 16.32,
+      "fin": 16.48
+    },
+    {
+      "t": "logística.",
+      "inicio": 16.6,
+      "fin": 17.2
+    },
+    {
+      "t": "En",
+      "inicio": 17.52,
+      "fin": 17.6
+    },
+    {
+      "t": "dos",
+      "inicio": 17.68,
+      "fin": 17.76
+    },
+    {
+      "t": "mil",
+      "inicio": 17.84,
+      "fin": 17.88
+    },
+    {
+      "t": "veintitrés,",
+      "inicio": 17.92,
+      "fin": 18.64
+    },
+    {
+      "t": "los",
+      "inicio": 18.72,
+      "fin": 18.8
+    },
+    {
+      "t": "servicios",
+      "inicio": 18.92,
+      "fin": 19.28
+    },
+    {
+      "t": "postales",
+      "inicio": 19.36,
+      "fin": 19.76
+    },
+    {
+      "t": "costaron",
+      "inicio": 19.84,
+      "fin": 20.24
+    },
+    {
+      "t": "más",
+      "inicio": 20.32,
+      "fin": 20.48
+    },
+    {
+      "t": "de",
+      "inicio": 20.52,
+      "fin": 20.56
+    },
+    {
+      "t": "cien",
+      "inicio": 20.72,
+      "fin": 20.96
+    },
+    {
+      "t": "millones.",
+      "inicio": 21.04,
+      "fin": 21.76
+    },
+    {
+      "t": "Total:",
+      "inicio": 21.92,
+      "fin": 22.48
+    },
+    {
+      "t": "una",
+      "inicio": 22.56,
+      "fin": 22.64
+    },
+    {
+      "t": "estimación,",
+      "inicio": 22.72,
+      "fin": 23.44
+    },
+    {
+      "t": "unos",
+      "inicio": 23.6,
+      "fin": 23.76
+    },
+    {
+      "t": "siete",
+      "inicio": 23.8,
+      "fin": 24.08
+    },
+    {
+      "t": "euros",
+      "inicio": 24.16,
+      "fin": 24.48
+    },
+    {
+      "t": "por",
+      "inicio": 24.56,
+      "fin": 24.64
+    },
+    {
+      "t": "elector.",
+      "inicio": 24.8,
+      "fin": 25.32
+    },
+    {
+      "t": "Respuesta:",
+      "inicio": 25.52,
+      "fin": 26.24
+    },
+    {
+      "t": "quien",
+      "inicio": 26.4,
+      "fin": 26.56
+    },
+    {
+      "t": "logra",
+      "inicio": 26.64,
+      "fin": 26.88
+    },
+    {
+      "t": "diputados.",
+      "inicio": 26.96,
+      "fin": 27.6
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 27.92,
+      "fin": 28
+    },
+    {
+      "t": "sabías?",
+      "inicio": 28.08,
+      "fin": 28.76
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 28.96,
+      "fin": 29.44
+    },
+    {
+      "t": "para",
+      "inicio": 29.52,
+      "fin": 29.68
+    },
+    {
+      "t": "estar",
+      "inicio": 29.8,
+      "fin": 29.92
+    },
+    {
+      "t": "informado.",
+      "inicio": 30,
+      "fin": 30.8
+    }
+  ],
+  "duracion": 30.746122,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

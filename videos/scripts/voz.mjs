@@ -65,18 +65,21 @@ console.log(`Texto: ${n} palabras ≈ ${(n / 165 * 60).toFixed(1)} s a 165 pal/m
 
 // 2a. Voz real (ElevenLabs): tiene prioridad si hay clave y voz
 if (process.env.ELEVENLABS_API_KEY && process.env.ELEVENLABS_VOICE_ID) {
-  const url = `https://api.elevenlabs.io/v1/text-to-speech/${process.env.ELEVENLABS_VOICE_ID}/with-timestamps?output_format=mp3_44100_192`;
+  const urlDe = (f) => `https://api.elevenlabs.io/v1/text-to-speech/${process.env.ELEVENLABS_VOICE_ID}/with-timestamps?output_format=${f}`;
   const modelo = process.env.ELEVENLABS_MODEL || 'eleven_multilingual_v2';
   // Ajustes elegidos por la persona usuaria en ELEVENLABS_AJUSTES (videos/.env, "humana-2" desde el 2026-10-26).
   // Sin esa variable: v3/v4 en modo "Natural"; modelos antiguos, ajustes clásicos.
   const ajustes = process.env.ELEVENLABS_AJUSTES ? JSON.parse(process.env.ELEVENLABS_AJUSTES) : /^eleven_v[34]/.test(modelo)
     ? {stability: 0.5, similarity_boost: 0.75, style: 0, speed: 1.0}
     : {stability: 0.45, similarity_boost: 0.8, style: 0.25, speed: 1.0};
-  const r = await fetch(url, {
+  const pedir = (f) => fetch(urlDe(f), {
     method: 'POST',
     headers: {'xi-api-key': process.env.ELEVENLABS_API_KEY, 'Content-Type': 'application/json'},
     body: JSON.stringify({text: texto, model_id: modelo, voice_settings: ajustes}),
   });
+  let r = await pedir('mp3_44100_192');
+  // Planes sin nivel Creator no admiten 192 kbps: se reintenta a 128 kbps.
+  if (r.status === 403) r = await pedir('mp3_44100_128');
   if (!r.ok) { console.error(`ElevenLabs respondió ${r.status}: ${(await r.text()).slice(0, 200)}`); process.exit(2); }
   const j = await r.json();
   fs.writeFileSync(mp3, Buffer.from(j.audio_base64, 'base64'));

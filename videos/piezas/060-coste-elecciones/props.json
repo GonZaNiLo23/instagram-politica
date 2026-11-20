@@ -1,0 +1,799 @@
+{
+  "plantilla": "flash",
+  "duracion": 32.65,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "VOTAR CUESTA",
+            "y": 340,
+            "tamano": 92,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "",
+            "resalta": "+270 MILLONES",
+            "y": 480,
+            "tamano": 92,
+            "en": -1
+          },
+          {
+            "tipo": "icono",
+            "nombre": "urnaSin",
+            "x": 540,
+            "y": 900,
+            "tamano": 340,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.3,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "VOTAR COSTARÁ",
+          "y": 340,
+          "tamano": 92,
+          "en": -1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 330,
+          "y": 650,
+          "tamano": 300,
+          "en": -1
+        },
+        {
+          "tipo": "icono",
+          "nombre": "hucha",
+          "x": 740,
+          "y": 650,
+          "tamano": 260,
+          "en": -1,
+          "animEn": 0
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 270,
+          "dur": 3.4,
+          "prefijo": "+",
+          "sufijo": " M€",
+          "etiqueta": "ESTIMACIÓN",
+          "y": 830,
+          "tamano": 150,
+          "en": -1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "ESTIMACIÓN · base 2023 (Euronews)"
+          ],
+          "en": 2,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 4.3,
+      "fin": 8.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "0,81 €",
+          "y": 330,
+          "tamano": 150,
+          "en": 0.05
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "POR VOTO AL CONGRESO",
+          "y": 540,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "papeletaSin",
+          "x": 540,
+          "y": 900,
+          "tamano": 380,
+          "en": 0.3
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "DATO"
+          ],
+          "x": 600,
+          "y": 1030,
+          "desde": 40,
+          "angulo": -6,
+          "tamano": 84,
+          "en": 1.82
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Orden HAC/1062/2026, art. 1.b · BOE 8-10-2026"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 8.86,
+      "fin": 11.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "+21.167,64 €",
+          "y": 330,
+          "tamano": 120,
+          "en": 0.05
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "POR ESCAÑO",
+          "y": 540,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "congreso",
+          "x": 540,
+          "y": 900,
+          "tamano": 380,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "art. 1.a"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 11.42,
+      "fin": 14.06,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SIN DIPUTADOS,",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "NO COBRA POR VOTO",
+          "y": 450,
+          "en": 0.26,
+          "tamano": 72
+        },
+        {
+          "tipo": "gancho",
+          "texto": "0 €",
+          "y": 600,
+          "tamano": 240,
+          "en": 0.4
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 540,
+          "y": 960,
+          "tamano": 300,
+          "en": 0.6
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Orden HAC/1062/2026, art. 1.b"
+          ],
+          "en": 0.5,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 14.06,
+      "fin": 16.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "EL GRUESO: LOGÍSTICA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 540,
+          "y": 800,
+          "tamano": 420,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Estimación basada en 2023"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 16.5,
+      "fin": 20.94,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CORREOS 2023: +100 M€ (estimación)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "carpetas",
+          "x": 540,
+          "y": 900,
+          "tamano": 380,
+          "en": 0.3
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "ESTIMACIÓN"
+          ],
+          "x": 560,
+          "y": 1040,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 60,
+          "en": 1.42
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Euronews, 8-10-2026"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 20.94,
+      "fin": 24.7,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "≈ 7 €",
+          "y": 330,
+          "tamano": 180,
+          "en": 0.05
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "POR ELECTOR",
+          "y": 560,
+          "en": 0.15,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "38.728.356 ELECTORES (INE)",
+          "y": 700,
+          "en": 1.58,
+          "tamano": 56
+        },
+        {
+          "tipo": "icono",
+          "nombre": "hucha",
+          "x": 340,
+          "y": 950,
+          "tamano": 300,
+          "en": 0.5
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "CÁLCULO",
+            "PROPIO"
+          ],
+          "x": 620,
+          "y": 900,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 64,
+          "en": 2.86
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "270 M€ ÷ 38.728.356 electores"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 24.7,
+      "fin": 27.98,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿QUIÉN COBRA?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 80
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "QUIEN LOGRA DIPUTADOS",
+          "y": 520,
+          "en": 1.5,
+          "tamano": 72
+        },
+        {
+          "tipo": "icono",
+          "nombre": "urnaSin",
+          "x": 540,
+          "y": 900,
+          "tamano": 400,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 27.98,
+      "fin": 32.65,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿QUIÉN COBRA?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "060-coste-elecciones",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Votar",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "t": "costará",
+      "inicio": 0.48,
+      "fin": 0.8
+    },
+    {
+      "t": "más",
+      "inicio": 0.96,
+      "fin": 1.12
+    },
+    {
+      "t": "de",
+      "inicio": 1.16,
+      "fin": 1.2
+    },
+    {
+      "t": "doscientos",
+      "inicio": 1.28,
+      "fin": 1.92
+    },
+    {
+      "t": "setenta",
+      "inicio": 2,
+      "fin": 2.4
+    },
+    {
+      "t": "millones.",
+      "inicio": 2.48,
+      "fin": 3.2
+    },
+    {
+      "t": "¿Quién",
+      "inicio": 3.36,
+      "fin": 3.52
+    },
+    {
+      "t": "cobra?",
+      "inicio": 3.6,
+      "fin": 4
+    },
+    {
+      "t": "Un",
+      "inicio": 4.4,
+      "fin": 4.48
+    },
+    {
+      "t": "partido",
+      "inicio": 4.56,
+      "fin": 4.88
+    },
+    {
+      "t": "con",
+      "inicio": 4.96,
+      "fin": 5.04
+    },
+    {
+      "t": "diputados",
+      "inicio": 5.08,
+      "fin": 5.68
+    },
+    {
+      "t": "cobra",
+      "inicio": 5.76,
+      "fin": 6
+    },
+    {
+      "t": "ochenta",
+      "inicio": 6.12,
+      "fin": 6.4
+    },
+    {
+      "t": "y",
+      "inicio": 6.48,
+      "fin": 6.56
+    },
+    {
+      "t": "un",
+      "inicio": 6.6,
+      "fin": 6.64
+    },
+    {
+      "t": "céntimos",
+      "inicio": 6.72,
+      "fin": 7.2
+    },
+    {
+      "t": "por",
+      "inicio": 7.28,
+      "fin": 7.36
+    },
+    {
+      "t": "cada",
+      "inicio": 7.52,
+      "fin": 7.68
+    },
+    {
+      "t": "voto",
+      "inicio": 7.76,
+      "fin": 8
+    },
+    {
+      "t": "al",
+      "inicio": 8.04,
+      "fin": 8.08
+    },
+    {
+      "t": "Congreso.",
+      "inicio": 8.16,
+      "fin": 8.8
+    },
+    {
+      "t": "Y",
+      "inicio": 8.96,
+      "fin": 9.04
+    },
+    {
+      "t": "más",
+      "inicio": 9.12,
+      "fin": 9.28
+    },
+    {
+      "t": "de",
+      "inicio": 9.32,
+      "fin": 9.36
+    },
+    {
+      "t": "veintiún",
+      "inicio": 9.44,
+      "fin": 9.84
+    },
+    {
+      "t": "mil",
+      "inicio": 9.92,
+      "fin": 10.08
+    },
+    {
+      "t": "euros",
+      "inicio": 10.16,
+      "fin": 10.4
+    },
+    {
+      "t": "por",
+      "inicio": 10.48,
+      "fin": 10.64
+    },
+    {
+      "t": "escaño.",
+      "inicio": 10.72,
+      "fin": 11.2
+    },
+    {
+      "t": "Si",
+      "inicio": 11.52,
+      "fin": 11.6
+    },
+    {
+      "t": "no",
+      "inicio": 11.68,
+      "fin": 11.76
+    },
+    {
+      "t": "logra",
+      "inicio": 11.84,
+      "fin": 12
+    },
+    {
+      "t": "diputados,",
+      "inicio": 12.08,
+      "fin": 12.88
+    },
+    {
+      "t": "no",
+      "inicio": 12.96,
+      "fin": 13.04
+    },
+    {
+      "t": "cobra",
+      "inicio": 13.12,
+      "fin": 13.36
+    },
+    {
+      "t": "por",
+      "inicio": 13.44,
+      "fin": 13.52
+    },
+    {
+      "t": "voto.",
+      "inicio": 13.56,
+      "fin": 13.92
+    },
+    {
+      "t": "Pero",
+      "inicio": 14.16,
+      "fin": 14.32
+    },
+    {
+      "t": "esa",
+      "inicio": 14.44,
+      "fin": 14.56
+    },
+    {
+      "t": "es",
+      "inicio": 14.64,
+      "fin": 14.72
+    },
+    {
+      "t": "una",
+      "inicio": 14.8,
+      "fin": 14.88
+    },
+    {
+      "t": "parte:",
+      "inicio": 14.96,
+      "fin": 15.52
+    },
+    {
+      "t": "el",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "t": "grueso",
+      "inicio": 15.76,
+      "fin": 16.16
+    },
+    {
+      "t": "es",
+      "inicio": 16.32,
+      "fin": 16.48
+    },
+    {
+      "t": "logística.",
+      "inicio": 16.6,
+      "fin": 17.2
+    },
+    {
+      "t": "En",
+      "inicio": 17.52,
+      "fin": 17.6
+    },
+    {
+      "t": "dos",
+      "inicio": 17.68,
+      "fin": 17.76
+    },
+    {
+      "t": "mil",
+      "inicio": 17.84,
+      "fin": 17.88
+    },
+    {
+      "t": "veintitrés,",
+      "inicio": 17.92,
+      "fin": 18.64
+    },
+    {
+      "t": "los",
+      "inicio": 18.72,
+      "fin": 18.8
+    },
+    {
+      "t": "servicios",
+      "inicio": 18.92,
+      "fin": 19.28
+    },
+    {
+      "t": "postales",
+      "inicio": 19.36,
+      "fin": 19.76
+    },
+    {
+      "t": "costaron",
+      "inicio": 19.84,
+      "fin": 20.24
+    },
+    {
+      "t": "más",
+      "inicio": 20.32,
+      "fin": 20.48
+    },
+    {
+      "t": "de",
+      "inicio": 20.52,
+      "fin": 20.56
+    },
+    {
+      "t": "cien",
+      "inicio": 20.72,
+      "fin": 20.96
+    },
+    {
+      "t": "millones.",
+      "inicio": 21.04,
+      "fin": 21.76
+    },
+    {
+      "t": "Total:",
+      "inicio": 21.92,
+      "fin": 22.48
+    },
+    {
+      "t": "una",
+      "inicio": 22.56,
+      "fin": 22.64
+    },
+    {
+      "t": "estimación,",
+      "inicio": 22.72,
+      "fin": 23.44
+    },
+    {
+      "t": "unos",
+      "inicio": 23.6,
+      "fin": 23.76
+    },
+    {
+      "t": "siete",
+      "inicio": 23.8,
+      "fin": 24.08
+    },
+    {
+      "t": "euros",
+      "inicio": 24.16,
+      "fin": 24.48
+    },
+    {
+      "t": "por",
+      "inicio": 24.56,
+      "fin": 24.64
+    },
+    {
+      "t": "elector.",
+      "inicio": 24.8,
+      "fin": 25.32
+    },
+    {
+      "t": "Respuesta:",
+      "inicio": 25.52,
+      "fin": 26.24
+    },
+    {
+      "t": "quien",
+      "inicio": 26.4,
+      "fin": 26.56
+    },
+    {
+      "t": "logra",
+      "inicio": 26.64,
+      "fin": 26.88
+    },
+    {
+      "t": "diputados.",
+      "inicio": 26.96,
+      "fin": 27.6
+    },
+    {
+      "t": "¿Lo",
+      "inicio": 27.92,
+      "fin": 28
+    },
+    {
+      "t": "sabías?",
+      "inicio": 28.08,
+      "fin": 28.76
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 28.96,
+      "fin": 29.44
+    },
+    {
+      "t": "para",
+      "inicio": 29.52,
+      "fin": 29.68
+    },
+    {
+      "t": "estar",
+      "inicio": 29.8,
+      "fin": 29.92
+    },
+    {
+      "t": "informado.",
+      "inicio": 30,
+      "fin": 30.8
+    }
+  ]
+}
