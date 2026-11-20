@@ -325,3 +325,5 @@
 - 2026-11-20 13:30 UTC · 2 · @vox_es (cara a cara/debate, 30,1 s) · descartado: queja sobre debate, sin propuesta; viral 155,9
 - 2026-11-20 13:30 UTC · 2 · @vox_es (Puigdemont, 123,8 s) · descartado: crónica sin tramo limpio; viral 43,3
 - 2026-11-20 13:30 UTC · 1 · @vox_es (Salamanca, 19,2 s) · descartado: sin habla útil; viral 65,7
+- 2026-11-20 15:30 UTC (publicación 16:00 Madrid) · 2 · @partidopopular (¿Quién le pagó las primarias?, cara a cara, 39,7 s) · descartado: batería de preguntas con insinuaciones sin prueba (donaciones de la prostitución, «han delinquido mucho»), sin tramo limpio de 15–40 s; viral 564,4
+- 2026-11-20 15:30 UTC · 2 · @partidopopular (Sánchez habla de Mari Carmen, 34,5 s) · descartado: mezcla dos voces (Sánchez y Feijóo), cifra de 276.000 desahucios y alusión a pagos con dinero público que no puedo contrastar, transcripción dudosa («morrida»); viral 188,8. Sin publicación.
