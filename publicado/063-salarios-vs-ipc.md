@@ -17,6 +17,7 @@ Datos oficiales con corte en octubre de 2026:
 
 Fuentes: INE (IPC octubre 2026; Encuesta Trimestral de Coste Laboral 2T 2026); Ministerio de Trabajo y Economía Social, estadística de convenios colectivos, datos hasta octubre.
 Música: ver videos/musica/LICENCIAS.md. Imágenes: iconos vectoriales propios.
+Música: "Investigations", Kevin MacLeod (incompetech.com) · CC BY 4.0
 
 #economía #sueldos #IPC #inflación #convenios #INE #España
 

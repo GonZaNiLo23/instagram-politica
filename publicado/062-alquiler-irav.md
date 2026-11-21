@@ -4,7 +4,7 @@
 |---|---|
 | Estado | guion v1 en borrador (pendiente de revisor-guion) |
 | Publicación prevista | domingo 2026-11-22, 12:00 |
-| Música | "Wallpaper", Kevin MacLeod (incompetech.com) · CC BY 4.0 |
+| Música | "Investigations", Kevin MacLeod (incompetech.com) · CC BY 4.0 |
 | Dato vivo | IRAV de octubre (INE, 13-11-2026): 2,57 %. Recomprobar el día de publicar. |
 
 ## Texto del post
@@ -27,7 +27,7 @@ Ojo: para saber qué te toca, mira la fecha de tu contrato y tu día de actualiz
 ¿Prefieres un tope fijo o uno ligado a la inflación? Cuéntanoslo en comentarios.
 
 Fuentes: INE (IRAV, metodología e IPC de octubre), BOE (Ley 29/1994; RDL 29/2026; resoluciones del 12-11), Congreso, Moncloa.
-Música: "Wallpaper", Kevin MacLeod (incompetech.com) · CC BY 4.0
+Música: "Investigations", Kevin MacLeod (incompetech.com) · CC BY 4.0
 
 #Alquiler #Vivienda #IRAV #INE #Inquilinos #Economía
 
