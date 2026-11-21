@@ -1,0 +1,100 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 29,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 25.5,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 25.5,
+          "fundidoFin": 25.5
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL DEFIENDE LA REMIGRACIÓN",
+          "fecha": "21 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 3.42,
+              "texto": "¿Qué dificultad tienen en entender\nque hace falta un proceso de remigración?"
+            },
+            {
+              "inicio": 3.98,
+              "fin": 5.18,
+              "texto": "Con esto también se escandalizan."
+            },
+            {
+              "inicio": 5.7,
+              "fin": 7.68,
+              "texto": "Dicen, ¿remigración? ¿Cómo suena eso?"
+            },
+            {
+              "inicio": 8.3,
+              "fin": 10.58,
+              "texto": "A mí me parece que suena\na música celestial"
+            },
+            {
+              "inicio": 10.58,
+              "fin": 14.42,
+              "texto": "porque la remigración, en primer lugar,\nes llamar a todos los españoles,"
+            },
+            {
+              "inicio": 14.6,
+              "fin": 16.9,
+              "texto": "jóvenes y mayores, grandes profesionales,"
+            },
+            {
+              "inicio": 16.9,
+              "fin": 18.44,
+              "texto": "que han tenido que abandonar España"
+            },
+            {
+              "inicio": 19.02,
+              "fin": 22.9,
+              "texto": "porque aquí no tienen los salarios dignos\nque les permitan formar una familia,"
+            },
+            {
+              "inicio": 23.46,
+              "fin": 25.5,
+              "texto": "comprar una casa e independizarse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 25.5,
+      "fin": 29,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal define la remigración como el regreso de los españoles que se fueron",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261121-1526-vox-remigracion",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
