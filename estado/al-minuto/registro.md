@@ -342,3 +342,8 @@
 - 2026-11-21 13:30 UTC · 2 · @vox_es (acto en Sevilla, 10,7 s) · descartado: sin habla útil, transcripción errónea; viral 197,7
 - 2026-11-21 13:30 UTC · 1 · @santi_abascal (Salamanca, 77,5 s) · descartado: transcripción incoherente, sin tramo limpio; viral 88,1
 - 2026-11-21 13:30 UTC · 1 · @vox_es (Gracias Sevilla, 30 s) · descartado: sin habla; viral 41,3
+- 2026-11-21 15:30 UTC (publicación 16:00 Madrid) · 4 · @vox_es (Abascal define la remigración como el regreso de los españoles que se fueron, tramo 38,76–64,26 s; subtítulos cotejados con la transcripción; propuesta atribuida a Vox, sin acusaciones de delito, omitido el pasaje sobre inmigrantes y el imán; viral 58,8; sube un punto por propuesta con consecuencia directa) · publicado am20261121-1526-vox-remigracion
+- 2026-11-21 15:30 UTC · 2 · @vox_es (fraude de la ley de nietos, 138,2 s) · descartado: acusación de fraude/obstrucción a la Justicia sin prueba, sin tramo limpio; un envío por hora; viral 35,8
+- 2026-11-21 15:30 UTC · 2 · @vox_es (mujeres «las más estafadas», 58,2 s) · descartado: mismo tema que am20261121-0926-vox-violadores (hace 6 h), acusación sin prueba contra el Gobierno; viral 28,7
+- 2026-11-21 15:30 UTC · 2 · @vox_es (Abascal pide a Feijóo claridad, 64,9 s) · descartado: ataque a un partido afín, sin tramo limpio; viral 19
+- 2026-11-21 15:30 UTC · 2 · @vox_es (auditoría de cuentas públicas, 102,2 s) · descartado: sin tramo limpio de 15–40 s, un envío por hora; viral 12,2
