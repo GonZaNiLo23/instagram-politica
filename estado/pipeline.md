@@ -135,3 +135,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 063 | salarios-vs-ipc | 💶 Economía | Flash | programado | 2 | 1 | 2026-11-22 19:00 (cola) | v1 APROBADO 9/10 |
 | 062 | alquiler-irav | 💶 Economía | Flash | programado | 1 | 2 | 2026-11-22 12:00 (cola) | v2 APROBADO 9/10 |
 | am20261121-0926-vox-violadores | Al minuto · Vox: penas más duras para los violadores | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-21 10:00 | autocomprobación |
+| am20261121-1126-sanchez-banca | Al minuto · Sánchez: prórroga del impuesto a la banca | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-21 12:00 | autocomprobación |

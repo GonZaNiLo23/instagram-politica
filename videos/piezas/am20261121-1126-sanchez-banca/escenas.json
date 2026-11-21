@@ -1,0 +1,86 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 22.5,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "sinVoz": true,
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 19.0,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 19.0,
+     "fundidoFin": 19.0
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "SÁNCHEZ ANUNCIA PRORROGAR EL IMPUESTO A LA BANCA",
+     "fecha": "21 NOV",
+     "credito": "Vídeo: @sanchezcastejon"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 3.55,
+       "texto": "En el juego siempre gana la banca,"
+      },
+      {
+       "inicio": 3.73,
+       "fin": 5.67,
+       "texto": "pero la democracia no es un juego."
+      },
+      {
+       "inicio": 6.37,
+       "fin": 8.81,
+       "texto": "En democracia, quien tiene que ganar es la gente."
+      },
+      {
+       "inicio": 9.09,
+       "fin": 11.35,
+       "texto": "Y por eso, en el próximo Consejo de Ministros y Ministras,"
+      },
+      {
+       "inicio": 11.57,
+       "fin": 14.23,
+       "texto": "vamos a prorrogar el impuesto a la banca."
+      },
+      {
+       "inicio": 14.43,
+       "fin": 16.85,
+       "texto": "Y el 100 % de lo recaudado irá destinado"
+      },
+      {
+       "inicio": 16.85,
+       "fin": 19.0,
+       "texto": "a la promoción de vivienda protegida."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 19.0,
+   "fin": 22.5,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Prórroga del impuesto a la banca para vivienda protegida",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ]
+}
