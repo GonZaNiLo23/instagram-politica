@@ -868,5 +868,12 @@
     "hora": "2026-11-22T19:00:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/063-salarios-vs-ipc-v1.md CAMBIOS aplicados literalmente (v2) · revisiones/videos/063-salarios-vs-ipc-v1.md APROBADO test 9/10",
     "estado": "pendiente"
+  },
+  {
+    "pieza": "062-alquiler-irav",
+    "version": "v2",
+    "hora": "2026-11-22T12:00:00+01:00",
+    "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/062-alquiler-irav-v1.md CAMBIOS aplicados · revisiones/videos/062-alquiler-irav-v2.md APROBADO test 9/10",
+    "estado": "pendiente"
   }
 ]

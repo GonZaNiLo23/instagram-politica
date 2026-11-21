@@ -86,3 +86,4 @@
 - [058 v2] Vuelta de recolocación: control-N.png + tira crop 200–1700 a 360 px con drawbox x=320 + 2 recortes bastan; el sello "?" sigue tapando "15 %" del eje. (058, 2026-11-19)
 - [058 v3] Vuelta de recolocación de sello: 3 fotogramas (3,7/4,4/8,5 s, crop 200–1700, drawbox x=960) + comprobar + loudnorm + `tiempos.json` (motor/provisional/voz) bastan; sin `--voz` el motor sigue siendo elevenlabs. (058, 2026-11-19)
 - [063] Pieza 'flash' barrasVSerie/lineasRef: control-N.png (6) + comprobar.mjs + loudnorm + select 0,001 + 1 frame del A/B bastan; las líneas de referencia no llevan etiqueta de valor; guion en borradores (comprobar no verifica literalidad). (063, 2026-11-21)
+- [062 v2] Pausas de voz insertadas (`_pausa.mjs`, 5,7 s): ubícalas con el hueco de `tiempos.json` (gap > 0,6 s), no con silencedetect; `select` 0,001 + tira fps=1 crop 250–1500 de la pausa dice si la pantalla se mueve. (062, 2026-11-21)

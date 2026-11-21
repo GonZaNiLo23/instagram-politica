@@ -132,5 +132,5 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 061 | jornada-reflexion | ⚙️ Cómo funciona | Flash | programado | 1 | 1 | 2026-11-21 12:00 (cola) | v1 APROBADO 9/10 |
 | am20261120-1126-vox-sanidad | Al minuto · Vox: listas de espera en sanidad | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-20 12:00 | autocomprobación |
 | am20261120-1326-vox-inmigracion | Al minuto · Vox: inmigración, no puede entrar nadie más | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-20 14:00 | autocomprobación |
-| 062 | alquiler-irav | 💶 Economía | Flash | guion-revision | 1 | - | 2026-11-22 12:00 (objetivo) | guion v1 a revisor-guion |
 | 063 | salarios-vs-ipc | 💶 Economía | Flash | programado | 2 | 1 | 2026-11-22 19:00 (cola) | v1 APROBADO 9/10 |
+| 062 | alquiler-irav | 💶 Economía | Flash | programado | 1 | 2 | 2026-11-22 12:00 (cola) | v2 APROBADO 9/10 |

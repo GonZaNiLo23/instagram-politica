@@ -1,6 +1,6 @@
 {
   "plantilla": "flash",
-  "duracion": 34.6,
+  "duracion": 40.14,
   "portadaSegundo": 1.5,
   "marca": "@loquepasaenunminuto",
   "subSinHuerfanas": true,
@@ -75,43 +75,41 @@
         {
           "tipo": "llaveV",
           "letra": "A",
-          "x": 440,
+          "x": 690,
           "y": 900,
-          "escala": 3.4,
+          "escala": 3,
           "en": -1,
-          "hasta": 4.08,
+          "hasta": 4.16,
           "flota": 0.3,
-          "rot": -15
+          "rot": -10
         },
         {
           "tipo": "cerraduraV",
           "x": 540,
           "y": 900,
           "escala": 3.2,
-          "en": 4.08
+          "en": 4.16
         }
       ]
     },
     {
       "inicio": 4.94,
-      "fin": 14.74,
+      "fin": 9.74,
       "fondo": "crema",
       "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "CONTRATO TRAS EL 26-5-2023",
+          "texto": "FIRMADO TRAS EL 26-5-2023",
           "y": 330,
           "en": 0.05,
-          "tamano": 64,
-          "hasta": 5.069999999999999
+          "tamano": 64
         },
         {
           "tipo": "rotulo",
           "texto": "TOPE: IRAV",
           "y": 500,
-          "en": 3.6,
-          "tamano": 64,
-          "hasta": 5.069999999999999
+          "en": 3.1999999999999997,
+          "tamano": 64
         },
         {
           "tipo": "notas",
@@ -119,30 +117,35 @@
             "IRAV = índice de referencia para actualizar el alquiler"
           ],
           "en": 0.3,
-          "tamano": 40,
-          "hasta": 5.069999999999999
+          "tamano": 40
         },
         {
           "tipo": "contratoH",
           "x": 540,
-          "y": 880,
+          "y": 900,
           "esc": 1.5,
-          "check": 3.7,
-          "en": 0.1,
-          "hasta": 5.069999999999999
-        },
+          "check": 3.3,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 9.74,
+      "fin": 14.58,
+      "fondo": "crema",
+      "componentes": [
         {
           "tipo": "rotulo",
           "texto": "IRAV OCTUBRE: 2,57 %",
           "y": 330,
-          "en": 5.17,
+          "en": 0.05,
           "tamano": 64
         },
         {
           "tipo": "rotulo",
           "texto": "Octubre 2026, variación anual",
           "y": 430,
-          "en": 5.17,
+          "en": 0.05,
           "tamano": 64
         },
         {
@@ -153,18 +156,18 @@
               "etiqueta": "IPC GENERAL 4,9 %",
               "valor": 4.9,
               "color": "#14213D",
-              "en": 5.52
+              "en": 0.3
             },
             {
               "etiqueta": "IRAV 2,57 %",
               "valor": 2.57,
               "color": "#F2B134",
-              "en": 6.74
+              "en": 1.62
             }
           ],
           "max": 5,
           "paso": 1,
-          "y0": 590,
+          "y0": 640,
           "alto": 190,
           "x0": 110,
           "largo": 760,
@@ -176,23 +179,22 @@
           "lineas": [
             "INE, 13-11 · mínimo entre IPC, subyacente y media ajustada"
           ],
-          "en": 5.22,
+          "en": 0.05,
           "tamano": 40
         }
       ]
     },
     {
-      "inicio": 14.74,
-      "fin": 23.74,
+      "inicio": 14.58,
+      "fin": 20.1,
       "fondo": "crema",
       "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "HASTA 31-12-2027: OTRO TOPE",
+          "texto": "HASTA 31-12-2027, TODOS LOS CONTRATOS",
           "y": 330,
           "en": 0.05,
-          "tamano": 64,
-          "hasta": 5.43
+          "tamano": 64
         },
         {
           "tipo": "barrasHSerie",
@@ -213,28 +215,70 @@
           ],
           "max": 5,
           "paso": 1,
-          "y0": 540,
+          "y0": 560,
           "alto": 190,
           "x0": 110,
           "largo": 760,
           "dur": 0.9,
-          "tamano": 64,
-          "hasta": 5.43
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "contratos de vivienda (LAU), firmados en cualquier fecha"
+          ],
+          "en": 0.1,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 20.1,
+      "fin": 24.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HASTA 31-12-2027, TODOS LOS CONTRATOS",
+          "y": 330,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "DICIEMBRE 2027",
+          "primer": 2,
+          "dias": 31,
+          "cw": 114,
+          "ch": 90,
+          "x": 540,
+          "y": 600,
+          "aro": {
+            "d": 31,
+            "en": 0.8
+          },
+          "en": -1
         },
         {
           "tipo": "notas",
           "lineas": [
             "RDL 29/2026, disp. final 6.ª · subidas que toquen entre el 8-10-2026 y el 31-12-2027"
           ],
-          "en": 0.1,
-          "tamano": 40,
-          "hasta": 5.43
-        },
+          "en": -1,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 24.9,
+      "fin": 29.24,
+      "fondo": "crema",
+      "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "SIN PACTO: COMO MUCHO 2 %",
+          "texto": "SIN NUEVO PACTO: MÁXIMO 2 %",
           "y": 330,
-          "en": 5.53,
+          "en": 0.05,
           "tamano": 64
         },
         {
@@ -248,50 +292,49 @@
               "en": -1
             },
             {
-              "etiqueta": "SIN PACTO 2 %",
+              "etiqueta": "MÁXIMO 2 %",
               "valor": 2,
               "color": "#14213D",
-              "en": 7.800000000000001
+              "en": 3.1799999999999997
             }
           ],
           "max": 5,
           "paso": 1,
-          "y0": 520,
+          "y0": 530,
           "alto": 150,
           "x0": 110,
           "largo": 760,
           "dur": 0.9,
-          "tamano": 64,
-          "en": 5.53
+          "tamano": 64
         },
         {
           "tipo": "notas",
           "lineas": [
-            "si la renta supera el precio de referencia, sin subida"
+            "si supera el índice de precios de referencia de su zona: sin subida"
           ],
-          "en": 5.53,
+          "en": 0.05,
           "tamano": 40
         },
         {
           "tipo": "rotulo",
           "texto": "EJEMPLO",
-          "y": 880,
-          "en": 6.92,
+          "y": 890,
+          "en": 2.26,
           "tamano": 64,
           "color": "#14213D"
         },
         {
           "tipo": "rotulo",
           "texto": "800 € → +16 €/mes como máximo",
-          "y": 955,
-          "en": 6.92,
+          "y": 965,
+          "en": 2.26,
           "tamano": 64
         }
       ]
     },
     {
-      "inicio": 23.74,
-      "fin": 27.9,
+      "inicio": 29.24,
+      "fin": 33.49,
       "fondo": "crema",
       "componentes": [
         {
@@ -328,7 +371,7 @@
           "max": 40,
           "paso": 10,
           "y0": 600,
-          "alto": 170,
+          "alto": 150,
           "x0": 110,
           "largo": 760,
           "dur": 0.9,
@@ -341,7 +384,7 @@
             "BOE 13-11"
           ],
           "x": 440,
-          "y": 1010,
+          "y": 990,
           "desde": 40,
           "angulo": -5,
           "tamano": 72,
@@ -358,8 +401,8 @@
       ]
     },
     {
-      "inicio": 27.9,
-      "fin": 30.82,
+      "inicio": 33.49,
+      "fin": 36.36,
       "fondo": "crema",
       "componentes": [
         {
@@ -370,24 +413,34 @@
           "tamano": 72
         },
         {
-          "tipo": "abSerie",
-          "a": "TOPE FIJO",
-          "b": "LIGADO A LA INFLACIÓN",
+          "tipo": "rotulo",
+          "texto": "TOPE FIJO",
+          "y": 570,
+          "en": 0.4,
+          "tamano": 64,
+          "pastilla": "tinta",
+          "color": "#F4EFE6"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "LIGADO A LA INFLACIÓN",
           "y": 720,
-          "en": 0.35
+          "en": 0.65,
+          "tamano": 64,
+          "pastilla": "#F2B134"
         },
         {
           "tipo": "gancho",
           "texto": "4,9 %",
-          "y": 960,
+          "y": 950,
           "tamano": 110,
-          "en": 0.6
+          "en": 1
         }
       ]
     },
     {
-      "inicio": 30.82,
-      "fin": 34.6,
+      "inicio": 36.36,
+      "fin": 40.14,
       "fondo": "mostaza",
       "sinSubtitulos": true,
       "componentes": [

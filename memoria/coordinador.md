@@ -65,3 +65,4 @@
 - [nube, 2026-11-20] Rutina claude.ai: red igual (curl 000; WebSearch no encuentra el RDL 38/2026). Informe y salida. Huecos 21 y 22-11 para produccion.yml.
 - 2026-11-20: buscador-temas dio 3 temas en 2 min; propuesta con cifra de segunda mano (rtve.es bloqueado) se descarta pronto y se sustituye por tema con fuente BOE. Literales del revisor aplicados en sesión.
 - [nube, 2026-11-21] Rutina claude.ai: red igual (curl 000). Informe y salida. Huecos 22-11 (12:00, 19:00) para produccion.yml.
+- 2026-11-21: mites.gob.es falla con certificado en WebFetch: usar curl -k y leer el .xls con xlrd (pip --target /tmp/pylib). Un revisor de vídeo devolvió CAMBIOS porque el generador no tenía los literales del informe de guion: aplícalos al borrador antes de encargar el render.
