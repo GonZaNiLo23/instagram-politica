@@ -64,3 +64,4 @@
 - 2026-11-19: los guiones con datos de la semana vuelven con CAMBIOS casi siempre (deducción 'nueva' vs modificada, mezclar periodos); pedir al guionista abrir BOE/Moncloa primero y recortar a ≤88 palabras evita una vuelta.
 - [nube, 2026-11-20] Rutina claude.ai: red igual (curl 000; WebSearch no encuentra el RDL 38/2026). Informe y salida. Huecos 21 y 22-11 para produccion.yml.
 - 2026-11-20: buscador-temas dio 3 temas en 2 min; propuesta con cifra de segunda mano (rtve.es bloqueado) se descarta pronto y se sustituye por tema con fuente BOE. Literales del revisor aplicados en sesión.
+- [nube, 2026-11-21] Rutina claude.ai: red igual (curl 000). Informe y salida. Huecos 22-11 (12:00, 19:00) para produccion.yml.
