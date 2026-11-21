@@ -154,3 +154,5 @@
 - 2026-11-20T18:01:08.154Z · 058-compraventas-vs-precios: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-21T10:00:48.072Z · am20261121-0926-vox-violadores v1: PUBLICADA en Instagram https://www.instagram.com/reel/Df_90jCCD5y/
 - 2026-11-21T10:00:51.000Z · am20261121-0926-vox-violadores: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-21T11:00:51.620Z · 061-jornada-reflexion v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgAEsZhk2Wg/
+- 2026-11-21T11:00:53.722Z · 061-jornada-reflexion: TikTok en la bandeja de borradores (falta publicarlo desde la app)
