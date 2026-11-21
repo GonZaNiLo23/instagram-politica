@@ -1,5 +1,274 @@
 {
- "generado": "2026-11-21T19:29:12.587Z",
- "total_detectados": 1,
- "candidatos": []
+ "generado": "2026-11-21T20:33:56.735Z",
+ "total_detectados": 2,
+ "candidatos": [
+  {
+   "id": "ig-18016453256781826",
+   "fuente": "instagram",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1279318,
+   "fecha": "2026-11-21T19:51:03+0000",
+   "horas": 0.7,
+   "me_gusta": 1523,
+   "comentarios": 40,
+   "viral": 175.3,
+   "enlace": "https://www.instagram.com/reel/DgBA_8CBnq_/",
+   "texto": "🔴 santi_abascal sale a dirigirse a las más de 2.000 personas que se han quedado fuera del gran acto de VOX en Alicante al completarse el aforo con 4.500 personas dentro:\n\n“No os vayáis con la tristeza de no haber entrado, sino con la alegría de que cada vez somos más y eso tiene un significado para el día 29”.",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 235.1,
+   "archivo": "ig-18016453256781826.mp4",
+   "frases": [
+    {
+     "inicio": 174.13,
+     "fin": 182.83,
+     "texto": "Este mensaje a vuestro entorno, a vuestras familias, a vuestros amigos, a todos aquellos a los que nuestro agor les ha llegado retornida y manipulada."
+    },
+    {
+     "inicio": 183.11,
+     "fin": 185.05,
+     "texto": "Cuento como son todas para todo ello."
+    },
+    {
+     "inicio": 186.25,
+     "fin": 218.82,
+     "texto": "Pero si busca justicia para los corruptos, les damos la mano para reconstruir España."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "Este",
+     "inicio": 174.13,
+     "fin": 174.41
+    },
+    {
+     "t": "mensaje",
+     "inicio": 174.41,
+     "fin": 174.87
+    },
+    {
+     "t": "a",
+     "inicio": 174.87,
+     "fin": 175.59
+    },
+    {
+     "t": "vuestro",
+     "inicio": 175.59,
+     "fin": 175.85
+    },
+    {
+     "t": "entorno,",
+     "inicio": 175.85,
+     "fin": 176.23
+    },
+    {
+     "t": "a",
+     "inicio": 176.29,
+     "fin": 176.37
+    },
+    {
+     "t": "vuestras",
+     "inicio": 176.37,
+     "fin": 176.61
+    },
+    {
+     "t": "familias,",
+     "inicio": 176.61,
+     "fin": 177.17
+    },
+    {
+     "t": "a",
+     "inicio": 177.29,
+     "fin": 177.29
+    },
+    {
+     "t": "vuestros",
+     "inicio": 177.29,
+     "fin": 177.55
+    },
+    {
+     "t": "amigos,",
+     "inicio": 177.55,
+     "fin": 177.91
+    },
+    {
+     "t": "a",
+     "inicio": 178.51,
+     "fin": 178.65
+    },
+    {
+     "t": "todos",
+     "inicio": 178.65,
+     "fin": 178.85
+    },
+    {
+     "t": "aquellos",
+     "inicio": 178.85,
+     "fin": 179.27
+    },
+    {
+     "t": "a",
+     "inicio": 179.27,
+     "fin": 179.51
+    },
+    {
+     "t": "los",
+     "inicio": 179.51,
+     "fin": 179.65
+    },
+    {
+     "t": "que",
+     "inicio": 179.65,
+     "fin": 179.81
+    },
+    {
+     "t": "nuestro",
+     "inicio": 179.81,
+     "fin": 179.99
+    },
+    {
+     "t": "agor",
+     "inicio": 179.99,
+     "fin": 180.87
+    },
+    {
+     "t": "les",
+     "inicio": 180.87,
+     "fin": 181.09
+    },
+    {
+     "t": "ha",
+     "inicio": 181.09,
+     "fin": 181.23
+    },
+    {
+     "t": "llegado",
+     "inicio": 181.23,
+     "fin": 181.55
+    },
+    {
+     "t": "retornida",
+     "inicio": 181.55,
+     "fin": 182.15
+    },
+    {
+     "t": "y",
+     "inicio": 182.15,
+     "fin": 182.23
+    },
+    {
+     "t": "manipulada.",
+     "inicio": 182.23,
+     "fin": 182.83
+    },
+    {
+     "t": "Cuento",
+     "inicio": 183.11,
+     "fin": 183.65
+    },
+    {
+     "t": "como",
+     "inicio": 183.65,
+     "fin": 183.93
+    },
+    {
+     "t": "son",
+     "inicio": 183.93,
+     "fin": 184.15
+    },
+    {
+     "t": "todas",
+     "inicio": 184.15,
+     "fin": 184.31
+    },
+    {
+     "t": "para",
+     "inicio": 184.31,
+     "fin": 184.53
+    },
+    {
+     "t": "todo",
+     "inicio": 184.53,
+     "fin": 184.73
+    },
+    {
+     "t": "ello.",
+     "inicio": 184.73,
+     "fin": 185.05
+    },
+    {
+     "t": "Pero",
+     "inicio": 186.25,
+     "fin": 186.79
+    },
+    {
+     "t": "si",
+     "inicio": 198.15,
+     "fin": 198.35
+    },
+    {
+     "t": "busca",
+     "inicio": 198.35,
+     "fin": 198.67
+    },
+    {
+     "t": "justicia",
+     "inicio": 198.67,
+     "fin": 199.39
+    },
+    {
+     "t": "para",
+     "inicio": 199.39,
+     "fin": 199.99
+    },
+    {
+     "t": "los",
+     "inicio": 199.99,
+     "fin": 200.19
+    },
+    {
+     "t": "corruptos,",
+     "inicio": 200.19,
+     "fin": 200.87
+    },
+    {
+     "t": "les",
+     "inicio": 216.46,
+     "fin": 216.64
+    },
+    {
+     "t": "damos",
+     "inicio": 216.64,
+     "fin": 216.96
+    },
+    {
+     "t": "la",
+     "inicio": 216.96,
+     "fin": 217.12
+    },
+    {
+     "t": "mano",
+     "inicio": 217.12,
+     "fin": 217.4
+    },
+    {
+     "t": "para",
+     "inicio": 217.4,
+     "fin": 217.88
+    },
+    {
+     "t": "reconstruir",
+     "inicio": 217.88,
+     "fin": 218.48
+    },
+    {
+     "t": "España.",
+     "inicio": 218.48,
+     "fin": 218.82
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
