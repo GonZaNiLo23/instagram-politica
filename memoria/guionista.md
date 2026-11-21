@@ -90,4 +90,8 @@
 
 - [Consejo de Ministros, SMI/RDL] WebSearch sin dominios de prensa grande, con allowed_domains ["lamoncloa.gob.es","boe.es"], localiza la primaria el mismo día: resumen de la rueda de prensa (lamoncloa.gob.es/consejodeministros/resumenes/paginas/AAAA/DDMMAA-rueda-prensa-consejo-ministros.aspx, abre con WebFetch) y la norma en boe.es/diario_boe/txt.php?id=BOE-A-... (RDL y RD publicados en 1–2 días; el RDL trae art. por art.). Una propuesta "sin primaria" puede quedar resuelta al día siguiente: reintenta. (057, 2026-11-19)
 
+- [convenios octubre, 063 2026-11-21] mites.gob.es (cct26octav) sigue con error de certificado y expinterweb da 503. Con WebSearch allowed_domains ["infobae.com","que.es"] salen EFE (infobae.com/espana/agencias/2026/11/10/…) y Que.es (2026/11/10/subida-salarial-convenio-ipc/): 3,06 %, 948 convenios con cláusula, ~3,8 M de ~9,6 M trabajadores (39,34 % solo en Demócrata). europapress, efe.com y expansion no se admiten. IPC1026 abre en INE.
+
+- [IRAV, alquiler] INE: ine.es/uc/oC7D0Ncd (último dato y regla "contratos desde 26-5-2023"), metodología ine.es/daco/daco42/irav/meto_IRAV.pdf (Read sobre el PDF guardado; fórmula 2 + 0,5·exceso), IPC1026 abre. RDL 29/2026: art. 3 Once (art. 18.1 LAU) en offset 100000 y disp. final 6.ª (2 % hasta 31-12-2027) en offset 300000. Convalidado 12-11 (BOE-A-2026-23755; 35-34 en la nota del Congreso id 52634) y RDL 28 derogado (BOE-A-2026-23754). (062, 2026-11-21)
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)
