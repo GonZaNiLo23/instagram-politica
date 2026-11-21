@@ -337,3 +337,8 @@
 - 2026-11-21 11:30 UTC · 1 · @santi_abascal (Gracias Salamanca, 50 s) · descartado: sin habla; viral 49,8
 - 2026-11-21 11:30 UTC · 2 · @vox_es (Abascal retrata a Sánchez, 114 s) · descartado: acusaciones graves sin prueba, sin tramo limpio; viral 29,4
 - 2026-11-21 11:30 UTC · 1 · @vox_es (Abascal llega a Sevilla, 12 s) · descartado: sin habla; viral 25
+- 2026-11-21 13:30 UTC (publicación 14:00 Madrid) · 3 · @vox_es (Abascal sobre el «miedo a Vox», tramo 0–22,94 s; subtítulos cotejados con la transcripción; declaración atribuida a Abascal, sin acusaciones de delito concretas contra personas, omitido el resto con referencias a terceros; viral 64,8) · publicado am20261121-1326-vox-miedo
+- 2026-11-21 13:30 UTC · 2 · @vox_es (Abascal desmonta el «voto útil» del PP, 163,7 s) · descartado: insulta a un partido afín («inútiles»), sin tramo limpio; un envío por hora; viral 45
+- 2026-11-21 13:30 UTC · 2 · @vox_es (acto en Sevilla, 10,7 s) · descartado: sin habla útil, transcripción errónea; viral 197,7
+- 2026-11-21 13:30 UTC · 1 · @santi_abascal (Salamanca, 77,5 s) · descartado: transcripción incoherente, sin tramo limpio; viral 88,1
+- 2026-11-21 13:30 UTC · 1 · @vox_es (Gracias Sevilla, 30 s) · descartado: sin habla; viral 41,3
