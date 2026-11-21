@@ -351,3 +351,4 @@
 - 2026-11-21 17:30 UTC · 2 · @alviseperez (entrevista, 151,8 s) · descartado: transcripción confusa, sin tramo limpio, insultos; un envío por hora; viral 80,5
 - 2026-11-21 17:30 UTC · 1 · @psoe (La fuerza de la gente, 173,8 s) · descartado: sin habla; viral 21,9
 - 2026-11-21 17:30 UTC · 2 · @vox_es (Abascal sobre el voto útil del PP, 106,1 s) · descartado: crítica a un partido afín sin tramo limpio; un envío por hora; viral 7,2
+- 2026-11-21 19:30 UTC (publicación 20:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
