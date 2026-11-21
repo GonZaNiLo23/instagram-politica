@@ -831,7 +831,11 @@
     "version": "v1",
     "hora": "2026-11-21T19:00:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/060-coste-elecciones-v1.md APROBADO · revisiones/videos/060-coste-elecciones-v1.md APROBADO test 9/10",
-    "estado": "pendiente"
+    "estado": "publicado",
+    "id": "17959805745278683",
+    "enlace": "https://www.instagram.com/reel/DgA0v3ijYB0/",
+    "publicado_en": "2026-11-21T18:00:42.474Z",
+    "tiktok_estado": "error"
   },
   {
     "pieza": "061-jornada-reflexion",
@@ -928,7 +932,11 @@
     "pieza": "am20261121-1726-sanchez-migrantes",
     "version": "v1",
     "hora": "2026-11-21T18:00:00.000Z",
-    "estado": "pendiente",
-    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)"
+    "estado": "publicado",
+    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)",
+    "id": "18139568077653248",
+    "enlace": "https://www.instagram.com/reel/DgA00deEXAG/",
+    "publicado_en": "2026-11-21T18:01:19.753Z",
+    "tiktok_estado": "borrador"
   }
 ]

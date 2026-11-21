@@ -162,3 +162,7 @@
 - 2026-11-21T14:00:42.586Z · am20261121-1326-vox-miedo: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-21T16:01:00.376Z · am20261121-1526-vox-remigracion v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgAnBGHDMpl/
 - 2026-11-21T16:01:02.038Z · am20261121-1526-vox-remigracion: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-21T18:00:42.474Z · 060-coste-elecciones v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgA0v3ijYB0/
+- 2026-11-21T18:00:43.391Z · 060-coste-elecciones: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-21T18:01:19.753Z · am20261121-1726-sanchez-migrantes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgA00deEXAG/
+- 2026-11-21T18:01:22.213Z · am20261121-1726-sanchez-migrantes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
