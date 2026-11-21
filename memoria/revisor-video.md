@@ -85,3 +85,4 @@
 - [057 v2] Vuelta con frase nueva en la voz: compara voz.txt con "Texto de voz limpio" del guion (diff a ojo) y con la nota de fuentes; avisa de actualizar guion/post. Un fotograma a 14,5 s y otro a 19,3 s (hstack 540 px + drawbox) bastan. (057, 2026-11-19)
 - [058 v2] Vuelta de recolocación: control-N.png + tira crop 200–1700 a 360 px con drawbox x=320 + 2 recortes bastan; el sello "?" sigue tapando "15 %" del eje. (058, 2026-11-19)
 - [058 v3] Vuelta de recolocación de sello: 3 fotogramas (3,7/4,4/8,5 s, crop 200–1700, drawbox x=960) + comprobar + loudnorm + `tiempos.json` (motor/provisional/voz) bastan; sin `--voz` el motor sigue siendo elevenlabs. (058, 2026-11-19)
+- [063] Pieza 'flash' barrasVSerie/lineasRef: control-N.png (6) + comprobar.mjs + loudnorm + select 0,001 + 1 frame del A/B bastan; las líneas de referencia no llevan etiqueta de valor; guion en borradores (comprobar no verifica literalidad). (063, 2026-11-21)

@@ -1,0 +1,404 @@
+{
+  "plantilla": "flash",
+  "duracion": 34.6,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "INFLACIÓN (IPC): 4,9 %",
+            "y": 340,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "",
+            "resalta": "¿TU ALQUILER?",
+            "y": 640,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "cerraduraV",
+            "x": 540,
+            "y": 1050,
+            "escala": 2.4,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.94,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "INFLACIÓN (IPC): 4,9 %",
+          "y": 320,
+          "tamano": 110,
+          "en": -1,
+          "hasta": 2.89
+        },
+        {
+          "tipo": "gancho",
+          "texto": "¿CUÁNTO PUEDE SUBIR TU ALQUILER?",
+          "y": 320,
+          "tamano": 100,
+          "en": 2.99
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "IPC de octubre · INE, 13-11-2026"
+          ],
+          "en": -1,
+          "tamano": 40
+        },
+        {
+          "tipo": "llaveV",
+          "letra": "A",
+          "x": 440,
+          "y": 900,
+          "escala": 3.4,
+          "en": -1,
+          "hasta": 4.08,
+          "flota": 0.3,
+          "rot": -15
+        },
+        {
+          "tipo": "cerraduraV",
+          "x": 540,
+          "y": 900,
+          "escala": 3.2,
+          "en": 4.08
+        }
+      ]
+    },
+    {
+      "inicio": 4.94,
+      "fin": 14.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CONTRATO TRAS EL 26-5-2023",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 5.069999999999999
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "TOPE: IRAV",
+          "y": 500,
+          "en": 3.6,
+          "tamano": 64,
+          "hasta": 5.069999999999999
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "IRAV = índice de referencia para actualizar el alquiler"
+          ],
+          "en": 0.3,
+          "tamano": 40,
+          "hasta": 5.069999999999999
+        },
+        {
+          "tipo": "contratoH",
+          "x": 540,
+          "y": 880,
+          "esc": 1.5,
+          "check": 3.7,
+          "en": 0.1,
+          "hasta": 5.069999999999999
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "IRAV OCTUBRE: 2,57 %",
+          "y": 330,
+          "en": 5.17,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Octubre 2026, variación anual",
+          "y": 430,
+          "en": 5.17,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "IPC GENERAL 4,9 %",
+              "valor": 4.9,
+              "color": "#14213D",
+              "en": 5.52
+            },
+            {
+              "etiqueta": "IRAV 2,57 %",
+              "valor": 2.57,
+              "color": "#F2B134",
+              "en": 6.74
+            }
+          ],
+          "max": 5,
+          "paso": 1,
+          "y0": 590,
+          "alto": 190,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "INE, 13-11 · mínimo entre IPC, subyacente y media ajustada"
+          ],
+          "en": 5.22,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 14.74,
+      "fin": 23.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "HASTA 31-12-2027: OTRO TOPE",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 5.43
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "IPC GENERAL 4,9 %",
+              "valor": 4.9,
+              "color": "#14213D",
+              "en": -1
+            },
+            {
+              "etiqueta": "IRAV 2,57 %",
+              "valor": 2.57,
+              "color": "#F2B134",
+              "en": -1
+            }
+          ],
+          "max": 5,
+          "paso": 1,
+          "y0": 540,
+          "alto": 190,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64,
+          "hasta": 5.43
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "RDL 29/2026, disp. final 6.ª · subidas que toquen entre el 8-10-2026 y el 31-12-2027"
+          ],
+          "en": 0.1,
+          "tamano": 40,
+          "hasta": 5.43
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SIN PACTO: COMO MUCHO 2 %",
+          "y": 330,
+          "en": 5.53,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "IRAV 2,57 %",
+              "valor": 2.57,
+              "color": "#F2B134",
+              "en": -1
+            },
+            {
+              "etiqueta": "SIN PACTO 2 %",
+              "valor": 2,
+              "color": "#14213D",
+              "en": 7.800000000000001
+            }
+          ],
+          "max": 5,
+          "paso": 1,
+          "y0": 520,
+          "alto": 150,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64,
+          "en": 5.53
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "si la renta supera el precio de referencia, sin subida"
+          ],
+          "en": 5.53,
+          "tamano": 40
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO",
+          "y": 880,
+          "en": 6.92,
+          "tamano": 64,
+          "color": "#14213D"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "800 € → +16 €/mes como máximo",
+          "y": 955,
+          "en": 6.92,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 23.74,
+      "fin": 27.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CONVALIDADO EL 12-11",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Votos en la Diputación Permanente (69)",
+          "y": 430,
+          "en": 0.1,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "A FAVOR 35",
+              "valor": 35,
+              "color": "#14213D",
+              "en": 0.3
+            },
+            {
+              "etiqueta": "EN CONTRA 34",
+              "valor": 34,
+              "color": "#F2B134",
+              "en": 0.5
+            }
+          ],
+          "max": 40,
+          "paso": 10,
+          "y0": 600,
+          "alto": 170,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64,
+          "sufijoEje": ""
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "BOE 13-11"
+          ],
+          "x": 440,
+          "y": 1010,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 72,
+          "en": 0.9
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Diputación Permanente del Congreso · 35 a favor, 34 en contra · BOE 13-11"
+          ],
+          "en": 0.1,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 27.9,
+      "fin": 30.82,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿TOPE FIJO O LIGADO A LA INFLACIÓN?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "abSerie",
+          "a": "TOPE FIJO",
+          "b": "LIGADO A LA INFLACIÓN",
+          "y": 720,
+          "en": 0.35
+        },
+        {
+          "tipo": "gancho",
+          "texto": "4,9 %",
+          "y": 960,
+          "tamano": 110,
+          "en": 0.6
+        }
+      ]
+    },
+    {
+      "inicio": 30.82,
+      "fin": 34.6,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿TOPE FIJO O LIGADO A LA INFLACIÓN?",
+          "cta": "siguenos",
+          "tamano": 68,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

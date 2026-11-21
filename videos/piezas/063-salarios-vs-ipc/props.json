@@ -1,0 +1,794 @@
+{
+  "plantilla": "flash",
+  "duracion": 26.59,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "¿TU CONVENIO SUBE MENOS?",
+            "y": 340,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "barrasVSerie",
+            "max": 6,
+            "base": 1150,
+            "hMax": 330,
+            "w": 200,
+            "tamEtiqueta": 64,
+            "vivo": true,
+            "centros": [
+              290,
+              730
+            ],
+            "barras": [
+              {
+                "etiqueta": "CONVENIOS",
+                "valor": 3.06,
+                "color": "#14213D",
+                "en": -1,
+                "dur": 0.05,
+                "sinValor": true
+              },
+              {
+                "etiqueta": "PRECIOS",
+                "valor": 4.9,
+                "color": "#F2B134",
+                "en": -1,
+                "dur": 0.05,
+                "sinValor": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿TU CONVENIO SUBE MENOS?",
+          "y": 320,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 6,
+          "base": 1100,
+          "hMax": 400,
+          "w": 200,
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "centros": [
+            290,
+            730
+          ],
+          "barras": [
+            {
+              "etiqueta": "CONVENIOS",
+              "valor": 3.06,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 1,
+              "sinValor": true
+            },
+            {
+              "etiqueta": "PRECIOS",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": 1.2,
+              "dur": 0.6,
+              "sinValor": true
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Convenios registrados hasta octubre (Trabajo)",
+            "· IPC de octubre (INE)"
+          ],
+          "en": 0.2,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 3.74,
+      "fin": 9.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SUBIDA PACTADA +3,06 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "IPC OCT. +4,9 %",
+          "y": 520,
+          "en": 2.56,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 6,
+          "base": 1100,
+          "hMax": 400,
+          "w": 200,
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "centros": [
+            290,
+            730
+          ],
+          "barras": [
+            {
+              "etiqueta": "CONVENIOS",
+              "valor": 3.06,
+              "color": "#14213D",
+              "en": 0.1,
+              "dur": 0.05,
+              "dec": 2,
+              "prefijo": ""
+            },
+            {
+              "etiqueta": "PRECIOS",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": 4.32,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": ""
+            }
+          ],
+          "flecha": {
+            "barra": 0,
+            "hasta": 4.9,
+            "en": 4.72,
+            "dx": 220,
+            "dy0": 0
+          }
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "9,58 M de trabajadores",
+            "Hueco con octubre: 1,84 puntos (cálculo propio)"
+          ],
+          "en": 1.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 9.42,
+      "fin": 13.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "IPC MEDIO ENE–OCT: 3,5 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 6,
+          "base": 1100,
+          "hMax": 400,
+          "w": 200,
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "centros": [
+            290,
+            730
+          ],
+          "lineasRef": [
+            {
+              "valor": 3.5,
+              "en": 2.0599999999999996,
+              "color": "#14213D"
+            },
+            {
+              "valor": 4.9,
+              "en": 0.49999999999999994
+            }
+          ],
+          "barras": [
+            {
+              "etiqueta": "CONVENIOS",
+              "valor": 3.06,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 2,
+              "prefijo": "",
+              "sinValor": true
+            },
+            {
+              "etiqueta": "PRECIOS",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": ""
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "(cálculo propio)",
+            "Octubre, la tasa más alta del año"
+          ],
+          "en": 0.26,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 13.22,
+      "fin": 15.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "3.162 convenios en total",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 6,
+          "base": 1100,
+          "hMax": 400,
+          "w": 200,
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "centros": [
+            290,
+            730
+          ],
+          "lineasRef": [
+            {
+              "valor": 3.5,
+              "en": -1,
+              "color": "#14213D"
+            },
+            {
+              "valor": 4.9,
+              "en": -1
+            }
+          ],
+          "barras": [
+            {
+              "etiqueta": "CONVENIOS",
+              "valor": 3.06,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 2,
+              "prefijo": "",
+              "sinValor": true
+            },
+            {
+              "etiqueta": "",
+              "valor": 0,
+              "color": "#14213D",
+              "en": 99,
+              "dur": 0.05,
+              "dec": 2,
+              "prefijo": "",
+              "sinValor": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 15.02,
+      "fin": 20.4,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "FIRMADOS EN 2026: +3,60 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DE AÑOS ANTERIORES: +2,91 %",
+          "y": 520,
+          "en": 2.8,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 6,
+          "base": 1100,
+          "hMax": 400,
+          "w": 200,
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "centros": [
+            290,
+            740
+          ],
+          "lineasRef": [
+            {
+              "valor": 3.5,
+              "en": -1,
+              "color": "#14213D"
+            },
+            {
+              "valor": 4.9,
+              "en": -1
+            }
+          ],
+          "barras": [
+            {
+              "etiqueta": "EN 2026",
+              "valor": 3.6,
+              "color": "#F2B134",
+              "en": 0.15,
+              "dur": 0.05,
+              "dec": 2,
+              "prefijo": "",
+              "sinValor": true
+            },
+            {
+              "etiqueta": "ANTERIORES",
+              "valor": 2.91,
+              "color": "#14213D",
+              "en": 2.94,
+              "dur": 0.05,
+              "dec": 2,
+              "prefijo": "",
+              "sinValor": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 20.4,
+      "fin": 22.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿SE FIRMÓ EL TUYO ESTE AÑO?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "abSerie",
+          "a": "SÍ",
+          "b": "NO",
+          "c": "NO LO SÉ",
+          "y": 700,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuentes en la descripción"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 22.42,
+      "fin": 26.59,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿SE FIRMÓ EL TUYO ESTE AÑO?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "063-salarios-vs-ipc",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "¿Tu",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "convenio",
+      "inicio": 0.24,
+      "fin": 0.64
+    },
+    {
+      "t": "sube",
+      "inicio": 0.72,
+      "fin": 0.96
+    },
+    {
+      "t": "menos",
+      "inicio": 1.04,
+      "fin": 1.36
+    },
+    {
+      "t": "que",
+      "inicio": 1.4,
+      "fin": 1.44
+    },
+    {
+      "t": "los",
+      "inicio": 1.52,
+      "fin": 1.6
+    },
+    {
+      "t": "precios?",
+      "inicio": 1.68,
+      "fin": 2.4
+    },
+    {
+      "t": "De",
+      "inicio": 2.64,
+      "fin": 2.72
+    },
+    {
+      "t": "media,",
+      "inicio": 2.92,
+      "fin": 3.2
+    },
+    {
+      "t": "sí.",
+      "inicio": 3.24,
+      "fin": 3.52
+    },
+    {
+      "t": "Los",
+      "inicio": 3.84,
+      "fin": 4
+    },
+    {
+      "t": "convenios,",
+      "inicio": 4.08,
+      "fin": 4.72
+    },
+    {
+      "t": "un",
+      "inicio": 4.76,
+      "fin": 4.8
+    },
+    {
+      "t": "tres",
+      "inicio": 4.96,
+      "fin": 5.12
+    },
+    {
+      "t": "coma",
+      "inicio": 5.28,
+      "fin": 5.36
+    },
+    {
+      "t": "cero",
+      "inicio": 5.52,
+      "fin": 5.6
+    },
+    {
+      "t": "seis.",
+      "inicio": 5.76,
+      "fin": 6.16
+    },
+    {
+      "t": "Los",
+      "inicio": 6.4,
+      "fin": 6.48
+    },
+    {
+      "t": "precios,",
+      "inicio": 6.56,
+      "fin": 7.08
+    },
+    {
+      "t": "en",
+      "inicio": 7.12,
+      "fin": 7.2
+    },
+    {
+      "t": "octubre,",
+      "inicio": 7.32,
+      "fin": 7.84
+    },
+    {
+      "t": "un",
+      "inicio": 7.92,
+      "fin": 8
+    },
+    {
+      "t": "cuatro",
+      "inicio": 8.16,
+      "fin": 8.4
+    },
+    {
+      "t": "coma",
+      "inicio": 8.56,
+      "fin": 8.64
+    },
+    {
+      "t": "nueve.",
+      "inicio": 8.8,
+      "fin": 9.24
+    },
+    {
+      "t": "De",
+      "inicio": 9.52,
+      "fin": 9.6
+    },
+    {
+      "t": "enero",
+      "inicio": 9.68,
+      "fin": 9.92
+    },
+    {
+      "t": "a",
+      "inicio": 9.96,
+      "fin": 10
+    },
+    {
+      "t": "octubre,",
+      "inicio": 10.12,
+      "fin": 10.533
+    },
+    {
+      "t": "los",
+      "inicio": 10.587,
+      "fin": 10.64
+    },
+    {
+      "t": "precios",
+      "inicio": 10.72,
+      "fin": 11.04
+    },
+    {
+      "t": "subieron",
+      "inicio": 11.12,
+      "fin": 11.44
+    },
+    {
+      "t": "de",
+      "inicio": 11.48,
+      "fin": 11.52
+    },
+    {
+      "t": "media",
+      "inicio": 11.68,
+      "fin": 11.84
+    },
+    {
+      "t": "un",
+      "inicio": 11.92,
+      "fin": 12
+    },
+    {
+      "t": "tres",
+      "inicio": 12.08,
+      "fin": 12.24
+    },
+    {
+      "t": "coma",
+      "inicio": 12.32,
+      "fin": 12.48
+    },
+    {
+      "t": "cinco.",
+      "inicio": 12.56,
+      "fin": 13.28
+    },
+    {
+      "t": "Y",
+      "inicio": 13.32,
+      "fin": 13.36
+    },
+    {
+      "t": "depende",
+      "inicio": 13.52,
+      "fin": 13.76
+    },
+    {
+      "t": "de",
+      "inicio": 13.84,
+      "fin": 13.92
+    },
+    {
+      "t": "cuándo",
+      "inicio": 13.96,
+      "fin": 14.2
+    },
+    {
+      "t": "se",
+      "inicio": 14.24,
+      "fin": 14.32
+    },
+    {
+      "t": "firmó.",
+      "inicio": 14.4,
+      "fin": 15.04
+    },
+    {
+      "t": "Los",
+      "inicio": 15.12,
+      "fin": 15.2
+    },
+    {
+      "t": "firmados",
+      "inicio": 15.28,
+      "fin": 15.68
+    },
+    {
+      "t": "este",
+      "inicio": 15.8,
+      "fin": 15.92
+    },
+    {
+      "t": "año",
+      "inicio": 16,
+      "fin": 16.24
+    },
+    {
+      "t": "suben",
+      "inicio": 16.32,
+      "fin": 16.48
+    },
+    {
+      "t": "un",
+      "inicio": 16.56,
+      "fin": 16.72
+    },
+    {
+      "t": "tres",
+      "inicio": 16.8,
+      "fin": 16.88
+    },
+    {
+      "t": "coma",
+      "inicio": 16.96,
+      "fin": 17.12
+    },
+    {
+      "t": "seis.",
+      "inicio": 17.2,
+      "fin": 17.84
+    },
+    {
+      "t": "Los",
+      "inicio": 17.92,
+      "fin": 18
+    },
+    {
+      "t": "de",
+      "inicio": 18.04,
+      "fin": 18.08
+    },
+    {
+      "t": "años",
+      "inicio": 18.16,
+      "fin": 18.32
+    },
+    {
+      "t": "anteriores,",
+      "inicio": 18.4,
+      "fin": 19.2
+    },
+    {
+      "t": "dos",
+      "inicio": 19.28,
+      "fin": 19.36
+    },
+    {
+      "t": "coma",
+      "inicio": 19.52,
+      "fin": 19.6
+    },
+    {
+      "t": "noventa",
+      "inicio": 19.68,
+      "fin": 20
+    },
+    {
+      "t": "y",
+      "inicio": 20.08,
+      "fin": 20.16
+    },
+    {
+      "t": "uno.",
+      "inicio": 20.2,
+      "fin": 20.4
+    },
+    {
+      "t": "¿Se",
+      "inicio": 20.8,
+      "fin": 20.88
+    },
+    {
+      "t": "firmó",
+      "inicio": 20.96,
+      "fin": 21.2
+    },
+    {
+      "t": "el",
+      "inicio": 21.24,
+      "fin": 21.28
+    },
+    {
+      "t": "tuyo",
+      "inicio": 21.36,
+      "fin": 21.52
+    },
+    {
+      "t": "este",
+      "inicio": 21.6,
+      "fin": 21.76
+    },
+    {
+      "t": "año?",
+      "inicio": 21.84,
+      "fin": 22.48
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 22.52,
+      "fin": 22.96
+    },
+    {
+      "t": "para",
+      "inicio": 23.04,
+      "fin": 23.2
+    },
+    {
+      "t": "estar",
+      "inicio": 23.32,
+      "fin": 23.44
+    },
+    {
+      "t": "informado.",
+      "inicio": 23.6,
+      "fin": 24.24
+    }
+  ]
+}
