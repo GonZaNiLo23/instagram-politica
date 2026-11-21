@@ -1,0 +1,75 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 17.0,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "sinVoz": true,
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 13.5,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 13.5,
+     "fundidoFin": 13.5
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "VOX: PENAS MÁS DURAS PARA LOS VIOLADORES",
+     "fecha": "21 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.08,
+       "fin": 2.5,
+       "texto": "a defender la dignidad y la libertad\nde las mujeres,"
+      },
+      {
+       "inicio": 2.64,
+       "fin": 4.8,
+       "texto": "con penas más duras\npara los violadores,"
+      },
+      {
+       "inicio": 4.82,
+       "fin": 7.5,
+       "texto": "si son españoles, a la cárcel\nsin que salgan,"
+      },
+      {
+       "inicio": 7.56,
+       "fin": 10.5,
+       "texto": "y si son extranjeros, a las cárceles\nde sus países,"
+      },
+      {
+       "inicio": 10.94,
+       "fin": 13.4,
+       "texto": "pero ni en nuestras calles\nni en nuestras cárceles."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 13.5,
+   "fin": 17.0,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Vox propone penas más duras para los violadores",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ]
+}
