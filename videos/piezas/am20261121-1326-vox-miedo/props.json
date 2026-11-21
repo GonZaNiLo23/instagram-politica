@@ -1,0 +1,100 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 26.44,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 22.94,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 22.94,
+          "fundidoFin": 22.94
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL: «ESPERO DAR MIEDO A LOS CORRUPTOS»",
+          "fecha": "21 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 1.9,
+              "texto": "Bueno, yo espero dar mucho miedo\na mucha gente,"
+            },
+            {
+              "inicio": 2.2,
+              "fin": 5,
+              "texto": "a los corruptos, a los enemigos de España"
+            },
+            {
+              "inicio": 5,
+              "fin": 6.7,
+              "texto": "que quieren destruir la Unidad Nacional,"
+            },
+            {
+              "inicio": 7.2,
+              "fin": 9.5,
+              "texto": "a las mafias del tráfico de personas,"
+            },
+            {
+              "inicio": 9.7,
+              "fin": 12.85,
+              "texto": "a los delincuentes, a los violadores,\nespero darles mucho miedo."
+            },
+            {
+              "inicio": 12.9,
+              "fin": 14.8,
+              "texto": "Al conjunto de los españoles,\nfrancamente, creo que no."
+            },
+            {
+              "inicio": 15.8,
+              "fin": 18,
+              "texto": "Yo estoy haciendo un esfuerzo muy grande\npara que el mensaje"
+            },
+            {
+              "inicio": 18,
+              "fin": 20.1,
+              "texto": "de Vox llegue de una manera nítida"
+            },
+            {
+              "inicio": 20.1,
+              "fin": 22.94,
+              "texto": "y no traducido con mala intención."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 22.94,
+      "fin": 26.44,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal espera dar miedo a corruptos, mafias y delincuentes",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261121-1326-vox-miedo",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
