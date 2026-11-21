@@ -347,3 +347,7 @@
 - 2026-11-21 15:30 UTC · 2 · @vox_es (mujeres «las más estafadas», 58,2 s) · descartado: mismo tema que am20261121-0926-vox-violadores (hace 6 h), acusación sin prueba contra el Gobierno; viral 28,7
 - 2026-11-21 15:30 UTC · 2 · @vox_es (Abascal pide a Feijóo claridad, 64,9 s) · descartado: ataque a un partido afín, sin tramo limpio; viral 19
 - 2026-11-21 15:30 UTC · 2 · @vox_es (auditoría de cuentas públicas, 102,2 s) · descartado: sin tramo limpio de 15–40 s, un envío por hora; viral 12,2
+- 2026-11-21 17:30 UTC (publicación 18:00 Madrid) · 4 · @sanchezcastejon (reconocer derechos a la población migrante, tramo 1,1–21,88 s; subtítulos cotejados con la transcripción, «isla de hierro»→«El Hierro»; medida atribuida a Sánchez, omitido el pasaje sobre una cita de Cayetana Álvarez de Toledo que no se puede contrastar; sin acusaciones; viral 294; sube un punto por medida con consecuencia directa) · publicado am20261121-1726-sanchez-migrantes
+- 2026-11-21 17:30 UTC · 2 · @alviseperez (entrevista, 151,8 s) · descartado: transcripción confusa, sin tramo limpio, insultos; un envío por hora; viral 80,5
+- 2026-11-21 17:30 UTC · 1 · @psoe (La fuerza de la gente, 173,8 s) · descartado: sin habla; viral 21,9
+- 2026-11-21 17:30 UTC · 2 · @vox_es (Abascal sobre el voto útil del PP, 106,1 s) · descartado: crítica a un partido afín sin tramo limpio; un envío por hora; viral 7,2

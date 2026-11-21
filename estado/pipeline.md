@@ -138,3 +138,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261121-1126-sanchez-banca | Al minuto · Sánchez: prórroga del impuesto a la banca | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-21 12:00 | autocomprobación |
 | am20261121-1326-vox-miedo | Al minuto · Abascal: «espero dar miedo a los corruptos» | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-21 14:00 | autocomprobación |
 | am20261121-1526-vox-remigracion | Al minuto · Abascal define la remigración | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-21 16:00 | autocomprobación |
+| am20261121-1726-sanchez-migrantes | Al minuto · Sánchez: reconocer derechos a migrantes | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-21 18:00 | autocomprobación |
