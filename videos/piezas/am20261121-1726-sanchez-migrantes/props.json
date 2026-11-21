@@ -1,0 +1,85 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 24.28,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 20.78,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 20.78,
+          "fundidoFin": 20.78
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "SÁNCHEZ DEFIENDE RECONOCER DERECHOS A MIGRANTES",
+          "fecha": "21 NOV",
+          "credito": "Vídeo: @sanchezcastejon"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 3.5,
+              "texto": "Todo mi reconocimiento y todo mi respeto"
+            },
+            {
+              "inicio": 3.5,
+              "fin": 6.96,
+              "texto": "a un pueblo magnífico y solidario como es"
+            },
+            {
+              "inicio": 6.96,
+              "fin": 9,
+              "texto": "el pueblo de la isla de El Hierro."
+            },
+            {
+              "inicio": 9,
+              "fin": 12.58,
+              "texto": "La buena política es reconocer\nderechos a quien"
+            },
+            {
+              "inicio": 12.58,
+              "fin": 16.72,
+              "texto": "no los tiene, a la población migrante\nque está con nosotros contribuyendo a la"
+            },
+            {
+              "inicio": 16.72,
+              "fin": 20.78,
+              "texto": "prosperidad de las islas Canarias\ny del conjunto de la sociedad española."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 20.78,
+      "fin": 24.28,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Sánchez defiende reconocer derechos a la población migrante",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261121-1726-sanchez-migrantes",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
