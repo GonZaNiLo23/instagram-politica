@@ -329,3 +329,4 @@
 - 2026-11-20 15:30 UTC · 2 · @partidopopular (Sánchez habla de Mari Carmen, 34,5 s) · descartado: mezcla dos voces (Sánchez y Feijóo), cifra de 276.000 desahucios y alusión a pagos con dinero público que no puedo contrastar, transcripción dudosa («morrida»); viral 188,8. Sin publicación.
 - 2026-11-20 17:30 UTC (publicación 18:00 Madrid) · 2 · @santi_abascal (Marruecos tiene el teléfono de Sánchez / bandera, 64,8 s) · descartado: acusaciones graves sin prueba («organización mafiosa», venta a terrorismo y enemigos exteriores), sin propuesta ni tramo limpio de 15–40 s; viral 56,5. Único candidato. Sin publicación.
 - 2026-11-20 19:30 UTC (publicación 20:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
+- 2026-11-21 07:30 UTC (publicación 08:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
