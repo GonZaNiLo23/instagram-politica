@@ -166,3 +166,5 @@
 - 2026-11-21T18:00:43.391Z · 060-coste-elecciones: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-21T18:01:19.753Z · am20261121-1726-sanchez-migrantes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgA00deEXAG/
 - 2026-11-21T18:01:22.213Z · am20261121-1726-sanchez-migrantes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-22T10:00:45.801Z · am20261122-0926-sanchez-votar v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgCinMxJVth/
+- 2026-11-22T10:00:47.072Z · am20261122-0926-sanchez-votar: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
