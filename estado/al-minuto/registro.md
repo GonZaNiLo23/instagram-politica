@@ -360,3 +360,8 @@
 - 2026-11-22 11:30 UTC · 1 · @psoe (parodia «quédate en casa», 107 s) · descartado: sátira que sin contexto parece declaración real, transcripción errónea; viral 866
 - 2026-11-22 11:30 UTC · 1 · @vox_es (VOX GTA, 93 s) · descartado: sin habla; viral 35,8
 - 2026-11-22 13:30 UTC (publicación 14:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
+- 2026-11-22 15:30 UTC (publicación 16:00 Madrid) · 4 · @vox_es (Abascal: Vox defiende la seguridad de las mujeres, tramo 32,64–56,06 s; subtítulos cotejados con la transcripción, «Vos»→«Vox»; declaración atribuida a Abascal, sin acusaciones de delito; omitido el arranque con las acusaciones de terceros; viral 249,1; sube un punto por tema de seguridad/mujeres/inmigración) · publicado am20261122-1526-vox-mujeres
+- 2026-11-22 15:30 UTC · 3 · @sanchezcastejon (remontada, votar con fuerza, 86,8 s) · descartado: mismo tema que am20261122-0926-sanchez-votar (hace 6 h), mitin sin medida; un envío por hora; viral 452
+- 2026-11-22 15:30 UTC · 2 · @alviseperez (manifestación de autónomos, 60,8 s) · descartado: insultos y acusaciones sin prueba, transcripción confusa; viral 303,1
+- 2026-11-22 15:30 UTC · 2 · @vox_es (el 29N nos lo jugamos todo, 56,2 s) · descartado: acusaciones graves sin prueba («enemigos de España», «culpables»); viral 31,3
+- 2026-11-22 15:30 UTC · 1 · @vox_es (sin frases, 82,3) · descartado: sin habla
