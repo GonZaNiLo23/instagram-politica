@@ -174,3 +174,7 @@
 - 2026-11-22T12:00:47.072Z · am20261122-1126-vox-prioridad: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-22T16:00:45.586Z · am20261122-1526-vox-mujeres v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgDL0DeE8Y9/
 - 2026-11-22T16:00:49.601Z · am20261122-1526-vox-mujeres: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-22T18:01:00.616Z · 063-salarios-vs-ipc v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgDZirGIOuw/
+- 2026-11-22T18:01:02.043Z · 063-salarios-vs-ipc: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-22T18:01:42.284Z · am20261122-1730-vox-remigracion-jovenes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgDZpjHkWWV/
+- 2026-11-22T18:01:44.324Z · am20261122-1730-vox-remigracion-jovenes: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
