@@ -168,3 +168,5 @@
 - 2026-11-21T18:01:22.213Z · am20261121-1726-sanchez-migrantes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-22T10:00:45.801Z · am20261122-0926-sanchez-votar v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgCinMxJVth/
 - 2026-11-22T10:00:47.072Z · am20261122-0926-sanchez-votar: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-22T11:00:46.122Z · 062-alquiler-irav v2: PUBLICADA en Instagram https://www.instagram.com/reel/DgCpe-Kjpgm/
+- 2026-11-22T11:00:48.795Z · 062-alquiler-irav: TikTok en la bandeja de borradores (falta publicarlo desde la app)
