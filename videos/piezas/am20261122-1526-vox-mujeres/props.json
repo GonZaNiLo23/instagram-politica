@@ -1,0 +1,96 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 26.92,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 23.42,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 23.42,
+          "fundidoFin": 23.42
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL: VOX DEFIENDE LA SEGURIDAD DE LAS MUJERES",
+          "fecha": "22 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.58,
+              "texto": "Vox es el partido que defiende\nla seguridad de las mujeres"
+            },
+            {
+              "inicio": 2.58,
+              "fin": 7.42,
+              "texto": "que anden libres por la calle,\nno tapadas en cárceles de tela,"
+            },
+            {
+              "inicio": 7.72,
+              "fin": 9.56,
+              "texto": "ni varios pasos por detrás\nde un hombre."
+            },
+            {
+              "inicio": 9.86,
+              "fin": 12.86,
+              "texto": "Vox es el partido que combate\na los que quieren colgar"
+            },
+            {
+              "inicio": 12.86,
+              "fin": 16.1,
+              "texto": "a los homosexuales de las grúas\ny Vox es el partido que defiende"
+            },
+            {
+              "inicio": 16.88,
+              "fin": 19.3,
+              "texto": "porque lo contrario\nes una discriminación"
+            },
+            {
+              "inicio": 19.9,
+              "fin": 22.02,
+              "texto": "a quienes han llegado aquí\npidiendo permiso"
+            },
+            {
+              "inicio": 22.02,
+              "fin": 23.42,
+              "texto": "y respetando nuestras leyes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 23.42,
+      "fin": 26.92,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal: Vox defiende a las mujeres y a los inmigrantes legales",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261122-1526-vox-mujeres",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
