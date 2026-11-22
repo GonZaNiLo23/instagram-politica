@@ -58,3 +58,4 @@
 - 2026-11-21T13:40:03Z · am20261121-1326-vox-miedo v1 · OK · ffprobe: h264 1080x1920 @30/1 · 26.50 s (objetivo 26.44 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-21T15:41:26Z · am20261121-1526-vox-remigracion v1 · OK · ffprobe: h264 1080x1920 @30/1 · 29.10 s (objetivo 29 s) -> OK Volumen integrado: -13.8 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-21T17:41:11Z · am20261121-1726-sanchez-migrantes v1 · OK · ffprobe: h264 1080x1920 @30/1 · 24.40 s (objetivo 24.28 s) -> OK Volumen integrado: -14.2 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-22T09:35:31Z · am20261122-0926-sanchez-votar v1 · OK · ffprobe: h264 1080x1920 @30/1 · 25.73 s (objetivo 25.68 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 

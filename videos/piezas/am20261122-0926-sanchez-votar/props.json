@@ -1,0 +1,85 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 25.68,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 22.18,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 22.18,
+          "fundidoFin": 22.18
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "SÁNCHEZ PIDE VOTAR POR PENSIONES, MIGRANTES Y PALESTINA",
+          "fecha": "22 NOV",
+          "credito": "Vídeo: @sanchezcastejon"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 4.28,
+              "texto": "Porque no hace falta ser pensionista\npara votar por las pensiones,"
+            },
+            {
+              "inicio": 4.28,
+              "fin": 8.46,
+              "texto": "no hace falta ser migrante para votar\npor los derechos de los migrantes,"
+            },
+            {
+              "inicio": 8.46,
+              "fin": 11.76,
+              "texto": "no hace falta ser mujer para votar\npor los derechos de las mujeres,"
+            },
+            {
+              "inicio": 12.38,
+              "fin": 16.56,
+              "texto": "no hace falta ser palestino ni ucraniano\npara votar por la paz"
+            },
+            {
+              "inicio": 16.56,
+              "fin": 19.1,
+              "texto": "y el reconocimiento al Estado de Palestina."
+            },
+            {
+              "inicio": 19.44,
+              "fin": 22.18,
+              "texto": "Eso es lo que vamos a hacer\nel próximo 29 de noviembre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 22.18,
+      "fin": 25.68,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Sánchez pide el voto para las pensiones, los migrantes y Palestina",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261122-0926-sanchez-votar",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
