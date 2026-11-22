@@ -353,3 +353,5 @@
 - 2026-11-21 17:30 UTC · 2 · @vox_es (Abascal sobre el voto útil del PP, 106,1 s) · descartado: crítica a un partido afín sin tramo limpio; un envío por hora; viral 7,2
 - 2026-11-21 19:30 UTC (publicación 20:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
 - 2026-11-22 07:30 UTC (publicación 08:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
+- 2026-11-22 09:30 UTC (publicación 10:00 Madrid) · 3 · @sanchezcastejon (pide votar por pensiones, migrantes, mujeres, paz y reconocimiento de Palestina, tramo 21,8–43,98 s; subtítulos cotejados con la transcripción; atribuido a Sánchez como mensaje de campaña, sin acusaciones; omitidos el arranque y los cánticos; viral 413,6; nota 3: mitin sin medida concreta pese al viral) · publicado am20261122-0926-sanchez-votar
+- 2026-11-22 09:30 UTC · 2 · @santi_abascal (voto útil, 56,1 s) · descartado: insulta a un partido afín («inútiles»), acusación de «mafia» sin prueba, sin tramo limpio; un envío por hora; viral 48,7

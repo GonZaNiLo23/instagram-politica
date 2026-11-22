@@ -143,3 +143,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 **2026-11-22 (rutina claude.ai):** sin red. 22-11 cubierto (062, 063); 23-11 para produccion.yml. Informe en estado/informe-produccion-2026-11-22.md.
 | 064 | inflacion-espana-eurozona | 📊 Datos · Cómo funciona | Flash | programado | 1 | 1 | 2026-11-23 13:30 (cola) | v1 APROBADO 9/10 |
 | 065 | epa-dos-titulares | 💶 Economía · Datos | Flash | programado | 1 | 2 | 2026-11-23 19:00 (cola) | v2 APROBADO 9/10 |
+| 066 | am20261122-0926-sanchez-votar | Al minuto (Sánchez, voto 29N) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-22 10:00 | sin revisores |
