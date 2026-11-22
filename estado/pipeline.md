@@ -146,3 +146,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 066 | am20261122-0926-sanchez-votar | Al minuto (Sánchez, voto 29N) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-22 10:00 | sin revisores |
 | 067 | am20261122-1126-vox-prioridad | Al minuto (Vox, prioridad nacional) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-22 12:00 | sin revisores |
 | 068 | am20261122-1526-vox-mujeres | Al minuto (Abascal, seguridad de las mujeres) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-22 16:00 | sin revisores |
+| 069 | am20261122-1730-vox-remigracion-jovenes | Al minuto (Abascal, remigración: vuelta de los jóvenes) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-22 18:00 | sin revisores |

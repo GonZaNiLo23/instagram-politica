@@ -365,3 +365,6 @@
 - 2026-11-22 15:30 UTC · 2 · @alviseperez (manifestación de autónomos, 60,8 s) · descartado: insultos y acusaciones sin prueba, transcripción confusa; viral 303,1
 - 2026-11-22 15:30 UTC · 2 · @vox_es (el 29N nos lo jugamos todo, 56,2 s) · descartado: acusaciones graves sin prueba («enemigos de España», «culpables»); viral 31,3
 - 2026-11-22 15:30 UTC · 1 · @vox_es (sin frases, 82,3) · descartado: sin habla
+- 2026-11-22 17:30 UTC (publicación 18:00 Madrid) · 3 · @vox_es (Abascal define la remigración como la vuelta de los jóvenes españoles, tramo 4,8–26,58 s; subtítulos cotejados con la transcripción; declaración atribuida a Abascal, sin acusaciones de delito; omitido el pasaje sobre inmigrantes ilegales, «robar, violar o matar» y los «corruptos»; viral 16,8; +1 por propuesta, −1 por tema ya publicado ayer (>6 h)) · publicado am20261122-1730-vox-remigracion-jovenes
+- 2026-11-22 17:30 UTC · 3 · @vox_es (prioridad nacional, 104 s) · descartado: mismo tema que am20261122-1126-vox-prioridad (hoy); un envío por hora; viral 16,6
+- 2026-11-22 17:30 UTC · 2 · @vox_es (Abascal, voto útil y PP, 42,7 s) · descartado: crítica a un partido afín, transcripción dudosa; viral 13,3
