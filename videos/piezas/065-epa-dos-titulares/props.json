@@ -1,0 +1,669 @@
+{
+  "plantilla": "flash",
+  "duracion": 34.53,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "PARO:",
+            "y": 320,
+            "tamano": 130,
+            "en": -1
+          },
+          {
+            "tipo": "flechasEpa",
+            "dividir": 0
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.26,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "PARO:",
+          "y": 320,
+          "tamano": 130,
+          "en": -1
+        },
+        {
+          "tipo": "flechasEpa",
+          "dividir": 1.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "EPA 3T-2026 · INE · publicada el 27-10"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 3.26,
+      "fin": 10.82,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "mitadesEpa",
+          "izq": 0.1,
+          "izqFig": 1.52,
+          "der": 4.32,
+          "derFig": 5.48,
+          "tasaEn": 6.16
+        }
+      ]
+    },
+    {
+      "inicio": 10.82,
+      "fin": 14.98,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "3T: PARO VS. TRIMESTRE ANTERIOR",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasTrimEpa",
+          "en": 0.2,
+          "paso": 0.55
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Variación del paro en cada",
+            "tercer trimestre (miles). Fuente: INE"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 14.98,
+      "fin": 18.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ESTACIONALIDAD = LO QUE SE REPITE CADA AÑO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasTrimEpa",
+          "en": -1
+        },
+        {
+          "tipo": "ondaEpa",
+          "en": 0.2,
+          "dur": 2.4
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: INE"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 18.5,
+      "fin": 22.65,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SIN ESTACIONALIDAD:",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tarjetaEpa",
+          "y": 520,
+          "en": 0.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "variación trimestral, serie desestacionalizada (INE)"
+          ],
+          "en": 0.5,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 22.65,
+      "fin": 27.13,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "OCUPADOS EN 12 MESES:",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "maletinEpa",
+          "cuentaEn": 0.81,
+          "cuentaDur": 1.8,
+          "totalEn": 3.35
+        }
+      ]
+    },
+    {
+      "inicio": 27.13,
+      "fin": 30.2,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿TRIMESTRE O AÑO?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "abSerie",
+          "a": "TRIMESTRE",
+          "b": "AÑO",
+          "y": 700,
+          "en": 0.3
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuentes en la descripción"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 30.2,
+      "fin": 34.53,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿TRIMESTRE O AÑO?",
+          "cta": "siguenos",
+          "tamano": 84,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "065-epa-dos-titulares",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "¿El",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "paro",
+      "inicio": 0.24,
+      "fin": 0.56
+    },
+    {
+      "t": "sube",
+      "inicio": 0.72,
+      "fin": 0.96
+    },
+    {
+      "t": "o",
+      "inicio": 1.2,
+      "fin": 1.28
+    },
+    {
+      "t": "baja?",
+      "inicio": 1.32,
+      "fin": 1.92
+    },
+    {
+      "t": "Las",
+      "inicio": 2.16,
+      "fin": 2.4
+    },
+    {
+      "t": "dos",
+      "inicio": 2.48,
+      "fin": 2.56
+    },
+    {
+      "t": "cosas.",
+      "inicio": 2.64,
+      "fin": 3.2
+    },
+    {
+      "t": "Frente",
+      "inicio": 3.36,
+      "fin": 3.6
+    },
+    {
+      "t": "al",
+      "inicio": 3.68,
+      "fin": 3.72
+    },
+    {
+      "t": "trimestre",
+      "inicio": 3.76,
+      "fin": 4.16
+    },
+    {
+      "t": "anterior,",
+      "inicio": 4.24,
+      "fin": 4.8
+    },
+    {
+      "t": "noventa",
+      "inicio": 4.88,
+      "fin": 5.2
+    },
+    {
+      "t": "y",
+      "inicio": 5.28,
+      "fin": 5.36
+    },
+    {
+      "t": "cinco",
+      "inicio": 5.44,
+      "fin": 5.6
+    },
+    {
+      "t": "mil",
+      "inicio": 5.76,
+      "fin": 5.84
+    },
+    {
+      "t": "novecientos",
+      "inicio": 5.92,
+      "fin": 6.48
+    },
+    {
+      "t": "parados",
+      "inicio": 6.56,
+      "fin": 6.96
+    },
+    {
+      "t": "más.",
+      "inicio": 7,
+      "fin": 7.6
+    },
+    {
+      "t": "Frente",
+      "inicio": 7.68,
+      "fin": 7.84
+    },
+    {
+      "t": "al",
+      "inicio": 7.88,
+      "fin": 7.92
+    },
+    {
+      "t": "año",
+      "inicio": 8,
+      "fin": 8.08
+    },
+    {
+      "t": "pasado,",
+      "inicio": 8.16,
+      "fin": 8.8
+    },
+    {
+      "t": "veintiún",
+      "inicio": 8.84,
+      "fin": 9.2
+    },
+    {
+      "t": "mil",
+      "inicio": 9.36,
+      "fin": 9.44
+    },
+    {
+      "t": "novecientos",
+      "inicio": 9.52,
+      "fin": 10.08
+    },
+    {
+      "t": "menos.",
+      "inicio": 10.16,
+      "fin": 10.88
+    },
+    {
+      "t": "El",
+      "inicio": 10.92,
+      "fin": 10.96
+    },
+    {
+      "t": "tercer",
+      "inicio": 11.04,
+      "fin": 11.28
+    },
+    {
+      "t": "trimestre",
+      "inicio": 11.36,
+      "fin": 11.84
+    },
+    {
+      "t": "subió",
+      "inicio": 11.92,
+      "fin": 12.16
+    },
+    {
+      "t": "el",
+      "inicio": 12.2,
+      "fin": 12.24
+    },
+    {
+      "t": "paro",
+      "inicio": 12.32,
+      "fin": 12.56
+    },
+    {
+      "t": "en",
+      "inicio": 12.68,
+      "fin": 12.8
+    },
+    {
+      "t": "cuatro",
+      "inicio": 12.84,
+      "fin": 13.12
+    },
+    {
+      "t": "de",
+      "inicio": 13.2,
+      "fin": 13.28
+    },
+    {
+      "t": "los",
+      "inicio": 13.36,
+      "fin": 13.44
+    },
+    {
+      "t": "últimos",
+      "inicio": 13.52,
+      "fin": 13.92
+    },
+    {
+      "t": "cinco",
+      "inicio": 14,
+      "fin": 14.24
+    },
+    {
+      "t": "años.",
+      "inicio": 14.4,
+      "fin": 15.04
+    },
+    {
+      "t": "Eso",
+      "inicio": 15.08,
+      "fin": 15.36
+    },
+    {
+      "t": "es",
+      "inicio": 15.52,
+      "fin": 15.68
+    },
+    {
+      "t": "estacionalidad:",
+      "inicio": 15.76,
+      "fin": 16.8
+    },
+    {
+      "t": "lo",
+      "inicio": 16.84,
+      "fin": 16.88
+    },
+    {
+      "t": "que",
+      "inicio": 16.96,
+      "fin": 17
+    },
+    {
+      "t": "se",
+      "inicio": 17.04,
+      "fin": 17.12
+    },
+    {
+      "t": "repite",
+      "inicio": 17.2,
+      "fin": 17.6
+    },
+    {
+      "t": "cada",
+      "inicio": 17.68,
+      "fin": 17.84
+    },
+    {
+      "t": "año.",
+      "inicio": 17.92,
+      "fin": 18.56
+    },
+    {
+      "t": "Corregido",
+      "inicio": 18.6,
+      "fin": 18.96
+    },
+    {
+      "t": "ese",
+      "inicio": 19.04,
+      "fin": 19.12
+    },
+    {
+      "t": "efecto,",
+      "inicio": 19.2,
+      "fin": 19.84
+    },
+    {
+      "t": "el",
+      "inicio": 19.92,
+      "fin": 20
+    },
+    {
+      "t": "paro",
+      "inicio": 20.08,
+      "fin": 20.32
+    },
+    {
+      "t": "sube",
+      "inicio": 20.4,
+      "fin": 20.56
+    },
+    {
+      "t": "un",
+      "inicio": 20.68,
+      "fin": 20.8
+    },
+    {
+      "t": "cero",
+      "inicio": 20.853,
+      "fin": 20.96
+    },
+    {
+      "t": "coma",
+      "inicio": 21.12,
+      "fin": 21.28
+    },
+    {
+      "t": "catorce",
+      "inicio": 21.36,
+      "fin": 21.76
+    },
+    {
+      "t": "por",
+      "inicio": 21.84,
+      "fin": 22
+    },
+    {
+      "t": "ciento.",
+      "inicio": 22.107,
+      "fin": 22.72
+    },
+    {
+      "t": "Y",
+      "inicio": 22.747,
+      "fin": 22.773
+    },
+    {
+      "t": "en",
+      "inicio": 22.8,
+      "fin": 22.88
+    },
+    {
+      "t": "un",
+      "inicio": 22.92,
+      "fin": 22.96
+    },
+    {
+      "t": "año,",
+      "inicio": 23.04,
+      "fin": 23.52
+    },
+    {
+      "t": "cuatrocientos",
+      "inicio": 23.56,
+      "fin": 24.24
+    },
+    {
+      "t": "sesenta",
+      "inicio": 24.32,
+      "fin": 24.64
+    },
+    {
+      "t": "y",
+      "inicio": 24.68,
+      "fin": 24.72
+    },
+    {
+      "t": "cinco",
+      "inicio": 24.8,
+      "fin": 24.96
+    },
+    {
+      "t": "mil",
+      "inicio": 25.12,
+      "fin": 25.2
+    },
+    {
+      "t": "quinientos",
+      "inicio": 25.36,
+      "fin": 25.84
+    },
+    {
+      "t": "ocupados",
+      "inicio": 26,
+      "fin": 26.4
+    },
+    {
+      "t": "más.",
+      "inicio": 26.48,
+      "fin": 27.2
+    },
+    {
+      "t": "¿Qué",
+      "inicio": 27.227,
+      "fin": 27.28
+    },
+    {
+      "t": "cuenta",
+      "inicio": 27.36,
+      "fin": 27.6
+    },
+    {
+      "t": "más",
+      "inicio": 27.64,
+      "fin": 27.76
+    },
+    {
+      "t": "para",
+      "inicio": 27.84,
+      "fin": 27.92
+    },
+    {
+      "t": "ti:",
+      "inicio": 28,
+      "fin": 28.48
+    },
+    {
+      "t": "el",
+      "inicio": 28.52,
+      "fin": 28.56
+    },
+    {
+      "t": "trimestre",
+      "inicio": 28.64,
+      "fin": 29.36
+    },
+    {
+      "t": "o",
+      "inicio": 29.4,
+      "fin": 29.44
+    },
+    {
+      "t": "el",
+      "inicio": 29.52,
+      "fin": 29.6
+    },
+    {
+      "t": "año?",
+      "inicio": 29.64,
+      "fin": 30.32
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 30.4,
+      "fin": 30.88
+    },
+    {
+      "t": "para",
+      "inicio": 30.96,
+      "fin": 31.04
+    },
+    {
+      "t": "estar",
+      "inicio": 31.2,
+      "fin": 31.36
+    },
+    {
+      "t": "informado.",
+      "inicio": 31.52,
+      "fin": 32.16
+    }
+  ]
+}

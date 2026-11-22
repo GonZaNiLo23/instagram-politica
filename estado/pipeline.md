@@ -141,3 +141,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261121-1726-sanchez-migrantes | Al minuto · Sánchez: reconocer derechos a migrantes | Al minuto | - | publicando (Al minuto horario) | - | - | 2026-11-21 18:00 | autocomprobación |
 
 **2026-11-22 (rutina claude.ai):** sin red. 22-11 cubierto (062, 063); 23-11 para produccion.yml. Informe en estado/informe-produccion-2026-11-22.md.
+| 064 | inflacion-espana-eurozona | 📊 Datos · Cómo funciona | Flash | programado | 1 | 1 | 2026-11-23 13:30 (cola) | v1 APROBADO 9/10 |

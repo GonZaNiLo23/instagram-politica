@@ -1,0 +1,924 @@
+{
+  "plantilla": "flash",
+  "duracion": 36.12,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "ESPAÑA 4,9 %",
+            "y": 340,
+            "tamano": 100,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "ALEMANIA 2,9 %",
+            "y": 460,
+            "tamano": 100,
+            "en": -1
+          },
+          {
+            "tipo": "barrasHSerie",
+            "vivo": true,
+            "filas": [
+              {
+                "etiqueta": "ESPAÑA",
+                "valor": 4.9,
+                "color": "#F2B134",
+                "en": -1,
+                "dur": 0.05
+              },
+              {
+                "etiqueta": "ALEMANIA",
+                "valor": 2.9,
+                "color": "#14213D",
+                "en": -1,
+                "dur": 0.05
+              }
+            ],
+            "max": 6,
+            "paso": 2,
+            "y0": 700,
+            "alto": 190,
+            "x0": 110,
+            "largo": 760,
+            "dur": 0.05,
+            "tamano": 64
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "ESPAÑA 4,9 %",
+          "y": 320,
+          "tamano": 100,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "ALEMANIA 2,9 %",
+          "y": 440,
+          "tamano": 100,
+          "en": -1
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "ESPAÑA",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 1
+            },
+            {
+              "etiqueta": "ALEMANIA",
+              "valor": 2.9,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 1
+            }
+          ],
+          "max": 6,
+          "paso": 2,
+          "y0": 640,
+          "alto": 190,
+          "x0": 110,
+          "largo": 760,
+          "dur": 1,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Inflación anual (IPCA) · octubre 2026",
+            "· Eurostat"
+          ],
+          "en": 0.2,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 5.66,
+      "fin": 11.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "ESPAÑA 4,9 %",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05
+            },
+            {
+              "etiqueta": "ALEMANIA 2,9 %",
+              "valor": 2.9,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05
+            },
+            {
+              "etiqueta": "ITALIA 5,6 %",
+              "valor": 5.6,
+              "color": "#8A8F98",
+              "en": 0.1
+            },
+            {
+              "etiqueta": "FRANCIA 3,7 %",
+              "valor": 3.7,
+              "color": "#8A8F98",
+              "en": 2
+            },
+            {
+              "etiqueta": "EUROZONA 4,0 %",
+              "valor": 4,
+              "color": "#14213D",
+              "en": 3.84
+            }
+          ],
+          "max": 6,
+          "paso": 2,
+          "y0": 340,
+          "alto": 140,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Tasa anual, octubre 2026"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 11.66,
+      "fin": 14.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "TASA ANUAL ≠ NIVEL DE PRECIOS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "EUROZONA 4,0 %",
+              "valor": 4,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05
+            }
+          ],
+          "max": 6,
+          "paso": 2,
+          "y0": 700,
+          "alto": 190,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Eurostat, 18-11-2026"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 14.62,
+      "fin": 18.78,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ENERGÍA: 1,89 PUNTOS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "ENERGÍA 1,89",
+              "valor": 1.89,
+              "color": "#F2B134",
+              "en": 0.3
+            },
+            {
+              "etiqueta": "RESTO 2,11",
+              "valor": 2.11,
+              "color": "#14213D",
+              "en": 1.98
+            }
+          ],
+          "max": 6,
+          "paso": 2,
+          "y0": 560,
+          "alto": 180,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Mide cuánto suben los precios,",
+            "no cuáles son más altos"
+          ],
+          "en": 0.6,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 18.78,
+      "fin": 22.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿POR QUÉ +0,9? EUROSTAT NO LO DICE",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "EUROZONA 4,0 %",
+              "valor": 4,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05
+            },
+            {
+              "etiqueta": "ESPAÑA 4,9 %",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05
+            }
+          ],
+          "max": 6,
+          "paso": 2,
+          "y0": 560,
+          "alto": 180,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "?"
+          ],
+          "x": 820,
+          "y": 590,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 150,
+          "en": 0.46
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "0,9 puntos más que la eurozona"
+          ],
+          "en": 0.6,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 22.62,
+      "fin": 25.959999999999997,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ITALIA: 4,2 % → 5,6 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "ITALIA 4,2 %",
+              "valor": 4.2,
+              "color": "#F2B134",
+              "en": 0.2
+            },
+            {
+              "etiqueta": "ESPAÑA 5,0 %",
+              "valor": 5,
+              "color": "#8A8F98",
+              "en": 0.5
+            },
+            {
+              "etiqueta": "ALEMANIA 3,3 %",
+              "valor": 3.3,
+              "color": "#8A8F98",
+              "en": 0.8
+            }
+          ],
+          "max": 6,
+          "paso": 2,
+          "y0": 520,
+          "alto": 190,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Septiembre → octubre (tasa anual)"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 25.959999999999997,
+      "fin": 28.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ITALIA: 4,2 % → 5,6 %",
+          "y": 330,
+          "en": -1,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasHSerie",
+          "vivo": true,
+          "filas": [
+            {
+              "etiqueta": "ITALIA 5,6 %",
+              "valor": 5.6,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.7
+            },
+            {
+              "etiqueta": "ESPAÑA 4,9 %",
+              "valor": 4.9,
+              "color": "#8A8F98",
+              "en": -1,
+              "dur": 0.05
+            },
+            {
+              "etiqueta": "ALEMANIA 2,9 %",
+              "valor": 2.9,
+              "color": "#8A8F98",
+              "en": -1,
+              "dur": 0.05
+            }
+          ],
+          "max": 6,
+          "paso": 2,
+          "y0": 520,
+          "alto": 190,
+          "x0": 110,
+          "largo": 760,
+          "dur": 0.7,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Septiembre → octubre (tasa anual)"
+          ],
+          "en": -1,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 28.22,
+      "fin": 31.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿SÚPER O LUZ?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "abSerie",
+          "a": "SÚPER",
+          "b": "LUZ",
+          "y": 700,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 31.9,
+      "fin": 36.12,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿SÚPER O LUZ?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "064-inflacion-espana-eurozona",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Inflación",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "t": "en",
+      "inicio": 0.52,
+      "fin": 0.56
+    },
+    {
+      "t": "España,",
+      "inicio": 0.64,
+      "fin": 1.36
+    },
+    {
+      "t": "cuatro",
+      "inicio": 1.44,
+      "fin": 1.68
+    },
+    {
+      "t": "coma",
+      "inicio": 1.76,
+      "fin": 1.92
+    },
+    {
+      "t": "nueve.",
+      "inicio": 2,
+      "fin": 2.44
+    },
+    {
+      "t": "En",
+      "inicio": 2.64,
+      "fin": 2.72
+    },
+    {
+      "t": "Alemania,",
+      "inicio": 2.8,
+      "fin": 3.52
+    },
+    {
+      "t": "dos",
+      "inicio": 3.6,
+      "fin": 3.68
+    },
+    {
+      "t": "coma",
+      "inicio": 3.84,
+      "fin": 3.92
+    },
+    {
+      "t": "nueve.",
+      "inicio": 4,
+      "fin": 4.44
+    },
+    {
+      "t": "¿Misma",
+      "inicio": 4.64,
+      "fin": 4.96
+    },
+    {
+      "t": "moneda?",
+      "inicio": 5.04,
+      "fin": 5.56
+    },
+    {
+      "t": "Italia,",
+      "inicio": 5.76,
+      "fin": 6.4
+    },
+    {
+      "t": "cinco",
+      "inicio": 6.48,
+      "fin": 6.72
+    },
+    {
+      "t": "coma",
+      "inicio": 6.8,
+      "fin": 6.96
+    },
+    {
+      "t": "seis.",
+      "inicio": 7.04,
+      "fin": 7.52
+    },
+    {
+      "t": "Francia,",
+      "inicio": 7.76,
+      "fin": 8.4
+    },
+    {
+      "t": "tres",
+      "inicio": 8.48,
+      "fin": 8.56
+    },
+    {
+      "t": "coma",
+      "inicio": 8.64,
+      "fin": 8.8
+    },
+    {
+      "t": "siete.",
+      "inicio": 8.88,
+      "fin": 9.36
+    },
+    {
+      "t": "Eurozona,",
+      "inicio": 9.6,
+      "fin": 10.32
+    },
+    {
+      "t": "cuatro",
+      "inicio": 10.4,
+      "fin": 10.64
+    },
+    {
+      "t": "coma",
+      "inicio": 10.8,
+      "fin": 10.96
+    },
+    {
+      "t": "cero.",
+      "inicio": 11.04,
+      "fin": 11.48
+    },
+    {
+      "t": "Tasas",
+      "inicio": 11.76,
+      "fin": 12
+    },
+    {
+      "t": "anuales",
+      "inicio": 12.08,
+      "fin": 12.48
+    },
+    {
+      "t": "de",
+      "inicio": 12.52,
+      "fin": 12.56
+    },
+    {
+      "t": "octubre,",
+      "inicio": 12.68,
+      "fin": 13.2
+    },
+    {
+      "t": "datos",
+      "inicio": 13.28,
+      "fin": 13.6
+    },
+    {
+      "t": "de",
+      "inicio": 13.64,
+      "fin": 13.68
+    },
+    {
+      "t": "Eurostat.",
+      "inicio": 13.8,
+      "fin": 14.32
+    },
+    {
+      "t": "En",
+      "inicio": 14.72,
+      "fin": 14.8
+    },
+    {
+      "t": "la",
+      "inicio": 14.88,
+      "fin": 14.92
+    },
+    {
+      "t": "eurozona,",
+      "inicio": 14.96,
+      "fin": 15.6
+    },
+    {
+      "t": "la",
+      "inicio": 15.64,
+      "fin": 15.68
+    },
+    {
+      "t": "energía",
+      "inicio": 15.76,
+      "fin": 16.16
+    },
+    {
+      "t": "aporta",
+      "inicio": 16.24,
+      "fin": 16.56
+    },
+    {
+      "t": "casi",
+      "inicio": 16.6,
+      "fin": 16.88
+    },
+    {
+      "t": "dos",
+      "inicio": 17.04,
+      "fin": 17.2
+    },
+    {
+      "t": "de",
+      "inicio": 17.28,
+      "fin": 17.36
+    },
+    {
+      "t": "esos",
+      "inicio": 17.44,
+      "fin": 17.68
+    },
+    {
+      "t": "cuatro",
+      "inicio": 17.72,
+      "fin": 17.92
+    },
+    {
+      "t": "puntos.",
+      "inicio": 18,
+      "fin": 18.48
+    },
+    {
+      "t": "Por",
+      "inicio": 18.88,
+      "fin": 18.96
+    },
+    {
+      "t": "qué",
+      "inicio": 19.04,
+      "fin": 19.12
+    },
+    {
+      "t": "España",
+      "inicio": 19.24,
+      "fin": 19.52
+    },
+    {
+      "t": "queda",
+      "inicio": 19.6,
+      "fin": 19.84
+    },
+    {
+      "t": "sobre",
+      "inicio": 19.92,
+      "fin": 20.08
+    },
+    {
+      "t": "la",
+      "inicio": 20.12,
+      "fin": 20.16
+    },
+    {
+      "t": "media,",
+      "inicio": 20.24,
+      "fin": 20.72
+    },
+    {
+      "t": "esa",
+      "inicio": 20.84,
+      "fin": 20.96
+    },
+    {
+      "t": "estadística",
+      "inicio": 21.04,
+      "fin": 21.6
+    },
+    {
+      "t": "no",
+      "inicio": 21.68,
+      "fin": 21.76
+    },
+    {
+      "t": "lo",
+      "inicio": 21.84,
+      "fin": 21.92
+    },
+    {
+      "t": "dice.",
+      "inicio": 22.08,
+      "fin": 22.64
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 22.72,
+      "fin": 23.28
+    },
+    {
+      "t": "en",
+      "inicio": 23.32,
+      "fin": 23.36
+    },
+    {
+      "t": "septiembre",
+      "inicio": 23.44,
+      "fin": 23.92
+    },
+    {
+      "t": "Italia",
+      "inicio": 24.08,
+      "fin": 24.4
+    },
+    {
+      "t": "estaba",
+      "inicio": 24.48,
+      "fin": 24.72
+    },
+    {
+      "t": "en",
+      "inicio": 24.8,
+      "fin": 24.96
+    },
+    {
+      "t": "cuatro",
+      "inicio": 25.04,
+      "fin": 25.28
+    },
+    {
+      "t": "coma",
+      "inicio": 25.36,
+      "fin": 25.52
+    },
+    {
+      "t": "dos.",
+      "inicio": 25.6,
+      "fin": 26.08
+    },
+    {
+      "t": "En",
+      "inicio": 26.16,
+      "fin": 26.24
+    },
+    {
+      "t": "octubre,",
+      "inicio": 26.36,
+      "fin": 26.96
+    },
+    {
+      "t": "cinco",
+      "inicio": 27.04,
+      "fin": 27.2
+    },
+    {
+      "t": "coma",
+      "inicio": 27.36,
+      "fin": 27.44
+    },
+    {
+      "t": "seis.",
+      "inicio": 27.6,
+      "fin": 28.04
+    },
+    {
+      "t": "¿Dónde",
+      "inicio": 28.32,
+      "fin": 28.56
+    },
+    {
+      "t": "notas",
+      "inicio": 28.64,
+      "fin": 28.96
+    },
+    {
+      "t": "más",
+      "inicio": 29,
+      "fin": 29.12
+    },
+    {
+      "t": "la",
+      "inicio": 29.16,
+      "fin": 29.2
+    },
+    {
+      "t": "inflación:",
+      "inicio": 29.28,
+      "fin": 30
+    },
+    {
+      "t": "en",
+      "inicio": 30.08,
+      "fin": 30.16
+    },
+    {
+      "t": "el",
+      "inicio": 30.2,
+      "fin": 30.24
+    },
+    {
+      "t": "súper",
+      "inicio": 30.32,
+      "fin": 30.72
+    },
+    {
+      "t": "o",
+      "inicio": 30.88,
+      "fin": 30.96
+    },
+    {
+      "t": "en",
+      "inicio": 31,
+      "fin": 31.04
+    },
+    {
+      "t": "la",
+      "inicio": 31.12,
+      "fin": 31.16
+    },
+    {
+      "t": "luz?",
+      "inicio": 31.2,
+      "fin": 31.92
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 32,
+      "fin": 32.48
+    },
+    {
+      "t": "para",
+      "inicio": 32.56,
+      "fin": 32.72
+    },
+    {
+      "t": "estar",
+      "inicio": 32.84,
+      "fin": 32.96
+    },
+    {
+      "t": "informado.",
+      "inicio": 33.12,
+      "fin": 33.76
+    }
+  ]
+}
