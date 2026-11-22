@@ -170,3 +170,5 @@
 - 2026-11-22T10:00:47.072Z · am20261122-0926-sanchez-votar: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-22T11:00:46.122Z · 062-alquiler-irav v2: PUBLICADA en Instagram https://www.instagram.com/reel/DgCpe-Kjpgm/
 - 2026-11-22T11:00:48.795Z · 062-alquiler-irav: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-22T12:00:44.708Z · am20261122-1126-vox-prioridad v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgCwV-Ojexe/
+- 2026-11-22T12:00:47.072Z · am20261122-1126-vox-prioridad: TikTok en la bandeja de borradores (falta publicarlo desde la app)
