@@ -1,0 +1,105 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 25.3,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 21.8,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 21.8,
+          "fundidoFin": 21.8
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL DEFINE LA REMIGRACIÓN",
+          "fecha": "22 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 1.72,
+              "texto": "Porque lo primero que significa remigración"
+            },
+            {
+              "inicio": 1.72,
+              "fin": 3.78,
+              "texto": "es que queremos que vuelvan los españoles,"
+            },
+            {
+              "inicio": 4.26,
+              "fin": 6.28,
+              "texto": "los jóvenes que se han tenido que ir de España,"
+            },
+            {
+              "inicio": 6.28,
+              "fin": 7.56,
+              "texto": "porque aquí no tenían un futuro."
+            },
+            {
+              "inicio": 8.2,
+              "fin": 9.86,
+              "texto": "Remigración es que la gente que se ha ido"
+            },
+            {
+              "inicio": 9.86,
+              "fin": 12.04,
+              "texto": "de nuestra patria contra su voluntad"
+            },
+            {
+              "inicio": 12.04,
+              "fin": 15.2,
+              "texto": "pueda volver aquí a echar raíces donde nació,"
+            },
+            {
+              "inicio": 15.46,
+              "fin": 17.44,
+              "texto": "junto a sus padres, junto a sus abuelos,"
+            },
+            {
+              "inicio": 17.78,
+              "fin": 19.04,
+              "texto": "junto a los amigos de toda la vida."
+            },
+            {
+              "inicio": 19.64,
+              "fin": 21.78,
+              "texto": "Para tener identidad, para tener raíces."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 21.8,
+      "fin": 25.3,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Vox: remigración es que vuelvan los jóvenes que se fueron",
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261122-1730-vox-remigracion-jovenes",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
