@@ -359,3 +359,4 @@
 - 2026-11-22 11:30 UTC · 2 · @partidopopular (cara a cara, 115 muertos/bailar, 18,7 s) · descartado: insinuación sin contexto contrastable; viral 106,1; un envío por hora
 - 2026-11-22 11:30 UTC · 1 · @psoe (parodia «quédate en casa», 107 s) · descartado: sátira que sin contexto parece declaración real, transcripción errónea; viral 866
 - 2026-11-22 11:30 UTC · 1 · @vox_es (VOX GTA, 93 s) · descartado: sin habla; viral 35,8
+- 2026-11-22 13:30 UTC (publicación 14:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
