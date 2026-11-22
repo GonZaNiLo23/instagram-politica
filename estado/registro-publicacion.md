@@ -172,3 +172,5 @@
 - 2026-11-22T11:00:48.795Z · 062-alquiler-irav: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-22T12:00:44.708Z · am20261122-1126-vox-prioridad v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgCwV-Ojexe/
 - 2026-11-22T12:00:47.072Z · am20261122-1126-vox-prioridad: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-22T16:00:45.586Z · am20261122-1526-vox-mujeres v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgDL0DeE8Y9/
+- 2026-11-22T16:00:49.601Z · am20261122-1526-vox-mujeres: TikTok en la bandeja de borradores (falta publicarlo desde la app)
