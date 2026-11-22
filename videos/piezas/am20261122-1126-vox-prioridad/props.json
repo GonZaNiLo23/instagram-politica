@@ -1,0 +1,91 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 21.5,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 18,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 18,
+          "fundidoFin": 18
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "VOX: PRIORIDAD NACIONAL EN LAS AYUDAS",
+          "fecha": "22 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0.06,
+              "fin": 3.74,
+              "texto": "Nuestro mensaje es claro\ny es para todos los españoles,"
+            },
+            {
+              "inicio": 4.26,
+              "fin": 6.84,
+              "texto": "prioridad nacional en las ayudas\nsociales"
+            },
+            {
+              "inicio": 6.9,
+              "fin": 8.6,
+              "texto": "y al alquiler para los españoles,"
+            },
+            {
+              "inicio": 8.76,
+              "fin": 11.74,
+              "texto": "remigración de los españoles que han\ntenido que dejar España,"
+            },
+            {
+              "inicio": 12.14,
+              "fin": 13.48,
+              "texto": "porque aquí ya no tenían futuro,"
+            },
+            {
+              "inicio": 14.02,
+              "fin": 16.78,
+              "texto": "impuestos más bajos\ny servicios públicos"
+            },
+            {
+              "inicio": 16.78,
+              "fin": 18,
+              "texto": "que no sean decadentes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 18,
+      "fin": 21.5,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Vox propone prioridad nacional en ayudas y alquiler",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261122-1126-vox-prioridad",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
