@@ -8,7 +8,7 @@ const t = (i) => T.palabras[i].inicio;
 const r = (x) => +x.toFixed(2);
 const S = (i) => r(t(i) - 0.1);
 const rel = (base, i) => r(t(i) - base);
-const DUR = r(T.duracion + 2.4);
+const DUR = r(T.duracion + 1.5);
 const ESC = [];
 const esc = (a, b, extra, componentes) => ESC.push({inicio: a, fin: b, ...extra, componentes});
 const rot = (texto, y, en = 0.05, o = {}) => ({tipo: 'rotulo', texto, y, en, tamano: 64, ...o});
@@ -32,7 +32,7 @@ esc(b1, b2, {fondo: 'crema'}, [
 esc(b2, b3, {fondo: 'crema'}, [
   rot(`3T: PARO VS. TRIMESTRE${NB}ANTERIOR`, 330, 0.05),
   {tipo: 'barrasTrimEpa', en: 0.2, paso: 0.55},
-  nota(['Variación del paro en cada', 'tercer trimestre (miles). Fuente: INE'], 0.4),
+  {...nota(['Variación del paro en cada tercer trimestre (miles)', 'Fuente: INE'], 0.4), tamano: 36, izq: 40, ancho: 920},
 ]);
 // 4 · Qué es la estacionalidad
 esc(b3, b4, {fondo: 'crema'}, [
@@ -44,7 +44,7 @@ esc(b3, b4, {fondo: 'crema'}, [
 // 5 · Corregida
 esc(b4, b5, {fondo: 'crema'}, [
   rot(`SIN ESTACIONALIDAD:`, 330, 0.05),
-  {tipo: 'tarjetaEpa', y: 520, en: 0.2},
+  {tipo: 'tarjetaEpa', y: 600, en: 0.2},
   nota(['variación trimestral, serie desestacionalizada (INE)'], 0.5),
 ]);
 // 6 · Giro

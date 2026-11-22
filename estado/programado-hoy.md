@@ -53,3 +53,4 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 063-salarios-vs-ipc (v1) | Reel 27 s | Instagram + TikTok (borrador) vía cola | 2026-11-22 19:00 | revisiones/guiones/063-…-v1.md (literales aplicados, v2) · revisiones/videos/063-…-v1.md (9/10). Recomprobar IPC/convenios el 22-11 |
 | 062-alquiler-irav (v2) | Reel 40 s | Instagram + TikTok (borrador) vía cola | 2026-11-22 12:00 | revisiones/guiones/062-…-v1.md (literales aplicados) · revisiones/videos/062-…-v2.md (9/10). Recomprobar IRAV/IPC el 22-11 |
 | 064-inflacion-espana-eurozona (v1) | Reel 36 s | Instagram + TikTok (borrador) vía cola | 2026-11-23 13:30 | guion APROBADO (literales aplicados) · vídeo 9/10. Recomprobar Eurostat/INE el 23-11 |
+| 065-epa-dos-titulares (v2) | Reel 34 s | Instagram + TikTok (borrador) vía cola | 2026-11-23 19:00 | guion APROBADO (literales aplicados) · vídeo v2 9/10. Recomprobar EPA el 23-11 |

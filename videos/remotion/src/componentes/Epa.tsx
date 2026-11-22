@@ -81,6 +81,7 @@ export const MitadesEpa: React.FC<{izq?: number; izqFig?: number; der?: number; 
   const kt = ease(t, tasaEn, tasaEn + 0.4);
   return lienzo(
     <g>
+      <g transform="translate(0 50)">
       <line x1={540} y1={340} x2={540} y2={340 + 640 * kd} stroke={C.piedra} strokeWidth={6} strokeDasharray="14 12" />
       <g transform={`translate(0 ${vaiven})`}>
         <Calendario cx={300} y={340} cols={3} filas={1} k={ke(izq)} />
@@ -108,10 +109,11 @@ export const MitadesEpa: React.FC<{izq?: number; izqFig?: number; der?: number; 
           <text x={750} y={940} textAnchor="middle" {...TXT} fontSize={64} fill={C.tinta}>parados</text>
         </g>
       ) : null}
+      </g>
       {kt > 0 ? (
         <g opacity={kt} transform={`translate(0 ${(1 - kt) * 30})`}>
-          <rect x={150} y={1000} width={780} height={92} rx={24} fill={C.tinta} />
-          <text x={540} y={1066} textAnchor="middle" {...TXT} fontSize={64} fill={C.crema}>Tasa de paro: 10,18 %</text>
+          <rect x={150} y={1030} width={780} height={92} rx={24} fill={C.tinta} />
+          <text x={540} y={1096} textAnchor="middle" {...TXT} fontSize={64} fill={C.crema}>Tasa de paro: 10,18 %</text>
         </g>
       ) : null}
     </g>,
@@ -130,7 +132,7 @@ export const BarrasTrimEpa: React.FC<{en?: number; paso?: number; base?: number;
   const s = useSalida(hasta);
   const vaiven = Math.sin(t * 2.6) * 5;
   const sc = hMax / 95.9;
-  const cs = [170, 340, 510, 680, 850];
+  const cs = [150, 328, 506, 684, 862];
   return lienzo(
     <g transform={`translate(0 ${vaiven})`}>
       <line x1={60} y1={base} x2={950} y2={base} stroke={C.tinta} strokeWidth={6} strokeLinecap="round" />
@@ -142,7 +144,7 @@ export const BarrasTrimEpa: React.FC<{en?: number; paso?: number; base?: number;
         const y = d.v >= 0 ? base - h : base;
         return (
           <g key={d.a} opacity={en < 0 ? 1 : Math.min(1, k * 4)}>
-            <rect x={cs[i] - 65} y={y} width={130} height={Math.max(h, 0.001)} fill={col} stroke={C.tinta} strokeWidth={5} />
+            <rect x={cs[i] - 62} y={y} width={124} height={Math.max(h, 0.001)} fill={col} stroke={C.tinta} strokeWidth={5} />
             {k > 0.5 ? <text x={cs[i]} y={base - (d.v >= 0 ? h : 0) - 22} textAnchor="middle" {...CIF} fontSize={64} fill={C.tinta}>{`${d.v < 0 ? '−' : '+'}${coma1(d.v)}`}</text> : null}
             <text x={cs[i]} y={base + 76} textAnchor="middle" {...TXT} fontSize={64} fill={C.tinta}>{d.a}</text>
           </g>

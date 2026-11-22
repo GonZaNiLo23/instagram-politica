@@ -1,6 +1,6 @@
 {
   "plantilla": "flash",
-  "duracion": 34.53,
+  "duracion": 33.63,
   "portadaSegundo": 1.5,
   "marca": "@loquepasaenunminuto",
   "subSinHuerfanas": true,
@@ -94,11 +94,13 @@
         {
           "tipo": "notas",
           "lineas": [
-            "Variación del paro en cada",
-            "tercer trimestre (miles). Fuente: INE"
+            "Variación del paro en cada tercer trimestre (miles)",
+            "Fuente: INE"
           ],
           "en": 0.4,
-          "tamano": 40
+          "tamano": 36,
+          "izq": 40,
+          "ancho": 920
         }
       ]
     },
@@ -147,7 +149,7 @@
         },
         {
           "tipo": "tarjetaEpa",
-          "y": 520,
+          "y": 600,
           "en": 0.2
         },
         {
@@ -211,7 +213,7 @@
     },
     {
       "inicio": 30.2,
-      "fin": 34.53,
+      "fin": 33.63,
       "fondo": "mostaza",
       "sinSubtitulos": true,
       "componentes": [
