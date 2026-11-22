@@ -1,39 +1,5 @@
 {
- "generado": "2026-11-22T13:24:15.361Z",
- "total_detectados": 1,
- "candidatos": [
-  {
-   "id": "ig-18130163290660803",
-   "fuente": "instagram",
-   "cuenta": "@vox_es",
-   "nombre": "VOX 🇪🇸",
-   "espacio": "afin",
-   "seguidores": 1279932,
-   "fecha": "2026-11-22T12:35:05+0000",
-   "horas": 0.8,
-   "me_gusta": 2604,
-   "comentarios": 70,
-   "viral": 261.6,
-   "enlace": "https://www.instagram.com/reel/DgC0MpGRJen/",
-   "texto": "¡ZARAGOZA, HASTA LA BANDERA! 🇪🇸\n\nOtro lleno absoluto en un acto de VOX para escuchar a santi_abascal.\n\n¡GRACIAS! 👏👏👏\n\n#VotaVOX",
-   "credito": "Vídeo: @vox_es",
-   "duracion": 19.3,
-   "archivo": "ig-18130163290660803.mp4",
-   "frases": [
-    {
-     "inicio": 8.35,
-     "fin": 9.05,
-     "texto": "¡Suscríbete!"
-    }
-   ],
-   "palabras": [
-    {
-     "t": "¡Suscríbete!",
-     "inicio": 8.35,
-     "fin": 9.05
-    }
-   ],
-   "habla": true
-  }
- ]
+ "generado": "2026-11-22T13:30:08.620Z",
+ "total_detectados": 0,
+ "candidatos": []
 }
