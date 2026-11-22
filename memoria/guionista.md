@@ -94,4 +94,10 @@
 
 - [IRAV, alquiler] INE: ine.es/uc/oC7D0Ncd (último dato y regla "contratos desde 26-5-2023"), metodología ine.es/daco/daco42/irav/meto_IRAV.pdf (Read sobre el PDF guardado; fórmula 2 + 0,5·exceso), IPC1026 abre. RDL 29/2026: art. 3 Once (art. 18.1 LAU) en offset 100000 y disp. final 6.ª (2 % hasta 31-12-2027) en offset 300000. Convalidado 12-11 (BOE-A-2026-23755; 35-34 en la nota del Congreso id 52634) y RDL 28 derogado (BOE-A-2026-23754). (062, 2026-11-21)
 
+- [VerificaRTVE/cara a cara 19-11, 059 2026-11-22] mivau.gob.es, publicaciones.transportes.gob.es, newtral.es y articulo14 dan 403/certificado; WebSearch (sin allowed_domains) resume Newtral y VerificaRTVE. CGPJ abre: poderjudicial.es nota 16-10-2026 (4.474 lanzamientos 2T-2026), sin acumulado.
+
+- [IPCA por países, Eurostat] La API prc_hicp_manr daba 400 el 22-11-2026, pero el comunicado de prensa abre con WebFetch: ec.europa.eu/eurostat/web/products-euro-indicators/w/2-DDMMAAAA-ap (18-11 = octubre definitivo, con tabla por país; 4-11 = avance). El Banco de España (bde.es PDF y página de proyecciones) dio ECONNRESET: su análisis del diferencial solo sale vía WebSearch con allowed_domains ["bde.es"]. Cifras de la propuesta (DE 2,8, FR 3,8) eran del avance. (064, 2026-11-22)
+
+- [EPA 3T-2026, 065 2026-11-22] ine.es/dyngs/Prensa/EPA3T26.htm abre con WebFetch (27-10): trae variación del paro en cada 3T 2022–2026 (en miles; gráfico), desestacionalizado +0,14 % y ocupados +73.600/+465.500. No trae tasa anual ni explicación de la causa estacional ni menciona la regularización: pregunta por cada cosa por separado.
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)

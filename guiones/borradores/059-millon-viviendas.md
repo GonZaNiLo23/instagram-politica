@@ -49,9 +49,15 @@ Provisional 8/10 (sin pasar el test completo). Dudosos: gancho sin "tú" directo
 | 2 | Cierre del cara a cara (contexto) | Diario Socialista | https://diariosocialista.net/2026/11/20/sanchez-y-feijoo-cierran-un-tenso-cara-a-cara/ | 2026-11-20 (solo de la propuesta, no reabierta) |
 
 ## Pendiente de verificar
-- [VERIFICAR: original de VerificaRTVE (19-11-2026). rtve.es no es accesible desde la nube (WebFetch bloqueado, WebSearch rechaza el dominio). Falta confirmar texto literal, veredicto y periodo.]
-- [VERIFICAR: 719.602 en el Observatorio de Vivienda y Suelo (MIVAU). La búsqueda no lo encuentra; el último boletín localizado es el 57 (1T-2026), no el 2T-2026. Falta la tabla y qué mide: ¿terminadas, iniciadas o salidas al mercado? Sánchez habló de "construido".]
-- [VERIFICAR: 276.897 lanzamientos en la estadística del CGPJ (3T-2018 hasta qué trimestre).]
+## Cambios en esta versión (v2, 2026-11-22, intento de verificación primaria)
+- Sigue SIN primaria. mivau.gob.es y publicaciones.transportes.gob.es (certificado/403), newtral.es y articulo14 (403) y rtve.es no abren; "719.602" no aparece en ninguna búsqueda. El boletín 58 (2T-2026) existe, pero no se puede abrir.
+- Según VerificaRTVE (vía Zamora News y resumen de búsqueda, ambos nivel 3), 719.602 = viviendas que "salieron al mercado" 3T-2018–2T-2026: no es "construidas" ni "terminadas". Si se publica, cambiar la voz ("Setecientas diecinueve mil... salieron al mercado") y no decir que "Sánchez mintió".
+- CGPJ (primaria, nota 16-10-2026): 4.474 lanzamientos en 2T-2026 (-35,7 %); series desde 3T-2018 en su portal, pero la nota no da acumulado: 276.897 NO verificado. Próximo dato: 3T el 14-12-2026.
+- Newtral (nivel 3, atribuir): lo de Sánchez "engañoso"; Feijóo "540 de 184.000" viviendas, VerificaRTVE lo tacha de incompleto; "no todos los lanzamientos son desahucios". Si se actualiza la pieza, el equilibrio exige incluir también esta cifra de Feijóo.
+
+- [VERIFICAR: original de VerificaRTVE (19-11-2026): texto literal, veredicto y periodo (solo por terceros, nivel 3).]
+- [VERIFICAR: 719.602 en el Observatorio de Vivienda y Suelo (boletín 58, 2T-2026): tabla y qué mide ("salieron al mercado", según VerificaRTVE).]
+- [VERIFICAR: 276.897 lanzamientos: sumar la serie 3T-2018–2T-2026 del CGPJ (portal "Efectos de la crisis").]
 - [VERIFICAR: la voz dice "unas doscientas ochenta mil menos" (resta 1.000.000 − 719.602 = 280.398, correcto aritméticamente).]
 - Quitado del guion por no verificado: lanzamientos de 67.000 (2015) a 24.500 (2025).
 
