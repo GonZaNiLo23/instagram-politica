@@ -1,0 +1,95 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 23.04,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 19.54,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.04
+     ],
+     "dur": 19.54,
+     "fundidoFin": 19.54
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "SÁNCHEZ PROPONE UN IMPUESTO A LOS ULTRARRICOS",
+     "fecha": "23 NOV",
+     "credito": "Vídeo: @sanchezcastejon"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 2.4,
+       "texto": "Si sale cara, paga los ultrarricos"
+      },
+      {
+       "inicio": 2.4,
+       "fin": 4.9,
+       "texto": "y si sale cruz, pagan también."
+      },
+      {
+       "inicio": 5.28,
+       "fin": 6.8,
+       "texto": "¿Y para qué vamos a utilizar"
+      },
+      {
+       "inicio": 6.8,
+       "fin": 8.1,
+       "texto": "este nuevo impuesto a los ultrarricos?"
+      },
+      {
+       "inicio": 8.74,
+       "fin": 10.9,
+       "texto": "Bueno, pues para la promoción\nde vivienda protegida,"
+      },
+      {
+       "inicio": 11.32,
+       "fin": 13.2,
+       "texto": "para blindar las pensiones"
+      },
+      {
+       "inicio": 13.3,
+       "fin": 16.3,
+       "texto": "y también para crear una prestación\npor crianza de hijo"
+      },
+      {
+       "inicio": 16.3,
+       "fin": 18.6,
+       "texto": "que va a beneficiar\na millones de personas,"
+      },
+      {
+       "inicio": 18.84,
+       "fin": 19.54,
+       "texto": "entre otras cosas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 19.54,
+   "fin": 23.04,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Impuesto a fortunas de más de 100 millones",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}
