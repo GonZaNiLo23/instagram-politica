@@ -178,3 +178,5 @@
 - 2026-11-22T18:01:02.043Z · 063-salarios-vs-ipc: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-22T18:01:42.284Z · am20261122-1730-vox-remigracion-jovenes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgDZpjHkWWV/
 - 2026-11-22T18:01:44.324Z · am20261122-1730-vox-remigracion-jovenes: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-23T08:00:44.949Z · am20261123-0730-sanchez-ultrarricos v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgE5rGDiqMx/
+- 2026-11-23T08:00:47.282Z · am20261123-0730-sanchez-ultrarricos: TikTok en la bandeja de borradores (falta publicarlo desde la app)
