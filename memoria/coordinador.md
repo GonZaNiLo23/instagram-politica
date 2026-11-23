@@ -69,3 +69,4 @@
 - [nube, 2026-11-22] Rutina claude.ai: red igual (curl 000). Comprobar, informar y salir. Huecos del 23-11 para produccion.yml.
 - 2026-11-22 nube: guionista ya verifica con red completa; rótulos de 065 con "−" U+2212 y >7 palabras costaron una vuelta de vídeo; avisar al generador en el encargo.
 - 2026-11-22: produccion.yml: huecos de hoy y mañana ya cubiertos en la cola; salida en 2 min sin subagentes.
+- [nube, 2026-11-23] Rutina claude.ai: red igual (curl 000). Informe y salida. Huecos 24 y 25-11 para produccion.yml.
