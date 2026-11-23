@@ -71,3 +71,4 @@
 - 2026-11-22: produccion.yml: huecos de hoy y mañana ya cubiertos en la cola; salida en 2 min sin subagentes.
 - [nube, 2026-11-23] Rutina claude.ai: red igual (curl 000). Informe y salida. Huecos 24 y 25-11 para produccion.yml.
 - 2026-11-23 produccion.yml: red completa ya funciona; buscador 3 min, guion+vídeo+2 revisiones ≈ 4 vueltas/pieza. El generador crea ya el gráfico con valores si se piden en el encargo; avisar de etiquetas/valores de barras y de la etiqueta 'fuente' desde el principio ahorra la vuelta de v1.
+- 2026-11-23 produccion.yml: huecos de hoy y mañana ya cubiertos en la cola; salida en 2 min sin subagentes.
