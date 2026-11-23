@@ -1,0 +1,86 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 24.74,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 21.24,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.04
+     ],
+     "dur": 21.24,
+     "fundidoFin": 21.24
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "AYUSO PIDE NEUTRALIDAD EN LAS AULAS",
+     "fecha": "23 NOV",
+     "credito": "Vídeo: @isabeldiazayuso"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 2.4,
+       "texto": "Porque lo único que se pide es que haya neutralidad"
+      },
+      {
+       "inicio": 2.4,
+       "fin": 4.48,
+       "texto": "en los colegios y en los institutos,"
+      },
+      {
+       "inicio": 4.48,
+       "fin": 7.4,
+       "texto": "que los padres y especialmente los alumnos"
+      },
+      {
+       "inicio": 7.4,
+       "fin": 10.74,
+       "texto": "no tienen por qué estar dirigidos políticamente para ningún lado."
+      },
+      {
+       "inicio": 10.74,
+       "fin": 13.18,
+       "texto": "Y resulta que nosotros lo que queremos es que se cumpla una ley"
+      },
+      {
+       "inicio": 13.18,
+       "fin": 16.5,
+       "texto": "que precisamente es socialista, la que te está pidiendo"
+      },
+      {
+       "inicio": 16.5,
+       "fin": 21.24,
+       "texto": "que no puedes utilizar ideológicamente las aulas para un fin político."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 21.24,
+   "fin": 24.74,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Ayuso pide neutralidad política en los colegios de Madrid",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}

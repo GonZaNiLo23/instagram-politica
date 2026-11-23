@@ -150,3 +150,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 070 | am20261123-0730-sanchez-ultrarricos | Al minuto (Sánchez, impuesto a fortunas de más de 100 millones) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-23 08:00 | sin revisores |
 | 066 | pension-enero-vs-ipc | 💶 Economía · Cómo funciona | Flash | programado | 1 | 2 | 2026-11-24 13:30 (cola) | v2 APROBADO 9/10 |
 | 067 | dni-digital-29n | ⚙️ Cómo funciona | Flash | programado | 1 | 2 | 2026-11-24 19:00 (cola) | v2 APROBADO 9/10 |
+| 071 | am20261123-0930-ayuso-neutralidad | Al minuto (Ayuso, neutralidad en las aulas, huelga educativa Madrid) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-23 10:00 | sin revisores |
