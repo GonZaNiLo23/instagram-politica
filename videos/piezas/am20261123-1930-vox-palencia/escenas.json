@@ -1,0 +1,86 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 20.14,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "sinVoz": true,
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 16.64,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 16.64,
+     "fundidoFin": 16.64
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL PIDE PRIORIDAD NACIONAL Y REMIGRACIÓN",
+     "fecha": "23 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 1.42,
+       "texto": "Ha destruido la confianza"
+      },
+      {
+       "inicio": 1.42,
+       "fin": 3.34,
+       "texto": "y estamos aquí precisamente para"
+      },
+      {
+       "inicio": 3.34,
+       "fin": 6.1,
+       "texto": "invertir el rumbo, para exigir sentido,"
+      },
+      {
+       "inicio": 6.1,
+       "fin": 8.56,
+       "texto": "para exigir prioridad nacional,"
+      },
+      {
+       "inicio": 8.56,
+       "fin": 10.04,
+       "texto": "para exigir remigración"
+      },
+      {
+       "inicio": 10.04,
+       "fin": 14.34,
+       "texto": "para que los que se fueran\npuedan volver a España,"
+      },
+      {
+       "inicio": 14.34,
+       "fin": 16.64,
+       "texto": "los que van a encontrar\nun futuro en su propia patria."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 16.64,
+   "fin": 20.14,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Vox llama a movilizarse el 29 de noviembre",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ]
+}

@@ -377,3 +377,5 @@
 - 2026-11-23 15:30 UTC · 2 · @vox_es (preguntas a Sánchez, «cloacas», 217,7 s) · descartado: acusaciones sin prueba; viral 242,8
 - 2026-11-23 15:30 UTC · 1 · @vox_es (gracias Segovia, 15,7 s / 7,3 s) · descartado: sin contenido informativo
 - 2026-11-23 17:30 UTC (publicación 18:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
+- 2026-11-23 19:30 UTC (publicación 20:00 Madrid) · 4 · @vox_es (Abascal en Palencia: prioridad nacional y remigración, tramos 81,17–91,21 y 93,85–100,45 s; subtítulos cotejados con la transcripción; atribuido a Vox, omitidos «mafia», el pasaje dudoso de transcripción y las acusaciones; viral 189,5; +1 por propuesta con consecuencia directa) · publicado am20261123-1930-vox-palencia
+- 2026-11-23 19:30 UTC · 1 · @sanchezcastejon (luto, 49,8 s) · descartado: sin habla; viral 245,2
