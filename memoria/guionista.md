@@ -100,4 +100,6 @@
 
 - [EPA 3T-2026, 065 2026-11-22] ine.es/dyngs/Prensa/EPA3T26.htm abre con WebFetch (27-10): trae variación del paro en cada 3T 2022–2026 (en miles; gráfico), desestacionalizado +0,14 % y ocupados +73.600/+465.500. No trae tasa anual ni explicación de la causa estacional ni menciona la regularización: pregunta por cada cosa por separado.
 
+- [pensiones/IPC, 066 2026-11-23] INE API IPC290751?nult=26 abre y da el índice mensual (base 2025=100, con 2024 incluido): tasa anual = índice / índice 12 meses antes. LGSS art. 58.2 en offset 130000 del BOE-A-2015-11724. inclusion.gob.es da 403, pero WebSearch con allowed_domains ["inclusion.gob.es","seg-social.es","lamoncloa.gob.es"] confirma 1.376,1 € (27-10). Cuenta la voz con cifras habladas ("4,9 %" = 5 palabras): el tope de 88 se agota rápido.
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)

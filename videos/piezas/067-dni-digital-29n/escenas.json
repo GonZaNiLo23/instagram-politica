@@ -1,0 +1,311 @@
+{
+  "plantilla": "estandar",
+  "duracion": 34.01,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "DNI EN EL MÓVIL:",
+            "y": 330,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "ASÍ SE VOTA",
+            "y": 590,
+            "tamano": 130,
+            "en": -1
+          },
+          {
+            "tipo": "movilDni",
+            "x": 540,
+            "y": 1120,
+            "esc": 1.5,
+            "en": -1,
+            "qrEn": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.82,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "DNI DIGITAL EN LA MESA",
+          "y": 330,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "movilDni",
+          "x": 540,
+          "y": 930,
+          "esc": 1.9,
+          "en": -1,
+          "qrEn": 0.7,
+          "zoomDesde": 1.5
+        }
+      ]
+    },
+    {
+      "inicio": 3.82,
+      "fin": 12.9,
+      "fondo": "crema",
+      "fuente": "Interior, 6-11-2026",
+      "componentes": [
+        {
+          "tipo": "foto",
+          "src": "urna.jpg",
+          "x": 500,
+          "y": 960,
+          "ancho": 880,
+          "alto": 560,
+          "foco": "50% 50%",
+          "velo": 0.55,
+          "en": 0,
+          "credito": "Américo Toledano · CC BY-SA 4.0 · Wikimedia Commons"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Código QR temporal",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "movilDni",
+          "x": 320,
+          "y": 930,
+          "esc": 1.2,
+          "en": 0.1,
+          "qrEn": 0.4
+        },
+        {
+          "tipo": "lectorDni",
+          "x": 740,
+          "y": 930,
+          "esc": 1.2,
+          "en": 4.82,
+          "tick": 2.3,
+          "haz": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 12.9,
+      "fin": 15.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "contador",
+          "desde": 60000,
+          "hasta": 60000,
+          "prefijo": "Más de ",
+          "etiqueta": "terminales",
+          "y": 400,
+          "tamano": 150,
+          "en": 0.05,
+          "dur": 0.05
+        },
+        {
+          "tipo": "lectorDni",
+          "x": 250,
+          "y": 900,
+          "esc": 0.8,
+          "en": 0.2,
+          "tick": 0.8,
+          "haz": 0.1
+        },
+        {
+          "tipo": "lectorDni",
+          "x": 540,
+          "y": 900,
+          "esc": 0.8,
+          "en": 0.5,
+          "tick": 1.1,
+          "haz": 0.1
+        },
+        {
+          "tipo": "lectorDni",
+          "x": 830,
+          "y": 900,
+          "esc": 0.8,
+          "en": 0.8,
+          "tick": 1.4,
+          "haz": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 15.86,
+      "fin": 21.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Valen: DNI · pasaporte · permiso",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "docDni",
+          "x": 250,
+          "y": 820,
+          "esc": 0.9,
+          "en": 0.6599999999999999,
+          "marca": "tick",
+          "marcaEn": 0.5,
+          "marcaDy": 150,
+          "doc": "dni"
+        },
+        {
+          "tipo": "docDni",
+          "x": 540,
+          "y": 820,
+          "esc": 0.9,
+          "en": 1.9400000000000002,
+          "marca": "tick",
+          "marcaEn": 0.5,
+          "marcaDy": 150,
+          "doc": "pasaporte"
+        },
+        {
+          "tipo": "docDni",
+          "x": 830,
+          "y": 820,
+          "esc": 0.9,
+          "en": 2.98,
+          "marca": "tick",
+          "marcaEn": 0.5,
+          "marcaDy": 150,
+          "doc": "permiso"
+        }
+      ]
+    },
+    {
+      "inicio": 21.02,
+      "fin": 25.06,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Resguardo del DNI: no vale",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "docDni",
+          "x": 400,
+          "y": 860,
+          "esc": 1.5,
+          "en": 0.2,
+          "marca": "cruz",
+          "marcaEn": 1.8800000000000001,
+          "marcaDx": 330,
+          "marcaDy": 0,
+          "doc": "resguardo"
+        }
+      ]
+    },
+    {
+      "inicio": 25.06,
+      "fin": 27.55,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Domingo 29‑11 · 9:00–20:00",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "horasDni",
+          "y": 860,
+          "en": 0.3,
+          "dur": 1.3599999999999999
+        }
+      ]
+    },
+    {
+      "inicio": 27.55,
+      "fin": 29.94,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "lineaDni",
+          "x": 540,
+          "y0": 380,
+          "y1": 1120,
+          "en": 0.1
+        },
+        {
+          "tipo": "movilDni",
+          "x": 290,
+          "y": 780,
+          "esc": 1,
+          "en": 0.2,
+          "qrEn": 0.3
+        },
+        {
+          "tipo": "docDni",
+          "x": 800,
+          "y": 780,
+          "esc": 1.2,
+          "en": 0.4,
+          "doc": "cartera"
+        },
+        {
+          "tipo": "etiquetaDni",
+          "texto": "MÓVIL",
+          "x": 290,
+          "y": 1060,
+          "en": 0.73
+        },
+        {
+          "tipo": "etiquetaDni",
+          "texto": "CARTERA",
+          "x": 780,
+          "y": 1060,
+          "en": 1.37
+        }
+      ]
+    },
+    {
+      "inicio": 29.94,
+      "fin": 34.01,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿MÓVIL O CARTERA?",
+          "tamano": 104,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}
