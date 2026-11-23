@@ -1,0 +1,403 @@
+{
+  "palabras": [
+    {
+      "t": "Los",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "precios",
+      "inicio": 0.24,
+      "fin": 0.56
+    },
+    {
+      "t": "suben",
+      "inicio": 0.68,
+      "fin": 0.88
+    },
+    {
+      "t": "un",
+      "inicio": 1,
+      "fin": 1.12
+    },
+    {
+      "t": "4,9",
+      "inicio": 1.16,
+      "fin": 1.44
+    },
+    {
+      "t": "%.",
+      "inicio": 1.52,
+      "fin": 2.96
+    },
+    {
+      "t": "Tu",
+      "inicio": 3.04,
+      "fin": 3.12
+    },
+    {
+      "t": "pensión",
+      "inicio": 3.16,
+      "fin": 3.6
+    },
+    {
+      "t": "subiría",
+      "inicio": 3.68,
+      "fin": 4.08
+    },
+    {
+      "t": "un",
+      "inicio": 4.16,
+      "fin": 4.24
+    },
+    {
+      "t": "3,5",
+      "inicio": 4.32,
+      "fin": 4.48
+    },
+    {
+      "t": "%.",
+      "inicio": 4.56,
+      "fin": 6
+    },
+    {
+      "t": "¿Por",
+      "inicio": 6.053,
+      "fin": 6.16
+    },
+    {
+      "t": "qué?",
+      "inicio": 6.28,
+      "fin": 6.64
+    },
+    {
+      "t": "La",
+      "inicio": 6.88,
+      "fin": 6.96
+    },
+    {
+      "t": "ley",
+      "inicio": 7.08,
+      "fin": 7.2
+    },
+    {
+      "t": "usa",
+      "inicio": 7.32,
+      "fin": 7.44
+    },
+    {
+      "t": "la",
+      "inicio": 7.48,
+      "fin": 7.52
+    },
+    {
+      "t": "media",
+      "inicio": 7.6,
+      "fin": 7.84
+    },
+    {
+      "t": "de",
+      "inicio": 7.92,
+      "fin": 8
+    },
+    {
+      "t": "doce",
+      "inicio": 8.08,
+      "fin": 8.24
+    },
+    {
+      "t": "meses,",
+      "inicio": 8.32,
+      "fin": 8.96
+    },
+    {
+      "t": "no",
+      "inicio": 9.04,
+      "fin": 9.12
+    },
+    {
+      "t": "la",
+      "inicio": 9.2,
+      "fin": 9.24
+    },
+    {
+      "t": "inflación",
+      "inicio": 9.28,
+      "fin": 9.76
+    },
+    {
+      "t": "de",
+      "inicio": 9.8,
+      "fin": 9.84
+    },
+    {
+      "t": "hoy.",
+      "inicio": 9.92,
+      "fin": 10.48
+    },
+    {
+      "t": "Se",
+      "inicio": 10.52,
+      "fin": 10.56
+    },
+    {
+      "t": "promedian",
+      "inicio": 10.64,
+      "fin": 11.04
+    },
+    {
+      "t": "las",
+      "inicio": 11.12,
+      "fin": 11.2
+    },
+    {
+      "t": "tasas",
+      "inicio": 11.28,
+      "fin": 11.52
+    },
+    {
+      "t": "anuales",
+      "inicio": 11.6,
+      "fin": 12
+    },
+    {
+      "t": "del",
+      "inicio": 12.08,
+      "fin": 12.16
+    },
+    {
+      "t": "IPC,",
+      "inicio": 12.24,
+      "fin": 12.8
+    },
+    {
+      "t": "de",
+      "inicio": 12.84,
+      "fin": 12.88
+    },
+    {
+      "t": "diciembre",
+      "inicio": 12.96,
+      "fin": 13.44
+    },
+    {
+      "t": "a",
+      "inicio": 13.6,
+      "fin": 13.64
+    },
+    {
+      "t": "noviembre.",
+      "inicio": 13.68,
+      "fin": 14.56
+    },
+    {
+      "t": "Con",
+      "inicio": 14.64,
+      "fin": 14.72
+    },
+    {
+      "t": "once",
+      "inicio": 14.8,
+      "fin": 14.96
+    },
+    {
+      "t": "meses",
+      "inicio": 15.04,
+      "fin": 15.28
+    },
+    {
+      "t": "del",
+      "inicio": 15.36,
+      "fin": 15.44
+    },
+    {
+      "t": "INE,",
+      "inicio": 15.52,
+      "fin": 15.92
+    },
+    {
+      "t": "la",
+      "inicio": 15.96,
+      "fin": 16
+    },
+    {
+      "t": "media",
+      "inicio": 16.08,
+      "fin": 16.32
+    },
+    {
+      "t": "va",
+      "inicio": 16.4,
+      "fin": 16.48
+    },
+    {
+      "t": "en",
+      "inicio": 16.52,
+      "fin": 16.56
+    },
+    {
+      "t": "el",
+      "inicio": 16.64,
+      "fin": 16.8
+    },
+    {
+      "t": "3,5",
+      "inicio": 16.88,
+      "fin": 16.96
+    },
+    {
+      "t": "%.",
+      "inicio": 17.12,
+      "fin": 18.56
+    },
+    {
+      "t": "Falta",
+      "inicio": 18.64,
+      "fin": 18.8
+    },
+    {
+      "t": "noviembre:",
+      "inicio": 18.88,
+      "fin": 19.6
+    },
+    {
+      "t": "el",
+      "inicio": 19.68,
+      "fin": 19.76
+    },
+    {
+      "t": "INE",
+      "inicio": 19.88,
+      "fin": 20
+    },
+    {
+      "t": "lo",
+      "inicio": 20.08,
+      "fin": 20.16
+    },
+    {
+      "t": "publica",
+      "inicio": 20.32,
+      "fin": 20.52
+    },
+    {
+      "t": "el",
+      "inicio": 20.56,
+      "fin": 20.6
+    },
+    {
+      "t": "viernes.",
+      "inicio": 20.64,
+      "fin": 21.52
+    },
+    {
+      "t": "Cálculo",
+      "inicio": 21.573,
+      "fin": 21.92
+    },
+    {
+      "t": "propio:",
+      "inicio": 22.04,
+      "fin": 22.64
+    },
+    {
+      "t": "la",
+      "inicio": 22.68,
+      "fin": 22.72
+    },
+    {
+      "t": "cifra",
+      "inicio": 22.88,
+      "fin": 23.04
+    },
+    {
+      "t": "oficial",
+      "inicio": 23.12,
+      "fin": 23.52
+    },
+    {
+      "t": "llega",
+      "inicio": 23.6,
+      "fin": 23.84
+    },
+    {
+      "t": "en",
+      "inicio": 23.88,
+      "fin": 23.92
+    },
+    {
+      "t": "diciembre.",
+      "inicio": 24,
+      "fin": 24.8
+    },
+    {
+      "t": "¿Media",
+      "inicio": 24.907,
+      "fin": 25.12
+    },
+    {
+      "t": "de",
+      "inicio": 25.16,
+      "fin": 25.2
+    },
+    {
+      "t": "doce",
+      "inicio": 25.28,
+      "fin": 25.44
+    },
+    {
+      "t": "meses",
+      "inicio": 25.52,
+      "fin": 26
+    },
+    {
+      "t": "o",
+      "inicio": 26.08,
+      "fin": 26.16
+    },
+    {
+      "t": "IPC",
+      "inicio": 26.24,
+      "fin": 26.64
+    },
+    {
+      "t": "del",
+      "inicio": 26.72,
+      "fin": 26.8
+    },
+    {
+      "t": "último",
+      "inicio": 26.88,
+      "fin": 27.2
+    },
+    {
+      "t": "mes?",
+      "inicio": 27.32,
+      "fin": 27.84
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 27.88,
+      "fin": 28.32
+    },
+    {
+      "t": "para",
+      "inicio": 28.4,
+      "fin": 28.56
+    },
+    {
+      "t": "estar",
+      "inicio": 28.68,
+      "fin": 28.8
+    },
+    {
+      "t": "informado.",
+      "inicio": 28.96,
+      "fin": 29.6
+    }
+  ],
+  "duracion": 29.570612,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

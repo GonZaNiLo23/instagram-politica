@@ -252,11 +252,12 @@ export const BarrasVSerie: React.FC<{
   barras: {etiqueta: string; valor: number; color?: string; en: number; dur?: number; contorno?: boolean; altoContorno?: number; prefijo?: string; sufijo?: string; sinValor?: boolean; cx?: number; dec?: boolean | number}[];
   max?: number; base?: number; hMax?: number; w?: number; centros?: number[]; tamEtiqueta?: number; hasta?: number;
   lineaRef?: {valor: number; en: number; color?: string};
-  lineasRef?: {valor: number; en: number; color?: string}[];
+  lineasRef?: {valor: number; en: number; color?: string; etiqueta?: string}[];
+  tamValor?: number;
   flecha?: {barra: number; hasta: number; en: number; dx?: number; dy0?: number};
   fragmenta?: {barra: number; en: number; n?: number};
   vivo?: boolean;
-}> = ({barras, max = 39, base = 1060, hMax = 240, w = 200, centros, tamEtiqueta = 52, hasta, lineaRef, lineasRef, flecha, fragmenta, vivo = false}) => {
+}> = ({barras, max = 39, base = 1060, hMax = 240, w = 200, centros, tamEtiqueta = 52, hasta, lineaRef, lineasRef, flecha, fragmenta, vivo = false, tamValor = 64}) => {
   const {t} = usa();
   const s = useSalida(hasta);
   const cs = centros ?? (barras.length === 2 ? [300, 780] : [190, 540, 830]);
@@ -293,12 +294,12 @@ export const BarrasVSerie: React.FC<{
             ) : (
               <rect x={cx - w / 2} y={base - h} width={w} height={h} fill={color} stroke={C.tinta} strokeWidth={5} />
             )}
-            {!b.contorno && !b.sinValor && t >= b.en ? <text x={cx} y={base - (partida ? alto(b.valor) * 1.55 : h) - 22} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={64} fill={C.tinta}>{`${b.prefijo ?? '+'}${b.dec ? v.toFixed(typeof b.dec === 'number' ? b.dec : 1).replace(".", ",") : Math.round(v)}${b.sufijo ?? " %"}`}</text> : null}
+            {!b.contorno && !b.sinValor && t >= b.en ? <text x={cx} y={base - (partida ? alto(b.valor) * 1.55 : h) - 22} textAnchor="middle" fontFamily={F.cifra} fontWeight={700} fontSize={tamValor} fill={C.tinta}>{`${b.prefijo ?? '+'}${b.dec ? v.toFixed(typeof b.dec === 'number' ? b.dec : 1).replace(".", ",") : Math.round(v)}${b.sufijo ?? " %"}`}</text> : null}
             <text x={cx} y={base + 58} textAnchor="middle" fontFamily={F.texto} fontWeight={700} fontSize={tamEtiqueta} fill={C.tinta}>{b.etiqueta}</text>
           </g>
         );
       })}
-      {[...(lineaRef ? [lineaRef] : []), ...(lineasRef ?? [])].map((lr, li) => { const e = ease(t, lr.en, lr.en + 0.5); const y = base - alto(lr.valor); return <line key={li} x1={SEGURA.izq} y1={y} x2={SEGURA.izq + (SEGURA.ancho) * e} y2={y} stroke={lr.color ?? C.teja} strokeWidth={6} strokeDasharray="18 12" />; })}
+      {[...(lineaRef ? [lineaRef] : []), ...(lineasRef ?? [])].map((lr, li) => { const e = ease(t, lr.en, lr.en + 0.5); const y = base - alto(lr.valor); return <g key={li}><line x1={SEGURA.izq} y1={y} x2={SEGURA.izq + (SEGURA.ancho) * e} y2={y} stroke={lr.color ?? C.teja} strokeWidth={6} strokeDasharray="18 12" />{lr.etiqueta && e > 0.9 ? <text x={SEGURA.izq + 6} y={y - 14} fontFamily={F.cifra} fontWeight={700} fontSize={44} fill={lr.color ?? C.teja}>{lr.etiqueta}</text> : null}</g>; })}
       {flecha ? (() => {
         const e = ease(t, flecha.en, flecha.en + 0.6);
         const b = barras[flecha.barra];

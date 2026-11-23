@@ -1,6 +1,6 @@
 {
   "plantilla": "estandar",
-  "duracion": 34.01,
+  "duracion": 33.51,
   "portadaSegundo": 1.5,
   "marca": "@loquepasaenunminuto",
   "subSinHuerfanas": true,
@@ -19,23 +19,23 @@
         "componentes": [
           {
             "tipo": "gancho",
-            "texto": "DNI EN EL MÓVIL:",
+            "texto": "DNI EN EL MÓVIL:",
             "y": 330,
-            "tamano": 120,
+            "tamano": 110,
             "en": -1
           },
           {
             "tipo": "gancho",
-            "texto": "ASÍ SE VOTA",
-            "y": 590,
-            "tamano": 130,
+            "texto": "ASÍ SE VOTA",
+            "y": 640,
+            "tamano": 120,
             "en": -1
           },
           {
             "tipo": "movilDni",
             "x": 540,
-            "y": 1120,
-            "esc": 1.5,
+            "y": 1200,
+            "esc": 1.35,
             "en": -1,
             "qrEn": -1
           }
@@ -59,8 +59,8 @@
         {
           "tipo": "movilDni",
           "x": 540,
-          "y": 930,
-          "esc": 1.9,
+          "y": 900,
+          "esc": 1.4,
           "en": -1,
           "qrEn": 0.7,
           "zoomDesde": 1.5
@@ -71,7 +71,6 @@
       "inicio": 3.82,
       "fin": 12.9,
       "fondo": "crema",
-      "fuente": "Interior, 6-11-2026",
       "componentes": [
         {
           "tipo": "foto",
@@ -82,8 +81,15 @@
           "alto": 560,
           "foco": "50% 50%",
           "velo": 0.55,
-          "en": 0,
-          "credito": "Américo Toledano · CC BY-SA 4.0 · Wikimedia Commons"
+          "en": 0
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Interior, 6-11-2026",
+            "Foto: Américo Toledano, CC BY-SA 4.0"
+          ],
+          "en": 0.2
         },
         {
           "tipo": "rotulo",
@@ -122,16 +128,16 @@
           "hasta": 60000,
           "prefijo": "Más de ",
           "etiqueta": "terminales",
-          "y": 400,
-          "tamano": 150,
+          "y": 420,
+          "tamano": 104,
           "en": 0.05,
           "dur": 0.05
         },
         {
           "tipo": "lectorDni",
           "x": 250,
-          "y": 900,
-          "esc": 0.8,
+          "y": 960,
+          "esc": 1,
           "en": 0.2,
           "tick": 0.8,
           "haz": 0.1
@@ -139,8 +145,8 @@
         {
           "tipo": "lectorDni",
           "x": 540,
-          "y": 900,
-          "esc": 0.8,
+          "y": 960,
+          "esc": 1,
           "en": 0.5,
           "tick": 1.1,
           "haz": 0.1
@@ -148,8 +154,8 @@
         {
           "tipo": "lectorDni",
           "x": 830,
-          "y": 900,
-          "esc": 0.8,
+          "y": 960,
+          "esc": 1,
           "en": 0.8,
           "tick": 1.4,
           "haz": 0.1
@@ -170,35 +176,35 @@
         },
         {
           "tipo": "docDni",
-          "x": 250,
-          "y": 820,
-          "esc": 0.9,
+          "x": 230,
+          "y": 950,
+          "esc": 1,
           "en": 0.6599999999999999,
           "marca": "tick",
           "marcaEn": 0.5,
-          "marcaDy": 150,
+          "marcaDy": 170,
           "doc": "dni"
         },
         {
           "tipo": "docDni",
-          "x": 540,
-          "y": 820,
-          "esc": 0.9,
+          "x": 520,
+          "y": 950,
+          "esc": 1,
           "en": 1.9400000000000002,
           "marca": "tick",
           "marcaEn": 0.5,
-          "marcaDy": 150,
+          "marcaDy": 170,
           "doc": "pasaporte"
         },
         {
           "tipo": "docDni",
-          "x": 830,
-          "y": 820,
-          "esc": 0.9,
+          "x": 800,
+          "y": 950,
+          "esc": 1,
           "en": 2.98,
           "marca": "tick",
           "marcaEn": 0.5,
-          "marcaDy": 150,
+          "marcaDy": 170,
           "doc": "permiso"
         }
       ]
@@ -218,12 +224,12 @@
         {
           "tipo": "docDni",
           "x": 400,
-          "y": 860,
-          "esc": 1.5,
+          "y": 900,
+          "esc": 1.6,
           "en": 0.2,
           "marca": "cruz",
           "marcaEn": 1.8800000000000001,
-          "marcaDx": 330,
+          "marcaDx": 350,
           "marcaDy": 0,
           "doc": "resguardo"
         }
@@ -236,14 +242,14 @@
       "componentes": [
         {
           "tipo": "rotulo",
-          "texto": "Domingo 29‑11 · 9:00–20:00",
+          "texto": "Domingo 29‑N · 9:00–20:00",
           "y": 330,
           "en": 0.05,
           "tamano": 64
         },
         {
           "tipo": "horasDni",
-          "y": 860,
+          "y": 900,
           "en": 0.3,
           "dur": 1.3599999999999999
         }
@@ -264,16 +270,16 @@
         {
           "tipo": "movilDni",
           "x": 290,
-          "y": 780,
-          "esc": 1,
+          "y": 820,
+          "esc": 1.2,
           "en": 0.2,
           "qrEn": 0.3
         },
         {
           "tipo": "docDni",
-          "x": 800,
-          "y": 780,
-          "esc": 1.2,
+          "x": 760,
+          "y": 820,
+          "esc": 1.4,
           "en": 0.4,
           "doc": "cartera"
         },
@@ -281,21 +287,21 @@
           "tipo": "etiquetaDni",
           "texto": "MÓVIL",
           "x": 290,
-          "y": 1060,
-          "en": 0.73
+          "y": 1110,
+          "en": 0.55
         },
         {
           "tipo": "etiquetaDni",
           "texto": "CARTERA",
           "x": 780,
-          "y": 1060,
-          "en": 1.37
+          "y": 1110,
+          "en": 1.39
         }
       ]
     },
     {
       "inicio": 29.94,
-      "fin": 34.01,
+      "fin": 33.51,
       "fondo": "mostaza",
       "sinSubtitulos": true,
       "componentes": [

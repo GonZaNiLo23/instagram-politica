@@ -1,0 +1,1496 @@
+{
+  "plantilla": "flash",
+  "duracion": 35.67,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "PRECIOS +4,9 %",
+            "y": 340,
+            "tamano": 110,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "PENSIÓN ≈ +3,5 %",
+            "y": 660,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "barrasVSerie",
+            "max": 6,
+            "base": 1150,
+            "hMax": 360,
+            "w": 200,
+            "tamEtiqueta": 64,
+            "vivo": true,
+            "centros": [
+              290,
+              730
+            ],
+            "barras": [
+              {
+                "etiqueta": "PRECIOS",
+                "valor": 4.9,
+                "color": "#F2B134",
+                "en": -1,
+                "dur": 0.05,
+                "sinValor": true
+              },
+              {
+                "etiqueta": "PENSIÓN",
+                "valor": 3.5,
+                "color": "#14213D",
+                "en": -1,
+                "dur": 0.05,
+                "sinValor": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.95,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "PRECIOS +4,9 %",
+          "y": 320,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PENSIÓN ≈ +3,5 %",
+          "y": 640,
+          "en": 2.94,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 6,
+          "base": 1100,
+          "hMax": 360,
+          "w": 200,
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "centros": [
+            290,
+            730
+          ],
+          "barras": [
+            {
+              "etiqueta": "PRECIOS",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.6,
+              "sinValor": true
+            },
+            {
+              "etiqueta": "PENSIÓN",
+              "valor": 3.5,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.6,
+              "sinValor": true
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "IPC octubre, el más alto del año",
+            "Cálculo propio con datos del INE"
+          ],
+          "en": 0.2,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 5.95,
+      "fin": 10.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LA LEY: MEDIA DE 12 MESES",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 6,
+          "base": 1100,
+          "hMax": 540,
+          "w": 52,
+          "tamEtiqueta": 36,
+          "tamValor": 38,
+          "vivo": true,
+          "centros": [
+            100,
+            172,
+            244,
+            316,
+            388,
+            460,
+            532,
+            604,
+            676,
+            748,
+            820,
+            892
+          ],
+          "barras": [
+            {
+              "etiqueta": "DIC",
+              "valor": 2.9,
+              "color": "#14213D",
+              "en": 0.4,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "ENE",
+              "valor": 2.3,
+              "color": "#14213D",
+              "en": 0.62,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "FEB",
+              "valor": 2.3,
+              "color": "#14213D",
+              "en": 0.8400000000000001,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "MAR",
+              "valor": 3.4,
+              "color": "#14213D",
+              "en": 1.06,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "ABR",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": 1.28,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "MAY",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": 1.5,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "JUN",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": 1.7200000000000002,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "JUL",
+              "valor": 3.6,
+              "color": "#14213D",
+              "en": 1.94,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "AGO",
+              "valor": 4.3,
+              "color": "#14213D",
+              "en": 2.16,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "SEP",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": 2.38,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "OCT",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": 2.6,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "NOV",
+              "valor": 3,
+              "color": "#14213D",
+              "en": 0.1,
+              "contorno": true,
+              "altoContorno": 200,
+              "sinValor": true
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "IPC anual, % · fuente INE"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 10.42,
+      "fin": 14.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "ART. 58 LGSS · SEGURIDAD SOCIAL",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 6,
+          "base": 1100,
+          "hMax": 540,
+          "w": 52,
+          "tamEtiqueta": 36,
+          "tamValor": 38,
+          "vivo": true,
+          "centros": [
+            100,
+            172,
+            244,
+            316,
+            388,
+            460,
+            532,
+            604,
+            676,
+            748,
+            820,
+            892
+          ],
+          "barras": [
+            {
+              "etiqueta": "DIC",
+              "valor": 2.9,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "ENE",
+              "valor": 2.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "FEB",
+              "valor": 2.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "MAR",
+              "valor": 3.4,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "ABR",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "MAY",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "JUN",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "JUL",
+              "valor": 3.6,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "AGO",
+              "valor": 4.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "SEP",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "OCT",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "NOV",
+              "valor": 3,
+              "color": "#14213D",
+              "en": 0.1,
+              "contorno": true,
+              "altoContorno": 200,
+              "sinValor": true
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "IPC anual, % · fuente INE"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 14.54,
+      "fin": 18.54,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MEDIA 11 MESES: 3,47 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 6,
+          "base": 1100,
+          "hMax": 540,
+          "w": 52,
+          "tamEtiqueta": 36,
+          "tamValor": 38,
+          "vivo": true,
+          "centros": [
+            100,
+            172,
+            244,
+            316,
+            388,
+            460,
+            532,
+            604,
+            676,
+            748,
+            820,
+            892
+          ],
+          "barras": [
+            {
+              "etiqueta": "DIC",
+              "valor": 2.9,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "ENE",
+              "valor": 2.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "FEB",
+              "valor": 2.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "MAR",
+              "valor": 3.4,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "ABR",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "MAY",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "JUN",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "JUL",
+              "valor": 3.6,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "AGO",
+              "valor": 4.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "SEP",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "OCT",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "NOV",
+              "valor": 3,
+              "color": "#14213D",
+              "en": 0.1,
+              "contorno": true,
+              "altoContorno": 200,
+              "sinValor": true
+            }
+          ],
+          "lineasRef": [
+            {
+              "valor": 3.47,
+              "en": 0.4,
+              "color": "#B4452A",
+              "etiqueta": "3,47 %"
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio con datos del INE"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 18.54,
+      "fin": 20.84,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "NOVIEMBRE: 27 DE NOVIEMBRE",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 6,
+          "base": 1100,
+          "hMax": 540,
+          "w": 52,
+          "tamEtiqueta": 36,
+          "tamValor": 38,
+          "vivo": true,
+          "centros": [
+            100,
+            172,
+            244,
+            316,
+            388,
+            460,
+            532,
+            604,
+            676,
+            748,
+            820,
+            892
+          ],
+          "barras": [
+            {
+              "etiqueta": "DIC",
+              "valor": 2.9,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "ENE",
+              "valor": 2.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "FEB",
+              "valor": 2.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "MAR",
+              "valor": 3.4,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "ABR",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "MAY",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "JUN",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "JUL",
+              "valor": 3.6,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "AGO",
+              "valor": 4.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "SEP",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "OCT",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "NOV",
+              "valor": 3,
+              "color": "#14213D",
+              "en": 0.1,
+              "contorno": true,
+              "altoContorno": 200,
+              "sinValor": true
+            }
+          ],
+          "lineasRef": [
+            {
+              "valor": 3.47,
+              "en": -1,
+              "color": "#B4452A",
+              "etiqueta": "3,47 %"
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cifra oficial: IPC definitivo 15-12"
+          ],
+          "en": 0.6,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 20.84,
+      "fin": 24.17,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CON NOVIEMBRE ENTRE 3 Y 4,9 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "MEDIA 3,4–3,6 %",
+          "y": 520,
+          "en": 2.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 6,
+          "base": 1100,
+          "hMax": 540,
+          "w": 52,
+          "tamEtiqueta": 36,
+          "tamValor": 38,
+          "vivo": true,
+          "centros": [
+            100,
+            172,
+            244,
+            316,
+            388,
+            460,
+            532,
+            604,
+            676,
+            748,
+            820,
+            892
+          ],
+          "barras": [
+            {
+              "etiqueta": "DIC",
+              "valor": 2.9,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "ENE",
+              "valor": 2.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "FEB",
+              "valor": 2.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "MAR",
+              "valor": 3.4,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "ABR",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "MAY",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "JUN",
+              "valor": 3.2,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "JUL",
+              "valor": 3.6,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "AGO",
+              "valor": 4.3,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "SEP",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "OCT",
+              "valor": 4.9,
+              "color": "#F2B134",
+              "en": -1,
+              "dur": 0.05,
+              "dec": 1,
+              "prefijo": "",
+              "sufijo": ""
+            },
+            {
+              "etiqueta": "NOV",
+              "valor": 3,
+              "color": "#F2B134",
+              "en": 0.1,
+              "contorno": false,
+              "altoContorno": 200,
+              "sinValor": true,
+              "dur": 0.4
+            }
+          ],
+          "lineasRef": [
+            {
+              "valor": 3.47,
+              "en": -1,
+              "color": "#B4452A",
+              "etiqueta": "3,47 %"
+            }
+          ],
+          "flecha": {
+            "barra": 11,
+            "hasta": 4.9,
+            "en": 0.5,
+            "dx": 0,
+            "dy0": -20
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 24.17,
+      "fin": 28.51,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "≈ 48 €/MES (3,5 %)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "≈ 67 €/MES (4,9 %)",
+          "y": 520,
+          "en": 1.5,
+          "tamano": 64
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 80,
+          "base": 1100,
+          "hMax": 480,
+          "w": 200,
+          "tamEtiqueta": 64,
+          "vivo": true,
+          "centros": [
+            290,
+            730
+          ],
+          "barras": [
+            {
+              "etiqueta": "3,5 %",
+              "valor": 48,
+              "color": "#14213D",
+              "en": 0.2,
+              "dur": 0.05,
+              "sinValor": true
+            },
+            {
+              "etiqueta": "4,9 %",
+              "valor": 67,
+              "color": "#F2B134",
+              "en": 1.5,
+              "dur": 0.05,
+              "sinValor": true
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Pensión media: 1.376 €",
+            "Cálculo propio"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 28.51,
+      "fin": 31.48,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿MEDIA DE 12 MESES O ÚLTIMO IPC?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 72
+        },
+        {
+          "tipo": "abSerie",
+          "a": "MEDIA 12 M.",
+          "b": "ÚLTIMO IPC",
+          "y": 700,
+          "en": 0.3
+        }
+      ]
+    },
+    {
+      "inicio": 31.48,
+      "fin": 35.67,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿MEDIA DE 12 MESES O ÚLTIMO IPC?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "066-pension-enero-vs-ipc",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Los",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "precios",
+      "inicio": 0.24,
+      "fin": 0.56
+    },
+    {
+      "t": "suben",
+      "inicio": 0.68,
+      "fin": 0.88
+    },
+    {
+      "t": "un",
+      "inicio": 1,
+      "fin": 1.12
+    },
+    {
+      "t": "4,9",
+      "inicio": 1.16,
+      "fin": 1.44
+    },
+    {
+      "t": "%.",
+      "inicio": 1.52,
+      "fin": 2.96
+    },
+    {
+      "t": "Tu",
+      "inicio": 3.04,
+      "fin": 3.12
+    },
+    {
+      "t": "pensión",
+      "inicio": 3.16,
+      "fin": 3.6
+    },
+    {
+      "t": "subiría",
+      "inicio": 3.68,
+      "fin": 4.08
+    },
+    {
+      "t": "un",
+      "inicio": 4.16,
+      "fin": 4.24
+    },
+    {
+      "t": "3,5",
+      "inicio": 4.32,
+      "fin": 4.48
+    },
+    {
+      "t": "%.",
+      "inicio": 4.56,
+      "fin": 6
+    },
+    {
+      "t": "¿Por",
+      "inicio": 6.053,
+      "fin": 6.16
+    },
+    {
+      "t": "qué?",
+      "inicio": 6.28,
+      "fin": 6.64
+    },
+    {
+      "t": "La",
+      "inicio": 6.88,
+      "fin": 6.96
+    },
+    {
+      "t": "ley",
+      "inicio": 7.08,
+      "fin": 7.2
+    },
+    {
+      "t": "usa",
+      "inicio": 7.32,
+      "fin": 7.44
+    },
+    {
+      "t": "la",
+      "inicio": 7.48,
+      "fin": 7.52
+    },
+    {
+      "t": "media",
+      "inicio": 7.6,
+      "fin": 7.84
+    },
+    {
+      "t": "de",
+      "inicio": 7.92,
+      "fin": 8
+    },
+    {
+      "t": "doce",
+      "inicio": 8.08,
+      "fin": 8.24
+    },
+    {
+      "t": "meses,",
+      "inicio": 8.32,
+      "fin": 8.96
+    },
+    {
+      "t": "no",
+      "inicio": 9.04,
+      "fin": 9.12
+    },
+    {
+      "t": "la",
+      "inicio": 9.2,
+      "fin": 9.24
+    },
+    {
+      "t": "inflación",
+      "inicio": 9.28,
+      "fin": 9.76
+    },
+    {
+      "t": "de",
+      "inicio": 9.8,
+      "fin": 9.84
+    },
+    {
+      "t": "hoy.",
+      "inicio": 9.92,
+      "fin": 10.48
+    },
+    {
+      "t": "Se",
+      "inicio": 10.52,
+      "fin": 10.56
+    },
+    {
+      "t": "promedian",
+      "inicio": 10.64,
+      "fin": 11.04
+    },
+    {
+      "t": "las",
+      "inicio": 11.12,
+      "fin": 11.2
+    },
+    {
+      "t": "tasas",
+      "inicio": 11.28,
+      "fin": 11.52
+    },
+    {
+      "t": "anuales",
+      "inicio": 11.6,
+      "fin": 12
+    },
+    {
+      "t": "del",
+      "inicio": 12.08,
+      "fin": 12.16
+    },
+    {
+      "t": "IPC,",
+      "inicio": 12.24,
+      "fin": 12.8
+    },
+    {
+      "t": "de",
+      "inicio": 12.84,
+      "fin": 12.88
+    },
+    {
+      "t": "diciembre",
+      "inicio": 12.96,
+      "fin": 13.44
+    },
+    {
+      "t": "a",
+      "inicio": 13.6,
+      "fin": 13.64
+    },
+    {
+      "t": "noviembre.",
+      "inicio": 13.68,
+      "fin": 14.56
+    },
+    {
+      "t": "Con",
+      "inicio": 14.64,
+      "fin": 14.72
+    },
+    {
+      "t": "once",
+      "inicio": 14.8,
+      "fin": 14.96
+    },
+    {
+      "t": "meses",
+      "inicio": 15.04,
+      "fin": 15.28
+    },
+    {
+      "t": "del",
+      "inicio": 15.36,
+      "fin": 15.44
+    },
+    {
+      "t": "INE,",
+      "inicio": 15.52,
+      "fin": 15.92
+    },
+    {
+      "t": "la",
+      "inicio": 15.96,
+      "fin": 16
+    },
+    {
+      "t": "media",
+      "inicio": 16.08,
+      "fin": 16.32
+    },
+    {
+      "t": "va",
+      "inicio": 16.4,
+      "fin": 16.48
+    },
+    {
+      "t": "en",
+      "inicio": 16.52,
+      "fin": 16.56
+    },
+    {
+      "t": "el",
+      "inicio": 16.64,
+      "fin": 16.8
+    },
+    {
+      "t": "3,5",
+      "inicio": 16.88,
+      "fin": 16.96
+    },
+    {
+      "t": "%.",
+      "inicio": 17.12,
+      "fin": 18.56
+    },
+    {
+      "t": "Falta",
+      "inicio": 18.64,
+      "fin": 18.8
+    },
+    {
+      "t": "noviembre:",
+      "inicio": 18.88,
+      "fin": 19.6
+    },
+    {
+      "t": "el",
+      "inicio": 19.68,
+      "fin": 19.76
+    },
+    {
+      "t": "INE",
+      "inicio": 19.88,
+      "fin": 20
+    },
+    {
+      "t": "lo",
+      "inicio": 20.08,
+      "fin": 20.16
+    },
+    {
+      "t": "publica",
+      "inicio": 20.32,
+      "fin": 20.52
+    },
+    {
+      "t": "el",
+      "inicio": 20.56,
+      "fin": 20.6
+    },
+    {
+      "t": "viernes.",
+      "inicio": 20.64,
+      "fin": 21.52
+    },
+    {
+      "t": "Cálculo",
+      "inicio": 24.27,
+      "fin": 24.62
+    },
+    {
+      "t": "propio:",
+      "inicio": 24.74,
+      "fin": 25.34
+    },
+    {
+      "t": "la",
+      "inicio": 25.38,
+      "fin": 25.42
+    },
+    {
+      "t": "cifra",
+      "inicio": 25.58,
+      "fin": 25.74
+    },
+    {
+      "t": "oficial",
+      "inicio": 25.82,
+      "fin": 26.22
+    },
+    {
+      "t": "llega",
+      "inicio": 26.3,
+      "fin": 26.54
+    },
+    {
+      "t": "en",
+      "inicio": 26.58,
+      "fin": 26.62
+    },
+    {
+      "t": "diciembre.",
+      "inicio": 26.7,
+      "fin": 27.5
+    },
+    {
+      "t": "¿Media",
+      "inicio": 28.61,
+      "fin": 28.82
+    },
+    {
+      "t": "de",
+      "inicio": 28.86,
+      "fin": 28.9
+    },
+    {
+      "t": "doce",
+      "inicio": 28.98,
+      "fin": 29.14
+    },
+    {
+      "t": "meses",
+      "inicio": 29.22,
+      "fin": 29.7
+    },
+    {
+      "t": "o",
+      "inicio": 29.78,
+      "fin": 29.86
+    },
+    {
+      "t": "IPC",
+      "inicio": 29.94,
+      "fin": 30.34
+    },
+    {
+      "t": "del",
+      "inicio": 30.42,
+      "fin": 30.5
+    },
+    {
+      "t": "último",
+      "inicio": 30.58,
+      "fin": 30.9
+    },
+    {
+      "t": "mes?",
+      "inicio": 31.02,
+      "fin": 31.54
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 31.58,
+      "fin": 32.02
+    },
+    {
+      "t": "para",
+      "inicio": 32.1,
+      "fin": 32.26
+    },
+    {
+      "t": "estar",
+      "inicio": 32.38,
+      "fin": 32.5
+    },
+    {
+      "t": "informado.",
+      "inicio": 32.66,
+      "fin": 33.3
+    }
+  ]
+}

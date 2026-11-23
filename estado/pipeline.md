@@ -149,4 +149,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 069 | am20261122-1730-vox-remigracion-jovenes | Al minuto (Abascal, remigración: vuelta de los jóvenes) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-22 18:00 | sin revisores |
 | 070 | am20261123-0730-sanchez-ultrarricos | Al minuto (Sánchez, impuesto a fortunas de más de 100 millones) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-23 08:00 | sin revisores |
 | 066 | pension-enero-vs-ipc | 💶 Economía · Cómo funciona | Flash | video-render | 1 | 1 | 2026-11-24 13:30 | guion CAMBIOS→literales aplicados; vídeo v1 encargado |
-| 067 | dni-digital-29n | ⚙️ Cómo funciona | Flash | video-render | 1 | 0 | 2026-11-24 19:00 | guion APROBADO; vídeo v1 encargado |
+| 067 | dni-digital-29n | ⚙️ Cómo funciona | Flash | programado | 1 | 2 | 2026-11-24 19:00 (cola) | v2 APROBADO 9/10 |

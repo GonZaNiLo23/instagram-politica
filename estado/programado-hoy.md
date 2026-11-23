@@ -54,3 +54,4 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 062-alquiler-irav (v2) | Reel 40 s | Instagram + TikTok (borrador) vía cola | 2026-11-22 12:00 | revisiones/guiones/062-…-v1.md (literales aplicados) · revisiones/videos/062-…-v2.md (9/10). Recomprobar IRAV/IPC el 22-11 |
 | 064-inflacion-espana-eurozona (v1) | Reel 36 s | Instagram + TikTok (borrador) vía cola | 2026-11-23 13:30 | guion APROBADO (literales aplicados) · vídeo 9/10. Recomprobar Eurostat/INE el 23-11 |
 | 065-epa-dos-titulares (v2) | Reel 34 s | Instagram + TikTok (borrador) vía cola | 2026-11-23 19:00 | guion APROBADO (literales aplicados) · vídeo v2 9/10. Recomprobar EPA el 23-11 |
+| 067-dni-digital-29n (v2) | Reel 34 s | Instagram + TikTok () vía cola | 2026-11-24 19:00 | guion APROBADO (literales aplicados) · vídeo v2 9/10. Recomprobar Interior (60.000 terminales, horario) el 24-11 |
