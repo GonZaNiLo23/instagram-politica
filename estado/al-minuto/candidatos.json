@@ -1,521 +1,1244 @@
 {
- "generado": "2026-11-22T20:46:51.272Z",
- "total_detectados": 1,
+ "generado": "2026-11-23T07:30:12.693Z",
+ "total_detectados": 2,
  "candidatos": [
   {
-   "id": "ig-18355600810284659",
+   "id": "ig-18117203984603624",
    "fuente": "instagram",
    "cuenta": "@partidopopular",
    "nombre": "Partido Popular",
    "espacio": "afin",
-   "seguidores": 269673,
-   "fecha": "2026-11-22T20:25:36+0000",
-   "horas": 0.4,
-   "me_gusta": 273,
-   "comentarios": 14,
-   "viral": 223.2,
-   "enlace": "https://www.instagram.com/reel/DgDp9MSt8K-/",
-   "texto": "Hoy Sánchez estará en  Salvados. \n\nPero si hay alguien que puede salvar a España de esto es Feijóo. \n\n#CaraACara26 #FeijóoGana #SánchezMiente",
+   "seguidores": 269929,
+   "fecha": "2026-11-23T06:48:39+0000",
+   "horas": 0.7,
+   "me_gusta": 238,
+   "comentarios": 7,
+   "viral": 134.8,
+   "enlace": "https://www.instagram.com/reel/DgExU1BNJh2/",
+   "texto": "Una semana.\n\n#ElCambioNecesario\n#ElPresidenteNecesario",
    "credito": "Vídeo: @partidopopular",
-   "duracion": 43.3,
-   "archivo": "ig-18355600810284659.mp4",
+   "duracion": 80.4,
+   "archivo": "ig-18117203984603624.mp4",
    "frases": [
     {
      "inicio": 0,
-     "fin": 9.68,
-     "texto": "Hábalos Yeshika Orgías, Coldo Leire Super Santo Cerdán, el hermano, la mujer, el uno,"
+     "fin": 3.36,
+     "texto": "El alto precio de la vivienda coloca a más jóvenes al borde de la pobreza."
     },
     {
-     "inicio": 10.38,
-     "fin": 17.88,
-     "texto": "las cloacas, los rochos, el fiscal general, zapatero, la vivienda, los precios, el infierno"
+     "inicio": 3.56,
+     "fin": 5.18,
+     "texto": "Si aquí es imposible vivir."
     },
     {
-     "inicio": 17.88,
-     "fin": 24.58,
-     "texto": "fiscal, si quieren recursos que los pida, son las cinco y no he comido, el apagón"
+     "inicio": 5.54,
+     "fin": 9.3,
+     "texto": "Es la imagen del descontrol, todo poniendo al límite a la ciudad de Ceuta."
     },
     {
-     "inicio": 24.58,
-     "fin": 30.42,
-     "texto": "ni un solo presupuesto durante toda la legislatura y sobre todo el tren, el ave,"
+     "inicio": 9.88,
+     "fin": 12.8,
+     "texto": "Nueva noche de violencia, de destrozos y de robos."
     },
     {
-     "inicio": 32.44,
-     "fin": 38.38,
-     "texto": "adamuz, toledo, y Ceuta y el hierro y la inseguridad en los barrios. Esto es mucho más de lo que"
+     "inicio": 13.56,
+     "fin": 15.2,
+     "texto": "La corrupción a corral al gobierno."
     },
     {
-     "inicio": 38.38,
-     "fin": 42.9,
-     "texto": "quieren que olvides, pero yo lo que quiero es que no vuelva a pasar."
+     "inicio": 19.69,
+     "fin": 21.23,
+     "texto": "Defender es cuidar."
+    },
+    {
+     "inicio": 22.09,
+     "fin": 26.85,
+     "texto": "Cuidar tu casa, tu familia, tu trabajo, tu calle, tu futuro."
+    },
+    {
+     "inicio": 27.59,
+     "fin": 30.13,
+     "texto": "Defender es proteger lo que hemos construido."
+    },
+    {
+     "inicio": 30.63,
+     "fin": 32.69,
+     "texto": "Es limpiar el lugar donde vivimos."
+    },
+    {
+     "inicio": 33.21,
+     "fin": 35.77,
+     "texto": "Es poner orden donde hay abandono."
+    },
+    {
+     "inicio": 35.77,
+     "fin": 37.29,
+     "texto": "Seguridad donde hay miedo."
+    },
+    {
+     "inicio": 38.17,
+     "fin": 40.13,
+     "texto": "Trabajo donde falta futuro."
+    },
+    {
+     "inicio": 40.89,
+     "fin": 44.43,
+     "texto": "Prosperidad donde demasiado llevan tiempo esperando."
+    },
+    {
+     "inicio": 45.31,
+     "fin": 46.95,
+     "texto": "Ya está bien de resignarse."
+    },
+    {
+     "inicio": 47.25,
+     "fin": 49.65,
+     "texto": "Ya está bien de pensar que nada puede cambiar."
+    },
+    {
+     "inicio": 50.21,
+     "fin": 52.19,
+     "texto": "Hay cosas que merecen la pena proteger."
+    },
+    {
+     "inicio": 52.83,
+     "fin": 55.79,
+     "texto": "Lo tuyo, lo nuestro, lo de todos."
+    },
+    {
+     "inicio": 56.35,
+     "fin": 58.03,
+     "texto": "Proteger nuestra seguridad."
+    },
+    {
+     "inicio": 58.63,
+     "fin": 60.57,
+     "texto": "Proteger nuestras fronteras."
+    },
+    {
+     "inicio": 60.57,
+     "fin": 62.43,
+     "texto": "Proteger nuestros derechos."
+    },
+    {
+     "inicio": 62.67,
+     "fin": 64.85,
+     "texto": "Proteger nuestra forma de vivir."
+    },
+    {
+     "inicio": 65.47,
+     "fin": 66.33,
+     "texto": "Tres palabras."
+    },
+    {
+     "inicio": 66.95,
+     "fin": 67.61,
+     "texto": "Orden."
+    },
+    {
+     "inicio": 67.99,
+     "fin": 68.87,
+     "texto": "Seguridad."
+    },
+    {
+     "inicio": 69.29,
+     "fin": 70.19,
+     "texto": "Prosperidad."
+    },
+    {
+     "inicio": 70.73,
+     "fin": 71.85,
+     "texto": "Y una decisión."
+    },
+    {
+     "inicio": 72.19,
+     "fin": 75.01,
+     "texto": "Servir y defender a España."
     }
    ],
    "palabras": [
     {
-     "t": "Hábalos",
+     "t": "El",
      "inicio": 0,
-     "fin": 0.58
+     "fin": 0.16
     },
     {
-     "t": "Yeshika",
-     "inicio": 0.58,
-     "fin": 1.44
+     "t": "alto",
+     "inicio": 0.16,
+     "fin": 0.34
     },
     {
-     "t": "Orgías,",
-     "inicio": 1.44,
-     "fin": 2.2
-    },
-    {
-     "t": "Coldo",
-     "inicio": 2.68,
-     "fin": 3.88
-    },
-    {
-     "t": "Leire",
-     "inicio": 3.88,
-     "fin": 5.04
-    },
-    {
-     "t": "Super",
-     "inicio": 5.04,
-     "fin": 6.06
-    },
-    {
-     "t": "Santo",
-     "inicio": 6.06,
-     "fin": 6.74
-    },
-    {
-     "t": "Cerdán,",
-     "inicio": 6.74,
-     "fin": 7.28
-    },
-    {
-     "t": "el",
-     "inicio": 7.9,
-     "fin": 7.96
-    },
-    {
-     "t": "hermano,",
-     "inicio": 7.96,
-     "fin": 8.48
-    },
-    {
-     "t": "la",
-     "inicio": 8.6,
-     "fin": 8.68
-    },
-    {
-     "t": "mujer,",
-     "inicio": 8.68,
-     "fin": 8.98
-    },
-    {
-     "t": "el",
-     "inicio": 9.42,
-     "fin": 9.5
-    },
-    {
-     "t": "uno,",
-     "inicio": 9.5,
-     "fin": 9.68
-    },
-    {
-     "t": "las",
-     "inicio": 10.38,
-     "fin": 10.56
-    },
-    {
-     "t": "cloacas,",
-     "inicio": 10.56,
-     "fin": 10.98
-    },
-    {
-     "t": "los",
-     "inicio": 11.52,
-     "fin": 11.62
-    },
-    {
-     "t": "rochos,",
-     "inicio": 11.62,
-     "fin": 11.96
-    },
-    {
-     "t": "el",
-     "inicio": 12.36,
-     "fin": 12.38
-    },
-    {
-     "t": "fiscal",
-     "inicio": 12.38,
-     "fin": 12.64
-    },
-    {
-     "t": "general,",
-     "inicio": 12.64,
-     "fin": 13.04
-    },
-    {
-     "t": "zapatero,",
-     "inicio": 13.62,
-     "fin": 14.48
-    },
-    {
-     "t": "la",
-     "inicio": 15.22,
-     "fin": 15.42
-    },
-    {
-     "t": "vivienda,",
-     "inicio": 15.42,
-     "fin": 15.9
-    },
-    {
-     "t": "los",
-     "inicio": 16.48,
-     "fin": 16.6
-    },
-    {
-     "t": "precios,",
-     "inicio": 16.6,
-     "fin": 17.12
-    },
-    {
-     "t": "el",
-     "inicio": 17.48,
-     "fin": 17.54
-    },
-    {
-     "t": "infierno",
-     "inicio": 17.54,
-     "fin": 17.88
-    },
-    {
-     "t": "fiscal,",
-     "inicio": 17.88,
-     "fin": 18.3
-    },
-    {
-     "t": "si",
-     "inicio": 18.84,
-     "fin": 19.04
-    },
-    {
-     "t": "quieren",
-     "inicio": 19.04,
-     "fin": 19.24
-    },
-    {
-     "t": "recursos",
-     "inicio": 19.24,
-     "fin": 19.62
-    },
-    {
-     "t": "que",
-     "inicio": 19.62,
-     "fin": 20.46
-    },
-    {
-     "t": "los",
-     "inicio": 20.46,
-     "fin": 20.6
-    },
-    {
-     "t": "pida,",
-     "inicio": 20.6,
-     "fin": 20.92
-    },
-    {
-     "t": "son",
-     "inicio": 21.38,
-     "fin": 21.62
-    },
-    {
-     "t": "las",
-     "inicio": 21.62,
-     "fin": 21.8
-    },
-    {
-     "t": "cinco",
-     "inicio": 21.8,
-     "fin": 22.12
-    },
-    {
-     "t": "y",
-     "inicio": 22.12,
-     "fin": 22.7
-    },
-    {
-     "t": "no",
-     "inicio": 22.7,
-     "fin": 22.86
-    },
-    {
-     "t": "he",
-     "inicio": 22.86,
-     "fin": 22.98
-    },
-    {
-     "t": "comido,",
-     "inicio": 22.98,
-     "fin": 23.26
-    },
-    {
-     "t": "el",
-     "inicio": 23.94,
-     "fin": 24.14
-    },
-    {
-     "t": "apagón",
-     "inicio": 24.14,
-     "fin": 24.58
-    },
-    {
-     "t": "ni",
-     "inicio": 24.58,
-     "fin": 24.8
-    },
-    {
-     "t": "un",
-     "inicio": 24.8,
-     "fin": 24.9
-    },
-    {
-     "t": "solo",
-     "inicio": 24.9,
-     "fin": 25.08
-    },
-    {
-     "t": "presupuesto",
-     "inicio": 25.08,
-     "fin": 25.68
-    },
-    {
-     "t": "durante",
-     "inicio": 25.68,
-     "fin": 25.98
-    },
-    {
-     "t": "toda",
-     "inicio": 25.98,
-     "fin": 26.34
-    },
-    {
-     "t": "la",
-     "inicio": 26.34,
-     "fin": 26.56
-    },
-    {
-     "t": "legislatura",
-     "inicio": 26.56,
-     "fin": 27.14
-    },
-    {
-     "t": "y",
-     "inicio": 27.14,
-     "fin": 27.8
-    },
-    {
-     "t": "sobre",
-     "inicio": 27.8,
-     "fin": 27.98
-    },
-    {
-     "t": "todo",
-     "inicio": 27.98,
-     "fin": 28.3
-    },
-    {
-     "t": "el",
-     "inicio": 28.3,
-     "fin": 28.82
-    },
-    {
-     "t": "tren,",
-     "inicio": 28.82,
-     "fin": 29.14
-    },
-    {
-     "t": "el",
-     "inicio": 29.72,
-     "fin": 30.24
-    },
-    {
-     "t": "ave,",
-     "inicio": 30.24,
-     "fin": 30.42
-    },
-    {
-     "t": "adamuz,",
-     "inicio": 32.44,
-     "fin": 32.9
-    },
-    {
-     "t": "toledo,",
-     "inicio": 32.9,
-     "fin": 33.36
-    },
-    {
-     "t": "y",
-     "inicio": 33.6,
-     "fin": 33.68
-    },
-    {
-     "t": "Ceuta",
-     "inicio": 33.68,
-     "fin": 34.08
-    },
-    {
-     "t": "y",
-     "inicio": 34.08,
-     "fin": 34.78
-    },
-    {
-     "t": "el",
-     "inicio": 34.78,
-     "fin": 34.9
-    },
-    {
-     "t": "hierro",
-     "inicio": 34.9,
-     "fin": 35.32
-    },
-    {
-     "t": "y",
-     "inicio": 35.32,
-     "fin": 35.76
-    },
-    {
-     "t": "la",
-     "inicio": 35.76,
-     "fin": 35.92
-    },
-    {
-     "t": "inseguridad",
-     "inicio": 35.92,
-     "fin": 36.52
-    },
-    {
-     "t": "en",
-     "inicio": 36.52,
-     "fin": 36.74
-    },
-    {
-     "t": "los",
-     "inicio": 36.74,
-     "fin": 36.88
-    },
-    {
-     "t": "barrios.",
-     "inicio": 36.88,
-     "fin": 37.26
-    },
-    {
-     "t": "Esto",
-     "inicio": 37.4,
-     "fin": 37.56
-    },
-    {
-     "t": "es",
-     "inicio": 37.56,
-     "fin": 37.68
-    },
-    {
-     "t": "mucho",
-     "inicio": 37.68,
-     "fin": 37.86
-    },
-    {
-     "t": "más",
-     "inicio": 37.86,
-     "fin": 38.06
+     "t": "precio",
+     "inicio": 0.34,
+     "fin": 0.66
     },
     {
      "t": "de",
-     "inicio": 38.06,
-     "fin": 38.18
+     "inicio": 0.66,
+     "fin": 0.78
     },
     {
-     "t": "lo",
-     "inicio": 38.18,
-     "fin": 38.26
+     "t": "la",
+     "inicio": 0.78,
+     "fin": 0.88
     },
     {
-     "t": "que",
-     "inicio": 38.26,
-     "fin": 38.38
+     "t": "vivienda",
+     "inicio": 0.88,
+     "fin": 1.2
     },
     {
-     "t": "quieren",
-     "inicio": 38.38,
-     "fin": 38.68
-    },
-    {
-     "t": "que",
-     "inicio": 38.68,
-     "fin": 39.54
-    },
-    {
-     "t": "olvides,",
-     "inicio": 39.54,
-     "fin": 40.22
-    },
-    {
-     "t": "pero",
-     "inicio": 40.5,
-     "fin": 40.72
-    },
-    {
-     "t": "yo",
-     "inicio": 40.72,
-     "fin": 41.34
-    },
-    {
-     "t": "lo",
-     "inicio": 41.34,
-     "fin": 41.86
-    },
-    {
-     "t": "que",
-     "inicio": 41.86,
-     "fin": 41.98
-    },
-    {
-     "t": "quiero",
-     "inicio": 41.98,
-     "fin": 42.16
-    },
-    {
-     "t": "es",
-     "inicio": 42.16,
-     "fin": 42.24
-    },
-    {
-     "t": "que",
-     "inicio": 42.24,
-     "fin": 42.32
-    },
-    {
-     "t": "no",
-     "inicio": 42.32,
-     "fin": 42.44
-    },
-    {
-     "t": "vuelva",
-     "inicio": 42.44,
-     "fin": 42.66
+     "t": "coloca",
+     "inicio": 1.2,
+     "fin": 1.5
     },
     {
      "t": "a",
-     "inicio": 42.66,
-     "fin": 42.72
+     "inicio": 1.5,
+     "fin": 1.7
     },
     {
-     "t": "pasar.",
-     "inicio": 42.72,
-     "fin": 42.9
+     "t": "más",
+     "inicio": 1.7,
+     "fin": 1.86
+    },
+    {
+     "t": "jóvenes",
+     "inicio": 1.86,
+     "fin": 2.12
+    },
+    {
+     "t": "al",
+     "inicio": 2.12,
+     "fin": 2.38
+    },
+    {
+     "t": "borde",
+     "inicio": 2.38,
+     "fin": 2.62
+    },
+    {
+     "t": "de",
+     "inicio": 2.62,
+     "fin": 2.8
+    },
+    {
+     "t": "la",
+     "inicio": 2.8,
+     "fin": 2.9
+    },
+    {
+     "t": "pobreza.",
+     "inicio": 2.9,
+     "fin": 3.36
+    },
+    {
+     "t": "Si",
+     "inicio": 3.56,
+     "fin": 4.12
+    },
+    {
+     "t": "aquí",
+     "inicio": 4.12,
+     "fin": 4.28
+    },
+    {
+     "t": "es",
+     "inicio": 4.28,
+     "fin": 4.48
+    },
+    {
+     "t": "imposible",
+     "inicio": 4.48,
+     "fin": 4.88
+    },
+    {
+     "t": "vivir.",
+     "inicio": 4.88,
+     "fin": 5.18
+    },
+    {
+     "t": "Es",
+     "inicio": 5.54,
+     "fin": 5.7
+    },
+    {
+     "t": "la",
+     "inicio": 5.7,
+     "fin": 5.84
+    },
+    {
+     "t": "imagen",
+     "inicio": 5.84,
+     "fin": 6.14
+    },
+    {
+     "t": "del",
+     "inicio": 6.14,
+     "fin": 6.34
+    },
+    {
+     "t": "descontrol,",
+     "inicio": 6.34,
+     "fin": 6.86
+    },
+    {
+     "t": "todo",
+     "inicio": 7.34,
+     "fin": 7.56
+    },
+    {
+     "t": "poniendo",
+     "inicio": 7.56,
+     "fin": 8.02
+    },
+    {
+     "t": "al",
+     "inicio": 8.02,
+     "fin": 8.2
+    },
+    {
+     "t": "límite",
+     "inicio": 8.2,
+     "fin": 8.48
+    },
+    {
+     "t": "a",
+     "inicio": 8.48,
+     "fin": 8.58
+    },
+    {
+     "t": "la",
+     "inicio": 8.58,
+     "fin": 8.64
+    },
+    {
+     "t": "ciudad",
+     "inicio": 8.64,
+     "fin": 8.84
+    },
+    {
+     "t": "de",
+     "inicio": 8.84,
+     "fin": 9.06
+    },
+    {
+     "t": "Ceuta.",
+     "inicio": 9.06,
+     "fin": 9.3
+    },
+    {
+     "t": "Nueva",
+     "inicio": 9.88,
+     "fin": 10.28
+    },
+    {
+     "t": "noche",
+     "inicio": 10.28,
+     "fin": 10.48
+    },
+    {
+     "t": "de",
+     "inicio": 10.48,
+     "fin": 10.7
+    },
+    {
+     "t": "violencia,",
+     "inicio": 10.7,
+     "fin": 11.2
+    },
+    {
+     "t": "de",
+     "inicio": 11.42,
+     "fin": 11.46
+    },
+    {
+     "t": "destrozos",
+     "inicio": 11.46,
+     "fin": 12
+    },
+    {
+     "t": "y",
+     "inicio": 12,
+     "fin": 12.32
+    },
+    {
+     "t": "de",
+     "inicio": 12.32,
+     "fin": 12.46
+    },
+    {
+     "t": "robos.",
+     "inicio": 12.46,
+     "fin": 12.8
+    },
+    {
+     "t": "La",
+     "inicio": 13.56,
+     "fin": 13.84
+    },
+    {
+     "t": "corrupción",
+     "inicio": 13.84,
+     "fin": 14.32
+    },
+    {
+     "t": "a",
+     "inicio": 14.32,
+     "fin": 14.5
+    },
+    {
+     "t": "corral",
+     "inicio": 14.5,
+     "fin": 14.78
+    },
+    {
+     "t": "al",
+     "inicio": 14.78,
+     "fin": 14.94
+    },
+    {
+     "t": "gobierno.",
+     "inicio": 14.94,
+     "fin": 15.2
+    },
+    {
+     "t": "Defender",
+     "inicio": 19.69,
+     "fin": 20.13
+    },
+    {
+     "t": "es",
+     "inicio": 20.13,
+     "fin": 20.77
+    },
+    {
+     "t": "cuidar.",
+     "inicio": 20.77,
+     "fin": 21.23
+    },
+    {
+     "t": "Cuidar",
+     "inicio": 22.09,
+     "fin": 22.35
+    },
+    {
+     "t": "tu",
+     "inicio": 22.35,
+     "fin": 22.53
+    },
+    {
+     "t": "casa,",
+     "inicio": 22.53,
+     "fin": 22.83
+    },
+    {
+     "t": "tu",
+     "inicio": 23.53,
+     "fin": 23.69
+    },
+    {
+     "t": "familia,",
+     "inicio": 23.69,
+     "fin": 24.09
+    },
+    {
+     "t": "tu",
+     "inicio": 24.73,
+     "fin": 24.81
+    },
+    {
+     "t": "trabajo,",
+     "inicio": 24.81,
+     "fin": 25.21
+    },
+    {
+     "t": "tu",
+     "inicio": 25.57,
+     "fin": 25.65
+    },
+    {
+     "t": "calle,",
+     "inicio": 25.65,
+     "fin": 25.93
+    },
+    {
+     "t": "tu",
+     "inicio": 26.43,
+     "fin": 26.51
+    },
+    {
+     "t": "futuro.",
+     "inicio": 26.51,
+     "fin": 26.85
+    },
+    {
+     "t": "Defender",
+     "inicio": 27.59,
+     "fin": 27.87
+    },
+    {
+     "t": "es",
+     "inicio": 27.87,
+     "fin": 28.03
+    },
+    {
+     "t": "proteger",
+     "inicio": 28.03,
+     "fin": 28.43
+    },
+    {
+     "t": "lo",
+     "inicio": 28.43,
+     "fin": 28.67
+    },
+    {
+     "t": "que",
+     "inicio": 28.67,
+     "fin": 28.87
+    },
+    {
+     "t": "hemos",
+     "inicio": 28.87,
+     "fin": 29.23
+    },
+    {
+     "t": "construido.",
+     "inicio": 29.23,
+     "fin": 30.13
+    },
+    {
+     "t": "Es",
+     "inicio": 30.63,
+     "fin": 30.95
+    },
+    {
+     "t": "limpiar",
+     "inicio": 30.95,
+     "fin": 31.45
+    },
+    {
+     "t": "el",
+     "inicio": 31.45,
+     "fin": 31.67
+    },
+    {
+     "t": "lugar",
+     "inicio": 31.67,
+     "fin": 31.87
+    },
+    {
+     "t": "donde",
+     "inicio": 31.87,
+     "fin": 32.23
+    },
+    {
+     "t": "vivimos.",
+     "inicio": 32.23,
+     "fin": 32.69
+    },
+    {
+     "t": "Es",
+     "inicio": 33.21,
+     "fin": 33.59
+    },
+    {
+     "t": "poner",
+     "inicio": 33.59,
+     "fin": 33.93
+    },
+    {
+     "t": "orden",
+     "inicio": 33.93,
+     "fin": 34.31
+    },
+    {
+     "t": "donde",
+     "inicio": 34.31,
+     "fin": 34.59
+    },
+    {
+     "t": "hay",
+     "inicio": 34.59,
+     "fin": 34.91
+    },
+    {
+     "t": "abandono.",
+     "inicio": 34.91,
+     "fin": 35.77
+    },
+    {
+     "t": "Seguridad",
+     "inicio": 35.77,
+     "fin": 36.53
+    },
+    {
+     "t": "donde",
+     "inicio": 36.53,
+     "fin": 36.79
+    },
+    {
+     "t": "hay",
+     "inicio": 36.79,
+     "fin": 36.91
+    },
+    {
+     "t": "miedo.",
+     "inicio": 36.91,
+     "fin": 37.29
+    },
+    {
+     "t": "Trabajo",
+     "inicio": 38.17,
+     "fin": 38.69
+    },
+    {
+     "t": "donde",
+     "inicio": 38.69,
+     "fin": 39.29
+    },
+    {
+     "t": "falta",
+     "inicio": 39.29,
+     "fin": 39.67
+    },
+    {
+     "t": "futuro.",
+     "inicio": 39.67,
+     "fin": 40.13
+    },
+    {
+     "t": "Prosperidad",
+     "inicio": 40.89,
+     "fin": 41.49
+    },
+    {
+     "t": "donde",
+     "inicio": 41.49,
+     "fin": 41.79
+    },
+    {
+     "t": "demasiado",
+     "inicio": 41.79,
+     "fin": 42.57
+    },
+    {
+     "t": "llevan",
+     "inicio": 42.57,
+     "fin": 43.21
+    },
+    {
+     "t": "tiempo",
+     "inicio": 43.21,
+     "fin": 43.73
+    },
+    {
+     "t": "esperando.",
+     "inicio": 43.73,
+     "fin": 44.43
+    },
+    {
+     "t": "Ya",
+     "inicio": 45.31,
+     "fin": 45.63
+    },
+    {
+     "t": "está",
+     "inicio": 45.63,
+     "fin": 45.93
+    },
+    {
+     "t": "bien",
+     "inicio": 45.93,
+     "fin": 46.17
+    },
+    {
+     "t": "de",
+     "inicio": 46.17,
+     "fin": 46.35
+    },
+    {
+     "t": "resignarse.",
+     "inicio": 46.35,
+     "fin": 46.95
+    },
+    {
+     "t": "Ya",
+     "inicio": 47.25,
+     "fin": 47.35
+    },
+    {
+     "t": "está",
+     "inicio": 47.35,
+     "fin": 47.55
+    },
+    {
+     "t": "bien",
+     "inicio": 47.55,
+     "fin": 47.77
+    },
+    {
+     "t": "de",
+     "inicio": 47.77,
+     "fin": 47.97
+    },
+    {
+     "t": "pensar",
+     "inicio": 47.97,
+     "fin": 48.35
+    },
+    {
+     "t": "que",
+     "inicio": 48.35,
+     "fin": 48.63
+    },
+    {
+     "t": "nada",
+     "inicio": 48.63,
+     "fin": 48.87
+    },
+    {
+     "t": "puede",
+     "inicio": 48.87,
+     "fin": 49.21
+    },
+    {
+     "t": "cambiar.",
+     "inicio": 49.21,
+     "fin": 49.65
+    },
+    {
+     "t": "Hay",
+     "inicio": 50.21,
+     "fin": 50.37
+    },
+    {
+     "t": "cosas",
+     "inicio": 50.37,
+     "fin": 50.67
+    },
+    {
+     "t": "que",
+     "inicio": 50.67,
+     "fin": 50.93
+    },
+    {
+     "t": "merecen",
+     "inicio": 50.93,
+     "fin": 51.29
+    },
+    {
+     "t": "la",
+     "inicio": 51.29,
+     "fin": 51.45
+    },
+    {
+     "t": "pena",
+     "inicio": 51.45,
+     "fin": 51.65
+    },
+    {
+     "t": "proteger.",
+     "inicio": 51.65,
+     "fin": 52.19
+    },
+    {
+     "t": "Lo",
+     "inicio": 52.83,
+     "fin": 53.11
+    },
+    {
+     "t": "tuyo,",
+     "inicio": 53.11,
+     "fin": 53.61
+    },
+    {
+     "t": "lo",
+     "inicio": 54.09,
+     "fin": 54.25
+    },
+    {
+     "t": "nuestro,",
+     "inicio": 54.25,
+     "fin": 54.65
+    },
+    {
+     "t": "lo",
+     "inicio": 55.17,
+     "fin": 55.37
+    },
+    {
+     "t": "de",
+     "inicio": 55.37,
+     "fin": 55.53
+    },
+    {
+     "t": "todos.",
+     "inicio": 55.53,
+     "fin": 55.79
+    },
+    {
+     "t": "Proteger",
+     "inicio": 56.35,
+     "fin": 56.87
+    },
+    {
+     "t": "nuestra",
+     "inicio": 56.87,
+     "fin": 57.25
+    },
+    {
+     "t": "seguridad.",
+     "inicio": 57.25,
+     "fin": 58.03
+    },
+    {
+     "t": "Proteger",
+     "inicio": 58.63,
+     "fin": 59.17
+    },
+    {
+     "t": "nuestras",
+     "inicio": 59.17,
+     "fin": 59.75
+    },
+    {
+     "t": "fronteras.",
+     "inicio": 59.75,
+     "fin": 60.57
+    },
+    {
+     "t": "Proteger",
+     "inicio": 60.57,
+     "fin": 61.43
+    },
+    {
+     "t": "nuestros",
+     "inicio": 61.43,
+     "fin": 61.69
+    },
+    {
+     "t": "derechos.",
+     "inicio": 61.69,
+     "fin": 62.43
+    },
+    {
+     "t": "Proteger",
+     "inicio": 62.67,
+     "fin": 63.51
+    },
+    {
+     "t": "nuestra",
+     "inicio": 63.51,
+     "fin": 63.79
+    },
+    {
+     "t": "forma",
+     "inicio": 63.79,
+     "fin": 64.39
+    },
+    {
+     "t": "de",
+     "inicio": 64.39,
+     "fin": 64.61
+    },
+    {
+     "t": "vivir.",
+     "inicio": 64.61,
+     "fin": 64.85
+    },
+    {
+     "t": "Tres",
+     "inicio": 65.47,
+     "fin": 65.81
+    },
+    {
+     "t": "palabras.",
+     "inicio": 65.81,
+     "fin": 66.33
+    },
+    {
+     "t": "Orden.",
+     "inicio": 66.95,
+     "fin": 67.61
+    },
+    {
+     "t": "Seguridad.",
+     "inicio": 67.99,
+     "fin": 68.87
+    },
+    {
+     "t": "Prosperidad.",
+     "inicio": 69.29,
+     "fin": 70.19
+    },
+    {
+     "t": "Y",
+     "inicio": 70.73,
+     "fin": 70.75
+    },
+    {
+     "t": "una",
+     "inicio": 70.75,
+     "fin": 70.99
+    },
+    {
+     "t": "decisión.",
+     "inicio": 70.99,
+     "fin": 71.85
+    },
+    {
+     "t": "Servir",
+     "inicio": 72.19,
+     "fin": 73.05
+    },
+    {
+     "t": "y",
+     "inicio": 73.05,
+     "fin": 73.43
+    },
+    {
+     "t": "defender",
+     "inicio": 73.43,
+     "fin": 74.01
+    },
+    {
+     "t": "a",
+     "inicio": 74.01,
+     "fin": 74.53
+    },
+    {
+     "t": "España.",
+     "inicio": 74.53,
+     "fin": 75.01
+    }
+   ],
+   "habla": true
+  },
+  {
+   "id": "ig-18135841411760066",
+   "fuente": "instagram",
+   "cuenta": "@sanchezcastejon",
+   "nombre": "Pedro Sánchez",
+   "espacio": "otros",
+   "seguidores": 2390035,
+   "fecha": "2026-11-23T07:25:41+0000",
+   "horas": 0.1,
+   "me_gusta": 491,
+   "comentarios": 47,
+   "viral": 49,
+   "enlace": "https://www.instagram.com/reel/DgE1oEOgR7i/",
+   "texto": "Aunque hemos reducido la desigualdad de renta a mínimos históricos, el 0,1% más rico concentra más del 10% de la riqueza. Y su peso no deja de crecer desde 2010.\n\nProponemos un impuesto a las fortunas de más de 100 millones de euros para financiar, por ejemplo, una prestación por crianza, vivienda y mejores servicios públicos.\n\nQue los millones también se traduzcan en derechos.\n#LaFuerzaDeLaGente #VotaPSOE",
+   "credito": "Vídeo: @sanchezcastejon",
+   "duracion": 37.3,
+   "archivo": "ig-18135841411760066.mp4",
+   "frases": [
+    {
+     "inicio": 2.86,
+     "fin": 7.74,
+     "texto": "Si sale cara, paga los ultrarricos y si sale cruz, pagan también."
+    },
+    {
+     "inicio": 8.14,
+     "fin": 10.94,
+     "texto": "¿Y para qué vamos a utilizar este nuevo impuesto a los ultrarricos?"
+    },
+    {
+     "inicio": 11.6,
+     "fin": 16.04,
+     "texto": "Bueno, pues para la promoción de vivienda protegida, para blindar las pensiones"
+    },
+    {
+     "inicio": 16.04,
+     "fin": 22.4,
+     "texto": "y también para crear una prestación por crianza de hijo que va a beneficiar a millones de personas, entre otras cosas."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "Si",
+     "inicio": 2.86,
+     "fin": 3.36
+    },
+    {
+     "t": "sale",
+     "inicio": 3.36,
+     "fin": 3.56
+    },
+    {
+     "t": "cara,",
+     "inicio": 3.56,
+     "fin": 3.82
+    },
+    {
+     "t": "paga",
+     "inicio": 4.28,
+     "fin": 4.58
+    },
+    {
+     "t": "los",
+     "inicio": 4.58,
+     "fin": 4.7
+    },
+    {
+     "t": "ultrarricos",
+     "inicio": 4.7,
+     "fin": 5.26
+    },
+    {
+     "t": "y",
+     "inicio": 5.26,
+     "fin": 5.72
+    },
+    {
+     "t": "si",
+     "inicio": 5.72,
+     "fin": 5.84
+    },
+    {
+     "t": "sale",
+     "inicio": 5.84,
+     "fin": 6.06
+    },
+    {
+     "t": "cruz,",
+     "inicio": 6.06,
+     "fin": 6.68
+    },
+    {
+     "t": "pagan",
+     "inicio": 7.04,
+     "fin": 7.36
+    },
+    {
+     "t": "también.",
+     "inicio": 7.36,
+     "fin": 7.74
+    },
+    {
+     "t": "¿Y",
+     "inicio": 8.14,
+     "fin": 8.2
+    },
+    {
+     "t": "para",
+     "inicio": 8.2,
+     "fin": 8.34
+    },
+    {
+     "t": "qué",
+     "inicio": 8.34,
+     "fin": 8.48
+    },
+    {
+     "t": "vamos",
+     "inicio": 8.48,
+     "fin": 8.66
+    },
+    {
+     "t": "a",
+     "inicio": 8.66,
+     "fin": 8.82
+    },
+    {
+     "t": "utilizar",
+     "inicio": 8.82,
+     "fin": 9.14
+    },
+    {
+     "t": "este",
+     "inicio": 9.14,
+     "fin": 9.52
+    },
+    {
+     "t": "nuevo",
+     "inicio": 9.52,
+     "fin": 9.72
+    },
+    {
+     "t": "impuesto",
+     "inicio": 9.72,
+     "fin": 10.18
+    },
+    {
+     "t": "a",
+     "inicio": 10.18,
+     "fin": 10.28
+    },
+    {
+     "t": "los",
+     "inicio": 10.28,
+     "fin": 10.36
+    },
+    {
+     "t": "ultrarricos?",
+     "inicio": 10.36,
+     "fin": 10.94
+    },
+    {
+     "t": "Bueno,",
+     "inicio": 11.6,
+     "fin": 11.7
+    },
+    {
+     "t": "pues",
+     "inicio": 11.9,
+     "fin": 11.9
+    },
+    {
+     "t": "para",
+     "inicio": 11.9,
+     "fin": 12.08
+    },
+    {
+     "t": "la",
+     "inicio": 12.08,
+     "fin": 12.24
+    },
+    {
+     "t": "promoción",
+     "inicio": 12.24,
+     "fin": 12.68
+    },
+    {
+     "t": "de",
+     "inicio": 12.68,
+     "fin": 12.82
+    },
+    {
+     "t": "vivienda",
+     "inicio": 12.82,
+     "fin": 13.08
+    },
+    {
+     "t": "protegida,",
+     "inicio": 13.08,
+     "fin": 13.7
+    },
+    {
+     "t": "para",
+     "inicio": 14.18,
+     "fin": 14.18
+    },
+    {
+     "t": "blindar",
+     "inicio": 14.18,
+     "fin": 14.64
+    },
+    {
+     "t": "las",
+     "inicio": 14.64,
+     "fin": 14.78
+    },
+    {
+     "t": "pensiones",
+     "inicio": 14.78,
+     "fin": 16.04
+    },
+    {
+     "t": "y",
+     "inicio": 16.04,
+     "fin": 16.12
+    },
+    {
+     "t": "también",
+     "inicio": 16.12,
+     "fin": 16.42
+    },
+    {
+     "t": "para",
+     "inicio": 16.42,
+     "fin": 16.66
+    },
+    {
+     "t": "crear",
+     "inicio": 16.66,
+     "fin": 16.9
+    },
+    {
+     "t": "una",
+     "inicio": 16.9,
+     "fin": 17.08
+    },
+    {
+     "t": "prestación",
+     "inicio": 17.08,
+     "fin": 17.7
+    },
+    {
+     "t": "por",
+     "inicio": 17.7,
+     "fin": 18.28
+    },
+    {
+     "t": "crianza",
+     "inicio": 18.28,
+     "fin": 18.74
+    },
+    {
+     "t": "de",
+     "inicio": 18.74,
+     "fin": 18.9
+    },
+    {
+     "t": "hijo",
+     "inicio": 18.9,
+     "fin": 19.16
+    },
+    {
+     "t": "que",
+     "inicio": 19.16,
+     "fin": 19.64
+    },
+    {
+     "t": "va",
+     "inicio": 19.64,
+     "fin": 19.74
+    },
+    {
+     "t": "a",
+     "inicio": 19.74,
+     "fin": 19.82
+    },
+    {
+     "t": "beneficiar",
+     "inicio": 19.82,
+     "fin": 20.3
+    },
+    {
+     "t": "a",
+     "inicio": 20.3,
+     "fin": 20.52
+    },
+    {
+     "t": "millones",
+     "inicio": 20.52,
+     "fin": 20.74
+    },
+    {
+     "t": "de",
+     "inicio": 20.74,
+     "fin": 20.92
+    },
+    {
+     "t": "personas,",
+     "inicio": 20.92,
+     "fin": 21.34
+    },
+    {
+     "t": "entre",
+     "inicio": 21.7,
+     "fin": 21.92
+    },
+    {
+     "t": "otras",
+     "inicio": 21.92,
+     "fin": 22.12
+    },
+    {
+     "t": "cosas.",
+     "inicio": 22.12,
+     "fin": 22.4
     }
    ],
    "habla": true
