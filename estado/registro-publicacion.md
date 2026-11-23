@@ -187,3 +187,5 @@
 - 2026-11-23T16:00:47.659Z · am20261123-1530-vox-querellas-consulados: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-23T18:00:54.576Z · 065-epa-dos-titulares v2: PUBLICADA en Instagram https://www.instagram.com/reel/DgF-WhKCo6x/
 - 2026-11-23T18:00:58.016Z · 065-epa-dos-titulares: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-23T20:00:48.063Z · am20261123-1930-vox-palencia v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgGMEzvAi8R/
+- 2026-11-23T20:00:51.284Z · am20261123-1930-vox-palencia: TikTok en la bandeja de borradores (falta publicarlo desde la app)
