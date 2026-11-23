@@ -1,0 +1,116 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 22.4,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 18.9,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.04
+          ],
+          "dur": 18.9,
+          "fundidoFin": 18.9
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "VOX ANUNCIA QUERELLAS POR URNAS EN CONSULADOS",
+          "fecha": "23 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 1.6,
+              "texto": "de aquellos a los que el Supremo"
+            },
+            {
+              "inicio": 1.6,
+              "fin": 2.9,
+              "texto": "le ha dicho ya al Gobierno"
+            },
+            {
+              "inicio": 2.9,
+              "fin": 3.8,
+              "texto": "que no pueden votar,"
+            },
+            {
+              "inicio": 3.8,
+              "fin": 5.9,
+              "texto": "el Gobierno va a colocar una urna"
+            },
+            {
+              "inicio": 5.9,
+              "fin": 7.7,
+              "texto": "en los consulados, según hemos sabido,"
+            },
+            {
+              "inicio": 7.7,
+              "fin": 8.95,
+              "texto": "para que puedan votar,"
+            },
+            {
+              "inicio": 8.95,
+              "fin": 10.3,
+              "texto": "nosotros, como pensamos que es una"
+            },
+            {
+              "inicio": 10.3,
+              "fin": 11.55,
+              "texto": "ilegalidad absoluta y una"
+            },
+            {
+              "inicio": 11.55,
+              "fin": 13.4,
+              "texto": "desobediencia al Tribunal Supremo,"
+            },
+            {
+              "inicio": 13.4,
+              "fin": 16.1,
+              "texto": "hemos anunciado precisamente estos días atrás"
+            },
+            {
+              "inicio": 16.1,
+              "fin": 17.4,
+              "texto": "la interposición de querellas"
+            },
+            {
+              "inicio": 17.4,
+              "fin": 18.9,
+              "texto": "contra el ministro de Exteriores,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 18.9,
+      "fin": 22.4,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Vox anuncia querellas por el voto en consulados",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261123-1530-vox-querellas-consulados",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
