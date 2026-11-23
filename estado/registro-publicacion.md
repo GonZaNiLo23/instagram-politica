@@ -180,3 +180,5 @@
 - 2026-11-22T18:01:44.324Z · am20261122-1730-vox-remigracion-jovenes: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-23T08:00:44.949Z · am20261123-0730-sanchez-ultrarricos v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgE5rGDiqMx/
 - 2026-11-23T08:00:47.282Z · am20261123-0730-sanchez-ultrarricos: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-23T10:00:47.456Z · am20261123-0930-ayuso-neutralidad v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgFHaUaCqLp/
+- 2026-11-23T10:00:48.814Z · am20261123-0930-ayuso-neutralidad: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
