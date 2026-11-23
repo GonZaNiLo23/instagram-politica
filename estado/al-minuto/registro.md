@@ -376,3 +376,4 @@
 - 2026-11-23 15:30 UTC · 3 · @santi_abascal (Sánchez intimida, 217,7 s) · descartado: mismo clip largo, sin tramo limpio; un envío por hora; viral 99,5
 - 2026-11-23 15:30 UTC · 2 · @vox_es (preguntas a Sánchez, «cloacas», 217,7 s) · descartado: acusaciones sin prueba; viral 242,8
 - 2026-11-23 15:30 UTC · 1 · @vox_es (gracias Segovia, 15,7 s / 7,3 s) · descartado: sin contenido informativo
+- 2026-11-23 17:30 UTC (publicación 18:00 Madrid): sin candidatos (radar devolvió 0 detectados); sin publicación.
