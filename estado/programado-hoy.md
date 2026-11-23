@@ -55,3 +55,4 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 064-inflacion-espana-eurozona (v1) | Reel 36 s | Instagram + TikTok (borrador) vía cola | 2026-11-23 13:30 | guion APROBADO (literales aplicados) · vídeo 9/10. Recomprobar Eurostat/INE el 23-11 |
 | 065-epa-dos-titulares (v2) | Reel 34 s | Instagram + TikTok (borrador) vía cola | 2026-11-23 19:00 | guion APROBADO (literales aplicados) · vídeo v2 9/10. Recomprobar EPA el 23-11 |
 | 067-dni-digital-29n (v2) | Reel 34 s | Instagram + TikTok () vía cola | 2026-11-24 19:00 | guion APROBADO (literales aplicados) · vídeo v2 9/10. Recomprobar Interior (60.000 terminales, horario) el 24-11 |
+| 066-pension-enero-vs-ipc (v2) | Reel 36 s | Instagram + TikTok () vía cola | 2026-11-24 13:30 | revisiones/guiones/066-…-v1.md (literales aplicados) · revisiones/videos/066-…-v2.md (9/10). Cálculo propio: si el INE publica el avance de noviembre (27-11) antes, recalcular |

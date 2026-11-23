@@ -299,7 +299,7 @@ export const BarrasVSerie: React.FC<{
           </g>
         );
       })}
-      {[...(lineaRef ? [lineaRef] : []), ...(lineasRef ?? [])].map((lr, li) => { const e = ease(t, lr.en, lr.en + 0.5); const y = base - alto(lr.valor); return <g key={li}><line x1={SEGURA.izq} y1={y} x2={SEGURA.izq + (SEGURA.ancho) * e} y2={y} stroke={lr.color ?? C.teja} strokeWidth={6} strokeDasharray="18 12" />{lr.etiqueta && e > 0.9 ? <text x={SEGURA.izq + 6} y={y - 14} fontFamily={F.cifra} fontWeight={700} fontSize={44} fill={lr.color ?? C.teja}>{lr.etiqueta}</text> : null}</g>; })}
+      {[...(lineaRef ? [lineaRef] : []), ...(lineasRef ?? [])].map((lr, li) => { const e = ease(t, lr.en, lr.en + 0.5); const y = base - alto(lr.valor); return <g key={li}><line x1={SEGURA.izq} y1={y} x2={SEGURA.izq + (SEGURA.ancho) * e} y2={y} stroke={lr.color ?? C.teja} strokeWidth={6} strokeDasharray="18 12" />{lr.etiqueta && e > 0.9 ? <text x={SEGURA.izq + 40} y={y - 14} fontFamily={F.cifra} fontWeight={700} fontSize={38} fill={lr.color ?? C.teja}>{lr.etiqueta}</text> : null}</g>; })}
       {flecha ? (() => {
         const e = ease(t, flecha.en, flecha.en + 0.6);
         const b = barras[flecha.barra];

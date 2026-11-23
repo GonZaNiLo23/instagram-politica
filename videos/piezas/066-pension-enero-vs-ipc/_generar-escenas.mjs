@@ -27,7 +27,7 @@ const G = (extra) => ({tipo: 'barrasVSerie', max: 6, base: 1100, hMax: 360, w: 2
 const TASAS = [2.9, 2.3, 2.3, 3.4, 3.2, 3.2, 3.2, 3.6, 4.3, 4.9, 4.9];
 const CEN = Array.from({length: 12}, (_, i) => 100 + i * 72);
 const MES = ['DIC', 'ENE', 'FEB', 'MAR', 'ABR', 'MAY', 'JUN', 'JUL', 'AGO', 'SEP', 'OCT', 'NOV'];
-const D = (extra, enFn, nov = {}) => ({tipo: 'barrasVSerie', max: 6, base: 1100, hMax: 540, w: 52, tamEtiqueta: 36, tamValor: 38, vivo: true, centros: CEN,
+const D = (extra, enFn, nov = {}) => ({tipo: 'barrasVSerie', max: 6, base: 1100, hMax: 540, w: 52, tamEtiqueta: 28, tamValor: 30, vivo: true, centros: CEN,
   barras: [...TASAS.map((v, i) => ({etiqueta: MES[i], valor: v, color: v >= 4.9 ? MOST : TINTA, en: enFn(i), dur: 0.05, dec: 1, prefijo: '', sufijo: ''})),
     {etiqueta: 'NOV', valor: 3, color: TINTA, en: 0.1, contorno: true, altoContorno: 200, sinValor: true, ...nov}], ...extra});
 
