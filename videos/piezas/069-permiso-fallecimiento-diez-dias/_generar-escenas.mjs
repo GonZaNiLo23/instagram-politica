@@ -49,7 +49,7 @@ const fam = [['circulo', 'PAREJA', 30], ['cuadrado', 'PADRES', 34], ['triangulo'
 esc(b2, b3, {fondo: 'crema'}, [
   rot(`10 días laborables`, 330, 0.05, {hasta: rel(b2, 37) - 0.05}),
   rot(`Gobierno: más tiempo para el${NB}duelo`, 330, rel(b2, 37)),
-  rot(`Anunciado el 23‑11`, 505, rel(b2, 22), {}),
+  rot(`Anunciado el 23‑11`, 545, rel(b2, 22), {}),
   cal(650, [{d0: 1, d1: 12, en: rel(b2, 26), paso: 0.12}], {cw: 110, ch: 90}),
   ...fam.flatMap(([f, l, i], k) => [
     {tipo: 'dib', nombre: 'persona', forma: f, x: 220 + k * 280, y: 1015, tamano: 110, en: rel(b2, i) - 0.1},
@@ -61,14 +61,14 @@ esc(b2, b3, {fondo: 'crema'}, [
 esc(b3, b4, {fondo: 'crema'}, [
   rot(`CEOE (patronal), 2025: rechazo`, 330, 0.05),
   rot(`Motivo: coste para${NB}empresas`, 510, rel(b3, 54) - 0.1),
-  {tipo: 'balanzaM', y: 680, izq: ['TRABAJADOR'], der: ['EMPRESA'], cx: 480, sep: 250, panW: 390, oEn: 99, en: 0.2},
+  {tipo: 'balanzaM', y: 770, izq: ['TRABAJADOR'], der: ['EMPRESA'], cx: 480, sep: 250, panW: 390, oEn: 99, en: 0.2},
 ]);
 // 5 · Giro
 esc(b4, b5, {fondo: 'crema'}, [
   rot('Falta: convalidación', 330, 0.05),
   rot(`Entrada en vigor: sin${NB}confirmar`, 440, rel(b4, 71) - 0.1),
-  cal(690, [{d0: 1, d1: 12, en: 0.1, paso: 0.05}], {en: 0.05}),
-  {tipo: 'selloTexto', lineas: ['PENDIENTE'], x: 470, y: 1050, desde: 40, angulo: -5, tamano: 80, en: rel(b4, 71)},
+  cal(790, [{d0: 1, d1: 12, en: 0.1, paso: 0.05}], {en: 0.05}),
+  {tipo: 'selloTexto', lineas: ['PENDIENTE'], x: 470, y: 610, desde: 40, angulo: -5, tamano: 80, en: rel(b4, 71)},
 ]);
 // 6 · Pregunta A/B
 esc(b5, b6, {fondo: 'crema'}, [
@@ -83,8 +83,8 @@ esc(b6, DUR, {fondo: 'mostaza', sinSubtitulos: true}, [
 const portada = {escenas: [{inicio: 0, fin: 3, fondo: 'crema', sinMarca: true, componentes: [
   {tipo: 'gancho', texto: '2 DÍAS…', y: 340, tamano: 120, en: -1},
   {tipo: 'gancho', texto: '', resalta: '¿O 10?', y: 500, tamano: 120, en: -1},
-  rot('permiso por fallecimiento', 700, -1),
-  cal(800, [{d0: 1, d1: 12, en: -1, paso: 0}], {en: -1, ch: 70}),
+  rot('permiso por fallecimiento', 690, -1),
+  cal(880, [{d0: 1, d1: 12, en: -1, paso: 0}], {en: -1}),
 ]}]};
 const out = {plantilla: 'flash', duracion: DUR, portadaSegundo: 1.5, marca: '@loquepasaenunminuto', subSinHuerfanas: true, musica: {pista: 'hidden-agenda.mp3', volumen: -16}, portada, escenas: ESC};
 fs.writeFileSync(path.join(dir, 'escenas.json'), JSON.stringify(out, null, 2));

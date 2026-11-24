@@ -90,3 +90,5 @@
 - [064] Pieza 'flash' barrasHSerie: control-N.png (6, hstack 360) + comprobar.mjs + loudnorm + node de escenas bastan; el generador omite sellos DATO/logo del guion; la nota de 2b salta a la escena siguiente. (064, 2026-11-22)
 - [066] Pieza 'flash' barrasVSerie con 12 barras: el generador pone sinValor y etiqueta '' (sin meses ni valores) y omite etiquetas finales del guion ('Cifra oficial: IPC definitivo 15-12'); control-N.png (3,4,6) + 3 frames + comprobar bastan; guion en borradores. (066, 2026-11-23)
 - [067] Pieza "flash" DNI digital (iconos vectoriales): control-N.png (6) + comprobar + loudnorm + 1 tira de 6 fotogramas con crop bastan; etiquetaDni "MÓVIL" queda bajo la base del móvil (esc 1,2 y=820 / etiqueta y=1060) y no lo ve el control. Guion en borradores. (067, 2026-11-23)
+- [069] Pieza 'flash' calendarioX/balanzaM: control-N.png (6, hstack 360) + comprobar + loudnorm bastan; sello PENDIENTE (y=1050) tapado por subtítulos; rótulo 2 líneas roza la balanza. (069, 2026-11-24)
+- [069 v2] Vuelta de recolocación: control-N.png (6, hstack 360) + portada + 1 frame del cierre (34,5 s) + comprobar + loudnorm bastan. (069, 2026-11-24)

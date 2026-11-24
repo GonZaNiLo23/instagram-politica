@@ -34,7 +34,7 @@
           {
             "tipo": "rotulo",
             "texto": "permiso por fallecimiento",
-            "y": 700,
+            "y": 690,
             "en": -1,
             "tamano": 64
           },
@@ -44,10 +44,10 @@
             "primer": 0,
             "dias": 14,
             "cw": 120,
-            "ch": 70,
+            "ch": 100,
             "fuente": 40,
             "x": 480,
-            "y": 800,
+            "y": 880,
             "grises": [
               6,
               7,
@@ -207,7 +207,7 @@
         {
           "tipo": "rotulo",
           "texto": "Anunciado el 23‑11",
-          "y": 505,
+          "y": 545,
           "en": 0.5,
           "tamano": 64
         },
@@ -326,7 +326,7 @@
         },
         {
           "tipo": "balanzaM",
-          "y": 680,
+          "y": 770,
           "izq": [
             "TRABAJADOR"
           ],
@@ -369,7 +369,7 @@
           "ch": 100,
           "fuente": 40,
           "x": 480,
-          "y": 690,
+          "y": 790,
           "grises": [
             6,
             7,
@@ -392,7 +392,7 @@
             "PENDIENTE"
           ],
           "x": 470,
-          "y": 1050,
+          "y": 610,
           "desde": 40,
           "angulo": -5,
           "tamano": 80,

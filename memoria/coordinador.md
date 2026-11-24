@@ -73,3 +73,4 @@
 - 2026-11-23 produccion.yml: red completa ya funciona; buscador 3 min, guion+vídeo+2 revisiones ≈ 4 vueltas/pieza. El generador crea ya el gráfico con valores si se piden en el encargo; avisar de etiquetas/valores de barras y de la etiqueta 'fuente' desde el principio ahorra la vuelta de v1.
 - 2026-11-23 produccion.yml: huecos de hoy y mañana ya cubiertos en la cola; salida en 2 min sin subagentes.
 - [nube, 2026-11-24] Rutina claude.ai: red igual (curl 000). Informe y salida. Huecos del 25-11 para produccion.yml; próximo número libre 074 (066/067 repetidos en el tablero).
+- 2026-11-24 produccion.yml: 2 piezas (guion+vídeo+revisiones) en ~25 min con 2 en paralelo; render v2 sin --voz ahorra créditos; aplicar literales por SendMessage al guionista fue barato.

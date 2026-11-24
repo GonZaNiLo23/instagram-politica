@@ -156,3 +156,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 
 **2026-11-24 (rutina claude.ai):** sin red (curl 000). 24-11 cubierto (066, 067); 25-11 para produccion.yml. Próximo número libre: 074. Informe en estado/informe-produccion-2026-11-24.md.
 | 068 | calendario-tras-29n | ⚙️ Cómo funciona | Flash | programado | 1 | 1 | 2026-11-25 19:00 (cola) | v1 APROBADO 9/10 |
+| 069 | permiso-fallecimiento-diez-dias | ⚙️ Cómo funciona · Actualidad | Flash | programado | 1 | 2 | 2026-11-25 13:30 (cola) | v2 APROBADO 9/10 |

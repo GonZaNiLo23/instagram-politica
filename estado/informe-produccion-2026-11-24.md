@@ -5,3 +5,8 @@
 - A medias: 059 millon-viviendas (sin fuente primaria).
 - TikTok a mano: 066 y 067 llegan a la bandeja de borradores al publicarse en IG; publicarlas desde la app con el texto de publicado/066-… y publicado/067-….
 - Numeración: las Al minuto del 22-11 reutilizaron 066 y 067 en el tablero; la próxima pieza trabajada debe ser la 074.
+
+## Actualización produccion.yml (nube, 09:00-09:30)
+- En cola: 068-calendario-tras-29n v1 (25-11 19:00) y 069-permiso-fallecimiento-diez-dias v2 (25-11 13:30), ambos APROBADO con test 9/10. Hoy 24-11 ya estaba cubierto (066, 067).
+- A medias: 059 millon-viviendas (sin fuente primaria). Propuestas sobrantes en temas/propuestas/2026-11-24.md (ratios guardería, FP online).
+- Cautela 069: Moncloa/BOE no confirmaban la aprobación del decreto el 24-11; el guion dice "anunció".
