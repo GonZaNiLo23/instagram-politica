@@ -102,4 +102,6 @@
 
 - [pensiones/IPC, 066 2026-11-23] INE API IPC290751?nult=26 abre y da el índice mensual (base 2025=100, con 2024 incluido): tasa anual = índice / índice 12 meses antes. LGSS art. 58.2 en offset 130000 del BOE-A-2015-11724. inclusion.gob.es da 403, pero WebSearch con allowed_domains ["inclusion.gob.es","seg-social.es","lamoncloa.gob.es"] confirma 1.376,1 € (27-10). Cuenta la voz con cifras habladas ("4,9 %" = 5 palabras): el tope de 88 se agota rápido.
 
+- [permiso fallecimiento, 069 2026-11-24] El día del Consejo, lamoncloa.gob.es (resumen 241126-rueda-prensa-consejo-ministros) daba 404 y WebSearch con allowed_domains ["lamoncloa.gob.es","boe.es"] no halló nada: solo "aprobará" (EFE vía Infobae 23-11, que.es 24-11). ET art. 37.3.b bis (2 días, +2 con viaje) en offset 100000 de BOE-A-2015-11430. Reintenta al día siguiente; mientras, verbo "anunció".
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)
