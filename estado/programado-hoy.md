@@ -56,3 +56,4 @@ Para vetar una pieza, di "no" o "para" en el chat: se desprograma.
 | 065-epa-dos-titulares (v2) | Reel 34 s | Instagram + TikTok (borrador) vía cola | 2026-11-23 19:00 | guion APROBADO (literales aplicados) · vídeo v2 9/10. Recomprobar EPA el 23-11 |
 | 067-dni-digital-29n (v2) | Reel 34 s | Instagram + TikTok () vía cola | 2026-11-24 19:00 | guion APROBADO (literales aplicados) · vídeo v2 9/10. Recomprobar Interior (60.000 terminales, horario) el 24-11 |
 | 066-pension-enero-vs-ipc (v2) | Reel 36 s | Instagram + TikTok () vía cola | 2026-11-24 13:30 | revisiones/guiones/066-…-v1.md (literales aplicados) · revisiones/videos/066-…-v2.md (9/10). Cálculo propio: si el INE publica el avance de noviembre (27-11) antes, recalcular |
+| 068-calendario-tras-29n (v1) | Reel 34 s | Instagram + TikTok () vía cola | 2026-11-25 19:00 | revisiones/guiones/068-…-v1.md (literales aplicados) · revisiones/videos/068-…-v1.md (9/10). Vigencia hasta 28-11; recomprobar RD 806/2026 |

@@ -1,0 +1,709 @@
+{
+  "plantilla": "flash",
+  "duracion": 34.2,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "VOTAS EL 29.",
+            "y": 330,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "CORTES: EL 23‑D",
+            "y": 500,
+            "tamano": 92,
+            "en": -1
+          },
+          {
+            "tipo": "foto",
+            "src": "urna.jpg",
+            "x": 500,
+            "y": 1060,
+            "ancho": 880,
+            "alto": 640,
+            "foco": "50% 50%",
+            "en": -1,
+            "credito": "Foto: Américo Toledano / Wikimedia Commons, CC BY-SA 4.0"
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "VOTAS 29‑N",
+          "y": 330,
+          "tamano": 100,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "→ CORTES 23‑D",
+          "y": 450,
+          "tamano": 100,
+          "en": -1
+        },
+        {
+          "tipo": "foto",
+          "src": "urna.jpg",
+          "x": 500,
+          "y": 1000,
+          "ancho": 880,
+          "alto": 760,
+          "foco": "50% 50%",
+          "zoom": [
+            1,
+            1.12
+          ],
+          "pan": [
+            0,
+            -20
+          ],
+          "dur": 3,
+          "en": -1,
+          "credito": "Foto: Américo Toledano / Wikimedia Commons, CC BY-SA 4.0"
+        }
+      ]
+    },
+    {
+      "inicio": 4.22,
+      "fin": 9.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "29-N · RECUENTO EN LA MESA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mesaH",
+          "x": 540,
+          "y": 600,
+          "r": 78,
+          "ilumina": 0.6,
+          "en": 0.1
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "NOVIEMBRE",
+          "primer": 6,
+          "dias": 30,
+          "diaMin": 22,
+          "x": 480,
+          "y": 770,
+          "cw": 108,
+          "ch": 60,
+          "aro": {
+            "d": 29,
+            "en": 0.8
+          },
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 9.74,
+      "fin": 14.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "4–7 DIC · ESCRUTINIO GENERAL (juntas provinciales)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "DICIEMBRE",
+          "primer": 1,
+          "dias": 31,
+          "x": 480,
+          "y": 580,
+          "cw": 108,
+          "ch": 62,
+          "en": 0.1,
+          "rellenos": [
+            {
+              "d0": 4,
+              "d1": 7,
+              "en": 0.34,
+              "paso": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 14.86,
+      "fin": 17.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "4–7 DIC · ESCRUTINIO GENERAL (juntas provinciales)",
+          "y": 330,
+          "en": 0,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaH",
+          "paises": [
+            "es"
+          ],
+          "x": 520,
+          "y": 900,
+          "k": 70,
+          "en": 0.1
+        }
+      ]
+    },
+    {
+      "inicio": 17.1,
+      "fin": 21.06,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "23-D · 10:00 · SE CONSTITUYEN LAS CORTES",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "DICIEMBRE",
+          "primer": 1,
+          "dias": 31,
+          "x": 480,
+          "y": 520,
+          "cw": 108,
+          "ch": 62,
+          "en": 0.1,
+          "rellenos": [
+            {
+              "d0": 23,
+              "d1": 23,
+              "en": 0.26
+            }
+          ],
+          "aro": {
+            "d": 23,
+            "en": 0.26
+          }
+        },
+        {
+          "tipo": "contador",
+          "desde": 24,
+          "hasta": 24,
+          "dur": 0.05,
+          "sufijo": " días",
+          "etiqueta": "desde el 29-N",
+          "y": 1000,
+          "tamano": 90,
+          "en": 0.1,
+          "izq": 80
+        }
+      ]
+    },
+    {
+      "inicio": 21.06,
+      "fin": 27.77,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MÁXIMO: 25 DÍAS → 24-12 (cálculo propio)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "DICIEMBRE",
+          "primer": 1,
+          "dias": 31,
+          "x": 480,
+          "y": 520,
+          "cw": 108,
+          "ch": 62,
+          "en": 0.1,
+          "rellenos": [
+            {
+              "d0": 23,
+              "d1": 23,
+              "en": 0
+            }
+          ],
+          "aro": {
+            "d": 24,
+            "en": 4.94
+          }
+        },
+        {
+          "tipo": "contador",
+          "desde": 25,
+          "hasta": 25,
+          "dur": 0.05,
+          "sufijo": " días",
+          "etiqueta": "máximo",
+          "y": 1000,
+          "tamano": 90,
+          "en": 0.1,
+          "izq": 80
+        }
+      ]
+    },
+    {
+      "inicio": 27.77,
+      "fin": 30.81,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿24 DÍAS: MUCHOS O POCOS?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "abSerie",
+          "a": "MUCHOS",
+          "b": "POCOS",
+          "y": 780,
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 30.81,
+      "fin": 34.2,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿24 DÍAS: MUCHOS O POCOS?",
+          "tamano": 84,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "068-calendario-tras-29n",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Votas",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "t": "el",
+      "inicio": 0.52,
+      "fin": 0.56
+    },
+    {
+      "t": "domingo.",
+      "inicio": 0.64,
+      "fin": 1.28
+    },
+    {
+      "t": "Congreso",
+      "inicio": 1.44,
+      "fin": 1.92
+    },
+    {
+      "t": "nuevo,",
+      "inicio": 2,
+      "fin": 2.48
+    },
+    {
+      "t": "el",
+      "inicio": 2.56,
+      "fin": 2.64
+    },
+    {
+      "t": "veintitrés",
+      "inicio": 2.72,
+      "fin": 3.24
+    },
+    {
+      "t": "de",
+      "inicio": 3.28,
+      "fin": 3.36
+    },
+    {
+      "t": "diciembre.",
+      "inicio": 3.44,
+      "fin": 4
+    },
+    {
+      "t": "¿Qué",
+      "inicio": 4.32,
+      "fin": 4.4
+    },
+    {
+      "t": "pasa",
+      "inicio": 4.48,
+      "fin": 4.64
+    },
+    {
+      "t": "en",
+      "inicio": 4.68,
+      "fin": 4.72
+    },
+    {
+      "t": "medio?",
+      "inicio": 4.8,
+      "fin": 5.12
+    },
+    {
+      "t": "Esa",
+      "inicio": 5.52,
+      "fin": 5.68
+    },
+    {
+      "t": "noche,",
+      "inicio": 5.76,
+      "fin": 6.24
+    },
+    {
+      "t": "cada",
+      "inicio": 6.28,
+      "fin": 6.48
+    },
+    {
+      "t": "mesa",
+      "inicio": 6.56,
+      "fin": 6.8
+    },
+    {
+      "t": "cuenta",
+      "inicio": 6.88,
+      "fin": 7.2
+    },
+    {
+      "t": "sus",
+      "inicio": 7.28,
+      "fin": 7.44
+    },
+    {
+      "t": "votos:",
+      "inicio": 7.48,
+      "fin": 8.16
+    },
+    {
+      "t": "recuento",
+      "inicio": 8.24,
+      "fin": 8.72
+    },
+    {
+      "t": "provisional.",
+      "inicio": 8.8,
+      "fin": 9.64
+    },
+    {
+      "t": "Del",
+      "inicio": 9.84,
+      "fin": 9.92
+    },
+    {
+      "t": "cuatro",
+      "inicio": 10.08,
+      "fin": 10.24
+    },
+    {
+      "t": "al",
+      "inicio": 10.32,
+      "fin": 10.48
+    },
+    {
+      "t": "siete",
+      "inicio": 10.56,
+      "fin": 10.72
+    },
+    {
+      "t": "de",
+      "inicio": 10.8,
+      "fin": 10.88
+    },
+    {
+      "t": "diciembre,",
+      "inicio": 10.96,
+      "fin": 11.68
+    },
+    {
+      "t": "las",
+      "inicio": 11.76,
+      "fin": 11.92
+    },
+    {
+      "t": "juntas",
+      "inicio": 11.96,
+      "fin": 12.24
+    },
+    {
+      "t": "provinciales",
+      "inicio": 12.32,
+      "fin": 12.96
+    },
+    {
+      "t": "hacen",
+      "inicio": 13.04,
+      "fin": 13.28
+    },
+    {
+      "t": "el",
+      "inicio": 13.36,
+      "fin": 13.44
+    },
+    {
+      "t": "escrutinio",
+      "inicio": 13.56,
+      "fin": 14.08
+    },
+    {
+      "t": "general.",
+      "inicio": 14.16,
+      "fin": 14.64
+    },
+    {
+      "t": "Ahí",
+      "inicio": 14.96,
+      "fin": 15.2
+    },
+    {
+      "t": "sale",
+      "inicio": 15.28,
+      "fin": 15.52
+    },
+    {
+      "t": "el",
+      "inicio": 15.56,
+      "fin": 15.6
+    },
+    {
+      "t": "resultado",
+      "inicio": 15.68,
+      "fin": 16.16
+    },
+    {
+      "t": "definitivo.",
+      "inicio": 16.24,
+      "fin": 17.04
+    },
+    {
+      "t": "El",
+      "inicio": 17.2,
+      "fin": 17.28
+    },
+    {
+      "t": "veintitrés,",
+      "inicio": 17.36,
+      "fin": 18.08
+    },
+    {
+      "t": "a",
+      "inicio": 18.12,
+      "fin": 18.16
+    },
+    {
+      "t": "las",
+      "inicio": 18.24,
+      "fin": 18.32
+    },
+    {
+      "t": "diez,",
+      "inicio": 18.4,
+      "fin": 18.88
+    },
+    {
+      "t": "se",
+      "inicio": 18.96,
+      "fin": 19.04
+    },
+    {
+      "t": "constituyen",
+      "inicio": 19.12,
+      "fin": 19.68
+    },
+    {
+      "t": "Congreso",
+      "inicio": 19.76,
+      "fin": 20.24
+    },
+    {
+      "t": "y",
+      "inicio": 20.32,
+      "fin": 20.36
+    },
+    {
+      "t": "Senado.",
+      "inicio": 20.4,
+      "fin": 21.12
+    },
+    {
+      "t": "La",
+      "inicio": 21.16,
+      "fin": 21.2
+    },
+    {
+      "t": "Constitución",
+      "inicio": 21.28,
+      "fin": 21.92
+    },
+    {
+      "t": "da",
+      "inicio": 22,
+      "fin": 22.08
+    },
+    {
+      "t": "veinticinco",
+      "inicio": 22.16,
+      "fin": 22.8
+    },
+    {
+      "t": "días,",
+      "inicio": 22.88,
+      "fin": 23.28
+    },
+    {
+      "t": "como",
+      "inicio": 23.4,
+      "fin": 23.52
+    },
+    {
+      "t": "máximo,",
+      "inicio": 23.6,
+      "fin": 24.08
+    },
+    {
+      "t": "para",
+      "inicio": 24.16,
+      "fin": 24.24
+    },
+    {
+      "t": "convocar",
+      "inicio": 24.32,
+      "fin": 24.72
+    },
+    {
+      "t": "el",
+      "inicio": 24.76,
+      "fin": 24.8
+    },
+    {
+      "t": "Congreso.",
+      "inicio": 24.88,
+      "fin": 25.76
+    },
+    {
+      "t": "El",
+      "inicio": 25.84,
+      "fin": 25.92
+    },
+    {
+      "t": "límite",
+      "inicio": 26,
+      "fin": 26.48
+    },
+    {
+      "t": "es",
+      "inicio": 26.56,
+      "fin": 26.64
+    },
+    {
+      "t": "el",
+      "inicio": 26.68,
+      "fin": 26.72
+    },
+    {
+      "t": "veinticuatro.",
+      "inicio": 26.8,
+      "fin": 27.84
+    },
+    {
+      "t": "¿Veinticuatro",
+      "inicio": 27.867,
+      "fin": 28.24
+    },
+    {
+      "t": "días",
+      "inicio": 28.4,
+      "fin": 28.64
+    },
+    {
+      "t": "te",
+      "inicio": 28.72,
+      "fin": 28.8
+    },
+    {
+      "t": "parecen",
+      "inicio": 28.88,
+      "fin": 29.2
+    },
+    {
+      "t": "muchos",
+      "inicio": 29.28,
+      "fin": 29.76
+    },
+    {
+      "t": "o",
+      "inicio": 29.92,
+      "fin": 30
+    },
+    {
+      "t": "pocos?",
+      "inicio": 30.08,
+      "fin": 30.88
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 30.907,
+      "fin": 31.36
+    },
+    {
+      "t": "para",
+      "inicio": 31.44,
+      "fin": 31.6
+    },
+    {
+      "t": "estar",
+      "inicio": 31.72,
+      "fin": 31.84
+    },
+    {
+      "t": "informado.",
+      "inicio": 32,
+      "fin": 32.64
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "palabras": [
+    {
+      "t": "Muere",
+      "inicio": 0,
+      "fin": 0.32
+    },
+    {
+      "t": "tu",
+      "inicio": 0.4,
+      "fin": 0.48
+    },
+    {
+      "t": "madre:",
+      "inicio": 0.56,
+      "fin": 1.2
+    },
+    {
+      "t": "tienes",
+      "inicio": 1.24,
+      "fin": 1.6
+    },
+    {
+      "t": "dos",
+      "inicio": 1.68,
+      "fin": 1.84
+    },
+    {
+      "t": "días.",
+      "inicio": 1.92,
+      "fin": 2.48
+    },
+    {
+      "t": "El",
+      "inicio": 2.64,
+      "fin": 2.72
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 2.853,
+      "fin": 3.12
+    },
+    {
+      "t": "quiere",
+      "inicio": 3.2,
+      "fin": 3.44
+    },
+    {
+      "t": "que",
+      "inicio": 3.48,
+      "fin": 3.52
+    },
+    {
+      "t": "sean",
+      "inicio": 3.6,
+      "fin": 3.84
+    },
+    {
+      "t": "diez.",
+      "inicio": 3.96,
+      "fin": 4.4
+    },
+    {
+      "t": "Hoy",
+      "inicio": 4.56,
+      "fin": 4.72
+    },
+    {
+      "t": "son",
+      "inicio": 4.8,
+      "fin": 4.88
+    },
+    {
+      "t": "dos,",
+      "inicio": 4.96,
+      "fin": 5.6
+    },
+    {
+      "t": "cuatro",
+      "inicio": 5.68,
+      "fin": 6
+    },
+    {
+      "t": "si",
+      "inicio": 6.08,
+      "fin": 6.16
+    },
+    {
+      "t": "tienes",
+      "inicio": 6.24,
+      "fin": 6.48
+    },
+    {
+      "t": "que",
+      "inicio": 6.52,
+      "fin": 6.56
+    },
+    {
+      "t": "viajar.",
+      "inicio": 6.64,
+      "fin": 7.04
+    },
+    {
+      "t": "El",
+      "inicio": 7.52,
+      "fin": 7.6
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 7.68,
+      "fin": 8
+    },
+    {
+      "t": "anunció",
+      "inicio": 8.08,
+      "fin": 8.48
+    },
+    {
+      "t": "un",
+      "inicio": 8.52,
+      "fin": 8.56
+    },
+    {
+      "t": "decreto",
+      "inicio": 8.64,
+      "fin": 9.04
+    },
+    {
+      "t": "ley:",
+      "inicio": 9.16,
+      "fin": 9.68
+    },
+    {
+      "t": "diez",
+      "inicio": 9.76,
+      "fin": 9.88
+    },
+    {
+      "t": "días",
+      "inicio": 9.92,
+      "fin": 10.16
+    },
+    {
+      "t": "laborables",
+      "inicio": 10.24,
+      "fin": 10.72
+    },
+    {
+      "t": "por",
+      "inicio": 10.8,
+      "fin": 10.96
+    },
+    {
+      "t": "cónyuge,",
+      "inicio": 11.04,
+      "fin": 11.68
+    },
+    {
+      "t": "pareja",
+      "inicio": 11.8,
+      "fin": 12
+    },
+    {
+      "t": "de",
+      "inicio": 12.08,
+      "fin": 12.16
+    },
+    {
+      "t": "hecho,",
+      "inicio": 12.24,
+      "fin": 12.64
+    },
+    {
+      "t": "padres",
+      "inicio": 12.72,
+      "fin": 13.12
+    },
+    {
+      "t": "o",
+      "inicio": 13.28,
+      "fin": 13.36
+    },
+    {
+      "t": "hijos.",
+      "inicio": 13.4,
+      "fin": 14.04
+    },
+    {
+      "t": "Alega",
+      "inicio": 14.24,
+      "fin": 14.56
+    },
+    {
+      "t": "que",
+      "inicio": 14.64,
+      "fin": 14.72
+    },
+    {
+      "t": "da",
+      "inicio": 14.8,
+      "fin": 14.88
+    },
+    {
+      "t": "más",
+      "inicio": 14.92,
+      "fin": 15.12
+    },
+    {
+      "t": "tiempo",
+      "inicio": 15.2,
+      "fin": 15.44
+    },
+    {
+      "t": "para",
+      "inicio": 15.52,
+      "fin": 15.6
+    },
+    {
+      "t": "el",
+      "inicio": 15.68,
+      "fin": 15.72
+    },
+    {
+      "t": "duelo.",
+      "inicio": 15.76,
+      "fin": 16.28
+    },
+    {
+      "t": "En",
+      "inicio": 16.48,
+      "fin": 16.56
+    },
+    {
+      "t": "2025,",
+      "inicio": 16.64,
+      "fin": 17.68
+    },
+    {
+      "t": "la",
+      "inicio": 17.72,
+      "fin": 17.76
+    },
+    {
+      "t": "ce",
+      "inicio": 17.92,
+      "fin": 18.08
+    },
+    {
+      "t": "o",
+      "inicio": 18.16,
+      "fin": 18.24
+    },
+    {
+      "t": "e",
+      "inicio": 18.32,
+      "fin": 18.4
+    },
+    {
+      "t": "rechazó",
+      "inicio": 18.48,
+      "fin": 18.96
+    },
+    {
+      "t": "otra",
+      "inicio": 19.08,
+      "fin": 19.28
+    },
+    {
+      "t": "similar.",
+      "inicio": 19.36,
+      "fin": 20.16
+    },
+    {
+      "t": "Alegó",
+      "inicio": 20.2,
+      "fin": 20.48
+    },
+    {
+      "t": "que",
+      "inicio": 20.56,
+      "fin": 20.64
+    },
+    {
+      "t": "trasladaba",
+      "inicio": 20.72,
+      "fin": 21.28
+    },
+    {
+      "t": "a",
+      "inicio": 21.32,
+      "fin": 21.36
+    },
+    {
+      "t": "las",
+      "inicio": 21.44,
+      "fin": 21.52
+    },
+    {
+      "t": "empresas",
+      "inicio": 21.6,
+      "fin": 22.16
+    },
+    {
+      "t": "el",
+      "inicio": 22.28,
+      "fin": 22.4
+    },
+    {
+      "t": "coste",
+      "inicio": 22.52,
+      "fin": 22.72
+    },
+    {
+      "t": "de",
+      "inicio": 22.76,
+      "fin": 22.8
+    },
+    {
+      "t": "los",
+      "inicio": 22.88,
+      "fin": 22.96
+    },
+    {
+      "t": "cuidados.",
+      "inicio": 23.04,
+      "fin": 23.92
+    },
+    {
+      "t": "Después,",
+      "inicio": 24,
+      "fin": 24.48
+    },
+    {
+      "t": "el",
+      "inicio": 24.56,
+      "fin": 24.64
+    },
+    {
+      "t": "Congreso",
+      "inicio": 24.72,
+      "fin": 25.12
+    },
+    {
+      "t": "tendría",
+      "inicio": 25.2,
+      "fin": 25.6
+    },
+    {
+      "t": "que",
+      "inicio": 25.68,
+      "fin": 25.76
+    },
+    {
+      "t": "convalidarlo.",
+      "inicio": 25.84,
+      "fin": 26.8
+    },
+    {
+      "t": "Y",
+      "inicio": 26.84,
+      "fin": 26.88
+    },
+    {
+      "t": "aún",
+      "inicio": 26.96,
+      "fin": 27.12
+    },
+    {
+      "t": "no",
+      "inicio": 27.2,
+      "fin": 27.28
+    },
+    {
+      "t": "consta",
+      "inicio": 27.4,
+      "fin": 27.6
+    },
+    {
+      "t": "desde",
+      "inicio": 27.68,
+      "fin": 28
+    },
+    {
+      "t": "cuándo",
+      "inicio": 28.04,
+      "fin": 28.28
+    },
+    {
+      "t": "valdría.",
+      "inicio": 28.32,
+      "fin": 29.2
+    },
+    {
+      "t": "¿Dos",
+      "inicio": 29.253,
+      "fin": 29.36
+    },
+    {
+      "t": "días",
+      "inicio": 29.44,
+      "fin": 29.92
+    },
+    {
+      "t": "o",
+      "inicio": 29.96,
+      "fin": 30
+    },
+    {
+      "t": "diez:",
+      "inicio": 30.08,
+      "fin": 30.72
+    },
+    {
+      "t": "cuántos",
+      "inicio": 30.8,
+      "fin": 31.12
+    },
+    {
+      "t": "necesitarías",
+      "inicio": 31.16,
+      "fin": 31.84
+    },
+    {
+      "t": "tú?",
+      "inicio": 31.92,
+      "fin": 32.56
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 32.6,
+      "fin": 33.12
+    },
+    {
+      "t": "para",
+      "inicio": 33.2,
+      "fin": 33.28
+    },
+    {
+      "t": "estar",
+      "inicio": 33.4,
+      "fin": 33.52
+    },
+    {
+      "t": "informado.",
+      "inicio": 33.68,
+      "fin": 34.32
+    }
+  ],
+  "duracion": 34.272653,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

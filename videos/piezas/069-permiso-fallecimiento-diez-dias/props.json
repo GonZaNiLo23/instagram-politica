@@ -1,0 +1,881 @@
+{
+  "plantilla": "flash",
+  "duracion": 36.17,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "2 DÍAS…",
+            "y": 340,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "gancho",
+            "texto": "",
+            "resalta": "¿O 10?",
+            "y": 500,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "permiso por fallecimiento",
+            "y": 700,
+            "en": -1,
+            "tamano": 64
+          },
+          {
+            "tipo": "calendarioX",
+            "mes": "DÍAS LABORABLES",
+            "primer": 0,
+            "dias": 14,
+            "cw": 120,
+            "ch": 70,
+            "fuente": 40,
+            "x": 480,
+            "y": 800,
+            "grises": [
+              6,
+              7,
+              13,
+              14
+            ],
+            "rellenos": [
+              {
+                "d0": 1,
+                "d1": 12,
+                "en": -1,
+                "paso": 0
+              }
+            ],
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "2 DÍAS…",
+          "y": 330,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "gancho",
+          "texto": "",
+          "resalta": "¿O 10?",
+          "y": 480,
+          "tamano": 120,
+          "en": 3.1
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "DÍAS LABORABLES",
+          "primer": 0,
+          "dias": 14,
+          "cw": 120,
+          "ch": 100,
+          "fuente": 40,
+          "x": 480,
+          "y": 640,
+          "grises": [
+            6,
+            7,
+            13,
+            14
+          ],
+          "rellenos": [
+            {
+              "d0": 1,
+              "d1": 2,
+              "en": 0.2,
+              "paso": 0.2
+            },
+            {
+              "d0": 3,
+              "d1": 12,
+              "en": 3.48,
+              "paso": 0.1
+            }
+          ],
+          "en": 0.05
+        }
+      ]
+    },
+    {
+      "inicio": 4.46,
+      "fin": 7.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Asalariados: 2 días (4 si viajas)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "DÍAS LABORABLES",
+          "primer": 0,
+          "dias": 14,
+          "cw": 120,
+          "ch": 100,
+          "fuente": 40,
+          "x": 480,
+          "y": 520,
+          "grises": [
+            6,
+            7,
+            13,
+            14
+          ],
+          "rellenos": [
+            {
+              "d0": 1,
+              "d1": 2,
+              "en": 0.2,
+              "paso": 0.2
+            },
+            {
+              "d0": 3,
+              "d1": 4,
+              "en": 1.22,
+              "paso": 0.2
+            }
+          ],
+          "en": 0.05
+        },
+        {
+          "tipo": "maletaX",
+          "x": 480,
+          "y": 1020,
+          "tam": 150,
+          "en": 1.22
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: Estatuto de los Trabajadores, art. 37.3"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 7.58,
+      "fin": 16.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "10 días laborables",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 6.61
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Gobierno: más tiempo para el duelo",
+          "y": 330,
+          "en": 6.66,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Anunciado el 23‑11",
+          "y": 505,
+          "en": 0.5,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "DÍAS LABORABLES",
+          "primer": 0,
+          "dias": 14,
+          "cw": 110,
+          "ch": 90,
+          "fuente": 40,
+          "x": 480,
+          "y": 650,
+          "grises": [
+            6,
+            7,
+            13,
+            14
+          ],
+          "rellenos": [
+            {
+              "d0": 1,
+              "d1": 12,
+              "en": 2.18,
+              "paso": 0.12
+            }
+          ],
+          "en": 0.05
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "forma": "circulo",
+          "x": 220,
+          "y": 1015,
+          "tamano": 110,
+          "en": 3.36
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PAREJA",
+          "y": 1070,
+          "en": 3.36,
+          "tamano": 64,
+          "izq": 90,
+          "ancho": 260,
+          "align": "center"
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "forma": "cuadrado",
+          "x": 500,
+          "y": 1015,
+          "tamano": 110,
+          "en": 5.04
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PADRES",
+          "y": 1070,
+          "en": 5.04,
+          "tamano": 64,
+          "izq": 370,
+          "ancho": 260,
+          "align": "center"
+        },
+        {
+          "tipo": "dib",
+          "nombre": "persona",
+          "forma": "triangulo",
+          "x": 780,
+          "y": 1015,
+          "tamano": 110,
+          "en": 5.720000000000001
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "HIJOS",
+          "y": 1070,
+          "en": 5.720000000000001,
+          "tamano": 64,
+          "izq": 650,
+          "ancho": 260,
+          "align": "center"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "decreto ley = norma con rango de ley que aprueba el Gobierno",
+            "y el Congreso debe confirmar"
+          ],
+          "en": 1.06,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 16.38,
+      "fin": 23.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CEOE (patronal), 2025: rechazo",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Motivo: coste para empresas",
+          "y": 510,
+          "en": 3.7199999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "balanzaM",
+          "y": 680,
+          "izq": [
+            "TRABAJADOR"
+          ],
+          "der": [
+            "EMPRESA"
+          ],
+          "cx": 480,
+          "sep": 250,
+          "panW": 390,
+          "oEn": 99,
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 23.9,
+      "fin": 29.15,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Falta: convalidación",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Entrada en vigor: sin confirmar",
+          "y": 440,
+          "en": 2.84,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "DÍAS LABORABLES",
+          "primer": 0,
+          "dias": 14,
+          "cw": 120,
+          "ch": 100,
+          "fuente": 40,
+          "x": 480,
+          "y": 690,
+          "grises": [
+            6,
+            7,
+            13,
+            14
+          ],
+          "rellenos": [
+            {
+              "d0": 1,
+              "d1": 12,
+              "en": 0.1,
+              "paso": 0.05
+            }
+          ],
+          "en": 0.05
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "PENDIENTE"
+          ],
+          "x": 470,
+          "y": 1050,
+          "desde": 40,
+          "angulo": -5,
+          "tamano": 80,
+          "en": 2.94
+        }
+      ]
+    },
+    {
+      "inicio": 29.15,
+      "fin": 32.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿2 o 10 días?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 80
+        },
+        {
+          "tipo": "abSerie",
+          "a": "2 DÍAS",
+          "b": "10 DÍAS",
+          "y": 800,
+          "en": 0.35
+        }
+      ]
+    },
+    {
+      "inicio": 32.5,
+      "fin": 36.17,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿2 O 10 DÍAS?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "069-permiso-fallecimiento-diez-dias",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Muere",
+      "inicio": 0,
+      "fin": 0.32
+    },
+    {
+      "t": "tu",
+      "inicio": 0.4,
+      "fin": 0.48
+    },
+    {
+      "t": "madre:",
+      "inicio": 0.56,
+      "fin": 1.2
+    },
+    {
+      "t": "tienes",
+      "inicio": 1.24,
+      "fin": 1.6
+    },
+    {
+      "t": "dos",
+      "inicio": 1.68,
+      "fin": 1.84
+    },
+    {
+      "t": "días.",
+      "inicio": 1.92,
+      "fin": 2.48
+    },
+    {
+      "t": "El",
+      "inicio": 2.64,
+      "fin": 2.72
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 2.853,
+      "fin": 3.12
+    },
+    {
+      "t": "quiere",
+      "inicio": 3.2,
+      "fin": 3.44
+    },
+    {
+      "t": "que",
+      "inicio": 3.48,
+      "fin": 3.52
+    },
+    {
+      "t": "sean",
+      "inicio": 3.6,
+      "fin": 3.84
+    },
+    {
+      "t": "diez.",
+      "inicio": 3.96,
+      "fin": 4.4
+    },
+    {
+      "t": "Hoy",
+      "inicio": 4.56,
+      "fin": 4.72
+    },
+    {
+      "t": "son",
+      "inicio": 4.8,
+      "fin": 4.88
+    },
+    {
+      "t": "dos,",
+      "inicio": 4.96,
+      "fin": 5.6
+    },
+    {
+      "t": "cuatro",
+      "inicio": 5.68,
+      "fin": 6
+    },
+    {
+      "t": "si",
+      "inicio": 6.08,
+      "fin": 6.16
+    },
+    {
+      "t": "tienes",
+      "inicio": 6.24,
+      "fin": 6.48
+    },
+    {
+      "t": "que",
+      "inicio": 6.52,
+      "fin": 6.56
+    },
+    {
+      "t": "viajar.",
+      "inicio": 6.64,
+      "fin": 7.04
+    },
+    {
+      "t": "El",
+      "inicio": 7.52,
+      "fin": 7.6
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 7.68,
+      "fin": 8
+    },
+    {
+      "t": "anunció",
+      "inicio": 8.08,
+      "fin": 8.48
+    },
+    {
+      "t": "un",
+      "inicio": 8.52,
+      "fin": 8.56
+    },
+    {
+      "t": "decreto",
+      "inicio": 8.64,
+      "fin": 9.04
+    },
+    {
+      "t": "ley:",
+      "inicio": 9.16,
+      "fin": 9.68
+    },
+    {
+      "t": "diez",
+      "inicio": 9.76,
+      "fin": 9.88
+    },
+    {
+      "t": "días",
+      "inicio": 9.92,
+      "fin": 10.16
+    },
+    {
+      "t": "laborables",
+      "inicio": 10.24,
+      "fin": 10.72
+    },
+    {
+      "t": "por",
+      "inicio": 10.8,
+      "fin": 10.96
+    },
+    {
+      "t": "cónyuge,",
+      "inicio": 11.04,
+      "fin": 11.68
+    },
+    {
+      "t": "pareja",
+      "inicio": 11.8,
+      "fin": 12
+    },
+    {
+      "t": "de",
+      "inicio": 12.08,
+      "fin": 12.16
+    },
+    {
+      "t": "hecho,",
+      "inicio": 12.24,
+      "fin": 12.64
+    },
+    {
+      "t": "padres",
+      "inicio": 12.72,
+      "fin": 13.12
+    },
+    {
+      "t": "o",
+      "inicio": 13.28,
+      "fin": 13.36
+    },
+    {
+      "t": "hijos.",
+      "inicio": 13.4,
+      "fin": 14.04
+    },
+    {
+      "t": "Alega",
+      "inicio": 14.24,
+      "fin": 14.56
+    },
+    {
+      "t": "que",
+      "inicio": 14.64,
+      "fin": 14.72
+    },
+    {
+      "t": "da",
+      "inicio": 14.8,
+      "fin": 14.88
+    },
+    {
+      "t": "más",
+      "inicio": 14.92,
+      "fin": 15.12
+    },
+    {
+      "t": "tiempo",
+      "inicio": 15.2,
+      "fin": 15.44
+    },
+    {
+      "t": "para",
+      "inicio": 15.52,
+      "fin": 15.6
+    },
+    {
+      "t": "el",
+      "inicio": 15.68,
+      "fin": 15.72
+    },
+    {
+      "t": "duelo.",
+      "inicio": 15.76,
+      "fin": 16.28
+    },
+    {
+      "t": "En",
+      "inicio": 16.48,
+      "fin": 16.56
+    },
+    {
+      "t": "2025,",
+      "inicio": 16.64,
+      "fin": 17.68
+    },
+    {
+      "t": "la",
+      "inicio": 17.72,
+      "fin": 17.76
+    },
+    {
+      "t": "CEOE",
+      "inicio": 17.92,
+      "fin": 18.4
+    },
+    {
+      "t": "rechazó",
+      "inicio": 18.48,
+      "fin": 18.96
+    },
+    {
+      "t": "otra",
+      "inicio": 19.08,
+      "fin": 19.28
+    },
+    {
+      "t": "similar.",
+      "inicio": 19.36,
+      "fin": 20.16
+    },
+    {
+      "t": "Alegó",
+      "inicio": 20.2,
+      "fin": 20.48
+    },
+    {
+      "t": "que",
+      "inicio": 20.56,
+      "fin": 20.64
+    },
+    {
+      "t": "trasladaba",
+      "inicio": 20.72,
+      "fin": 21.28
+    },
+    {
+      "t": "a",
+      "inicio": 21.32,
+      "fin": 21.36
+    },
+    {
+      "t": "las",
+      "inicio": 21.44,
+      "fin": 21.52
+    },
+    {
+      "t": "empresas",
+      "inicio": 21.6,
+      "fin": 22.16
+    },
+    {
+      "t": "el",
+      "inicio": 22.28,
+      "fin": 22.4
+    },
+    {
+      "t": "coste",
+      "inicio": 22.52,
+      "fin": 22.72
+    },
+    {
+      "t": "de",
+      "inicio": 22.76,
+      "fin": 22.8
+    },
+    {
+      "t": "los",
+      "inicio": 22.88,
+      "fin": 22.96
+    },
+    {
+      "t": "cuidados.",
+      "inicio": 23.04,
+      "fin": 23.92
+    },
+    {
+      "t": "Después,",
+      "inicio": 24,
+      "fin": 24.48
+    },
+    {
+      "t": "el",
+      "inicio": 24.56,
+      "fin": 24.64
+    },
+    {
+      "t": "Congreso",
+      "inicio": 24.72,
+      "fin": 25.12
+    },
+    {
+      "t": "tendría",
+      "inicio": 25.2,
+      "fin": 25.6
+    },
+    {
+      "t": "que",
+      "inicio": 25.68,
+      "fin": 25.76
+    },
+    {
+      "t": "convalidarlo.",
+      "inicio": 25.84,
+      "fin": 26.8
+    },
+    {
+      "t": "Y",
+      "inicio": 26.84,
+      "fin": 26.88
+    },
+    {
+      "t": "aún",
+      "inicio": 26.96,
+      "fin": 27.12
+    },
+    {
+      "t": "no",
+      "inicio": 27.2,
+      "fin": 27.28
+    },
+    {
+      "t": "consta",
+      "inicio": 27.4,
+      "fin": 27.6
+    },
+    {
+      "t": "desde",
+      "inicio": 27.68,
+      "fin": 28
+    },
+    {
+      "t": "cuándo",
+      "inicio": 28.04,
+      "fin": 28.28
+    },
+    {
+      "t": "valdría.",
+      "inicio": 28.32,
+      "fin": 29.2
+    },
+    {
+      "t": "¿Dos",
+      "inicio": 29.253,
+      "fin": 29.36
+    },
+    {
+      "t": "días",
+      "inicio": 29.44,
+      "fin": 29.92
+    },
+    {
+      "t": "o",
+      "inicio": 29.96,
+      "fin": 30
+    },
+    {
+      "t": "diez:",
+      "inicio": 30.08,
+      "fin": 30.72
+    },
+    {
+      "t": "cuántos",
+      "inicio": 30.8,
+      "fin": 31.12
+    },
+    {
+      "t": "necesitarías",
+      "inicio": 31.16,
+      "fin": 31.84
+    },
+    {
+      "t": "tú?",
+      "inicio": 31.92,
+      "fin": 32.56
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 32.6,
+      "fin": 33.12
+    },
+    {
+      "t": "para",
+      "inicio": 33.2,
+      "fin": 33.28
+    },
+    {
+      "t": "estar",
+      "inicio": 33.4,
+      "fin": 33.52
+    },
+    {
+      "t": "informado.",
+      "inicio": 33.68,
+      "fin": 34.32
+    }
+  ]
+}

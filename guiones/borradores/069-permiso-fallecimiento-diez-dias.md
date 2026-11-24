@@ -22,10 +22,10 @@ No hay referencia de Moncloa ni BOE del 24-25-11 accesibles que confirmen la apr
 | # | Tiempo | Voz en off | En pantalla (rótulo) | Visual / animación |
 |---|---|---|---|---|
 | 1 · Gancho | 0–4 s | Muere tu madre: tienes dos días. El Gobierno quiere que sean diez. | "2 DÍAS… ¿O 10?" | Calendario vectorial: el 2 golpea la pantalla y se tacha; el 10 aparece grande. Primer cambio antes de 1,5 s. |
-| 2 · Primera prueba | 4–9 s | Hoy son dos, cuatro si tienes que viajar. | "Hoy: 2 días (4 si viajas)" · "Fuente: Estatuto de los Trabajadores, art. 37.3" | Dos casillas del calendario en color, dos más con icono de maleta. |
-| 2b · Contexto | 9–17 s | El Gobierno anunció un decreto ley que los amplía a diez días laborables. Sería para cónyuge, pareja de hecho, padres e hijos. | "Anunciado el 23-11" · "10 días laborables" · iconos: pareja, padres, hijo | Diez casillas Lun–Vie en dos semanas; iconos de los cuatro familiares aparecen en fila. Nota: "decreto ley = norma con rango de ley que aprueba el Gobierno y el Congreso debe confirmar". |
+| 2 · Primera prueba | 4–9 s | Hoy son dos, cuatro si tienes que viajar. | "Asalariados: 2 días (4 si viajas)" · "Fuente: Estatuto de los Trabajadores, art. 37.3" | Dos casillas del calendario en color, dos más con icono de maleta. |
+| 2b · Contexto | 9–17 s | El Gobierno anunció un decreto ley: diez días laborables por cónyuge, pareja de hecho, padres o hijos. Alega que da más tiempo para el duelo. | "Gobierno: más tiempo para el duelo" · "Anunciado el 23-11" · "10 días laborables" · iconos: pareja, padres, hijo | Diez casillas Lun–Vie en dos semanas; iconos de los cuatro familiares aparecen en fila. Nota: "decreto ley = norma con rango de ley que aprueba el Gobierno y el Congreso debe confirmar". |
 | 3 · Explicación | 17–25 s | En 2025, la CEOE rechazó otra similar. Alegó que trasladaba a las empresas el coste de los cuidados. | "CEOE (patronal), 2025: rechazo" · "Motivo: coste para empresas" | Rótulo de la patronal a un lado; balanza simple trabajador / empresa con iconos. |
-| 4 · Giro | 25–28 s | Y el Congreso tendrá que convalidarlo después. Ojo: aún no consta desde cuándo valdría. | "Falta: convalidación" · "Entrada en vigor: sin confirmar" | Sello "PENDIENTE" sobre el calendario. |
+| 4 · Giro | 25–28 s | Después, el Congreso tendría que convalidarlo. Y aún no consta desde cuándo valdría. | "Falta: convalidación" · "Entrada en vigor: sin confirmar" | Sello "PENDIENTE" sobre el calendario. |
 | 5 · Cierre | 28–31 s | ¿Dos días o diez: cuántos necesitarías tú? Síguenos para estar informado. | "¿2 o 10 días?" · "Síguenos" | Vuelve el calendario con 2 y 10 como botones A/B; tarjeta de cierre. |
 
 ## Ganchos alternativos
@@ -39,9 +39,9 @@ No hay referencia de Moncloa ni BOE del 24-25-11 accesibles que confirmen la apr
 (Elegido: el 1, por ser el más directo y verificado.)
 
 ## Texto de voz limpio
-Muere tu madre: tienes dos días. El Gobierno quiere que sean diez. Hoy son dos, cuatro si tienes que viajar. El Gobierno anunció un decreto ley que los amplía a diez días laborables. Sería para cónyuge, pareja de hecho, padres e hijos. En 2025, la CEOE rechazó otra similar. Alegó que trasladaba a las empresas el coste de los cuidados. Y el Congreso tendrá que convalidarlo después. Ojo: aún no consta desde cuándo valdría. ¿Dos días o diez: cuántos necesitarías tú? Síguenos para estar informado.
+Muere tu madre: tienes dos días. El Gobierno quiere que sean diez. Hoy son dos, cuatro si tienes que viajar. El Gobierno anunció un decreto ley: diez días laborables por cónyuge, pareja de hecho, padres o hijos. Alega que da más tiempo para el duelo. En 2025, la CEOE rechazó otra similar. Alegó que trasladaba a las empresas el coste de los cuidados. Después, el Congreso tendría que convalidarlo. Y aún no consta desde cuándo valdría. ¿Dos días o diez: cuántos necesitarías tú? Síguenos para estar informado.
 
-Recuento por frase: 6 + 6 + 8 + 13 + 9 + 7 + 11 + 7 + 7 + 7 + 4 = 85 palabras → 31 s a 165 pal/min.
+Recuento por frase: 6 + 6 + 8 + 17 + 8 + 7 + 11 + 6 + 7 + 7 + 4 = 87 palabras → 32 s a 165 pal/min. Frase más larga: 17 palabras.
 
 ## Autoevaluación de formato Reel/TikTok
 9/10. Gancho con "tú" y choque (2 frente a 10) en 6 palabras; primera prueba a los 4 s sin fecha ni institución; pregunta A/B. Dudoso: el giro es modesto (falta convalidación y vigencia, no un dato sorprendente) porque en 31 s no cabe más sin fuentes seguras.
@@ -64,13 +64,13 @@ Recuento por frase: 6 + 6 + 8 + 13 + 9 + 7 + 11 + 7 + 7 + 7 + 4 = 85 palabras �
 ## Texto propuesto para el post
 Muere tu madre: la ley te da dos días. El Gobierno quiere que sean diez.
 
-Hoy el Estatuto de los Trabajadores da dos días por la muerte de un familiar (cónyuge, pareja de hecho o hasta segundo grado), cuatro con desplazamiento. El Gobierno anunció un real decreto ley para ampliarlo a diez días laborables para cónyuge, pareja de hecho, padres e hijos. En 2025 la CEOE rechazó una propuesta similar porque trasladaba a las empresas el coste de los cuidados. Falta la convalidación del Congreso y no consta aún la entrada en vigor.
+Hoy el Estatuto de los Trabajadores da dos días por la muerte de un familiar (cónyuge, pareja de hecho o hasta segundo grado), cuatro con desplazamiento. Es el mínimo del Estatuto para asalariados: los convenios pueden mejorarlo y los empleados públicos tienen su propia norma. El Gobierno anunció un real decreto ley para ampliarlo a diez días laborables para cónyuge, pareja de hecho, padres e hijos; alega que da más tiempo para el duelo. En 2025 la CEOE rechazó una propuesta similar porque trasladaba a las empresas el coste de los cuidados. Falta la convalidación del Congreso y no consta aún la entrada en vigor.
 
 ¿Dos días o diez: cuántos necesitarías tú?
 
-Fuentes: BOE (Estatuto de los Trabajadores, art. 37.3), EFE vía Infobae (23-11-2026).
+Fuentes: BOE (Estatuto de los Trabajadores, art. 37.3), EFE vía Infobae (23-11-2026), elDiario.es (23-11-2026).
 
 #permisos #trabajo #EstatutoDeLosTrabajadores #España #política #derechoslaborales
 
 ## Cambios en esta versión
-v1, sin cambios previos.
+v2: rótulo "Asalariados: 2 días (4 si viajas)" y aviso de mínimo en el post; bloque 2b con "anunció un decreto ley: diez días laborables…" y motivo del Gobierno (duelo, con rótulo); bloque 4 en condicional ("tendría que convalidarlo"); recuento 87 palabras; fuente elDiario.es en el post. Aprobación no confirmada por Moncloa/BOE (nueva búsqueda): se mantiene "anunció". Variante "aprobó" en la revisión, obligatorio 4.
