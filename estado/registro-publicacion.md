@@ -195,3 +195,5 @@
 - 2026-11-24T12:31:06.486Z · 066-pension-enero-vs-ipc: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-24T14:00:46.752Z · am20261124-1330-vox-mujeres-cadena v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgIHqrbE1Ki/
 - 2026-11-24T14:00:48.985Z · am20261124-1330-vox-mujeres-cadena: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-24T16:00:43.096Z · am20261124-1526-sanchez-prestamo-vivienda v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgIVZqOjFYp/
+- 2026-11-24T16:00:44.549Z · am20261124-1526-sanchez-prestamo-vivienda: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
