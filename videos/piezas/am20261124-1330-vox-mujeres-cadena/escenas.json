@@ -1,0 +1,90 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 18.02,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "sinVoz": true,
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 14.52,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 14.52,
+     "fundidoFin": 14.52
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "VOX ACUSA AL GOBIERNO DE DESPROTEGER A LAS MUJERES",
+     "fecha": "24 NOV",
+     "credito": "Vídeo: @vox_es"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 1.7,
+       "texto": "El gobierno que ha puesto a los violadores"
+      },
+      {
+       "inicio": 1.7,
+       "fin": 3.16,
+       "texto": "en la calle, que dice que"
+      },
+      {
+       "inicio": 3.16,
+       "fin": 4.5,
+       "texto": "nosotros negamos la violencia."
+      },
+      {
+       "inicio": 4.5,
+       "fin": 5.7,
+       "texto": "¿Quién niega la violencia?"
+      },
+      {
+       "inicio": 5.7,
+       "fin": 7.9,
+       "texto": "¿Los que han puesto a los violadores en la calle"
+      },
+      {
+       "inicio": 7.9,
+       "fin": 9.94,
+       "texto": "o nosotros que pedimos una cadena perpetua para todos ellos?"
+      },
+      {
+       "inicio": 10.12,
+       "fin": 12.5,
+       "texto": "¿Los que les han puesto pulseras defectuosas"
+      },
+      {
+       "inicio": 12.5,
+       "fin": 14.52,
+       "texto": "a las mujeres que han sufrido maltrato?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 14.52,
+   "fin": 18.02,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Vox pide cadena perpetua para los violadores",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ]
+}
