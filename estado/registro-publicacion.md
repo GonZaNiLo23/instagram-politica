@@ -191,3 +191,5 @@
 - 2026-11-23T20:00:51.284Z · am20261123-1930-vox-palencia: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-24T12:00:44.907Z · am20261124-1126-abascal-impuestos-vivienda v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgH57tvkjsZ/
 - 2026-11-24T12:00:47.960Z · am20261124-1126-abascal-impuestos-vivienda: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-24T12:31:04.529Z · 066-pension-enero-vs-ipc v2: PUBLICADA en Instagram https://www.instagram.com/reel/DgH9X9hjxmR/
+- 2026-11-24T12:31:06.486Z · 066-pension-enero-vs-ipc: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
