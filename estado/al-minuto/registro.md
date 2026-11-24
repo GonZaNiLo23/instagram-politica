@@ -380,3 +380,4 @@
 - 2026-11-23 19:30 UTC (publicación 20:00 Madrid) · 4 · @vox_es (Abascal en Palencia: prioridad nacional y remigración, tramos 81,17–91,21 y 93,85–100,45 s; subtítulos cotejados con la transcripción; atribuido a Vox, omitidos «mafia», el pasaje dudoso de transcripción y las acusaciones; viral 189,5; +1 por propuesta con consecuencia directa) · publicado am20261123-1930-vox-palencia
 - 2026-11-23 19:30 UTC · 1 · @sanchezcastejon (luto, 49,8 s) · descartado: sin habla; viral 245,2
 - 2026-11-24 07:46 UTC · radar sin respuesta (candidatos.json sigue con generado 03:19Z); sin publicación
+- 2026-11-24 09:30 UTC (publicación 10:00 Madrid) · 2 · @partidopopular (experimento de percepción «piensen en un político», 119,1 s) · descartado: spot de campaña sin propuesta, insinuación («les haya mentido continuamente») sin contexto contrastable, sin tramo limpio de 15–40 s; viral 374,3; único candidato; sin publicación.
