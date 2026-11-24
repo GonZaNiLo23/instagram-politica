@@ -189,3 +189,5 @@
 - 2026-11-23T18:00:58.016Z · 065-epa-dos-titulares: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-23T20:00:48.063Z · am20261123-1930-vox-palencia v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgGMEzvAi8R/
 - 2026-11-23T20:00:51.284Z · am20261123-1930-vox-palencia: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-24T12:00:44.907Z · am20261124-1126-abascal-impuestos-vivienda v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgH57tvkjsZ/
+- 2026-11-24T12:00:47.960Z · am20261124-1126-abascal-impuestos-vivienda: TikTok en la bandeja de borradores (falta publicarlo desde la app)
