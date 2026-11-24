@@ -381,3 +381,6 @@
 - 2026-11-23 19:30 UTC · 1 · @sanchezcastejon (luto, 49,8 s) · descartado: sin habla; viral 245,2
 - 2026-11-24 07:46 UTC · radar sin respuesta (candidatos.json sigue con generado 03:19Z); sin publicación
 - 2026-11-24 09:30 UTC (publicación 10:00 Madrid) · 2 · @partidopopular (experimento de percepción «piensen en un político», 119,1 s) · descartado: spot de campaña sin propuesta, insinuación («les haya mentido continuamente») sin contexto contrastable, sin tramo limpio de 15–40 s; viral 374,3; único candidato; sin publicación.
+- 2026-11-24 11:30 UTC (publicación 12:00 Madrid) · 3 · @santi_abascal (votar el 29N para bajar impuestos, vivienda joven e industria, tramos 0–7,92 y 10,58–19,94 s; subtítulos cotejados con la transcripción; atribuido a Abascal como promesa de campaña, omitido «mordidas para sobrinas y corrupciones»; viral 47,9; +1 por propuesta con consecuencia directa) · publicado am20261124-1126-abascal-impuestos-vivienda
+- 2026-11-24 11:30 UTC · 2 · @sanchezcastejon (aborto/29N, 45,6 s) · descartado: montaje con citas de hablantes sin identificar y acusación a PP y Vox, mismo tipo de mitin ya publicado ayer; viral 202
+- 2026-11-24 11:30 UTC · 2 · @vox_es (Gobierno antisocial, 46,9 s) · descartado: datos no verificados (billete de 50 euros, regadíos de Marruecos), hablante sin identificar; un envío por hora; viral 36,1
