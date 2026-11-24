@@ -1,0 +1,85 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 22.5,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "sinVoz": true,
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 19.0,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 19.0,
+     "fundidoFin": 19.0
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "SÁNCHEZ PROMETE PRÉSTAMO PÚBLICO PARA LA ENTRADA",
+     "fecha": "24 NOV",
+     "credito": "Vídeo: @sanchezcastejon"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.12,
+       "fin": 3.3,
+       "texto": "La vivienda es la mayor preocupación de nuestro tiempo."
+      },
+      {
+       "inicio": 3.88,
+       "fin": 5.94,
+       "texto": "Tener un hogar no debería ser un lujo."
+      },
+      {
+       "inicio": 6.44,
+       "fin": 8.76,
+       "texto": "Ni para Carlos y Lucía, ni para nadie."
+      },
+      {
+       "inicio": 8.85,
+       "fin": 11.91,
+       "texto": "Tu casa es nuestra respuesta a Lucía y Carlos."
+      },
+      {
+       "inicio": 12.65,
+       "fin": 15.01,
+       "texto": "Un préstamo público de hasta 50.000 euros"
+      },
+      {
+       "inicio": 15.01,
+       "fin": 16.41,
+       "texto": "para la entrada de una vivienda."
+      },
+      {
+       "inicio": 16.77,
+       "fin": 18.89,
+       "texto": "Sin intereses, al alcance de todos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 19.0,
+   "fin": 22.5,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Sánchez promete préstamo público de hasta 50.000 € para comprar casa",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ]
+}

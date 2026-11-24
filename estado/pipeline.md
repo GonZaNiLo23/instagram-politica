@@ -159,3 +159,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 069 | permiso-fallecimiento-diez-dias | ⚙️ Cómo funciona · Actualidad | Flash | programado | 1 | 2 | 2026-11-25 13:30 (cola) | v2 APROBADO 9/10 |
 | 074 | am20261124-1126-abascal-impuestos-vivienda | Al minuto (Abascal, votar el 29N para bajar impuestos y vivienda) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-24 12:00 | sin revisores |
 | 075 | am20261124-1330-vox-mujeres-cadena | Al minuto (Vox, seguridad de las mujeres: cadena perpetua para violadores) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-24 14:00 | sin revisores |
+| 076 | am20261124-1526-sanchez-prestamo-vivienda | Al minuto (Sánchez, préstamo público de 50.000 € para la entrada de vivienda) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-24 16:00 | sin revisores |
