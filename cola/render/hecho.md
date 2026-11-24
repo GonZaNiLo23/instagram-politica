@@ -66,3 +66,4 @@
 - 2026-11-23T09:47:15Z · am20261123-0930-ayuso-neutralidad v1 · OK · ffprobe: h264 1080x1920 @30/1 · 24.80 s (objetivo 24.74 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-23T15:42:28Z · am20261123-1530-vox-querellas-consulados v1 · OK · ffprobe: h264 1080x1920 @30/1 · 22.50 s (objetivo 22.4 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-23T19:55:59Z · am20261123-1930-vox-palencia v1 · OK · ffprobe: h264 1080x1920 @30/1 · 20.20 s (objetivo 20.14 s) -> OK Volumen integrado: -14.6 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-24T11:36:22Z · am20261124-1126-abascal-impuestos-vivienda v1 · OK · ffprobe: h264 1080x1920 @30/1 · 20.90 s (objetivo 20.78 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 

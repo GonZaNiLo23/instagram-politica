@@ -1,0 +1,96 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 20.78,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "sinVoz": true,
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 17.28,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 17.28,
+          "fundidoFin": 17.28
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "ABASCAL PIDE VOTAR PARA BAJAR LOS IMPUESTOS",
+          "fecha": "24 NOV",
+          "credito": "Vídeo: @santi_abascal"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 1.24,
+              "texto": "El día 29 de noviembre"
+            },
+            {
+              "inicio": 1.24,
+              "fin": 3.42,
+              "texto": "votar para bajar los impuestos"
+            },
+            {
+              "inicio": 3.42,
+              "fin": 5.88,
+              "texto": "y que sean los mínimos, es decir, los justos"
+            },
+            {
+              "inicio": 5.88,
+              "fin": 7.92,
+              "texto": "para pagar lo esencial de los españoles"
+            },
+            {
+              "inicio": 7.92,
+              "fin": 11.02,
+              "texto": "Votar para que sea posible comprarse una casa"
+            },
+            {
+              "inicio": 11.02,
+              "fin": 13.2,
+              "texto": "para que los jóvenes puedan independizarse"
+            },
+            {
+              "inicio": 13.2,
+              "fin": 15.34,
+              "texto": "Votar para que vuelva la industria"
+            },
+            {
+              "inicio": 15.34,
+              "fin": 17.28,
+              "texto": "a nuestros pueblos y a nuestras ciudades"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 17.28,
+      "fin": 20.78,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Abascal pide el voto el 29N para bajar impuestos",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "id": "am20261124-1126-abascal-impuestos-vivienda",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
