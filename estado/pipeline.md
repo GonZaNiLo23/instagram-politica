@@ -153,3 +153,5 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 071 | am20261123-0930-ayuso-neutralidad | Al minuto (Ayuso, neutralidad en las aulas, huelga educativa Madrid) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-23 10:00 | sin revisores |
 | 072 | am20261123-1530-vox-querellas-consulados | Al minuto (Vox, querellas por urnas en consulados) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-23 16:00 | sin revisores |
 | 073 | am20261123-1930-vox-palencia | Al minuto (Vox, Abascal en Palencia: prioridad nacional y remigración) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-23 20:00 | sin revisores |
+
+**2026-11-24 (rutina claude.ai):** sin red (curl 000). 24-11 cubierto (066, 067); 25-11 para produccion.yml. Próximo número libre: 074. Informe en estado/informe-produccion-2026-11-24.md.
