@@ -165,3 +165,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 077 | ratios-guarderia | ⚙️ Cómo funciona · Servicio público | Flash | programado | 1 | 2 | 2026-11-26 13:30 (cola) | v2 APROBADO 9/10; recomprobar BOE |
 | 078 | fp-online-presencial | 🔴 Actualidad · Servicio público | Flash | programado | 1 | 2 | 2026-11-26 19:00 (cola) | v2 APROBADO 9/10; recomprobar BOE |
 **2026-11-25 (produccion.yml):** 26-11 cubierto (077 13:30, 078 19:00). Próximo número libre: 079. Informe en estado/informe-produccion-2026-11-25-nube.md.
+| am20261125-1130-vox-tres-ejes | vox-tres-ejes | 🔴 Actualidad | Al minuto | publicando (Al minuto horario) | 1 | 1 | 2026-11-25 12:00 | autocomprobación hecha |

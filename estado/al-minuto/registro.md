@@ -400,3 +400,7 @@
 - 2026-11-25 09:30 UTC (publicación 10:00 Madrid): sin publicación (ningún candidato llega a 3)
 - 2026-11-25 09:30 UTC · 2 · @vox_es (Abascal pide movilización contra «trampas» del voto de nietos, 56,4 s) · descartado: acusación de fraude electoral sin prueba (el censo/TS no lo dicen), mismo tema que consulados ya tratado el 23-11, transcripción dudosa; viral 29,2
 - 2026-11-25 09:30 UTC · 2 · @vox_es (Abascal, balance de Sánchez, 61,4 s) · descartado: insulto («psicopático»), generalizaciones sin dato, sin propuesta concreta; viral 26,2
+- 2026-11-25 11:30 UTC (publicación 12:00 Madrid) · 4 · @vox_es (Abascal, tres ejes de campaña: remigración, prioridad nacional y desregulación, tramo 17,8–43,5 s; subtítulos cotejados con la transcripción, «poniendo»→«oponiendo» y «regulación»→«desregulación» según el texto del reel; atribuido a Abascal/Vox, sin acusaciones; viral 11,8; +1 por propuestas con consecuencia directa) · publicado am20261125-1130-vox-tres-ejes
+- 2026-11-25 11:30 UTC · 2 · @sanchezcastejon (Nevenka, condecoración, 89,7 s) · descartado: acto institucional sin propuesta ni choque, mismo tema descartado a las 07:30; viral 157,1
+- 2026-11-25 11:30 UTC · 2 · @vox_es (Abascal, Ceuta y Feijóo, 59,3 s) · descartado: acusación a PP de gobernar con «islamistas», transcripción dudosa ("29 de febrero"); un envío por hora; viral 16,8
+- 2026-11-25 11:30 UTC · 2 · @vox_es (avalancha migratoria, 128 s) · descartado: «invasión» y generalizaciones sin dato; un envío por hora; viral 14,5
