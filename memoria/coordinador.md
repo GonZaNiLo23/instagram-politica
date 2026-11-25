@@ -75,3 +75,4 @@
 - [nube, 2026-11-24] Rutina claude.ai: red igual (curl 000). Informe y salida. Huecos del 25-11 para produccion.yml; próximo número libre 074 (066/067 repetidos en el tablero).
 - 2026-11-24 produccion.yml: 2 piezas (guion+vídeo+revisiones) en ~25 min con 2 en paralelo; render v2 sin --voz ahorra créditos; aplicar literales por SendMessage al guionista fue barato.
 - 2026-11-24 produccion.yml (11:40): huecos de hoy y mañana ya cubiertos en la cola; salida en 2 min sin subagentes.
+- 2026-11-25 produccion.yml: 2 piezas en ~60 min; el generador gastó la v1 en zonas seguras/tercio inferior (CAMBIOS 8/10 ambos): pedirlo desde el encargo ahorra una vuelta.

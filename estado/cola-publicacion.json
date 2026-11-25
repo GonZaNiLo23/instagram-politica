@@ -1128,5 +1128,12 @@
     "hora": "2026-11-26T13:30:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/077-ratios-guarderia-v1.md APROBADO (literales aplicados) · revisiones/videos/077-ratios-guarderia-v2.md APROBADO test 9/10",
     "estado": "pendiente"
+  },
+  {
+    "pieza": "078-fp-online-presencial",
+    "version": "v2",
+    "hora": "2026-11-26T19:00:00+01:00",
+    "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/078-fp-online-presencial-v1.md APROBADO (cambios aplicados) · revisiones/videos/078-fp-online-presencial-v2.md APROBADO test 9/10",
+    "estado": "pendiente"
   }
 ]
