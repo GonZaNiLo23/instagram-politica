@@ -1087,7 +1087,8 @@
     "version": "v2",
     "hora": "2026-11-25T13:30:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/069-permiso-fallecimiento-diez-dias-v1.md APROBADO (literales aplicados) · revisiones/videos/069-permiso-fallecimiento-diez-dias-v2.md APROBADO test 9/10",
-    "estado": "pendiente"
+    "estado": "error",
+    "error": "Error: Subida de 069-permiso-fallecimiento-diez-dias-v2.mp4 fallida: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"{\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"The ig container is not in the status to upload a video\\\"}}\"}}"
   },
   {
     "pieza": "am20261124-1126-abascal-impuestos-vivienda",

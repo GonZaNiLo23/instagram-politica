@@ -201,3 +201,4 @@
 - 2026-11-24T18:01:10.277Z · 067-dni-digital-29n: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-25T12:00:53.305Z · am20261125-1130-vox-tres-ejes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgKeukfJUK6/
 - 2026-11-25T12:00:56.408Z · am20261125-1130-vox-tres-ejes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-25T12:31:10.399Z · 069-permiso-fallecimiento-diez-dias: ERROR al publicar: Error: Subida de 069-permiso-fallecimiento-diez-dias-v2.mp4 fallida: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"{\"success\":false,\"error\":{\"message\":\"The ig container is not in the status to upload a video\"}}"}}
