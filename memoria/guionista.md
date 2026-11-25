@@ -104,4 +104,8 @@
 
 - [permiso fallecimiento, 069 2026-11-24] El día del Consejo, lamoncloa.gob.es (resumen 241126-rueda-prensa-consejo-ministros) daba 404 y WebSearch con allowed_domains ["lamoncloa.gob.es","boe.es"] no halló nada: solo "aprobará" (EFE vía Infobae 23-11, que.es 24-11). ET art. 37.3.b bis (2 días, +2 con viaje) en offset 100000 de BOE-A-2015-11430. Reintenta al día siguiente; mientras, verbo "anunció".
 
+- [ratios Infantil, 077 2026-11-25] Referencia Moncloa del 24-11 (lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261124-referencia-rueda-de-consejo-ministros.aspx) SÍ estaba el mismo día: WebFetch con offset 100000 da el apartado "Nuevas ratios máximas" (verbo "fija", 4-6-8, 2027-28 a 2029-30, entrada en vigor 2-1-2027, CCAA pueden bajar más). La nota del Ministerio dio socket hang up. Rótulos en el offset, no en el primer tramo.
+
+- [FP online, 078 2026-11-25] Referencia de Moncloa del 24-11 (lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261124-referencia-rueda-de-consejo-ministros.aspx) pesa 265.000 caracteres: la sección "Refuerzo de la calidad de los centros privados de FP" está en el offset 100000. Ratio final 80/65/50 en 2028-29/2029-30/2031-32 (no 2030-31, como decía la propuesta). La nota de Educación del 28-9 dio "socket hang up".
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)
