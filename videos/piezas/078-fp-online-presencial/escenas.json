@@ -1,0 +1,234 @@
+{
+  "plantilla": "flash",
+  "duracion": 29.96,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "FP ONLINE: HASTA 39 % PRESENCIAL",
+            "y": 340,
+            "tamano": 96,
+            "en": -1
+          },
+          {
+            "tipo": "barraFp",
+            "y": 900,
+            "alto": 100,
+            "etiqueta": "100 % ONLINE",
+            "a": 15,
+            "b": 39,
+            "en": -1,
+            "etiBanda": "PRESENCIAL",
+            "vivo": false
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "FP ONLINE PRIVADA: CON CLASES PRESENCIALES",
+          "y": 330,
+          "tamano": 96,
+          "en": -1
+        },
+        {
+          "tipo": "barraFp",
+          "y": 780,
+          "alto": 170,
+          "etiqueta": "100 % ONLINE",
+          "a": 15,
+          "b": 39,
+          "en": 0.3,
+          "etiBanda": "PRESENCIAL"
+        }
+      ]
+    },
+    {
+      "inicio": 4.22,
+      "fin": 8.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VIRTUAL: 15–⁠39 % PRESENCIAL",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraFp",
+          "y": 700,
+          "alto": 170,
+          "etiqueta": "VIRTUAL",
+          "a": 15,
+          "b": 39,
+          "en": 1.34,
+          "etiBanda": "PRESENCIAL"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Centros privados de FP"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 8.1,
+      "fin": 11.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CONSEJO DE MINISTROS · 24‑11‑2026",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "24‑11‑2026"
+          ],
+          "y": 800,
+          "en": 0.5,
+          "desde": 40,
+          "x": 540
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Pendiente de publicarse en el BOE"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 11.42,
+      "fin": 18.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SEMIPRESENCIAL: 40–60 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.23
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DECRETO DE GARANTÍA DE CALIDAD",
+          "y": 330,
+          "en": 4.48,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraFp",
+          "y": 500,
+          "etiqueta": "VIRTUAL",
+          "a": 15,
+          "b": 39,
+          "en": -1,
+          "enBarra": -1,
+          "ghost": true,
+          "vivo": false
+        },
+        {
+          "tipo": "barraFp",
+          "y": 800,
+          "etiqueta": "SEMIPRESENCIAL",
+          "a": 40,
+          "b": 60,
+          "en": 1.44,
+          "etiBanda": "PRESENCIAL"
+        }
+      ]
+    },
+    {
+      "inicio": 18.02,
+      "fin": 22.91,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VIRTUAL: 80 → 65 → 50 ALUMNOS/DOCENTE",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "topeFp",
+          "y": 560,
+          "paso": 200,
+          "filas": [
+            {
+              "valor": 80,
+              "curso": "2028-29",
+              "en": 1.18
+            },
+            {
+              "valor": 65,
+              "curso": "2029-30",
+              "en": 2.7
+            },
+            {
+              "valor": 50,
+              "curso": "2031-32",
+              "en": 3.5999999999999996,
+              "resalta": true
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cursos 2028-29, 2029-30 y 2031-32"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 22.91,
+      "fin": 29.96,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿TAMBIÉN A LA FP PÚBLICA?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

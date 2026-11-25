@@ -1,0 +1,610 @@
+{
+  "plantilla": "flash",
+  "duracion": 29.96,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "FP ONLINE: HASTA 39 % PRESENCIAL",
+            "y": 340,
+            "tamano": 96,
+            "en": -1
+          },
+          {
+            "tipo": "barraFp",
+            "y": 900,
+            "alto": 100,
+            "etiqueta": "100 % ONLINE",
+            "a": 15,
+            "b": 39,
+            "en": -1,
+            "etiBanda": "PRESENCIAL",
+            "vivo": false
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "FP ONLINE PRIVADA: CON CLASES PRESENCIALES",
+          "y": 330,
+          "tamano": 96,
+          "en": -1
+        },
+        {
+          "tipo": "barraFp",
+          "y": 780,
+          "alto": 170,
+          "etiqueta": "100 % ONLINE",
+          "a": 15,
+          "b": 39,
+          "en": 0.3,
+          "etiBanda": "PRESENCIAL"
+        }
+      ]
+    },
+    {
+      "inicio": 4.22,
+      "fin": 8.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VIRTUAL: 15–⁠39 % PRESENCIAL",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraFp",
+          "y": 700,
+          "alto": 170,
+          "etiqueta": "VIRTUAL",
+          "a": 15,
+          "b": 39,
+          "en": 1.34,
+          "etiBanda": "PRESENCIAL"
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Centros privados de FP"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 8.1,
+      "fin": 11.42,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CONSEJO DE MINISTROS · 24‑11‑2026",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "24‑11‑2026"
+          ],
+          "y": 800,
+          "en": 0.5,
+          "desde": 40,
+          "x": 540
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Pendiente de publicarse en el BOE"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 11.42,
+      "fin": 18.02,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SEMIPRESENCIAL: 40–60 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 4.23
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DECRETO DE GARANTÍA DE CALIDAD",
+          "y": 330,
+          "en": 4.48,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraFp",
+          "y": 500,
+          "etiqueta": "VIRTUAL",
+          "a": 15,
+          "b": 39,
+          "en": -1,
+          "enBarra": -1,
+          "ghost": true,
+          "vivo": false
+        },
+        {
+          "tipo": "barraFp",
+          "y": 800,
+          "etiqueta": "SEMIPRESENCIAL",
+          "a": 40,
+          "b": 60,
+          "en": 1.44,
+          "etiBanda": "PRESENCIAL"
+        }
+      ]
+    },
+    {
+      "inicio": 18.02,
+      "fin": 22.91,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "VIRTUAL: 80 → 65 → 50 ALUMNOS/DOCENTE",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "topeFp",
+          "y": 560,
+          "paso": 200,
+          "filas": [
+            {
+              "valor": 80,
+              "curso": "2028-29",
+              "en": 1.18
+            },
+            {
+              "valor": 65,
+              "curso": "2029-30",
+              "en": 2.7
+            },
+            {
+              "valor": 50,
+              "curso": "2031-32",
+              "en": 3.5999999999999996,
+              "resalta": true
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cursos 2028-29, 2029-30 y 2031-32"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 22.91,
+      "fin": 29.96,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿TAMBIÉN A LA FP PÚBLICA?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "078-fp-online-presencial",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "¿FP",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "t": "online",
+      "inicio": 0.64,
+      "fin": 0.88
+    },
+    {
+      "t": "en",
+      "inicio": 0.96,
+      "fin": 1.04
+    },
+    {
+      "t": "un",
+      "inicio": 1.12,
+      "fin": 1.2
+    },
+    {
+      "t": "centro",
+      "inicio": 1.28,
+      "fin": 1.52
+    },
+    {
+      "t": "privado?",
+      "inicio": 1.6,
+      "fin": 2.2
+    },
+    {
+      "t": "Tendrá",
+      "inicio": 2.4,
+      "fin": 2.64
+    },
+    {
+      "t": "clases",
+      "inicio": 2.72,
+      "fin": 3.12
+    },
+    {
+      "t": "presenciales.",
+      "inicio": 3.2,
+      "fin": 4.12
+    },
+    {
+      "t": "La",
+      "inicio": 4.32,
+      "fin": 4.4
+    },
+    {
+      "t": "virtual",
+      "inicio": 4.64,
+      "fin": 4.88
+    },
+    {
+      "t": "tendrá",
+      "inicio": 4.96,
+      "fin": 5.28
+    },
+    {
+      "t": "entre",
+      "inicio": 5.4,
+      "fin": 5.52
+    },
+    {
+      "t": "un",
+      "inicio": 5.6,
+      "fin": 5.68
+    },
+    {
+      "t": "quince",
+      "inicio": 5.76,
+      "fin": 6.08
+    },
+    {
+      "t": "y",
+      "inicio": 6.24,
+      "fin": 6.32
+    },
+    {
+      "t": "un",
+      "inicio": 6.4,
+      "fin": 6.56
+    },
+    {
+      "t": "treinta",
+      "inicio": 6.64,
+      "fin": 6.88
+    },
+    {
+      "t": "y",
+      "inicio": 6.96,
+      "fin": 7.04
+    },
+    {
+      "t": "nueve",
+      "inicio": 7.08,
+      "fin": 7.2
+    },
+    {
+      "t": "por",
+      "inicio": 7.36,
+      "fin": 7.44
+    },
+    {
+      "t": "ciento",
+      "inicio": 7.52,
+      "fin": 7.68
+    },
+    {
+      "t": "presencial.",
+      "inicio": 7.76,
+      "fin": 8.6
+    },
+    {
+      "t": "El",
+      "inicio": 8.8,
+      "fin": 8.88
+    },
+    {
+      "t": "Consejo",
+      "inicio": 8.96,
+      "fin": 9.28
+    },
+    {
+      "t": "de",
+      "inicio": 9.36,
+      "fin": 9.4
+    },
+    {
+      "t": "Ministros",
+      "inicio": 9.44,
+      "fin": 9.92
+    },
+    {
+      "t": "lo",
+      "inicio": 9.96,
+      "fin": 10
+    },
+    {
+      "t": "aprobó",
+      "inicio": 10.08,
+      "fin": 10.4
+    },
+    {
+      "t": "este",
+      "inicio": 10.52,
+      "fin": 10.64
+    },
+    {
+      "t": "martes.",
+      "inicio": 10.76,
+      "fin": 11.32
+    },
+    {
+      "t": "La",
+      "inicio": 11.52,
+      "fin": 11.6
+    },
+    {
+      "t": "semipresencial,",
+      "inicio": 11.68,
+      "fin": 12.64
+    },
+    {
+      "t": "entre",
+      "inicio": 12.76,
+      "fin": 12.88
+    },
+    {
+      "t": "un",
+      "inicio": 12.96,
+      "fin": 13.12
+    },
+    {
+      "t": "cuarenta",
+      "inicio": 13.16,
+      "fin": 13.64
+    },
+    {
+      "t": "y",
+      "inicio": 13.76,
+      "fin": 13.8
+    },
+    {
+      "t": "un",
+      "inicio": 13.84,
+      "fin": 14
+    },
+    {
+      "t": "sesenta.",
+      "inicio": 14.08,
+      "fin": 14.88
+    },
+    {
+      "t": "El",
+      "inicio": 14.96,
+      "fin": 15.04
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 15.173,
+      "fin": 15.44
+    },
+    {
+      "t": "lo",
+      "inicio": 15.52,
+      "fin": 15.6
+    },
+    {
+      "t": "llama",
+      "inicio": 15.64,
+      "fin": 15.84
+    },
+    {
+      "t": "decreto",
+      "inicio": 16,
+      "fin": 16.48
+    },
+    {
+      "t": "de",
+      "inicio": 16.56,
+      "fin": 16.6
+    },
+    {
+      "t": "garantía",
+      "inicio": 16.64,
+      "fin": 17.2
+    },
+    {
+      "t": "de",
+      "inicio": 17.24,
+      "fin": 17.28
+    },
+    {
+      "t": "calidad.",
+      "inicio": 17.36,
+      "fin": 18.08
+    },
+    {
+      "t": "Y",
+      "inicio": 18.12,
+      "fin": 18.16
+    },
+    {
+      "t": "en",
+      "inicio": 18.2,
+      "fin": 18.24
+    },
+    {
+      "t": "la",
+      "inicio": 18.28,
+      "fin": 18.32
+    },
+    {
+      "t": "virtual,",
+      "inicio": 18.56,
+      "fin": 18.96
+    },
+    {
+      "t": "el",
+      "inicio": 19,
+      "fin": 19.04
+    },
+    {
+      "t": "tope",
+      "inicio": 19.2,
+      "fin": 19.36
+    },
+    {
+      "t": "de",
+      "inicio": 19.44,
+      "fin": 19.48
+    },
+    {
+      "t": "alumnos",
+      "inicio": 19.52,
+      "fin": 19.92
+    },
+    {
+      "t": "por",
+      "inicio": 20,
+      "fin": 20.08
+    },
+    {
+      "t": "docente",
+      "inicio": 20.2,
+      "fin": 20.56
+    },
+    {
+      "t": "bajará",
+      "inicio": 20.72,
+      "fin": 21.12
+    },
+    {
+      "t": "de",
+      "inicio": 21.16,
+      "fin": 21.2
+    },
+    {
+      "t": "ochenta",
+      "inicio": 21.32,
+      "fin": 21.68
+    },
+    {
+      "t": "a",
+      "inicio": 21.84,
+      "fin": 22
+    },
+    {
+      "t": "cincuenta.",
+      "inicio": 22.04,
+      "fin": 22.96
+    },
+    {
+      "t": "¿Debería",
+      "inicio": 23.013,
+      "fin": 23.36
+    },
+    {
+      "t": "exigirse",
+      "inicio": 23.44,
+      "fin": 23.92
+    },
+    {
+      "t": "también",
+      "inicio": 24,
+      "fin": 24.32
+    },
+    {
+      "t": "a",
+      "inicio": 24.36,
+      "fin": 24.4
+    },
+    {
+      "t": "la",
+      "inicio": 24.48,
+      "fin": 24.56
+    },
+    {
+      "t": "FP",
+      "inicio": 24.64,
+      "fin": 24.88
+    },
+    {
+      "t": "pública?",
+      "inicio": 25.04,
+      "fin": 25.84
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 25.88,
+      "fin": 26.4
+    },
+    {
+      "t": "para",
+      "inicio": 26.48,
+      "fin": 26.56
+    },
+    {
+      "t": "estar",
+      "inicio": 26.68,
+      "fin": 26.8
+    },
+    {
+      "t": "informado.",
+      "inicio": 26.88,
+      "fin": 27.6
+    }
+  ]
+}

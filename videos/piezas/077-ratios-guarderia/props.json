@@ -1,0 +1,700 @@
+{
+  "plantilla": "flash",
+  "duracion": 35.54,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "4 BEBÉS… PERO AÚN NO",
+            "y": 340,
+            "tamano": 110,
+            "en": -1
+          },
+          {
+            "tipo": "cunasG",
+            "y": 830,
+            "dosFilas": false,
+            "fases": [
+              {
+                "n": 4,
+                "en": -1,
+                "bebe": 1
+              }
+            ]
+          },
+          {
+            "tipo": "ejeG",
+            "etiqueta": "2027-28",
+            "y": 1130,
+            "en": -1
+          },
+          {
+            "tipo": "selloTexto",
+            "lineas": [
+              "AÚN NO"
+            ],
+            "x": 400,
+            "y": 935,
+            "tamano": 72,
+            "angulo": -5,
+            "desde": 0,
+            "en": 0
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 6.78,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "4 BEBÉS… PERO AÚN NO",
+          "y": 320,
+          "tamano": 110,
+          "en": -1
+        },
+        {
+          "tipo": "cunasG",
+          "y": 800,
+          "dosFilas": false,
+          "fases": [
+            {
+              "n": 4,
+              "en": -1,
+              "bebe": 1
+            }
+          ]
+        },
+        {
+          "tipo": "ejeG",
+          "etiqueta": "2027-28",
+          "y": 1090,
+          "en": 2.8129999999999997
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "AÚN NO"
+          ],
+          "x": 400,
+          "y": 905,
+          "tamano": 72,
+          "angulo": -5,
+          "desde": 0,
+          "en": 3.1
+        }
+      ]
+    },
+    {
+      "inicio": 6.78,
+      "fin": 12.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "0-1 AÑO: 4",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "1-2 AÑOS: 6",
+          "y": 420,
+          "en": 1.92,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "2-3 AÑOS: 8",
+          "y": 510,
+          "en": 3.8,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Máximo por profesional",
+          "y": 605,
+          "en": 4.02,
+          "tamano": 64
+        },
+        {
+          "tipo": "cunasG",
+          "y": 920,
+          "fases": [
+            {
+              "n": 4,
+              "en": -1,
+              "bebe": 0.8
+            },
+            {
+              "n": 6,
+              "en": 3.04,
+              "bebe": 1
+            },
+            {
+              "n": 8,
+              "en": 5.04,
+              "bebe": 1.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 12.58,
+      "fin": 14.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Consejo de Ministros, 24-11",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "calendarioX",
+          "mes": "NOVIEMBRE",
+          "primer": 6,
+          "dias": 30,
+          "y": 720,
+          "cw": 100,
+          "ch": 72,
+          "fuente": 44,
+          "aro": {
+            "d": 24,
+            "en": 0.4
+          },
+          "en": 0.1
+        },
+        {
+          "tipo": "fuente",
+          "texto": "Fuente: Moncloa",
+          "en": 0.5
+        }
+      ]
+    },
+    {
+      "inicio": 14.58,
+      "fin": 21.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "hitosG",
+          "y": 470,
+          "paso": 240,
+          "items": [
+            {
+              "lineas": [
+                "En vigor:",
+                "2-1-2027"
+              ],
+              "en": 0.05
+            },
+            {
+              "lineas": [
+                "2027-28:",
+                "primer curso"
+              ],
+              "en": 2.73
+            },
+            {
+              "lineas": [
+                "2029-30:",
+                "todos los cursos"
+              ],
+              "en": 4.36
+            }
+          ]
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "POR CURSOS"
+          ],
+          "x": 500,
+          "y": 1060,
+          "tamano": 72,
+          "angulo": -3,
+          "desde": 60,
+          "en": 3.5
+        }
+      ]
+    },
+    {
+      "inicio": 21.58,
+      "fin": 28.25,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "CCAA: pueden bajar más",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Recursos: a garantizar",
+          "y": 440,
+          "en": 2.96,
+          "tamano": 64
+        },
+        {
+          "tipo": "bajaG",
+          "y": 780,
+          "en": 0.5,
+          "enMonedas": 4.82
+        },
+        {
+          "tipo": "fuente",
+          "texto": "Fuente: Moncloa",
+          "en": 1
+        }
+      ]
+    },
+    {
+      "inicio": 28.25,
+      "fin": 32.25,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "¿4 o menos?",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 96
+        },
+        {
+          "tipo": "abSerie",
+          "a": "4",
+          "b": "MENOS",
+          "y": 560,
+          "en": 1.75
+        },
+        {
+          "tipo": "cunasG",
+          "y": 1080,
+          "dosFilas": false,
+          "fases": [
+            {
+              "n": 4,
+              "en": -1,
+              "bebe": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 32.25,
+      "fin": 35.54,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿4 O MENOS?",
+          "cta": "siguenos",
+          "tamano": 84,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "077-ratios-guarderia",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Cuatro",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "t": "bebés",
+      "inicio": 0.32,
+      "fin": 0.64
+    },
+    {
+      "t": "por",
+      "inicio": 0.72,
+      "fin": 0.8
+    },
+    {
+      "t": "profesional,",
+      "inicio": 0.88,
+      "fin": 1.76
+    },
+    {
+      "t": "como",
+      "inicio": 1.88,
+      "fin": 2
+    },
+    {
+      "t": "máximo.",
+      "inicio": 2.08,
+      "fin": 2.96
+    },
+    {
+      "t": "Pero",
+      "inicio": 3.013,
+      "fin": 3.12
+    },
+    {
+      "t": "no",
+      "inicio": 3.2,
+      "fin": 3.36
+    },
+    {
+      "t": "hasta",
+      "inicio": 3.4,
+      "fin": 3.6
+    },
+    {
+      "t": "el",
+      "inicio": 3.64,
+      "fin": 3.68
+    },
+    {
+      "t": "curso",
+      "inicio": 3.76,
+      "fin": 4
+    },
+    {
+      "t": "2027-2028.",
+      "inicio": 4.08,
+      "fin": 6.8
+    },
+    {
+      "t": "Menos",
+      "inicio": 6.88,
+      "fin": 7.12
+    },
+    {
+      "t": "de",
+      "inicio": 7.2,
+      "fin": 7.24
+    },
+    {
+      "t": "un",
+      "inicio": 7.28,
+      "fin": 7.36
+    },
+    {
+      "t": "año,",
+      "inicio": 7.4,
+      "fin": 7.92
+    },
+    {
+      "t": "cuatro.",
+      "inicio": 8,
+      "fin": 8.72
+    },
+    {
+      "t": "De",
+      "inicio": 8.8,
+      "fin": 8.88
+    },
+    {
+      "t": "uno",
+      "inicio": 8.96,
+      "fin": 9.04
+    },
+    {
+      "t": "a",
+      "inicio": 9.12,
+      "fin": 9.2
+    },
+    {
+      "t": "dos,",
+      "inicio": 9.36,
+      "fin": 9.84
+    },
+    {
+      "t": "seis.",
+      "inicio": 9.92,
+      "fin": 10.64
+    },
+    {
+      "t": "De",
+      "inicio": 10.68,
+      "fin": 10.72
+    },
+    {
+      "t": "dos",
+      "inicio": 10.8,
+      "fin": 10.96
+    },
+    {
+      "t": "a",
+      "inicio": 11.04,
+      "fin": 11.12
+    },
+    {
+      "t": "tres,",
+      "inicio": 11.28,
+      "fin": 11.84
+    },
+    {
+      "t": "ocho.",
+      "inicio": 11.92,
+      "fin": 12.64
+    },
+    {
+      "t": "El",
+      "inicio": 12.68,
+      "fin": 12.72
+    },
+    {
+      "t": "Gobierno",
+      "inicio": 12.8,
+      "fin": 13.2
+    },
+    {
+      "t": "lo",
+      "inicio": 13.28,
+      "fin": 13.36
+    },
+    {
+      "t": "aprobó",
+      "inicio": 13.44,
+      "fin": 13.68
+    },
+    {
+      "t": "el",
+      "inicio": 13.76,
+      "fin": 13.84
+    },
+    {
+      "t": "martes.",
+      "inicio": 13.92,
+      "fin": 14.56
+    },
+    {
+      "t": "Entrará",
+      "inicio": 14.68,
+      "fin": 14.96
+    },
+    {
+      "t": "en",
+      "inicio": 15,
+      "fin": 15.04
+    },
+    {
+      "t": "vigor",
+      "inicio": 15.08,
+      "fin": 15.36
+    },
+    {
+      "t": "en",
+      "inicio": 15.4,
+      "fin": 15.44
+    },
+    {
+      "t": "enero",
+      "inicio": 15.52,
+      "fin": 15.84
+    },
+    {
+      "t": "de",
+      "inicio": 15.88,
+      "fin": 15.92
+    },
+    {
+      "t": "2027.",
+      "inicio": 16,
+      "fin": 17.36
+    },
+    {
+      "t": "Llegará",
+      "inicio": 17.413,
+      "fin": 17.76
+    },
+    {
+      "t": "a",
+      "inicio": 17.84,
+      "fin": 18
+    },
+    {
+      "t": "todos",
+      "inicio": 18.08,
+      "fin": 18.32
+    },
+    {
+      "t": "los",
+      "inicio": 18.4,
+      "fin": 18.56
+    },
+    {
+      "t": "cursos",
+      "inicio": 18.6,
+      "fin": 18.96
+    },
+    {
+      "t": "en",
+      "inicio": 19.04,
+      "fin": 19.12
+    },
+    {
+      "t": "2029-2030.",
+      "inicio": 19.2,
+      "fin": 21.6
+    },
+    {
+      "t": "Las",
+      "inicio": 21.68,
+      "fin": 21.76
+    },
+    {
+      "t": "comunidades",
+      "inicio": 21.84,
+      "fin": 22.4
+    },
+    {
+      "t": "pueden",
+      "inicio": 22.44,
+      "fin": 22.72
+    },
+    {
+      "t": "poner",
+      "inicio": 22.8,
+      "fin": 22.96
+    },
+    {
+      "t": "ratios",
+      "inicio": 23.04,
+      "fin": 23.44
+    },
+    {
+      "t": "más",
+      "inicio": 23.48,
+      "fin": 23.6
+    },
+    {
+      "t": "bajas.",
+      "inicio": 23.68,
+      "fin": 24.4
+    },
+    {
+      "t": "Las",
+      "inicio": 24.48,
+      "fin": 24.56
+    },
+    {
+      "t": "administraciones",
+      "inicio": 24.64,
+      "fin": 25.44
+    },
+    {
+      "t": "deberán",
+      "inicio": 25.48,
+      "fin": 25.76
+    },
+    {
+      "t": "garantizar",
+      "inicio": 25.84,
+      "fin": 26.32
+    },
+    {
+      "t": "los",
+      "inicio": 26.4,
+      "fin": 26.56
+    },
+    {
+      "t": "recursos",
+      "inicio": 26.68,
+      "fin": 27.12
+    },
+    {
+      "t": "necesarios.",
+      "inicio": 27.16,
+      "fin": 28.32
+    },
+    {
+      "t": "¿Cuatro",
+      "inicio": 28.347,
+      "fin": 28.56
+    },
+    {
+      "t": "por",
+      "inicio": 28.64,
+      "fin": 28.8
+    },
+    {
+      "t": "profesional",
+      "inicio": 28.92,
+      "fin": 29.44
+    },
+    {
+      "t": "te",
+      "inicio": 29.52,
+      "fin": 29.6
+    },
+    {
+      "t": "parece",
+      "inicio": 29.68,
+      "fin": 29.92
+    },
+    {
+      "t": "suficiente",
+      "inicio": 30,
+      "fin": 30.72
+    },
+    {
+      "t": "o",
+      "inicio": 30.84,
+      "fin": 30.96
+    },
+    {
+      "t": "pedirías",
+      "inicio": 31.04,
+      "fin": 31.44
+    },
+    {
+      "t": "menos?",
+      "inicio": 31.52,
+      "fin": 32.32
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 32.347,
+      "fin": 32.8
+    },
+    {
+      "t": "para",
+      "inicio": 32.88,
+      "fin": 33.04
+    },
+    {
+      "t": "estar",
+      "inicio": 33.16,
+      "fin": 33.28
+    },
+    {
+      "t": "informado.",
+      "inicio": 33.44,
+      "fin": 34.08
+    }
+  ]
+}
