@@ -397,3 +397,6 @@
 - 2026-11-24 19:30 UTC · 2 · @vox_es (votar en masa 29N, vigilancia de urnas y consulados, 176,2 s) · descartado: acusaciones de fraude y «mafia de corrupción» sin prueba, tema consulados ya publicado el 23-11, sin tramo limpio; viral 38,2
 - 2026-11-25 07:30 UTC (publicación 08:00 Madrid): sin publicación (ningún candidato llega a 3)
 - 2026-11-25 07:30 UTC · 2 · La Moncloa (condecoración a Nevenka Fernández, 95 s) · descartado: acto institucional sin propuesta ni choque, transcripción dudosa («para el acoso sexual», «tuvo a la altura», frase final confusa), sin tramo limpio de 15–40 s; único candidato; viral 50
+- 2026-11-25 09:30 UTC (publicación 10:00 Madrid): sin publicación (ningún candidato llega a 3)
+- 2026-11-25 09:30 UTC · 2 · @vox_es (Abascal pide movilización contra «trampas» del voto de nietos, 56,4 s) · descartado: acusación de fraude electoral sin prueba (el censo/TS no lo dicen), mismo tema que consulados ya tratado el 23-11, transcripción dudosa; viral 29,2
+- 2026-11-25 09:30 UTC · 2 · @vox_es (Abascal, balance de Sánchez, 61,4 s) · descartado: insulto («psicopático»), generalizaciones sin dato, sin propuesta concreta; viral 26,2
