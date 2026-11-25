@@ -404,3 +404,9 @@
 - 2026-11-25 11:30 UTC · 2 · @sanchezcastejon (Nevenka, condecoración, 89,7 s) · descartado: acto institucional sin propuesta ni choque, mismo tema descartado a las 07:30; viral 157,1
 - 2026-11-25 11:30 UTC · 2 · @vox_es (Abascal, Ceuta y Feijóo, 59,3 s) · descartado: acusación a PP de gobernar con «islamistas», transcripción dudosa ("29 de febrero"); un envío por hora; viral 16,8
 - 2026-11-25 11:30 UTC · 2 · @vox_es (avalancha migratoria, 128 s) · descartado: «invasión» y generalizaciones sin dato; un envío por hora; viral 14,5
+- 2026-11-25 13:30 UTC (publicación 14:00 Madrid): sin publicación (ningún candidato llega a 3)
+- 2026-11-25 13:30 UTC · 2 · @alviseperez (réplica a Irene Montero, 215,9 s) · descartado: ataques personales (tesis, inglés), cifras de la reforma penal no verificadas en el clip y transcripción muy dudosa, sin tramo limpio de 15–40 s; viral 1038,9
+- 2026-11-25 13:30 UTC · 2 · @sanchezcastejon (violencia digital 25N, 169,4 s) · descartado: hablante sin identificar, sin propuesta ni choque; viral 146,5
+- 2026-11-25 13:30 UTC · 2 · @gabrielrufian (discurso en catalán en el Congreso, 60,1 s) · descartado: transcripción mezclada y dudosa, sin tramo limpio que se entienda solo; viral 128,3
+- 2026-11-25 13:30 UTC · 2 · @vox_es (Abascal, «recortar el estado de bienestar de los políticos», 59,2 s) · descartado: sin medida concreta, acusaciones genéricas a PSOE, mismo discurso de campaña publicado a las 12:00; viral 17,5
+- 2026-11-25 13:30 UTC · 2 · @vox_es (Garriga, mujeres, 90,7 s) · descartado: «violaciones triplicadas» y «mayor enemigo de las mujeres» sin dato contrastado, tema ya publicado ayer; viral 13,4
