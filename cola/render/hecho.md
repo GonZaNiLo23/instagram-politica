@@ -69,3 +69,4 @@
 - 2026-11-24T11:36:22Z · am20261124-1126-abascal-impuestos-vivienda v1 · OK · ffprobe: h264 1080x1920 @30/1 · 20.90 s (objetivo 20.78 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-24T13:38:54Z · am20261124-1330-vox-mujeres-cadena v1 · OK · ffprobe: h264 1080x1920 @30/1 · 18.09 s (objetivo 18.02 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-24T15:40:11Z · am20261124-1526-sanchez-prestamo-vivienda v1 · OK · ffprobe: h264 1080x1920 @30/1 · 22.60 s (objetivo 22.5 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-25T11:45:08Z · am20261125-1130-vox-tres-ejes v1 · OK · ffprobe: h264 1080x1920 @30/1 · 29.30 s (objetivo 29.2 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 

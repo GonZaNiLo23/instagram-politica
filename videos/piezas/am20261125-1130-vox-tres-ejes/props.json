@@ -1,0 +1,106 @@
+{
+  "plantilla": "alminuto",
+  "duracion": 29.2,
+  "portadaSegundo": 1,
+  "marca": "@loquepasaenunminuto",
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 25.7,
+      "fondo": "tinta",
+      "componentes": [
+        {
+          "tipo": "clip",
+          "src": "clip.mp4",
+          "zoom": [
+            1,
+            1.03
+          ],
+          "dur": 25.7,
+          "fundidoFin": 25.7
+        },
+        {
+          "tipo": "titularAM",
+          "texto": "VOX DEFIENDE REMIGRACIÓN Y PRIORIDAD NACIONAL",
+          "fecha": "25 NOV",
+          "credito": "Vídeo: @vox_es"
+        },
+        {
+          "tipo": "citas",
+          "lineas": [
+            {
+              "inicio": 0,
+              "fin": 2.4,
+              "texto": "Claro, cuando Vox habla de remigración,"
+            },
+            {
+              "inicio": 2.5,
+              "fin": 4.6,
+              "texto": "de los que están ilegales, de los que cometen delitos,"
+            },
+            {
+              "inicio": 5.18,
+              "fin": 8.1,
+              "texto": "de los que están viviendo de las ayudas sociales que hacen falta a los españoles,"
+            },
+            {
+              "inicio": 8.2,
+              "fin": 10.9,
+              "texto": "o cuando Vox habla de prioridad nacional en el acceso"
+            },
+            {
+              "inicio": 11,
+              "fin": 13.4,
+              "texto": "a las ayudas públicas, a las ayudas al alquiler,"
+            },
+            {
+              "inicio": 13.5,
+              "fin": 16,
+              "texto": "o cuando Vox habla de desregulación de la economía,"
+            },
+            {
+              "inicio": 16.1,
+              "fin": 19,
+              "texto": "eliminando todos los impactos de la agenda verde,"
+            },
+            {
+              "inicio": 19,
+              "fin": 21.7,
+              "texto": "de la agenda 2030, de las agendas de género,"
+            },
+            {
+              "inicio": 22.15,
+              "fin": 23.85,
+              "texto": "Vox se está oponiendo a cosas"
+            },
+            {
+              "inicio": 23.9,
+              "fin": 25.7,
+              "texto": "que PP y PSOE han pactado en Bruselas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 25.7,
+      "fin": 29.2,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "Vox sitúa su campaña en remigración y prioridad nacional",
+          "tamano": 84,
+          "guardaEn": 0.1
+        }
+      ]
+    }
+  ],
+  "sinVoz": true,
+  "id": "am20261125-1130-vox-tres-ejes",
+  "audio": null,
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": []
+}
