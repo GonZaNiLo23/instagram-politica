@@ -199,3 +199,5 @@
 - 2026-11-24T16:00:44.549Z · am20261124-1526-sanchez-prestamo-vivienda: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
 - 2026-11-24T18:01:08.969Z · 067-dni-digital-29n v2: PUBLICADA en Instagram https://www.instagram.com/reel/DgIjJWsjjyz/
 - 2026-11-24T18:01:10.277Z · 067-dni-digital-29n: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+- 2026-11-25T12:00:53.305Z · am20261125-1130-vox-tres-ejes v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgKeukfJUK6/
+- 2026-11-25T12:00:56.408Z · am20261125-1130-vox-tres-ejes: TikTok en la bandeja de borradores (falta publicarlo desde la app)
