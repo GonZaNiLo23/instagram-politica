@@ -160,3 +160,5 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 074 | am20261124-1126-abascal-impuestos-vivienda | Al minuto (Abascal, votar el 29N para bajar impuestos y vivienda) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-24 12:00 | sin revisores |
 | 075 | am20261124-1330-vox-mujeres-cadena | Al minuto (Vox, seguridad de las mujeres: cadena perpetua para violadores) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-24 14:00 | sin revisores |
 | 076 | am20261124-1526-sanchez-prestamo-vivienda | Al minuto (Sánchez, préstamo público de 50.000 € para la entrada de vivienda) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-24 16:00 | sin revisores |
+
+**2026-11-25 (rutina claude.ai):** sin red. 25-11 cubierto (069, 068); 26 y 27-11 para produccion.yml. Próximo número libre: 077. Informe en estado/informe-produccion-2026-11-25.md.
