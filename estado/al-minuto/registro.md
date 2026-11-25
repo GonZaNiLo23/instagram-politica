@@ -395,3 +395,5 @@
 - 2026-11-24 19:30 UTC · 2 · @sanchezcastejon (movilización histórica y remontada 29N, 38,4 s) · descartado: mitin de campaña sin medida concreta, mismo tipo ya descartado/publicado hoy; viral 165,7
 - 2026-11-24 19:30 UTC · 2 · @partidopopular (cruce con Sánchez sobre vivienda y alquileres, 51,2 s) · descartado: hablante no identificado en el clip, cita atribuida al vicepresidente no contrastable, transcripción dudosa («Crusteller»), vivienda ya publicada hace 4 h; viral 119,9
 - 2026-11-24 19:30 UTC · 2 · @vox_es (votar en masa 29N, vigilancia de urnas y consulados, 176,2 s) · descartado: acusaciones de fraude y «mafia de corrupción» sin prueba, tema consulados ya publicado el 23-11, sin tramo limpio; viral 38,2
+- 2026-11-25 07:30 UTC (publicación 08:00 Madrid): sin publicación (ningún candidato llega a 3)
+- 2026-11-25 07:30 UTC · 2 · La Moncloa (condecoración a Nevenka Fernández, 95 s) · descartado: acto institucional sin propuesta ni choque, transcripción dudosa («para el acoso sexual», «tuvo a la altura», frase final confusa), sin tramo limpio de 15–40 s; único candidato; viral 50
