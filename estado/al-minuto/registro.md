@@ -414,3 +414,4 @@
 - 2026-11-25 17:30 UTC (publicación 18:00 Madrid): sin publicación (ningún candidato llega a 3)
 - 2026-11-25 17:30 UTC · 2 · @vox_es (okupas, 81 s) · descartado: hablante sin identificar (escena con diálogo), acusa al Gobierno de querer que se asalten casas sin prueba, lenguaje soez al final, sin tramo limpio de 15–40 s; viral 32,3
 - 2026-11-25 17:30 UTC · 1 · @psoe (29N, permisos de cuidado, 77,3 s) · descartado: testimonios de particulares sin identificar, sin medida concreta; viral 3,9
+- 2026-11-25 19:30 UTC (publicación 20:00 Madrid): sin publicación (sin candidatos; el radar no detectó ninguno)
