@@ -168,4 +168,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 **2026-11-25 (produccion.yml):** 26-11 cubierto (077 13:30, 078 19:00). Próximo número libre: 079. Informe en estado/informe-produccion-2026-11-25-nube.md.
 | am20261125-1130-vox-tres-ejes | vox-tres-ejes | 🔴 Actualidad | Al minuto | publicando (Al minuto horario) | 1 | 1 | 2026-11-25 12:00 | autocomprobación hecha |
 | 079 | tope-22-tae-credito | ⚙️ Cómo funciona · Bolsillo | Flash | guion-borrador | 0 | 0 | 2026-11-27 13:30 (previsto) | de propuestas 2026-11-26 tema 1 |
-| 080 | iva-anual-autonomos | 🔴 Actualidad · Bolsillo | Flash | guion-borrador | 0 | 0 | 2026-11-27 19:00 (previsto) | de propuestas 2026-11-26 tema 2 |
+| 080 | iva-anual-autonomos | 🔴 Actualidad · Bolsillo | Flash | programado | 1 | 2 | 2026-11-27 19:00 (previsto) | de propuestas 2026-11-26 tema 2 |

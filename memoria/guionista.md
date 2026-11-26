@@ -108,4 +108,8 @@
 
 - [FP online, 078 2026-11-25] Referencia de Moncloa del 24-11 (lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261124-referencia-rueda-de-consejo-ministros.aspx) pesa 265.000 caracteres: la sección "Refuerzo de la calidad de los centros privados de FP" está en el offset 100000. Ratio final 80/65/50 en 2028-29/2029-30/2031-32 (no 2030-31, como decía la propuesta). La nota de Educación del 28-9 dio "socket hang up".
 
+- [IVA anual, RDL 43/2026, 080 2026-11-26] boe.es/diario_boe/txt.php?id=BOE-A-2026-24701 abre con WebFetch (117.785 caracteres; disp. final 4.ª en offset 100000: vigor 26-11). Los tres años son de la renuncia, no de la opción; el plazo de la declaración anual no está en el texto leído. El preámbulo llama "reducción" al 19 % de pagos fraccionados IRPF, pero no se vio la redacción anterior.
+
+- [RDL 44/2026 crédito, 079 2026-11-26] BOE-A-2026-24702 (662.000 car.) con WebFetch: transitorias 1.ª y 3.ª (22 puntos, vinculados ≤1.500 €/7 %) en offset 440000; disp. final 14.ª (2/3/6 meses) en offset 560000. El tope va con los arts. 70–72 = a los 3 meses.
+
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)

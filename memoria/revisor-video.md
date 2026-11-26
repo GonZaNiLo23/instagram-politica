@@ -96,3 +96,4 @@
 - [078] Pieza 'flash' barraFp/topeFp: BORDE a 4,23 s = gancho de 110 px con 'PRESENCIALES' hasta x≈1000 (real); topeFp: última barra bajo la pastilla de subtítulos. control-N.png (1,4,5) + comprobar + loudnorm bastan; guion en borradores. (078, 2026-11-25)
 - [077 v2] Vuelta de recolocación de sello: comprobar + loudnorm + select 0,001 (huecos) + hstack control-N.png (360) + 1 tira fps=4 crop 550–1350 del sello bastan (3 llamadas). (077, 2026-11-25)
 - [078 v2] Vuelta de recolocación de topeFp/gancho: tira hstack de 6 fotogramas (0,5/3,5/19/21/23/27 s, 360 px, drawbox x=960 e y=1195) + 1 fotograma a 22,7 s (última barra, reposo) + comprobar + loudnorm bastan. (078, 2026-11-25)
+- [080] Pieza 'flash' calIva/topeIva/tlIva: control-N.png (6, hstack 360) + 1 tira de 3 frames + comprobar + loudnorm bastan; guion en borradores. calIva pone ABR/JUL/OCT bajo T1/T2/T4 (trimestres erróneos); cierre añade "Fuentes en la descripción". (080, 2026-11-26)

@@ -9,7 +9,7 @@ const Pin: React.FC = () => <span style={{fontSize: 64, marginRight: 16, fontFam
 
 /** Plantilla de cierre (últimos 2,5-5 s): fondo mostaza (lo pone la escena), frase resumen, llamada a seguir (por defecto) o Guárdalo, Fuentes en la descripción, logo.
  * `cta`: 'siguenos' (por defecto desde el 2026-10-26: "Síguenos / para estar informado") o 'guardalo' (piezas explicativas). */
-export const Cierre: React.FC<{frase: string; pregunta?: string; marca?: string; tamano?: number; yGuardalo?: number; yFuentes?: number; pulso?: boolean; /** segunda línea bajo "Guárdalo" (p. ej. "PARA EL 29‑N") */ guardaloLinea2?: string; yLinea2?: number; yFrase?: number; guardaEn?: number; cta?: 'siguenos' | 'guardalo'}> = ({cta = 'siguenos', frase, pregunta, marca, tamano = 104, yGuardalo = 1180, yFuentes: yFuentesP, pulso = false, guardaloLinea2, yLinea2: yLinea2P, yFrase = 520, guardaEn = 0.9}) => {
+export const Cierre: React.FC<{frase: string; pregunta?: string; marca?: string; tamano?: number; yGuardalo?: number; yFuentes?: number; pulso?: boolean; sinFuentes?: boolean; /** segunda línea bajo "Guárdalo" (p. ej. "PARA EL 29‑N") */ guardaloLinea2?: string; yLinea2?: number; yFrase?: number; guardaEn?: number; cta?: 'siguenos' | 'guardalo'}> = ({cta = 'siguenos', frase, pregunta, marca, tamano = 104, yGuardalo = 1180, yFuentes: yFuentesP, pulso = false, sinFuentes = false, guardaloLinea2, yLinea2: yLinea2P, yFrase = 520, guardaEn = 0.9}) => {
   // Con "Síguenos" hay dos líneas: la segunda va 90 px bajo la primera y "Fuentes en la descripción" baja para no pisarlas
   const dosLineas = cta === 'siguenos' || !!guardaloLinea2;
   const yLinea2 = yLinea2P ?? yGuardalo + 90;
@@ -28,7 +28,7 @@ export const Cierre: React.FC<{frase: string; pregunta?: string; marca?: string;
         {cta === 'siguenos' ? <><Mas /><span style={{fontFamily: F.titular, fontSize: 72, color: C.tinta}}>Síguenos</span></> : <><Pin /><span style={{fontFamily: F.titular, fontSize: 72, color: C.tinta}}>Guárdalo</span></>}
       </div>
       {cta === 'siguenos' || guardaloLinea2 ? <div style={{position: 'absolute', left: SEGURA.izq, top: yLinea2, fontFamily: F.titular, fontSize: 72, color: C.tinta, opacity: Math.min(c, 1)}}>{cta === 'siguenos' ? (guardaloLinea2 ?? 'para estar informado') : guardaloLinea2}</div> : null}
-      <div style={{position: 'absolute', left: SEGURA.izq, top: yFuentes, fontFamily: F.texto, fontWeight: 600, fontSize: 48, color: C.tinta, opacity: Math.min(c, 1)}}>Fuentes en la descripción</div>
+      {sinFuentes ? null : <div style={{position: 'absolute', left: SEGURA.izq, top: yFuentes, fontFamily: F.texto, fontWeight: 600, fontSize: 48, color: C.tinta, opacity: Math.min(c, 1)}}>Fuentes en la descripción</div>}
     </>
   );
 };

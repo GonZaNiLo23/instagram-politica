@@ -1,0 +1,237 @@
+{
+  "plantilla": "flash",
+  "duracion": 31.71,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "hidden-agenda.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "IVA ANUAL. TRES PAGOS",
+            "y": 340,
+            "tamano": 112,
+            "en": -1
+          },
+          {
+            "tipo": "calIva",
+            "y": 800,
+            "tacha": -1,
+            "pagos": [
+              -1,
+              -1,
+              -1
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "IVA ANUAL. TRES PAGOS",
+          "y": 330,
+          "tamano": 112,
+          "en": -1
+        },
+        {
+          "tipo": "calIva",
+          "y": 780,
+          "tacha": 1.3,
+          "pagos": [
+            2.3,
+            2.9,
+            3.5
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": 5.1,
+      "fin": 10.06,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Abril · julio · octubre",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Cada pago: ¼ de la cuota anterior",
+          "y": 450,
+          "en": 1.82,
+          "tamano": 64
+        },
+        {
+          "tipo": "calIva",
+          "y": 700,
+          "tacha": 0.01,
+          "pagos": [
+            0.1,
+            0.74,
+            1.22
+          ],
+          "moneda": true
+        }
+      ]
+    },
+    {
+      "inicio": 10.06,
+      "fin": 14.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Voluntario",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 0.98
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Hasta 85.000 € de operaciones",
+          "y": 330,
+          "en": 1.0799999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "topeIva",
+          "y": 820,
+          "esc": 1.15,
+          "en": 1.0799999999999998
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "BOE, RDL 43/2026"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 14.62,
+      "fin": 17.14,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "No es exención",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "facturaIva",
+          "y": 760,
+          "esc": 1.15
+        }
+      ]
+    },
+    {
+      "inicio": 17.14,
+      "fin": 20.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Renuncia: mínimo 3 años",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "candadoIva",
+          "y": 680
+        }
+      ]
+    },
+    {
+      "inicio": 20.46,
+      "fin": 24.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Desde 1‑1‑2027",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.71
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Falta convalidación",
+          "y": 330,
+          "en": 1.96,
+          "tamano": 64
+        },
+        {
+          "tipo": "tlIva",
+          "y": 950,
+          "hitos": [
+            {
+              "fecha": "BOE 25‑11",
+              "en": 0.3
+            },
+            {
+              "fecha": "VIGOR 26‑11",
+              "en": 1
+            },
+            {
+              "fecha": "30 DÍAS",
+              "en": 2.2600000000000002,
+              "resalta": true
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Convalidar: plazo de 30 días"
+          ],
+          "en": 2.2600000000000002,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 24.86,
+      "fin": 31.71,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿ANUAL O TRIMESTRAL?",
+          "cta": "siguenos",
+          "tamano": 84,
+          "pulso": true,
+          "sinFuentes": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "plantilla": "flash",
+  "duracion": 36.91,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 80,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "TU PRÓXIMO CRÉDITO: TOPE DEL 22 %",
+            "y": 340,
+            "tamano": 96,
+            "en": -1
+          },
+          {
+            "tipo": "contador",
+            "desde": 22,
+            "hasta": 22,
+            "dur": 0.05,
+            "sufijo": " %",
+            "etiqueta": "TAE",
+            "en": -1,
+            "y": 760,
+            "tamano": 170,
+            "izq": 60
+          },
+          {
+            "tipo": "topeTae",
+            "y": 1010,
+            "alto": 110,
+            "en": -2,
+            "espera": 0,
+            "dur": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.18,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "TAE MÁXIMA: 22 %",
+          "y": 330,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DESDE FEB. 2027",
+          "y": 590,
+          "en": 0.1,
+          "tamano": 64
+        },
+        {
+          "tipo": "contador",
+          "desde": 0,
+          "hasta": 22,
+          "sufijo": " %",
+          "etiqueta": "TAE",
+          "en": -1,
+          "espera": 1,
+          "dur": 1.6,
+          "y": 730,
+          "tamano": 150,
+          "izq": 60
+        },
+        {
+          "tipo": "productosTae",
+          "x": 600,
+          "y": 800,
+          "paso": 150,
+          "r": 58,
+          "gris": true,
+          "en": 0.3
+        },
+        {
+          "tipo": "topeTae",
+          "y": 1000,
+          "alto": 110,
+          "en": -1,
+          "espera": 1,
+          "dur": 1.6
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: BOE, 25‑11‑2026"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 5.18,
+      "fin": 8.22,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Real Decreto‑ley 44/2026",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "BOE 25‑11‑2026",
+          "y": 420,
+          "en": 0.5,
+          "tamano": 64
+        },
+        {
+          "tipo": "docTae",
+          "x": 360,
+          "y": 515,
+          "en": 0.1
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "PENDIENTE DE",
+            "CONVALIDAR"
+          ],
+          "y": 960,
+          "x": 490,
+          "en": 1.3800000000000001,
+          "desde": 40
+        }
+      ]
+    },
+    {
+      "inicio": 8.22,
+      "fin": 12.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "TAE = coste total anual",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "tartaTae",
+          "y": 780,
+          "cx": 490,
+          "en": 2.3400000000000003
+        }
+      ]
+    },
+    {
+      "inicio": 12.62,
+      "fin": 16.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Desde feb. 2027 (cálculo propio)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "lineaTae",
+          "y": 740,
+          "en": 0.2
+        }
+      ]
+    },
+    {
+      "inicio": 16.86,
+      "fin": 22.78,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Revolving actuales: interés ≤ 22 %",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 2.9
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Revolving = crédito que se renueva solo",
+          "y": 330,
+          "en": 2.9,
+          "tamano": 64
+        },
+        {
+          "tipo": "productosTae",
+          "items": [
+            "tarjeta"
+          ],
+          "x": 540,
+          "y": 740,
+          "r": 120,
+          "gris": false,
+          "en": 0.2
+        },
+        {
+          "tipo": "topeTae",
+          "y": 960,
+          "alto": 100,
+          "en": 0.4,
+          "espera": 0,
+          "dur": 1.2
+        }
+      ]
+    },
+    {
+      "inicio": 22.78,
+      "fin": 27.98,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Fuera: descubiertos y alto coste",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "fueraTae",
+          "y": 760,
+          "en": 0.4
+        }
+      ]
+    },
+    {
+      "inicio": 27.98,
+      "fin": 30.14,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "Transitorio hasta reglamento",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "icono",
+          "nombre": "relojArena",
+          "x": 540,
+          "y": 760,
+          "tamano": 420,
+          "en": 0.1,
+          "animEn": 0.3,
+          "dur": 2
+        }
+      ]
+    },
+    {
+      "inicio": 30.14,
+      "fin": 36.91,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿TOPE O MERCADO LIBRE?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

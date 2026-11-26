@@ -1,0 +1,443 @@
+{
+  "palabras": [
+    {
+      "t": "Tu",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "t": "próximo",
+      "inicio": 0.2,
+      "fin": 0.56
+    },
+    {
+      "t": "crédito,",
+      "inicio": 0.64,
+      "fin": 1.28
+    },
+    {
+      "t": "con",
+      "inicio": 1.36,
+      "fin": 1.44
+    },
+    {
+      "t": "tope:",
+      "inicio": 1.52,
+      "fin": 2.16
+    },
+    {
+      "t": "veintidós",
+      "inicio": 2.2,
+      "fin": 2.64
+    },
+    {
+      "t": "por",
+      "inicio": 2.8,
+      "fin": 2.88
+    },
+    {
+      "t": "ciento",
+      "inicio": 2.96,
+      "fin": 3.2
+    },
+    {
+      "t": "TAE.",
+      "inicio": 3.28,
+      "fin": 3.6
+    },
+    {
+      "t": "Pero",
+      "inicio": 3.92,
+      "fin": 4.16
+    },
+    {
+      "t": "no",
+      "inicio": 4.32,
+      "fin": 4.4
+    },
+    {
+      "t": "todos.",
+      "inicio": 4.48,
+      "fin": 4.96
+    },
+    {
+      "t": "Lo",
+      "inicio": 5.28,
+      "fin": 5.36
+    },
+    {
+      "t": "fija",
+      "inicio": 5.44,
+      "fin": 5.68
+    },
+    {
+      "t": "un",
+      "inicio": 5.72,
+      "fin": 5.76
+    },
+    {
+      "t": "decreto",
+      "inicio": 5.84,
+      "fin": 6.16
+    },
+    {
+      "t": "ley,",
+      "inicio": 6.24,
+      "fin": 6.64
+    },
+    {
+      "t": "pendiente",
+      "inicio": 6.76,
+      "fin": 7.12
+    },
+    {
+      "t": "de",
+      "inicio": 7.16,
+      "fin": 7.2
+    },
+    {
+      "t": "convalidar.",
+      "inicio": 7.28,
+      "fin": 7.92
+    },
+    {
+      "t": "La",
+      "inicio": 8.32,
+      "fin": 8.48
+    },
+    {
+      "t": "TAE",
+      "inicio": 8.52,
+      "fin": 8.8
+    },
+    {
+      "t": "es",
+      "inicio": 8.96,
+      "fin": 9.04
+    },
+    {
+      "t": "el",
+      "inicio": 9.08,
+      "fin": 9.12
+    },
+    {
+      "t": "coste",
+      "inicio": 9.28,
+      "fin": 9.52
+    },
+    {
+      "t": "anual",
+      "inicio": 9.6,
+      "fin": 9.84
+    },
+    {
+      "t": "del",
+      "inicio": 9.92,
+      "fin": 10
+    },
+    {
+      "t": "crédito:",
+      "inicio": 10.16,
+      "fin": 10.8
+    },
+    {
+      "t": "intereses",
+      "inicio": 10.96,
+      "fin": 11.44
+    },
+    {
+      "t": "y",
+      "inicio": 11.6,
+      "fin": 11.64
+    },
+    {
+      "t": "comisiones.",
+      "inicio": 11.68,
+      "fin": 12.4
+    },
+    {
+      "t": "Empieza",
+      "inicio": 12.72,
+      "fin": 13.04
+    },
+    {
+      "t": "a",
+      "inicio": 13.12,
+      "fin": 13.16
+    },
+    {
+      "t": "los",
+      "inicio": 13.2,
+      "fin": 13.36
+    },
+    {
+      "t": "tres",
+      "inicio": 13.44,
+      "fin": 13.6
+    },
+    {
+      "t": "meses",
+      "inicio": 13.68,
+      "fin": 14.08
+    },
+    {
+      "t": "y,",
+      "inicio": 14.16,
+      "fin": 14.28
+    },
+    {
+      "t": "en",
+      "inicio": 14.32,
+      "fin": 14.4
+    },
+    {
+      "t": "general,",
+      "inicio": 14.48,
+      "fin": 15.04
+    },
+    {
+      "t": "solo",
+      "inicio": 15.12,
+      "fin": 15.28
+    },
+    {
+      "t": "para",
+      "inicio": 15.36,
+      "fin": 15.52
+    },
+    {
+      "t": "contratos",
+      "inicio": 15.6,
+      "fin": 16.08
+    },
+    {
+      "t": "nuevos.",
+      "inicio": 16.16,
+      "fin": 16.56
+    },
+    {
+      "t": "Los",
+      "inicio": 16.96,
+      "fin": 17.12
+    },
+    {
+      "t": "créditos",
+      "inicio": 17.16,
+      "fin": 17.6
+    },
+    {
+      "t": "revolving",
+      "inicio": 17.68,
+      "fin": 18.08
+    },
+    {
+      "t": "que",
+      "inicio": 18.12,
+      "fin": 18.16
+    },
+    {
+      "t": "ya",
+      "inicio": 18.24,
+      "fin": 18.32
+    },
+    {
+      "t": "tienes,",
+      "inicio": 18.4,
+      "fin": 18.96
+    },
+    {
+      "t": "también:",
+      "inicio": 19,
+      "fin": 19.76
+    },
+    {
+      "t": "interés",
+      "inicio": 19.92,
+      "fin": 20.24
+    },
+    {
+      "t": "nominal",
+      "inicio": 20.32,
+      "fin": 20.64
+    },
+    {
+      "t": "máximo",
+      "inicio": 20.72,
+      "fin": 21.12
+    },
+    {
+      "t": "del",
+      "inicio": 21.2,
+      "fin": 21.28
+    },
+    {
+      "t": "veintidós",
+      "inicio": 21.36,
+      "fin": 21.76
+    },
+    {
+      "t": "por",
+      "inicio": 21.92,
+      "fin": 22
+    },
+    {
+      "t": "ciento.",
+      "inicio": 22.08,
+      "fin": 22.48
+    },
+    {
+      "t": "Quedan",
+      "inicio": 22.88,
+      "fin": 23.12
+    },
+    {
+      "t": "fuera",
+      "inicio": 23.2,
+      "fin": 23.44
+    },
+    {
+      "t": "los",
+      "inicio": 23.52,
+      "fin": 23.6
+    },
+    {
+      "t": "descubiertos",
+      "inicio": 23.72,
+      "fin": 24.24
+    },
+    {
+      "t": "tácitos",
+      "inicio": 24.32,
+      "fin": 24.88
+    },
+    {
+      "t": "y",
+      "inicio": 24.96,
+      "fin": 25.04
+    },
+    {
+      "t": "los",
+      "inicio": 25.12,
+      "fin": 25.2
+    },
+    {
+      "t": "créditos",
+      "inicio": 25.28,
+      "fin": 25.76
+    },
+    {
+      "t": "de",
+      "inicio": 25.8,
+      "fin": 25.84
+    },
+    {
+      "t": "alto",
+      "inicio": 25.92,
+      "fin": 26.08
+    },
+    {
+      "t": "coste,",
+      "inicio": 26.16,
+      "fin": 26.64
+    },
+    {
+      "t": "con",
+      "inicio": 26.72,
+      "fin": 26.8
+    },
+    {
+      "t": "topes",
+      "inicio": 26.88,
+      "fin": 27.12
+    },
+    {
+      "t": "propios.",
+      "inicio": 27.2,
+      "fin": 27.76
+    },
+    {
+      "t": "Es",
+      "inicio": 28.08,
+      "fin": 28.24
+    },
+    {
+      "t": "transitorio",
+      "inicio": 28.36,
+      "fin": 28.88
+    },
+    {
+      "t": "hasta",
+      "inicio": 28.96,
+      "fin": 29.12
+    },
+    {
+      "t": "el",
+      "inicio": 29.16,
+      "fin": 29.2
+    },
+    {
+      "t": "reglamento.",
+      "inicio": 29.28,
+      "fin": 30.04
+    },
+    {
+      "t": "¿Tope",
+      "inicio": 30.24,
+      "fin": 30.48
+    },
+    {
+      "t": "a",
+      "inicio": 30.52,
+      "fin": 30.56
+    },
+    {
+      "t": "los",
+      "inicio": 30.64,
+      "fin": 30.72
+    },
+    {
+      "t": "intereses",
+      "inicio": 30.88,
+      "fin": 31.36
+    },
+    {
+      "t": "o",
+      "inicio": 31.52,
+      "fin": 31.6
+    },
+    {
+      "t": "mercado",
+      "inicio": 31.72,
+      "fin": 32
+    },
+    {
+      "t": "libre?",
+      "inicio": 32.08,
+      "fin": 32.72
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 32.76,
+      "fin": 33.2
+    },
+    {
+      "t": "para",
+      "inicio": 33.28,
+      "fin": 33.44
+    },
+    {
+      "t": "estar",
+      "inicio": 33.56,
+      "fin": 33.68
+    },
+    {
+      "t": "informado.",
+      "inicio": 33.76,
+      "fin": 34.56
+    }
+  ],
+  "duracion": 34.507755,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}
