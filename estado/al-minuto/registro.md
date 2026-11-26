@@ -416,3 +416,5 @@
 - 2026-11-25 17:30 UTC · 1 · @psoe (29N, permisos de cuidado, 77,3 s) · descartado: testimonios de particulares sin identificar, sin medida concreta; viral 3,9
 - 2026-11-25 19:30 UTC (publicación 20:00 Madrid): sin publicación (sin candidatos; el radar no detectó ninguno)
 - 2026-11-26 07:30 UTC (publicación 08:00 Madrid): sin publicación (sin candidatos; el radar no detectó ninguno)
+- 2026-11-26 09:30 UTC (publicación 10:00 Madrid): sin publicación (ningún candidato llega a 3)
+- 2026-11-26 09:30 UTC · 2 · @santi_abascal (paseo con votantes, 409,7 s) · descartado: conversación callejera con voces sin identificar, transcripción muy dudosa, sin frase ni propuesta concreta, sin tramo limpio de 15–40 s; viral 298,4
