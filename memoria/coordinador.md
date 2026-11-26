@@ -78,3 +78,4 @@
 - 2026-11-25 produccion.yml: 2 piezas en ~60 min; el generador gastó la v1 en zonas seguras/tercio inferior (CAMBIOS 8/10 ambos): pedirlo desde el encargo ahorra una vuelta.
 - 2026-11-25 (nube, 2.ª ejecución): comprobar primero la cola (node -e filtrando pendiente) y programado-hoy; si hoy y mañana están cubiertos, no encargar nada.
 - [nube, 2026-11-26] Rutina claude.ai: red igual (curl 000). Probar la red ANTES de lanzar subagentes (lancé el buscador y tuve que pararlo). Huecos del 27-11 para produccion.yml.
+- 2026-11-26 produccion.yml: 2 piezas en ~1 h; revisor de vídeo 079 aprobó con generador aún cerrando: lanzar revisión solo tras su aviso. Literales por SendMessage al guionista, sin 2.ª revisión.
