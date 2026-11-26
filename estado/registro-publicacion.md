@@ -204,3 +204,5 @@
 - 2026-11-25T12:31:10.399Z · 069-permiso-fallecimiento-diez-dias: ERROR al publicar: Error: Subida de 069-permiso-fallecimiento-diez-dias-v2.mp4 fallida: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"{\"success\":false,\"error\":{\"message\":\"The ig container is not in the status to upload a video\"}}"}}
 - 2026-11-25T18:00:52.222Z · 068-calendario-tras-29n v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgLH8d5BDOt/
 - 2026-11-25T18:00:54.718Z · 068-calendario-tras-29n: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-26T12:30:49.861Z · 077-ratios-guarderia v2: PUBLICADA en Instagram https://www.instagram.com/reel/DgNG92bvXfU/
+- 2026-11-26T12:30:52.388Z · 077-ratios-guarderia: TikTok en la bandeja de borradores (falta publicarlo desde la app)
