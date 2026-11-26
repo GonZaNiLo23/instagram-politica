@@ -206,3 +206,5 @@
 - 2026-11-25T18:00:54.718Z · 068-calendario-tras-29n: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-26T12:30:49.861Z · 077-ratios-guarderia v2: PUBLICADA en Instagram https://www.instagram.com/reel/DgNG92bvXfU/
 - 2026-11-26T12:30:52.388Z · 077-ratios-guarderia: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-26T18:00:54.222Z · 078-fp-online-presencial v2: PUBLICADA en Instagram https://www.instagram.com/reel/DgNsvJgBD4n/
+- 2026-11-26T18:00:57.463Z · 078-fp-online-presencial: TikTok en la bandeja de borradores (falta publicarlo desde la app)
