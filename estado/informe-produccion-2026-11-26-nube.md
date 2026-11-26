@@ -1,5 +1,5 @@
-# Informe produccion.yml 2026-11-26
-- Hoy 26-11: ya cubierto (077 13:30, 078 19:00).
-- Mañana 27-11: 079-tope-22-tae-credito (13:30, guion 1 vuelta + vídeo v1, test 9/10) y 080-iva-anual-autonomos (19:00, vídeo v2, 9/10), en cola pendiente, subidos al release "listos".
-- A medias: nada. Reserva: tema 3 de temas/propuestas/2026-11-26.md (decretos-ley y Diputación Permanente). Próximo número libre: 081.
-- Recomprobar antes de publicar: convalidación de RDL 43 y 44/2026.
+# Informe producción nube 2026-11-26
+Sin encargos nuevos: todos los huecos cubiertos en cola (pendiente).
+- 26-11 13:30 077-ratios-guarderia v2 · 19:00 078-fp-online-presencial v2
+- 27-11 13:30 079-tope-22-tae-credito v1 · 19:00 080-iva-anual-autonomos v2
+Sin vetos. Próximo número libre: 081. A medias: nada.
