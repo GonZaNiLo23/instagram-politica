@@ -424,3 +424,6 @@
 - 2026-11-26 13:30 UTC · 2 · @vox_es (spot de campaña «vivir en nuestros pueblos», 84,7 s) · descartado: anuncio electoral en tono poético sin medida concreta, acusación genérica a quienes gobiernan desde Madrid, sin tramo limpio de 15–40 s que se entienda solo; viral 55,7
 - 2026-11-26 13:30 UTC · 1 · @isabeldiazayuso (mensaje navideño en el belén, 121,3 s) · descartado: acto institucional/religioso sin relevancia política ni propuesta, sin tramo de 15–40 s con gancho; viral 35
 - 2026-11-26 15:30 UTC (publicación 16:00 Madrid): sin publicación (sin candidatos; el radar no detectó ninguno)
+- 2026-11-26 17:30 UTC (publicación 18:00 Madrid): sin publicación (ningún candidato llega a 3)
+- 2026-11-26 17:30 UTC · 2 · @vox_es (balance de campaña, 42 actos de Abascal, 111,2 s) · descartado: montaje de cierre de campaña sin voz ni frase, sin medida concreta, sin tramo de 15–40 s que se entienda solo; viral 100,4
+- 2026-11-26 17:30 UTC · 2 · @nngg_es (¿Por tierra, mar y aire? Feijóo, 15,5 s) · descartado: apenas 4,4 s de voz, pregunta retórica sobre inmigrantes ilegales sin contexto ni quién habla, sin medida concreta; viral 81,3
