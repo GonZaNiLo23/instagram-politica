@@ -17,3 +17,4 @@
 - 2026-11-23: FALLO: GitHub Actions no dejó estado/mercados/2026-11-23.json tras esperar 20 min (22:17–22:37 Madrid); el último existente es el del 2026-11-21. No se escriben textos ni se publica historia.
 - 2026-11-24: FALLO: GitHub Actions no actualizó estado/mercados/2026-11-24.json tras esperar 20 min (22:17–22:37 Madrid); solo había uno generado a las 06:18 con cierres antiguos (IBEX y EE. UU. 23-nov). No se escriben textos ni se publica historia.
 - 2026-11-25: FALLO: GitHub Actions no actualizó estado/mercados/2026-11-25.json tras esperar 20 min (22:16–22:36 Madrid); solo había uno generado a las 05:08 con cierres antiguos (IBEX y EE. UU. 24-nov). No se escriben textos ni se publica historia.
+- 2026-11-26: FALLO: GitHub Actions no actualizó estado/mercados/2026-11-26.json tras esperar 20 min (22:16–22:36 Madrid); solo había uno generado a las 04:31 con cierres antiguos (IBEX y EE. UU. 25-nov). No se escriben textos ni se publica historia.
