@@ -1,137 +1,2586 @@
 {
- "generado": "2026-11-26T17:29:41.364Z",
- "total_detectados": 2,
+ "generado": "2026-11-26T19:30:56.268Z",
+ "total_detectados": 1,
  "candidatos": [
   {
-   "id": "ig-18107850965322029",
+   "id": "ig-18192789190419226",
    "fuente": "instagram",
    "cuenta": "@vox_es",
    "nombre": "VOX 🇪🇸",
    "espacio": "afin",
-   "seguidores": 1286341,
-   "fecha": "2026-11-26T16:48:03+0000",
-   "horas": 0.7,
-   "me_gusta": 864,
-   "comentarios": 16,
-   "viral": 100.4,
-   "enlace": "https://www.instagram.com/reel/DgNkHZwRGV8/",
-   "texto": "42 actos de Santiago Abascal.\n\n9.690 actos de candidatos y portavoces nacionales.\n\n📍 Última parada: Plaza de Toros de Valencia.\n\n¡Ven al cierre de una campaña histórica! ¡Te esperamos!",
+   "seguidores": 1286572,
+   "fecha": "2026-11-26T17:39:57+0000",
+   "horas": 1.8,
+   "me_gusta": 1732,
+   "comentarios": 32,
+   "viral": 75.5,
+   "enlace": "https://www.instagram.com/reel/DgNqPlPxLFv/",
+   "texto": "Ya queda menos para echar a la mafia de La Moncloa. \n\nY en Segovia lo tienen claro. \nSegovia vota a VOX.",
    "credito": "Vídeo: @vox_es",
-   "duracion": 111.2,
-   "archivo": "ig-18107850965322029.mp4",
-   "frases": [],
-   "palabras": [],
-   "habla": false
-  },
-  {
-   "id": "ig-18153179413631972",
-   "fuente": "instagram",
-   "cuenta": "@nngg_es",
-   "nombre": "NNGG de España 🇪🇸",
-   "espacio": "afin",
-   "seguidores": 27748,
-   "fecha": "2026-11-26T16:09:54+0000",
-   "horas": 1.3,
-   "me_gusta": 28,
-   "comentarios": 1,
-   "viral": 81.3,
-   "enlace": "https://www.instagram.com/reel/DgNf4ukobq-/",
-   "texto": "¿Por tierra, mar y aire? Solo anunezfeijoo",
-   "credito": "Vídeo: @nngg_es",
-   "duracion": 15.5,
-   "archivo": "ig-18153179413631972.mp4",
+   "duracion": 176.4,
+   "archivo": "ig-18192789190419226.mp4",
    "frases": [
     {
      "inicio": 0,
-     "fin": 2.38,
-     "texto": "¿Y si un inmigrante ilegal comete un delito?"
+     "fin": 1.92,
+     "texto": "A ver, espera, que se van a friar uno que viene de surdo."
     },
     {
-     "inicio": 2.66,
-     "fin": 4.42,
-     "texto": "No, si tiene que ir de España inmediatamente."
+     "inicio": 2.04,
+     "fin": 3.52,
+     "texto": "Si quede, saque la foto primero y este..."
+    },
+    {
+     "inicio": 3.52,
+     "fin": 3.8,
+     "texto": "Te trae el plato."
+    },
+    {
+     "inicio": 16.98,
+     "fin": 18.58,
+     "texto": "Mil kilómetros para hacerme una foto."
+    },
+    {
+     "inicio": 19.78,
+     "fin": 21,
+     "texto": "Sí, sí, sí, sí."
+    },
+    {
+     "inicio": 21.12,
+     "fin": 22.04,
+     "texto": "Bueno, hemos ido a tal vez."
+    },
+    {
+     "inicio": 22.36,
+     "fin": 23.34,
+     "texto": "Hemos ido a cuatro sitios."
+    },
+    {
+     "inicio": 23.8,
+     "fin": 24.38,
+     "texto": "Ah, vale."
+    },
+    {
+     "inicio": 24.5,
+     "fin": 25.54,
+     "texto": "Una riota de metanpuebla."
+    },
+    {
+     "inicio": 26.84,
+     "fin": 27.16,
+     "texto": "Venga."
+    },
+    {
+     "inicio": 27.82,
+     "fin": 28.96,
+     "texto": "A mí por aquí si queréis."
+    },
+    {
+     "inicio": 31.26,
+     "fin": 33.46,
+     "texto": "Guárdala, que está dormida, pobrecita."
+    },
+    {
+     "inicio": 34.4,
+     "fin": 36.26,
+     "texto": "Déjale un pasillo, hombre, déjale un pasillo."
+    },
+    {
+     "inicio": 36.46,
+     "fin": 38.08,
+     "texto": "Queremos hacer una foto con ti."
+    },
+    {
+     "inicio": 39.2,
+     "fin": 40.3,
+     "texto": "Ay, qué graciave."
+    },
+    {
+     "inicio": 40.7,
+     "fin": 41.34,
+     "texto": "Gracias, gracias."
+    },
+    {
+     "inicio": 42.72,
+     "fin": 44.64,
+     "texto": "Le hemos mandado a mi padre Roberto,"
+    },
+    {
+     "inicio": 44.98,
+     "fin": 46.68,
+     "texto": "que es de Gote, porque tiene un poco de salud."
+    },
+    {
+     "inicio": 47.64,
+     "fin": 49.4,
+     "texto": "Roberto sale huevo como el chavalón."
+    },
+    {
+     "inicio": 50.56,
+     "fin": 51.86,
+     "texto": "Muchas gracias antes de todo."
+    },
+    {
+     "inicio": 52,
+     "fin": 52.36,
+     "texto": "Mira España."
+    },
+    {
+     "inicio": 52.7,
+     "fin": 53.92,
+     "texto": "Mira España, muy bien."
+    },
+    {
+     "inicio": 54.34,
+     "fin": 54.64,
+     "texto": "¡Has oído!"
+    },
+    {
+     "inicio": 58.74,
+     "fin": 61.5,
+     "texto": "¿Tienes usted que ayudar a los autónomos de joven empresa?"
+    },
+    {
+     "inicio": 62.1,
+     "fin": 62.72,
+     "texto": "No estoy rodeado."
+    },
+    {
+     "inicio": 62.98,
+     "fin": 64.02,
+     "texto": "O sea, que me cago la mano."
+    },
+    {
+     "inicio": 64.22,
+     "fin": 64.92,
+     "texto": "Estamos rodeados, ¿eh?"
+    },
+    {
+     "inicio": 64.98,
+     "fin": 66.34,
+     "texto": "Queremos emprender y queremos hacerlo bien,"
+    },
+    {
+     "inicio": 66.4,
+     "fin": 67.32,
+     "texto": "pero te distalde a agua."
+    },
+    {
+     "inicio": 68.32,
+     "fin": 69.1,
+     "texto": "Quiero ver lo que queremos,"
+    },
+    {
+     "inicio": 69.2,
+     "fin": 70.44,
+     "texto": "intentar hacer bien, pero es con riga."
+    },
+    {
+     "inicio": 70.98,
+     "fin": 72.22,
+     "texto": "Te harás mucha suerte."
+    },
+    {
+     "inicio": 72.48,
+     "fin": 72.76,
+     "texto": "No, por ello."
+    },
+    {
+     "inicio": 75.2,
+     "fin": 76.98,
+     "texto": "Si cuelo los que me caí simpáticos,"
+    },
+    {
+     "inicio": 77.24,
+     "fin": 78.08,
+     "texto": "sería como los socialistas."
+    },
+    {
+     "inicio": 78.74,
+     "fin": 79.14,
+     "texto": "¡No!"
+    },
+    {
+     "inicio": 79.62,
+     "fin": 79.98,
+     "texto": "¡No!"
+    },
+    {
+     "inicio": 81,
+     "fin": 81.6,
+     "texto": "María, ¿no?"
+    },
+    {
+     "inicio": 81.76,
+     "fin": 81.96,
+     "texto": "María."
+    },
+    {
+     "inicio": 81.96,
+     "fin": 82.08,
+     "texto": "No, no."
+    },
+    {
+     "inicio": 82.94,
+     "fin": 84.44,
+     "texto": "Es un malo interés."
+    },
+    {
+     "inicio": 85,
+     "fin": 85.12,
+     "texto": "¿Qué?"
+    },
+    {
+     "inicio": 85.52,
+     "fin": 86,
+     "texto": "¡Eh!"
+    },
+    {
+     "inicio": 86.12,
+     "fin": 86.64,
+     "texto": "¡Lo aconseguido!"
+    },
+    {
+     "inicio": 86.8,
+     "fin": 88.82,
+     "texto": "Mira, mi radio,"
+    },
+    {
+     "inicio": 89.12,
+     "fin": 90.32,
+     "texto": "apenda una desprestitución."
+    },
+    {
+     "inicio": 90.46,
+     "fin": 90.64,
+     "texto": "¿Qué?"
+    },
+    {
+     "inicio": 90.64,
+     "fin": 90.76,
+     "texto": "¿Cuál era?"
+    },
+    {
+     "inicio": 91.12,
+     "fin": 91.52,
+     "texto": "¡A el país!"
+    },
+    {
+     "inicio": 91.7,
+     "fin": 92.18,
+     "texto": "¿Criendo usted?"
+    },
+    {
+     "inicio": 92.32,
+     "fin": 92.6,
+     "texto": "¡Criendo!"
+    },
+    {
+     "inicio": 93.12,
+     "fin": 94.16,
+     "texto": "¡Ve, tí, tí, tí, tí!"
+    },
+    {
+     "inicio": 94.16,
+     "fin": 94.56,
+     "texto": "¡Ve, tí, tí, tí!"
+    },
+    {
+     "inicio": 95.7,
+     "fin": 97.12,
+     "texto": "¡Ve, tí, tí, tí!"
+    },
+    {
+     "inicio": 97.12,
+     "fin": 98.74,
+     "texto": "¡Ve, tí, tí, tí, tí, tí, tí!"
+    },
+    {
+     "inicio": 99.64,
+     "fin": 105.6,
+     "texto": "¡Ve, tí, tí, tí, tí, tí, tí, tí, tí!"
+    },
+    {
+     "inicio": 106.26,
+     "fin": 109.24,
+     "texto": "¡Y necesito que quites ese reto!"
+    },
+    {
+     "inicio": 109.78,
+     "fin": 111.2,
+     "texto": "Hay que quitar todo lo que ha hecho el señor,"
+    },
+    {
+     "inicio": 111.36,
+     "fin": 111.88,
+     "texto": "lo tengo muy claro."
+    },
+    {
+     "inicio": 112.56,
+     "fin": 113.14,
+     "texto": "Lo tengo muy claro."
+    },
+    {
+     "inicio": 113.86,
+     "fin": 114.58,
+     "texto": "Muchísimas gracias."
+    },
+    {
+     "inicio": 115.26,
+     "fin": 116.94,
+     "texto": "¡Fuente, que todo corazón!"
+    },
+    {
+     "inicio": 117.22,
+     "fin": 118.02,
+     "texto": "Si tú tienes que quedar,"
+    },
+    {
+     "inicio": 118.56,
+     "fin": 120.14,
+     "texto": "que volveré a ir con mi."
+    },
+    {
+     "inicio": 121.28,
+     "fin": 121.64,
+     "texto": "¡Adiós!"
+    },
+    {
+     "inicio": 121.78,
+     "fin": 122.14,
+     "texto": "¡Adiós!"
+    },
+    {
+     "inicio": 122.36,
+     "fin": 123.62,
+     "texto": "¿Cómo es que queremos seguir en España?"
+    },
+    {
+     "inicio": 124.52,
+     "fin": 124.7,
+     "texto": "¡Sí!"
+    },
+    {
+     "inicio": 125.86,
+     "fin": 126.22,
+     "texto": "¡Adiós!"
+    },
+    {
+     "inicio": 126.84,
+     "fin": 127.42,
+     "texto": "¡Vale, vale!"
+    },
+    {
+     "inicio": 127.66,
+     "fin": 128.06,
+     "texto": "¡Ve, tí, tí, tí!"
+    },
+    {
+     "inicio": 128.1,
+     "fin": 129,
+     "texto": "¡Ve, tí, tí, tí, tí, tí!"
+    },
+    {
+     "inicio": 129.2,
+     "fin": 130.58,
+     "texto": "¡Ve, tí, tí, tí, tí, tí!"
+    },
+    {
+     "inicio": 134.86,
+     "fin": 135.58,
+     "texto": "¡Ve, tí, tí, tí, tí, tí!"
+    },
+    {
+     "inicio": 137.34,
+     "fin": 137.88,
+     "texto": "A ver, espera."
+    },
+    {
+     "inicio": 138,
+     "fin": 139.46,
+     "texto": "Que se van a friar uno, que viene de suduo."
+    },
+    {
+     "inicio": 139.74,
+     "fin": 140.8,
+     "texto": "¿No es que la foto primera este?"
+    },
+    {
+     "inicio": 140.92,
+     "fin": 141.3,
+     "texto": "No, es que está el plato."
+    },
+    {
+     "inicio": 141.8,
+     "fin": 142.7,
+     "texto": "¡Qué bueno, que bueno!"
+    },
+    {
+     "inicio": 142.88,
+     "fin": 143.5,
+     "texto": "¡Que bueno, que bueno!"
+    },
+    {
+     "inicio": 143.82,
+     "fin": 144.02,
+     "texto": "¡Vale, vale, vale!"
+    },
+    {
+     "inicio": 144.04,
+     "fin": 145.74,
+     "texto": "¡Vale, vale, vale!"
+    },
+    {
+     "inicio": 146.68,
+     "fin": 148.16,
+     "texto": "No, no, no, coja, coja la barita."
+    },
+    {
+     "inicio": 149.02,
+     "fin": 150.16,
+     "texto": "Yo creo que la hacemos al lado de la costa."
+    },
+    {
+     "inicio": 150.22,
+     "fin": 150.92,
+     "texto": "Raga la costa, coja."
+    },
+    {
+     "inicio": 151.32,
+     "fin": 151.52,
+     "texto": "¡Vaya!"
+    },
+    {
+     "inicio": 152.32,
+     "fin": 152.6,
+     "texto": "¡Vaya!"
+    },
+    {
+     "inicio": 153.48,
+     "fin": 153.76,
+     "texto": "¡Vaya!"
+    },
+    {
+     "inicio": 154.5,
+     "fin": 154.78,
+     "texto": "¡Vaya!"
+    },
+    {
+     "inicio": 155.5,
+     "fin": 155.78,
+     "texto": "¡Vaya!"
+    },
+    {
+     "inicio": 156.3,
+     "fin": 156.58,
+     "texto": "¡Vaya!"
+    },
+    {
+     "inicio": 156.94,
+     "fin": 157.08,
+     "texto": "¡Vaya!"
+    },
+    {
+     "inicio": 157.54,
+     "fin": 157.62,
+     "texto": "¡Vaya!"
+    },
+    {
+     "inicio": 157.62,
+     "fin": 157.74,
+     "texto": "¡Vaya!"
+    },
+    {
+     "inicio": 164.36,
+     "fin": 164.64,
+     "texto": "¡Vaya!"
+    },
+    {
+     "inicio": 165.38,
+     "fin": 166.06,
+     "texto": "¡Vaya!"
+    },
+    {
+     "inicio": 166.94,
+     "fin": 167.94,
+     "texto": "¡Diva España!"
+    },
+    {
+     "inicio": 169.94,
+     "fin": 170.38,
+     "texto": "¡Diva!"
+    },
+    {
+     "inicio": 170.38,
+     "fin": 172.38,
+     "texto": "Vamos a ver quién los recoge."
+    },
+    {
+     "inicio": 172.52,
+     "fin": 172.8,
+     "texto": "Para ver quién los recoge."
+    },
+    {
+     "inicio": 172.8,
+     "fin": 174.66,
+     "texto": "Ahora esto recogerá de los recoge."
+    },
+    {
+     "inicio": 174.92,
+     "fin": 175.2,
+     "texto": "¡Venga!"
     }
    ],
    "palabras": [
     {
-     "t": "¿Y",
+     "t": "A",
      "inicio": 0,
-     "fin": 0.12
+     "fin": 0.1
     },
     {
-     "t": "si",
-     "inicio": 0.12,
-     "fin": 0.2
+     "t": "ver,",
+     "inicio": 0.1,
+     "fin": 0.18
     },
     {
-     "t": "un",
-     "inicio": 0.2,
-     "fin": 0.38
+     "t": "espera,",
+     "inicio": 0.28,
+     "fin": 0.36
     },
     {
-     "t": "inmigrante",
-     "inicio": 0.38,
+     "t": "que",
+     "inicio": 0.5,
+     "fin": 0.52
+    },
+    {
+     "t": "se",
+     "inicio": 0.52,
+     "fin": 0.6
+    },
+    {
+     "t": "van",
+     "inicio": 0.6,
+     "fin": 0.72
+    },
+    {
+     "t": "a",
+     "inicio": 0.72,
+     "fin": 0.82
+    },
+    {
+     "t": "friar",
+     "inicio": 0.82,
+     "fin": 0.94
+    },
+    {
+     "t": "uno",
+     "inicio": 0.94,
      "fin": 1.08
     },
     {
-     "t": "ilegal",
+     "t": "que",
      "inicio": 1.08,
-     "fin": 1.56
+     "fin": 1.22
     },
     {
-     "t": "comete",
-     "inicio": 1.56,
+     "t": "viene",
+     "inicio": 1.22,
+     "fin": 1.34
+    },
+    {
+     "t": "de",
+     "inicio": 1.34,
+     "fin": 1.5
+    },
+    {
+     "t": "surdo.",
+     "inicio": 1.5,
      "fin": 1.92
     },
     {
-     "t": "un",
-     "inicio": 1.92,
-     "fin": 2.02
+     "t": "Si",
+     "inicio": 2.04,
+     "fin": 2.06
     },
     {
-     "t": "delito?",
-     "inicio": 2.02,
-     "fin": 2.38
+     "t": "quede,",
+     "inicio": 2.06,
+     "fin": 2.2
     },
     {
-     "t": "No,",
+     "t": "saque",
+     "inicio": 2.4,
+     "fin": 2.58
+    },
+    {
+     "t": "la",
+     "inicio": 2.58,
+     "fin": 2.66
+    },
+    {
+     "t": "foto",
      "inicio": 2.66,
      "fin": 2.8
     },
     {
-     "t": "si",
-     "inicio": 2.88,
-     "fin": 2.94
+     "t": "primero",
+     "inicio": 2.8,
+     "fin": 3.1
     },
     {
-     "t": "tiene",
-     "inicio": 2.94,
-     "fin": 3.14
+     "t": "y",
+     "inicio": 3.1,
+     "fin": 3.16
     },
     {
-     "t": "que",
-     "inicio": 3.14,
-     "fin": 3.26
+     "t": "este...",
+     "inicio": 3.16,
+     "fin": 3.52
     },
     {
-     "t": "ir",
-     "inicio": 3.26,
-     "fin": 3.3
+     "t": "Te",
+     "inicio": 3.52,
+     "fin": 3.52
+    },
+    {
+     "t": "trae",
+     "inicio": 3.52,
+     "fin": 3.52
+    },
+    {
+     "t": "el",
+     "inicio": 3.52,
+     "fin": 3.52
+    },
+    {
+     "t": "plato.",
+     "inicio": 3.52,
+     "fin": 3.8
+    },
+    {
+     "t": "Mil",
+     "inicio": 16.98,
+     "fin": 17.3
+    },
+    {
+     "t": "kilómetros",
+     "inicio": 17.3,
+     "fin": 17.62
+    },
+    {
+     "t": "para",
+     "inicio": 17.62,
+     "fin": 17.94
+    },
+    {
+     "t": "hacerme",
+     "inicio": 17.94,
+     "fin": 18.14
+    },
+    {
+     "t": "una",
+     "inicio": 18.14,
+     "fin": 18.28
+    },
+    {
+     "t": "foto.",
+     "inicio": 18.28,
+     "fin": 18.58
+    },
+    {
+     "t": "Sí,",
+     "inicio": 19.78,
+     "fin": 20.1
+    },
+    {
+     "t": "sí,",
+     "inicio": 20.56,
+     "fin": 20.68
+    },
+    {
+     "t": "sí,",
+     "inicio": 20.78,
+     "fin": 20.78
+    },
+    {
+     "t": "sí.",
+     "inicio": 20.8,
+     "fin": 21
+    },
+    {
+     "t": "Bueno,",
+     "inicio": 21.12,
+     "fin": 21.28
+    },
+    {
+     "t": "hemos",
+     "inicio": 21.32,
+     "fin": 21.48
+    },
+    {
+     "t": "ido",
+     "inicio": 21.48,
+     "fin": 21.66
+    },
+    {
+     "t": "a",
+     "inicio": 21.66,
+     "fin": 21.7
+    },
+    {
+     "t": "tal",
+     "inicio": 21.7,
+     "fin": 21.82
+    },
+    {
+     "t": "vez.",
+     "inicio": 21.82,
+     "fin": 22.04
+    },
+    {
+     "t": "Hemos",
+     "inicio": 22.36,
+     "fin": 22.58
+    },
+    {
+     "t": "ido",
+     "inicio": 22.58,
+     "fin": 22.78
+    },
+    {
+     "t": "a",
+     "inicio": 22.78,
+     "fin": 22.92
+    },
+    {
+     "t": "cuatro",
+     "inicio": 22.92,
+     "fin": 23.04
+    },
+    {
+     "t": "sitios.",
+     "inicio": 23.04,
+     "fin": 23.34
+    },
+    {
+     "t": "Ah,",
+     "inicio": 23.8,
+     "fin": 24.12
+    },
+    {
+     "t": "vale.",
+     "inicio": 24.24,
+     "fin": 24.38
+    },
+    {
+     "t": "Una",
+     "inicio": 24.5,
+     "fin": 24.72
+    },
+    {
+     "t": "riota",
+     "inicio": 24.72,
+     "fin": 24.94
     },
     {
      "t": "de",
-     "inicio": 3.3,
-     "fin": 3.38
+     "inicio": 24.94,
+     "fin": 25.1
     },
     {
-     "t": "España",
-     "inicio": 3.38,
-     "fin": 3.6
+     "t": "metanpuebla.",
+     "inicio": 25.1,
+     "fin": 25.54
     },
     {
-     "t": "inmediatamente.",
-     "inicio": 3.6,
-     "fin": 4.42
+     "t": "Venga.",
+     "inicio": 26.84,
+     "fin": 27.16
+    },
+    {
+     "t": "A",
+     "inicio": 27.82,
+     "fin": 28.26
+    },
+    {
+     "t": "mí",
+     "inicio": 28.26,
+     "fin": 28.34
+    },
+    {
+     "t": "por",
+     "inicio": 28.34,
+     "fin": 28.46
+    },
+    {
+     "t": "aquí",
+     "inicio": 28.46,
+     "fin": 28.58
+    },
+    {
+     "t": "si",
+     "inicio": 28.58,
+     "fin": 28.72
+    },
+    {
+     "t": "queréis.",
+     "inicio": 28.72,
+     "fin": 28.96
+    },
+    {
+     "t": "Guárdala,",
+     "inicio": 31.26,
+     "fin": 31.7
+    },
+    {
+     "t": "que",
+     "inicio": 31.86,
+     "fin": 31.88
+    },
+    {
+     "t": "está",
+     "inicio": 31.88,
+     "fin": 32.02
+    },
+    {
+     "t": "dormida,",
+     "inicio": 32.02,
+     "fin": 32.46
+    },
+    {
+     "t": "pobrecita.",
+     "inicio": 32.56,
+     "fin": 33.46
+    },
+    {
+     "t": "Déjale",
+     "inicio": 34.4,
+     "fin": 34.84
+    },
+    {
+     "t": "un",
+     "inicio": 34.84,
+     "fin": 34.94
+    },
+    {
+     "t": "pasillo,",
+     "inicio": 34.94,
+     "fin": 35.26
+    },
+    {
+     "t": "hombre,",
+     "inicio": 35.38,
+     "fin": 35.5
+    },
+    {
+     "t": "déjale",
+     "inicio": 35.58,
+     "fin": 35.8
+    },
+    {
+     "t": "un",
+     "inicio": 35.8,
+     "fin": 35.9
+    },
+    {
+     "t": "pasillo.",
+     "inicio": 35.9,
+     "fin": 36.26
+    },
+    {
+     "t": "Queremos",
+     "inicio": 36.46,
+     "fin": 36.9
+    },
+    {
+     "t": "hacer",
+     "inicio": 36.9,
+     "fin": 37.2
+    },
+    {
+     "t": "una",
+     "inicio": 37.2,
+     "fin": 37.42
+    },
+    {
+     "t": "foto",
+     "inicio": 37.42,
+     "fin": 37.66
+    },
+    {
+     "t": "con",
+     "inicio": 37.66,
+     "fin": 37.98
+    },
+    {
+     "t": "ti.",
+     "inicio": 37.98,
+     "fin": 38.08
+    },
+    {
+     "t": "Ay,",
+     "inicio": 39.2,
+     "fin": 39.52
+    },
+    {
+     "t": "qué",
+     "inicio": 39.66,
+     "fin": 39.72
+    },
+    {
+     "t": "graciave.",
+     "inicio": 39.72,
+     "fin": 40.3
+    },
+    {
+     "t": "Gracias,",
+     "inicio": 40.7,
+     "fin": 41.04
+    },
+    {
+     "t": "gracias.",
+     "inicio": 41.16,
+     "fin": 41.34
+    },
+    {
+     "t": "Le",
+     "inicio": 42.72,
+     "fin": 42.96
+    },
+    {
+     "t": "hemos",
+     "inicio": 42.96,
+     "fin": 43.18
+    },
+    {
+     "t": "mandado",
+     "inicio": 43.18,
+     "fin": 43.5
+    },
+    {
+     "t": "a",
+     "inicio": 43.5,
+     "fin": 43.72
+    },
+    {
+     "t": "mi",
+     "inicio": 43.72,
+     "fin": 43.8
+    },
+    {
+     "t": "padre",
+     "inicio": 43.8,
+     "fin": 44.2
+    },
+    {
+     "t": "Roberto,",
+     "inicio": 44.2,
+     "fin": 44.64
+    },
+    {
+     "t": "que",
+     "inicio": 44.98,
+     "fin": 45.24
+    },
+    {
+     "t": "es",
+     "inicio": 45.24,
+     "fin": 45.56
+    },
+    {
+     "t": "de",
+     "inicio": 45.56,
+     "fin": 45.62
+    },
+    {
+     "t": "Gote,",
+     "inicio": 45.62,
+     "fin": 45.82
+    },
+    {
+     "t": "porque",
+     "inicio": 45.96,
+     "fin": 46.06
+    },
+    {
+     "t": "tiene",
+     "inicio": 46.06,
+     "fin": 46.22
+    },
+    {
+     "t": "un",
+     "inicio": 46.22,
+     "fin": 46.34
+    },
+    {
+     "t": "poco",
+     "inicio": 46.34,
+     "fin": 46.4
+    },
+    {
+     "t": "de",
+     "inicio": 46.4,
+     "fin": 46.52
+    },
+    {
+     "t": "salud.",
+     "inicio": 46.52,
+     "fin": 46.68
+    },
+    {
+     "t": "Roberto",
+     "inicio": 47.64,
+     "fin": 48.08
+    },
+    {
+     "t": "sale",
+     "inicio": 48.08,
+     "fin": 48.52
+    },
+    {
+     "t": "huevo",
+     "inicio": 48.52,
+     "fin": 48.82
+    },
+    {
+     "t": "como",
+     "inicio": 48.82,
+     "fin": 49.02
+    },
+    {
+     "t": "el",
+     "inicio": 49.02,
+     "fin": 49.16
+    },
+    {
+     "t": "chavalón.",
+     "inicio": 49.16,
+     "fin": 49.4
+    },
+    {
+     "t": "Muchas",
+     "inicio": 50.56,
+     "fin": 51
+    },
+    {
+     "t": "gracias",
+     "inicio": 51,
+     "fin": 51.32
+    },
+    {
+     "t": "antes",
+     "inicio": 51.32,
+     "fin": 51.6
+    },
+    {
+     "t": "de",
+     "inicio": 51.6,
+     "fin": 51.76
+    },
+    {
+     "t": "todo.",
+     "inicio": 51.76,
+     "fin": 51.86
+    },
+    {
+     "t": "Mira",
+     "inicio": 52,
+     "fin": 52.12
+    },
+    {
+     "t": "España.",
+     "inicio": 52.12,
+     "fin": 52.36
+    },
+    {
+     "t": "Mira",
+     "inicio": 52.7,
+     "fin": 52.8
+    },
+    {
+     "t": "España,",
+     "inicio": 52.8,
+     "fin": 53.16
+    },
+    {
+     "t": "muy",
+     "inicio": 53.48,
+     "fin": 53.66
+    },
+    {
+     "t": "bien.",
+     "inicio": 53.66,
+     "fin": 53.92
+    },
+    {
+     "t": "¡Has",
+     "inicio": 54.34,
+     "fin": 54.5
+    },
+    {
+     "t": "oído!",
+     "inicio": 54.5,
+     "fin": 54.64
+    },
+    {
+     "t": "¿Tienes",
+     "inicio": 58.74,
+     "fin": 59.14
+    },
+    {
+     "t": "usted",
+     "inicio": 59.14,
+     "fin": 59.28
+    },
+    {
+     "t": "que",
+     "inicio": 59.28,
+     "fin": 59.36
+    },
+    {
+     "t": "ayudar",
+     "inicio": 59.36,
+     "fin": 59.6
+    },
+    {
+     "t": "a",
+     "inicio": 59.6,
+     "fin": 59.8
+    },
+    {
+     "t": "los",
+     "inicio": 59.8,
+     "fin": 60.04
+    },
+    {
+     "t": "autónomos",
+     "inicio": 60.04,
+     "fin": 60.74
+    },
+    {
+     "t": "de",
+     "inicio": 60.74,
+     "fin": 60.94
+    },
+    {
+     "t": "joven",
+     "inicio": 60.94,
+     "fin": 61.2
+    },
+    {
+     "t": "empresa?",
+     "inicio": 61.2,
+     "fin": 61.5
+    },
+    {
+     "t": "No",
+     "inicio": 62.1,
+     "fin": 62.3
+    },
+    {
+     "t": "estoy",
+     "inicio": 62.3,
+     "fin": 62.38
+    },
+    {
+     "t": "rodeado.",
+     "inicio": 62.38,
+     "fin": 62.72
+    },
+    {
+     "t": "O",
+     "inicio": 62.98,
+     "fin": 63.3
+    },
+    {
+     "t": "sea,",
+     "inicio": 63.3,
+     "fin": 63.3
+    },
+    {
+     "t": "que",
+     "inicio": 63.4,
+     "fin": 63.42
+    },
+    {
+     "t": "me",
+     "inicio": 63.42,
+     "fin": 63.52
+    },
+    {
+     "t": "cago",
+     "inicio": 63.52,
+     "fin": 63.68
+    },
+    {
+     "t": "la",
+     "inicio": 63.68,
+     "fin": 63.84
+    },
+    {
+     "t": "mano.",
+     "inicio": 63.84,
+     "fin": 64.02
+    },
+    {
+     "t": "Estamos",
+     "inicio": 64.22,
+     "fin": 64.3
+    },
+    {
+     "t": "rodeados,",
+     "inicio": 64.3,
+     "fin": 64.76
+    },
+    {
+     "t": "¿eh?",
+     "inicio": 64.86,
+     "fin": 64.92
+    },
+    {
+     "t": "Queremos",
+     "inicio": 64.98,
+     "fin": 65.24
+    },
+    {
+     "t": "emprender",
+     "inicio": 65.24,
+     "fin": 65.64
+    },
+    {
+     "t": "y",
+     "inicio": 65.64,
+     "fin": 65.74
+    },
+    {
+     "t": "queremos",
+     "inicio": 65.74,
+     "fin": 65.88
+    },
+    {
+     "t": "hacerlo",
+     "inicio": 65.88,
+     "fin": 66.12
+    },
+    {
+     "t": "bien,",
+     "inicio": 66.12,
+     "fin": 66.34
+    },
+    {
+     "t": "pero",
+     "inicio": 66.4,
+     "fin": 66.52
+    },
+    {
+     "t": "te",
+     "inicio": 66.52,
+     "fin": 66.66
+    },
+    {
+     "t": "distalde",
+     "inicio": 66.66,
+     "fin": 67.18
+    },
+    {
+     "t": "a",
+     "inicio": 67.18,
+     "fin": 67.2
+    },
+    {
+     "t": "agua.",
+     "inicio": 67.2,
+     "fin": 67.32
+    },
+    {
+     "t": "Quiero",
+     "inicio": 68.32,
+     "fin": 68.62
+    },
+    {
+     "t": "ver",
+     "inicio": 68.62,
+     "fin": 68.78
+    },
+    {
+     "t": "lo",
+     "inicio": 68.78,
+     "fin": 68.86
+    },
+    {
+     "t": "que",
+     "inicio": 68.86,
+     "fin": 68.94
+    },
+    {
+     "t": "queremos,",
+     "inicio": 68.94,
+     "fin": 69.1
+    },
+    {
+     "t": "intentar",
+     "inicio": 69.2,
+     "fin": 69.52
+    },
+    {
+     "t": "hacer",
+     "inicio": 69.52,
+     "fin": 69.72
+    },
+    {
+     "t": "bien,",
+     "inicio": 69.72,
+     "fin": 69.86
+    },
+    {
+     "t": "pero",
+     "inicio": 69.98,
+     "fin": 70.04
+    },
+    {
+     "t": "es",
+     "inicio": 70.04,
+     "fin": 70.18
+    },
+    {
+     "t": "con",
+     "inicio": 70.18,
+     "fin": 70.2
+    },
+    {
+     "t": "riga.",
+     "inicio": 70.2,
+     "fin": 70.44
+    },
+    {
+     "t": "Te",
+     "inicio": 70.98,
+     "fin": 71.2
+    },
+    {
+     "t": "harás",
+     "inicio": 71.2,
+     "fin": 71.4
+    },
+    {
+     "t": "mucha",
+     "inicio": 71.4,
+     "fin": 71.88
+    },
+    {
+     "t": "suerte.",
+     "inicio": 71.88,
+     "fin": 72.22
+    },
+    {
+     "t": "No,",
+     "inicio": 72.48,
+     "fin": 72.5
+    },
+    {
+     "t": "por",
+     "inicio": 72.6,
+     "fin": 72.6
+    },
+    {
+     "t": "ello.",
+     "inicio": 72.6,
+     "fin": 72.76
+    },
+    {
+     "t": "Si",
+     "inicio": 75.2,
+     "fin": 75.6
+    },
+    {
+     "t": "cuelo",
+     "inicio": 75.6,
+     "fin": 76
+    },
+    {
+     "t": "los",
+     "inicio": 76,
+     "fin": 76.16
+    },
+    {
+     "t": "que",
+     "inicio": 76.16,
+     "fin": 76.26
+    },
+    {
+     "t": "me",
+     "inicio": 76.26,
+     "fin": 76.36
+    },
+    {
+     "t": "caí",
+     "inicio": 76.36,
+     "fin": 76.5
+    },
+    {
+     "t": "simpáticos,",
+     "inicio": 76.5,
+     "fin": 76.98
+    },
+    {
+     "t": "sería",
+     "inicio": 77.24,
+     "fin": 77.48
+    },
+    {
+     "t": "como",
+     "inicio": 77.48,
+     "fin": 77.62
+    },
+    {
+     "t": "los",
+     "inicio": 77.62,
+     "fin": 77.74
+    },
+    {
+     "t": "socialistas.",
+     "inicio": 77.74,
+     "fin": 78.08
+    },
+    {
+     "t": "¡No!",
+     "inicio": 78.74,
+     "fin": 79.14
+    },
+    {
+     "t": "¡No!",
+     "inicio": 79.62,
+     "fin": 79.98
+    },
+    {
+     "t": "María,",
+     "inicio": 81,
+     "fin": 81.4
+    },
+    {
+     "t": "¿no?",
+     "inicio": 81.54,
+     "fin": 81.6
+    },
+    {
+     "t": "María.",
+     "inicio": 81.76,
+     "fin": 81.96
+    },
+    {
+     "t": "No,",
+     "inicio": 81.96,
+     "fin": 81.96
+    },
+    {
+     "t": "no.",
+     "inicio": 81.96,
+     "fin": 82.08
+    },
+    {
+     "t": "Es",
+     "inicio": 82.94,
+     "fin": 83.3
+    },
+    {
+     "t": "un",
+     "inicio": 83.3,
+     "fin": 83.44
+    },
+    {
+     "t": "malo",
+     "inicio": 83.44,
+     "fin": 83.82
+    },
+    {
+     "t": "interés.",
+     "inicio": 83.82,
+     "fin": 84.44
+    },
+    {
+     "t": "¿Qué?",
+     "inicio": 85,
+     "fin": 85.12
+    },
+    {
+     "t": "¡Eh!",
+     "inicio": 85.52,
+     "fin": 86
+    },
+    {
+     "t": "¡Lo",
+     "inicio": 86.12,
+     "fin": 86.24
+    },
+    {
+     "t": "aconseguido!",
+     "inicio": 86.24,
+     "fin": 86.64
+    },
+    {
+     "t": "Mira,",
+     "inicio": 86.8,
+     "fin": 86.84
+    },
+    {
+     "t": "mi",
+     "inicio": 87.98,
+     "fin": 88.44
+    },
+    {
+     "t": "radio,",
+     "inicio": 88.44,
+     "fin": 88.82
+    },
+    {
+     "t": "apenda",
+     "inicio": 89.12,
+     "fin": 89.38
+    },
+    {
+     "t": "una",
+     "inicio": 89.38,
+     "fin": 89.68
+    },
+    {
+     "t": "desprestitución.",
+     "inicio": 89.68,
+     "fin": 90.32
+    },
+    {
+     "t": "¿Qué?",
+     "inicio": 90.46,
+     "fin": 90.64
+    },
+    {
+     "t": "¿Cuál",
+     "inicio": 90.64,
+     "fin": 90.64
+    },
+    {
+     "t": "era?",
+     "inicio": 90.64,
+     "fin": 90.76
+    },
+    {
+     "t": "¡A",
+     "inicio": 91.12,
+     "fin": 91.24
+    },
+    {
+     "t": "el",
+     "inicio": 91.24,
+     "fin": 91.32
+    },
+    {
+     "t": "país!",
+     "inicio": 91.32,
+     "fin": 91.52
+    },
+    {
+     "t": "¿Criendo",
+     "inicio": 91.7,
+     "fin": 91.92
+    },
+    {
+     "t": "usted?",
+     "inicio": 91.92,
+     "fin": 92.18
+    },
+    {
+     "t": "¡Criendo!",
+     "inicio": 92.32,
+     "fin": 92.6
+    },
+    {
+     "t": "¡Ve,",
+     "inicio": 93.12,
+     "fin": 93.6
+    },
+    {
+     "t": "tí,",
+     "inicio": 93.6,
+     "fin": 93.7
+    },
+    {
+     "t": "tí,",
+     "inicio": 93.7,
+     "fin": 93.82
+    },
+    {
+     "t": "tí,",
+     "inicio": 93.82,
+     "fin": 93.92
+    },
+    {
+     "t": "tí!",
+     "inicio": 93.92,
+     "fin": 94.16
+    },
+    {
+     "t": "¡Ve,",
+     "inicio": 94.16,
+     "fin": 94.3
+    },
+    {
+     "t": "tí,",
+     "inicio": 94.56,
+     "fin": 94.56
+    },
+    {
+     "t": "tí,",
+     "inicio": 94.56,
+     "fin": 94.56
+    },
+    {
+     "t": "tí!",
+     "inicio": 94.56,
+     "fin": 94.56
+    },
+    {
+     "t": "¡Ve,",
+     "inicio": 95.7,
+     "fin": 96.18
+    },
+    {
+     "t": "tí,",
+     "inicio": 97.1,
+     "fin": 97.12
+    },
+    {
+     "t": "tí,",
+     "inicio": 97.12,
+     "fin": 97.12
+    },
+    {
+     "t": "tí!",
+     "inicio": 97.12,
+     "fin": 97.12
+    },
+    {
+     "t": "¡Ve,",
+     "inicio": 97.12,
+     "fin": 97.42
+    },
+    {
+     "t": "tí,",
+     "inicio": 97.5,
+     "fin": 98.4
+    },
+    {
+     "t": "tí,",
+     "inicio": 98.48,
+     "fin": 98.48
+    },
+    {
+     "t": "tí,",
+     "inicio": 98.48,
+     "fin": 98.48
+    },
+    {
+     "t": "tí,",
+     "inicio": 98.52,
+     "fin": 98.52
+    },
+    {
+     "t": "tí,",
+     "inicio": 98.58,
+     "fin": 98.58
+    },
+    {
+     "t": "tí!",
+     "inicio": 98.74,
+     "fin": 98.74
+    },
+    {
+     "t": "¡Ve,",
+     "inicio": 99.64,
+     "fin": 100.12
+    },
+    {
+     "t": "tí,",
+     "inicio": 100.12,
+     "fin": 100.12
+    },
+    {
+     "t": "tí,",
+     "inicio": 101.02,
+     "fin": 101.02
+    },
+    {
+     "t": "tí,",
+     "inicio": 101.26,
+     "fin": 101.26
+    },
+    {
+     "t": "tí,",
+     "inicio": 101.88,
+     "fin": 101.88
+    },
+    {
+     "t": "tí,",
+     "inicio": 101.98,
+     "fin": 101.98
+    },
+    {
+     "t": "tí,",
+     "inicio": 101.98,
+     "fin": 101.98
+    },
+    {
+     "t": "tí,",
+     "inicio": 103.74,
+     "fin": 105.1
+    },
+    {
+     "t": "tí!",
+     "inicio": 105.22,
+     "fin": 105.6
+    },
+    {
+     "t": "¡Y",
+     "inicio": 106.26,
+     "fin": 106.62
+    },
+    {
+     "t": "necesito",
+     "inicio": 106.62,
+     "fin": 106.98
+    },
+    {
+     "t": "que",
+     "inicio": 106.98,
+     "fin": 108.12
+    },
+    {
+     "t": "quites",
+     "inicio": 108.12,
+     "fin": 108.5
+    },
+    {
+     "t": "ese",
+     "inicio": 108.5,
+     "fin": 109.04
+    },
+    {
+     "t": "reto!",
+     "inicio": 109.04,
+     "fin": 109.24
+    },
+    {
+     "t": "Hay",
+     "inicio": 109.78,
+     "fin": 110.14
+    },
+    {
+     "t": "que",
+     "inicio": 110.14,
+     "fin": 110.22
+    },
+    {
+     "t": "quitar",
+     "inicio": 110.22,
+     "fin": 110.34
+    },
+    {
+     "t": "todo",
+     "inicio": 110.34,
+     "fin": 110.52
+    },
+    {
+     "t": "lo",
+     "inicio": 110.52,
+     "fin": 110.64
+    },
+    {
+     "t": "que",
+     "inicio": 110.64,
+     "fin": 110.7
+    },
+    {
+     "t": "ha",
+     "inicio": 110.7,
+     "fin": 110.74
+    },
+    {
+     "t": "hecho",
+     "inicio": 110.74,
+     "fin": 110.82
+    },
+    {
+     "t": "el",
+     "inicio": 110.82,
+     "fin": 110.96
+    },
+    {
+     "t": "señor,",
+     "inicio": 110.96,
+     "fin": 111.2
+    },
+    {
+     "t": "lo",
+     "inicio": 111.36,
+     "fin": 111.42
+    },
+    {
+     "t": "tengo",
+     "inicio": 111.42,
+     "fin": 111.52
+    },
+    {
+     "t": "muy",
+     "inicio": 111.52,
+     "fin": 111.68
+    },
+    {
+     "t": "claro.",
+     "inicio": 111.68,
+     "fin": 111.88
+    },
+    {
+     "t": "Lo",
+     "inicio": 112.56,
+     "fin": 112.7
+    },
+    {
+     "t": "tengo",
+     "inicio": 112.7,
+     "fin": 112.8
+    },
+    {
+     "t": "muy",
+     "inicio": 112.8,
+     "fin": 112.96
+    },
+    {
+     "t": "claro.",
+     "inicio": 112.96,
+     "fin": 113.14
+    },
+    {
+     "t": "Muchísimas",
+     "inicio": 113.86,
+     "fin": 114.22
+    },
+    {
+     "t": "gracias.",
+     "inicio": 114.22,
+     "fin": 114.58
+    },
+    {
+     "t": "¡Fuente,",
+     "inicio": 115.26,
+     "fin": 115.62
+    },
+    {
+     "t": "que",
+     "inicio": 116.14,
+     "fin": 116.32
+    },
+    {
+     "t": "todo",
+     "inicio": 116.32,
+     "fin": 116.5
+    },
+    {
+     "t": "corazón!",
+     "inicio": 116.5,
+     "fin": 116.94
+    },
+    {
+     "t": "Si",
+     "inicio": 117.22,
+     "fin": 117.22
+    },
+    {
+     "t": "tú",
+     "inicio": 117.22,
+     "fin": 117.34
+    },
+    {
+     "t": "tienes",
+     "inicio": 117.34,
+     "fin": 117.54
+    },
+    {
+     "t": "que",
+     "inicio": 117.54,
+     "fin": 117.72
+    },
+    {
+     "t": "quedar,",
+     "inicio": 117.72,
+     "fin": 118.02
+    },
+    {
+     "t": "que",
+     "inicio": 118.56,
+     "fin": 118.68
+    },
+    {
+     "t": "volveré",
+     "inicio": 118.68,
+     "fin": 119.02
+    },
+    {
+     "t": "a",
+     "inicio": 119.02,
+     "fin": 119.16
+    },
+    {
+     "t": "ir",
+     "inicio": 119.16,
+     "fin": 119.24
+    },
+    {
+     "t": "con",
+     "inicio": 119.24,
+     "fin": 119.88
+    },
+    {
+     "t": "mi.",
+     "inicio": 119.88,
+     "fin": 120.14
+    },
+    {
+     "t": "¡Adiós!",
+     "inicio": 121.28,
+     "fin": 121.64
+    },
+    {
+     "t": "¡Adiós!",
+     "inicio": 121.78,
+     "fin": 122.14
+    },
+    {
+     "t": "¿Cómo",
+     "inicio": 122.36,
+     "fin": 122.7
+    },
+    {
+     "t": "es",
+     "inicio": 122.7,
+     "fin": 122.84
+    },
+    {
+     "t": "que",
+     "inicio": 122.84,
+     "fin": 122.94
+    },
+    {
+     "t": "queremos",
+     "inicio": 122.94,
+     "fin": 123.08
+    },
+    {
+     "t": "seguir",
+     "inicio": 123.08,
+     "fin": 123.28
+    },
+    {
+     "t": "en",
+     "inicio": 123.28,
+     "fin": 123.44
+    },
+    {
+     "t": "España?",
+     "inicio": 123.44,
+     "fin": 123.62
+    },
+    {
+     "t": "¡Sí!",
+     "inicio": 124.52,
+     "fin": 124.7
+    },
+    {
+     "t": "¡Adiós!",
+     "inicio": 125.86,
+     "fin": 126.22
+    },
+    {
+     "t": "¡Vale,",
+     "inicio": 126.84,
+     "fin": 127.2
+    },
+    {
+     "t": "vale!",
+     "inicio": 127.3,
+     "fin": 127.42
+    },
+    {
+     "t": "¡Ve,",
+     "inicio": 127.66,
+     "fin": 127.72
+    },
+    {
+     "t": "tí,",
+     "inicio": 127.72,
+     "fin": 127.88
+    },
+    {
+     "t": "tí,",
+     "inicio": 127.92,
+     "fin": 128
+    },
+    {
+     "t": "tí!",
+     "inicio": 128,
+     "fin": 128.06
+    },
+    {
+     "t": "¡Ve,",
+     "inicio": 128.1,
+     "fin": 128.26
+    },
+    {
+     "t": "tí,",
+     "inicio": 128.58,
+     "fin": 128.58
+    },
+    {
+     "t": "tí,",
+     "inicio": 128.64,
+     "fin": 128.64
+    },
+    {
+     "t": "tí,",
+     "inicio": 128.68,
+     "fin": 128.84
+    },
+    {
+     "t": "tí,",
+     "inicio": 128.84,
+     "fin": 128.84
+    },
+    {
+     "t": "tí!",
+     "inicio": 129,
+     "fin": 129
+    },
+    {
+     "t": "¡Ve,",
+     "inicio": 129.2,
+     "fin": 129.36
+    },
+    {
+     "t": "tí,",
+     "inicio": 129.68,
+     "fin": 129.68
+    },
+    {
+     "t": "tí,",
+     "inicio": 130.32,
+     "fin": 130.32
+    },
+    {
+     "t": "tí,",
+     "inicio": 130.38,
+     "fin": 130.38
+    },
+    {
+     "t": "tí,",
+     "inicio": 130.54,
+     "fin": 130.54
+    },
+    {
+     "t": "tí!",
+     "inicio": 130.58,
+     "fin": 130.58
+    },
+    {
+     "t": "¡Ve,",
+     "inicio": 134.86,
+     "fin": 135.22
+    },
+    {
+     "t": "tí,",
+     "inicio": 135.22,
+     "fin": 135.58
+    },
+    {
+     "t": "tí,",
+     "inicio": 135.58,
+     "fin": 135.58
+    },
+    {
+     "t": "tí,",
+     "inicio": 135.58,
+     "fin": 135.58
+    },
+    {
+     "t": "tí,",
+     "inicio": 135.58,
+     "fin": 135.58
+    },
+    {
+     "t": "tí!",
+     "inicio": 135.58,
+     "fin": 135.58
+    },
+    {
+     "t": "A",
+     "inicio": 137.34,
+     "fin": 137.62
+    },
+    {
+     "t": "ver,",
+     "inicio": 137.62,
+     "fin": 137.7
+    },
+    {
+     "t": "espera.",
+     "inicio": 137.78,
+     "fin": 137.88
+    },
+    {
+     "t": "Que",
+     "inicio": 138,
+     "fin": 138.04
+    },
+    {
+     "t": "se",
+     "inicio": 138.04,
+     "fin": 138.12
+    },
+    {
+     "t": "van",
+     "inicio": 138.12,
+     "fin": 138.24
+    },
+    {
+     "t": "a",
+     "inicio": 138.24,
+     "fin": 138.32
+    },
+    {
+     "t": "friar",
+     "inicio": 138.32,
+     "fin": 138.46
+    },
+    {
+     "t": "uno,",
+     "inicio": 138.46,
+     "fin": 138.62
+    },
+    {
+     "t": "que",
+     "inicio": 138.66,
+     "fin": 138.74
+    },
+    {
+     "t": "viene",
+     "inicio": 138.74,
+     "fin": 138.88
+    },
+    {
+     "t": "de",
+     "inicio": 138.88,
+     "fin": 139
+    },
+    {
+     "t": "suduo.",
+     "inicio": 139,
+     "fin": 139.46
+    },
+    {
+     "t": "¿No",
+     "inicio": 139.74,
+     "fin": 140.02
+    },
+    {
+     "t": "es",
+     "inicio": 140.02,
+     "fin": 140.1
+    },
+    {
+     "t": "que",
+     "inicio": 140.1,
+     "fin": 140.1
+    },
+    {
+     "t": "la",
+     "inicio": 140.1,
+     "fin": 140.18
+    },
+    {
+     "t": "foto",
+     "inicio": 140.18,
+     "fin": 140.32
+    },
+    {
+     "t": "primera",
+     "inicio": 140.32,
+     "fin": 140.64
+    },
+    {
+     "t": "este?",
+     "inicio": 140.64,
+     "fin": 140.8
+    },
+    {
+     "t": "No,",
+     "inicio": 140.92,
+     "fin": 140.92
+    },
+    {
+     "t": "es",
+     "inicio": 140.92,
+     "fin": 140.92
+    },
+    {
+     "t": "que",
+     "inicio": 140.92,
+     "fin": 140.92
+    },
+    {
+     "t": "está",
+     "inicio": 140.92,
+     "fin": 140.98
+    },
+    {
+     "t": "el",
+     "inicio": 140.98,
+     "fin": 141.08
+    },
+    {
+     "t": "plato.",
+     "inicio": 141.08,
+     "fin": 141.3
+    },
+    {
+     "t": "¡Qué",
+     "inicio": 141.8,
+     "fin": 142.08
+    },
+    {
+     "t": "bueno,",
+     "inicio": 142.08,
+     "fin": 142.36
+    },
+    {
+     "t": "que",
+     "inicio": 142.52,
+     "fin": 142.58
+    },
+    {
+     "t": "bueno!",
+     "inicio": 142.58,
+     "fin": 142.7
+    },
+    {
+     "t": "¡Que",
+     "inicio": 142.88,
+     "fin": 143
+    },
+    {
+     "t": "bueno,",
+     "inicio": 143,
+     "fin": 143.16
+    },
+    {
+     "t": "que",
+     "inicio": 143.4,
+     "fin": 143.4
+    },
+    {
+     "t": "bueno!",
+     "inicio": 143.4,
+     "fin": 143.5
+    },
+    {
+     "t": "¡Vale,",
+     "inicio": 143.82,
+     "fin": 143.88
+    },
+    {
+     "t": "vale,",
+     "inicio": 143.96,
+     "fin": 144.02
+    },
+    {
+     "t": "vale!",
+     "inicio": 144.02,
+     "fin": 144.02
+    },
+    {
+     "t": "¡Vale,",
+     "inicio": 144.04,
+     "fin": 144.28
+    },
+    {
+     "t": "vale,",
+     "inicio": 144.76,
+     "fin": 144.76
+    },
+    {
+     "t": "vale!",
+     "inicio": 144.82,
+     "fin": 145.74
+    },
+    {
+     "t": "No,",
+     "inicio": 146.68,
+     "fin": 146.96
+    },
+    {
+     "t": "no,",
+     "inicio": 147.1,
+     "fin": 147.1
+    },
+    {
+     "t": "no,",
+     "inicio": 147.16,
+     "fin": 147.26
+    },
+    {
+     "t": "coja,",
+     "inicio": 147.3,
+     "fin": 147.48
+    },
+    {
+     "t": "coja",
+     "inicio": 147.58,
+     "fin": 147.8
+    },
+    {
+     "t": "la",
+     "inicio": 147.8,
+     "fin": 147.92
+    },
+    {
+     "t": "barita.",
+     "inicio": 147.92,
+     "fin": 148.16
+    },
+    {
+     "t": "Yo",
+     "inicio": 149.02,
+     "fin": 149.16
+    },
+    {
+     "t": "creo",
+     "inicio": 149.16,
+     "fin": 149.24
+    },
+    {
+     "t": "que",
+     "inicio": 149.24,
+     "fin": 149.36
+    },
+    {
+     "t": "la",
+     "inicio": 149.36,
+     "fin": 149.42
+    },
+    {
+     "t": "hacemos",
+     "inicio": 149.42,
+     "fin": 149.56
+    },
+    {
+     "t": "al",
+     "inicio": 149.56,
+     "fin": 149.7
+    },
+    {
+     "t": "lado",
+     "inicio": 149.7,
+     "fin": 149.8
+    },
+    {
+     "t": "de",
+     "inicio": 149.8,
+     "fin": 149.86
+    },
+    {
+     "t": "la",
+     "inicio": 149.86,
+     "fin": 149.94
+    },
+    {
+     "t": "costa.",
+     "inicio": 149.94,
+     "fin": 150.16
+    },
+    {
+     "t": "Raga",
+     "inicio": 150.22,
+     "fin": 150.34
+    },
+    {
+     "t": "la",
+     "inicio": 150.34,
+     "fin": 150.48
+    },
+    {
+     "t": "costa,",
+     "inicio": 150.48,
+     "fin": 150.76
+    },
+    {
+     "t": "coja.",
+     "inicio": 150.82,
+     "fin": 150.92
+    },
+    {
+     "t": "¡Vaya!",
+     "inicio": 151.32,
+     "fin": 151.52
+    },
+    {
+     "t": "¡Vaya!",
+     "inicio": 152.32,
+     "fin": 152.6
+    },
+    {
+     "t": "¡Vaya!",
+     "inicio": 153.48,
+     "fin": 153.76
+    },
+    {
+     "t": "¡Vaya!",
+     "inicio": 154.5,
+     "fin": 154.78
+    },
+    {
+     "t": "¡Vaya!",
+     "inicio": 155.5,
+     "fin": 155.78
+    },
+    {
+     "t": "¡Vaya!",
+     "inicio": 156.3,
+     "fin": 156.58
+    },
+    {
+     "t": "¡Vaya!",
+     "inicio": 156.94,
+     "fin": 157.08
+    },
+    {
+     "t": "¡Vaya!",
+     "inicio": 157.54,
+     "fin": 157.62
+    },
+    {
+     "t": "¡Vaya!",
+     "inicio": 157.62,
+     "fin": 157.74
+    },
+    {
+     "t": "¡Vaya!",
+     "inicio": 164.36,
+     "fin": 164.64
+    },
+    {
+     "t": "¡Vaya!",
+     "inicio": 165.38,
+     "fin": 166.06
+    },
+    {
+     "t": "¡Diva",
+     "inicio": 166.94,
+     "fin": 167.62
+    },
+    {
+     "t": "España!",
+     "inicio": 167.62,
+     "fin": 167.94
+    },
+    {
+     "t": "¡Diva!",
+     "inicio": 169.94,
+     "fin": 170.38
+    },
+    {
+     "t": "Vamos",
+     "inicio": 170.38,
+     "fin": 170.38
+    },
+    {
+     "t": "a",
+     "inicio": 170.38,
+     "fin": 170.42
+    },
+    {
+     "t": "ver",
+     "inicio": 170.42,
+     "fin": 170.92
+    },
+    {
+     "t": "quién",
+     "inicio": 170.92,
+     "fin": 171.9
+    },
+    {
+     "t": "los",
+     "inicio": 171.9,
+     "fin": 172.04
+    },
+    {
+     "t": "recoge.",
+     "inicio": 172.04,
+     "fin": 172.38
+    },
+    {
+     "t": "Para",
+     "inicio": 172.52,
+     "fin": 172.8
+    },
+    {
+     "t": "ver",
+     "inicio": 172.8,
+     "fin": 172.8
+    },
+    {
+     "t": "quién",
+     "inicio": 172.8,
+     "fin": 172.8
+    },
+    {
+     "t": "los",
+     "inicio": 172.8,
+     "fin": 172.8
+    },
+    {
+     "t": "recoge.",
+     "inicio": 172.8,
+     "fin": 172.8
+    },
+    {
+     "t": "Ahora",
+     "inicio": 172.8,
+     "fin": 173.38
+    },
+    {
+     "t": "esto",
+     "inicio": 173.38,
+     "fin": 173.72
+    },
+    {
+     "t": "recogerá",
+     "inicio": 173.72,
+     "fin": 174.2
+    },
+    {
+     "t": "de",
+     "inicio": 174.2,
+     "fin": 174.26
+    },
+    {
+     "t": "los",
+     "inicio": 174.26,
+     "fin": 174.34
+    },
+    {
+     "t": "recoge.",
+     "inicio": 174.34,
+     "fin": 174.66
+    },
+    {
+     "t": "¡Venga!",
+     "inicio": 174.92,
+     "fin": 175.2
     }
    ],
    "habla": true
