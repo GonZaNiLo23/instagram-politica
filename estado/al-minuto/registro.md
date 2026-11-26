@@ -418,3 +418,5 @@
 - 2026-11-26 07:30 UTC (publicación 08:00 Madrid): sin publicación (sin candidatos; el radar no detectó ninguno)
 - 2026-11-26 09:30 UTC (publicación 10:00 Madrid): sin publicación (ningún candidato llega a 3)
 - 2026-11-26 09:30 UTC · 2 · @santi_abascal (paseo con votantes, 409,7 s) · descartado: conversación callejera con voces sin identificar, transcripción muy dudosa, sin frase ni propuesta concreta, sin tramo limpio de 15–40 s; viral 298,4
+- 2026-11-26 11:30 UTC (publicación 12:00 Madrid): sin publicación (ningún candidato llega a 3)
+- 2026-11-26 11:30 UTC · 2 · @psoe (invitación al acto #MásQueUnMitin, 10,5 s) · descartado: publicidad de acto de partido sin propuesta ni frase política, clip de 10,5 s (por debajo de 15 s); viral 1237,4
