@@ -427,3 +427,5 @@
 - 2026-11-26 17:30 UTC (publicación 18:00 Madrid): sin publicación (ningún candidato llega a 3)
 - 2026-11-26 17:30 UTC · 2 · @vox_es (balance de campaña, 42 actos de Abascal, 111,2 s) · descartado: montaje de cierre de campaña sin voz ni frase, sin medida concreta, sin tramo de 15–40 s que se entienda solo; viral 100,4
 - 2026-11-26 17:30 UTC · 2 · @nngg_es (¿Por tierra, mar y aire? Feijóo, 15,5 s) · descartado: apenas 4,4 s de voz, pregunta retórica sobre inmigrantes ilegales sin contexto ni quién habla, sin medida concreta; viral 81,3
+- 2026-11-26 19:30 UTC (publicación 20:00 Madrid): sin publicación (ningún candidato llega a 3)
+- 2026-11-26 19:30 UTC · 2 · @vox_es (Segovia, campaña con votantes, 176,4 s) · descartado: conversación callejera con voces sin identificar, transcripción muy dudosa, sin frase ni propuesta concreta, sin tramo limpio de 15–40 s; viral 75,5
