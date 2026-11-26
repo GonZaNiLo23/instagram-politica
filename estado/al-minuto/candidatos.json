@@ -1,5 +1,140 @@
 {
- "generado": "2026-11-26T15:29:18.862Z",
- "total_detectados": 0,
- "candidatos": []
+ "generado": "2026-11-26T17:29:41.364Z",
+ "total_detectados": 2,
+ "candidatos": [
+  {
+   "id": "ig-18107850965322029",
+   "fuente": "instagram",
+   "cuenta": "@vox_es",
+   "nombre": "VOX 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 1286341,
+   "fecha": "2026-11-26T16:48:03+0000",
+   "horas": 0.7,
+   "me_gusta": 864,
+   "comentarios": 16,
+   "viral": 100.4,
+   "enlace": "https://www.instagram.com/reel/DgNkHZwRGV8/",
+   "texto": "42 actos de Santiago Abascal.\n\n9.690 actos de candidatos y portavoces nacionales.\n\n📍 Última parada: Plaza de Toros de Valencia.\n\n¡Ven al cierre de una campaña histórica! ¡Te esperamos!",
+   "credito": "Vídeo: @vox_es",
+   "duracion": 111.2,
+   "archivo": "ig-18107850965322029.mp4",
+   "frases": [],
+   "palabras": [],
+   "habla": false
+  },
+  {
+   "id": "ig-18153179413631972",
+   "fuente": "instagram",
+   "cuenta": "@nngg_es",
+   "nombre": "NNGG de España 🇪🇸",
+   "espacio": "afin",
+   "seguidores": 27748,
+   "fecha": "2026-11-26T16:09:54+0000",
+   "horas": 1.3,
+   "me_gusta": 28,
+   "comentarios": 1,
+   "viral": 81.3,
+   "enlace": "https://www.instagram.com/reel/DgNf4ukobq-/",
+   "texto": "¿Por tierra, mar y aire? Solo anunezfeijoo",
+   "credito": "Vídeo: @nngg_es",
+   "duracion": 15.5,
+   "archivo": "ig-18153179413631972.mp4",
+   "frases": [
+    {
+     "inicio": 0,
+     "fin": 2.38,
+     "texto": "¿Y si un inmigrante ilegal comete un delito?"
+    },
+    {
+     "inicio": 2.66,
+     "fin": 4.42,
+     "texto": "No, si tiene que ir de España inmediatamente."
+    }
+   ],
+   "palabras": [
+    {
+     "t": "¿Y",
+     "inicio": 0,
+     "fin": 0.12
+    },
+    {
+     "t": "si",
+     "inicio": 0.12,
+     "fin": 0.2
+    },
+    {
+     "t": "un",
+     "inicio": 0.2,
+     "fin": 0.38
+    },
+    {
+     "t": "inmigrante",
+     "inicio": 0.38,
+     "fin": 1.08
+    },
+    {
+     "t": "ilegal",
+     "inicio": 1.08,
+     "fin": 1.56
+    },
+    {
+     "t": "comete",
+     "inicio": 1.56,
+     "fin": 1.92
+    },
+    {
+     "t": "un",
+     "inicio": 1.92,
+     "fin": 2.02
+    },
+    {
+     "t": "delito?",
+     "inicio": 2.02,
+     "fin": 2.38
+    },
+    {
+     "t": "No,",
+     "inicio": 2.66,
+     "fin": 2.8
+    },
+    {
+     "t": "si",
+     "inicio": 2.88,
+     "fin": 2.94
+    },
+    {
+     "t": "tiene",
+     "inicio": 2.94,
+     "fin": 3.14
+    },
+    {
+     "t": "que",
+     "inicio": 3.14,
+     "fin": 3.26
+    },
+    {
+     "t": "ir",
+     "inicio": 3.26,
+     "fin": 3.3
+    },
+    {
+     "t": "de",
+     "inicio": 3.3,
+     "fin": 3.38
+    },
+    {
+     "t": "España",
+     "inicio": 3.38,
+     "fin": 3.6
+    },
+    {
+     "t": "inmediatamente.",
+     "inicio": 3.6,
+     "fin": 4.42
+    }
+   ],
+   "habla": true
+  }
+ ]
 }
