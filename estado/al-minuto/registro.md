@@ -420,3 +420,6 @@
 - 2026-11-26 09:30 UTC · 2 · @santi_abascal (paseo con votantes, 409,7 s) · descartado: conversación callejera con voces sin identificar, transcripción muy dudosa, sin frase ni propuesta concreta, sin tramo limpio de 15–40 s; viral 298,4
 - 2026-11-26 11:30 UTC (publicación 12:00 Madrid): sin publicación (ningún candidato llega a 3)
 - 2026-11-26 11:30 UTC · 2 · @psoe (invitación al acto #MásQueUnMitin, 10,5 s) · descartado: publicidad de acto de partido sin propuesta ni frase política, clip de 10,5 s (por debajo de 15 s); viral 1237,4
+- 2026-11-26 13:30 UTC (publicación 14:00 Madrid): sin publicación (ningún candidato llega a 3)
+- 2026-11-26 13:30 UTC · 2 · @vox_es (spot de campaña «vivir en nuestros pueblos», 84,7 s) · descartado: anuncio electoral en tono poético sin medida concreta, acusación genérica a quienes gobiernan desde Madrid, sin tramo limpio de 15–40 s que se entienda solo; viral 55,7
+- 2026-11-26 13:30 UTC · 1 · @isabeldiazayuso (mensaje navideño en el belén, 121,3 s) · descartado: acto institucional/religioso sin relevancia política ni propuesta, sin tramo de 15–40 s con gancho; viral 35
