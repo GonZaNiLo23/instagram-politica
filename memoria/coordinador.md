@@ -77,3 +77,4 @@
 - 2026-11-24 produccion.yml (11:40): huecos de hoy y mañana ya cubiertos en la cola; salida en 2 min sin subagentes.
 - 2026-11-25 produccion.yml: 2 piezas en ~60 min; el generador gastó la v1 en zonas seguras/tercio inferior (CAMBIOS 8/10 ambos): pedirlo desde el encargo ahorra una vuelta.
 - 2026-11-25 (nube, 2.ª ejecución): comprobar primero la cola (node -e filtrando pendiente) y programado-hoy; si hoy y mañana están cubiertos, no encargar nada.
+- [nube, 2026-11-26] Rutina claude.ai: red igual (curl 000). Probar la red ANTES de lanzar subagentes (lancé el buscador y tuve que pararlo). Huecos del 27-11 para produccion.yml.

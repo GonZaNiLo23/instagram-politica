@@ -162,6 +162,7 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 076 | am20261124-1526-sanchez-prestamo-vivienda | Al minuto (Sánchez, préstamo público de 50.000 € para la entrada de vivienda) | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-24 16:00 | sin revisores |
 
 **2026-11-25 (rutina claude.ai):** sin red. 25-11 cubierto (069, 068); 26 y 27-11 para produccion.yml. Próximo número libre: 077. Informe en estado/informe-produccion-2026-11-25.md.
+**2026-11-26 (rutina claude.ai):** sin red. 26-11 cubierto (077, 078); 27-11 (13:30, 19:00) para produccion.yml. Próximo número libre: 079. 069 falló en IG el 25-11 (sin reencolar). Informe en estado/informe-produccion-2026-11-26.md.
 | 077 | ratios-guarderia | ⚙️ Cómo funciona · Servicio público | Flash | programado | 1 | 2 | 2026-11-26 13:30 (cola) | v2 APROBADO 9/10; recomprobar BOE |
 | 078 | fp-online-presencial | 🔴 Actualidad · Servicio público | Flash | programado | 1 | 2 | 2026-11-26 19:00 (cola) | v2 APROBADO 9/10; recomprobar BOE |
 **2026-11-25 (produccion.yml):** 26-11 cubierto (077 13:30, 078 19:00). Próximo número libre: 079. Informe en estado/informe-produccion-2026-11-25-nube.md.
