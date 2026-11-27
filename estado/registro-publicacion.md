@@ -212,3 +212,7 @@
 - 2026-11-27T10:00:45.316Z · am20261127-0930-alvise-macrocarcel: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-27T12:31:06.028Z · 079-tope-22-tae-credito v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgPrwa4hAu-/
 - 2026-11-27T12:31:08.862Z · 079-tope-22-tae-credito: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-27T18:00:47.294Z · 080-iva-anual-autonomos v2: PUBLICADA en Instagram https://www.instagram.com/reel/DgQRhPgBNbD/
+- 2026-11-27T18:00:50.462Z · 080-iva-anual-autonomos: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-27T18:01:26.253Z · am20261127-1730-abascal-vivienda v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgQRmfOh8rU/
+- 2026-11-27T18:01:29.341Z · am20261127-1730-abascal-vivienda: TikTok en la bandeja de borradores (falta publicarlo desde la app)

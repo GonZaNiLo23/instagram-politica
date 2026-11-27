@@ -1165,7 +1165,11 @@
     "version": "v2",
     "hora": "2026-11-27T19:00:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/080-iva-anual-autonomos-v1.md APROBADO (literales aplicados) · revisiones/videos/080-iva-anual-autonomos-v2.md APROBADO test 9/10",
-    "estado": "pendiente"
+    "estado": "publicado",
+    "id": "18063401354643749",
+    "enlace": "https://www.instagram.com/reel/DgQRhPgBNbD/",
+    "publicado_en": "2026-11-27T18:00:47.294Z",
+    "tiktok_estado": "borrador"
   },
   {
     "pieza": "079-tope-22-tae-credito",
@@ -1207,7 +1211,11 @@
     "pieza": "am20261127-1730-abascal-vivienda",
     "version": "v1",
     "hora": "2026-11-27T18:00:00.000Z",
-    "estado": "pendiente",
-    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)"
+    "estado": "publicado",
+    "aprobacion": "Al minuto horario: publicación directa sin revisores, autorizada por la persona usuaria el 2026-10-29 (respeta estado/vetos.md)",
+    "id": "18125072362900416",
+    "enlace": "https://www.instagram.com/reel/DgQRmfOh8rU/",
+    "publicado_en": "2026-11-27T18:01:26.253Z",
+    "tiktok_estado": "borrador"
   }
 ]
