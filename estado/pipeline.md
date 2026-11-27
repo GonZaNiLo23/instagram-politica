@@ -173,3 +173,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 081 | devolucion-14-dias | ⚙️ Cómo funciona · Bolsillo | Flash | programado | 1 | 1 | 2026-11-28 12:00 (cola) | v1 APROBADO 9/10 |
 | 082 | puente-7-diciembre | ⚙️ Cómo funciona · Servicio público | Flash | programado | 1 | 3 | 2026-11-28 19:00 (cola) | v3 APROBADO 9/10 |
 **2026-11-27 (produccion.yml):** 28-11 cubierto (081 12:00, 082 19:00). Próximo número libre: 083. Informe en estado/informe-produccion-2026-11-27-nube.md.
+| 083a | am20261127-0930-alvise-macrocarcel | 🔴 Actualidad · Al minuto | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-27 10:00 | sin revisores |

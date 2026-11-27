@@ -1,0 +1,96 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 27.2,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 23.7,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 23.7,
+     "fundidoFin": 23.7
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ALVISE PROPONE UNA MACROCÁRCEL DE MÁXIMA SEGURIDAD",
+     "fecha": "27 NOV",
+     "credito": "Vídeo: @alviseperez"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0.05,
+       "fin": 3.0,
+       "texto": "la primera macrocárcel de máxima seguridad,"
+      },
+      {
+       "inicio": 3.1,
+       "fin": 5.8,
+       "texto": "cero ocio y sin piscina ni gimnasio,"
+      },
+      {
+       "inicio": 5.85,
+       "fin": 8.55,
+       "texto": "en donde los terroristas, los corruptos,"
+      },
+      {
+       "inicio": 8.65,
+       "fin": 11.15,
+       "texto": "los asesinos, los violadores y los pedófilos,"
+      },
+      {
+       "inicio": 11.2,
+       "fin": 13.3,
+       "texto": "también los delincuentes reincidentes"
+      },
+      {
+       "inicio": 13.4,
+       "fin": 16.5,
+       "texto": "entrarán para trabajar, para devolver el daño causado"
+      },
+      {
+       "inicio": 16.6,
+       "fin": 19.95,
+       "texto": "y para organizar la mayor lucha contra el crimen organizado,"
+      },
+      {
+       "inicio": 20.0,
+       "fin": 22.25,
+       "texto": "la corrupción y el narcotráfico"
+      },
+      {
+       "inicio": 22.3,
+       "fin": 23.7,
+       "texto": "de la historia de nuestro país"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 23.7,
+   "fin": 27.2,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Alvise propone una macrocárcel de máxima seguridad",
+     "tamano": 84,
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ],
+ "sinVoz": true
+}
