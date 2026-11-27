@@ -434,3 +434,4 @@
 - 2026-11-27 09:30 UTC · 2 · @sanchezcastejon (spot «pregúntale a Manuela», 131,6 s) · descartado: anuncio de campaña narrativo con actriz, sin tramo de 15–40 s con frase política que se entienda solo; un envío por hora; viral 248,6
 - 2026-11-27 11:30 UTC (publicación 12:00 Madrid): sin publicación (ningún candidato llega a 3)
 - 2026-11-27 11:30 UTC · 2 · @sanchezcastejon (spot electoral «Estas elecciones van de Teresa…», 51,2 s) · descartado: anuncio de campaña del PSOE sin medida concreta ni frase política que se entienda solo; viral 231,4
+- 2026-11-27 13:30 UTC (publicación 14:00 Madrid): sin publicación (sin candidatos; el radar no detectó ninguno)
