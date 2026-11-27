@@ -210,3 +210,5 @@
 - 2026-11-26T18:00:57.463Z · 078-fp-online-presencial: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-27T10:00:42.000Z · am20261127-0930-alvise-macrocarcel v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgPallbS2vm/
 - 2026-11-27T10:00:45.316Z · am20261127-0930-alvise-macrocarcel: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-27T12:31:06.028Z · 079-tope-22-tae-credito v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgPrwa4hAu-/
+- 2026-11-27T12:31:08.862Z · 079-tope-22-tae-credito: TikTok en la bandeja de borradores (falta publicarlo desde la app)
