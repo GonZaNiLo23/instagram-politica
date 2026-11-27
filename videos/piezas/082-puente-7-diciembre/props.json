@@ -1,0 +1,673 @@
+{
+  "plantilla": "flash",
+  "duracion": 35.37,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "¿LIBRAS EL LUNES 7?",
+            "y": 340,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "calPuente",
+            "y": 640,
+            "zoom": false,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿LIBRAS EL LUNES 7?",
+          "y": 330,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "calPuente",
+          "y": 600,
+          "zoom": true,
+          "hasta": 2.5
+        },
+        {
+          "tipo": "mapaPuente",
+          "x": 80,
+          "y": 580,
+          "esc": 0.34,
+          "en": 2.55,
+          "cajaEn": 2.8
+        }
+      ]
+    },
+    {
+      "inicio": 3.9,
+      "fin": 9.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "FESTIVO EL LUNES 7: 10 TERRITORIOS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaPuente",
+          "x": 80,
+          "y": 580,
+          "esc": 0.34,
+          "en": -1,
+          "cajaEn": 0.3,
+          "festEn": 0.5,
+          "paso": 0.25,
+          "restoEn": 99,
+          "leyenda": 1.7,
+          "contador": {
+            "valor": "10",
+            "etiqueta": "festivo",
+            "color": "#2A9D8F",
+            "en": 0.5
+          }
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: BOE 28‑10‑2025"
+          ],
+          "en": 0.6,
+          "tamano": 36
+        }
+      ]
+    },
+    {
+      "inicio": 9.5,
+      "fin": 13.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LAS OTRAS 9: NO FIGURA COMO FESTIVO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaPuente",
+          "x": 80,
+          "y": 580,
+          "esc": 0.34,
+          "en": -1,
+          "cajaEn": 0.3,
+          "festEn": -9,
+          "paso": 0.1,
+          "restoEn": 0.2,
+          "etiquetas": 0.4,
+          "leyenda": -1,
+          "contador": {
+            "valor": "9",
+            "etiqueta": "no figura",
+            "color": "#8D99AE",
+            "en": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 13.66,
+      "fin": 18.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "6 DIC = DOMINGO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.6600000000000001
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "CADA COMUNIDAD DECIDE",
+          "y": 330,
+          "en": 1.81,
+          "tamano": 64
+        },
+        {
+          "tipo": "calPuente",
+          "y": 500,
+          "filas": 2,
+          "cw": 118,
+          "ch": 175,
+          "en": 0.05,
+          "zoom": false,
+          "marca6": 0.26,
+          "flecha": 3.26,
+          "desvio": 2.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: BOE, fund. 2.º (RD 2001/1983, art. 45.3)"
+          ],
+          "en": 0.5,
+          "tamano": 36
+        }
+      ]
+    },
+    {
+      "inicio": 18.86,
+      "fin": 26.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MARTES 8: FESTIVO EN LAS 19",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.45
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PUENTE DE 4 DÍAS: SOLO EN 10",
+          "y": 330,
+          "en": 3.6,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraDias",
+          "y": 520,
+          "en": 0.05,
+          "mar8": 0.66,
+          "cuatro": 4.1
+        },
+        {
+          "tipo": "mapaPuente",
+          "x": 230,
+          "y": 730,
+          "esc": 0.29,
+          "en": -1,
+          "cajaEn": 0.3,
+          "festEn": -9,
+          "paso": 0.1,
+          "restoEn": -9,
+          "todasEn": 2.02,
+          "vuelveEn": 6.26
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Salvo convenio o fiesta local propios"
+          ],
+          "en": 4.98,
+          "tamano": 36
+        }
+      ]
+    },
+    {
+      "inicio": 26.62,
+      "fin": 35.37,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿LUNES FESTIVO O FIESTA PROPIA?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "082-puente-7-diciembre",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "¿Libras",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "t": "el",
+      "inicio": 0.48,
+      "fin": 0.56
+    },
+    {
+      "t": "lunes",
+      "inicio": 0.6,
+      "fin": 0.88
+    },
+    {
+      "t": "siete",
+      "inicio": 0.96,
+      "fin": 1.2
+    },
+    {
+      "t": "de",
+      "inicio": 1.28,
+      "fin": 1.36
+    },
+    {
+      "t": "diciembre?",
+      "inicio": 1.44,
+      "fin": 2.16
+    },
+    {
+      "t": "Depende",
+      "inicio": 2.4,
+      "fin": 2.8
+    },
+    {
+      "t": "de",
+      "inicio": 2.84,
+      "fin": 2.88
+    },
+    {
+      "t": "dónde",
+      "inicio": 2.96,
+      "fin": 3.2
+    },
+    {
+      "t": "vivas.",
+      "inicio": 3.24,
+      "fin": 3.84
+    },
+    {
+      "t": "Según",
+      "inicio": 4,
+      "fin": 4.24
+    },
+    {
+      "t": "el",
+      "inicio": 4.32,
+      "fin": 4.4
+    },
+    {
+      "t": "BOE,",
+      "inicio": 4.48,
+      "fin": 4.8
+    },
+    {
+      "t": "es",
+      "inicio": 4.88,
+      "fin": 4.96
+    },
+    {
+      "t": "festivo",
+      "inicio": 5.08,
+      "fin": 5.36
+    },
+    {
+      "t": "en",
+      "inicio": 5.44,
+      "fin": 5.52
+    },
+    {
+      "t": "diez",
+      "inicio": 5.6,
+      "fin": 5.8
+    },
+    {
+      "t": "territorios:",
+      "inicio": 5.84,
+      "fin": 6.88
+    },
+    {
+      "t": "nueve",
+      "inicio": 6.96,
+      "fin": 7.12
+    },
+    {
+      "t": "comunidades",
+      "inicio": 7.2,
+      "fin": 7.76
+    },
+    {
+      "t": "autónomas",
+      "inicio": 7.84,
+      "fin": 8.4
+    },
+    {
+      "t": "y",
+      "inicio": 8.56,
+      "fin": 8.64
+    },
+    {
+      "t": "Melilla.",
+      "inicio": 8.72,
+      "fin": 9.2
+    },
+    {
+      "t": "En",
+      "inicio": 9.6,
+      "fin": 9.68
+    },
+    {
+      "t": "las",
+      "inicio": 9.76,
+      "fin": 9.84
+    },
+    {
+      "t": "otras",
+      "inicio": 9.92,
+      "fin": 10.16
+    },
+    {
+      "t": "ocho",
+      "inicio": 10.2,
+      "fin": 10.32
+    },
+    {
+      "t": "comunidades",
+      "inicio": 10.4,
+      "fin": 11.04
+    },
+    {
+      "t": "y",
+      "inicio": 11.2,
+      "fin": 11.24
+    },
+    {
+      "t": "en",
+      "inicio": 11.28,
+      "fin": 11.36
+    },
+    {
+      "t": "Ceuta,",
+      "inicio": 11.44,
+      "fin": 11.92
+    },
+    {
+      "t": "no",
+      "inicio": 12.08,
+      "fin": 12.16
+    },
+    {
+      "t": "figura",
+      "inicio": 12.24,
+      "fin": 12.56
+    },
+    {
+      "t": "como",
+      "inicio": 12.64,
+      "fin": 12.8
+    },
+    {
+      "t": "festivo.",
+      "inicio": 12.88,
+      "fin": 13.56
+    },
+    {
+      "t": "El",
+      "inicio": 13.76,
+      "fin": 13.84
+    },
+    {
+      "t": "seis",
+      "inicio": 13.92,
+      "fin": 14.24
+    },
+    {
+      "t": "cae",
+      "inicio": 14.4,
+      "fin": 14.56
+    },
+    {
+      "t": "en",
+      "inicio": 14.6,
+      "fin": 14.64
+    },
+    {
+      "t": "domingo.",
+      "inicio": 14.72,
+      "fin": 15.36
+    },
+    {
+      "t": "Cada",
+      "inicio": 15.52,
+      "fin": 15.68
+    },
+    {
+      "t": "comunidad",
+      "inicio": 15.76,
+      "fin": 16.24
+    },
+    {
+      "t": "puede",
+      "inicio": 16.28,
+      "fin": 16.48
+    },
+    {
+      "t": "cambiar",
+      "inicio": 16.533,
+      "fin": 16.8
+    },
+    {
+      "t": "ese",
+      "inicio": 16.92,
+      "fin": 17.04
+    },
+    {
+      "t": "lunes",
+      "inicio": 17.08,
+      "fin": 17.36
+    },
+    {
+      "t": "por",
+      "inicio": 17.44,
+      "fin": 17.52
+    },
+    {
+      "t": "otra",
+      "inicio": 17.6,
+      "fin": 17.76
+    },
+    {
+      "t": "fiesta",
+      "inicio": 17.84,
+      "fin": 18.08
+    },
+    {
+      "t": "propia.",
+      "inicio": 18.16,
+      "fin": 18.76
+    },
+    {
+      "t": "El",
+      "inicio": 18.96,
+      "fin": 19.04
+    },
+    {
+      "t": "martes",
+      "inicio": 19.12,
+      "fin": 19.44
+    },
+    {
+      "t": "ocho,",
+      "inicio": 19.52,
+      "fin": 19.92
+    },
+    {
+      "t": "Inmaculada,",
+      "inicio": 20,
+      "fin": 20.64
+    },
+    {
+      "t": "libra",
+      "inicio": 20.88,
+      "fin": 21.12
+    },
+    {
+      "t": "toda",
+      "inicio": 21.36,
+      "fin": 21.6
+    },
+    {
+      "t": "España.",
+      "inicio": 21.72,
+      "fin": 22.16
+    },
+    {
+      "t": "Puente",
+      "inicio": 22.56,
+      "fin": 22.8
+    },
+    {
+      "t": "de",
+      "inicio": 22.88,
+      "fin": 22.92
+    },
+    {
+      "t": "cuatro",
+      "inicio": 22.96,
+      "fin": 23.2
+    },
+    {
+      "t": "días,",
+      "inicio": 23.28,
+      "fin": 23.76
+    },
+    {
+      "t": "del",
+      "inicio": 23.84,
+      "fin": 23.92
+    },
+    {
+      "t": "sábado",
+      "inicio": 24,
+      "fin": 24.24
+    },
+    {
+      "t": "al",
+      "inicio": 24.32,
+      "fin": 24.36
+    },
+    {
+      "t": "martes,",
+      "inicio": 24.4,
+      "fin": 25.04
+    },
+    {
+      "t": "solo",
+      "inicio": 25.12,
+      "fin": 25.36
+    },
+    {
+      "t": "en",
+      "inicio": 25.52,
+      "fin": 25.68
+    },
+    {
+      "t": "esos",
+      "inicio": 25.76,
+      "fin": 26
+    },
+    {
+      "t": "diez.",
+      "inicio": 26.08,
+      "fin": 26.52
+    },
+    {
+      "t": "¿Prefieres",
+      "inicio": 26.72,
+      "fin": 27.12
+    },
+    {
+      "t": "el",
+      "inicio": 27.2,
+      "fin": 27.28
+    },
+    {
+      "t": "lunes",
+      "inicio": 27.32,
+      "fin": 27.52
+    },
+    {
+      "t": "festivo",
+      "inicio": 27.6,
+      "fin": 28.08
+    },
+    {
+      "t": "o",
+      "inicio": 28.24,
+      "fin": 28.32
+    },
+    {
+      "t": "una",
+      "inicio": 28.4,
+      "fin": 28.56
+    },
+    {
+      "t": "fiesta",
+      "inicio": 28.64,
+      "fin": 28.96
+    },
+    {
+      "t": "propia",
+      "inicio": 29.04,
+      "fin": 29.28
+    },
+    {
+      "t": "de",
+      "inicio": 29.36,
+      "fin": 29.44
+    },
+    {
+      "t": "tu",
+      "inicio": 29.52,
+      "fin": 29.56
+    },
+    {
+      "t": "comunidad?",
+      "inicio": 29.6,
+      "fin": 30.36
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 30.56,
+      "fin": 31.04
+    },
+    {
+      "t": "para",
+      "inicio": 31.12,
+      "fin": 31.28
+    },
+    {
+      "t": "estar",
+      "inicio": 31.4,
+      "fin": 31.52
+    },
+    {
+      "t": "informado.",
+      "inicio": 31.6,
+      "fin": 32.4
+    }
+  ]
+}

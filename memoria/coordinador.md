@@ -81,3 +81,4 @@
 - 2026-11-26 produccion.yml: 2 piezas en ~1 h; revisor de vídeo 079 aprobó con generador aún cerrando: lanzar revisión solo tras su aviso. Literales por SendMessage al guionista, sin 2.ª revisión.
 - 2026-11-26: si hoy y mañana ya están cubiertos en cola, basta leer programado-hoy/cola y cerrar sin agentes (0 tokens de subagentes).
 - [nube, 2026-11-27] Rutina claude.ai: red igual (curl 000). Informe y salida. Huecos del 28-11 (jornada de reflexión si hay elecciones el 29) para produccion.yml.
+- 2026-11-27 produccion.yml: 2 piezas ~55 min; 082 (mapa con 9 etiquetas) costó 3 vueltas de vídeo: pedir desde el encargo etiquetas/contadores completos y copiar el guion a aprobados/ antes de comprobar.mjs; el revisor-guion puso literales claros y los aplicó el guionista por SendMessage.

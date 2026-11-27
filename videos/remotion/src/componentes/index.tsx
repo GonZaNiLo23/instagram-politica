@@ -54,6 +54,7 @@ import {MapaU, DatoU, AlcanceU, SeguridadU, PlazoU, MarcadorU, PastillasU, Resum
 import {REGISTRO_ALMINUTO} from './AlMinuto';
 import {REGISTRO_SERIE} from './Serie';
 import {REGISTRO_ESPERA} from './Espera';
+import {REGISTRO_PUENTE} from './Puente';
 import {REGISTRO_041} from './Serie2';
 import {REGISTRO_049} from './Pib';
 import {REGISTRO_065} from './Epa';
@@ -63,6 +64,7 @@ import {REGISTRO_067} from './Dni';
 import {REGISTRO_077} from './Guarderia';
 import {REGISTRO_078} from './Fp';
 import {REGISTRO_080} from './Iva';
+import {REGISTRO_081} from './Devolucion';
 import {REGISTRO_079} from './Tae';
 import {REGISTRO_037} from './Hipoteca';
 import {REGISTRO_044} from './Deuda';
@@ -166,6 +168,7 @@ export const REGISTRO: Record<string, React.FC<any>> = {
   ...REGISTRO_ALMINUTO,
   ...REGISTRO_SERIE,
   ...REGISTRO_ESPERA,
+  ...REGISTRO_PUENTE,
   ...REGISTRO_041,
   ...REGISTRO_049,
   ...REGISTRO_065,
@@ -175,6 +178,7 @@ export const REGISTRO: Record<string, React.FC<any>> = {
   ...REGISTRO_077,
   ...REGISTRO_078,
   ...REGISTRO_080,
+  ...REGISTRO_081,
   ...REGISTRO_079,
   ...REGISTRO_040,
   ...REGISTRO_037,

@@ -84,7 +84,7 @@ export const ColumnasEspera: React.FC<{
 
 /* ------------------------------------------------------------------ Mapa por comunidades */
 const M = MAPA_ES as any;
-const CCAA: Record<string, string[]> = {
+export const CCAA: Record<string, string[]> = {
   Galicia: ['A Coruña', 'Lugo', 'Ourense', 'Pontevedra'],
   Asturias: ['Asturias'], Cantabria: ['Cantabria'],
   'País Vasco': ['Araba/Álava', 'Gipuzkoa/Guipúzcoa', 'Bizkaia/Vizcaya'],
@@ -105,7 +105,7 @@ const bbox = (d: string) => {
   for (let i = 0; i + 1 < n.length; i += 2) { x0 = Math.min(x0, n[i]); x1 = Math.max(x1, n[i]); y0 = Math.min(y0, n[i + 1]); y1 = Math.max(y1, n[i + 1]); }
   return [x0, y0, x1, y1];
 };
-const centro = (nombre: string): [number, number] => {
+export const centro = (nombre: string): [number, number] => {
   const bs = CCAA[nombre].map((p) => bbox(M.prov[p].d));
   const x0 = Math.min(...bs.map((b) => b[0])), x1 = Math.max(...bs.map((b) => b[2]));
   const y0 = Math.min(...bs.map((b) => b[1])), y1 = Math.max(...bs.map((b) => b[3]));

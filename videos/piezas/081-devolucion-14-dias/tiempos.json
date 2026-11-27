@@ -1,0 +1,438 @@
+{
+  "palabras": [
+    {
+      "t": "Compras",
+      "inicio": 0,
+      "fin": 0.32
+    },
+    {
+      "t": "online",
+      "inicio": 0.4,
+      "fin": 0.72
+    },
+    {
+      "t": "este",
+      "inicio": 0.84,
+      "fin": 0.96
+    },
+    {
+      "t": "finde.",
+      "inicio": 1.08,
+      "fin": 1.44
+    },
+    {
+      "t": "Tienes",
+      "inicio": 1.68,
+      "fin": 2
+    },
+    {
+      "t": "catorce",
+      "inicio": 2.08,
+      "fin": 2.56
+    },
+    {
+      "t": "días",
+      "inicio": 2.64,
+      "fin": 2.88
+    },
+    {
+      "t": "para",
+      "inicio": 2.96,
+      "fin": 3.12
+    },
+    {
+      "t": "echarte",
+      "inicio": 3.2,
+      "fin": 3.44
+    },
+    {
+      "t": "atrás,",
+      "inicio": 3.52,
+      "fin": 4.08
+    },
+    {
+      "t": "sin",
+      "inicio": 4.2,
+      "fin": 4.32
+    },
+    {
+      "t": "dar",
+      "inicio": 4.4,
+      "fin": 4.48
+    },
+    {
+      "t": "motivo.",
+      "inicio": 4.6,
+      "fin": 5.16
+    },
+    {
+      "t": "Cuentan",
+      "inicio": 5.36,
+      "fin": 5.68
+    },
+    {
+      "t": "desde",
+      "inicio": 5.76,
+      "fin": 5.96
+    },
+    {
+      "t": "que",
+      "inicio": 6,
+      "fin": 6.08
+    },
+    {
+      "t": "recibes",
+      "inicio": 6.16,
+      "fin": 6.56
+    },
+    {
+      "t": "el",
+      "inicio": 6.6,
+      "fin": 6.64
+    },
+    {
+      "t": "producto,",
+      "inicio": 6.88,
+      "fin": 7.36
+    },
+    {
+      "t": "no",
+      "inicio": 7.52,
+      "fin": 7.6
+    },
+    {
+      "t": "desde",
+      "inicio": 7.68,
+      "fin": 7.92
+    },
+    {
+      "t": "que",
+      "inicio": 7.96,
+      "fin": 8
+    },
+    {
+      "t": "pagas.",
+      "inicio": 8.08,
+      "fin": 8.56
+    },
+    {
+      "t": "La",
+      "inicio": 8.8,
+      "fin": 8.88
+    },
+    {
+      "t": "tienda",
+      "inicio": 8.96,
+      "fin": 9.2
+    },
+    {
+      "t": "tiene",
+      "inicio": 9.24,
+      "fin": 9.44
+    },
+    {
+      "t": "catorce",
+      "inicio": 9.52,
+      "fin": 10
+    },
+    {
+      "t": "días",
+      "inicio": 10.08,
+      "fin": 10.32
+    },
+    {
+      "t": "para",
+      "inicio": 10.4,
+      "fin": 10.56
+    },
+    {
+      "t": "reembolsarte,",
+      "inicio": 10.64,
+      "fin": 11.6
+    },
+    {
+      "t": "desde",
+      "inicio": 11.68,
+      "fin": 11.92
+    },
+    {
+      "t": "que",
+      "inicio": 12,
+      "fin": 12.08
+    },
+    {
+      "t": "le",
+      "inicio": 12.12,
+      "fin": 12.16
+    },
+    {
+      "t": "avisas.",
+      "inicio": 12.24,
+      "fin": 12.84
+    },
+    {
+      "t": "Puede",
+      "inicio": 12.96,
+      "fin": 13.12
+    },
+    {
+      "t": "esperar",
+      "inicio": 13.2,
+      "fin": 13.52
+    },
+    {
+      "t": "a",
+      "inicio": 13.6,
+      "fin": 13.64
+    },
+    {
+      "t": "recibir",
+      "inicio": 13.68,
+      "fin": 14
+    },
+    {
+      "t": "el",
+      "inicio": 14.08,
+      "fin": 14.12
+    },
+    {
+      "t": "producto.",
+      "inicio": 14.16,
+      "fin": 14.96
+    },
+    {
+      "t": "Ojo:",
+      "inicio": 15.04,
+      "fin": 15.52
+    },
+    {
+      "t": "el",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "t": "envío",
+      "inicio": 15.76,
+      "fin": 15.92
+    },
+    {
+      "t": "de",
+      "inicio": 16,
+      "fin": 16.04
+    },
+    {
+      "t": "vuelta",
+      "inicio": 16.08,
+      "fin": 16.4
+    },
+    {
+      "t": "lo",
+      "inicio": 16.48,
+      "fin": 16.56
+    },
+    {
+      "t": "pagas",
+      "inicio": 16.64,
+      "fin": 16.88
+    },
+    {
+      "t": "tú.",
+      "inicio": 16.96,
+      "fin": 17.28
+    },
+    {
+      "t": "Salvo",
+      "inicio": 17.44,
+      "fin": 17.68
+    },
+    {
+      "t": "que",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "t": "la",
+      "inicio": 17.88,
+      "fin": 17.92
+    },
+    {
+      "t": "tienda",
+      "inicio": 18,
+      "fin": 18.24
+    },
+    {
+      "t": "lo",
+      "inicio": 18.28,
+      "fin": 18.32
+    },
+    {
+      "t": "asuma",
+      "inicio": 18.4,
+      "fin": 18.72
+    },
+    {
+      "t": "o",
+      "inicio": 18.88,
+      "fin": 18.96
+    },
+    {
+      "t": "no",
+      "inicio": 19.04,
+      "fin": 19.12
+    },
+    {
+      "t": "te",
+      "inicio": 19.16,
+      "fin": 19.2
+    },
+    {
+      "t": "informara.",
+      "inicio": 19.28,
+      "fin": 20.08
+    },
+    {
+      "t": "No",
+      "inicio": 20.16,
+      "fin": 20.24
+    },
+    {
+      "t": "vale",
+      "inicio": 20.36,
+      "fin": 20.48
+    },
+    {
+      "t": "para",
+      "inicio": 20.56,
+      "fin": 20.64
+    },
+    {
+      "t": "todo:",
+      "inicio": 20.72,
+      "fin": 21.2
+    },
+    {
+      "t": "productos",
+      "inicio": 21.44,
+      "fin": 21.68
+    },
+    {
+      "t": "personalizados,",
+      "inicio": 21.76,
+      "fin": 22.72
+    },
+    {
+      "t": "perecederos",
+      "inicio": 22.76,
+      "fin": 23.44
+    },
+    {
+      "t": "o",
+      "inicio": 23.6,
+      "fin": 23.64
+    },
+    {
+      "t": "precintados",
+      "inicio": 23.68,
+      "fin": 24.32
+    },
+    {
+      "t": "por",
+      "inicio": 24.4,
+      "fin": 24.48
+    },
+    {
+      "t": "salud,",
+      "inicio": 24.56,
+      "fin": 25.04
+    },
+    {
+      "t": "ya",
+      "inicio": 25.12,
+      "fin": 25.2
+    },
+    {
+      "t": "abiertos.",
+      "inicio": 25.28,
+      "fin": 26.24
+    },
+    {
+      "t": "Si",
+      "inicio": 26.28,
+      "fin": 26.32
+    },
+    {
+      "t": "algo",
+      "inicio": 26.4,
+      "fin": 26.56
+    },
+    {
+      "t": "no",
+      "inicio": 26.6,
+      "fin": 26.64
+    },
+    {
+      "t": "te",
+      "inicio": 26.72,
+      "fin": 26.8
+    },
+    {
+      "t": "convence,",
+      "inicio": 26.92,
+      "fin": 27.6
+    },
+    {
+      "t": "¿lo",
+      "inicio": 27.64,
+      "fin": 27.76
+    },
+    {
+      "t": "devuelves",
+      "inicio": 27.88,
+      "fin": 28.4
+    },
+    {
+      "t": "o",
+      "inicio": 28.56,
+      "fin": 28.64
+    },
+    {
+      "t": "te",
+      "inicio": 28.72,
+      "fin": 28.8
+    },
+    {
+      "t": "lo",
+      "inicio": 28.84,
+      "fin": 28.88
+    },
+    {
+      "t": "quedas?",
+      "inicio": 28.96,
+      "fin": 29.76
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 29.787,
+      "fin": 30.24
+    },
+    {
+      "t": "para",
+      "inicio": 30.32,
+      "fin": 30.48
+    },
+    {
+      "t": "estar",
+      "inicio": 30.6,
+      "fin": 30.72
+    },
+    {
+      "t": "informado.",
+      "inicio": 30.88,
+      "fin": 31.52
+    }
+  ],
+  "duracion": 31.477551,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}

@@ -110,6 +110,9 @@
 
 - [IVA anual, RDL 43/2026, 080 2026-11-26] boe.es/diario_boe/txt.php?id=BOE-A-2026-24701 abre con WebFetch (117.785 caracteres; disp. final 4.ª en offset 100000: vigor 26-11). Los tres años son de la renuncia, no de la opción; el plazo de la declaración anual no está en el texto leído. El preámbulo llama "reducción" al 19 % de pagos fraccionados IRPF, pero no se vio la redacción anterior.
 
+- [TRLGDCU, desistimiento, 081 2026-11-27] BOE-A-2007-20555 (544.000 car.) con WebFetch: arts. 102–108 en offset 300000 (los ocupa el tramo 300000–400000; el 200000 llega solo al art. 98). Pide un artículo por apartado: 102.1 "sin indicar el motivo", 104.b posesión material, 107.1 reembolso 14 d desde que le informan, 107.3 retención, 108.1 costes de devolución, 103 letras a–m sin mención de ofertas.
 - [RDL 44/2026 crédito, 079 2026-11-26] BOE-A-2026-24702 (662.000 car.) con WebFetch: transitorias 1.ª y 3.ª (22 puntos, vinculados ≤1.500 €/7 %) en offset 440000; disp. final 14.ª (2/3/6 meses) en offset 560000. El tope va con los arts. 70–72 = a los 3 meses.
+
+- [festivos, BOE-A-2025-21667, 082 2026-11-27] WebFetch de txt.php da la tabla mal columnada: baja el PDF (boe.es/boe/dias/2025/10/28/pdfs/BOE-A-2025-21667.pdf) y ábrelo con Read; la p. 4 trae la imagen del anexo. Lunes 7-12: 10 marcas ** (And, Ara, Ast, Cant, CyL, Ext, Mad, Mur, Rio, Melilla); 9 sin marca. Prensa (Infobae, Que.es) discrepa: manda el BOE.
 
 - [fotos] Fotos libres: Wikimedia Commons (lee la ficha y las categorías, y mira la imagen). Nunca fotos de cuentas de partidos. (004, 008, 2026-10-19)

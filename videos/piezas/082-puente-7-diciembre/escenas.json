@@ -1,0 +1,247 @@
+{
+  "plantilla": "flash",
+  "duracion": 35.37,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "¿LIBRAS EL LUNES 7?",
+            "y": 340,
+            "tamano": 120,
+            "en": -1
+          },
+          {
+            "tipo": "calPuente",
+            "y": 640,
+            "zoom": false,
+            "en": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 3.9,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "¿LIBRAS EL LUNES 7?",
+          "y": 330,
+          "tamano": 120,
+          "en": -1
+        },
+        {
+          "tipo": "calPuente",
+          "y": 600,
+          "zoom": true,
+          "hasta": 2.5
+        },
+        {
+          "tipo": "mapaPuente",
+          "x": 80,
+          "y": 580,
+          "esc": 0.34,
+          "en": 2.55,
+          "cajaEn": 2.8
+        }
+      ]
+    },
+    {
+      "inicio": 3.9,
+      "fin": 9.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "FESTIVO EL LUNES 7: 10 TERRITORIOS",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaPuente",
+          "x": 80,
+          "y": 580,
+          "esc": 0.34,
+          "en": -1,
+          "cajaEn": 0.3,
+          "festEn": 0.5,
+          "paso": 0.25,
+          "restoEn": 99,
+          "leyenda": 1.7,
+          "contador": {
+            "valor": "10",
+            "etiqueta": "festivo",
+            "color": "#2A9D8F",
+            "en": 0.5
+          }
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: BOE 28‑10‑2025"
+          ],
+          "en": 0.6,
+          "tamano": 36
+        }
+      ]
+    },
+    {
+      "inicio": 9.5,
+      "fin": 13.66,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "LAS OTRAS 9: NO FIGURA COMO FESTIVO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "mapaPuente",
+          "x": 80,
+          "y": 580,
+          "esc": 0.34,
+          "en": -1,
+          "cajaEn": 0.3,
+          "festEn": -9,
+          "paso": 0.1,
+          "restoEn": 0.2,
+          "etiquetas": 0.4,
+          "leyenda": -1,
+          "contador": {
+            "valor": "9",
+            "etiqueta": "no figura",
+            "color": "#8D99AE",
+            "en": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "inicio": 13.66,
+      "fin": 18.86,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "6 DIC = DOMINGO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 1.6600000000000001
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "CADA COMUNIDAD DECIDE",
+          "y": 330,
+          "en": 1.81,
+          "tamano": 64
+        },
+        {
+          "tipo": "calPuente",
+          "y": 500,
+          "filas": 2,
+          "cw": 118,
+          "ch": 175,
+          "en": 0.05,
+          "zoom": false,
+          "marca6": 0.26,
+          "flecha": 3.26,
+          "desvio": 2.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: BOE, fund. 2.º (RD 2001/1983, art. 45.3)"
+          ],
+          "en": 0.5,
+          "tamano": 36
+        }
+      ]
+    },
+    {
+      "inicio": 18.86,
+      "fin": 26.62,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "MARTES 8: FESTIVO EN LAS 19",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.45
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PUENTE DE 4 DÍAS: SOLO EN 10",
+          "y": 330,
+          "en": 3.6,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraDias",
+          "y": 520,
+          "en": 0.05,
+          "mar8": 0.66,
+          "cuatro": 4.1
+        },
+        {
+          "tipo": "mapaPuente",
+          "x": 230,
+          "y": 730,
+          "esc": 0.29,
+          "en": -1,
+          "cajaEn": 0.3,
+          "festEn": -9,
+          "paso": 0.1,
+          "restoEn": -9,
+          "todasEn": 2.02,
+          "vuelveEn": 6.26
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Salvo convenio o fiesta local propios"
+          ],
+          "en": 4.98,
+          "tamano": 36
+        }
+      ]
+    },
+    {
+      "inicio": 26.62,
+      "fin": 35.37,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿LUNES FESTIVO O FIESTA PROPIA?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}
