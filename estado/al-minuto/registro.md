@@ -438,3 +438,4 @@
 - 2026-11-27 16:00 Madrid: sin candidatos (radar 15:30Z devolvió 0 candidatos con frases)
 - 2026-11-27 17:30 UTC (publicación 18:00 Madrid) · 4 · @santi_abascal (debate, propuestas de vivienda, tramo 84,44–112,74 s; medida concreta con consecuencia para el bolsillo, viral 140,6; subtítulos cotejados con la transcripción, «renegración»→«remigración»; solo se atribuyen a Abascal sus propias propuestas, sin datos ni acusaciones nuestras) · publicado am20261127-1730-abascal-vivienda
 - 2026-11-27 17:30 UTC · 2 · @vox_es (spot dramatizado sobre mujeres, 70,4 s) · descartado: escena actuada, atribuye a una victoria de Sánchez un escenario sin prueba, un envío por hora; viral 129,3
+- 2026-11-27 19:30 UTC (publicación 20:00 Madrid): sin publicación (sin candidatos con frases; 2 detectados: @alviseperez 3676 s sin audio procesable, @vox_es mitin Valencia sin voz)
