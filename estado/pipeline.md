@@ -169,3 +169,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 | am20261125-1130-vox-tres-ejes | vox-tres-ejes | 🔴 Actualidad | Al minuto | publicando (Al minuto horario) | 1 | 1 | 2026-11-25 12:00 | autocomprobación hecha |
 | 079 | tope-22-tae-credito | ⚙️ Cómo funciona · Bolsillo | Flash | programado | 1 | 1 | 2026-11-27 13:30 (previsto) | de propuestas 2026-11-26 tema 1 |
 | 080 | iva-anual-autonomos | 🔴 Actualidad · Bolsillo | Flash | programado | 1 | 2 | 2026-11-27 19:00 (previsto) | de propuestas 2026-11-26 tema 2 |
+**2026-11-27 (rutina claude.ai):** sin red (curl 000). 27-11 cubierto (079, 080); 28-11 (12:00, 19:00) para produccion.yml. Próximo número libre: 081. Informe en estado/informe-produccion-2026-11-27.md.
