@@ -71,3 +71,4 @@
 - 2026-11-24T15:40:11Z · am20261124-1526-sanchez-prestamo-vivienda v1 · OK · ffprobe: h264 1080x1920 @30/1 · 22.60 s (objetivo 22.5 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-25T11:45:08Z · am20261125-1130-vox-tres-ejes v1 · OK · ffprobe: h264 1080x1920 @30/1 · 29.30 s (objetivo 29.2 s) -> OK Volumen integrado: -14.1 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
 - 2026-11-27T09:39:23Z · am20261127-0930-alvise-macrocarcel v1 · OK · ffprobe: h264 1080x1920 @30/1 · 27.24 s (objetivo 27.2 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
+- 2026-11-27T17:41:05Z · am20261127-1730-abascal-vivienda v1 · OK · ffprobe: h264 1080x1920 @30/1 · 31.90 s (objetivo 31.8 s) -> OK Volumen integrado: -14.0 LUFS (objetivo -14; con voz provisional en silencio no aplica) 
