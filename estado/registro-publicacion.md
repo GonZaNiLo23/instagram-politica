@@ -208,3 +208,5 @@
 - 2026-11-26T12:30:52.388Z · 077-ratios-guarderia: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-26T18:00:54.222Z · 078-fp-online-presencial v2: PUBLICADA en Instagram https://www.instagram.com/reel/DgNsvJgBD4n/
 - 2026-11-26T18:00:57.463Z · 078-fp-online-presencial: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-27T10:00:42.000Z · am20261127-0930-alvise-macrocarcel v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgPallbS2vm/
+- 2026-11-27T10:00:45.316Z · am20261127-0930-alvise-macrocarcel: TikTok en la bandeja de borradores (falta publicarlo desde la app)
