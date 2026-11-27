@@ -1,0 +1,115 @@
+{
+ "plantilla": "alminuto",
+ "duracion": 31.8,
+ "portadaSegundo": 1,
+ "marca": "@loquepasaenunminuto",
+ "sinVoz": true,
+ "escenas": [
+  {
+   "inicio": 0,
+   "fin": 28.3,
+   "fondo": "tinta",
+   "componentes": [
+    {
+     "tipo": "clip",
+     "src": "clip.mp4",
+     "zoom": [
+      1,
+      1.03
+     ],
+     "dur": 28.3,
+     "fundidoFin": 28.3
+    },
+    {
+     "tipo": "titularAM",
+     "texto": "ABASCAL PROPONE IMPUESTOS CERO A JÓVENES",
+     "fecha": "27 NOV",
+     "credito": "Vídeo: @santi_abascal"
+    },
+    {
+     "tipo": "citas",
+     "lineas": [
+      {
+       "inicio": 0,
+       "fin": 1.7,
+       "texto": "Pero ¿cuál es la solución para todo eso?"
+      },
+      {
+       "inicio": 1.7,
+       "fin": 4.0,
+       "texto": "Es muy fácil. ¿Dónde hay demanda infinita"
+      },
+      {
+       "inicio": 4.0,
+       "fin": 7.0,
+       "texto": "y descontrol? Control de fronteras y remigración."
+      },
+      {
+       "inicio": 7.0,
+       "fin": 9.6,
+       "texto": "¿Dónde hay zancadillas a la construcción?"
+      },
+      {
+       "inicio": 9.6,
+       "fin": 11.8,
+       "texto": "Facilidades y grúas en el cielo."
+      },
+      {
+       "inicio": 11.8,
+       "fin": 13.7,
+       "texto": "Menos burocracia, menos normativa."
+      },
+      {
+       "inicio": 13.7,
+       "fin": 16.0,
+       "texto": "¿Dónde hay desaparición de las VPO?"
+      },
+      {
+       "inicio": 16.0,
+       "fin": 18.3,
+       "texto": "Bloques de vivienda de protección oficial"
+      },
+      {
+       "inicio": 18.3,
+       "fin": 20.6,
+       "texto": "con prioridad nacional para los españoles."
+      },
+      {
+       "inicio": 20.6,
+       "fin": 22.3,
+       "texto": "¿Y dónde hay impuestos abusivos"
+      },
+      {
+       "inicio": 22.3,
+       "fin": 23.9,
+       "texto": "que condenan a los jóvenes?"
+      },
+      {
+       "inicio": 23.9,
+       "fin": 26.8,
+       "texto": "Impuestos cero para los jóvenes"
+      },
+      {
+       "inicio": 26.8,
+       "fin": 28.3,
+       "texto": "en la adquisición de la primera vivienda"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 28.3,
+   "fin": 31.8,
+   "fondo": "mostaza",
+   "sinSubtitulos": true,
+   "componentes": [
+    {
+     "tipo": "cierre",
+     "frase": "Abascal propone impuestos cero para jóvenes en su primera vivienda",
+     "guardaEn": 0.1
+    }
+   ]
+  }
+ ]
+}
