@@ -2528,3 +2528,162 @@
 | 2026-11-27 (API, 11-27 07:38 UTC) | 009 | Instagram | 2026-10-23 09:07 | 840 h | 2.362 | 1.850 | 45,4 s | n/d | n/d | 72 | 13 | 11 | 36 | n/d | 69 |
 | 2026-11-27 (API, 11-27 07:38 UTC) | 006 | Instagram | 2026-10-22 18:08 | 854 h | 432 | 381 | 22,0 s | n/d | n/d | 9 | 0 | 0 | 0 | n/d | 69 |
 | 2026-11-27 (API, 11-27 07:38 UTC) | 004 | Instagram | 2026-10-20 18:08 | 902 h | 40 | 33 | 10,0 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal vivienda: control de fronteras y menos burocracia (083b) | Instagram | 2026-11-27 19:01 | 13 h | 133 | 122 | 8,5 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal vivienda: control de fronteras y menos burocracia (083b) (duplicado, 2.º Reel) | Instagram | 2026-11-27 19:01 | 14 h | 159 | 139 | 12,6 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 080 (IVA anual autónomos, flash) | Instagram | 2026-11-27 19:00 | 14 h | 53 | 53 | 2,7 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 080 (IVA anual autónomos, flash) (duplicado, 2.º Reel) | Instagram | 2026-11-27 19:00 | 14 h | 39 | 38 | 2,0 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 079 (tope 22 % TAE crédito, Cómo funciona, flash) (duplicado, 2.º Reel) | Instagram | 2026-11-27 13:34 | 19 h | 67 | 65 | 3,3 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 079 (tope 22 % TAE crédito, Cómo funciona, flash) | Instagram | 2026-11-27 13:30 | 19 h | 42 | 40 | 3,7 s | n/d | n/d | 0 | 0 | 1 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Alvise macrocárcel (083a) | Instagram | 2026-11-27 11:00 | 22 h | 135 | 115 | 10,1 s | n/d | n/d | 5 | 0 | 2 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 078 (FP online presencial, flash) | Instagram | 2026-11-26 19:00 | 38 h | 104 | 100 | 3,1 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 077 (ratios guardería, Cómo funciona, flash) | Instagram | 2026-11-26 13:30 | 43 h | 203 | 177 | 15,7 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 068 (calendario tras el 29-N, flash, duplicado 2.º Reel) | Instagram | 2026-11-25 19:04 | 61 h | 156 | 144 | 8,0 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 068 (calendario tras el 29-N, flash) | Instagram | 2026-11-25 19:00 | 62 h | 141 | 131 | 8,4 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Vox tres ejes campaña 29-N (am20261125-1130) | Instagram | 2026-11-25 13:00 | 68 h | 130 | 114 | 8,2 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 067 (DNI digital 29-N, flash) | Instagram | 2026-11-24 19:01 | 86 h | 142 | 137 | 6,1 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez préstamo público 50.000 € vivienda (076) | Instagram | 2026-11-24 17:00 | 88 h | 86 | 77 | 3,1 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez préstamo público 50.000 € vivienda (076) (duplicado, 2.º Reel) | Instagram | 2026-11-24 17:00 | 88 h | 114 | 105 | 5,1 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Vox mujeres, cadena perpetua (075) | Instagram | 2026-11-24 15:00 | 90 h | 123 | 111 | 7,4 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 064 (inflación España–eurozona, flash; publicado con 1 día de retraso) | Instagram | 2026-11-24 13:30 | 91 h | 107 | 102 | 3,9 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal votar 29-N bajar impuestos y vivienda (074) | Instagram | 2026-11-24 13:00 | 92 h | 168 | 153 | 5,9 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal Palencia: millar fuera del acto (073) | Instagram | 2026-11-23 21:00 | 108 h | 134 | 119 | 5,2 s | n/d | n/d | 4 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 065 (EPA dos titulares, Economía, flash) | Instagram | 2026-11-23 19:03 | 109 h | 116 | 105 | 3,4 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 065 (EPA dos titulares, Economía, flash) (duplicado, 2.º Reel) | Instagram | 2026-11-23 19:00 | 110 h | 108 | 101 | 3,2 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Vox querellas por urnas en consulados (072) | Instagram | 2026-11-23 17:00 | 112 h | 129 | 115 | 8,5 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Ayuso neutralidad en las aulas, huelga educativa (071) | Instagram | 2026-11-23 11:00 | 118 h | 141 | 120 | 8,5 s | n/d | n/d | 3 | 1 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez impuesto a fortunas > 100 M (070) | Instagram | 2026-11-23 09:00 | 120 h | 145 | 131 | 7,6 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal remigración: vuelta de los jóvenes (069) | Instagram | 2026-11-22 19:01 | 134 h | 149 | 132 | 7,5 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal remigración: vuelta de los jóvenes (069) (duplicado, 2.º Reel) | Instagram | 2026-11-22 19:01 | 134 h | 140 | 120 | 8,5 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 063 (salarios vs IPC, Economía, flash) | Instagram | 2026-11-22 19:00 | 134 h | 113 | 105 | 3,4 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 063 (salarios vs IPC, Economía, flash) (duplicado, 2.º Reel) | Instagram | 2026-11-22 19:00 | 134 h | 120 | 106 | 4,0 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal responde a quienes acusan a Vox de odio (068) | Instagram | 2026-11-22 17:00 | 136 h | 143 | 129 | 7,3 s | n/d | n/d | 3 | 3 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Vox prioridad nacional 29N (067) | Instagram | 2026-11-22 13:00 | 140 h | 126 | 113 | 6,9 s | n/d | n/d | 1 | 1 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 062 (alquiler IRAV vs IPC, Economía, flash) | Instagram | 2026-11-22 12:00 | 141 h | 112 | 105 | 2,3 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez votar con fuerza 29N (066) | Instagram | 2026-11-22 11:00 | 142 h | 129 | 118 | 6,5 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez reconocer derechos a migrantes | Instagram | 2026-11-21 19:01 | 158 h | 115 | 105 | 4,3 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez reconocer derechos a migrantes (duplicado, 2.º Reel) | Instagram | 2026-11-21 19:01 | 158 h | 132 | 117 | 6,1 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 060 (coste elecciones 29-N, Cómo funciona, flash) | Instagram | 2026-11-21 19:00 | 158 h | 185 | 167 | 7,5 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 060 (coste elecciones 29-N, Cómo funciona, flash) (duplicado, 2.º Reel) | Instagram | 2026-11-21 19:00 | 158 h | 118 | 106 | 5,5 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal define la remigración | Instagram | 2026-11-21 17:00 | 160 h | 150 | 124 | 11,9 s | n/d | n/d | 0 | 4 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal miedo a los corruptos | Instagram | 2026-11-21 15:00 | 162 h | 150 | 140 | 6,8 s | n/d | n/d | 3 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez prórroga impuesto a la banca | Instagram | 2026-11-21 13:00 | 164 h | 121 | 111 | 5,3 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 061 (jornada de reflexión, Cómo funciona, flash) | Instagram | 2026-11-21 12:00 | 165 h | 127 | 114 | 5,7 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Vox penas violadores | Instagram | 2026-11-21 11:00 | 166 h | 128 | 117 | 6,2 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 058 (compraventas vs precios, Economía · Datos, flash) (duplicado, 2.º Reel) | Instagram | 2026-11-20 19:03 | 181 h | 116 | 102 | 2,6 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 058 (compraventas vs precios, Economía · Datos, flash) | Instagram | 2026-11-20 19:00 | 182 h | 104 | 102 | 2,3 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal distancias PP inmigración | Instagram | 2026-11-20 15:01 | 186 h | 167 | 148 | 10,5 s | n/d | n/d | 6 | 0 | 0 | 1 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 057 (SMI 2027 e IRPF, Economía, flash) | Instagram | 2026-11-20 13:30 | 187 h | 336 | 308 | 8,7 s | n/d | n/d | 1 | 0 | 1 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Vox listas de espera sanidad | Instagram | 2026-11-20 13:00 | 188 h | 1.443 | 1.218 | 10,3 s | n/d | n/d | 35 | 7 | 4 | 1 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Vox cara a cara sin remigración (prioridad nacional) | Instagram | 2026-11-20 09:01 | 192 h | 133 | 123 | 5,6 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-NNGG Valdecarros vivienda | Instagram | 2026-11-20 09:00 | 192 h | 140 | 124 | 8,7 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 056 (8 años vivienda, flash) (duplicado, 2.º Reel) | Instagram | 2026-11-19 19:04 | 205 h | 145 | 131 | 4,7 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 056 (8 años vivienda, flash) | Instagram | 2026-11-19 19:00 | 206 h | 137 | 123 | 5,0 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 045 (debates academia TV, Actualidad · Cómo funciona, flash) | Instagram | 2026-11-19 13:30 | 211 h | 169 | 156 | 7,3 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Alvise IRPF y seguridad | Instagram | 2026-11-19 11:00 | 214 h | 140 | 125 | 8,4 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Vox remigración billete de vuelta | Instagram | 2026-11-18 21:53 | 227 h | 144 | 134 | 6,7 s | n/d | n/d | 3 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 055 (encuestas prohibidas, flash) | Instagram | 2026-11-18 19:00 | 230 h | 139 | 130 | 5,4 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 052 (voto por correo 29-N, Cómo funciona) (duplicado, 2.º Reel) | Instagram | 2026-11-18 13:34 | 235 h | 147 | 137 | 6,0 s | n/d | n/d | 0 | 0 | 0 | 1 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 052 (voto por correo 29-N, Cómo funciona) | Instagram | 2026-11-18 13:31 | 235 h | 178 | 163 | 6,4 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Vox prioridad nacional ayudas | Instagram | 2026-11-18 13:00 | 236 h | 125 | 111 | 4,8 s | n/d | n/d | 3 | 1 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 054 (audiencias debates 2008-2023, flash) | Instagram | 2026-11-17 19:00 | 254 h | 286 | 251 | 11,1 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal fronteras Lanzarote | Instagram | 2026-11-17 17:00 | 256 h | 131 | 112 | 7,1 s | n/d | n/d | 4 | 2 | 1 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Alvise impuestos vivienda | Instagram | 2026-11-17 15:00 | 258 h | 154 | 134 | 14,8 s | n/d | n/d | 1 | 0 | 1 | 1 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 053 (compra ahora paga después, duplicado, 2.º Reel) | Instagram | 2026-11-17 13:33 | 259 h | 168 | 150 | 7,5 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 053 (compra ahora paga después) | Instagram | 2026-11-17 13:30 | 259 h | 155 | 142 | 5,8 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 051 (IPC comida 4,9 %, flash) | Instagram | 2026-11-16 13:30 | 283 h | 170 | 156 | 4,4 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Garriga jóvenes 29-N | Instagram | 2026-11-15 19:01 | 302 h | 365 | 319 | 10,7 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 050 (8 años inmigración irregular, flash) | Instagram | 2026-11-15 19:00 | 302 h | 160 | 152 | 4,2 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 050 (8 años inmigración irregular, flash) | Instagram | 2026-11-15 19:00 | 302 h | 178 | 165 | 6,1 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal penas violadores / voto mujeres | Instagram | 2026-11-15 13:00 | 308 h | 1.959 | 1.659 | 8,8 s | n/d | n/d | 145 | 14 | 8 | 21 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 049 (8 años estancamiento, flash) | Instagram | 2026-11-15 12:00 | 309 h | 1.401 | 1.265 | 13,2 s | n/d | n/d | 8 | 0 | 2 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal engañado La Revuelta (duplicado, 2.º Reel) | Instagram | 2026-11-14 19:01 | 326 h | 161 | 146 | 10,2 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal engañado La Revuelta (duplicado, 2.º Reel) | Instagram | 2026-11-14 19:01 | 326 h | 159 | 133 | 9,9 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 048 (8 años productividad, flash) (duplicado, 2.º Reel) | Instagram | 2026-11-14 19:00 | 326 h | 156 | 141 | 5,8 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 048 (8 años productividad, flash) (duplicado, 2.º Reel) | Instagram | 2026-11-14 19:00 | 326 h | 174 | 161 | 4,8 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal sanidad | Instagram | 2026-11-14 17:00 | 328 h | 158 | 145 | 8,3 s | n/d | n/d | 2 | 0 | 0 | 1 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-PSOE mayoría progresista | Instagram | 2026-11-14 15:00 | 330 h | 186 | 150 | 9,5 s | n/d | n/d | 0 | 1 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal 29 noviembre | Instagram | 2026-11-14 13:01 | 332 h | 168 | 139 | 8,1 s | n/d | n/d | 5 | 1 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 047 (8 años pensiones, flash) | Instagram | 2026-11-14 12:00 | 333 h | 212 | 195 | 4,8 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal repatriación (remigración) | Instagram | 2026-11-14 07:00 | 338 h | 677 | 605 | 12,4 s | n/d | n/d | 20 | 1 | 1 | 2 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 046 (8 años paro juvenil, flash) | Instagram | 2026-11-13 19:03 | 350 h | 194 | 175 | 7,7 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal prioridad nacional | Instagram | 2026-11-13 18:00 | 351 h | 139 | 132 | 5,0 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal movilización Toledo | Instagram | 2026-11-13 16:00 | 353 h | 146 | 134 | 6,1 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 042 (8 años presión fiscal, flash) | Instagram | 2026-11-13 14:10 | 354 h | 209 | 187 | 8,3 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez violencia digital | Instagram | 2026-11-12 21:00 | 372 h | 179 | 155 | 9,1 s | n/d | n/d | 0 | 1 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez decreto vivienda (duplicado, 2.º Reel) | Instagram | 2026-11-12 19:02 | 374 h | 156 | 143 | 6,3 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez decreto vivienda (duplicado, 2.º Reel) | Instagram | 2026-11-12 19:02 | 374 h | 187 | 165 | 9,8 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 044 (deuda baja/sube) (duplicado, 2.º Reel) | Instagram | 2026-11-12 19:01 | 374 h | 192 | 171 | 4,1 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 044 (deuda baja/sube) (duplicado, 2.º Reel) | Instagram | 2026-11-12 19:01 | 374 h | 173 | 162 | 4,6 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal cancela Wild | Instagram | 2026-11-12 15:00 | 378 h | 207 | 181 | 12,2 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 043 (afiliados/parados) | Instagram | 2026-11-12 13:31 | 379 h | 216 | 195 | 5,6 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 040 (tu casa 50.000 €) | Instagram | 2026-11-11 19:00 | 398 h | 162 | 148 | 5,9 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Alvise sustituir a Abascal | Instagram | 2026-11-11 15:00 | 402 h | 263 | 198 | 14,8 s | n/d | n/d | 2 | 0 | 0 | 2 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 041 (8 años vivienda, flash) | Instagram | 2026-11-11 13:30 | 403 h | 236 | 213 | 7,8 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Buxadé RTVE entrevista Abascal | Instagram | 2026-11-11 13:00 | 404 h | 179 | 149 | 10,6 s | n/d | n/d | 4 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-PP negligencia Adamuz | Instagram | 2026-11-11 07:00 | 410 h | 170 | 151 | 7,5 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Moncloa decretos sociales | Instagram | 2026-11-10 17:00 | 424 h | 1.723 | 1.468 | 14,8 s | n/d | n/d | 7 | 18 | 2 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal huelga general | Instagram | 2026-11-10 15:00 | 426 h | 357 | 295 | 10,9 s | n/d | n/d | 4 | 3 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal machismo importado | Instagram | 2026-11-10 09:00 | 432 h | 214 | 173 | 10,0 s | n/d | n/d | 3 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 019 | Instagram | 2026-11-09 19:05 | 445 h | 220 | 196 | 8,7 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 039 | Instagram | 2026-11-09 14:59 | 450 h | 327 | 306 | 6,6 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez hachazos | Instagram | 2026-11-09 11:00 | 454 h | 160 | 144 | 5,5 s | n/d | n/d | 0 | 0 | 1 | 1 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 036 | Instagram | 2026-11-08 19:03 | 470 h | 117 | 107 | 4,3 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez mayoría amplia | Instagram | 2026-11-08 15:00 | 474 h | 150 | 136 | 8,4 s | n/d | n/d | 0 | 2 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 035 (1.º Reel) | Instagram | 2026-11-08 12:01 | 477 h | 425 | 378 | 12,3 s | n/d | n/d | 5 | 0 | 2 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez partido no ganado | Instagram | 2026-11-08 11:00 | 478 h | 148 | 127 | 10,9 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez faro | Instagram | 2026-11-07 17:00 | 496 h | 114 | 107 | 4,8 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 038 (duplicado, 2.º Reel) | Instagram | 2026-11-07 12:02 | 501 h | 123 | 108 | 4,3 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal derogar legislación | Instagram | 2026-11-07 07:00 | 506 h | 168 | 141 | 19,4 s | n/d | n/d | 3 | 3 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 037 | Instagram | 2026-11-06 13:32 | 523 h | 122 | 108 | 3,9 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 034 | Instagram | 2026-11-05 19:01 | 542 h | 127 | 116 | 9,4 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 031 | Instagram | 2026-11-05 13:31 | 547 h | 116 | 111 | 5,5 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Sánchez Cumbre Iberoamericana | Instagram | 2026-11-05 13:00 | 548 h | 1.390 | 1.163 | 19,7 s | n/d | n/d | 15 | 9 | 1 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-NNGG protestas educación | Instagram | 2026-11-04 19:00 | 566 h | 172 | 154 | 5,2 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-NNGG protestas educación | Instagram | 2026-11-04 19:00 | 566 h | 477 | 417 | 12,3 s | n/d | n/d | 11 | 1 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Alvise Hermanos Musulmanes | Instagram | 2026-11-04 18:00 | 567 h | 143 | 126 | 11,5 s | n/d | n/d | 4 | 1 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal Michigan | Instagram | 2026-11-04 15:00 | 570 h | 162 | 138 | 14,6 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-PP Puente renuncia | Instagram | 2026-11-04 14:00 | 571 h | 170 | 143 | 12,6 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 033 | Instagram | 2026-11-04 13:31 | 571 h | 170 | 153 | 8,1 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Cuerpo Transportes | Instagram | 2026-11-04 13:00 | 572 h | 163 | 141 | 8,6 s | n/d | n/d | 4 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Garriga Puente perdón | Instagram | 2026-11-03 17:00 | 592 h | 160 | 149 | 6,3 s | n/d | n/d | 3 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal vivienda | Instagram | 2026-11-03 15:00 | 594 h | 200 | 172 | 12,4 s | n/d | n/d | 3 | 1 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal UGT-CCOO | Instagram | 2026-11-03 14:00 | 595 h | 176 | 155 | 13,9 s | n/d | n/d | 4 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Buxadé-Redondo | Instagram | 2026-11-02 14:00 | 619 h | 195 | 161 | 7,3 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Garriga apagones | Instagram | 2026-11-02 13:00 | 620 h | 166 | 153 | 5,1 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 030 | Instagram | 2026-11-01 19:01 | 638 h | 1.645 | 1.483 | 19,1 s | n/d | n/d | 18 | 0 | 3 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-PP encuestas | Instagram | 2026-11-01 15:00 | 642 h | 206 | 171 | 10,6 s | n/d | n/d | 6 | 2 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 028 | Instagram | 2026-11-01 12:01 | 645 h | 243 | 212 | 8,2 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Remigración | Instagram | 2026-11-01 12:00 | 645 h | 2.981 | 2.332 | 18,1 s | n/d | n/d | 130 | 73 | 1 | 17 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Vox Urda | Instagram | 2026-11-01 10:00 | 647 h | 385 | 328 | 12,4 s | n/d | n/d | 9 | 3 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal Vox crece | Instagram | 2026-11-01 09:00 | 648 h | 1.493 | 1.260 | 12,4 s | n/d | n/d | 32 | 31 | 1 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 017 | Instagram | 2026-10-31 19:01 | 662 h | 1.574 | 1.349 | 46,3 s | n/d | n/d | 56 | 1 | 5 | 5 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Buxadé querellas | Instagram | 2026-10-31 15:00 | 666 h | 187 | 164 | 12,7 s | n/d | n/d | 5 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-PP trenes | Instagram | 2026-10-31 14:01 | 667 h | 192 | 174 | 6,6 s | n/d | n/d | 3 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 007 | Instagram | 2026-10-31 12:02 | 669 h | 1.668 | 1.398 | 16,6 s | n/d | n/d | 32 | 1 | 3 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-AVE | Instagram | 2026-10-30 14:00 | 691 h | 211 | 178 | 12,4 s | n/d | n/d | 0 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 020 | Instagram | 2026-10-30 13:30 | 691 h | 1.023 | 910 | 21,1 s | n/d | n/d | 22 | 0 | 2 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Abascal | Instagram | 2026-10-29 22:00 | 707 h | 196 | 178 | 7,1 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 012 | Instagram | 2026-10-29 19:01 | 710 h | 2.000 | 1.742 | 30,4 s | n/d | n/d | 20 | 1 | 6 | 1 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | am-Alvise | Instagram | 2026-10-29 17:00 | 712 h | 235 | 189 | 13,6 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 018 | Instagram | 2026-10-29 13:31 | 715 h | 1.606 | 1.384 | 16,0 s | n/d | n/d | 15 | 0 | 7 | 10 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 015 | Instagram | 2026-10-29 10:01 | 719 h | 272 | 251 | 5,1 s | n/d | n/d | 3 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 027 | Instagram | 2026-10-28 21:01 | 732 h | 365 | 310 | 72,4 s | n/d | n/d | 3 | 1 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 014 | Instagram | 2026-10-28 19:01 | 734 h | 3.635 | 3.001 | 16,6 s | n/d | n/d | 39 | 2 | 9 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 026 | Instagram | 2026-10-28 13:31 | 739 h | 2.313 | 2.052 | 22,8 s | n/d | n/d | 35 | 1 | 3 | 11 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 011 | Instagram | 2026-10-28 13:30 | 739 h | 30 | 13 | n/d | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 013 | Instagram | 2026-10-27 19:01 | 758 h | 1.798 | 1.580 | 28,9 s | n/d | n/d | 21 | 1 | 6 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 021 | Instagram | 2026-10-27 13:31 | 763 h | 663 | 551 | 11,3 s | n/d | n/d | 8 | 0 | 2 | 3 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 025 | Instagram | 2026-10-27 09:32 | 767 h | 703 | 609 | 23,3 s | n/d | n/d | 4 | 0 | 1 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 016 | Instagram | 2026-10-26 19:01 | 782 h | 5.919 | 5.095 | 25,0 s | n/d | n/d | 68 | 2 | 22 | 18 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 001 | Instagram | 2026-10-25 19:05 | 805 h | 1.927 | 1.646 | 21,2 s | n/d | n/d | 48 | 0 | 7 | 1 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 024 | Instagram | 2026-10-25 15:47 | 809 h | 273 | 245 | 12,5 s | n/d | n/d | 2 | 0 | 0 | 2 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 008 | Instagram | 2026-10-25 12:05 | 813 h | 838 | 727 | 18,1 s | n/d | n/d | 8 | 0 | 2 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 023 | Instagram | 2026-10-24 18:07 | 830 h | 1.740 | 1.522 | 13,1 s | n/d | n/d | 37 | 0 | 3 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 022 | Instagram | 2026-10-24 15:31 | 833 h | 1.784 | 1.576 | 11,6 s | n/d | n/d | 43 | 0 | 7 | 2 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 003 | Instagram | 2026-10-24 11:05 | 838 h | 3.453 | 2.805 | 19,4 s | n/d | n/d | 28 | 2 | 4 | 4 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 002 | Instagram | 2026-10-23 18:06 | 854 h | 8.844 | 7.112 | 38,8 s | n/d | n/d | 106 | 2 | 62 | 38 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 005 | Instagram | 2026-10-23 15:32 | 857 h | 180 | 164 | 13,1 s | n/d | n/d | 1 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 010 | Instagram | 2026-10-23 12:33 | 860 h | 1.030 | 876 | 13,3 s | n/d | n/d | 11 | 0 | 0 | 5 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 009 | Instagram | 2026-10-23 09:07 | 863 h | 2.362 | 1.850 | 45,4 s | n/d | n/d | 72 | 13 | 11 | 36 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 006 | Instagram | 2026-10-22 18:08 | 878 h | 432 | 381 | 22,0 s | n/d | n/d | 9 | 0 | 0 | 0 | n/d | 69 |
+| 2026-11-28 (API, 11-28 07:36 UTC) | 004 | Instagram | 2026-10-20 18:08 | 926 h | 40 | 33 | 10,0 s | n/d | n/d | 2 | 0 | 0 | 0 | n/d | 69 |
