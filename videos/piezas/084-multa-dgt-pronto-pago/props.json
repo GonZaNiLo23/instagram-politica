@@ -1,0 +1,713 @@
+{
+  "plantilla": "flash",
+  "duracion": 31.79,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "200 € → 100 €: 20 DÍAS",
+            "y": 340,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "EJEMPLO",
+            "y": 620,
+            "en": -1,
+            "tamano": 64,
+            "color": "#14213D"
+          },
+          {
+            "tipo": "sobreM",
+            "y": 950,
+            "en": -1,
+            "parte": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.14,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "MULTA DE 200 € → 100 €",
+          "y": 320,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO",
+          "y": 600,
+          "en": -1,
+          "tamano": 64,
+          "color": "#14213D"
+        },
+        {
+          "tipo": "sobreM",
+          "y": 930,
+          "en": -1,
+          "parte": 3.1799999999999997
+        }
+      ]
+    },
+    {
+      "inicio": 4.14,
+      "fin": 7.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "−50 % SI PAGAS A TIEMPO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO",
+          "y": 520,
+          "en": 0.05,
+          "tamano": 64,
+          "color": "#14213D"
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 240,
+          "base": 1100,
+          "hMax": 400,
+          "w": 200,
+          "tamEtiqueta": 44,
+          "vivo": true,
+          "centros": [
+            290,
+            740
+          ],
+          "barras": [
+            {
+              "etiqueta": "SIN PRONTO PAGO",
+              "valor": 200,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": false,
+              "prefijo": "",
+              "sufijo": " €"
+            },
+            {
+              "etiqueta": "CON PRONTO PAGO",
+              "valor": 100,
+              "color": "#F2B134",
+              "en": 0.4,
+              "dur": 0.05,
+              "dec": false,
+              "prefijo": "",
+              "sufijo": " €"
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: RDL 6/2015, art. 94 (BOE)"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 7.46,
+      "fin": 11.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "20 DÍAS NATURALES",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DESDE EL DÍA SIGUIENTE A LA NOTIFICACIÓN",
+          "y": 440,
+          "en": 0.43999999999999995,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillasM",
+          "y": 700,
+          "ini": 0.6,
+          "dur": 2.8
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "También vale pagar en el acto de la denuncia"
+          ],
+          "en": 0.6,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 11.34,
+      "fin": 14.82,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PAGAR = RENUNCIAR A ALEGAR",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PAGAR: 100 € Y SE CIERRA",
+          "y": 560,
+          "en": 0.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ALEGAR: SIN DESCUENTO",
+          "y": 760,
+          "en": 0.8,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 14.82,
+      "fin": 20.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SI PAGAS, TUS ALEGACIONES NO CUENTAN",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.3
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SOLO CABE RECURSO CONTENCIOSO-ADMINISTRATIVO",
+          "y": 330,
+          "en": 3.4,
+          "tamano": 64
+        },
+        {
+          "tipo": "docM",
+          "y": 700,
+          "cae": 1.5
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: art. 94 b) y d)"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 20.58,
+      "fin": 25.05,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SI NO PAGAS: COBRO POR HACIENDA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "+20 % MÁXIMO",
+          "y": 520,
+          "en": 2.2399999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO",
+          "y": 620,
+          "en": 0.05,
+          "tamano": 64,
+          "color": "#14213D"
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 240,
+          "base": 1100,
+          "hMax": 400,
+          "w": 200,
+          "tamEtiqueta": 44,
+          "vivo": true,
+          "centros": [
+            270,
+            620
+          ],
+          "barras": [
+            {
+              "etiqueta": "MULTA",
+              "valor": 200,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": false,
+              "prefijo": "",
+              "sufijo": " €"
+            },
+            {
+              "etiqueta": "CON RECARGO",
+              "valor": 240,
+              "color": "#F2B134",
+              "en": 2.44,
+              "dur": 0.05,
+              "dec": false,
+              "prefijo": "hasta ",
+              "sufijo": " € (+20 %)",
+              "tamValor": 40
+            }
+          ],
+          "tamValor": 44
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: DGT; LGT art. 28"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 25.05,
+      "fin": 31.79,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿PAGAR CON DESCUENTO O ALEGAR?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ],
+  "id": "084-multa-dgt-pronto-pago",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Multa",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "t": "de",
+      "inicio": 0.44,
+      "fin": 0.48
+    },
+    {
+      "t": "doscientos",
+      "inicio": 0.56,
+      "fin": 1.12
+    },
+    {
+      "t": "euros.",
+      "inicio": 1.28,
+      "fin": 1.84
+    },
+    {
+      "t": "Pagas",
+      "inicio": 2,
+      "fin": 2.24
+    },
+    {
+      "t": "en",
+      "inicio": 2.28,
+      "fin": 2.32
+    },
+    {
+      "t": "veinte",
+      "inicio": 2.4,
+      "fin": 2.56
+    },
+    {
+      "t": "días,",
+      "inicio": 2.72,
+      "fin": 3.2
+    },
+    {
+      "t": "son",
+      "inicio": 3.28,
+      "fin": 3.44
+    },
+    {
+      "t": "cien.",
+      "inicio": 3.52,
+      "fin": 4.16
+    },
+    {
+      "t": "La",
+      "inicio": 4.24,
+      "fin": 4.28
+    },
+    {
+      "t": "ley",
+      "inicio": 4.32,
+      "fin": 4.4
+    },
+    {
+      "t": "de",
+      "inicio": 4.48,
+      "fin": 4.56
+    },
+    {
+      "t": "tráfico",
+      "inicio": 4.64,
+      "fin": 5.04
+    },
+    {
+      "t": "da",
+      "inicio": 5.12,
+      "fin": 5.2
+    },
+    {
+      "t": "un",
+      "inicio": 5.28,
+      "fin": 5.36
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 5.4,
+      "fin": 5.84
+    },
+    {
+      "t": "por",
+      "inicio": 6,
+      "fin": 6.08
+    },
+    {
+      "t": "ciento",
+      "inicio": 6.16,
+      "fin": 6.4
+    },
+    {
+      "t": "de",
+      "inicio": 6.48,
+      "fin": 6.56
+    },
+    {
+      "t": "descuento.",
+      "inicio": 6.68,
+      "fin": 7.44
+    },
+    {
+      "t": "Son",
+      "inicio": 7.56,
+      "fin": 7.68
+    },
+    {
+      "t": "veinte",
+      "inicio": 7.76,
+      "fin": 8
+    },
+    {
+      "t": "días",
+      "inicio": 8.08,
+      "fin": 8.32
+    },
+    {
+      "t": "naturales,",
+      "inicio": 8.4,
+      "fin": 9.12
+    },
+    {
+      "t": "desde",
+      "inicio": 9.2,
+      "fin": 9.36
+    },
+    {
+      "t": "el",
+      "inicio": 9.4,
+      "fin": 9.44
+    },
+    {
+      "t": "día",
+      "inicio": 9.52,
+      "fin": 9.6
+    },
+    {
+      "t": "siguiente",
+      "inicio": 9.68,
+      "fin": 10.08
+    },
+    {
+      "t": "a",
+      "inicio": 10.12,
+      "fin": 10.16
+    },
+    {
+      "t": "la",
+      "inicio": 10.2,
+      "fin": 10.24
+    },
+    {
+      "t": "notificación.",
+      "inicio": 10.32,
+      "fin": 11.24
+    },
+    {
+      "t": "Pero",
+      "inicio": 11.44,
+      "fin": 11.6
+    },
+    {
+      "t": "pagar",
+      "inicio": 11.68,
+      "fin": 11.92
+    },
+    {
+      "t": "tiene",
+      "inicio": 12.08,
+      "fin": 12.32
+    },
+    {
+      "t": "condición:",
+      "inicio": 12.44,
+      "fin": 13.2
+    },
+    {
+      "t": "renuncias",
+      "inicio": 13.28,
+      "fin": 13.92
+    },
+    {
+      "t": "a",
+      "inicio": 13.96,
+      "fin": 14
+    },
+    {
+      "t": "alegar.",
+      "inicio": 14.12,
+      "fin": 14.88
+    },
+    {
+      "t": "Si",
+      "inicio": 14.92,
+      "fin": 14.96
+    },
+    {
+      "t": "presentas",
+      "inicio": 15.04,
+      "fin": 15.44
+    },
+    {
+      "t": "alegaciones,",
+      "inicio": 15.52,
+      "fin": 16.24
+    },
+    {
+      "t": "se",
+      "inicio": 16.32,
+      "fin": 16.4
+    },
+    {
+      "t": "tienen",
+      "inicio": 16.48,
+      "fin": 16.8
+    },
+    {
+      "t": "por",
+      "inicio": 16.88,
+      "fin": 16.96
+    },
+    {
+      "t": "no",
+      "inicio": 17.04,
+      "fin": 17.12
+    },
+    {
+      "t": "presentadas.",
+      "inicio": 17.2,
+      "fin": 18.24
+    },
+    {
+      "t": "Solo",
+      "inicio": 18.32,
+      "fin": 18.4
+    },
+    {
+      "t": "queda",
+      "inicio": 18.48,
+      "fin": 18.72
+    },
+    {
+      "t": "recurrir",
+      "inicio": 18.8,
+      "fin": 19.2
+    },
+    {
+      "t": "ante",
+      "inicio": 19.32,
+      "fin": 19.44
+    },
+    {
+      "t": "los",
+      "inicio": 19.52,
+      "fin": 19.6
+    },
+    {
+      "t": "tribunales.",
+      "inicio": 19.68,
+      "fin": 20.64
+    },
+    {
+      "t": "Si",
+      "inicio": 20.68,
+      "fin": 20.72
+    },
+    {
+      "t": "no",
+      "inicio": 20.8,
+      "fin": 20.88
+    },
+    {
+      "t": "pagas,",
+      "inicio": 20.96,
+      "fin": 21.52
+    },
+    {
+      "t": "Tributaria",
+      "inicio": 21.6,
+      "fin": 22.08
+    },
+    {
+      "t": "la",
+      "inicio": 22.16,
+      "fin": 22.24
+    },
+    {
+      "t": "cobra",
+      "inicio": 22.32,
+      "fin": 22.56
+    },
+    {
+      "t": "con",
+      "inicio": 22.64,
+      "fin": 22.8
+    },
+    {
+      "t": "recargo",
+      "inicio": 22.92,
+      "fin": 23.2
+    },
+    {
+      "t": "de",
+      "inicio": 23.28,
+      "fin": 23.36
+    },
+    {
+      "t": "hasta",
+      "inicio": 23.44,
+      "fin": 23.6
+    },
+    {
+      "t": "el",
+      "inicio": 23.68,
+      "fin": 23.76
+    },
+    {
+      "t": "veinte",
+      "inicio": 23.8,
+      "fin": 24
+    },
+    {
+      "t": "por",
+      "inicio": 24.08,
+      "fin": 24.24
+    },
+    {
+      "t": "ciento.",
+      "inicio": 24.32,
+      "fin": 25.12
+    },
+    {
+      "t": "¿Pagarías",
+      "inicio": 25.147,
+      "fin": 25.6
+    },
+    {
+      "t": "con",
+      "inicio": 25.64,
+      "fin": 25.68
+    },
+    {
+      "t": "descuento",
+      "inicio": 25.76,
+      "fin": 26.32
+    },
+    {
+      "t": "o",
+      "inicio": 26.48,
+      "fin": 26.56
+    },
+    {
+      "t": "alegarías?",
+      "inicio": 26.64,
+      "fin": 27.68
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 27.707,
+      "fin": 28.16
+    },
+    {
+      "t": "para",
+      "inicio": 28.24,
+      "fin": 28.4
+    },
+    {
+      "t": "estar",
+      "inicio": 28.52,
+      "fin": 28.64
+    },
+    {
+      "t": "informado.",
+      "inicio": 28.8,
+      "fin": 29.44
+    }
+  ]
+}

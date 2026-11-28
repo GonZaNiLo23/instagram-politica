@@ -1,0 +1,327 @@
+{
+  "plantilla": "flash",
+  "duracion": 31.79,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "wallpaper.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "gancho",
+            "texto": "200 € → 100 €: 20 DÍAS",
+            "y": 340,
+            "tamano": 104,
+            "en": -1
+          },
+          {
+            "tipo": "rotulo",
+            "texto": "EJEMPLO",
+            "y": 620,
+            "en": -1,
+            "tamano": 64,
+            "color": "#14213D"
+          },
+          {
+            "tipo": "sobreM",
+            "y": 950,
+            "en": -1,
+            "parte": -1
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 4.14,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "gancho",
+          "texto": "MULTA DE 200 € → 100 €",
+          "y": 320,
+          "tamano": 104,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO",
+          "y": 600,
+          "en": -1,
+          "tamano": 64,
+          "color": "#14213D"
+        },
+        {
+          "tipo": "sobreM",
+          "y": 930,
+          "en": -1,
+          "parte": 3.1799999999999997
+        }
+      ]
+    },
+    {
+      "inicio": 4.14,
+      "fin": 7.46,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "−50 % SI PAGAS A TIEMPO",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO",
+          "y": 520,
+          "en": 0.05,
+          "tamano": 64,
+          "color": "#14213D"
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 240,
+          "base": 1100,
+          "hMax": 400,
+          "w": 200,
+          "tamEtiqueta": 44,
+          "vivo": true,
+          "centros": [
+            290,
+            740
+          ],
+          "barras": [
+            {
+              "etiqueta": "SIN PRONTO PAGO",
+              "valor": 200,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": false,
+              "prefijo": "",
+              "sufijo": " €"
+            },
+            {
+              "etiqueta": "CON PRONTO PAGO",
+              "valor": 100,
+              "color": "#F2B134",
+              "en": 0.4,
+              "dur": 0.05,
+              "dec": false,
+              "prefijo": "",
+              "sufijo": " €"
+            }
+          ]
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: RDL 6/2015, art. 94 (BOE)"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 7.46,
+      "fin": 11.34,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "20 DÍAS NATURALES",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "DESDE EL DÍA SIGUIENTE A LA NOTIFICACIÓN",
+          "y": 440,
+          "en": 0.43999999999999995,
+          "tamano": 64
+        },
+        {
+          "tipo": "casillasM",
+          "y": 700,
+          "ini": 0.6,
+          "dur": 2.8
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "También vale pagar en el acto de la denuncia"
+          ],
+          "en": 0.6,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 11.34,
+      "fin": 14.82,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "PAGAR = RENUNCIAR A ALEGAR",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "PAGAR: 100 € Y SE CIERRA",
+          "y": 560,
+          "en": 0.3,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "ALEGAR: SIN DESCUENTO",
+          "y": 760,
+          "en": 0.8,
+          "tamano": 64
+        }
+      ]
+    },
+    {
+      "inicio": 14.82,
+      "fin": 20.58,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SI PAGAS, TUS ALEGACIONES NO CUENTAN",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.3
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "SOLO CABE RECURSO CONTENCIOSO-ADMINISTRATIVO",
+          "y": 330,
+          "en": 3.4,
+          "tamano": 64
+        },
+        {
+          "tipo": "docM",
+          "y": 700,
+          "cae": 1.5
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: art. 94 b) y d)"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 20.58,
+      "fin": 25.05,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "rotulo",
+          "texto": "SI NO PAGAS: COBRO POR HACIENDA",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "+20 % MÁXIMO",
+          "y": 520,
+          "en": 2.2399999999999998,
+          "tamano": 64
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "EJEMPLO",
+          "y": 620,
+          "en": 0.05,
+          "tamano": 64,
+          "color": "#14213D"
+        },
+        {
+          "tipo": "barrasVSerie",
+          "max": 240,
+          "base": 1100,
+          "hMax": 400,
+          "w": 200,
+          "tamEtiqueta": 44,
+          "vivo": true,
+          "centros": [
+            270,
+            620
+          ],
+          "barras": [
+            {
+              "etiqueta": "MULTA",
+              "valor": 200,
+              "color": "#14213D",
+              "en": -1,
+              "dur": 0.05,
+              "dec": false,
+              "prefijo": "",
+              "sufijo": " €"
+            },
+            {
+              "etiqueta": "CON RECARGO",
+              "valor": 240,
+              "color": "#F2B134",
+              "en": 2.44,
+              "dur": 0.05,
+              "dec": false,
+              "prefijo": "hasta ",
+              "sufijo": " € (+20 %)",
+              "tamValor": 40
+            }
+          ],
+          "tamValor": 44
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Fuente: DGT; LGT art. 28"
+          ],
+          "en": 0.3,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 25.05,
+      "fin": 31.79,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "cierre",
+          "frase": "¿PAGAR CON DESCUENTO O ALEGAR?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,768 @@
+{
+  "plantilla": "flash",
+  "duracion": 34.84,
+  "portadaSegundo": 1.5,
+  "marca": "@loquepasaenunminuto",
+  "subSinHuerfanas": true,
+  "subDy": 45,
+  "musica": {
+    "pista": "investigations.mp3",
+    "volumen": -16
+  },
+  "portada": {
+    "escenas": [
+      {
+        "inicio": 0,
+        "fin": 3,
+        "fondo": "crema",
+        "sinMarca": true,
+        "componentes": [
+          {
+            "tipo": "ejemploP"
+          },
+          {
+            "tipo": "gancho",
+            "texto": "400.000 €: HACIENDA RETIENE 72.000 €",
+            "y": 340,
+            "tamano": 96,
+            "en": -1
+          },
+          {
+            "tipo": "barraGordo",
+            "y": 900,
+            "segs": [
+              {
+                "v": 328000,
+                "et": "Cobras",
+                "color": "#2A9D8F"
+              },
+              {
+                "v": 72000,
+                "et": "Retención del 20 %|sobre el exceso",
+                "color": "#F2B134"
+              }
+            ],
+            "partir": -1,
+            "en": -1,
+            "vivo": false
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": [
+    {
+      "inicio": 0,
+      "fin": 5.5,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "gancho",
+          "texto": "400.000 € EN UN DÉCIMO",
+          "y": 330,
+          "tamano": 112,
+          "en": -1
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "RETENCIÓN: 72.000 €",
+          "y": 640,
+          "en": 3.62,
+          "tamano": 64
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Por décimo, un solo titular"
+          ],
+          "en": 1,
+          "tamano": 40
+        },
+        {
+          "tipo": "barraGordo",
+          "y": 760,
+          "segs": [
+            {
+              "v": 328000,
+              "et": "Cobras",
+              "color": "#2A9D8F"
+            },
+            {
+              "v": 72000,
+              "et": "Retención del 20 %|sobre el exceso",
+              "color": "#F2B134"
+            }
+          ],
+          "entera": "400.000 €",
+          "partir": 3.62,
+          "en": -1
+        }
+      ]
+    },
+    {
+      "inicio": 5.5,
+      "fin": 11.74,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Exento: hasta 40.000 € por décimo",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.27
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "El exceso tributa al 20 %",
+          "y": 330,
+          "en": 3.52,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraGordo",
+          "y": 680,
+          "titulo": "Premio íntegro: 400.000 €",
+          "segs": [
+            {
+              "v": 40000,
+              "et": "Exento",
+              "color": "#2A9D8F"
+            },
+            {
+              "v": 360000,
+              "et": "Sujeto al 20 %",
+              "color": "#8D99AE"
+            }
+          ],
+          "entera": "400.000 €",
+          "partir": 0.8,
+          "en": 0.1
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Gravamen especial · Ley 35/2006, DA 33.ª",
+            "Por cada décimo, fracción o cupón"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 11.74,
+      "fin": 18.38,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "360.000 € × 20 % = 72.000 €",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64,
+          "hasta": 3.9499999999999997
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "400.000 € − 72.000 € = 328.000 €",
+          "y": 330,
+          "en": 4.2,
+          "tamano": 64
+        },
+        {
+          "tipo": "barraGordo",
+          "y": 700,
+          "titulo": "Premio íntegro: 400.000 €",
+          "segs": [
+            {
+              "v": 40000,
+              "et": "Exento",
+              "color": "#2A9D8F"
+            },
+            {
+              "v": 360000,
+              "et": "Sujeto al 20 %",
+              "color": "#8D99AE"
+            }
+          ],
+          "partir": -1,
+          "en": -1,
+          "hasta": 4.1
+        },
+        {
+          "tipo": "barraGordo",
+          "y": 700,
+          "titulo": "Premio íntegro: 400.000 €",
+          "segs": [
+            {
+              "v": 328000,
+              "et": "Cobras",
+              "color": "#2A9D8F"
+            },
+            {
+              "v": 72000,
+              "et": "Retención del 20 %|sobre el exceso",
+              "color": "#F2B134"
+            }
+          ],
+          "entera": "400.000 €",
+          "partir": 4.7,
+          "en": 4.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Cálculo propio con la norma"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 18.38,
+      "fin": 22.38,
+      "fondo": "crema",
+      "fuente": "Ley 35/2006, disp. adic. 33.ª (BOE) · Agencia Tributaria · Cálculo propio",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Retiene: Loterías y Apuestas del Estado (SELAE)",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "flujoGordo",
+          "y": 520,
+          "cobras": "328.000 €",
+          "retencion": "72.000 €",
+          "en": 0.3
+        },
+        {
+          "tipo": "selloTexto",
+          "lineas": [
+            "Contribuyentes del IRPF"
+          ],
+          "y": 1010,
+          "en": 1,
+          "desde": 40,
+          "x": 540,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 22.38,
+      "fin": 27.1,
+      "fondo": "crema",
+      "componentes": [
+        {
+          "tipo": "ejemploP"
+        },
+        {
+          "tipo": "rotulo",
+          "texto": "Décimo compartido: los 40.000 € se prorratean",
+          "y": 330,
+          "en": 0.05,
+          "tamano": 64
+        },
+        {
+          "tipo": "compartidoGordo",
+          "y": 600,
+          "en": 0.3,
+          "parte": 1.2
+        },
+        {
+          "tipo": "notas",
+          "lineas": [
+            "Ej.: 2 titulares al 50 % → 20.000 € exentos cada uno"
+          ],
+          "en": 0.4,
+          "tamano": 40
+        }
+      ]
+    },
+    {
+      "inicio": 27.1,
+      "fin": 34.84,
+      "fondo": "mostaza",
+      "sinSubtitulos": true,
+      "componentes": [
+        {
+          "tipo": "ejemploG",
+          "y": 350
+        },
+        {
+          "tipo": "cierre",
+          "frase": "¿72.000 € DE 400.000 €: MUCHO O POCO?",
+          "cta": "siguenos",
+          "tamano": 76,
+          "pulso": true,
+          "yFrase": 420
+        },
+        {
+          "tipo": "abSerie",
+          "a": "Mucho",
+          "b": "Poco",
+          "y": 800,
+          "en": 0.6
+        }
+      ]
+    }
+  ],
+  "id": "083-gordo-hacienda",
+  "audio": "voz.mp3",
+  "provisional": false,
+  "avisoProvisional": false,
+  "palabras": [
+    {
+      "t": "Imagina",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "t": "cuatrocientos",
+      "inicio": 0.56,
+      "fin": 1.36
+    },
+    {
+      "t": "mil",
+      "inicio": 1.44,
+      "fin": 1.6
+    },
+    {
+      "t": "euros",
+      "inicio": 1.68,
+      "fin": 1.92
+    },
+    {
+      "t": "en",
+      "inicio": 2,
+      "fin": 2.08
+    },
+    {
+      "t": "un",
+      "inicio": 2.12,
+      "fin": 2.16
+    },
+    {
+      "t": "décimo.",
+      "inicio": 2.24,
+      "fin": 2.92
+    },
+    {
+      "t": "Hacienda",
+      "inicio": 3.12,
+      "fin": 3.6
+    },
+    {
+      "t": "retiene",
+      "inicio": 3.72,
+      "fin": 4
+    },
+    {
+      "t": "setenta",
+      "inicio": 4.16,
+      "fin": 4.56
+    },
+    {
+      "t": "y",
+      "inicio": 4.64,
+      "fin": 4.68
+    },
+    {
+      "t": "dos",
+      "inicio": 4.72,
+      "fin": 4.8
+    },
+    {
+      "t": "mil.",
+      "inicio": 4.96,
+      "fin": 5.52
+    },
+    {
+      "t": "Los",
+      "inicio": 5.6,
+      "fin": 5.68
+    },
+    {
+      "t": "primeros",
+      "inicio": 5.76,
+      "fin": 6.08
+    },
+    {
+      "t": "cuarenta",
+      "inicio": 6.16,
+      "fin": 6.44
+    },
+    {
+      "t": "mil",
+      "inicio": 6.48,
+      "fin": 6.64
+    },
+    {
+      "t": "euros",
+      "inicio": 6.72,
+      "fin": 6.96
+    },
+    {
+      "t": "de",
+      "inicio": 7.04,
+      "fin": 7.12
+    },
+    {
+      "t": "cada",
+      "inicio": 7.173,
+      "fin": 7.28
+    },
+    {
+      "t": "décimo",
+      "inicio": 7.36,
+      "fin": 7.76
+    },
+    {
+      "t": "quedan",
+      "inicio": 7.84,
+      "fin": 8.08
+    },
+    {
+      "t": "exentos.",
+      "inicio": 8.16,
+      "fin": 8.8
+    },
+    {
+      "t": "Solo",
+      "inicio": 9.12,
+      "fin": 9.36
+    },
+    {
+      "t": "el",
+      "inicio": 9.4,
+      "fin": 9.44
+    },
+    {
+      "t": "exceso",
+      "inicio": 9.52,
+      "fin": 10
+    },
+    {
+      "t": "paga",
+      "inicio": 10.08,
+      "fin": 10.32
+    },
+    {
+      "t": "un",
+      "inicio": 10.4,
+      "fin": 10.48
+    },
+    {
+      "t": "veinte",
+      "inicio": 10.52,
+      "fin": 10.72
+    },
+    {
+      "t": "por",
+      "inicio": 10.88,
+      "fin": 10.96
+    },
+    {
+      "t": "ciento.",
+      "inicio": 11.04,
+      "fin": 11.76
+    },
+    {
+      "t": "Trescientos",
+      "inicio": 11.84,
+      "fin": 12.4
+    },
+    {
+      "t": "sesenta",
+      "inicio": 12.48,
+      "fin": 12.72
+    },
+    {
+      "t": "mil,",
+      "inicio": 12.8,
+      "fin": 13.2
+    },
+    {
+      "t": "al",
+      "inicio": 13.28,
+      "fin": 13.36
+    },
+    {
+      "t": "veinte",
+      "inicio": 13.4,
+      "fin": 13.6
+    },
+    {
+      "t": "por",
+      "inicio": 13.68,
+      "fin": 13.76
+    },
+    {
+      "t": "ciento,",
+      "inicio": 13.84,
+      "fin": 14.24
+    },
+    {
+      "t": "son",
+      "inicio": 14.32,
+      "fin": 14.48
+    },
+    {
+      "t": "setenta",
+      "inicio": 14.64,
+      "fin": 15.04
+    },
+    {
+      "t": "y",
+      "inicio": 15.12,
+      "fin": 15.16
+    },
+    {
+      "t": "dos",
+      "inicio": 15.2,
+      "fin": 15.28
+    },
+    {
+      "t": "mil.",
+      "inicio": 15.44,
+      "fin": 16
+    },
+    {
+      "t": "Te",
+      "inicio": 16.04,
+      "fin": 16.08
+    },
+    {
+      "t": "quedan",
+      "inicio": 16.16,
+      "fin": 16.4
+    },
+    {
+      "t": "trescientos",
+      "inicio": 16.48,
+      "fin": 17.2
+    },
+    {
+      "t": "veintiocho",
+      "inicio": 17.24,
+      "fin": 17.76
+    },
+    {
+      "t": "mil.",
+      "inicio": 17.84,
+      "fin": 18.4
+    },
+    {
+      "t": "La",
+      "inicio": 18.48,
+      "fin": 18.56
+    },
+    {
+      "t": "retención",
+      "inicio": 18.64,
+      "fin": 19.12
+    },
+    {
+      "t": "la",
+      "inicio": 19.16,
+      "fin": 19.2
+    },
+    {
+      "t": "practica",
+      "inicio": 19.28,
+      "fin": 19.68
+    },
+    {
+      "t": "Loterías",
+      "inicio": 19.72,
+      "fin": 20.24
+    },
+    {
+      "t": "y",
+      "inicio": 20.28,
+      "fin": 20.32
+    },
+    {
+      "t": "Apuestas",
+      "inicio": 20.4,
+      "fin": 20.72
+    },
+    {
+      "t": "del",
+      "inicio": 20.8,
+      "fin": 20.88
+    },
+    {
+      "t": "Estado",
+      "inicio": 20.96,
+      "fin": 21.28
+    },
+    {
+      "t": "al",
+      "inicio": 21.36,
+      "fin": 21.44
+    },
+    {
+      "t": "pagarte.",
+      "inicio": 21.52,
+      "fin": 22.4
+    },
+    {
+      "t": "Si",
+      "inicio": 22.48,
+      "fin": 22.56
+    },
+    {
+      "t": "compartes",
+      "inicio": 22.64,
+      "fin": 23.04
+    },
+    {
+      "t": "el",
+      "inicio": 23.08,
+      "fin": 23.12
+    },
+    {
+      "t": "décimo,",
+      "inicio": 23.2,
+      "fin": 23.76
+    },
+    {
+      "t": "la",
+      "inicio": 23.8,
+      "fin": 23.84
+    },
+    {
+      "t": "exención",
+      "inicio": 23.92,
+      "fin": 24.48
+    },
+    {
+      "t": "se",
+      "inicio": 24.56,
+      "fin": 24.64
+    },
+    {
+      "t": "reparte",
+      "inicio": 24.72,
+      "fin": 25.2
+    },
+    {
+      "t": "según",
+      "inicio": 25.28,
+      "fin": 25.52
+    },
+    {
+      "t": "la",
+      "inicio": 25.56,
+      "fin": 25.6
+    },
+    {
+      "t": "cuota",
+      "inicio": 25.76,
+      "fin": 26
+    },
+    {
+      "t": "de",
+      "inicio": 26.08,
+      "fin": 26.16
+    },
+    {
+      "t": "cada",
+      "inicio": 26.213,
+      "fin": 26.32
+    },
+    {
+      "t": "uno.",
+      "inicio": 26.4,
+      "fin": 27.12
+    },
+    {
+      "t": "¿Retener",
+      "inicio": 27.2,
+      "fin": 27.6
+    },
+    {
+      "t": "setenta",
+      "inicio": 27.68,
+      "fin": 28
+    },
+    {
+      "t": "y",
+      "inicio": 28.08,
+      "fin": 28.12
+    },
+    {
+      "t": "dos",
+      "inicio": 28.16,
+      "fin": 28.24
+    },
+    {
+      "t": "mil",
+      "inicio": 28.32,
+      "fin": 28.48
+    },
+    {
+      "t": "te",
+      "inicio": 28.56,
+      "fin": 28.72
+    },
+    {
+      "t": "parece",
+      "inicio": 28.8,
+      "fin": 29.12
+    },
+    {
+      "t": "mucho",
+      "inicio": 29.16,
+      "fin": 29.52
+    },
+    {
+      "t": "o",
+      "inicio": 29.68,
+      "fin": 29.76
+    },
+    {
+      "t": "poco?",
+      "inicio": 29.84,
+      "fin": 30.64
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 30.68,
+      "fin": 31.2
+    },
+    {
+      "t": "para",
+      "inicio": 31.28,
+      "fin": 31.36
+    },
+    {
+      "t": "estar",
+      "inicio": 31.48,
+      "fin": 31.6
+    },
+    {
+      "t": "informado.",
+      "inicio": 31.68,
+      "fin": 32.48
+    }
+  ]
+}

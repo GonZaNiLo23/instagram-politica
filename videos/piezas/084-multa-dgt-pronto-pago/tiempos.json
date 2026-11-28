@@ -1,0 +1,388 @@
+{
+  "palabras": [
+    {
+      "t": "Multa",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "t": "de",
+      "inicio": 0.44,
+      "fin": 0.48
+    },
+    {
+      "t": "doscientos",
+      "inicio": 0.56,
+      "fin": 1.12
+    },
+    {
+      "t": "euros.",
+      "inicio": 1.28,
+      "fin": 1.84
+    },
+    {
+      "t": "Pagas",
+      "inicio": 2,
+      "fin": 2.24
+    },
+    {
+      "t": "en",
+      "inicio": 2.28,
+      "fin": 2.32
+    },
+    {
+      "t": "veinte",
+      "inicio": 2.4,
+      "fin": 2.56
+    },
+    {
+      "t": "días,",
+      "inicio": 2.72,
+      "fin": 3.2
+    },
+    {
+      "t": "son",
+      "inicio": 3.28,
+      "fin": 3.44
+    },
+    {
+      "t": "cien.",
+      "inicio": 3.52,
+      "fin": 4.16
+    },
+    {
+      "t": "La",
+      "inicio": 4.24,
+      "fin": 4.28
+    },
+    {
+      "t": "ley",
+      "inicio": 4.32,
+      "fin": 4.4
+    },
+    {
+      "t": "de",
+      "inicio": 4.48,
+      "fin": 4.56
+    },
+    {
+      "t": "tráfico",
+      "inicio": 4.64,
+      "fin": 5.04
+    },
+    {
+      "t": "da",
+      "inicio": 5.12,
+      "fin": 5.2
+    },
+    {
+      "t": "un",
+      "inicio": 5.28,
+      "fin": 5.36
+    },
+    {
+      "t": "cincuenta",
+      "inicio": 5.4,
+      "fin": 5.84
+    },
+    {
+      "t": "por",
+      "inicio": 6,
+      "fin": 6.08
+    },
+    {
+      "t": "ciento",
+      "inicio": 6.16,
+      "fin": 6.4
+    },
+    {
+      "t": "de",
+      "inicio": 6.48,
+      "fin": 6.56
+    },
+    {
+      "t": "descuento.",
+      "inicio": 6.68,
+      "fin": 7.44
+    },
+    {
+      "t": "Son",
+      "inicio": 7.56,
+      "fin": 7.68
+    },
+    {
+      "t": "veinte",
+      "inicio": 7.76,
+      "fin": 8
+    },
+    {
+      "t": "días",
+      "inicio": 8.08,
+      "fin": 8.32
+    },
+    {
+      "t": "naturales,",
+      "inicio": 8.4,
+      "fin": 9.12
+    },
+    {
+      "t": "desde",
+      "inicio": 9.2,
+      "fin": 9.36
+    },
+    {
+      "t": "el",
+      "inicio": 9.4,
+      "fin": 9.44
+    },
+    {
+      "t": "día",
+      "inicio": 9.52,
+      "fin": 9.6
+    },
+    {
+      "t": "siguiente",
+      "inicio": 9.68,
+      "fin": 10.08
+    },
+    {
+      "t": "a",
+      "inicio": 10.12,
+      "fin": 10.16
+    },
+    {
+      "t": "la",
+      "inicio": 10.2,
+      "fin": 10.24
+    },
+    {
+      "t": "notificación.",
+      "inicio": 10.32,
+      "fin": 11.24
+    },
+    {
+      "t": "Pero",
+      "inicio": 11.44,
+      "fin": 11.6
+    },
+    {
+      "t": "pagar",
+      "inicio": 11.68,
+      "fin": 11.92
+    },
+    {
+      "t": "tiene",
+      "inicio": 12.08,
+      "fin": 12.32
+    },
+    {
+      "t": "condición:",
+      "inicio": 12.44,
+      "fin": 13.2
+    },
+    {
+      "t": "renuncias",
+      "inicio": 13.28,
+      "fin": 13.92
+    },
+    {
+      "t": "a",
+      "inicio": 13.96,
+      "fin": 14
+    },
+    {
+      "t": "alegar.",
+      "inicio": 14.12,
+      "fin": 14.88
+    },
+    {
+      "t": "Si",
+      "inicio": 14.92,
+      "fin": 14.96
+    },
+    {
+      "t": "presentas",
+      "inicio": 15.04,
+      "fin": 15.44
+    },
+    {
+      "t": "alegaciones,",
+      "inicio": 15.52,
+      "fin": 16.24
+    },
+    {
+      "t": "se",
+      "inicio": 16.32,
+      "fin": 16.4
+    },
+    {
+      "t": "tienen",
+      "inicio": 16.48,
+      "fin": 16.8
+    },
+    {
+      "t": "por",
+      "inicio": 16.88,
+      "fin": 16.96
+    },
+    {
+      "t": "no",
+      "inicio": 17.04,
+      "fin": 17.12
+    },
+    {
+      "t": "presentadas.",
+      "inicio": 17.2,
+      "fin": 18.24
+    },
+    {
+      "t": "Solo",
+      "inicio": 18.32,
+      "fin": 18.4
+    },
+    {
+      "t": "queda",
+      "inicio": 18.48,
+      "fin": 18.72
+    },
+    {
+      "t": "recurrir",
+      "inicio": 18.8,
+      "fin": 19.2
+    },
+    {
+      "t": "ante",
+      "inicio": 19.32,
+      "fin": 19.44
+    },
+    {
+      "t": "los",
+      "inicio": 19.52,
+      "fin": 19.6
+    },
+    {
+      "t": "tribunales.",
+      "inicio": 19.68,
+      "fin": 20.64
+    },
+    {
+      "t": "Si",
+      "inicio": 20.68,
+      "fin": 20.72
+    },
+    {
+      "t": "no",
+      "inicio": 20.8,
+      "fin": 20.88
+    },
+    {
+      "t": "pagas,",
+      "inicio": 20.96,
+      "fin": 21.52
+    },
+    {
+      "t": "Tributaria",
+      "inicio": 21.6,
+      "fin": 22.08
+    },
+    {
+      "t": "la",
+      "inicio": 22.16,
+      "fin": 22.24
+    },
+    {
+      "t": "cobra",
+      "inicio": 22.32,
+      "fin": 22.56
+    },
+    {
+      "t": "con",
+      "inicio": 22.64,
+      "fin": 22.8
+    },
+    {
+      "t": "recargo",
+      "inicio": 22.92,
+      "fin": 23.2
+    },
+    {
+      "t": "de",
+      "inicio": 23.28,
+      "fin": 23.36
+    },
+    {
+      "t": "hasta",
+      "inicio": 23.44,
+      "fin": 23.6
+    },
+    {
+      "t": "el",
+      "inicio": 23.68,
+      "fin": 23.76
+    },
+    {
+      "t": "veinte",
+      "inicio": 23.8,
+      "fin": 24
+    },
+    {
+      "t": "por",
+      "inicio": 24.08,
+      "fin": 24.24
+    },
+    {
+      "t": "ciento.",
+      "inicio": 24.32,
+      "fin": 25.12
+    },
+    {
+      "t": "¿Pagarías",
+      "inicio": 25.147,
+      "fin": 25.6
+    },
+    {
+      "t": "con",
+      "inicio": 25.64,
+      "fin": 25.68
+    },
+    {
+      "t": "descuento",
+      "inicio": 25.76,
+      "fin": 26.32
+    },
+    {
+      "t": "o",
+      "inicio": 26.48,
+      "fin": 26.56
+    },
+    {
+      "t": "alegarías?",
+      "inicio": 26.64,
+      "fin": 27.68
+    },
+    {
+      "t": "Síguenos",
+      "inicio": 27.707,
+      "fin": 28.16
+    },
+    {
+      "t": "para",
+      "inicio": 28.24,
+      "fin": 28.4
+    },
+    {
+      "t": "estar",
+      "inicio": 28.52,
+      "fin": 28.64
+    },
+    {
+      "t": "informado.",
+      "inicio": 28.8,
+      "fin": 29.44
+    }
+  ],
+  "duracion": 29.387755,
+  "provisional": false,
+  "motor": "elevenlabs",
+  "voz": "7xK0jqLEWCrIBJ8ymBJi"
+}
