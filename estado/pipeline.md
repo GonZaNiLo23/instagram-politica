@@ -175,3 +175,4 @@ Lo mantiene el coordinador. Una fila por pieza.
 **2026-11-27 (produccion.yml):** 28-11 cubierto (081 12:00, 082 19:00). Próximo número libre: 083. Informe en estado/informe-produccion-2026-11-27-nube.md.
 | 083a | am20261127-0930-alvise-macrocarcel | 🔴 Actualidad · Al minuto | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-27 10:00 | sin revisores |
 | 083b | am20261127-1730-abascal-vivienda | 🔴 Actualidad · Al minuto | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-27 18:00 | sin revisores |
+**2026-11-28 (rutina claude.ai):** sin red (curl 000). 28-11 cubierto (081, 082); 29-11 (12:00, 19:00) para produccion.yml (candidato: lotería, propuestas 27-11 tema 3; nada electoral el día de votación). Próximo número libre: 083. Informe en estado/informe-produccion-2026-11-28.md.
