@@ -441,3 +441,4 @@
 - 2026-11-27 19:30 UTC (publicación 20:00 Madrid): sin publicación (sin candidatos con frases; 2 detectados: @alviseperez 3676 s sin audio procesable, @vox_es mitin Valencia sin voz)
 - 2026-11-28 07:30 UTC (publicación 08:00 Madrid) · 1 · @vox_es ("Broche de oro histórico", 94,2 s) · descartado: sin voz ni frases (habla: false), montaje de cierre de campaña sin medida concreta; viral 319
 - 2026-11-28 09:30 UTC (publicación 10:00 Madrid): sin publicación (sin candidatos; el radar no detectó ninguno)
+- 2026-11-28 11:30 UTC (publicación 12:00 Madrid): sin publicación (sin candidatos; el radar no detectó ninguno)
