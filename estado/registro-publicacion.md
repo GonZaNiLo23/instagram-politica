@@ -216,3 +216,5 @@
 - 2026-11-27T18:00:50.462Z · 080-iva-anual-autonomos: TikTok en la bandeja de borradores (falta publicarlo desde la app)
 - 2026-11-27T18:01:26.253Z · am20261127-1730-abascal-vivienda v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgQRmfOh8rU/
 - 2026-11-27T18:01:29.341Z · am20261127-1730-abascal-vivienda: TikTok en la bandeja de borradores (falta publicarlo desde la app)
+- 2026-11-28T11:00:45.953Z · 081-devolucion-14-dias v1: PUBLICADA en Instagram https://www.instagram.com/reel/DgSGQG_BfXy/
+- 2026-11-28T11:00:47.698Z · 081-devolucion-14-dias: TikTok ERROR:     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
