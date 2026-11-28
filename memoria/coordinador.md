@@ -85,3 +85,4 @@
 - 2026-11-27 (2.ª pasada nube): hoy y mañana ya cubiertos; comprobar cola + programado-hoy primero evita todo el flujo.
 - [nube, 2026-11-28] Rutina claude.ai: red igual (curl 000). Informe y salida en ~3 min, sin subagentes. Huecos del 29-11 para produccion.yml.
 - 2026-11-28 produccion.yml: 2 piezas en ~1 h; pedir desde el encargo que el gancho muestre el dato clave en ≤1 s (083 v1 CAMBIOS por gancho estático).
+- 2026-11-28: si la cola ya cubre hoy y mañana, basta leer cola+programado-hoy y salir (2 llamadas).
