@@ -26,9 +26,9 @@ const SEG_EXE = [{v: 40000, et: 'Exento', color: '#2A9D8F'}, {v: 360000, et: 'Su
 esc(0, b1, {fondo: 'crema'}, [
   EJ,
   {tipo: 'gancho', texto: `400.000${NB}€ EN UN${NB}DÉCIMO`, y: 330, tamano: 112, en: -1},
-  rot(`RETENCIÓN:${NB}72.000${NB}€`, 640, rel(0, 8) - 0.1),
+  rot(`RETENCIÓN:${NB}72.000${NB}€`, 640, 0.9),
   nota(['Por décimo, un solo titular'], 1.0),
-  {tipo: 'barraGordo', y: 760, segs: SEG_RET, entera: '400.000 €', partir: rel(0, 8) - 0.1, en: -1},
+  {tipo: 'barraGordo', y: 760, segs: SEG_RET, entera: '400.000 €', partir: 1.0, en: -1},
 ]);
 // 2 · Primera prueba
 esc(b1, b2, {fondo: 'crema'}, [
@@ -52,7 +52,7 @@ esc(b3, b4, {fondo: 'crema', fuente: 'Ley 35/2006, disp. adic. 33.ª (BOE) · Ag
   EJ,
   rot(`Retiene: Loterías y Apuestas del Estado (SELAE)`, 330, 0.05),
   {tipo: 'flujoGordo', y: 520, cobras: '328.000 €', retencion: '72.000 €', en: 0.3},
-  {tipo: 'selloTexto', lineas: ['Contribuyentes del IRPF'], y: 1010, en: 1.0, desde: 40, x: 540, tamano: 40},
+  {tipo: 'selloTexto', lineas: ['Contribuyentes del IRPF'], y: 1035, en: 1.0, desde: 40, x: 480, tamano: 40},
 ]);
 // 4 · Giro
 esc(b4, b5, {fondo: 'crema'}, [

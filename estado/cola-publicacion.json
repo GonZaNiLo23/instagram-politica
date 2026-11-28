@@ -1224,5 +1224,12 @@
     "hora": "2026-11-29T12:00:00+01:00",
     "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/084-multa-dgt-pronto-pago-v1.md APROBADO (cambios aplicados) · revisiones/videos/084-multa-dgt-pronto-pago-v1.md APROBADO test 9/10",
     "estado": "pendiente"
+  },
+  {
+    "pieza": "083-gordo-hacienda",
+    "version": "v2",
+    "hora": "2026-11-29T19:00:00+01:00",
+    "aprobacion": "permanente (CLAUDE.md 2026-10-26): revisiones/guiones/083-gordo-hacienda-v1.md APROBADO · revisiones/videos/083-gordo-hacienda-v2.md APROBADO test 9/10",
+    "estado": "pendiente"
   }
 ]

@@ -177,3 +177,5 @@ Lo mantiene el coordinador. Una fila por pieza.
 | 083b | am20261127-1730-abascal-vivienda | 🔴 Actualidad · Al minuto | Al minuto | publicando (Al minuto horario) | - | - | 2026-11-27 18:00 | sin revisores |
 **2026-11-28 (rutina claude.ai):** sin red (curl 000). 28-11 cubierto (081, 082); 29-11 (12:00, 19:00) para produccion.yml (candidato: lotería, propuestas 27-11 tema 3; nada electoral el día de votación). Próximo número libre: 083. Informe en estado/informe-produccion-2026-11-28.md.
 | 084 | multa-dgt-pronto-pago | ⚙️ Cómo funciona · Bolsillo | Flash | programado | 1 | 1 | 2026-11-29 12:00 (cola) | v1 APROBADO 9/10 |
+| 083 | gordo-hacienda | 💡 Curiosidad · Bolsillo | Flash | programado | 1 | 2 | 2026-11-29 19:00 (cola) | v2 APROBADO 9/10 |
+**2026-11-28 (produccion.yml):** 29-11 cubierto (084 12:00, 083 19:00). Próximo número libre: 085. Informe en estado/informe-produccion-2026-11-28-nube.md.

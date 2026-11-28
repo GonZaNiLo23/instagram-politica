@@ -84,3 +84,4 @@
 - 2026-11-27 produccion.yml: 2 piezas ~55 min; 082 (mapa con 9 etiquetas) costó 3 vueltas de vídeo: pedir desde el encargo etiquetas/contadores completos y copiar el guion a aprobados/ antes de comprobar.mjs; el revisor-guion puso literales claros y los aplicó el guionista por SendMessage.
 - 2026-11-27 (2.ª pasada nube): hoy y mañana ya cubiertos; comprobar cola + programado-hoy primero evita todo el flujo.
 - [nube, 2026-11-28] Rutina claude.ai: red igual (curl 000). Informe y salida en ~3 min, sin subagentes. Huecos del 29-11 para produccion.yml.
+- 2026-11-28 produccion.yml: 2 piezas en ~1 h; pedir desde el encargo que el gancho muestre el dato clave en ≤1 s (083 v1 CAMBIOS por gancho estático).
