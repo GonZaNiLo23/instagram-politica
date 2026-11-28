@@ -440,3 +440,4 @@
 - 2026-11-27 17:30 UTC · 2 · @vox_es (spot dramatizado sobre mujeres, 70,4 s) · descartado: escena actuada, atribuye a una victoria de Sánchez un escenario sin prueba, un envío por hora; viral 129,3
 - 2026-11-27 19:30 UTC (publicación 20:00 Madrid): sin publicación (sin candidatos con frases; 2 detectados: @alviseperez 3676 s sin audio procesable, @vox_es mitin Valencia sin voz)
 - 2026-11-28 07:30 UTC (publicación 08:00 Madrid) · 1 · @vox_es ("Broche de oro histórico", 94,2 s) · descartado: sin voz ni frases (habla: false), montaje de cierre de campaña sin medida concreta; viral 319
+- 2026-11-28 09:30 UTC (publicación 10:00 Madrid): sin publicación (sin candidatos; el radar no detectó ninguno)
